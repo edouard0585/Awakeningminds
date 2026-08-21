@@ -1,2 +1,2 @@
-# mindexplorer
+# Awakening Minds
 MEdication application
