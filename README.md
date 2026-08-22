@@ -1,2 +1,0 @@
-# Awakening Minds
-MEdication application
