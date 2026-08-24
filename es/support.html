@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Soporte — Awakening Minds</title>
+  <style>
+    :root { --bg:#0A0A14; --card:#151525; --ink:#F5E6C8; --ink-soft:rgba(245,230,200,0.72); --gold:#D4AF6A; --line:rgba(255,255,255,0.08); }
+    * { box-sizing:border-box; margin:0; padding:0; }
+    body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif; background:var(--bg); color:var(--ink); line-height:1.65; min-height:100vh; }
+    .wrap { max-width:720px; margin:0 auto; padding:48px 24px; }
+    .back { color:var(--gold); text-decoration:none; font-size:14px; }
+    .back:hover { text-decoration:underline; }
+    .langs { margin-top:10px; font-size:13px; color:var(--ink-soft); letter-spacing:1px; }
+    .langs a { color:var(--gold); text-decoration:none; }
+    .langs a:hover { text-decoration:underline; }
+    .langs strong { color:var(--ink); }
+    h1 { font-family:Georgia,serif; font-size:36px; color:var(--gold); font-weight:400; margin:24px 0 6px; letter-spacing:0.5px; }
+    h2 { font-family:Georgia,serif; font-size:22px; font-weight:400; margin:36px 0 12px; color:var(--ink); }
+    .lead { color:var(--ink-soft); font-size:15px; font-style:italic; margin-bottom:32px; }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:24px; margin:16px 0; }
+    .card p { margin-bottom:8px; }
+    .card a { color:var(--gold); text-decoration:none; font-weight:600; }
+    .card a:hover { text-decoration:underline; }
+    label { display:block; color:var(--ink-soft); font-size:13px; margin:12px 0 6px; letter-spacing:1px; text-transform:uppercase; }
+    input, textarea { width:100%; background:rgba(0,0,0,0.35); border:1px solid var(--line); border-radius:10px; padding:12px 14px; color:var(--ink); font-family:inherit; font-size:15px; }
+    input:focus, textarea:focus { outline:2px solid var(--gold); border-color:var(--gold); }
+    textarea { min-height:140px; resize:vertical; }
+    .btn { display:inline-block; margin-top:16px; padding:12px 24px; background:var(--gold); color:var(--bg); border:none; border-radius:10px; font-weight:700; font-size:14px; letter-spacing:1.2px; text-transform:uppercase; text-decoration:none; cursor:pointer; }
+    .btn:hover { filter:brightness(1.08); }
+    .faq { margin:24px 0; }
+    .faq details { padding:14px 18px; background:rgba(212,175,106,0.05); border-left:3px solid var(--gold); border-radius:8px; margin-bottom:10px; }
+    .faq summary { cursor:pointer; font-weight:600; color:var(--ink); }
+    .faq p { color:var(--ink-soft); margin-top:8px; font-size:14px; }
+    footer { margin-top:48px; padding-top:24px; border-top:1px solid var(--line); color:var(--ink-soft); font-size:12px; text-align:center; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <a href="./" class="back">← Inicio</a>
+    <p class="langs"><a href="../en/support.html">EN</a> · <a href="../fr/support.html">FR</a> · <strong>ES</strong></p>
+    <h1>Soporte</h1>
+    <p class="lead">Personas reales leen cada mensaje. Respuesta en un plazo de 3 días laborables.</p>
+
+    <h2>Escríbenos por email</h2>
+    <div class="card">
+      <p>Contáctanos para cualquier pregunta, error o sugerencia:</p>
+      <p><a href="mailto:direction@conseilweb.fr?subject=Awakening%20Minds%20—%20Support">direction@conseilweb.fr</a></p>
+      <p style="color:var(--ink-soft); font-size:13px; margin-top:12px;">Indícanos el modelo de tu dispositivo, la versión de iOS/Android y una breve descripción de lo ocurrido. Las capturas de pantalla ayudan.</p>
+    </div>
+
+    <h2>O rellena este formulario</h2>
+    <div class="card">
+      <form action="https://formsubmit.co/direction@conseilweb.fr" method="POST" enctype="multipart/form-data">
+        <input type="hidden" name="_subject" value="Awakening Minds — formulario de soporte (ES)">
+        <input type="hidden" name="_captcha" value="true">
+        <input type="hidden" name="_template" value="table">
+        <label for="email">Tu email</label>
+        <input type="email" id="email" name="email" required autocomplete="email">
+        <label for="topic">Asunto</label>
+        <input type="text" id="topic" name="topic" placeholder="p. ej. Error durante una meditación" required>
+        <label for="message">Mensaje</label>
+        <textarea id="message" name="message" placeholder="Cuéntanos qué pasó…" required></textarea>
+        <button type="submit" class="btn">Enviar mensaje</button>
+      </form>
+    </div>
+
+    <h2>Preguntas frecuentes</h2>
+    <div class="faq">
+      <details>
+        <summary>¿Awakening Minds es realmente gratis?</summary>
+        <p>Sí — 100 % gratis, sin anuncios, sin suscripción, sin cuentas. Cada meditación y cada mundo se desbloquean con tu práctica.</p>
+      </details>
+      <details>
+        <summary>¿Cómo descargo meditaciones para usarlas sin conexión?</summary>
+        <p>Abre cualquier meditación y toca «Descargar sin conexión» — todos los segmentos de audio se guardan en tu dispositivo para reproducirlos sin red.</p>
+      </details>
+      <details>
+        <summary>¿Cómo borro mis datos?</summary>
+        <p>Simplemente desinstala la aplicación — todos los datos se guardan localmente en tu dispositivo. No hay ninguna cuenta que cerrar.</p>
+      </details>
+      <details>
+        <summary>¿Es un consejo médico?</summary>
+        <p>No. Las sesiones están pensadas para la relajación, la exploración interior y el bienestar. No constituyen consejo, diagnóstico ni tratamiento médico, y no sustituyen el acompañamiento de un profesional cualificado.</p>
+      </details>
+    </div>
+
+    <footer>© Awakening Minds · <a href="./support.html">Soporte</a> · <a href="./privacy.html">Privacidad</a> · <a href="./terms.html">Condiciones</a></footer>
+  </div>
+</body>
+</html>
