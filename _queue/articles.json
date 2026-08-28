@@ -34,6 +34,104 @@
   }
  },
  {
+  "id": "dormir",
+  "sections": [
+   "dormir"
+  ],
+  "image": 4,
+  "hero": null,
+  "slug": {
+   "fr": "meditation-pour-dormir",
+   "en": "guided-sleep-meditation",
+   "es": "meditacion-para-dormir"
+  },
+  "title": {
+   "fr": "Méditation pour dormir : t’endormir plus facilement",
+   "en": "Guided sleep meditation: fall asleep more easily",
+   "es": "Meditación para dormir: concilia el sueño más fácil"
+  },
+  "desc": {
+   "fr": "Pourquoi le sommeil fuit quand on le poursuit, la posture du soir, la respiration 4-7-8 et comment une méditation guidée pour dormir agit vraiment.",
+   "en": "Why sleep runs away when you chase it, the evening posture, 4-7-8 breathing, and how a guided sleep meditation actually works.",
+   "es": "Por qué el sueño huye cuando lo persigues, la postura nocturna, la respiración 4-7-8 y cómo actúa de verdad una meditación guiada para dormir."
+  },
+  "intro": {
+   "fr": "Une méditation pour dormir ne cherche pas à t'endormir de force : elle occupe doucement l'esprit jusqu'à ce qu'il lâche prise tout seul. Posture allongée, respiration 4-7-8, scan corporel du soir, réveil de 3 h du matin : voici comment t'endormir plus facilement, ce soir.",
+   "en": "A sleep meditation doesn't force you to sleep: it gently occupies the mind until it lets go on its own. Lying posture, 4-7-8 breathing, the evening body scan, the 3 a.m. wake-up: here's how to fall asleep more easily, starting tonight.",
+   "es": "Una meditación para dormir no te fuerza a dormir: ocupa suavemente la mente hasta que suelta por sí sola. Postura tumbada, respiración 4-7-8, escaneo corporal nocturno, el despertar de las 3: así puedes dormirte más fácil, esta misma noche."
+  },
+  "kw": {
+   "fr": "méditation pour dormir, méditation guidée pour dormir, s'endormir facilement, respiration 4-7-8 sommeil, scan corporel du soir, sommeil profond",
+   "en": "guided sleep meditation, meditation for sleep, fall asleep faster, 4-7-8 breathing sleep, evening body scan, deep sleep",
+   "es": "meditación para dormir, meditación guiada para dormir, conciliar el sueño, respiración 4-7-8 para dormir, escaneo corporal nocturno, sueño profundo"
+  },
+  "faq": {
+   "fr": [
+    [
+     "Peut-on s'endormir pendant une méditation guidée ?",
+     "Le soir, c'est même le but : les méditations pour dormir sont écrites pour être quittées en route. Choisis une séance qui se termine en silence, et laisse la voix continuer sans toi."
+    ],
+    [
+     "Combien de temps avant l'effet ?",
+     "La détente du corps vient dès la première séance ; l'endormissement plus rapide s'installe en général en une à deux semaines de pratique régulière, à la même heure chaque soir."
+    ],
+    [
+     "Écouteurs ou haut-parleur ?",
+     "Les deux marchent. Le haut-parleur à faible volume évite d'avoir à retirer les écouteurs quand le sommeil vient ; un seul écouteur est un bon compromis si tu partages la chambre."
+    ]
+   ],
+   "en": [
+    [
+     "Is it okay to fall asleep during a guided meditation?",
+     "At night, that's the whole point: sleep meditations are written to be left mid-way. Pick a session that ends in silence, and let the voice carry on without you."
+    ],
+    [
+     "How long before it works?",
+     "The body relaxes from the very first session; falling asleep faster usually settles in after one or two weeks of regular practice, at the same time each night."
+    ],
+    [
+     "Earphones or speaker?",
+     "Both work. A speaker at low volume saves you from removing earphones as sleep arrives; a single earphone is a good compromise if you share the room."
+    ]
+   ],
+   "es": [
+    [
+     "¿Puedo dormirme durante una meditación guiada?",
+     "Por la noche, ese es justamente el objetivo: las meditaciones para dormir están escritas para abandonarlas a mitad. Elige una sesión que termine en silencio y deja que la voz siga sin ti."
+    ],
+    [
+     "¿Cuánto tarda en notarse?",
+     "El cuerpo se relaja desde la primera sesión; dormirse más rápido suele asentarse tras una o dos semanas de práctica regular, a la misma hora cada noche."
+    ],
+    [
+     "¿Auriculares o altavoz?",
+     "Ambos funcionan. El altavoz a bajo volumen evita quitarse los auriculares cuando llega el sueño; un solo auricular es un buen término medio si compartes habitación."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Ne poursuis pas le sommeil : prépare les conditions et laisse-le venir.",
+    "Allongé (savasana) : la seule méditation où s'endormir est un succès.",
+    "Le 4-7-8 avant la séance ; l'expiration longue fait le travail.",
+    "À 3 h du matin : pas d'écran, pas d'heure — reviens au corps."
+   ],
+   "en": [
+    "Don't chase sleep: prepare the conditions and let it come.",
+    "Lying down (savasana): the one meditation where falling asleep is success.",
+    "4-7-8 before the session; the long exhale does the work.",
+    "At 3 a.m.: no screen, no clock — return to the body."
+   ],
+   "es": [
+    "No persigas el sueño: prepara las condiciones y deja que llegue.",
+    "Tumbado (savasana): la única meditación donde dormirse es un éxito.",
+    "La 4-7-8 antes de la sesión; la exhalación larga hace el trabajo.",
+    "A las 3 de la mañana: ni pantalla ni hora — vuelve al cuerpo."
+   ]
+  },
+  "published": "2026-08-28"
+ },
+ {
   "id": "posture",
   "sections": [
    "posture"
@@ -323,6 +421,104 @@
    "en": "can't stop thinking meditation, dealing with thoughts, mindfulness, meditation obstacles",
    "es": "no puedo dejar de pensar, gestionar pensamientos, atención plena, obstáculos meditación"
   }
+ },
+ {
+  "id": "cinqminutes",
+  "sections": [
+   "cinqminutes"
+  ],
+  "image": 6,
+  "hero": null,
+  "slug": {
+   "fr": "meditation-5-minutes",
+   "en": "5-minute-meditation",
+   "es": "meditacion-de-5-minutos"
+  },
+  "title": {
+   "fr": "La méditation de 5 minutes : courte, mais réelle",
+   "en": "The 5-minute meditation: short, but real",
+   "es": "La meditación de 5 minutos: corta, pero real"
+  },
+  "desc": {
+   "fr": "Cohérence cardiaque, scan express, ancrage 5-4-3-2-1 : trois méditations de 5 minutes qui marchent, et où les placer dans la journée.",
+   "en": "Coherent breathing, express body scan, 5-4-3-2-1 grounding: three 5-minute meditations that work, and where to place them in your day.",
+   "es": "Respiración coherente, escaneo exprés, anclaje 5-4-3-2-1: tres meditaciones de 5 minutos que funcionan, y dónde colocarlas en tu día."
+  },
+  "intro": {
+   "fr": "Pas le temps de méditer ? Cinq minutes suffisent — pas comme version au rabais, mais comme un outil à part entière : la pause courte interrompt l'emballement de la journée et construit l'habitude. Trois formats express, et les meilleurs moments pour les placer.",
+   "en": "No time to meditate? Five minutes is enough — not as a cut-rate version, but as a tool in its own right: the short pause interrupts a runaway day and builds the habit. Three express formats, and the best moments to place them.",
+   "es": "¿Sin tiempo para meditar? Cinco minutos bastan — no como versión rebajada, sino como herramienta propia: la pausa corta interrumpe un día desbocado y construye el hábito. Tres formatos exprés, y los mejores momentos para colocarlos."
+  },
+  "kw": {
+   "fr": "méditation 5 minutes, méditation courte, cohérence cardiaque, pause méditation travail, méditation rapide",
+   "en": "5 minute meditation, short meditation, coherent breathing, quick meditation break, meditation at work",
+   "es": "meditación 5 minutos, meditación corta, respiración coherente, pausa de meditación, meditación rápida"
+  },
+  "faq": {
+   "fr": [
+    [
+     "Cinq minutes par jour, ça change quoi ?",
+     "Tenues chaque jour, elles installent le réflexe de revenir au calme — et c'est ce réflexe, plus que la durée, qui change les journées. Beaucoup allongent naturellement leurs séances au bout de quelques semaines."
+    ],
+    [
+     "Mieux vaut 5 minutes le matin ou le soir ?",
+     "Le moment que tu peux tenir. Le matin protège la séance des imprévus ; les transitions (avant une réunion, en rentrant) donnent l'effet le plus immédiat."
+    ],
+    [
+     "Faut-il un endroit calme ?",
+     "C'est plus confortable, pas indispensable : l'ancrage 5-4-3-2-1 et la cohérence cardiaque se pratiquent dans un train ou un open space, les yeux ouverts si besoin."
+    ]
+   ],
+   "en": [
+    [
+     "What can five minutes a day really change?",
+     "Kept daily, they install the reflex of returning to calm — and that reflex, more than duration, is what changes your days. Many people naturally lengthen their sessions after a few weeks."
+    ],
+    [
+     "Morning or evening for a 5-minute session?",
+     "Whichever you can keep. Morning protects the session from surprises; transitions (before a meeting, arriving home) give the most immediate effect."
+    ],
+    [
+     "Do I need somewhere quiet?",
+     "It's more comfortable, not essential: 5-4-3-2-1 grounding and coherent breathing work on a train or in an open office, eyes open if needed."
+    ]
+   ],
+   "es": [
+    [
+     "¿Qué cambian de verdad cinco minutos al día?",
+     "Mantenidos a diario, instalan el reflejo de volver a la calma — y ese reflejo, más que la duración, es lo que cambia los días. Mucha gente alarga sus sesiones de forma natural tras unas semanas."
+    ],
+    [
+     "¿Mejor cinco minutos por la mañana o por la noche?",
+     "El momento que puedas mantener. La mañana protege la sesión de los imprevistos; las transiciones (antes de una reunión, al llegar a casa) dan el efecto más inmediato."
+    ],
+    [
+     "¿Necesito un lugar tranquilo?",
+     "Es más cómodo, no imprescindible: el anclaje 5-4-3-2-1 y la respiración coherente funcionan en un tren o en una oficina abierta, con los ojos abiertos si hace falta."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "5 minutes chaque jour battent 20 minutes « un jour ».",
+    "Cohérence cardiaque : 6 respirations par minute, 5 minutes.",
+    "Les transitions de la journée sont les meilleurs créneaux.",
+    "La pause courte interrompt ; la séance longue creuse."
+   ],
+   "en": [
+    "5 minutes every day beat 20 minutes 'someday'.",
+    "Coherent breathing: 6 breaths per minute, 5 minutes.",
+    "The day's transitions are the best slots.",
+    "The short pause interrupts; the long session digs."
+   ],
+   "es": [
+    "5 minutos cada día vencen a 20 minutos «algún día».",
+    "Respiración coherente: 6 respiraciones por minuto, 5 minutos.",
+    "Las transiciones del día son los mejores huecos.",
+    "La pausa corta interrumpe; la sesión larga profundiza."
+   ]
+  },
+  "published": null
  },
  {
   "id": "programme",

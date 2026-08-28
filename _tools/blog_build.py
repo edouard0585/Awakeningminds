@@ -51,13 +51,14 @@ TOC_LABEL = {'fr': 'Dans cet article', 'en': 'In this article', 'es': 'En este a
 # Maillage interne thématique : liens contextuels entre articles (ancres = titres).
 RELATED = {
  'intro': ['posture', 'respiration', 'programme'], 'posture': ['respiration', 'intro', 'techniques'],
- 'respiration': ['posture', 'pensees', 'techniques'], 'pensees': ['respiration', 'techniques', 'quotidien'],
- 'programme': ['intro', 'posture', 'quotidien'], 'techniques': ['pensees', 'programme', 'science'],
- 'quotidien': ['programme', 'pensees', 'interactives'], 'science': ['techniques', 'respiration', 'histoire'],
+ 'respiration': ['dormir', 'posture', 'pensees'], 'pensees': ['respiration', 'techniques', 'quotidien'],
+ 'programme': ['intro', 'cinqminutes', 'quotidien'], 'techniques': ['pensees', 'programme', 'science'],
+ 'quotidien': ['cinqminutes', 'programme', 'dormir'], 'science': ['techniques', 'respiration', 'histoire'],
  'histoire': ['science', 'emc', 'symboles'], 'emc': ['histoire', 'astral', 'chakras'],
- 'chakras': ['emc', 'techniques', 'symboles'], 'reve': ['emc', 'symboles', 'quotidien'],
+ 'chakras': ['emc', 'techniques', 'symboles'], 'reve': ['dormir', 'emc', 'symboles'],
  'ombre': ['pensees', 'techniques', 'symboles'], 'symboles': ['ombre', 'reve', 'histoire'],
  'astral': ['emc', 'reve', 'chakras'], 'interactives': ['intro', 'quotidien', 'techniques'],
+ 'dormir': ['respiration', 'reve', 'quotidien'], 'cinqminutes': ['quotidien', 'respiration', 'intro'],
 }
 MONTHS = {
  'fr': ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'],
@@ -85,6 +86,9 @@ header .lg{margin-left:auto;display:flex;gap:8px}
 header .lg a{font-size:13px;border:1px solid var(--line);border-radius:99px;padding:4px 10px;color:var(--muted)}
 header .lg a.on{color:var(--gold);border-color:var(--gold)}
 main{padding:40px 0 20px}
+.crumbs{font-family:'Avenir Next',sans-serif;font-size:13px;color:var(--dim);display:flex;gap:8px;margin-bottom:14px}
+.crumbs a{color:var(--dim);text-decoration:none}
+.crumbs a:hover{color:var(--gold)}
 h1{font-size:clamp(32px,5vw,46px);line-height:1.12;font-weight:500;color:#fff7e8;margin-bottom:14px}
 .meta{color:var(--dim);font-size:14px;margin-bottom:30px}
 .lead{font-size:20px;color:var(--muted);margin-bottom:26px}
@@ -221,6 +225,7 @@ def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_a
 <meta name="twitter:card" content="summary_large_image">
 {extra_ld}
 <link rel="icon" href="{BASE}/assets/brand/app-icon.png">
+<link rel="alternate" type="application/rss+xml" title="Awakening Minds" href="{BASE}/{lang}/blog/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
 <style>{CSS}</style></head><body>"""
 
@@ -263,7 +268,8 @@ def render_article(a, lang, arts):
     img_alt = HERO_ALTS.get((a.get('image'), lang), a['title'][lang]) if a.get('image') is not None else a['title'][lang]
     h = head(lang, a['title'][lang], a['desc'][lang], path_of, path_of(lang), img, ld_tag, kw=art_kw, img_alt=img_alt)
     h += header_html(lang, lambda x: f'../../{x}/blog/{a["slug"][x]}.html')
-    h += f'<main class="wrap"><article><h1>{E(a["title"][lang])}</h1>'
+    h += (f'<main class="wrap"><article><nav class="crumbs"><a href="../">Awakening Minds</a>'
+          f'<span>›</span><a href="./">{E(T[lang]["blog"])}</a></nav><h1>{E(a["title"][lang])}</h1>')
     h += f'<div class="meta">{E(t["published_on"])} {E(fmt_date(a["published"], lang))} · {mins} {E(t["read"])}</div>'
     h += f'<p class="lead">{E(a["desc"][lang])}</p>'
     if a.get('intro'):
@@ -360,6 +366,23 @@ def _scan_hero_alts():
                 if key and key not in HERO_ALTS:
                     HERO_ALTS[key] = m.group(2)
 
+def render_feed(lang, arts):
+    t = T[lang]
+    pub = [a for a in arts if a.get('published')]
+    items = ''
+    for a in reversed(pub):
+        link = f'{BASE}/{lang}/blog/{a["slug"][lang]}.html'
+        items += (f'<item><title>{E(a["title"][lang])}</title><link>{link}</link>'
+                  f'<guid isPermaLink="true">{link}</guid>'
+                  f'<pubDate>{a["published"]}T07:00:00Z</pubDate>'
+                  f'<description>{E(a["desc"][lang])}</description></item>')
+    return ('<?xml version="1.0" encoding="UTF-8"?>'
+            '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>'
+            f'<title>{E(t["idx_seo"])}</title><link>{BASE}/{lang}/blog/</link>'
+            f'<description>{E(t["idx_desc"])}</description><language>{lang}</language>'
+            f'<atom:link href="{BASE}/{lang}/blog/feed.xml" rel="self" type="application/rss+xml"/>'
+            + items + '</channel></rss>')
+
 def build():
     global SCHEMA_FILES
     SCHEMA_FILES = {int(k): v for k, v in _load_schema_files().items()}
@@ -368,6 +391,7 @@ def build():
     for lang in LANGS:
         os.makedirs(f'{ROOT}/{lang}/blog', exist_ok=True)
         open(f'{ROOT}/{lang}/blog/index.html', 'w', encoding='utf-8').write(render_index(lang, arts))
+        open(f'{ROOT}/{lang}/blog/feed.xml', 'w', encoding='utf-8').write(render_feed(lang, arts))
         for a in arts:
             if a.get('published'):
                 open(f'{ROOT}/{lang}/blog/{a["slug"][lang]}.html', 'w', encoding='utf-8').write(render_article(a, lang, arts))
