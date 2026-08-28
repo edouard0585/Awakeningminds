@@ -54,6 +54,70 @@
    "fr": "La posture de méditation n'exige ni souplesse ni lotus : sur une chaise, en tailleur, à genoux ou allongé, l'essentiel tient en sept points simples. Voici comment t'installer pour méditer confortablement, sans douleur, dès ta première séance guidée.",
    "en": "A meditation posture requires neither flexibility nor the lotus: on a chair, cross-legged, kneeling or lying down, it all comes down to seven simple points. Here's how to sit comfortably and meditate without pain, from your very first guided session.",
    "es": "La postura de meditación no exige flexibilidad ni la flor de loto: en una silla, con las piernas cruzadas, de rodillas o tumbado, todo cabe en siete puntos sencillos. Así puedes sentarte cómodo y meditar sin dolor desde tu primera sesión guiada."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Faut-il méditer en lotus ?",
+     "Non. Le lotus n'a rien d'obligatoire : une chaise donne exactement la même qualité de méditation. Le seul critère est de tenir la position sans douleur pendant toute la séance, dos droit et corps relâché."
+    ],
+    [
+     "Peut-on méditer allongé ?",
+     "Oui — surtout pour le scan corporel, la relaxation profonde et la méditation pour dormir. Le risque est de s'endormir : si ce n'est pas le but, garde un avant-bras levé ou choisis une position assise."
+    ],
+    [
+     "Que faire si j'ai mal au dos pendant la méditation ?",
+     "Commence sur une chaise, pieds bien à plat, assis vers l'avant de l'assise pour laisser la colonne se tenir seule. Si une douleur vive apparaît, change de position sans hésiter : une bonne posture de méditation reste confortable."
+    ]
+   ],
+   "en": [
+    [
+     "Do I need the lotus position to meditate?",
+     "No. The lotus is not required: a chair gives exactly the same quality of meditation. The only test is holding the position without pain for the whole session, back straight and body relaxed."
+    ],
+    [
+     "Can you meditate lying down?",
+     "Yes — especially for the body scan, deep relaxation and meditation for sleep. The risk is falling asleep: if that isn't the goal, keep a forearm raised or choose a seated position."
+    ],
+    [
+     "What if my back hurts while meditating?",
+     "Start on a chair, feet flat, sitting toward the front edge so the spine holds itself. If sharp pain appears, change position without hesitation: a good meditation posture stays comfortable."
+    ]
+   ],
+   "es": [
+    [
+     "¿Hay que meditar en la posición del loto?",
+     "No. El loto no es obligatorio: una silla da exactamente la misma calidad de meditación. El único criterio es mantener la posición sin dolor durante toda la sesión, con la espalda erguida y el cuerpo suelto."
+    ],
+    [
+     "¿Se puede meditar tumbado?",
+     "Sí — sobre todo para el escaneo corporal, la relajación profunda y la meditación para dormir. El riesgo es dormirse: si no es el objetivo, mantén un antebrazo levantado o elige una posición sentada."
+    ],
+    [
+     "¿Qué hago si me duele la espalda al meditar?",
+     "Empieza en una silla, con los pies planos, sentado hacia el borde delantero para que la columna se sostenga sola. Si aparece un dolor agudo, cambia de posición sin dudar: una buena postura de meditación sigue siendo cómoda."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Les 7 points valent pour toutes les positions : chaise, tailleur, seiza ou allongé.",
+    "La chaise est la meilleure position de méditation pour débuter.",
+    "Digne et détendu : le dos se redresse, tout le reste se relâche.",
+    "La douleur n'est jamais un progrès — change de position."
+   ],
+   "en": [
+    "The 7 points apply to every position: chair, cross-legged, seiza or lying down.",
+    "A chair is the best meditation position for beginners.",
+    "Dignified and relaxed: the back rises, everything else softens.",
+    "Pain is never progress — change position."
+   ],
+   "es": [
+    "Los 7 puntos valen para todas las posiciones: silla, piernas cruzadas, seiza o tumbado.",
+    "La silla es la mejor posición de meditación para empezar.",
+    "Digno y relajado: la espalda se yergue, todo lo demás se suelta.",
+    "El dolor nunca es progreso — cambia de posición."
+   ]
   }
  },
  {
@@ -73,15 +137,79 @@
    "es": "4 técnicas de respiración para meditar y calmarte"
   },
   "desc": {
-   "fr": "Respiration abdominale, cohérence cardiaque, respiration carrée, 4-7-8 : quand utiliser chacune, avec schémas et précautions.",
-   "en": "Belly breathing, coherent breathing, box breathing and 4-7-8: when to use each one, with diagrams and precautions.",
-   "es": "Respiración abdominal, coherente, cuadrada y 4-7-8: cuándo usar cada una, con esquemas y precauciones."
+   "fr": "Respiration abdominale, cohérence cardiaque, respiration carrée, 4-7-8 : les 4 techniques de respiration de la méditation, avec schémas et précautions.",
+   "en": "Belly breathing, coherent breathing, box breathing and 4-7-8: the 4 breathing techniques of meditation, when to use each, with diagrams and precautions.",
+   "es": "Respiración abdominal, coherente, cuadrada y 4-7-8: las 4 técnicas de respiración de la meditación, cuándo usar cada una, con esquemas y precauciones."
   },
   "published": null,
   "intro": {
    "fr": "La respiration est l'outil le plus direct pour calmer le corps et l'esprit : toujours disponible, gratuite, efficace en quelques minutes. Respiration abdominale, cohérence cardiaque, respiration carrée, 4-7-8 : quatre techniques à connaître pour s'apaiser, se concentrer ou s'endormir.",
    "en": "Your breath is the most direct tool for calming body and mind: always available, free, and working within minutes. Belly breathing, coherent breathing, box breathing and 4-7-8 — four breathing techniques worth knowing, whether you want to relax, focus or fall asleep.",
    "es": "La respiración es la herramienta más directa para calmar el cuerpo y la mente: siempre disponible, gratis y eficaz en pocos minutos. Respiración abdominal, coherente, cuadrada y 4-7-8: cuatro técnicas de respiración que conviene conocer para relajarte, concentrarte o dormir."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Quelle respiration pour s'endormir ?",
+     "Le 4-7-8 : son expiration longue ralentit naturellement le rythme. Pratique-la allongé, dans le noir, puis enchaîne avec une méditation guidée pour dormir — le duo le plus efficace pour un sommeil profond."
+    ],
+    [
+     "Combien de temps pratiquer la cohérence cardiaque ?",
+     "Cinq minutes suffisent : six respirations par minute, idéalement trois fois par jour. C'est l'exercice de respiration guidée le plus simple à installer au quotidien."
+    ],
+    [
+     "La respiration carrée, c'est pour qui ?",
+     "Pour retrouver la concentration avant un moment exigeant : ses quatre phases égales occupent l'esprit entièrement. Évite en revanche les rétentions en cas de grossesse ou de difficultés cardiaques ou respiratoires."
+    ]
+   ],
+   "en": [
+    [
+     "Which breathing helps you fall asleep?",
+     "The 4-7-8: its long exhale naturally slows your rhythm. Practice it lying down in the dark, then follow with a guided sleep meditation — the most effective pairing for deep sleep."
+    ],
+    [
+     "How long should I practice coherent breathing?",
+     "Five minutes is enough: six breaths per minute, ideally three times a day. It's the simplest guided breathing exercise to build into daily life."
+    ],
+    [
+     "Who is box breathing for?",
+     "For regaining focus before a demanding moment: its four equal phases occupy the mind completely. Avoid breath retention, however, during pregnancy or with heart or breathing difficulties."
+    ]
+   ],
+   "es": [
+    [
+     "¿Qué respiración ayuda a dormir?",
+     "La 4-7-8: su exhalación larga ralentiza el ritmo de forma natural. Practícala tumbado, a oscuras, y sigue con una meditación guiada para dormir — la pareja más eficaz para un sueño profundo."
+    ],
+    [
+     "¿Cuánto tiempo practicar la respiración coherente?",
+     "Cinco minutos bastan: seis respiraciones por minuto, idealmente tres veces al día. Es el ejercicio de respiración guiada más fácil de incorporar al día a día."
+    ],
+    [
+     "¿Para quién es la respiración cuadrada?",
+     "Para recuperar la concentración antes de un momento exigente: sus cuatro fases iguales ocupan la mente por completo. Evita las retenciones durante el embarazo o con dificultades cardíacas o respiratorias."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "La respiration abdominale est la base de toutes les autres.",
+    "Cohérence cardiaque : 5 minutes, 6 respirations par minute, 3 fois par jour.",
+    "Le 4-7-8 prépare le sommeil ; la respiration carrée, la concentration.",
+    "En cas de vertige, retour immédiat à une respiration naturelle."
+   ],
+   "en": [
+    "Belly breathing is the foundation of all the others.",
+    "Coherent breathing: 5 minutes, 6 breaths per minute, 3 times a day.",
+    "4-7-8 prepares sleep; box breathing prepares focus.",
+    "If dizzy, return immediately to natural breathing."
+   ],
+   "es": [
+    "La respiración abdominal es la base de todas las demás.",
+    "Respiración coherente: 5 minutos, 6 respiraciones por minuto, 3 veces al día.",
+    "La 4-7-8 prepara el sueño; la cuadrada, la concentración.",
+    "Si hay mareo, vuelve de inmediato a la respiración natural."
+   ]
   }
  },
  {
@@ -110,6 +238,70 @@
    "fr": "« Je pense trop pour méditer » est l'idée reçue n° 1 chez les débutants. Bonne nouvelle : remarquer que ton esprit s'échappe n'est pas un échec, c'est l'exercice lui-même. Voici le cycle de l'attention, trois outils concrets face aux pensées, et les cinq obstacles classiques de la méditation.",
    "en": "“I think too much to meditate” is the number-one beginner myth. Good news: noticing your mind has wandered isn't failure — it IS the exercise. Here's the attention cycle, three concrete tools for busy thoughts, and the five classic obstacles of meditation.",
    "es": "«Pienso demasiado para meditar» es la idea falsa n.º 1 entre principiantes. Buena noticia: darte cuenta de que tu mente se escapó no es un fracaso — es el ejercicio en sí. Aquí tienes el ciclo de la atención, tres herramientas concretas frente a los pensamientos y los cinco obstáculos clásicos."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Est-ce normal de penser sans arrêt pendant la méditation ?",
+     "Oui, complètement. Un esprit qui produit des pensées est un esprit qui fonctionne. La méditation ne vise pas le vide mental : elle entraîne le retour de l'attention, des dizaines de fois par séance."
+    ],
+    [
+     "La méditation de pleine conscience, c'est quoi exactement ?",
+     "Porter l'attention sur l'instant présent, sans juger ce qui s'y trouve : la respiration, les sons, les pensées qui passent. C'est la base de la plupart des méditations guidées pour débutant."
+    ],
+    [
+     "Que faire quand je m'endors en méditant ?",
+     "Médite les yeux mi-clos, assis plutôt qu'allongé, à un autre moment que le soir. La somnolence est l'un des cinq obstacles classiques — elle diminue avec la régularité."
+    ]
+   ],
+   "en": [
+    [
+     "Is it normal to think nonstop while meditating?",
+     "Yes, completely. A mind that produces thoughts is a mind that works. Meditation doesn't aim at a blank mind: it trains the return of attention, dozens of times per session."
+    ],
+    [
+     "What exactly is mindfulness meditation?",
+     "Resting your attention on the present moment without judging what's there: the breath, the sounds, the passing thoughts. It's the foundation of most guided meditations for beginners."
+    ],
+    [
+     "What if I fall asleep while meditating?",
+     "Meditate with eyes half-open, seated rather than lying down, at another time than late evening. Drowsiness is one of the five classic obstacles — it fades with regularity."
+    ]
+   ],
+   "es": [
+    [
+     "¿Es normal pensar sin parar mientras medito?",
+     "Sí, completamente. Una mente que produce pensamientos es una mente que funciona. La meditación no busca la mente en blanco: entrena el regreso de la atención, decenas de veces por sesión."
+    ],
+    [
+     "¿Qué es exactamente la meditación de atención plena?",
+     "Posar la atención en el momento presente, sin juzgar lo que hay: la respiración, los sonidos, los pensamientos que pasan. Es la base de la mayoría de las meditaciones guiadas para principiantes."
+    ],
+    [
+     "¿Y si me duermo meditando?",
+     "Medita con los ojos entreabiertos, sentado en vez de tumbado, en otro momento que no sea la noche. La somnolencia es uno de los cinco obstáculos clásicos — disminuye con la regularidad."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Remarquer que l'esprit s'est échappé EST la méditation.",
+    "Le moment-clé : l'étape 3 du cycle, le retour de l'attention.",
+    "Nommer, laisser passer, revenir à l'ancrage : trois outils qui suffisent.",
+    "Chaque obstacle — somnolence, agitation, ennui — a sa réponse simple."
+   ],
+   "en": [
+    "Noticing the mind has wandered IS the meditation.",
+    "The key moment: step 3 of the cycle, the return of attention.",
+    "Name it, let it pass, come back to the anchor: three tools that suffice.",
+    "Every obstacle — drowsiness, agitation, boredom — has a simple answer."
+   ],
+   "es": [
+    "Darte cuenta de que la mente se escapó ES la meditación.",
+    "El momento clave: el paso 3 del ciclo, el regreso de la atención.",
+    "Nombrar, dejar pasar, volver al ancla: tres herramientas que bastan.",
+    "Cada obstáculo — somnolencia, agitación, aburrimiento — tiene su respuesta simple."
+   ]
   }
  },
  {
@@ -196,6 +388,70 @@
    "fr": "Le plus dur dans la méditation n'est pas de méditer — c'est de recommencer demain. Pour installer une pratique quotidienne qui dure, tout se joue sur le moment choisi, l'ancrage à une habitude existante et la taille du premier pas. Voici comment méditer tous les jours sans forcer.",
    "en": "The hardest part of meditation isn't meditating — it's coming back tomorrow. Building a daily meditation habit comes down to the moment you choose, the habit you anchor it to, and the size of the first step. Here's how to meditate every day without forcing it.",
    "es": "Lo más difícil de la meditación no es meditar — es volver mañana. Para crear un hábito diario que dure, todo depende del momento elegido, del hábito al que lo unes y del tamaño del primer paso. Así puedes meditar todos los días sin forzarte."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Quel est le meilleur moment pour méditer ?",
+     "Celui que tu peux tenir. Le matin fixe l'habitude avant que la journée déborde ; le soir, une méditation guidée pour dormir prépare un sommeil profond. L'important est la régularité, pas l'horaire."
+    ],
+    [
+     "Combien de temps méditer quand on débute ?",
+     "Cinq minutes suffisent — une méditation courte terminée vaut mieux qu'une longue abandonnée. Les séances de 4 minutes existent précisément pour les jours chargés."
+    ],
+    [
+     "Comment ne pas abandonner la méditation ?",
+     "Accroche-la à une habitude déjà en place (après le café, avant la douche), garde une trace de tes séances, et autorise les jours à deux minutes. C'est la chaîne qui compte, pas la performance."
+    ]
+   ],
+   "en": [
+    [
+     "What's the best time of day to meditate?",
+     "The one you can keep. Morning anchors the habit before the day overflows; in the evening, a guided sleep meditation prepares deep sleep. What matters is regularity, not the hour."
+    ],
+    [
+     "How long should a beginner meditate?",
+     "Five minutes is enough — a short meditation you finish beats a long one you abandon. Four-minute sessions exist precisely for busy days."
+    ],
+    [
+     "How do I stop quitting meditation?",
+     "Attach it to an existing habit (after coffee, before the shower), keep a record of your sessions, and allow two-minute days. The chain is what counts, not the performance."
+    ]
+   ],
+   "es": [
+    [
+     "¿Cuál es el mejor momento para meditar?",
+     "El que puedas mantener. La mañana fija el hábito antes de que el día desborde; por la noche, una meditación guiada para dormir prepara un sueño profundo. Lo importante es la regularidad, no la hora."
+    ],
+    [
+     "¿Cuánto tiempo debe meditar un principiante?",
+     "Cinco minutos bastan — una meditación corta terminada vale más que una larga abandonada. Las sesiones de 4 minutos existen precisamente para los días llenos."
+    ],
+    [
+     "¿Cómo no abandonar la meditación?",
+     "Únela a un hábito ya existente (después del café, antes de la ducha), guarda un registro de tus sesiones y permítete días de dos minutos. Lo que cuenta es la cadena, no el rendimiento."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Même heure, même lieu : l'habitude fait le travail à ta place.",
+    "5 minutes terminées valent mieux que 20 abandonnées.",
+    "Accroche la méditation à une habitude existante.",
+    "Les jours difficiles, réduis la durée — ne saute pas la séance."
+   ],
+   "en": [
+    "Same time, same place: the habit does the work for you.",
+    "5 finished minutes beat 20 abandoned ones.",
+    "Anchor meditation to an existing habit.",
+    "On hard days, shorten the session — don't skip it."
+   ],
+   "es": [
+    "Misma hora, mismo lugar: el hábito trabaja por ti.",
+    "5 minutos terminados valen más que 20 abandonados.",
+    "Une la meditación a un hábito existente.",
+    "Los días difíciles, acorta la sesión — no la saltes."
+   ]
   }
  },
  {
@@ -224,6 +480,70 @@
    "fr": "Que se passe-t-il réellement dans le cerveau et le corps quand on médite ? Attention, stress, sommeil : la recherche a bien documenté certains effets de la méditation — et beaucoup moins d'autres. Un tour honnête de ce que la science dit, et de ce qu'elle ne dit pas.",
    "en": "What actually happens in your brain and body when you meditate? Attention, stress, sleep: research has documented some effects of meditation well — and others far less. An honest tour of what the science says, and what it doesn't.",
    "es": "¿Qué pasa realmente en el cerebro y el cuerpo cuando meditas? Atención, estrés, sueño: la investigación ha documentado bien algunos efectos de la meditación — y otros mucho menos. Un repaso honesto de lo que dice la ciencia y de lo que no dice."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Combien de temps avant de sentir les effets de la méditation ?",
+     "Les premières séances détendent déjà le corps ; les effets sur l'attention et le stress s'installent en général après quelques semaines de pratique régulière. La régularité compte plus que la durée."
+    ],
+    [
+     "Combien de minutes de méditation par jour ?",
+     "Dix minutes par jour valent mieux qu'une heure le dimanche. Les études portent souvent sur 10 à 20 minutes quotidiennes ; commence à cinq, augmente quand l'envie vient."
+    ],
+    [
+     "La méditation remplace-t-elle un accompagnement professionnel ?",
+     "Non, jamais. C'est une pratique de bien-être qui peut compléter un accompagnement, pas s'y substituer. En cas de difficulté sérieuse, parles-en à un professionnel."
+    ]
+   ],
+   "en": [
+    [
+     "How long before you feel the effects of meditation?",
+     "The first sessions already relax the body; effects on attention and stress generally settle in after a few weeks of regular practice. Regularity matters more than duration."
+    ],
+    [
+     "How many minutes of meditation per day?",
+     "Ten minutes a day beats one hour on Sunday. Studies usually work with 10 to 20 daily minutes; start at five and increase when you feel like it."
+    ],
+    [
+     "Does meditation replace professional support?",
+     "No, never. It's a well-being practice that can complement professional support, not substitute for it. If you're going through something serious, talk to a professional."
+    ]
+   ],
+   "es": [
+    [
+     "¿Cuánto se tarda en notar los efectos de la meditación?",
+     "Las primeras sesiones ya relajan el cuerpo; los efectos sobre la atención y el estrés suelen asentarse tras unas semanas de práctica regular. La regularidad importa más que la duración."
+    ],
+    [
+     "¿Cuántos minutos de meditación al día?",
+     "Diez minutos al día valen más que una hora el domingo. Los estudios suelen trabajar con 10 a 20 minutos diarios; empieza con cinco y aumenta cuando apetezca."
+    ],
+    [
+     "¿La meditación sustituye un acompañamiento profesional?",
+     "No, nunca. Es una práctica de bienestar que puede complementar un acompañamiento profesional, no sustituirlo. Ante una dificultad seria, habla con un profesional."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Attention, stress et sommeil : les effets les mieux documentés.",
+    "La neuroplasticité explique pourquoi la régularité prime.",
+    "10 à 20 minutes par jour : la fourchette des études.",
+    "La méditation complète un accompagnement, ne le remplace jamais."
+   ],
+   "en": [
+    "Attention, stress and sleep: the best-documented effects.",
+    "Neuroplasticity explains why regularity comes first.",
+    "10 to 20 minutes a day: the range used in studies.",
+    "Meditation complements professional support, never replaces it."
+   ],
+   "es": [
+    "Atención, estrés y sueño: los efectos mejor documentados.",
+    "La neuroplasticidad explica por qué prima la regularidad.",
+    "10 a 20 minutos al día: el rango de los estudios.",
+    "La meditación complementa un acompañamiento profesional, nunca lo sustituye."
+   ]
   }
  },
  {
@@ -252,6 +572,70 @@
    "fr": "Avant d'être une application dans ta poche, la méditation a traversé 3 500 ans d'histoire : l'Inde védique, le bouddhisme, le zen japonais, les monastères chrétiens, la pleine conscience moderne. Comprendre d'où viennent ces pratiques change la façon de les pratiquer.",
    "en": "Before it was an app in your pocket, meditation crossed 3,500 years of history: Vedic India, Buddhism, Japanese Zen, Christian monasteries, modern mindfulness. Knowing where these practices come from changes how you practice them.",
    "es": "Antes de ser una app en tu bolsillo, la meditación atravesó 3500 años de historia: la India védica, el budismo, el zen japonés, los monasterios cristianos, la atención plena moderna. Saber de dónde vienen estas prácticas cambia la manera de practicarlas."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Qui a inventé la méditation ?",
+     "Personne en particulier : les premières traces écrites viennent de l'Inde védique, il y a environ 3 500 ans, mais des pratiques contemplatives existent dans presque toutes les cultures du monde."
+    ],
+    [
+     "La méditation est-elle religieuse ?",
+     "Elle est née dans des traditions spirituelles, mais ses techniques — attention, respiration, bienveillance — se pratiquent aujourd'hui de façon entièrement laïque. À chacun d'y mettre le sens qu'il souhaite."
+    ],
+    [
+     "D'où vient la pleine conscience moderne ?",
+     "De la rencontre entre les pratiques bouddhistes et l'Occident au XXᵉ siècle, popularisée à partir des années 1970 — jusqu'aux méditations guidées que tu écoutes sur ton téléphone."
+    ]
+   ],
+   "en": [
+    [
+     "Who invented meditation?",
+     "No one in particular: the earliest written traces come from Vedic India, about 3,500 years ago, but contemplative practices exist in nearly every culture in the world."
+    ],
+    [
+     "Is meditation religious?",
+     "It was born within spiritual traditions, but its techniques — attention, breathing, kindness — are practiced today in an entirely secular way. Everyone brings the meaning they wish."
+    ],
+    [
+     "Where does modern mindfulness come from?",
+     "From the meeting of Buddhist practices and the West in the 20th century, popularized from the 1970s onward — all the way to the guided meditations you listen to on your phone."
+    ]
+   ],
+   "es": [
+    [
+     "¿Quién inventó la meditación?",
+     "Nadie en particular: las primeras huellas escritas vienen de la India védica, hace unos 3500 años, pero existen prácticas contemplativas en casi todas las culturas del mundo."
+    ],
+    [
+     "¿La meditación es religiosa?",
+     "Nació dentro de tradiciones espirituales, pero sus técnicas — atención, respiración, bondad — se practican hoy de forma totalmente laica. Cada cual le da el sentido que desea."
+    ],
+    [
+     "¿De dónde viene la atención plena moderna?",
+     "Del encuentro entre las prácticas budistas y Occidente en el siglo XX, popularizado desde los años setenta — hasta las meditaciones guiadas que escuchas en tu teléfono."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "3 500 ans d'histoire, de l'Inde védique aux applications mobiles.",
+    "Chaque tradition a apporté sa technique — et toutes convergent vers l'attention.",
+    "La pleine conscience moderne est la rencontre du bouddhisme et de l'Occident.",
+    "Connaître l'origine d'une pratique enrichit la pratique elle-même."
+   ],
+   "en": [
+    "3,500 years of history, from Vedic India to mobile apps.",
+    "Each tradition contributed its technique — all converge on attention.",
+    "Modern mindfulness is the meeting of Buddhism and the West.",
+    "Knowing where a practice comes from enriches the practice itself."
+   ],
+   "es": [
+    "3500 años de historia, de la India védica a las apps móviles.",
+    "Cada tradición aportó su técnica — y todas convergen en la atención.",
+    "La atención plena moderna es el encuentro del budismo y Occidente.",
+    "Conocer el origen de una práctica enriquece la práctica misma."
+   ]
   }
  },
  {
@@ -308,6 +692,70 @@
    "fr": "Les sept chakras forment une carte symbolique du corps utilisée depuis des siècles par la méditation : sept zones où poser l'attention, de la base de la colonne au sommet du crâne. Voici cette carte expliquée simplement, et comment l'utiliser dans une méditation guidée des chakras.",
    "en": "The seven chakras form a symbolic body map that meditation has used for centuries: seven regions to rest your attention on, from the base of the spine to the crown. Here's that map explained simply, and how to use it in a guided chakra meditation.",
    "es": "Los siete chakras forman un mapa simbólico del cuerpo que la meditación usa desde hace siglos: siete zonas donde posar la atención, de la base de la columna a la coronilla. Aquí tienes ese mapa explicado con sencillez, y cómo usarlo en una meditación guiada de los chakras."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Les chakras existent-ils vraiment ?",
+     "C'est une carte symbolique, pas une anatomie : la science n'en fait pas des organes. Mais comme support d'attention pour la méditation guidée, cette carte fonctionne remarquablement depuis des siècles."
+    ],
+    [
+     "Comment méditer sur les chakras ?",
+     "On parcourt les sept zones de bas en haut, quelques respirations sur chacune — couleur, sensation, image. Une méditation guidée des chakras fait le trajet pour toi, à ton rythme."
+    ],
+    [
+     "Qu'est-ce qu'un chakra « bloqué » ?",
+     "Dans ce langage symbolique, une zone de vie où l'énergie circule mal — sécurité, créativité, parole… Le travail méditatif consiste à ramener l'attention et la respiration dans cette zone."
+    ]
+   ],
+   "en": [
+    [
+     "Do chakras really exist?",
+     "It's a symbolic map, not anatomy: science doesn't treat them as organs. But as a support for attention in guided meditation, this map has worked remarkably well for centuries."
+    ],
+    [
+     "How do you meditate on the chakras?",
+     "You travel the seven regions from bottom to top, a few breaths on each — color, sensation, image. A guided chakra meditation makes the journey for you, at your pace."
+    ],
+    [
+     "What is a “blocked” chakra?",
+     "In this symbolic language, an area of life where energy flows poorly — safety, creativity, voice… The meditative work is bringing attention and breath back into that region."
+    ]
+   ],
+   "es": [
+    [
+     "¿Los chakras existen de verdad?",
+     "Es un mapa simbólico, no una anatomía: la ciencia no los trata como órganos. Pero como soporte de atención para la meditación guiada, este mapa funciona notablemente bien desde hace siglos."
+    ],
+    [
+     "¿Cómo se medita sobre los chakras?",
+     "Se recorren las siete zonas de abajo arriba, unas respiraciones en cada una — color, sensación, imagen. Una meditación guiada de los chakras hace el recorrido por ti, a tu ritmo."
+    ],
+    [
+     "¿Qué es un chakra «bloqueado»?",
+     "En este lenguaje simbólico, una zona de la vida donde la energía circula mal — seguridad, creatividad, palabra… El trabajo meditativo consiste en devolver la atención y la respiración a esa zona."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Une carte symbolique du corps — pas une anatomie.",
+    "Sept zones, de la base de la colonne au sommet du crâne.",
+    "Le trajet se fait de bas en haut, quelques respirations par zone.",
+    "Utile même sans y « croire » : c'est un support d'attention."
+   ],
+   "en": [
+    "A symbolic map of the body — not anatomy.",
+    "Seven regions, from the base of the spine to the crown.",
+    "The journey runs bottom to top, a few breaths per region.",
+    "Useful even without “believing”: it's a support for attention."
+   ],
+   "es": [
+    "Un mapa simbólico del cuerpo — no una anatomía.",
+    "Siete zonas, de la base de la columna a la coronilla.",
+    "El recorrido va de abajo arriba, unas respiraciones por zona.",
+    "Útil incluso sin «creer»: es un soporte para la atención."
+   ]
   }
  },
  {
@@ -336,6 +784,70 @@
    "fr": "Le rêve lucide — savoir que l'on rêve pendant le rêve — s'apprend, et la méditation est l'un de ses meilleurs entraînements. Journal de rêves, tests de réalité, méditations du soir : les premières étapes concrètes vers un sommeil plus conscient.",
    "en": "Lucid dreaming — knowing you're dreaming while you dream — can be learned, and meditation is one of its best training grounds. Dream journal, reality checks, evening meditations: the first concrete steps toward more conscious sleep.",
    "es": "El sueño lúcido — saber que sueñas mientras sueñas — se aprende, y la meditación es uno de sus mejores entrenamientos. Diario de sueños, pruebas de realidad, meditaciones nocturnas: los primeros pasos concretos hacia un dormir más consciente."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Le rêve lucide est-il dangereux ?",
+     "Non pour la plupart des gens : c'est un état de sommeil naturel. Si ton sommeil est fragile, garde des pratiques douces — journal de rêves et méditation du soir — sans techniques de réveil programmé."
+    ],
+    [
+     "Combien de temps pour faire un premier rêve lucide ?",
+     "De quelques semaines à quelques mois selon la régularité. Le trio le plus efficace : journal de rêves au réveil, tests de réalité en journée, méditation guidée le soir pour la clarté d'esprit."
+    ],
+    [
+     "Quel est le lien entre méditation et rêve lucide ?",
+     "Les deux entraînent la même capacité : remarquer ce qui se passe dans l'esprit. Les méditants réguliers reconnaissent plus facilement l'état de rêve — et s'endorment plus consciemment."
+    ]
+   ],
+   "en": [
+    [
+     "Is lucid dreaming dangerous?",
+     "Not for most people: it's a natural sleep state. If your sleep is fragile, keep to gentle practices — dream journal and evening meditation — without programmed wake-up techniques."
+    ],
+    [
+     "How long until a first lucid dream?",
+     "From a few weeks to a few months depending on regularity. The most effective trio: dream journal on waking, reality checks during the day, guided meditation in the evening for clarity of mind."
+    ],
+    [
+     "What's the link between meditation and lucid dreaming?",
+     "Both train the same ability: noticing what is happening in the mind. Regular meditators recognize the dream state more easily — and fall asleep more consciously."
+    ]
+   ],
+   "es": [
+    [
+     "¿El sueño lúcido es peligroso?",
+     "No para la mayoría: es un estado natural del sueño. Si tu sueño es frágil, quédate con prácticas suaves — diario de sueños y meditación nocturna — sin técnicas de despertar programado."
+    ],
+    [
+     "¿Cuánto se tarda en lograr un primer sueño lúcido?",
+     "De unas semanas a unos meses según la regularidad. El trío más eficaz: diario de sueños al despertar, pruebas de realidad durante el día y meditación guiada por la noche para la claridad mental."
+    ],
+    [
+     "¿Qué relación hay entre meditación y sueño lúcido?",
+     "Ambos entrenan la misma capacidad: darte cuenta de lo que ocurre en la mente. Quien medita con regularidad reconoce más fácilmente el estado de sueño — y se duerme de forma más consciente."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Le journal de rêves est la fondation de tout le reste.",
+    "Tests de réalité en journée, méditation guidée le soir.",
+    "La lucidité se cultive — elle ne se force pas.",
+    "Un sommeil régulier compte plus que toute technique."
+   ],
+   "en": [
+    "The dream journal is the foundation of everything else.",
+    "Reality checks by day, guided meditation in the evening.",
+    "Lucidity is cultivated — never forced.",
+    "Regular sleep matters more than any technique."
+   ],
+   "es": [
+    "El diario de sueños es la base de todo lo demás.",
+    "Pruebas de realidad de día, meditación guiada de noche.",
+    "La lucidez se cultiva — no se fuerza.",
+    "Un sueño regular importa más que cualquier técnica."
+   ]
   }
  },
  {
@@ -355,9 +867,9 @@
    "es": "El trabajo de sombra: reconciliarte contigo"
   },
   "desc": {
-   "fr": "Accueillir ce qu’on préfère ne pas voir : le travail de l’ombre expliqué pas à pas, avec des pratiques douces et des limites claires.",
-   "en": "Meeting what you’d rather not see: shadow work explained step by step, with gentle practices and clear boundaries.",
-   "es": "Acoger lo que preferimos no ver: el trabajo de sombra paso a paso, con prácticas suaves y límites claros."
+   "fr": "Accueillir ce qu'on préfère ne pas voir : le travail de l'ombre en méditation, expliqué pas à pas, avec des pratiques douces et des limites claires.",
+   "en": "Meeting what you'd rather not see: shadow work in meditation, explained step by step, with gentle practices and clear boundaries.",
+   "es": "Acoger lo que preferimos no ver: el trabajo de sombra en meditación, paso a paso, con prácticas suaves y límites claros."
   },
   "published": null,
   "hero": 13,

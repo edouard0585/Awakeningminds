@@ -22,23 +22,25 @@ T = {
    idx_desc="Guides gratuits pour apprendre à méditer : posture, respiration, gestion des pensées, techniques — avec schémas, par l'application 100 % gratuite Awakening Minds.",
    read='min de lecture', published_on='Publié le', soon="D'autres articles arrivent — un par semaine.",
    cta_t="Envie de pratiquer plutôt que de lire ?",
-   cta_p="Tout ce que décrit cet article se pratique dans Awakening Minds : 195 méditations guidées en français, 100 % gratuites, sans abonnement, hors ligne.",
+   cta_p="Tout ce que décrit cet article se pratique dans Awakening Minds, application de méditation gratuite : 195 méditations guidées en français — sommeil, respiration guidée, mondes immersifs — sans abonnement, sans publicité, sans compte, et tout fonctionne hors ligne.",
    cta_b="Découvrir l'application gratuite", other="À lire ensuite"),
  'en': dict(blog='The blog', back='← Awakening Minds', idx_title="The blog — learning to meditate",
    idx_seo="Meditation blog: how to meditate, free guides with diagrams — Awakening Minds",
    idx_desc="Free guides on how to meditate: posture, breathing, dealing with thoughts, techniques — with diagrams, from the completely free Awakening Minds app.",
    read='min read', published_on='Published', soon="More articles are coming — one every week.",
    cta_t="Rather practice than read?",
-   cta_p="Everything in this article can be practiced in Awakening Minds: 195 guided meditations, completely free, no subscription, fully offline.",
+   cta_p="Everything in this article can be practiced in Awakening Minds, a free meditation app: 195 guided meditations — sleep, breathing, immersive worlds — no subscription, no ads, no account, and fully offline.",
    cta_b="Discover the free app", other="Read next"),
  'es': dict(blog='El blog', back='← Awakening Minds', idx_title="El blog — aprender a meditar",
    idx_seo="Blog de meditación: cómo meditar, guías gratis con esquemas — Awakening Minds",
    idx_desc="Guías gratis para aprender a meditar: postura, respiración, pensamientos, técnicas — con esquemas, de la app 100 % gratis Awakening Minds.",
    read='min de lectura', published_on='Publicado el', soon="Llegan más artículos — uno por semana.",
    cta_t="¿Prefieres practicar antes que leer?",
-   cta_p="Todo lo que describe este artículo se practica en Awakening Minds: 195 meditaciones guiadas en español, 100 % gratis, sin suscripción, sin conexión.",
+   cta_p="Todo lo que describe este artículo se practica en Awakening Minds, una app de meditación gratis: 195 meditaciones guiadas en español — dormir, respiración guiada, mundos inmersivos — sin suscripción, sin anuncios, sin cuenta y sin conexión.",
    cta_b="Descubre la app gratis", other="Sigue leyendo"),
 }
+FAQ_LABEL = {'fr': 'Questions fréquentes', 'en': 'Frequently asked questions', 'es': 'Preguntas frecuentes'}
+TAKE_LABEL = {'fr': 'À retenir', 'en': 'Key takeaways', 'es': 'Para recordar'}
 TOC_LABEL = {'fr': 'Dans cet article', 'en': 'In this article', 'es': 'En este artículo'}
 # Maillage interne thématique : liens contextuels entre articles (ancres = titres).
 RELATED = {
@@ -129,6 +131,11 @@ article figcaption{font-size:13.5px;color:var(--dim);margin-top:8px;line-height:
 .toc a:hover{color:var(--gold)}
 @media(max-width:600px){.toc ul{columns:1}}
 article :target{scroll-margin-top:80px}
+.take{border:1px solid rgba(212,175,106,.35);border-radius:14px;background:rgba(212,175,106,.06);padding:18px 22px;margin:30px 0}
+.take b{display:block;color:var(--gold);font-size:13px;letter-spacing:.08em;text-transform:uppercase;margin-bottom:8px;font-family:'Avenir Next',sans-serif}
+.take ul{margin:0;padding-left:20px;color:var(--muted);font-size:15.5px}
+.take li{margin:5px 0}
+.afaq{margin:34px 0 0}
 .cta{background:linear-gradient(135deg,#1c1830,#241d3f);border:1px solid rgba(212,175,106,.35);border-radius:var(--radius);padding:26px;margin:44px 0 20px;text-align:center}
 .cta h2{margin:0 0 8px;font-size:26px;color:#fff7e8}
 .cta p{color:var(--muted);font-size:15.5px;max-width:560px;margin:0 auto 16px}
@@ -220,20 +227,24 @@ def render_article(a, lang, arts):
         '@context': 'https://schema.org',
         '@graph': [
             {'@type': 'Article', 'headline': a['title'][lang], 'description': a['desc'][lang],
-             'image': BASE + img, 'datePublished': a['published'], 'inLanguage': lang,
+             'image': BASE + img, 'datePublished': a['published'], 'dateModified': a['published'], 'inLanguage': lang,
              'mainEntityOfPage': f'{BASE}/{lang}/blog/{a["slug"][lang]}.html',
              'author': {'@type': 'Organization', 'name': 'Awakening Minds', 'url': BASE + '/'},
              'publisher': {'@type': 'Organization', 'name': 'Awakening Minds',
                            'logo': {'@type': 'ImageObject', 'url': f'{BASE}/assets/brand/logo.png'}}},
+            {'@type': 'WebSite', 'name': 'Awakening Minds', 'url': BASE + '/', 'inLanguage': lang},
             {'@type': 'BreadcrumbList', 'itemListElement': [
                 {'@type': 'ListItem', 'position': 1, 'name': 'Awakening Minds', 'item': f'{BASE}/{lang}/'},
                 {'@type': 'ListItem', 'position': 2, 'name': T[lang]['blog'], 'item': f'{BASE}/{lang}/blog/'},
                 {'@type': 'ListItem', 'position': 3, 'name': a['title'][lang]}]},
-        ],
+        ] + ([{'@type': 'FAQPage', 'mainEntity': [
+                {'@type': 'Question', 'name': q,
+                 'acceptedAnswer': {'@type': 'Answer', 'text': r}}
+                for q, r in a['faq'][lang]]}] if a.get('faq') else []),
     }
     ld_tag = '<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False).replace('<', '\\u003c') + '</script>'
     path_of = lambda x: f'/{x}/blog/{a["slug"][x]}.html'
-    h = head(lang, a['title'][lang] + ' — Awakening Minds', a['desc'][lang], path_of, path_of(lang), img, ld_tag)
+    h = head(lang, a['title'][lang], a['desc'][lang], path_of, path_of(lang), img, ld_tag)
     h += header_html(lang, lambda x: f'../../{x}/blog/{a["slug"][x]}.html')
     h += f'<main class="wrap"><article><h1>{E(a["title"][lang])}</h1>'
     h += f'<div class="meta">{E(t["published_on"])} {E(fmt_date(a["published"], lang))} · {mins} {E(t["read"])}</div>'
@@ -248,6 +259,12 @@ def render_article(a, lang, arts):
               f'width="960" loading="eager"><figcaption>{E(cap)}</figcaption></figure>')
     toc, body = enrich_body(body, lang)
     h += toc + body
+    if a.get('takeaways'):
+        pts = ''.join(f'<li>{E(x)}</li>' for x in a['takeaways'][lang])
+        h += f'<aside class="take"><b>{E(TAKE_LABEL[lang])}</b><ul>{pts}</ul></aside>'
+    if a.get('faq'):
+        qa = ''.join(f'<details><summary>{E(q)}</summary><p>{E(r)}</p></details>' for q, r in a['faq'][lang])
+        h += f'<section class="afaq"><h2>{E(FAQ_LABEL[lang])}</h2>{qa}</section>'
     h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="../#download">✦ {E(t["cta_b"])}</a></div>'
     by_id = {o['id']: o for o in arts}
     others = [by_id[r] for r in RELATED.get(a['id'], []) if by_id.get(r, {}).get('published')]
