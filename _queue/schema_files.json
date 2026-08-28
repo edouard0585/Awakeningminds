@@ -1,0 +1,97 @@
+{
+ "0": {
+  "fr": "posture-meditation-7-points",
+  "en": "meditation-posture-7-points",
+  "es": "postura-meditacion-7-puntos"
+ },
+ "1": {
+  "fr": "meditation-sur-chaise",
+  "en": "chair-meditation-position",
+  "es": "meditacion-en-silla"
+ },
+ "2": {
+  "fr": "position-tailleur-birmane",
+  "en": "cross-legged-burmese-position",
+  "es": "posicion-piernas-cruzadas"
+ },
+ "3": {
+  "fr": "position-seiza-genoux",
+  "en": "seiza-kneeling-position",
+  "es": "posicion-seiza-rodillas"
+ },
+ "4": {
+  "fr": "meditation-allongee-savasana",
+  "en": "lying-down-savasana",
+  "es": "meditacion-tumbado-savasana"
+ },
+ "5": {
+  "fr": "respiration-abdominale-diaphragme",
+  "en": "diaphragmatic-belly-breathing",
+  "es": "respiracion-abdominal-diafragma"
+ },
+ "6": {
+  "fr": "coherence-cardiaque-6-respirations",
+  "en": "coherent-breathing-6-breaths",
+  "es": "respiracion-coherente-6-por-minuto"
+ },
+ "7": {
+  "fr": "respiration-carree",
+  "en": "box-breathing",
+  "es": "respiracion-cuadrada"
+ },
+ "8": {
+  "fr": "respiration-4-7-8",
+  "en": "breathing-4-7-8",
+  "es": "respiracion-4-7-8"
+ },
+ "9": {
+  "fr": "cycle-attention-meditation",
+  "en": "attention-cycle-meditation",
+  "es": "ciclo-atencion-meditacion"
+ },
+ "10": {
+  "fr": "scan-corporel-trajet",
+  "en": "body-scan-path",
+  "es": "escaneo-corporal-recorrido"
+ },
+ "11": {
+  "fr": "meditation-marchee-3-phases",
+  "en": "walking-meditation-3-phases",
+  "es": "meditacion-caminando-3-fases"
+ },
+ "12": {
+  "fr": "meditation-bienveillance-cercles",
+  "en": "loving-kindness-circles",
+  "es": "meditacion-bondad-circulos"
+ },
+ "13": {
+  "fr": "methode-rain-4-etapes",
+  "en": "rain-method-4-steps",
+  "es": "metodo-rain-4-pasos"
+ },
+ "14": {
+  "fr": "cerveau-et-meditation",
+  "en": "brain-and-meditation",
+  "es": "cerebro-y-meditacion"
+ },
+ "15": {
+  "fr": "histoire-meditation-frise",
+  "en": "meditation-history-timeline",
+  "es": "historia-meditacion-cronologia"
+ },
+ "16": {
+  "fr": "spectre-etats-de-conscience",
+  "en": "states-of-consciousness-spectrum",
+  "es": "espectro-estados-de-conciencia"
+ },
+ "17": {
+  "fr": "carte-des-7-chakras",
+  "en": "7-chakras-map",
+  "es": "mapa-de-los-7-chakras"
+ },
+ "18": {
+  "fr": "progression-astrale-echelle",
+  "en": "astral-progression-ladder",
+  "es": "progresion-astral-escalera"
+ }
+}

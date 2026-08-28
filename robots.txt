@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /_queue/
+Disallow: /_tools/
 
 Sitemap: https://awakeningminds.app/sitemap.xml
+Sitemap: https://awakeningminds.app/sitemap-blog.xml

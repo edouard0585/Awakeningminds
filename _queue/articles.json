@@ -1,0 +1,371 @@
+[
+ {
+  "id": "intro",
+  "sections": [
+   "intro"
+  ],
+  "image": null,
+  "slug": {
+   "fr": "apprendre-a-mediter-guide-debutant",
+   "en": "how-to-start-meditating-beginners-guide",
+   "es": "como-empezar-a-meditar-guia-principiantes"
+  },
+  "title": {
+   "fr": "Apprendre à méditer : le guide du débutant",
+   "en": "How to start meditating: a beginner’s guide",
+   "es": "Cómo empezar a meditar: guía para principiantes"
+  },
+  "desc": {
+   "fr": "Qu'est-ce que méditer, pourquoi commencer, et les 5 idées reçues qui bloquent les débutants. Un guide simple et gratuit pour ta première méditation.",
+   "en": "What meditation actually is, why it's worth starting, and the 5 myths that block beginners. A simple, free guide to your first meditation.",
+   "es": "Qué es meditar, por qué empezar y las 5 ideas falsas que frenan a los principiantes. Una guía sencilla y gratis para tu primera meditación."
+  },
+  "published": "2026-08-28"
+ },
+ {
+  "id": "posture",
+  "sections": [
+   "posture"
+  ],
+  "image": 0,
+  "slug": {
+   "fr": "posture-meditation-4-positions",
+   "en": "meditation-posture-4-positions",
+   "es": "postura-de-meditacion-4-posiciones"
+  },
+  "title": {
+   "fr": "La posture de méditation : 4 positions, 7 points",
+   "en": "Meditation posture: 4 positions that actually work",
+   "es": "La postura de meditación: 4 posiciones válidas"
+  },
+  "desc": {
+   "fr": "Chaise, tailleur, seiza ou allongé : les 4 positions de méditation en schémas, et les 7 points d’une posture digne et détendue.",
+   "en": "Chair, cross-legged, seiza or lying down: the 4 meditation positions with diagrams, and the 7 points of a dignified, relaxed posture.",
+   "es": "Silla, piernas cruzadas, seiza o tumbado: las 4 posiciones de meditación con esquemas, y los 7 puntos de una postura digna y relajada."
+  },
+  "published": null
+ },
+ {
+  "id": "respiration",
+  "sections": [
+   "respiration"
+  ],
+  "image": 6,
+  "slug": {
+   "fr": "techniques-respiration-meditation",
+   "en": "breathing-techniques-meditation",
+   "es": "tecnicas-de-respiracion-para-meditar"
+  },
+  "title": {
+   "fr": "Respiration : 4 techniques pour méditer et s’apaiser",
+   "en": "4 breathing techniques for meditation and calm",
+   "es": "4 técnicas de respiración para meditar y calmarte"
+  },
+  "desc": {
+   "fr": "Respiration abdominale, cohérence cardiaque, respiration carrée, 4-7-8 : quand utiliser chacune, avec schémas et précautions.",
+   "en": "Belly breathing, coherent breathing, box breathing and 4-7-8: when to use each one, with diagrams and precautions.",
+   "es": "Respiración abdominal, coherente, cuadrada y 4-7-8: cuándo usar cada una, con esquemas y precauciones."
+  },
+  "published": null
+ },
+ {
+  "id": "pensees",
+  "sections": [
+   "pensees"
+  ],
+  "image": 9,
+  "slug": {
+   "fr": "gerer-ses-pensees-meditation",
+   "en": "how-to-deal-with-thoughts-in-meditation",
+   "es": "gestionar-los-pensamientos-al-meditar"
+  },
+  "title": {
+   "fr": "« Je n’arrive pas à arrêter de penser » : que faire",
+   "en": "“I can’t stop thinking”: what to do in meditation",
+   "es": "«No puedo dejar de pensar»: qué hacer al meditar"
+  },
+  "desc": {
+   "fr": "Le cycle de l’attention, 3 outils concrets face aux pensées, et les 5 obstacles classiques de la méditation — avec le moment-clé qui muscle l’attention.",
+   "en": "The attention cycle, 3 concrete tools for busy thoughts, and the 5 classic obstacles in meditation — plus the key moment that trains attention.",
+   "es": "El ciclo de la atención, 3 herramientas concretas frente a los pensamientos y los 5 obstáculos clásicos de la meditación."
+  },
+  "published": null
+ },
+ {
+  "id": "programme",
+  "sections": [
+   "programme",
+   "conseils"
+  ],
+  "image": null,
+  "slug": {
+   "fr": "programme-meditation-debutant-4-semaines",
+   "en": "4-week-beginner-meditation-program",
+   "es": "programa-de-meditacion-para-principiantes-4-semanas"
+  },
+  "title": {
+   "fr": "Méditation : le programme débutant en 4 semaines",
+   "en": "A 4-week meditation program for beginners",
+   "es": "Programa de meditación para principiantes: 4 semanas"
+  },
+  "desc": {
+   "fr": "Un programme progressif de 4 semaines pour installer l’habitude de méditer, plus les erreurs fréquentes des débutants et comment les éviter.",
+   "en": "A progressive 4-week plan to build a meditation habit, plus the most common beginner mistakes and how to avoid them.",
+   "es": "Un plan progresivo de 4 semanas para crear el hábito de meditar, más los errores frecuentes de los principiantes y cómo evitarlos."
+  },
+  "published": null
+ },
+ {
+  "id": "techniques",
+  "sections": [
+   "techniques"
+  ],
+  "image": 10,
+  "slug": {
+   "fr": "techniques-de-meditation-guide-complet",
+   "en": "meditation-techniques-complete-guide",
+   "es": "tecnicas-de-meditacion-guia-completa"
+  },
+  "title": {
+   "fr": "Les techniques de méditation, expliquées une à une",
+   "en": "Meditation techniques, explained one by one",
+   "es": "Las técnicas de meditación, explicadas una a una"
+  },
+  "desc": {
+   "fr": "Scan corporel, méditation marchée, bienveillance, RAIN, visualisation… chaque technique expliquée avec ses étapes et son schéma.",
+   "en": "Body scan, walking meditation, loving-kindness, RAIN, visualization… each technique explained with its steps and diagram.",
+   "es": "Escaneo corporal, meditación caminando, bondad amorosa, RAIN, visualización… cada técnica explicada con sus pasos y su esquema."
+  },
+  "published": null
+ },
+ {
+  "id": "quotidien",
+  "sections": [
+   "quotidien"
+  ],
+  "image": null,
+  "slug": {
+   "fr": "mediter-au-quotidien",
+   "en": "how-to-meditate-every-day",
+   "es": "como-meditar-todos-los-dias"
+  },
+  "title": {
+   "fr": "Méditer au quotidien : installer une pratique qui dure",
+   "en": "How to meditate every day (and make it stick)",
+   "es": "Cómo meditar todos los días (y mantenerlo)"
+  },
+  "desc": {
+   "fr": "Trouver le bon moment, relier la méditation à une habitude existante, et quoi faire les jours sans motivation : une pratique quotidienne qui tient.",
+   "en": "Finding the right time, anchoring meditation to an existing habit, and what to do on unmotivated days: a daily practice that lasts.",
+   "es": "Encontrar el momento, unir la meditación a un hábito existente y qué hacer los días sin ganas: una práctica diaria que dura."
+  },
+  "published": null
+ },
+ {
+  "id": "science",
+  "sections": [
+   "science"
+  ],
+  "image": 14,
+  "slug": {
+   "fr": "science-de-la-meditation",
+   "en": "science-of-meditation",
+   "es": "ciencia-de-la-meditacion"
+  },
+  "title": {
+   "fr": "La science de la méditation : ce qui se passe en toi",
+   "en": "The science of meditation: what happens inside",
+   "es": "La ciencia de la meditación: qué pasa por dentro"
+  },
+  "desc": {
+   "fr": "Cerveau, respiration, attention : ce que la pratique régulière change réellement, expliqué simplement — et ce que la science ne dit pas.",
+   "en": "Brain, breath, attention: what regular practice really changes, explained simply — and what the science does not say.",
+   "es": "Cerebro, respiración, atención: lo que la práctica regular cambia de verdad, explicado con sencillez — y lo que la ciencia no dice."
+  },
+  "published": null
+ },
+ {
+  "id": "histoire",
+  "sections": [
+   "histoire"
+  ],
+  "image": 15,
+  "slug": {
+   "fr": "histoire-de-la-meditation",
+   "en": "history-of-meditation",
+   "es": "historia-de-la-meditacion"
+  },
+  "title": {
+   "fr": "3 500 ans de méditation : une histoire des traditions",
+   "en": "3,500 years of meditation: a short history",
+   "es": "3500 años de meditación: una breve historia"
+  },
+  "desc": {
+   "fr": "De l’Inde védique au zen japonais et aux applications mobiles : d’où viennent les pratiques que nous utilisons aujourd’hui.",
+   "en": "From Vedic India to Japanese Zen to mobile apps: where today’s meditation practices actually come from.",
+   "es": "De la India védica al zen japonés y las apps móviles: de dónde vienen las prácticas que usamos hoy."
+  },
+  "published": null
+ },
+ {
+  "id": "emc",
+  "sections": [
+   "emc"
+  ],
+  "image": 16,
+  "slug": {
+   "fr": "etats-modifies-de-conscience",
+   "en": "altered-states-of-consciousness",
+   "es": "estados-modificados-de-conciencia"
+  },
+  "title": {
+   "fr": "États modifiés de conscience : comprendre la transe",
+   "en": "Altered states of consciousness, explained",
+   "es": "Estados modificados de conciencia: entender el trance"
+  },
+  "desc": {
+   "fr": "Le spectre des états de conscience, la transe méditative et les pratiques profondes : un guide clair, honnête et sans mystification.",
+   "en": "The spectrum of conscious states, meditative trance and deep practices: a clear, honest, no-hype guide.",
+   "es": "El espectro de los estados de conciencia, el trance meditativo y las prácticas profundas: una guía clara y honesta."
+  },
+  "published": null
+ },
+ {
+  "id": "chakras",
+  "sections": [
+   "chakras"
+  ],
+  "image": 17,
+  "slug": {
+   "fr": "meditation-des-chakras-guide",
+   "en": "chakra-meditation-guide",
+   "es": "meditacion-de-los-chakras-guia"
+  },
+  "title": {
+   "fr": "Les 7 chakras : la carte utilisée en méditation",
+   "en": "The 7 chakras: the map used in meditation",
+   "es": "Los 7 chakras: el mapa que usa la meditación"
+  },
+  "desc": {
+   "fr": "Les 7 chakras expliqués simplement : une carte symbolique du corps pour guider l’attention pendant la méditation, sans dogme.",
+   "en": "The 7 chakras explained simply: a symbolic body map used to guide attention during meditation — no dogma.",
+   "es": "Los 7 chakras explicados con sencillez: un mapa simbólico del cuerpo para guiar la atención al meditar, sin dogmas."
+  },
+  "published": null
+ },
+ {
+  "id": "reve",
+  "sections": [
+   "reve"
+  ],
+  "image": null,
+  "slug": {
+   "fr": "reve-lucide-sommeil-conscient",
+   "en": "lucid-dreaming-conscious-sleep",
+   "es": "sueno-lucido-dormir-consciente"
+  },
+  "title": {
+   "fr": "Rêve lucide et sommeil conscient : par où commencer",
+   "en": "Lucid dreaming and conscious sleep: where to start",
+   "es": "Sueño lúcido y dormir consciente: por dónde empezar"
+  },
+  "desc": {
+   "fr": "Journal de rêves, tests de réalité, méditations du soir : les premières étapes concrètes vers le rêve lucide, expliquées calmement.",
+   "en": "Dream journal, reality checks, evening meditations: the first concrete steps toward lucid dreaming, calmly explained.",
+   "es": "Diario de sueños, pruebas de realidad, meditaciones nocturnas: los primeros pasos concretos hacia el sueño lúcido."
+  },
+  "published": null
+ },
+ {
+  "id": "ombre",
+  "sections": [
+   "ombre"
+  ],
+  "image": null,
+  "slug": {
+   "fr": "travail-de-l-ombre-meditation",
+   "en": "shadow-work-meditation",
+   "es": "trabajo-de-sombra-y-meditacion"
+  },
+  "title": {
+   "fr": "Le travail de l’ombre : se réconcilier avec soi",
+   "en": "Shadow work: making peace with yourself",
+   "es": "El trabajo de sombra: reconciliarte contigo"
+  },
+  "desc": {
+   "fr": "Accueillir ce qu’on préfère ne pas voir : le travail de l’ombre expliqué pas à pas, avec des pratiques douces et des limites claires.",
+   "en": "Meeting what you’d rather not see: shadow work explained step by step, with gentle practices and clear boundaries.",
+   "es": "Acoger lo que preferimos no ver: el trabajo de sombra paso a paso, con prácticas suaves y límites claros."
+  },
+  "published": null
+ },
+ {
+  "id": "symboles",
+  "sections": [
+   "symboles"
+  ],
+  "image": null,
+  "slug": {
+   "fr": "symboles-archetypes-mondes-interieurs",
+   "en": "symbols-archetypes-inner-worlds",
+   "es": "simbolos-arquetipos-mundos-interiores"
+  },
+  "title": {
+   "fr": "Symboles, archétypes et mondes intérieurs",
+   "en": "Symbols, archetypes and inner worlds",
+   "es": "Símbolos, arquetipos y mundos interiores"
+  },
+  "desc": {
+   "fr": "Pourquoi la méditation parle en images : symboles, archétypes et paysages intérieurs, et comment les utiliser dans ta pratique.",
+   "en": "Why meditation speaks in images: symbols, archetypes and inner landscapes, and how to work with them in your practice.",
+   "es": "Por qué la meditación habla en imágenes: símbolos, arquetipos y paisajes interiores, y cómo usarlos en tu práctica."
+  },
+  "published": null
+ },
+ {
+  "id": "astral",
+  "sections": [
+   "astral-progression"
+  ],
+  "image": 18,
+  "slug": {
+   "fr": "voyage-astral-progression",
+   "en": "astral-projection-step-by-step",
+   "es": "viaje-astral-progresion"
+  },
+  "title": {
+   "fr": "Voyage astral : la progression, marche par marche",
+   "en": "Astral projection: a step-by-step progression",
+   "es": "Viaje astral: la progresión, paso a paso"
+  },
+  "desc": {
+   "fr": "De la détente profonde aux techniques de sortie : l’échelle de progression du voyage astral, présentée sans sensationnalisme.",
+   "en": "From deep relaxation to exit techniques: the astral projection progression ladder, presented without sensationalism.",
+   "es": "De la relajación profunda a las técnicas de salida: la escalera de progresión del viaje astral, sin sensacionalismo."
+  },
+  "published": null
+ },
+ {
+  "id": "interactives",
+  "sections": [
+   "interactives"
+  ],
+  "image": null,
+  "slug": {
+   "fr": "bien-vivre-une-meditation-guidee",
+   "en": "getting-the-most-from-guided-meditation",
+   "es": "aprovechar-una-meditacion-guiada"
+  },
+  "title": {
+   "fr": "Bien vivre une méditation guidée",
+   "en": "Getting the most from a guided meditation",
+   "es": "Aprovechar al máximo una meditación guiada"
+  },
+  "desc": {
+   "fr": "Voix, pauses, impressions d’après-séance : comment tirer le meilleur d’une méditation guidée ou interactive, du début à la fin.",
+   "en": "Voice, pauses, after-session impressions: how to get the most from a guided or interactive meditation, start to finish.",
+   "es": "Voz, pausas, impresiones tras la sesión: cómo sacar el máximo partido a una meditación guiada o interactiva."
+  },
+  "published": null
+ }
+]
