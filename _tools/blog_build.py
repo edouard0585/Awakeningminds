@@ -50,7 +50,7 @@ TAKE_LABEL = {'fr': 'À retenir', 'en': 'Key takeaways', 'es': 'Para recordar'}
 TOC_LABEL = {'fr': 'Dans cet article', 'en': 'In this article', 'es': 'En este artículo'}
 # Maillage interne thématique : liens contextuels entre articles (ancres = titres).
 RELATED = {
- 'intro': ['posture', 'respiration', 'programme'], 'posture': ['respiration', 'intro', 'techniques'],
+ 'intro': ['posture', 'respiration', 'programme'], 'posture': ['respiration', 'scan', 'intro'],
  'respiration': ['dormir', 'posture', 'pensees'], 'pensees': ['respiration', 'techniques', 'quotidien'],
  'programme': ['intro', 'cinqminutes', 'quotidien'], 'techniques': ['pensees', 'programme', 'science'],
  'quotidien': ['cinqminutes', 'programme', 'dormir'], 'science': ['techniques', 'respiration', 'histoire'],
@@ -58,7 +58,8 @@ RELATED = {
  'chakras': ['emc', 'techniques', 'symboles'], 'reve': ['dormir', 'emc', 'symboles'],
  'ombre': ['pensees', 'techniques', 'symboles'], 'symboles': ['ombre', 'reve', 'histoire'],
  'astral': ['emc', 'reve', 'chakras'], 'interactives': ['intro', 'quotidien', 'techniques'],
- 'dormir': ['respiration', 'reve', 'quotidien'], 'cinqminutes': ['quotidien', 'respiration', 'intro'],
+ 'dormir': ['scan', 'respiration', 'reve'], 'cinqminutes': ['matin', 'quotidien', 'respiration'],
+ 'scan': ['dormir', 'techniques', 'posture'], 'matin': ['cinqminutes', 'quotidien', 'respiration'],
 }
 MONTHS = {
  'fr': ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'],

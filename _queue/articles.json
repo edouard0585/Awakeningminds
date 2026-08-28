@@ -326,6 +326,104 @@
   }
  },
  {
+  "id": "scan",
+  "sections": [
+   "scan"
+  ],
+  "image": 10,
+  "hero": null,
+  "slug": {
+   "fr": "scan-corporel-meditation",
+   "en": "body-scan-meditation",
+   "es": "escaneo-corporal-meditacion"
+  },
+  "title": {
+   "fr": "Le scan corporel : la méditation qui détend le corps",
+   "en": "Body scan meditation: relax the body, calm the mind",
+   "es": "El escaneo corporal: la meditación que suelta el cuerpo"
+  },
+  "desc": {
+   "fr": "Le scan corporel expliqué pas à pas, avec son schéma : le trajet des pieds à la tête, quoi faire quand on ne sent rien, et ses trois usages.",
+   "en": "The body scan explained step by step, with its diagram: the feet-to-head route, what to do when you feel nothing, and its three uses.",
+   "es": "El escaneo corporal explicado paso a paso, con su esquema: el recorrido de pies a cabeza, qué hacer cuando no sientes nada y sus tres usos."
+  },
+  "intro": {
+   "fr": "Le scan corporel est la technique de méditation la plus accessible : promener l'attention à travers le corps et sentir ce qui est là, sans rien changer. Détente profonde, endormissement, tensions du quotidien — voici le trajet complet, pas à pas.",
+   "en": "The body scan is the most accessible meditation technique: walking attention through the body and feeling what's there, without changing anything. Deep relaxation, falling asleep, everyday tension — here is the full route, step by step.",
+   "es": "El escaneo corporal es la técnica de meditación más accesible: pasear la atención por el cuerpo y sentir lo que hay, sin cambiar nada. Relajación profunda, dormirse, tensiones del día — aquí tienes el recorrido completo, paso a paso."
+  },
+  "kw": {
+   "fr": "scan corporel, méditation scan corporel, body scan, relaxation profonde, détendre le corps",
+   "en": "body scan meditation, body scan, deep relaxation, progressive relaxation, relax the body",
+   "es": "escaneo corporal, meditación escaneo corporal, body scan, relajación profunda, relajar el cuerpo"
+  },
+  "faq": {
+   "fr": [
+    [
+     "Combien de temps dure un scan corporel ?",
+     "De 5 minutes (version express assise) à 20-30 minutes pour la détente profonde allongée. Pour débuter, 10 minutes guidées suffisent largement."
+    ],
+    [
+     "Assis ou allongé ?",
+     "Allongé pour la détente profonde et le soir ; assis pour rester alerte en journée. La règle : allongé si s'endormir est acceptable, assis sinon."
+    ],
+    [
+     "Pourquoi je m'endors à chaque fois ?",
+     "Parce que ça marche ! Si ce n'est pas le but, pratique assis, en journée, les yeux mi-clos — et garde la version allongée pour le coucher."
+    ]
+   ],
+   "en": [
+    [
+     "How long should a body scan take?",
+     "From 5 minutes (seated express version) to 20-30 minutes for deep relaxation lying down. To start, 10 guided minutes are plenty."
+    ],
+    [
+     "Seated or lying down?",
+     "Lying down for deep relaxation and evenings; seated to stay alert during the day. The rule: lying down if falling asleep is acceptable, seated otherwise."
+    ],
+    [
+     "Why do I fall asleep every time?",
+     "Because it works! If sleep isn't the goal, practice seated, during the day, eyes half-open — and save the lying-down version for bedtime."
+    ]
+   ],
+   "es": [
+    [
+     "¿Cuánto dura un escaneo corporal?",
+     "De 5 minutos (versión exprés sentado) a 20-30 minutos para la relajación profunda tumbado. Para empezar, 10 minutos guiados son más que suficientes."
+    ],
+    [
+     "¿Sentado o tumbado?",
+     "Tumbado para la relajación profunda y la noche; sentado para mantenerte alerta durante el día. La regla: tumbado si dormirse es aceptable, sentado si no."
+    ],
+    [
+     "¿Por qué me duermo cada vez?",
+     "¡Porque funciona! Si dormir no es el objetivo, practica sentado, de día, con los ojos entreabiertos — y guarda la versión tumbada para la noche."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Sentir sans changer : la détente est un sous-produit, pas un objectif.",
+    "Le trajet va des pieds vers la tête, une zone à la fois.",
+    "« Ne rien sentir » est une observation valable — la sensibilité s'entraîne.",
+    "Allongé pour dormir, assis pour rester présent."
+   ],
+   "en": [
+    "Feel without changing: relaxation is a by-product, not a goal.",
+    "The route runs feet to head, one region at a time.",
+    "'Feeling nothing' is a valid observation — sensitivity trains.",
+    "Lying down for sleep, seated to stay present."
+   ],
+   "es": [
+    "Sentir sin cambiar: la relajación es un subproducto, no un objetivo.",
+    "El recorrido va de los pies a la cabeza, una zona cada vez.",
+    "«No sentir nada» es una observación válida — la sensibilidad se entrena.",
+    "Tumbado para dormir, sentado para seguir presente."
+   ]
+  },
+  "published": null
+ },
+ {
   "id": "pensees",
   "sections": [
    "pensees"
@@ -516,6 +614,104 @@
     "Respiración coherente: 6 respiraciones por minuto, 5 minutos.",
     "Las transiciones del día son los mejores huecos.",
     "La pausa corta interrumpe; la sesión larga profundiza."
+   ]
+  },
+  "published": null
+ },
+ {
+  "id": "matin",
+  "sections": [
+   "matin"
+  ],
+  "image": 5,
+  "hero": null,
+  "slug": {
+   "fr": "meditation-du-matin",
+   "en": "morning-meditation",
+   "es": "meditacion-de-la-manana"
+  },
+  "title": {
+   "fr": "Méditation du matin : bien commencer la journée",
+   "en": "Morning meditation: how to start your day right",
+   "es": "Meditación de la mañana: empieza bien el día"
+  },
+  "desc": {
+   "fr": "Pourquoi méditer le matin change la journée, le rituel de dix minutes pas à pas — respiration abdominale, attention, intention — et les trois pièges à éviter.",
+   "en": "Why meditating in the morning changes the day, the ten-minute ritual step by step — belly breathing, attention, intention — and the three traps to avoid.",
+   "es": "Por qué meditar por la mañana cambia el día, el ritual de diez minutos paso a paso — respiración abdominal, atención, intención — y las tres trampas a evitar."
+  },
+  "intro": {
+   "fr": "Dix minutes de méditation le matin, avant le premier écran, et la journée démarre depuis le calme au lieu de l'urgence. Voici un rituel simple et tenable — réveil, posture, respiration abdominale, intention — et comment déjouer les pièges qui le sabotent.",
+   "en": "Ten minutes of morning meditation, before the first screen, and the day starts from calm instead of urgency. Here's a simple, keepable ritual — waking, posture, belly breathing, intention — and how to outsmart the traps that sabotage it.",
+   "es": "Diez minutos de meditación por la mañana, antes de la primera pantalla, y el día arranca desde la calma en vez de la urgencia. Un ritual simple y sostenible — despertar, postura, respiración abdominal, intención — y cómo esquivar las trampas que lo sabotean."
+  },
+  "kw": {
+   "fr": "méditation du matin, méditer le matin, routine matinale, respiration abdominale, rituel du matin",
+   "en": "morning meditation, meditate in the morning, morning routine, belly breathing, morning ritual",
+   "es": "meditación de la mañana, meditar por la mañana, rutina matinal, respiración abdominal, ritual matinal"
+  },
+  "faq": {
+   "fr": [
+    [
+     "À quelle heure méditer le matin ?",
+     "Juste après le réveil, avant le téléphone et si possible avant le petit-déjeuner : l'esprit est encore calme, et rien n'a encore pu annuler la séance."
+    ],
+    [
+     "Café avant ou après ?",
+     "Comme tu veux — l'important est la constance. Beaucoup aiment méditer pendant que le café passe : l'odeur devient un signal de plus dans le rituel."
+    ],
+    [
+     "Et si je ne suis pas du matin ?",
+     "Le rituel se plie à cinq ou trois minutes, assis au bord du lit. Et si rien n'y fait, médite à ta vraie charnière du matin : dans le train, ou avant d'ouvrir tes mails."
+    ]
+   ],
+   "en": [
+    [
+     "What time should I meditate in the morning?",
+     "Right after waking, before the phone and if possible before breakfast: the mind is still calm, and nothing has had a chance to cancel the session."
+    ],
+    [
+     "Coffee before or after?",
+     "Either — consistency is what matters. Many people love meditating while the coffee brews: the smell becomes one more signal in the ritual."
+    ],
+    [
+     "What if I'm not a morning person?",
+     "The ritual folds down to five or three minutes, seated on the edge of the bed. And if nothing works, meditate at your true morning hinge: on the train, or before opening your email."
+    ]
+   ],
+   "es": [
+    [
+     "¿A qué hora meditar por la mañana?",
+     "Justo después de despertar, antes del teléfono y si es posible antes del desayuno: la mente sigue tranquila y nada ha podido cancelar la sesión."
+    ],
+    [
+     "¿Café antes o después?",
+     "Como prefieras — lo importante es la constancia. A muchos les encanta meditar mientras sale el café: el olor se vuelve una señal más del ritual."
+    ],
+    [
+     "¿Y si no soy persona de mañanas?",
+     "El ritual se pliega a cinco o tres minutos, sentado al borde de la cama. Y si nada funciona, medita en tu verdadera bisagra matinal: en el tren, o antes de abrir el correo."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Dix minutes avant le premier écran — c'est la seule règle dure.",
+    "Toujours la même place, la même heure : le lieu déclenche la séance.",
+    "Respiration abdominale d'abord, attention ensuite, une intention pour finir.",
+    "Pas dans le lit le matin : le lit veut dire sommeil."
+   ],
+   "en": [
+    "Ten minutes before the first screen — the one hard rule.",
+    "Same spot, same time: the place triggers the session.",
+    "Belly breathing first, attention next, one intention to finish.",
+    "Not in bed in the morning: the bed means sleep."
+   ],
+   "es": [
+    "Diez minutos antes de la primera pantalla — la única regla dura.",
+    "Mismo sitio, misma hora: el lugar dispara la sesión.",
+    "Primero respiración abdominal, luego atención, una intención para cerrar.",
+    "No en la cama por la mañana: la cama significa sueño."
    ]
   },
   "published": null
