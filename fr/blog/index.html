@@ -63,6 +63,18 @@ details p{padding-bottom:12px}
 .pill-list{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0}
 .pill-list li{border:1px solid var(--line);border-radius:99px;padding:5px 13px;font-size:13.5px;color:var(--muted)}
 .media-slot{display:none}
+.intro{color:var(--muted);font-size:16.5px;margin:0 0 22px;font-family:'Avenir Next','Segoe UI',system-ui,sans-serif}
+article figure{margin:16px 0 20px}
+article figure.hero{margin:4px 0 26px}
+article figcaption{font-size:13.5px;color:var(--dim);margin-top:8px;line-height:1.5;font-family:'Avenir Next',sans-serif}
+.toc{border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.02);padding:16px 20px;margin:0 0 26px;font-family:'Avenir Next',sans-serif}
+.toc b{display:block;color:var(--gold);font-size:13px;letter-spacing:.08em;text-transform:uppercase;margin-bottom:8px}
+.toc ul{list-style:none;padding:0;margin:0;columns:2;column-gap:26px}
+.toc li{margin:4px 0;break-inside:avoid}
+.toc a{color:var(--muted);text-decoration:none;font-size:14px}
+.toc a:hover{color:var(--gold)}
+@media(max-width:600px){.toc ul{columns:1}}
+article :target{scroll-margin-top:80px}
 .cta{background:linear-gradient(135deg,#1c1830,#241d3f);border:1px solid rgba(212,175,106,.35);border-radius:var(--radius);padding:26px;margin:44px 0 20px;text-align:center}
 .cta h2{margin:0 0 8px;font-size:26px;color:#fff7e8}
 .cta p{color:var(--muted);font-size:15.5px;max-width:560px;margin:0 auto 16px}

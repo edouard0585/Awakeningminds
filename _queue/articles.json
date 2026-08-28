@@ -4,7 +4,7 @@
   "sections": [
    "intro"
   ],
-  "image": null,
+  "image": 9,
   "slug": {
    "fr": "apprendre-a-mediter-guide-debutant",
    "en": "how-to-start-meditating-beginners-guide",
@@ -20,7 +20,13 @@
    "en": "What meditation actually is, why it's worth starting, and the 5 myths that block beginners. A simple, free guide to your first meditation.",
    "es": "Qué es meditar, por qué empezar y las 5 ideas falsas que frenan a los principiantes. Una guía sencilla y gratis para tu primera meditación."
   },
-  "published": "2026-08-28"
+  "published": "2026-08-28",
+  "hero": 9,
+  "intro": {
+   "fr": "Tu veux apprendre à méditer mais tu ne sais pas par où commencer ? Ce guide du débutant reprend tout depuis le début : ce qu'est vraiment la méditation, ce qu'elle apporte au quotidien, et les idées reçues qui font abandonner. Aucun matériel, aucune dépense — juste ton attention et quelques minutes par jour.",
+   "en": "Want to learn how to meditate but don't know where to begin? This beginner's guide starts from zero: what meditation actually is, what a daily practice brings, and the myths that make people quit. No equipment, no cost — just your attention and a few minutes a day.",
+   "es": "¿Quieres aprender a meditar pero no sabes por dónde empezar? Esta guía para principiantes empieza desde cero: qué es realmente la meditación, qué aporta una práctica diaria y las ideas falsas que hacen abandonar. Sin material y sin gastar nada — solo tu atención y unos minutos al día."
+  }
  },
  {
   "id": "posture",
@@ -43,7 +49,12 @@
    "en": "Chair, cross-legged, seiza or lying down: the 4 meditation positions with diagrams, and the 7 points of a dignified, relaxed posture.",
    "es": "Silla, piernas cruzadas, seiza o tumbado: las 4 posiciones de meditación con esquemas, y los 7 puntos de una postura digna y relajada."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "La posture de méditation n'exige ni souplesse ni lotus : sur une chaise, en tailleur, à genoux ou allongé, l'essentiel tient en sept points simples. Voici comment t'installer pour méditer confortablement, sans douleur, dès ta première séance guidée.",
+   "en": "A meditation posture requires neither flexibility nor the lotus: on a chair, cross-legged, kneeling or lying down, it all comes down to seven simple points. Here's how to sit comfortably and meditate without pain, from your very first guided session.",
+   "es": "La postura de meditación no exige flexibilidad ni la flor de loto: en una silla, con las piernas cruzadas, de rodillas o tumbado, todo cabe en siete puntos sencillos. Así puedes sentarte cómodo y meditar sin dolor desde tu primera sesión guiada."
+  }
  },
  {
   "id": "respiration",
@@ -66,7 +77,12 @@
    "en": "Belly breathing, coherent breathing, box breathing and 4-7-8: when to use each one, with diagrams and precautions.",
    "es": "Respiración abdominal, coherente, cuadrada y 4-7-8: cuándo usar cada una, con esquemas y precauciones."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "La respiration est l'outil le plus direct pour calmer le corps et l'esprit : toujours disponible, gratuite, efficace en quelques minutes. Respiration abdominale, cohérence cardiaque, respiration carrée, 4-7-8 : quatre techniques à connaître pour s'apaiser, se concentrer ou s'endormir.",
+   "en": "Your breath is the most direct tool for calming body and mind: always available, free, and working within minutes. Belly breathing, coherent breathing, box breathing and 4-7-8 — four breathing techniques worth knowing, whether you want to relax, focus or fall asleep.",
+   "es": "La respiración es la herramienta más directa para calmar el cuerpo y la mente: siempre disponible, gratis y eficaz en pocos minutos. Respiración abdominal, coherente, cuadrada y 4-7-8: cuatro técnicas de respiración que conviene conocer para relajarte, concentrarte o dormir."
+  }
  },
  {
   "id": "pensees",
@@ -89,7 +105,12 @@
    "en": "The attention cycle, 3 concrete tools for busy thoughts, and the 5 classic obstacles in meditation — plus the key moment that trains attention.",
    "es": "El ciclo de la atención, 3 herramientas concretas frente a los pensamientos y los 5 obstáculos clásicos de la meditación."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "« Je pense trop pour méditer » est l'idée reçue n° 1 chez les débutants. Bonne nouvelle : remarquer que ton esprit s'échappe n'est pas un échec, c'est l'exercice lui-même. Voici le cycle de l'attention, trois outils concrets face aux pensées, et les cinq obstacles classiques de la méditation.",
+   "en": "“I think too much to meditate” is the number-one beginner myth. Good news: noticing your mind has wandered isn't failure — it IS the exercise. Here's the attention cycle, three concrete tools for busy thoughts, and the five classic obstacles of meditation.",
+   "es": "«Pienso demasiado para meditar» es la idea falsa n.º 1 entre principiantes. Buena noticia: darte cuenta de que tu mente se escapó no es un fracaso — es el ejercicio en sí. Aquí tienes el ciclo de la atención, tres herramientas concretas frente a los pensamientos y los cinco obstáculos clásicos."
+  }
  },
  {
   "id": "programme",
@@ -97,7 +118,7 @@
    "programme",
    "conseils"
   ],
-  "image": null,
+  "image": 0,
   "slug": {
    "fr": "programme-meditation-debutant-4-semaines",
    "en": "4-week-beginner-meditation-program",
@@ -113,7 +134,13 @@
    "en": "A progressive 4-week plan to build a meditation habit, plus the most common beginner mistakes and how to avoid them.",
    "es": "Un plan progresivo de 4 semanas para crear el hábito de meditar, más los errores frecuentes de los principiantes y cómo evitarlos."
   },
-  "published": null
+  "published": null,
+  "hero": 0,
+  "intro": {
+   "fr": "Méditer s'apprend comme on apprend à nager : progressivement, avec un cadre simple. Ce programme de méditation pour débutant tient en quatre semaines — posture et respiration, puis attention, puis autonomie — à raison de quelques minutes par jour, avec les erreurs fréquentes à éviter.",
+   "en": "Meditation is learned like swimming: progressively, with a simple structure. This beginner meditation program takes four weeks — posture and breathing, then attention, then autonomy — a few minutes a day, with the common mistakes to avoid along the way.",
+   "es": "Meditar se aprende como se aprende a nadar: de forma progresiva y con una estructura sencilla. Este programa de meditación para principiantes dura cuatro semanas — postura y respiración, luego atención, luego autonomía — unos minutos al día, con los errores más comunes a evitar."
+  }
  },
  {
   "id": "techniques",
@@ -136,7 +163,12 @@
    "en": "Body scan, walking meditation, loving-kindness, RAIN, visualization… each technique explained with its steps and diagram.",
    "es": "Escaneo corporal, meditación caminando, bondad amorosa, RAIN, visualización… cada técnica explicada con sus pasos y su esquema."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "Scan corporel, méditation marchée, bienveillance, visualisation, méthode RAIN… Derrière le mot « méditation » vivent des techniques très différentes, chacune avec sa force. Ce guide les explique une à une — comment les pratiquer, quand les choisir, et à qui elles conviennent.",
+   "en": "Body scan, walking meditation, loving-kindness, visualization, the RAIN method… The word “meditation” covers very different techniques, each with its own strength. This guide explains them one by one — how to practice each, when to choose it, and who it suits.",
+   "es": "Escaneo corporal, meditación caminando, bondad amorosa, visualización, método RAIN… La palabra «meditación» reúne técnicas muy distintas, cada una con su fuerza. Esta guía las explica una a una: cómo practicarlas, cuándo elegirlas y a quién le convienen."
+  }
  },
  {
   "id": "quotidien",
@@ -159,7 +191,12 @@
    "en": "Finding the right time, anchoring meditation to an existing habit, and what to do on unmotivated days: a daily practice that lasts.",
    "es": "Encontrar el momento, unir la meditación a un hábito existente y qué hacer los días sin ganas: una práctica diaria que dura."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "Le plus dur dans la méditation n'est pas de méditer — c'est de recommencer demain. Pour installer une pratique quotidienne qui dure, tout se joue sur le moment choisi, l'ancrage à une habitude existante et la taille du premier pas. Voici comment méditer tous les jours sans forcer.",
+   "en": "The hardest part of meditation isn't meditating — it's coming back tomorrow. Building a daily meditation habit comes down to the moment you choose, the habit you anchor it to, and the size of the first step. Here's how to meditate every day without forcing it.",
+   "es": "Lo más difícil de la meditación no es meditar — es volver mañana. Para crear un hábito diario que dure, todo depende del momento elegido, del hábito al que lo unes y del tamaño del primer paso. Así puedes meditar todos los días sin forzarte."
+  }
  },
  {
   "id": "science",
@@ -182,7 +219,12 @@
    "en": "Brain, breath, attention: what regular practice really changes, explained simply — and what the science does not say.",
    "es": "Cerebro, respiración, atención: lo que la práctica regular cambia de verdad, explicado con sencillez — y lo que la ciencia no dice."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "Que se passe-t-il réellement dans le cerveau et le corps quand on médite ? Attention, stress, sommeil : la recherche a bien documenté certains effets de la méditation — et beaucoup moins d'autres. Un tour honnête de ce que la science dit, et de ce qu'elle ne dit pas.",
+   "en": "What actually happens in your brain and body when you meditate? Attention, stress, sleep: research has documented some effects of meditation well — and others far less. An honest tour of what the science says, and what it doesn't.",
+   "es": "¿Qué pasa realmente en el cerebro y el cuerpo cuando meditas? Atención, estrés, sueño: la investigación ha documentado bien algunos efectos de la meditación — y otros mucho menos. Un repaso honesto de lo que dice la ciencia y de lo que no dice."
+  }
  },
  {
   "id": "histoire",
@@ -205,7 +247,12 @@
    "en": "From Vedic India to Japanese Zen to mobile apps: where today’s meditation practices actually come from.",
    "es": "De la India védica al zen japonés y las apps móviles: de dónde vienen las prácticas que usamos hoy."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "Avant d'être une application dans ta poche, la méditation a traversé 3 500 ans d'histoire : l'Inde védique, le bouddhisme, le zen japonais, les monastères chrétiens, la pleine conscience moderne. Comprendre d'où viennent ces pratiques change la façon de les pratiquer.",
+   "en": "Before it was an app in your pocket, meditation crossed 3,500 years of history: Vedic India, Buddhism, Japanese Zen, Christian monasteries, modern mindfulness. Knowing where these practices come from changes how you practice them.",
+   "es": "Antes de ser una app en tu bolsillo, la meditación atravesó 3500 años de historia: la India védica, el budismo, el zen japonés, los monasterios cristianos, la atención plena moderna. Saber de dónde vienen estas prácticas cambia la manera de practicarlas."
+  }
  },
  {
   "id": "emc",
@@ -228,7 +275,12 @@
    "en": "The spectrum of conscious states, meditative trance and deep practices: a clear, honest, no-hype guide.",
    "es": "El espectro de los estados de conciencia, el trance meditativo y las prácticas profundas: una guía clara y honesta."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "Rêverie, flow, hypnose, transe méditative : la conscience n'est pas un interrupteur mais un spectre d'états. Ce guide clarifie ce que sont les états modifiés de conscience, comment la méditation profonde y conduit naturellement, et comment les explorer sans mystification.",
+   "en": "Daydreaming, flow, hypnosis, meditative trance: consciousness isn't a switch but a spectrum of states. This guide clarifies what altered states of consciousness are, how deep meditation leads there naturally, and how to explore them without the hype.",
+   "es": "Ensoñación, flow, hipnosis, trance meditativo: la conciencia no es un interruptor sino un espectro de estados. Esta guía aclara qué son los estados modificados de conciencia, cómo la meditación profunda conduce a ellos de forma natural y cómo explorarlos sin misticismo barato."
+  }
  },
  {
   "id": "chakras",
@@ -251,7 +303,12 @@
    "en": "The 7 chakras explained simply: a symbolic body map used to guide attention during meditation — no dogma.",
    "es": "Los 7 chakras explicados con sencillez: un mapa simbólico del cuerpo para guiar la atención al meditar, sin dogmas."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "Les sept chakras forment une carte symbolique du corps utilisée depuis des siècles par la méditation : sept zones où poser l'attention, de la base de la colonne au sommet du crâne. Voici cette carte expliquée simplement, et comment l'utiliser dans une méditation guidée des chakras.",
+   "en": "The seven chakras form a symbolic body map that meditation has used for centuries: seven regions to rest your attention on, from the base of the spine to the crown. Here's that map explained simply, and how to use it in a guided chakra meditation.",
+   "es": "Los siete chakras forman un mapa simbólico del cuerpo que la meditación usa desde hace siglos: siete zonas donde posar la atención, de la base de la columna a la coronilla. Aquí tienes ese mapa explicado con sencillez, y cómo usarlo en una meditación guiada de los chakras."
+  }
  },
  {
   "id": "reve",
@@ -274,14 +331,19 @@
    "en": "Dream journal, reality checks, evening meditations: the first concrete steps toward lucid dreaming, calmly explained.",
    "es": "Diario de sueños, pruebas de realidad, meditaciones nocturnas: los primeros pasos concretos hacia el sueño lúcido."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "Le rêve lucide — savoir que l'on rêve pendant le rêve — s'apprend, et la méditation est l'un de ses meilleurs entraînements. Journal de rêves, tests de réalité, méditations du soir : les premières étapes concrètes vers un sommeil plus conscient.",
+   "en": "Lucid dreaming — knowing you're dreaming while you dream — can be learned, and meditation is one of its best training grounds. Dream journal, reality checks, evening meditations: the first concrete steps toward more conscious sleep.",
+   "es": "El sueño lúcido — saber que sueñas mientras sueñas — se aprende, y la meditación es uno de sus mejores entrenamientos. Diario de sueños, pruebas de realidad, meditaciones nocturnas: los primeros pasos concretos hacia un dormir más consciente."
+  }
  },
  {
   "id": "ombre",
   "sections": [
    "ombre"
   ],
-  "image": null,
+  "image": 13,
   "slug": {
    "fr": "travail-de-l-ombre-meditation",
    "en": "shadow-work-meditation",
@@ -297,7 +359,13 @@
    "en": "Meeting what you’d rather not see: shadow work explained step by step, with gentle practices and clear boundaries.",
    "es": "Acoger lo que preferimos no ver: el trabajo de sombra paso a paso, con prácticas suaves y límites claros."
   },
-  "published": null
+  "published": null,
+  "hero": 13,
+  "intro": {
+   "fr": "Il y a en chacun des parts que l'on préfère ne pas regarder : colère, jalousie, peurs. Le travail de l'ombre consiste à les accueillir plutôt qu'à les combattre — avec douceur, méthode et des limites claires. Une pratique de réconciliation intérieure, pas à pas.",
+   "en": "Everyone carries parts they'd rather not look at: anger, jealousy, fears. Shadow work means welcoming them rather than fighting them — gently, methodically, with clear boundaries. A practice of inner reconciliation, step by step.",
+   "es": "Todos llevamos partes que preferimos no mirar: rabia, celos, miedos. El trabajo de sombra consiste en acogerlas en vez de combatirlas — con suavidad, método y límites claros. Una práctica de reconciliación interior, paso a paso."
+  }
  },
  {
   "id": "symboles",
@@ -320,7 +388,12 @@
    "en": "Why meditation speaks in images: symbols, archetypes and inner landscapes, and how to work with them in your practice.",
    "es": "Por qué la meditación habla en imágenes: símbolos, arquetipos y paisajes interiores, y cómo usarlos en tu práctica."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "Pourquoi les méditations guidées parlent-elles de temples, de forêts, de lumière ? Parce que l'esprit profond pense en images. Symboles, archétypes et paysages intérieurs : comprendre ce langage rend chaque visualisation plus vivante — et plus utile.",
+   "en": "Why do guided meditations speak of temples, forests, light? Because the deep mind thinks in images. Symbols, archetypes and inner landscapes: understanding this language makes every visualization more vivid — and more useful.",
+   "es": "¿Por qué las meditaciones guiadas hablan de templos, bosques, luz? Porque la mente profunda piensa en imágenes. Símbolos, arquetipos y paisajes interiores: entender este lenguaje hace cada visualización más viva — y más útil."
+  }
  },
  {
   "id": "astral",
@@ -343,7 +416,12 @@
    "en": "From deep relaxation to exit techniques: the astral projection progression ladder, presented without sensationalism.",
    "es": "De la relajación profunda a las técnicas de salida: la escalera de progresión del viaje astral, sin sensacionalismo."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "Le voyage astral fascine et inquiète à la fois. Ici, pas de sensationnalisme : une échelle de progression claire, de la détente profonde aux techniques de sortie, où chaque marche se pratique à son rythme — et reste, en soi, une belle méditation.",
+   "en": "Astral projection fascinates and unsettles in equal measure. No sensationalism here: a clear progression ladder, from deep relaxation to exit techniques, where each rung is practiced at your own pace — and is, in itself, a rewarding meditation.",
+   "es": "El viaje astral fascina e inquieta a partes iguales. Aquí no hay sensacionalismo: una escalera de progresión clara, de la relajación profunda a las técnicas de salida, donde cada peldaño se practica a tu ritmo — y es, en sí mismo, una buena meditación."
+  }
  },
  {
   "id": "interactives",
@@ -366,6 +444,11 @@
    "en": "Voice, pauses, after-session impressions: how to get the most from a guided or interactive meditation, start to finish.",
    "es": "Voz, pausas, impresiones tras la sesión: cómo sacar el máximo partido a una meditación guiada o interactiva."
   },
-  "published": null
+  "published": null,
+  "intro": {
+   "fr": "Une méditation guidée n'est pas un podcast : la voix, les silences et ce que tu en fais changent tout. Choisir sa voix, respecter les pauses, noter ses impressions après la séance : voici comment tirer le meilleur de chaque méditation guidée ou interactive.",
+   "en": "A guided meditation isn't a podcast: the voice, the silences and what you do with them change everything. Choosing your voice, honoring the pauses, writing down impressions afterwards: here's how to get the most from every guided or interactive meditation.",
+   "es": "Una meditación guiada no es un pódcast: la voz, los silencios y lo que haces con ellos lo cambian todo. Elegir tu voz, respetar las pausas, anotar tus impresiones después: así se aprovecha al máximo cada meditación guiada o interactiva."
+  }
  }
 ]

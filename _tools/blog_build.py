@@ -39,6 +39,18 @@ T = {
    cta_p="Todo lo que describe este artículo se practica en Awakening Minds: 195 meditaciones guiadas en español, 100 % gratis, sin suscripción, sin conexión.",
    cta_b="Descubre la app gratis", other="Sigue leyendo"),
 }
+TOC_LABEL = {'fr': 'Dans cet article', 'en': 'In this article', 'es': 'En este artículo'}
+# Maillage interne thématique : liens contextuels entre articles (ancres = titres).
+RELATED = {
+ 'intro': ['posture', 'respiration', 'programme'], 'posture': ['respiration', 'intro', 'techniques'],
+ 'respiration': ['posture', 'pensees', 'techniques'], 'pensees': ['respiration', 'techniques', 'quotidien'],
+ 'programme': ['intro', 'posture', 'quotidien'], 'techniques': ['pensees', 'programme', 'science'],
+ 'quotidien': ['programme', 'pensees', 'interactives'], 'science': ['techniques', 'respiration', 'histoire'],
+ 'histoire': ['science', 'emc', 'symboles'], 'emc': ['histoire', 'astral', 'chakras'],
+ 'chakras': ['emc', 'techniques', 'symboles'], 'reve': ['emc', 'symboles', 'quotidien'],
+ 'ombre': ['pensees', 'techniques', 'symboles'], 'symboles': ['ombre', 'reve', 'histoire'],
+ 'astral': ['emc', 'reve', 'chakras'], 'interactives': ['intro', 'quotidien', 'techniques'],
+}
 MONTHS = {
  'fr': ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'],
  'es': ['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre'],
@@ -105,6 +117,18 @@ details p{padding-bottom:12px}
 .pill-list{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0}
 .pill-list li{border:1px solid var(--line);border-radius:99px;padding:5px 13px;font-size:13.5px;color:var(--muted)}
 .media-slot{display:none}
+.intro{color:var(--muted);font-size:16.5px;margin:0 0 22px;font-family:'Avenir Next','Segoe UI',system-ui,sans-serif}
+article figure{margin:16px 0 20px}
+article figure.hero{margin:4px 0 26px}
+article figcaption{font-size:13.5px;color:var(--dim);margin-top:8px;line-height:1.5;font-family:'Avenir Next',sans-serif}
+.toc{border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.02);padding:16px 20px;margin:0 0 26px;font-family:'Avenir Next',sans-serif}
+.toc b{display:block;color:var(--gold);font-size:13px;letter-spacing:.08em;text-transform:uppercase;margin-bottom:8px}
+.toc ul{list-style:none;padding:0;margin:0;columns:2;column-gap:26px}
+.toc li{margin:4px 0;break-inside:avoid}
+.toc a{color:var(--muted);text-decoration:none;font-size:14px}
+.toc a:hover{color:var(--gold)}
+@media(max-width:600px){.toc ul{columns:1}}
+article :target{scroll-margin-top:80px}
 .cta{background:linear-gradient(135deg,#1c1830,#241d3f);border:1px solid rgba(212,175,106,.35);border-radius:var(--radius);padding:26px;margin:44px 0 20px;text-align:center}
 .cta h2{margin:0 0 8px;font-size:26px;color:#fff7e8}
 .cta p{color:var(--muted);font-size:15.5px;max-width:560px;margin:0 auto 16px}
@@ -127,6 +151,37 @@ def load():
 
 def section_html(lang, sid):
     return open(f'{ROOT}/_queue/sections/{lang}/{sid}.html', encoding='utf-8').read()
+
+SCHEMA_PREFIX = re.compile(r'^(Schéma|Diagram|Esquema|Sch&#x27;ema)\s*[—-]\s*', re.I)
+
+def _slugify(txt):
+    import unicodedata
+    t = unicodedata.normalize('NFKD', re.sub('<[^>]+>', '', txt)).encode('ascii', 'ignore').decode()
+    t = re.sub(r'[^a-zA-Z0-9]+', '-', t).strip('-').lower()
+    return t[:60] or 'section'
+
+def enrich_body(body, lang):
+    """Corps prêt pour le web : chaque schéma devient une figure légendée,
+    chaque h3 reçoit une ancre, et un sommaire s'ajoute si l'article est long."""
+    def fig(m):
+        tag, alt = m.group(0), m.group(1)
+        cap = SCHEMA_PREFIX.sub('', alt)
+        return f'<figure>{tag}<figcaption>{cap}</figcaption></figure>'
+    body = re.sub(r'<img [^>]*alt="([^"]+)"[^>]*/?>(?!\s*<figcaption)', fig, body)
+    heads, seen = [], set()
+    def anchor(m):
+        txt = m.group(1)
+        base = _slugify(txt); hid = base; k = 2
+        while hid in seen: hid = f'{base}-{k}'; k += 1
+        seen.add(hid)
+        heads.append((hid, re.sub('<[^>]+>', '', txt)))
+        return f'<h3 id="{hid}">{txt}</h3>'
+    body = re.sub(r'<h3>(.*?)</h3>', anchor, body)
+    toc = ''
+    if len(heads) >= 4:
+        items = ''.join(f'<li><a href="#{h}">{E(t)}</a></li>' for h, t in heads)
+        toc = f'<nav class="toc"><b>{E(TOC_LABEL[lang])}</b><ul>{items}</ul></nav>'
+    return toc, body
 
 def words(txt):
     return len(re.sub('<[^>]+>', ' ', txt).split())
@@ -183,9 +238,21 @@ def render_article(a, lang, arts):
     h += f'<main class="wrap"><article><h1>{E(a["title"][lang])}</h1>'
     h += f'<div class="meta">{E(t["published_on"])} {E(fmt_date(a["published"], lang))} · {mins} {E(t["read"])}</div>'
     h += f'<p class="lead">{E(a["desc"][lang])}</p>'
-    h += body
+    if a.get('intro'):
+        h += f'<p class="intro">{E(a["intro"][lang])}</p>'
+    if a.get('hero') is not None:
+        sl = SCHEMA_FILES[a['hero']][lang]
+        alt = HERO_ALTS.get((a['hero'], lang), a['title'][lang])
+        cap = SCHEMA_PREFIX.sub('', alt)
+        h += (f'<figure class="hero"><img src="../../assets/blog/{sl}-{lang}.webp" alt="{E(alt)}" '
+              f'width="960" loading="eager"><figcaption>{E(cap)}</figcaption></figure>')
+    toc, body = enrich_body(body, lang)
+    h += toc + body
     h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="../#download">✦ {E(t["cta_b"])}</a></div>'
-    others = [o for o in arts if o.get('published') and o['id'] != a['id']][-3:]
+    by_id = {o['id']: o for o in arts}
+    others = [by_id[r] for r in RELATED.get(a['id'], []) if by_id.get(r, {}).get('published')]
+    if not others:
+        others = [o for o in arts if o.get('published') and o['id'] != a['id']][-3:]
     if others:
         h += f'<h2>{E(t["other"])}</h2><ul class="alist">'
         for o in others:
@@ -239,9 +306,23 @@ def _load_schema_files():
     # l'index du schéma ; la table est fournie ici, figée à la génération.
     return json.load(open(f'{ROOT}/_queue/schema_files.json', encoding='utf-8'))
 
+HERO_ALTS = {}
+def _scan_hero_alts():
+    """Alt réel de chaque schéma, relevé dans la langue de la page."""
+    inv = {v[lang]: (n, lang) for n, v in SCHEMA_FILES.items() for lang in LANGS}
+    for lang in LANGS:
+        d = f'{ROOT}/_queue/sections/{lang}'
+        for fn in os.listdir(d):
+            for m in re.finditer(r'src="\.\./\.\./assets/blog/([^"]+)-(?:fr|en|es)\.webp"[^>]*alt="([^"]+)"',
+                                 open(f'{d}/{fn}', encoding='utf-8').read()):
+                key = inv.get(m.group(1))
+                if key and key not in HERO_ALTS:
+                    HERO_ALTS[key] = m.group(2)
+
 def build():
     global SCHEMA_FILES
     SCHEMA_FILES = {int(k): v for k, v in _load_schema_files().items()}
+    _scan_hero_alts()
     arts = load()
     for lang in LANGS:
         os.makedirs(f'{ROOT}/{lang}/blog', exist_ok=True)
