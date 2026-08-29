@@ -51,8 +51,8 @@ TOC_LABEL = {'fr': 'Dans cet article', 'en': 'In this article', 'es': 'En este a
 # Maillage interne thématique : liens contextuels entre articles (ancres = titres).
 RELATED = {
  'intro': ['posture', 'respiration', 'programme'], 'posture': ['respiration', 'scan', 'intro'],
- 'respiration': ['dormir', 'posture', 'pensees'], 'pensees': ['respiration', 'techniques', 'quotidien'],
- 'programme': ['intro', 'cinqminutes', 'quotidien'], 'techniques': ['pensees', 'programme', 'science'],
+ 'respiration': ['dormir', 'posture', 'pensees'], 'pensees': ['pleineconscience', 'respiration', 'techniques'],
+ 'programme': ['intro', 'cinqminutes', 'quotidien'], 'techniques': ['scan', 'marche', 'bienveillance'],
  'quotidien': ['cinqminutes', 'programme', 'dormir'], 'science': ['techniques', 'respiration', 'histoire'],
  'histoire': ['science', 'emc', 'symboles'], 'emc': ['histoire', 'astral', 'chakras'],
  'chakras': ['emc', 'techniques', 'symboles'], 'reve': ['dormir', 'emc', 'symboles'],
@@ -60,6 +60,9 @@ RELATED = {
  'astral': ['emc', 'reve', 'chakras'], 'interactives': ['intro', 'quotidien', 'techniques'],
  'dormir': ['scan', 'respiration', 'reve'], 'cinqminutes': ['matin', 'quotidien', 'respiration'],
  'scan': ['dormir', 'techniques', 'posture'], 'matin': ['cinqminutes', 'quotidien', 'respiration'],
+ 'pleineconscience': ['pensees', 'intro', 'quotidien'],
+ 'marche': ['techniques', 'scan', 'cinqminutes'],
+ 'bienveillance': ['techniques', 'ombre', 'pleineconscience'],
 }
 MONTHS = {
  'fr': ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'],

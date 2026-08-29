@@ -521,6 +521,104 @@
   }
  },
  {
+  "id": "pleineconscience",
+  "sections": [
+   "pleineconscience"
+  ],
+  "image": 9,
+  "hero": null,
+  "slug": {
+   "fr": "pleine-conscience-definition",
+   "en": "what-is-mindfulness",
+   "es": "que-es-la-atencion-plena"
+  },
+  "title": {
+   "fr": "La pleine conscience : définition et pratique",
+   "en": "What is mindfulness? Definition and practice",
+   "es": "Qué es la atención plena: definición y práctica"
+  },
+  "desc": {
+   "fr": "La pleine conscience expliquée simplement : sa définition en une phrase, les quatre malentendus tenaces, et le geste que la méditation entraîne vraiment.",
+   "en": "Mindfulness explained simply: its one-sentence definition, four stubborn misunderstandings, and the core move that meditation actually trains.",
+   "es": "La atención plena explicada con sencillez: su definición en una frase, cuatro malentendidos tenaces y el gesto que la meditación entrena de verdad."
+  },
+  "intro": {
+   "fr": "« Pleine conscience » est partout, et rarement définie. C'est pourtant simple : porter son attention sur l'instant présent, délibérément, sans juger. Voici ce que ça veut dire concrètement, ce que ce n'est pas, et comment la pratiquer — en méditation guidée comme dans la vraie vie.",
+   "en": "“Mindfulness” is everywhere and rarely defined. Yet it's simple: paying attention to the present moment, on purpose, without judging. Here's what that means concretely, what it is not, and how to practise it — in guided meditation and in real life.",
+   "es": "«Atención plena» está en todas partes y rara vez se define. Y es sencillo: poner la atención en el momento presente, a propósito, sin juzgar. Esto es lo que significa en concreto, lo que no es, y cómo practicarla — en meditación guiada y en la vida real."
+  },
+  "kw": {
+   "fr": "pleine conscience, mindfulness, définition pleine conscience, méditation pleine conscience, instant présent",
+   "en": "mindfulness, what is mindfulness, mindfulness definition, mindfulness meditation, present moment",
+   "es": "atención plena, mindfulness, qué es la atención plena, meditación de atención plena, momento presente"
+  },
+  "faq": {
+   "fr": [
+    [
+     "Quelle différence entre méditation et pleine conscience ?",
+     "La pleine conscience est une manière de prêter attention ; la méditation est le temps dédié où on l'entraîne. On peut être en pleine conscience en faisant la vaisselle — c'est la pratique informelle."
+    ],
+    [
+     "Faut-il fermer les yeux ?",
+     "Non. Les yeux mi-clos, regard posé au sol, conviennent très bien — et sont même préférables si tu as tendance à t'endormir ou à partir dans les images."
+    ],
+    [
+     "Combien de temps pour en voir les effets ?",
+     "La détente arrive dès les premières séances ; le changement dans la façon de réagir au quotidien demande généralement quelques semaines de pratique régulière."
+    ]
+   ],
+   "en": [
+    [
+     "What's the difference between meditation and mindfulness?",
+     "Mindfulness is a way of paying attention; meditation is the dedicated time where you train it. You can be mindful while washing dishes — that's the informal practice."
+    ],
+    [
+     "Do I have to close my eyes?",
+     "No. Half-closed eyes with a soft gaze on the floor work very well — and are preferable if you tend to fall asleep or drift into imagery."
+    ],
+    [
+     "How long before I notice effects?",
+     "Relaxation shows up in the first sessions; a change in how you react day to day usually takes a few weeks of regular practice."
+    ]
+   ],
+   "es": [
+    [
+     "¿Qué diferencia hay entre meditación y atención plena?",
+     "La atención plena es una manera de prestar atención; la meditación es el tiempo dedicado en el que se entrena. Puedes estar en atención plena fregando los platos — esa es la práctica informal."
+    ],
+    [
+     "¿Hay que cerrar los ojos?",
+     "No. Los ojos entreabiertos, con la mirada posada en el suelo, funcionan muy bien — y son preferibles si tiendes a dormirte o a irte en imágenes."
+    ],
+    [
+     "¿Cuánto tarda en notarse?",
+     "La relajación aparece en las primeras sesiones; el cambio en la forma de reaccionar en el día a día suele tardar unas semanas de práctica regular."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Instant présent, délibérément, sans juger : les trois exigences.",
+    "Ce n'est pas faire le vide — c'est remarquer et revenir.",
+    "Un esprit qui part souvent s'entraîne souvent.",
+    "Formelle sur le coussin, informelle dans la vaisselle."
+   ],
+   "en": [
+    "Present moment, on purpose, without judging: the three demands.",
+    "It isn't emptying the mind — it's noticing and returning.",
+    "A mind that wanders often is training often.",
+    "Formal on the cushion, informal at the sink."
+   ],
+   "es": [
+    "Momento presente, a propósito, sin juzgar: las tres exigencias.",
+    "No es poner la mente en blanco — es notar y volver.",
+    "Una mente que se va a menudo entrena a menudo.",
+    "Formal en el cojín, informal fregando los platos."
+   ]
+  },
+  "published": null
+ },
+ {
   "id": "cinqminutes",
   "sections": [
    "cinqminutes"
@@ -783,6 +881,202 @@
    "en": "meditation techniques, body scan, walking meditation, loving-kindness meditation, RAIN method",
    "es": "técnicas de meditación, escaneo corporal, meditación caminando, bondad amorosa, método RAIN"
   }
+ },
+ {
+  "id": "marche",
+  "sections": [
+   "marche"
+  ],
+  "image": 11,
+  "hero": null,
+  "slug": {
+   "fr": "meditation-en-marchant",
+   "en": "walking-meditation",
+   "es": "meditacion-caminando"
+  },
+  "title": {
+   "fr": "La méditation en marchant : méditer sans s’asseoir",
+   "en": "Walking meditation: meditate without sitting still",
+   "es": "Meditación caminando: meditar sin sentarse"
+  },
+  "desc": {
+   "fr": "Les trois phases du pas, le parcours à suivre et trois façons de pratiquer la méditation marchée — la pratique idéale quand l'immobilité ne passe pas.",
+   "en": "The three phases of a step, the route to walk, and three ways to practise walking meditation — the practice for days when stillness won't work.",
+   "es": "Las tres fases del paso, el recorrido a seguir y tres formas de practicar la meditación caminando — ideal cuando la quietud no funciona."
+  },
+  "intro": {
+   "fr": "Quand s'asseoir est impossible — corps agité, dos qui proteste, esprit qui tourne trop vite —, la méditation marchée prend le relais. Le mouvement absorbe l'agitation au lieu de lutter contre elle, et les pieds au sol donnent à l'attention un ancrage plus tangible que la respiration.",
+   "en": "When sitting is impossible — restless body, protesting back, a mind spinning too fast — walking meditation takes over. Movement absorbs restlessness instead of fighting it, and the feet on the ground give attention a more tangible anchor than the breath.",
+   "es": "Cuando sentarse es imposible — cuerpo inquieto, espalda que protesta, mente que gira demasiado rápido —, la meditación caminando toma el relevo. El movimiento absorbe la agitación en vez de luchar contra ella, y los pies en el suelo anclan la atención mejor que la respiración."
+  },
+  "kw": {
+   "fr": "méditation en marchant, méditation marchée, marche méditative, marche en pleine conscience",
+   "en": "walking meditation, mindful walking, meditation while walking, walking mindfulness",
+   "es": "meditación caminando, meditación andando, caminata consciente, marcha meditativa"
+  },
+  "faq": {
+   "fr": [
+    [
+     "Où pratiquer la méditation marchée ?",
+     "Un couloir, une pièce, un jardin : dix à quinze pas suffisent, puis demi-tour. Le trajet court est un avantage — on n'a nulle part où aller, donc rien à anticiper."
+    ],
+    [
+     "À quelle vitesse marcher ?",
+     "Trois à quatre fois plus lentement que d'habitude pour la version formelle. Dehors, à allure normale, on passe à la marche en pleine conscience : on remarque, sans nommer les phases."
+    ],
+    [
+     "Est-ce aussi efficace que la méditation assise ?",
+     "C'est une pratique complète, pas un substitut au rabais. Pour les esprits agités et les corps qui ne tiennent pas en place, elle est souvent plus efficace que l'assise."
+    ]
+   ],
+   "en": [
+    [
+     "Where can I practise walking meditation?",
+     "A hallway, a room, a garden: ten to fifteen steps then turn around. The short route is an advantage — there's nowhere to get to, so nothing to anticipate."
+    ],
+    [
+     "How fast should I walk?",
+     "Three to four times slower than usual for the formal version. Outdoors at normal pace it becomes mindful walking: you notice, without naming the phases."
+    ],
+    [
+     "Is it as effective as sitting meditation?",
+     "It's a complete practice, not a discount substitute. For restless minds and bodies that won't stay put, it's often more effective than sitting."
+    ]
+   ],
+   "es": [
+    [
+     "¿Dónde practicar la meditación caminando?",
+     "Un pasillo, una habitación, un jardín: bastan diez o quince pasos y media vuelta. El recorrido corto es una ventaja — no hay adónde llegar, así que nada que anticipar."
+    ],
+    [
+     "¿A qué velocidad caminar?",
+     "Tres o cuatro veces más despacio de lo habitual en la versión formal. Fuera, a ritmo normal, se convierte en caminata consciente: notas, sin nombrar las fases."
+    ],
+    [
+     "¿Es tan eficaz como la meditación sentada?",
+     "Es una práctica completa, no un sustituto menor. Para mentes agitadas y cuerpos que no se están quietos, suele ser más eficaz que la sentada."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Lève, avance, pose : trois phases à suivre intérieurement.",
+    "Marche 3 à 4 fois plus lentement que d'habitude.",
+    "Dix à quinze pas, demi-tour — aller quelque part n'est pas le but.",
+    "Dehors : yeux ouverts, parcours connu, sécurité d'abord."
+   ],
+   "en": [
+    "Lift, move, place: three phases followed inwardly.",
+    "Walk 3 to 4 times slower than usual.",
+    "Ten to fifteen steps, then turn — getting somewhere isn't the point.",
+    "Outdoors: eyes open, familiar route, safety first."
+   ],
+   "es": [
+    "Levanta, avanza, posa: tres fases seguidas por dentro.",
+    "Camina 3 o 4 veces más despacio de lo habitual.",
+    "Diez o quince pasos y media vuelta — no se trata de llegar.",
+    "Fuera: ojos abiertos, recorrido conocido, seguridad primero."
+   ]
+  },
+  "published": null
+ },
+ {
+  "id": "bienveillance",
+  "sections": [
+   "bienveillance"
+  ],
+  "image": 12,
+  "hero": null,
+  "slug": {
+   "fr": "meditation-bienveillance-metta",
+   "en": "loving-kindness-meditation",
+   "es": "meditacion-de-bondad-amorosa"
+  },
+  "title": {
+   "fr": "La méditation de bienveillance (metta), pas à pas",
+   "en": "Loving-kindness meditation (metta), step by step",
+   "es": "La meditación de bondad amorosa (metta), paso a paso"
+  },
+  "desc": {
+   "fr": "Les cinq cercles de la méditation de bienveillance, les phrases à répéter, et quoi faire quand ça résiste — pour soi comme pour les autres.",
+   "en": "The five circles of loving-kindness meditation, the phrases to repeat, and what to do when it resists — for yourself and for others.",
+   "es": "Los cinco círculos de la meditación de bondad amorosa, las frases que se repiten y qué hacer cuando se resiste — para ti y para los demás."
+  },
+  "intro": {
+   "fr": "La plupart des méditations entraînent l'attention ; celle-ci entraîne la disposition du cœur. Cinq cercles, de soi jusqu'à tous les êtres, quatre phrases répétées lentement — et une règle qui surprend : on commence par soi-même, parce qu'on ne donne pas ce qu'on ne s'accorde pas.",
+   "en": "Most meditations train attention; this one trains the disposition of the heart. Five circles, from yourself out to all beings, four phrases repeated slowly — and one surprising rule: you start with yourself, because you can't give what you won't grant yourself.",
+   "es": "La mayoría de las meditaciones entrenan la atención; esta entrena la disposición del corazón. Cinco círculos, de ti a todos los seres, cuatro frases repetidas despacio — y una regla que sorprende: se empieza por uno mismo, porque no se da lo que uno no se concede."
+  },
+  "kw": {
+   "fr": "méditation de bienveillance, metta, amour bienveillant, méditation compassion, bienveillance envers soi",
+   "en": "loving-kindness meditation, metta meditation, compassion meditation, self-compassion",
+   "es": "meditación de bondad amorosa, metta, meditación de compasión, autocompasión"
+  },
+  "faq": {
+   "fr": [
+    [
+     "Faut-il ressentir quelque chose pour que ça marche ?",
+     "Non — c'est le malentendu le plus courant. On répète une intention, pas une émotion. La chaleur apparaît plus tard, parfois après plusieurs semaines de pratique."
+    ],
+    [
+     "Peut-on sauter l'étape « soi-même » ?",
+     "Mieux vaut la contourner que la sauter : commence par un proche, laisse la tonalité s'installer, puis reviens vers toi. L'ordre a une raison — la bienveillance envers soi conditionne le reste."
+    ],
+    [
+     "Et si je n'arrive pas à souhaiter du bien à une personne difficile ?",
+     "Choisis quelqu'un de moins difficile. Cette pratique ne demande jamais de pardonner ni d'excuser : seulement de souhaiter la paix — ce qui reste possible même quand la relation ne l'est pas."
+    ]
+   ],
+   "en": [
+    [
+     "Do I need to feel something for it to work?",
+     "No — that's the most common misunderstanding. You repeat an intention, not an emotion. Warmth shows up later, sometimes after several weeks of practice."
+    ],
+    [
+     "Can I skip the 'yourself' step?",
+     "Better to go around it than skip it: start with a loved one, let the tone settle, then turn back toward yourself. The order has a reason — kindness toward yourself conditions the rest."
+    ],
+    [
+     "What if I can't wish a difficult person well?",
+     "Pick someone less difficult. This practice never asks you to forgive or excuse: only to wish for peace — which stays possible even when the relationship isn't."
+    ]
+   ],
+   "es": [
+    [
+     "¿Hay que sentir algo para que funcione?",
+     "No — es el malentendido más común. Repites una intención, no una emoción. El calor aparece después, a veces tras varias semanas de práctica."
+    ],
+    [
+     "¿Puedo saltarme el paso de «uno mismo»?",
+     "Mejor rodearlo que saltarlo: empieza por un ser querido, deja que el tono se asiente y luego vuelve hacia ti. El orden tiene su razón — la bondad hacia uno mismo condiciona el resto."
+    ],
+    [
+     "¿Y si no consigo desear el bien a una persona difícil?",
+     "Elige a alguien menos difícil. Esta práctica nunca pide perdonar ni excusar: solo desear paz — algo que sigue siendo posible aunque la relación no lo sea."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Cinq cercles : soi, un proche, un neutre, un difficile, tous les êtres.",
+    "On répète une intention, pas un sentiment.",
+    "Commencer par soi — on ne donne pas ce qu'on ne s'accorde pas.",
+    "La personne difficile : commence par un simple agacement."
+   ],
+   "en": [
+    "Five circles: yourself, a loved one, a neutral, a difficult one, all beings.",
+    "You repeat an intention, not a feeling.",
+    "Start with yourself — you can't give what you won't grant yourself.",
+    "The difficult person: start with mild irritation."
+   ],
+   "es": [
+    "Cinco círculos: tú, un ser querido, uno neutro, uno difícil, todos los seres.",
+    "Repites una intención, no un sentimiento.",
+    "Empieza por ti — no se da lo que uno no se concede.",
+    "La persona difícil: empieza por una molestia leve."
+   ]
+  },
+  "published": null
  },
  {
   "id": "quotidien",
