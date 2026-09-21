@@ -27,3 +27,8 @@ jobs:
           curl -s -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             -H "Accept: application/vnd.github+json" \
             "https://api.github.com/repos/${{ github.repository }}/pages/builds" || true
+      - name: Signaler les nouvelles pages aux moteurs via IndexNow (Bing, Yandex)
+        if: success()
+        run: |
+          sleep 150   # laisser GitHub Pages mettre l'article en ligne
+          python3 _tools/indexnow.py

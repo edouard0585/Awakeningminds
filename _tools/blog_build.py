@@ -15,30 +15,58 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = 'https://awakeningminds.app'
 LANGS = ['fr', 'en', 'es']
 E = html.escape
+# Réglages partagés avec le générateur de l'accueil (nombre de méditations, magasins).
+try:
+    SITE_CFG = json.load(open(os.path.join(ROOT, '_tools', 'site.json'), encoding='utf-8'))
+except Exception:
+    SITE_CFG = {'total': 149, 'stores_live': False, 'app_store_id': '6808918209'}
+TOTAL = SITE_CFG.get('total', 149)
+HEAD_ICONES = ('<link rel="icon" href="/favicon.ico" sizes="48x48">'
+               '<link rel="icon" href="/assets/brand/icon-192.png" type="image/png" sizes="192x192">'
+               '<link rel="apple-touch-icon" href="/apple-touch-icon.png">'
+               '<link rel="manifest" href="/site.webmanifest">')
+BANNIERE = (f'<meta name="apple-itunes-app" content="app-id={SITE_CFG["app_store_id"]}">'
+            if SITE_CFG.get('stores_live') else '')
+OG_LOCALE = {'fr': 'fr_FR', 'en': 'en_US', 'es': 'es_ES'}
+
+
+def webp_size(path):
+    """Largeur et hauteur d'un WebP lues dans son en-tête (stdlib seulement, pour GitHub Actions)."""
+    try:
+        b = open(path, 'rb').read(30)
+        if b[:4] != b'RIFF' or b[8:12] != b'WEBP': return None
+        c = b[12:16]
+        if c == b'VP8X': return 1 + int.from_bytes(b[24:27], 'little'), 1 + int.from_bytes(b[27:30], 'little')
+        if c == b'VP8L':
+            v = int.from_bytes(b[21:25], 'little'); return (v & 0x3FFF) + 1, ((v >> 14) & 0x3FFF) + 1
+        if c == b'VP8 ': return int.from_bytes(b[26:28], 'little') & 0x3FFF, int.from_bytes(b[28:30], 'little') & 0x3FFF
+    except Exception: pass
+    return None
 
 T = {
  'fr': dict(blog='Le blog', back='← Awakening Minds', idx_title="Le blog — apprendre à méditer",
-   idx_seo="Blog méditation : apprendre à méditer, guides et schémas — Awakening Minds",
-   idx_desc="Guides gratuits pour apprendre à méditer : posture, respiration, gestion des pensées, techniques — avec schémas, par l'application 100 % gratuite Awakening Minds.",
+   idx_seo="Apprendre à méditer : guides gratuits · Awakening Minds",
+   idx_desc="Guides gratuits pour apprendre à méditer : posture, respiration, pensées, techniques, avec schémas. Par Awakening Minds, l'app 100 % gratuite en français.",
    read='min de lecture', published_on='Publié le', soon="D'autres articles arrivent — un par semaine.",
    cta_t="Envie de pratiquer plutôt que de lire ?",
-   cta_p="Tout ce que décrit cet article se pratique dans Awakening Minds, application de méditation gratuite : 150 méditations guidées en français — sommeil, respiration guidée, mondes immersifs — sans abonnement, sans publicité, sans compte, et tout fonctionne hors ligne.",
+   cta_p="Tout ce que décrit cet article se pratique dans Awakening Minds, application de méditation gratuite : {total} méditations guidées en français — sommeil, respiration guidée, mondes immersifs — sans abonnement, sans publicité, sans compte, et tout fonctionne hors ligne.",
    cta_b="Découvrir l'application gratuite", other="À lire ensuite"),
  'en': dict(blog='The blog', back='← Awakening Minds', idx_title="The blog — learning to meditate",
-   idx_seo="Meditation blog: how to meditate, free guides with diagrams — Awakening Minds",
+   idx_seo="How to Meditate: Free Guides & Diagrams · Awakening Minds",
    idx_desc="Free guides on how to meditate: posture, breathing, dealing with thoughts, techniques — with diagrams, from the completely free Awakening Minds app.",
    read='min read', published_on='Published', soon="More articles are coming — one every week.",
    cta_t="Rather practice than read?",
-   cta_p="Everything in this article can be practiced in Awakening Minds, a free meditation app: 150 guided meditations — sleep, breathing, immersive worlds — no subscription, no ads, no account, and fully offline.",
+   cta_p="Everything in this article can be practiced in Awakening Minds, a free meditation app: {total} guided meditations — sleep, breathing, immersive worlds — no subscription, no ads, no account, and fully offline.",
    cta_b="Discover the free app", other="Read next"),
  'es': dict(blog='El blog', back='← Awakening Minds', idx_title="El blog — aprender a meditar",
-   idx_seo="Blog de meditación: cómo meditar, guías gratis con esquemas — Awakening Minds",
+   idx_seo="Cómo meditar: guías gratis en español · Awakening Minds",
    idx_desc="Guías gratis para aprender a meditar: postura, respiración, pensamientos, técnicas — con esquemas, de la app 100 % gratis Awakening Minds.",
    read='min de lectura', published_on='Publicado el', soon="Llegan más artículos — uno por semana.",
    cta_t="¿Prefieres practicar antes que leer?",
-   cta_p="Todo lo que describe este artículo se practica en Awakening Minds, una app de meditación gratis: 150 meditaciones guiadas en español — dormir, respiración guiada, mundos inmersivos — sin suscripción, sin anuncios, sin cuenta y sin conexión.",
+   cta_p="Todo lo que describe este artículo se practica en Awakening Minds, una app de meditación gratis: {total} meditaciones guiadas en español — dormir, respiración guiada, mundos inmersivos — sin suscripción, sin anuncios, sin cuenta y sin conexión.",
    cta_b="Descubre la app gratis", other="Sigue leyendo"),
 }
+for _l in T: T[_l]['cta_p'] = T[_l]['cta_p'].replace('{total}', str(TOTAL))
 SITE_KW = {
  'fr': "méditation gratuite, application méditation gratuite, méditation guidée, méditation sans abonnement, méditation hors ligne, méditation pour dormir, respiration guidée, méditation débutant, pleine conscience, relaxation profonde",
  'en': "free meditation app, guided meditation, meditation app no subscription, offline meditation app, meditation without ads, guided sleep meditation, breathing exercises, meditation for beginners, mindfulness, deep relaxation",
@@ -77,7 +105,7 @@ def fmt_date(iso, lang):
     return f'{d} de {MONTHS["es"][m-1]} de {y}' if lang == 'es' else f'{d} {MONTHS["fr"][m-1]} {y}'
 
 CSS = """
-:root{--bg:#0A0A14;--ink:#F5E6C8;--muted:rgba(245,230,200,.72);--dim:rgba(245,230,200,.45);--gold:#D4AF6A;--line:rgba(255,255,255,.09);--surface:#151525;--radius:16px}
+:root{--bg:#0A0A14;--ink:#F5E6C8;--muted:rgba(245,230,200,.72);--dim:rgba(245,230,200,.58);--gold:#D4AF6A;--line:rgba(255,255,255,.09);--surface:#151525;--radius:16px}
 *{box-sizing:border-box;margin:0;padding:0}
 body{background:var(--bg);color:var(--ink);font-family:'Cormorant Garamond',Georgia,serif;line-height:1.7;font-size:19px;overflow-x:hidden}
 .sans,p,li,td,figcaption,.badge,.meta,.card p,.card li{font-family:'Avenir Next','Segoe UI',system-ui,sans-serif}
@@ -163,7 +191,7 @@ article :target{scroll-margin-top:80px}
 .alist .tw{flex:1;min-width:0}
 @media(max-width:480px){.alist .th{flex-basis:64px;width:64px;height:64px}}
 .alist a:hover{border-color:rgba(212,175,106,.45)}
-.alist h2{font-size:24px;color:#fff7e8;margin:0 0 6px;font-weight:500}
+.alist h2,.alist h3{font-size:24px;color:#fff7e8;margin:0 0 6px;font-weight:500}
 .alist p{color:var(--muted);font-size:15px;margin:0 0 6px}
 .alist .d{color:var(--dim);font-size:13px;font-family:'Avenir Next',sans-serif}
 footer{border-top:1px solid var(--line);margin-top:40px}
@@ -203,6 +231,12 @@ def enrich_body(body, lang):
         heads.append((hid, re.sub('<[^>]+>', '', txt)))
         return f'<h3 id="{hid}">{txt}</h3>'
     body = re.sub(r'<h3>(.*?)</h3>', anchor, body)
+    # Hiérarchie des titres sans saut (h2 → h4 devient h2 → h3) : lecteurs d'écran et moteurs.
+    niveau = [1]
+    def suite(m):
+        n = int(m.group(1)); n = min(n, niveau[0] + 1); niveau[0] = n
+        return f'<h{n}{m.group(2)}>{m.group(3)}</h{n}>'
+    body = re.sub(r'<h([2-6])([^>]*)>(.*?)</h\1>', suite, body, flags=re.S)
     toc = ''
     if len(heads) >= 4:
         items = ''.join(f'<li><a href="#{h}">{E(t)}</a></li>' for h, t in heads)
@@ -212,7 +246,7 @@ def enrich_body(body, lang):
 def words(txt):
     return len(re.sub('<[^>]+>', ' ', txt).split())
 
-def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_alt=''):
+def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_alt='', og_type='article'):
     """path_of(x) → chemin de la version dans la langue x (pour hreflang)."""
     alts = ''.join(f'<link rel="alternate" hreflang="{x}" href="{BASE}{path_of(x)}">' for x in LANGS)
     alts += f'<link rel="alternate" hreflang="x-default" href="{BASE}{path_of("en")}">'
@@ -223,14 +257,15 @@ def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_a
 <title>{E(title)}</title><meta name="description" content="{E(desc)}">
 <link rel="canonical" href="{BASE}{canonical}">{alts}
 <meta name="robots" content="index,follow,max-image-preview:large"><meta name="theme-color" content="#0A0A14">{kw_tag}
-<meta property="og:type" content="article"><meta property="og:site_name" content="Awakening Minds">
+<meta property="og:type" content="{og_type}"><meta property="og:site_name" content="Awakening Minds">
 <meta property="og:url" content="{BASE}{canonical}"><meta property="og:title" content="{E(title)}">
 <meta property="og:description" content="{E(desc)}"><meta property="og:image" content="{BASE}{image}">{alt_tag}
-<meta name="twitter:card" content="summary_large_image">
+<meta property="og:locale" content="{OG_LOCALE[lang]}">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{E(title)}"><meta name="twitter:description" content="{E(desc)}"><meta name="twitter:image" content="{BASE}{image}">
 {extra_ld}
-<link rel="icon" href="{BASE}/assets/brand/app-icon.png">
+{HEAD_ICONES}{BANNIERE}
 <link rel="alternate" type="application/rss+xml" title="Awakening Minds" href="{BASE}/{lang}/blog/feed.xml">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap"></noscript>
 <style>{CSS}</style></head><body>"""
 
 def header_html(lang, blog_path_of):
@@ -250,7 +285,7 @@ def render_article(a, lang, arts):
         '@context': 'https://schema.org',
         '@graph': [
             {'@type': 'Article', 'headline': a['title'][lang], 'description': a['desc'][lang],
-             'image': BASE + img, 'datePublished': a['published'], 'dateModified': a['published'], 'inLanguage': lang,
+             'image': BASE + img, 'datePublished': a['published'], 'dateModified': a.get('modified', a['published']), 'inLanguage': lang,
              'keywords': a.get('kw', {}).get(lang, ''), 'articleSection': SECTION_LABEL[lang],
              'mainEntityOfPage': f'{BASE}/{lang}/blog/{a["slug"][lang]}.html',
              'author': {'@type': 'Organization', 'name': 'Awakening Minds', 'url': BASE + '/'},
@@ -282,8 +317,10 @@ def render_article(a, lang, arts):
         sl = SCHEMA_FILES[a['hero']][lang]
         alt = HERO_ALTS.get((a['hero'], lang), a['title'][lang])
         cap = SCHEMA_PREFIX.sub('', alt)
+        dim = webp_size(f'{ROOT}/assets/blog/{sl}-{lang}.webp')
+        wh = f'width="{dim[0]}" height="{dim[1]}"' if dim else 'width="960"'
         h += (f'<figure class="hero"><img src="../../assets/blog/{sl}-{lang}.webp" alt="{E(alt)}" '
-              f'width="960" loading="eager"><figcaption>{E(cap)}</figcaption></figure>')
+              f'{wh} fetchpriority="high" decoding="async"><figcaption>{E(cap)}</figcaption></figure>')
     toc, body = enrich_body(body, lang)
     h += toc + body
     if a.get('takeaways'):
@@ -300,7 +337,7 @@ def render_article(a, lang, arts):
     if others:
         h += f'<h2>{E(t["other"])}</h2><ul class="alist">'
         for o in others:
-            h += f'<li><a href="{o["slug"][lang]}.html"><h2>{E(o["title"][lang])}</h2><p>{E(o["desc"][lang])}</p></a></li>'
+            h += f'<li><a href="{o["slug"][lang]}.html"><h3>{E(o["title"][lang])}</h3><p>{E(o["desc"][lang])}</p></a></li>'
         h += '</ul>'
     h += '</article></main>' + footer_html(lang) + '</body></html>'
     return h
@@ -314,8 +351,17 @@ def render_index(lang, arts):
     t = T[lang]
     pub = [a for a in arts if a.get('published')]
     path_of = lambda x: f'/{x}/blog/'
+    ld = {'@context': 'https://schema.org', '@graph': [
+        {'@type': 'Blog', 'name': t['idx_title'], 'description': t['idx_desc'], 'url': f'{BASE}/{lang}/blog/',
+         'inLanguage': lang, 'publisher': {'@type': 'Organization', 'name': 'Awakening Minds', 'url': BASE + '/'},
+         'blogPost': [{'@type': 'BlogPosting', 'headline': a['title'][lang], 'url': f'{BASE}/{lang}/blog/{a["slug"][lang]}.html',
+                       'datePublished': a['published'], 'description': a['desc'][lang]} for a in reversed(pub)]},
+        {'@type': 'BreadcrumbList', 'itemListElement': [
+            {'@type': 'ListItem', 'position': 1, 'name': 'Awakening Minds', 'item': f'{BASE}/{lang}/'},
+            {'@type': 'ListItem', 'position': 2, 'name': t['blog']}]}]}
+    ld_tag = '<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False).replace('<', '\\u003c') + '</script>'
     h = head(lang, t['idx_seo'], t['idx_desc'], path_of, path_of(lang), '/assets/brand/og-image.jpg',
-             kw=SITE_KW[lang], img_alt='Awakening Minds')
+             ld_tag, kw=SITE_KW[lang], img_alt='Awakening Minds', og_type='website')
     h += header_html(lang, lambda x: f'../../{x}/blog/')
     h += f'<main class="wrap"><h1>{E(t["idx_title"])}</h1><p class="lead">{E(t["idx_desc"])}</p><ul class="alist">'
     for i, a in enumerate(reversed(pub)):
@@ -337,8 +383,10 @@ def render_sitemap(arts):
         alts = ''.join(f'<xhtml:link rel="alternate" hreflang="{x}" href="{BASE}{path_of(x)}"/>' for x in LANGS)
         alts += f'<xhtml:link rel="alternate" hreflang="x-default" href="{BASE}{path_of("en")}"/>'
         return alts
+    dern = max((a['published'] for a in arts if a.get('published')), default=None)
+    lm = f'<lastmod>{dern}</lastmod>' if dern else ''
     for x in LANGS:
-        urls.append(f'<url><loc>{BASE}/{x}/blog/</loc>{block(lambda y: f"/{y}/blog/")}</url>')
+        urls.append(f'<url><loc>{BASE}/{x}/blog/</loc>{lm}{block(lambda y: f"/{y}/blog/")}</url>')
     for a in arts:
         if not a.get('published'):
             continue

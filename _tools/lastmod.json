@@ -1,0 +1,54 @@
+{
+ "https://awakeningminds.app/": {
+  "date": "2026-09-21",
+  "sha1": "48bb5bbe2d5676f1878fcdca6f107c33c1b4703a"
+ },
+ "https://awakeningminds.app/en/": {
+  "date": "2026-09-21",
+  "sha1": "6f519419950e5e915c4b77b5aab0cc49ced87185"
+ },
+ "https://awakeningminds.app/en/privacy.html": {
+  "date": "2026-09-21",
+  "sha1": "92c54694dc9e74dadfbac3f8fb8c1d3d54f9c898"
+ },
+ "https://awakeningminds.app/en/support.html": {
+  "date": "2026-09-21",
+  "sha1": "7a52445c694a3485ec09ab5e82ea543b2fc939cf"
+ },
+ "https://awakeningminds.app/en/terms.html": {
+  "date": "2026-09-21",
+  "sha1": "fde0cca2a4ab0772715c4edecdef7dfd1c6233b2"
+ },
+ "https://awakeningminds.app/es/": {
+  "date": "2026-09-21",
+  "sha1": "233816b357d80b2830ce0de861a9b5daf3a6bb27"
+ },
+ "https://awakeningminds.app/es/privacy.html": {
+  "date": "2026-09-21",
+  "sha1": "f48f618af25722b063cb5ae153af4245bb86d636"
+ },
+ "https://awakeningminds.app/es/support.html": {
+  "date": "2026-09-21",
+  "sha1": "673c80b6e3ef234a2e05900dcdbd3ffe459dba0f"
+ },
+ "https://awakeningminds.app/es/terms.html": {
+  "date": "2026-09-21",
+  "sha1": "b69bc2fbce07929fcbb4266d14b84a745318f9cf"
+ },
+ "https://awakeningminds.app/fr/": {
+  "date": "2026-09-21",
+  "sha1": "be8b9353e5edb6f2db4c09677d9ed8cbe392e516"
+ },
+ "https://awakeningminds.app/fr/privacy.html": {
+  "date": "2026-09-21",
+  "sha1": "bdd54643114f0cb88fe460eba677b7e6fbe994b0"
+ },
+ "https://awakeningminds.app/fr/support.html": {
+  "date": "2026-09-21",
+  "sha1": "4a2111de60cd759885eac645d13b5274d93bf3c0"
+ },
+ "https://awakeningminds.app/fr/terms.html": {
+  "date": "2026-09-21",
+  "sha1": "9c8340da9c7f8f89f6fc7f846575dd244cd01f51"
+ }
+}
