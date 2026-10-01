@@ -13,10 +13,10 @@ arts = blog_fr.load()
 now = blog_fr.paris_now()
 if '--liste' in sys.argv:
     for a in arts:
-        print(a['publish_at'].replace('T', ' '), '✓' if a.get('published') else ' ', f"#{a['num']:<3}",
-              f"{len(a['schemas'])} schéma(s)", a['seo_title'])
+        print(a['publish_at'].replace('T', ' '), '✓' if a.get('published') else ('⏸' if a.get('hold') else ' '), f"#{a['num']:<3}",
+              f"{len(a['schemas'])} schéma(s)", '+EN' if a.get('en') else '   ', a['seo_title'])
     sys.exit(0)
-dus = [a for a in arts if not a.get('published') and a['publish_at'] <= now.strftime('%Y-%m-%dT%H:%M')]
+dus = [a for a in arts if not a.get('published') and not a.get('hold') and a['publish_at'] <= now.strftime('%Y-%m-%dT%H:%M')]
 if not dus:
     print(f'Rien à publier ({now:%Y-%m-%d %H:%M} à Paris).'); sys.exit(0)
 for a in dus:
@@ -26,4 +26,4 @@ for a in dus:
 json.dump(arts, open(blog_fr.QUEUE, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 import blog_build
 blog_build.build()
-for a in dus: print(f"✓ publié : #{a['num']} — « {a['seo_title']} » → /fr/blog/{a['slug']}.html")
+for a in dus: print(f"✓ publié : #{a['num']} — « {a['seo_title']} » → /fr/blog/{a['slug']}.html" + (f" + /en/blog/{a['en']['slug']}.html" if a.get('en') else ''))

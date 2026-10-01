@@ -53,18 +53,29 @@
 
     <h2>Ou remplissez ce formulaire</h2>
     <div class="card">
-      <form action="https://formsubmit.co/edouard@awakeningminds.app" method="POST" enctype="multipart/form-data">
+      <form id="contact" action="https://formsubmit.co/edouard@awakeningminds.app" method="POST" enctype="multipart/form-data" data-ok="Merci ! Votre message a bien été reçu. Nous vous répondons sous 3 jours ouvrés." data-sending="Envoi…">
         <input type="hidden" name="_subject" value="Awakening Minds — formulaire d'assistance (FR)">
         <input type="hidden" name="_captcha" value="true">
         <input type="hidden" name="_template" value="table">
+        <label for="name">Votre nom (facultatif)</label>
+        <input type="text" id="name" name="name" autocomplete="name" maxlength="120">
         <label for="email">Votre email</label>
         <input type="email" id="email" name="email" required autocomplete="email">
         <label for="topic">Sujet</label>
         <input type="text" id="topic" name="topic" placeholder="ex. Bug pendant une méditation" required>
         <label for="message">Message</label>
         <textarea id="message" name="message" placeholder="Racontez-nous ce qui s'est passé…" required></textarea>
+        <input type="hidden" name="lang" value="fr">
+        <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px">
+        <p id="cf-status" role="status" aria-live="polite" style="margin:10px 0 0"></p>
         <button type="submit" class="btn">Envoyer le message</button>
-      </form>
+      </form><script>(function(){var f=document.getElementById('contact');if(!f||!window.fetch)return;
+f.addEventListener('submit',function(e){e.preventDefault();var st=document.getElementById('cf-status'),b=f.querySelector('button');
+b.disabled=true;st.textContent=f.dataset.sending;var d=new FormData(f);d.append('page',location.href);
+fetch('https://webmarketing-tourisme.com/am/contact',{method:'POST',body:d,headers:{'Accept':'application/json'}})
+.then(function(r){return r.json().then(function(j){return {r:r,j:j}})})
+.then(function(x){if(x.j&&x.j.ok){st.textContent=x.j.message||f.dataset.ok;f.reset();b.disabled=false}else if(x.r.status>=400&&x.r.status<500&&x.j&&x.j.message&&x.r.status!==403&&x.r.status!==404&&x.r.status!==405){st.textContent=x.j.message;b.disabled=false}else{throw 0}})
+.catch(function(){f.submit()});});})();</script>
     </div>
 
     <h2>Questions fréquentes</h2>

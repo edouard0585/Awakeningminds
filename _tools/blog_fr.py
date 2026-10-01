@@ -15,6 +15,12 @@ E = html.escape
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 QUEUE = f'{ROOT}/_queue/articles_fr.json'
 
+GROUP_LABEL_EN = {
+    'bases': 'Meditation practice', 'energie': 'Energy and chakras', 'transe': 'Trance and consciousness',
+    'psy': 'Emotions and inner life', 'sommeil': 'Sleep and dreams', 'lieux': 'Places, myths and wisdom',
+    'chamanisme': 'Shamanism', 'vie': 'Meditation in daily life', 'astral': 'Astral travel and signs',
+}
+LBL = {'fr': dict(toc='Dans cet article', src='Sources'), 'en': dict(toc='In this article', src='Sources')}
 GROUP_LABEL = {
     'bases': 'Pratique de la méditation', 'energie': 'Énergie et chakras', 'transe': 'Transe et conscience',
     'psy': 'Émotions et vie intérieure', 'sommeil': 'Sommeil et rêves', 'lieux': 'Lieux, mythes et sagesse',
@@ -60,12 +66,20 @@ def load():
     return json.load(open(QUEUE, encoding='utf-8'))
 
 
-def published(arts):
-    return [a for a in arts if a.get('published')]
+def published(arts, lang='fr'):
+    return [a for a in arts if a.get('published') and (lang == 'fr' or a.get(lang))]
 
 
-def body_html(a):
-    return open(f'{ROOT}/_queue/sections/fr-blog/{a["num"]}.html', encoding='utf-8').read()
+def V(a, lang):
+    """Champs de l'article dans la langue demandée (la version anglaise vit dans a['en'])."""
+    if lang == 'fr': return a
+    v = dict(a[lang]); v['num'] = a['num']; v['group'] = a['group']; v['published'] = a['published']
+    v.setdefault('photo', a['photo']); v.setdefault('insert', None)
+    return v
+
+
+def body_html(a, lang='fr'):
+    return open(f'{ROOT}/_queue/sections/{lang}-blog/{a["num"]}.html', encoding='utf-8').read()
 
 
 def _fig(m, cls, lazy=True):
@@ -97,7 +111,7 @@ def place_media(body, a):
     return head + ''.join(secs)
 
 
-def toc_and_ids(body):
+def toc_and_ids(body, lang='fr'):
     heads = []
     def anchor(m):
         n, txt = m.group(1), m.group(2)
@@ -108,52 +122,56 @@ def toc_and_ids(body):
     toc = ''
     if len(heads) >= 3:
         items = ''.join(f'<li><a href="#{h}">{t}</a></li>' for h, t in heads)
-        toc = f'<nav class="toc"><b>Dans cet article</b><ul>{items}</ul></nav>'
+        toc = f'<nav class="toc"><b>{LBL[lang]["toc"]}</b><ul>{items}</ul></nav>'
     return toc, body
 
 
-def related(a, arts, all_pub_other):
-    pub = [o for o in published(arts) if o['num'] != a['num']]
+def related(a, arts, lang='fr'):
+    pub = [o for o in published(arts, lang) if o['num'] != a['num']]
     same = [o for o in pub if o['group'] == a['group']]
     same.sort(key=lambda o: abs(o['num'] - a['num']))
     out = same[:3]
     if len(out) < 3:
         rest = [o for o in reversed(pub) if o not in out]
         out += rest[:3 - len(out)]
-    return out
+    return [V(o, lang) for o in out]
 
 
-def render_article(bb, a, arts):
-    """bb = module blog_build (head, footer, CSS, T…)."""
-    lang = 'fr'; t = bb.T[lang]; BASE = bb.BASE
-    url = f'/fr/blog/{a["slug"]}.html'
-    body = place_media(body_html(a), a)
-    toc, body = toc_and_ids(body)
+def render_article(bb, a0, arts, lang='fr'):
+    """bb = module blog_build (head, footer, CSS, T…). a0 = entrée de la file ; lang = 'fr' ou 'en'."""
+    a = V(a0, lang); t = bb.T[lang]; BASE = bb.BASE
+    langs = ['fr'] + (['en'] if a0.get('en') else [])
+    paths = {'fr': f'/fr/blog/{a0["slug"]}.html'}
+    if a0.get('en'): paths['en'] = f'/en/blog/{a0["en"]["slug"]}.html'
+    url = paths[lang]
+    GL = GROUP_LABEL if lang == 'fr' else GROUP_LABEL_EN
+    body = place_media(body_html(a0, lang), a)
+    toc, body = toc_and_ids(body, lang)
     mins = max(3, round(bb.words(body) / 220))
     img = f'/assets/blog/{a["photo"]["src"]}'
     ld = {'@context': 'https://schema.org', '@graph': [
         {'@type': 'BlogPosting', 'headline': a['title'][:110], 'description': a['desc'], 'image': BASE + img,
-         'datePublished': a['published'], 'dateModified': a.get('modified', a['published']), 'inLanguage': 'fr',
-         'keywords': a.get('kw', ''), 'articleSection': GROUP_LABEL.get(a['group'], 'Méditation'),
+         'datePublished': a['published'], 'dateModified': a.get('modified', a['published']), 'inLanguage': lang,
+         'keywords': a.get('kw', ''), 'articleSection': GL.get(a['group'], 'Meditation'),
          'mainEntityOfPage': BASE + url, 'wordCount': bb.words(body),
          'author': {'@type': 'Organization', 'name': 'Awakening Minds', 'url': BASE + '/'},
          'publisher': {'@type': 'Organization', 'name': 'Awakening Minds',
                        'logo': {'@type': 'ImageObject', 'url': f'{BASE}/assets/brand/logo.png'}}},
         {'@type': 'BreadcrumbList', 'itemListElement': [
-            {'@type': 'ListItem', 'position': 1, 'name': 'Awakening Minds', 'item': f'{BASE}/fr/'},
-            {'@type': 'ListItem', 'position': 2, 'name': t['blog'], 'item': f'{BASE}/fr/blog/'},
+            {'@type': 'ListItem', 'position': 1, 'name': 'Awakening Minds', 'item': f'{BASE}/{lang}/'},
+            {'@type': 'ListItem', 'position': 2, 'name': t['blog'], 'item': f'{BASE}/{lang}/blog/'},
             {'@type': 'ListItem', 'position': 3, 'name': a['seo_title']}]},
     ] + ([{'@type': 'FAQPage', 'mainEntity': [
         {'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': r}} for q, r in a['faq']]}]
          if a.get('faq') else [])}
     ld_tag = '<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False).replace('<', '\\u003c') + '</script>'
-    h = bb.head(lang, a['seo_title'], a['desc'], lambda x: url, url, img, ld_tag,
-                kw=a.get('kw', ''), img_alt=a['photo']['alt'], langs=['fr'])
+    h = bb.head(lang, a['seo_title'], a['desc'], lambda x: paths[x], url, img, ld_tag,
+                kw=a.get('kw', ''), img_alt=a['photo']['alt'], langs=langs)
     h = h.replace('</style>', CSS_FR + '</style>', 1)
-    h += bb.header_html(lang, lambda x: f'../../{x}/blog/' if x != 'fr' else f'{a["slug"]}.html')
+    h += bb.header_html(lang, lambda x: f'../..{paths[x]}' if x in paths else f'../../{x}/blog/')
     h += (f'<main class="wrap"><article><nav class="crumbs"><a href="../">Awakening Minds</a>'
           f'<span>›</span><a href="./">{E(t["blog"])}</a></nav>'
-          f'<span class="cat">{E(GROUP_LABEL.get(a["group"], "Méditation"))}</span><h1>{E(a["title"])}</h1>')
+          f'<span class="cat">{E(GL.get(a["group"], "Meditation"))}</span><h1>{E(a["title"])}</h1>')
     h += f'<div class="meta">{E(t["published_on"])} {E(bb.fmt_date(a["published"], lang))} · {mins} {E(t["read"])}</div>'
     p = a['photo']
     h += (f'<figure class="hero-photo"><img src="../../assets/blog/{p["src"]}" '
@@ -165,9 +183,9 @@ def render_article(bb, a, arts):
         qa = ''.join(f'<details><summary>{E(q)}</summary><p>{E(r)}</p></details>' for q, r in a['faq'])
         h += f'<section class="afaq"><h2>{E(bb.FAQ_LABEL[lang])}</h2>{qa}</section>'
     if a.get('sources'):
-        h += '<aside class="sources"><b>Sources</b><ul>' + ''.join(f'<li>{s}</li>' for s in a['sources']) + '</ul></aside>'
+        h += f'<aside class="sources"><b>{LBL[lang]["src"]}</b><ul>' + ''.join(f'<li>{s}</li>' for s in a['sources']) + '</ul></aside>'
     h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="../#download">✦ {E(t["cta_b"])}</a></div>'
-    rel = related(a, arts, [])
+    rel = related(a0, arts, lang)
     if rel:
         h += f'<h2>{E(t["other"])}</h2><ul class="alist">'
         for o in rel:
@@ -178,11 +196,12 @@ def render_article(bb, a, arts):
     return h
 
 
-def index_items(arts):
-    """Entrées pour l'index et le flux fr : (date, ordre, dict)."""
+def index_items(arts, lang='fr'):
+    """Entrées pour l'index et le flux de la langue : (date, ordre, dict)."""
     out = []
-    for a in published(arts):
-        out.append({'published': a['published'], 'order': a.get('publish_at', ''), 'slug': a['slug'],
+    for a0 in published(arts, lang):
+        a = V(a0, lang)
+        out.append({'published': a['published'], 'order': a0.get('publish_at', ''), 'slug': a['slug'],
                     'title': a['seo_title'], 'desc': a['desc'], 'thumb': a['photo']['src_s'],
                     'alt': a['photo']['alt']})
     return out
@@ -191,9 +210,12 @@ def index_items(arts):
 def sitemap_urls(bb, arts):
     urls = []
     for a in published(arts):
-        loc = f'{bb.BASE}/fr/blog/{a["slug"]}.html'
-        urls.append(f'<url><loc>{loc}</loc><lastmod>{a.get("modified", a["published"])}</lastmod>'
-                    f'<xhtml:link rel="alternate" hreflang="fr" href="{loc}"/></url>')
+        locs = {'fr': f'{bb.BASE}/fr/blog/{a["slug"]}.html'}
+        if a.get('en'): locs['en'] = f'{bb.BASE}/en/blog/{a["en"]["slug"]}.html'
+        alts = ''.join(f'<xhtml:link rel="alternate" hreflang="{x}" href="{u}"/>' for x, u in locs.items())
+        if 'en' in locs: alts += f'<xhtml:link rel="alternate" hreflang="x-default" href="{locs["en"]}"/>'
+        for u in locs.values():
+            urls.append(f'<url><loc>{u}</loc><lastmod>{a.get("modified", a["published"])}</lastmod>{alts}</url>')
     return urls
 
 
@@ -201,4 +223,6 @@ def build(bb):
     arts = load()
     for a in published(arts):
         open(f'{ROOT}/fr/blog/{a["slug"]}.html', 'w', encoding='utf-8').write(render_article(bb, a, arts))
+        if a.get('en'):
+            open(f'{ROOT}/en/blog/{a["en"]["slug"]}.html', 'w', encoding='utf-8').write(render_article(bb, a, arts, 'en'))
     return arts

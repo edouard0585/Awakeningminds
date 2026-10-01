@@ -251,7 +251,7 @@ def words(txt):
 def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_alt='', og_type='article', langs=None):
     """path_of(x) → chemin de la version dans la langue x (pour hreflang)."""
     alts = ''.join(f'<link rel="alternate" hreflang="{x}" href="{BASE}{path_of(x)}">' for x in (langs or LANGS))
-    if not langs:  # article en français seul : pas de x-default vers l'anglais
+    if not langs or 'en' in langs:  # article en français seul : pas de x-default vers l'anglais
         alts += f'<link rel="alternate" hreflang="x-default" href="{BASE}{path_of("en")}">'
     kw_tag = f'<meta name="keywords" content="{E(kw)}">' if kw else ''
     alt_tag = (f'<meta property="og:image:alt" content="{E(img_alt)}">'
@@ -367,7 +367,7 @@ def render_index(lang, arts):
              ld_tag, kw=SITE_KW[lang], img_alt='Awakening Minds', og_type='website')
     h += header_html(lang, lambda x: f'../../{x}/blog/')
     h += f'<main class="wrap"><h1>{E(t["idx_title"])}</h1><p class="lead">{E(t["idx_desc"])}</p><ul class="alist">'
-    fr_items = blog_fr.index_items(blog_fr.load()) if lang == 'fr' else []
+    fr_items = blog_fr.index_items(blog_fr.load(), lang) if lang in ('fr', 'en') else []
     entries = [('a', a['published'], '', a) for a in pub] + [('f', x['published'], x['order'], x) for x in fr_items]
     entries.sort(key=lambda e: (e[1], e[2]))
     for i, (kind, _, _, a) in enumerate(reversed(entries)):
@@ -436,8 +436,8 @@ def render_feed(lang, arts):
     pub = [a for a in arts if a.get('published')]
     items = ''
     entries = [(a['published'], '', a['slug'][lang], a['title'][lang], a['desc'][lang]) for a in pub]
-    if lang == 'fr':
-        entries += [(x['published'], x['order'], x['slug'], x['title'], x['desc']) for x in blog_fr.index_items(blog_fr.load())]
+    if lang in ('fr', 'en'):
+        entries += [(x['published'], x['order'], x['slug'], x['title'], x['desc']) for x in blog_fr.index_items(blog_fr.load(), lang)]
     entries.sort()
     for d, _, slug, title, desc in reversed(entries):
         link = f'{BASE}/{lang}/blog/{slug}.html'

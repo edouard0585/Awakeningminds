@@ -20,6 +20,7 @@ jobs:
       - name: Publier les articles dus
         id: pub
         run: |
+          python3 _tools/sync_admin.py || true
           python3 _tools/publish_fr.py | tee sortie.txt
           grep -q '✓ publié' sortie.txt && echo "nouveau=1" >> "$GITHUB_OUTPUT" || true
           rm sortie.txt
