@@ -6,7 +6,7 @@ Lit /am/edits.json : {"items": {"fr:<num>": {...}, "en:<num>": {...}, "q:<id>:<l
   q     : title, desc d'un article de la série trilingue du lundi
 Idempotent : réappliquer les mêmes valeurs ne change rien. Reconstruit le blog si quelque chose a changé.
 """
-import json, os, sys, urllib.request
+import json, os, re, sys, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 URL = 'https://espace.awakeningminds.app/edits.json'
 try:
@@ -18,6 +18,25 @@ FRQ = f'{ROOT}/_queue/articles_fr.json'; Q3 = f'{ROOT}/_queue/articles.json'
 fr = json.load(open(FRQ, encoding='utf-8')); q3 = json.load(open(Q3, encoding='utf-8'))
 by = {str(a['num']): a for a in fr}; byq = {a['id']: a for a in q3}
 changed = []
+MEDIA = 'https://espace.awakeningminds.app/media/'
+UP = f'{ROOT}/assets/blog/up'
+def fetch_media(url):
+    """Copie dans assets/blog/up/ une photo ou vidéo envoyée depuis l'éditeur ; renvoie son chemin relatif."""
+    name = os.path.basename(url.split('?')[0])
+    if not re.fullmatch(r'[A-Za-z0-9._-]{3,80}', name): return None
+    os.makedirs(UP, exist_ok=True)
+    dst = f'{UP}/{name}'
+    if not os.path.exists(dst):
+        req = urllib.request.Request(MEDIA + name, headers={'User-Agent': 'AwakeningMinds-blog-sync/1.0'})
+        data = urllib.request.urlopen(req, timeout=120).read()
+        open(dst, 'wb').write(data); changed.append(f'média {name}')
+    return f'up/{name}'
+def localize(body):
+    def sub(m):
+        rel = fetch_media(m.group(1))
+        return f'../../assets/blog/{rel}' if rel else m.group(0)
+    body = re.sub(re.escape(MEDIA) + r'([A-Za-z0-9._-]+)', lambda m: sub(m), body)
+    return body.replace('https://awakeningminds.app/assets/blog/', '../../assets/blog/')
 def put(obj, k, v, label):
     if obj.get(k) != v: obj[k] = v; changed.append(label)
 for key, e in E.items():
@@ -32,8 +51,17 @@ for key, e in E.items():
             if 'hold' in e: put(a, 'hold', bool(e['hold']), f'{key} suspension')
         if isinstance(e.get('body'), str) and e['body'].strip():
             f = f'{ROOT}/_queue/sections/{p[0]}-blog/{p[1]}.html'
-            if open(f, encoding='utf-8').read() != e['body']:
-                open(f, 'w', encoding='utf-8').write(e['body']); changed.append(f'{key} texte')
+            body = localize(e['body'])
+            if open(f, encoding='utf-8').read() != body:
+                open(f, 'w', encoding='utf-8').write(body); changed.append(f'{key} texte')
+        if e.get('media_inline'): put(t, 'media_inline', True, f'{key} mise en page')
+        if isinstance(e.get('photo'), str) and e['photo'].startswith(MEDIA):
+            rel = fetch_media(e['photo'])
+            if rel and t['photo'].get('src') != rel:
+                sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+                from blog_build import webp_size
+                w, h = webp_size(f'{ROOT}/assets/blog/{rel}') or (1200, 675)
+                t['photo'] = dict(t['photo'], src=rel, src_s=rel, w=w, h=h); changed.append(f'{key} photo principale')
         if a.get('published') and any(c.startswith(key) for c in changed):
             from datetime import date
             t['modified'] = date.today().isoformat()

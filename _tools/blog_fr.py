@@ -38,6 +38,8 @@ article figure.schema img{background:#fff;border-color:rgba(212,175,106,.3)}
 article figure.illus{max-width:440px;margin:26px auto}
 article figure.illus img{width:100%}
 article figure.illus figcaption,article figure.schema figcaption{text-align:center}
+article figure.video video{width:100%;border-radius:14px;border:1px solid var(--line);background:#000;display:block}
+article figure.photo img{width:100%}
 article .tbl{overflow-x:auto;margin:14px 0 20px;border:1px solid var(--line);border-radius:14px}
 article table{border-collapse:collapse;width:100%;font-family:'Avenir Next','Segoe UI',sans-serif;font-size:14.5px}
 article th{background:rgba(212,175,106,.12);color:var(--gold);text-align:left;padding:10px 12px;font-weight:600}
@@ -91,7 +93,11 @@ def _fig(m, cls, lazy=True):
 
 
 def place_media(body, a):
-    """Répartit schémas et illustration dans le texte : fin de la section ~30 %, ~55 %, ~80 %."""
+    """Répartit schémas et illustration dans le texte : fin de la section ~30 %, ~55 %, ~80 %.
+    Si l'article a été mis en page dans l'éditeur de l'espace privé (media_inline), le corps contient
+    déjà ses images à leur place : on n'ajoute rien."""
+    if a.get('media_inline'):
+        return body
     parts = re.split(r'(?=<h2 class="sec")', body)
     head, secs = parts[0], parts[1:]
     n = len(secs)
@@ -221,6 +227,8 @@ def sitemap_urls(bb, arts):
 
 def build(bb):
     arts = load()
+    # feuille de style du blog, lue par l'éditeur visuel de l'espace privé (aperçu identique au site)
+    open(f'{ROOT}/_tools/blog_preview.css', 'w', encoding='utf-8').write(bb.CSS + CSS_FR)
     for a in published(arts):
         open(f'{ROOT}/fr/blog/{a["slug"]}.html', 'w', encoding='utf-8').write(render_article(bb, a, arts))
         if a.get('en'):
