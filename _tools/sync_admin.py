@@ -10,7 +10,8 @@ import json, os, sys, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 URL = 'https://webmarketing-tourisme.com/am/edits.json'
 try:
-    E = json.load(urllib.request.urlopen(URL, timeout=20)).get('items', {})
+    req = urllib.request.Request(URL, headers={'User-Agent': 'AwakeningMinds-blog-sync/1.0 (+https://awakeningminds.app)', 'Accept': 'application/json'})
+    E = json.load(urllib.request.urlopen(req, timeout=20)).get('items', {})
 except Exception as e:
     print(f'Espace privé injoignable ({e}) : rien à appliquer.'); sys.exit(0)
 FRQ = f'{ROOT}/_queue/articles_fr.json'; Q3 = f'{ROOT}/_queue/articles.json'
