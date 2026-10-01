@@ -8,7 +8,9 @@ Lit `_queue/articles.json` + `_queue/sections/{lang}/*.html` et produit :
   sitemap-blog.xml
 Relancé à chaque publication : tout est régénéré, rien ne dérive.
 """
-import json, os, re, html
+import json, os, re, html, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import blog_fr
 from datetime import date
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -47,7 +49,7 @@ T = {
  'fr': dict(blog='Le blog', back='← Awakening Minds', idx_title="Le blog — apprendre à méditer",
    idx_seo="Apprendre à méditer : guides gratuits · Awakening Minds",
    idx_desc="Guides gratuits pour apprendre à méditer : posture, respiration, pensées, techniques, avec schémas. Par Awakening Minds, l'app 100 % gratuite en français.",
-   read='min de lecture', published_on='Publié le', soon="D'autres articles arrivent — un par semaine.",
+   read='min de lecture', published_on='Publié le', soon="De nouveaux articles arrivent chaque semaine.",
    cta_t="Envie de pratiquer plutôt que de lire ?",
    cta_p="Tout ce que décrit cet article se pratique dans Awakening Minds, application de méditation gratuite : {total} méditations guidées en français — sommeil, respiration guidée, mondes immersifs — sans abonnement, sans publicité, sans compte, et tout fonctionne hors ligne.",
    cta_b="Découvrir l'application gratuite", other="À lire ensuite"),
@@ -246,10 +248,11 @@ def enrich_body(body, lang):
 def words(txt):
     return len(re.sub('<[^>]+>', ' ', txt).split())
 
-def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_alt='', og_type='article'):
+def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_alt='', og_type='article', langs=None):
     """path_of(x) → chemin de la version dans la langue x (pour hreflang)."""
-    alts = ''.join(f'<link rel="alternate" hreflang="{x}" href="{BASE}{path_of(x)}">' for x in LANGS)
-    alts += f'<link rel="alternate" hreflang="x-default" href="{BASE}{path_of("en")}">'
+    alts = ''.join(f'<link rel="alternate" hreflang="{x}" href="{BASE}{path_of(x)}">' for x in (langs or LANGS))
+    if not langs:  # article en français seul : pas de x-default vers l'anglais
+        alts += f'<link rel="alternate" hreflang="x-default" href="{BASE}{path_of("en")}">'
     kw_tag = f'<meta name="keywords" content="{E(kw)}">' if kw else ''
     alt_tag = (f'<meta property="og:image:alt" content="{E(img_alt)}">'
                f'<meta name="twitter:image:alt" content="{E(img_alt)}">') if img_alt else ''
@@ -364,13 +367,21 @@ def render_index(lang, arts):
              ld_tag, kw=SITE_KW[lang], img_alt='Awakening Minds', og_type='website')
     h += header_html(lang, lambda x: f'../../{x}/blog/')
     h += f'<main class="wrap"><h1>{E(t["idx_title"])}</h1><p class="lead">{E(t["idx_desc"])}</p><ul class="alist">'
-    for i, a in enumerate(reversed(pub)):
+    fr_items = blog_fr.index_items(blog_fr.load()) if lang == 'fr' else []
+    entries = [('a', a['published'], '', a) for a in pub] + [('f', x['published'], x['order'], x) for x in fr_items]
+    entries.sort(key=lambda e: (e[1], e[2]))
+    for i, (kind, _, _, a) in enumerate(reversed(entries)):
+        if kind == 'f':
+            th = f'<span class="th"><img src="../../assets/blog/{a["thumb"]}" alt="{E(a["alt"])}" loading="lazy" width="88" height="88"></span>'
+            h += (f'<li><a href="{a["slug"]}.html">{th}<span class="tw"><h2>{E(a["title"])}</h2>'
+                  f'<p>{E(a["desc"])}</p><span class="d">{E(fmt_date(a["published"], lang))}</span></span></a></li>')
+            continue
         if a.get('image') is not None:
             sl = SCHEMA_FILES[a['image']][lang]
             alt = SCHEMA_PREFIX.sub('', HERO_ALTS.get((a['image'], lang), a['title'][lang]))
             th = f'<span class="th"><img src="../../assets/blog/{sl}-{lang}.webp" alt="{E(alt)}" loading="lazy" width="88" height="88"></span>'
         else:
-            th = f'<span class="th n">{len(pub)-i:02d}</span>'
+            th = f'<span class="th n">{len(entries)-i:02d}</span>'
         h += (f'<li><a href="{a["slug"][lang]}.html">{th}<span class="tw"><h2>{E(a["title"][lang])}</h2>'
               f'<p>{E(a["desc"][lang])}</p><span class="d">{E(fmt_date(a["published"], lang))}</span></span></a></li>')
     h += f'</ul><p class="lead" style="font-size:16px">{E(t["soon"])}</p></main>'
@@ -383,7 +394,8 @@ def render_sitemap(arts):
         alts = ''.join(f'<xhtml:link rel="alternate" hreflang="{x}" href="{BASE}{path_of(x)}"/>' for x in LANGS)
         alts += f'<xhtml:link rel="alternate" hreflang="x-default" href="{BASE}{path_of("en")}"/>'
         return alts
-    dern = max((a['published'] for a in arts if a.get('published')), default=None)
+    fr_seuls = blog_fr.load()
+    dern = max([a['published'] for a in arts if a.get('published')] + [a['published'] for a in fr_seuls if a.get('published')], default=None)
     lm = f'<lastmod>{dern}</lastmod>' if dern else ''
     for x in LANGS:
         urls.append(f'<url><loc>{BASE}/{x}/blog/</loc>{lm}{block(lambda y: f"/{y}/blog/")}</url>')
@@ -393,6 +405,7 @@ def render_sitemap(arts):
         pa = lambda y, a=a: f'/{y}/blog/{a["slug"][y]}.html'
         for x in LANGS:
             urls.append(f'<url><loc>{BASE}{pa(x)}</loc><lastmod>{a["published"]}</lastmod>{block(pa)}</url>')
+    urls += blog_fr.sitemap_urls(sys.modules[__name__], fr_seuls)
     return ('<?xml version="1.0" encoding="UTF-8"?>'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
             'xmlns:xhtml="http://www.w3.org/1999/xhtml">' + ''.join(urls) + '</urlset>')
@@ -422,12 +435,16 @@ def render_feed(lang, arts):
     t = T[lang]
     pub = [a for a in arts if a.get('published')]
     items = ''
-    for a in reversed(pub):
-        link = f'{BASE}/{lang}/blog/{a["slug"][lang]}.html'
-        items += (f'<item><title>{E(a["title"][lang])}</title><link>{link}</link>'
+    entries = [(a['published'], '', a['slug'][lang], a['title'][lang], a['desc'][lang]) for a in pub]
+    if lang == 'fr':
+        entries += [(x['published'], x['order'], x['slug'], x['title'], x['desc']) for x in blog_fr.index_items(blog_fr.load())]
+    entries.sort()
+    for d, _, slug, title, desc in reversed(entries):
+        link = f'{BASE}/{lang}/blog/{slug}.html'
+        items += (f'<item><title>{E(title)}</title><link>{link}</link>'
                   f'<guid isPermaLink="true">{link}</guid>'
-                  f'<pubDate>{a["published"]}T07:00:00Z</pubDate>'
-                  f'<description>{E(a["desc"][lang])}</description></item>')
+                  f'<pubDate>{d}T07:00:00Z</pubDate>'
+                  f'<description>{E(desc)}</description></item>')
     return ('<?xml version="1.0" encoding="UTF-8"?>'
             '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>'
             f'<title>{E(t["idx_seo"])}</title><link>{BASE}/{lang}/blog/</link>'
@@ -448,6 +465,8 @@ def build():
             if a.get('published'):
                 open(f'{ROOT}/{lang}/blog/{a["slug"][lang]}.html', 'w', encoding='utf-8').write(render_article(a, lang, arts))
     open(f'{ROOT}/sitemap-blog.xml', 'w', encoding='utf-8').write(render_sitemap(arts))
+    fr_seuls = blog_fr.build(sys.modules[__name__])
+    print(f'✓ articles en français seul : {len(blog_fr.published(fr_seuls))} publié(s), {len(fr_seuls) - len(blog_fr.published(fr_seuls))} programmé(s)')
     pub = sum(1 for a in arts if a.get('published'))
     print(f'✓ blog reconstruit : {pub} article(s) publié(s) × 3 langues + index + sitemap-blog.xml')
 

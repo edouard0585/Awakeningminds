@@ -1,0 +1,45 @@
+name: Publier les articles français (mercredi 16 h, samedi 11 h)
+on:
+  schedule:
+    # GitHub ne connaît que l'heure UTC : plusieurs passages couvrent l'heure d'été et d'hiver ;
+    # publish_fr.py ne publie que les articles dont l'heure de Paris est atteinte.
+    - cron: '3,23,43 13-16 * * 3'   # mercredi
+    - cron: '3,23,43 8-11 * * 6'    # samedi
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: blog-publication
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publier les articles dus
+        id: pub
+        run: |
+          python3 _tools/publish_fr.py | tee sortie.txt
+          grep -q '✓ publié' sortie.txt && echo "nouveau=1" >> "$GITHUB_OUTPUT" || true
+          rm sortie.txt
+      - name: Commit et push
+        if: steps.pub.outputs.nouveau == '1'
+        run: |
+          git config user.name "awakening-minds-blog"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "blog: article du $(date +%A | sed 's/Wednesday/mercredi/;s/Saturday/samedi/')"
+          git pull --rebase && git push
+      - name: Demander la reconstruction GitHub Pages
+        if: steps.pub.outputs.nouveau == '1'
+        run: |
+          curl -s -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/pages/builds" || true
+      - name: Signaler la nouvelle page aux moteurs via IndexNow
+        if: steps.pub.outputs.nouveau == '1'
+        run: |
+          sleep 150
+          python3 _tools/indexnow.py
