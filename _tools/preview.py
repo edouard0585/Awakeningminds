@@ -16,7 +16,8 @@ import blog_fr
 key = sys.argv[1]
 E = {}
 if len(sys.argv) > 2 and os.path.exists(sys.argv[2]):
-    E = json.load(open(sys.argv[2], encoding='utf-8')).get('items', {})
+    E = json.load(open(sys.argv[2], encoding='utf-8')).get('items') or {}
+    if not isinstance(E, dict): E = {}
 p = key.split(':')
 bb.SCHEMA_FILES = {int(k): v for k, v in bb._load_schema_files().items()}
 bb._scan_hero_alts()

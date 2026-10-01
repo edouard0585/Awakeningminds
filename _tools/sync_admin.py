@@ -11,7 +11,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 URL = 'https://espace.awakeningminds.app/edits.json'
 try:
     req = urllib.request.Request(URL, headers={'User-Agent': 'AwakeningMinds-blog-sync/1.0 (+https://awakeningminds.app)', 'Accept': 'application/json'})
-    E = json.load(urllib.request.urlopen(req, timeout=20)).get('items', {})
+    E = json.load(urllib.request.urlopen(req, timeout=20)).get('items') or {}
+    if not isinstance(E, dict): E = {}
 except Exception as e:
     print(f'Espace privé injoignable ({e}) : rien à appliquer.'); sys.exit(0)
 FRQ = f'{ROOT}/_queue/articles_fr.json'; Q3 = f'{ROOT}/_queue/articles.json'
