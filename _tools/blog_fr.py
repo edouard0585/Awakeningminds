@@ -175,9 +175,14 @@ def render_article(bb, a0, arts, lang='fr'):
                 kw=a.get('kw', ''), img_alt=a['photo']['alt'], langs=langs)
     h = h.replace('</style>', CSS_FR + '</style>', 1)
     h += bb.header_html(lang, lambda x: f'../..{paths[x]}' if x in paths else f'../../{x}/blog/')
+    import blog_hubs as hubs
+    hl = hubs.group_link(lang, a['group'], getattr(bb, 'HUB_ACT', {}))
     h += (f'<main class="wrap"><article><nav class="crumbs"><a href="../">Awakening Minds</a>'
-          f'<span>›</span><a href="./">{E(t["blog"])}</a></nav>'
-          f'<span class="cat">{E(GL.get(a["group"], "Meditation"))}</span><h1>{E(a["title"])}</h1>')
+          f'<span>›</span><a href="./">{E(t["blog"])}</a>'
+          + (f'<span>›</span><a href="{hl}">{E(hubs.HUBS[lang][a["group"]]["h1"])}</a>' if hl else '')
+          + '</nav>'
+          + (f'<a class="cat" href="{hl}">' if hl else '<span class="cat">') + E(GL.get(a["group"], "Meditation"))
+          + ('</a>' if hl else '</span>') + f'<h1>{E(a["title"])}</h1>')
     h += f'<div class="meta">{E(t["published_on"])} {E(bb.fmt_date(a["published"], lang))} · {mins} {E(t["read"])}</div>'
     p = a['photo']
     h += (f'<figure class="hero-photo"><img src="../../assets/blog/{p["src"]}" '
@@ -220,8 +225,11 @@ def sitemap_urls(bb, arts):
         if a.get('en'): locs['en'] = f'{bb.BASE}/en/blog/{a["en"]["slug"]}.html'
         alts = ''.join(f'<xhtml:link rel="alternate" hreflang="{x}" href="{u}"/>' for x, u in locs.items())
         if 'en' in locs: alts += f'<xhtml:link rel="alternate" hreflang="x-default" href="{locs["en"]}"/>'
-        for u in locs.values():
-            urls.append(f'<url><loc>{u}</loc><lastmod>{a.get("modified", a["published"])}</lastmod>{alts}</url>')
+        for lang, u in locs.items():
+            v = V(a, lang)
+            imgs = [v['photo']['src']] + [x['src'] for x in v.get('schemas', [])]
+            im = ''.join(f'<image:image><image:loc>{bb.BASE}/assets/blog/{x}</image:loc></image:image>' for x in imgs if not x.startswith('http'))
+            urls.append(f'<url><loc>{u}</loc><lastmod>{a.get("modified", a["published"])}</lastmod>{alts}{im}</url>')
     return urls
 
 

@@ -11,6 +11,7 @@ Relancé à chaque publication : tout est régénéré, rien ne dérive.
 import json, os, re, html, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import blog_fr
+import blog_hubs
 from datetime import date
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -163,6 +164,11 @@ details p{padding-bottom:12px}
 .pill-list{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0}
 .pill-list li{border:1px solid var(--line);border-radius:99px;padding:5px 13px;font-size:13.5px;color:var(--muted)}
 .media-slot{display:none}
+.themes{margin:34px 0 10px}.themes h2{font-size:22px;color:var(--gold);margin:0 0 12px;font-weight:500}
+.themes .pill-list a{color:var(--muted);text-decoration:none}.themes .pill-list li:hover{border-color:var(--gold)}
+.themes .pill-list a[aria-current]{color:var(--gold)}
+.topnav{margin:0 0 26px}.topnav .pill-list li{font-size:13px}.topnav a{color:var(--muted);text-decoration:none}
+a.cat{text-decoration:none}a.cat:hover{border-color:var(--gold)}
 .intro{color:var(--muted);font-size:16.5px;margin:0 0 22px;font-family:'Avenir Next','Segoe UI',system-ui,sans-serif}
 article figure{margin:16px 0 20px}
 article figure.hero{margin:4px 0 26px}
@@ -310,8 +316,11 @@ def render_article(a, lang, arts):
     img_alt = HERO_ALTS.get((a.get('image'), lang), a['title'][lang]) if a.get('image') is not None else a['title'][lang]
     h = head(lang, a['title'][lang], a['desc'][lang], path_of, path_of(lang), img, ld_tag, kw=art_kw, img_alt=img_alt)
     h += header_html(lang, lambda x: f'../../{x}/blog/{a["slug"][x]}.html')
+    g = blog_hubs.SERIES_GROUP.get(a['id'], 'bases'); hl = blog_hubs.group_link(lang, g, HUB_ACT)
     h += (f'<main class="wrap"><article><nav class="crumbs"><a href="../">Awakening Minds</a>'
-          f'<span>›</span><a href="./">{E(T[lang]["blog"])}</a></nav><h1>{E(a["title"][lang])}</h1>')
+          f'<span>›</span><a href="./">{E(T[lang]["blog"])}</a>'
+          + (f'<span>›</span><a href="{hl}">{E(blog_hubs.HUBS[lang][g]["h1"])}</a>' if hl else '')
+          + f'</nav><h1>{E(a["title"][lang])}</h1>')
     h += f'<div class="meta">{E(t["published_on"])} {E(fmt_date(a["published"], lang))} · {mins} {E(t["read"])}</div>'
     h += f'<p class="lead">{E(a["desc"][lang])}</p>'
     if a.get('intro'):
@@ -366,7 +375,10 @@ def render_index(lang, arts):
     h = head(lang, t['idx_seo'], t['idx_desc'], path_of, path_of(lang), '/assets/brand/og-image.jpg',
              ld_tag, kw=SITE_KW[lang], img_alt='Awakening Minds', og_type='website')
     h += header_html(lang, lambda x: f'../../{x}/blog/')
-    h += f'<main class="wrap"><h1>{E(t["idx_title"])}</h1><p class="lead">{E(t["idx_desc"])}</p><ul class="alist">'
+    h += f'<main class="wrap"><h1>{E(t["idx_title"])}</h1><p class="lead">{E(t["idx_desc"])}</p>'
+    nav = blog_hubs.themes_nav(lang, HUB_ACT)
+    if nav: h += nav.replace('class="themes"', 'class="themes topnav"', 1)
+    h += '<ul class="alist">'
     fr_items = blog_fr.index_items(blog_fr.load(), lang) if lang in ('fr', 'en') else []
     entries = [('a', a['published'], '', a) for a in pub] + [('f', x['published'], x['order'], x) for x in fr_items]
     entries.sort(key=lambda e: (e[1], e[2]))
@@ -406,10 +418,12 @@ def render_sitemap(arts):
         for x in LANGS:
             urls.append(f'<url><loc>{BASE}{pa(x)}</loc><lastmod>{a["published"]}</lastmod>{block(pa)}</url>')
     urls += blog_fr.sitemap_urls(sys.modules[__name__], fr_seuls)
+    urls += blog_hubs.sitemap_urls(sys.modules[__name__], HUB_ACT)
     return ('<?xml version="1.0" encoding="UTF-8"?>'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
-            'xmlns:xhtml="http://www.w3.org/1999/xhtml">' + ''.join(urls) + '</urlset>')
+            'xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">' + ''.join(urls) + '</urlset>')
 
+HUB_ACT = {}  # thèmes ayant une page, par langue (rempli par build)
 SCHEMA_FILES = {}  # rempli au chargement depuis assets/blog (slug sans -lang)
 def _load_schema_files():
     import collections
@@ -457,6 +471,8 @@ def build():
     SCHEMA_FILES = {int(k): v for k, v in _load_schema_files().items()}
     _scan_hero_alts()
     arts = load()
+    global HUB_ACT
+    HUB_ACT = blog_hubs.active(sys.modules[__name__])
     for lang in LANGS:
         os.makedirs(f'{ROOT}/{lang}/blog', exist_ok=True)
         open(f'{ROOT}/{lang}/blog/index.html', 'w', encoding='utf-8').write(render_index(lang, arts))
@@ -466,6 +482,8 @@ def build():
                 open(f'{ROOT}/{lang}/blog/{a["slug"][lang]}.html', 'w', encoding='utf-8').write(render_article(a, lang, arts))
     open(f'{ROOT}/sitemap-blog.xml', 'w', encoding='utf-8').write(render_sitemap(arts))
     fr_seuls = blog_fr.build(sys.modules[__name__])
+    blog_hubs.build(sys.modules[__name__])
+    print('✓ pages thématiques : ' + ', '.join(f'{l} {len(v)}' for l, v in HUB_ACT.items()))
     print(f'✓ articles en français seul : {len(blog_fr.published(fr_seuls))} publié(s), {len(fr_seuls) - len(blog_fr.published(fr_seuls))} programmé(s)')
     pub = sum(1 for a in arts if a.get('published'))
     print(f'✓ blog reconstruit : {pub} article(s) publié(s) × 3 langues + index + sitemap-blog.xml')
