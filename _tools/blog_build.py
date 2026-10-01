@@ -493,6 +493,7 @@ def build():
     print(f'✓ articles en français seul : {len(blog_fr.published(fr_seuls))} publié(s), {len(fr_seuls) - len(blog_fr.published(fr_seuls))} programmé(s)')
     pub = sum(1 for a in arts if a.get('published'))
     print(f'✓ blog reconstruit : {pub} article(s) publié(s) × 3 langues + index + sitemap-blog.xml')
+    import mesure; mesure.main(False)  # balise Google Analytics + consentement sur toutes les pages
 
 if __name__ == '__main__':
     build()
