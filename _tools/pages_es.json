@@ -1,0 +1,630 @@
+{
+ "meditations_index": {
+  "slug": "meditaciones-guiadas-gratis",
+  "seo": "Meditaciones guiadas gratis en español, sin conexión",
+  "desc": "146 meditaciones guiadas gratis en español: dormir, calma, budismo, chamanismo y viaje astral. Sin suscripción, sin anuncios y sin conexión.",
+  "h1": "Meditaciones guiadas gratis en español",
+  "intro": "Aquí encontrarás todas las meditaciones guiadas de Awakening Minds, organizadas en 19 categorías. Puedes empezar desde cero con sesiones para principiantes, tomarte una pausa de cuatro minutos en mitad del día, relajarte antes de dormir o explorar prácticas más profundas: meditación budista, viajes chamánicos, tercer ojo, trance o viaje astral. Cada categoría indica la duración y el nivel de sus sesiones para que elijas con calma. La app es gratuita, sin suscripción, sin publicidad y sin cuenta, y funciona sin conexión una vez descargadas las sesiones, en iPhone y Android."
+ },
+ "categories": {
+  "learningBasics": {
+   "slug": "meditacion-para-principiantes",
+   "seo": "Meditación para principiantes: 8 sesiones guiadas",
+   "desc": "Aprende a meditar desde cero con 8 meditaciones guiadas de 5 a 19 minutos: respiración, escaneo corporal, pensamientos y cinco sentidos. Gratis.",
+   "h1": "Meditación guiada para principiantes",
+   "intro": [
+    "Si nunca has meditado, esta categoría es el mejor punto de partida. Reúne ocho sesiones guiadas, de 5 a 19 minutos, que enseñan las bases una a una: el escaneo corporal para sentir el cuerpo desde dentro, la respiración como punto de regreso, la diferencia entre sensación, emoción y pensamiento, la observación de los pensamientos que pasan como trenes, un solo bocado tomado con atención plena y la apertura de los cinco sentidos.",
+    "Todas son de nivel principiante y no piden ninguna experiencia previa. Puedes seguirlas en orden, a tu ritmo, y terminar con una primera meditación silenciosa de cinco minutos, en la que los silencios forman parte de la práctica. Como el resto de la app, son gratuitas y funcionan sin conexión una vez descargadas."
+   ],
+   "faq": [
+    [
+     "¿Necesito experiencia para empezar a meditar?",
+     "No. Las ocho sesiones son de nivel principiante y están pensadas para quien medita por primera vez. La voz te guía paso a paso y explica qué hacer en cada momento, sin vocabulario técnico. Basta con un lugar tranquilo y unos minutos para ti."
+    ],
+    [
+     "¿En qué orden conviene hacer las sesiones?",
+     "Puedes seguir el orden propuesto: escaneo corporal, respiración, las tres capas de la experiencia, los pensamientos y después los sentidos. La primera meditación silenciosa, de cinco minutos, es un buen cierre cuando ya conoces lo básico. Nada te impide volver luego a la que más te guste."
+    ],
+    [
+     "¿Cuánto dura cada meditación?",
+     "Entre 5 y 19 minutos. La más corta es la primera meditación silenciosa; la más larga, la conciencia de los cinco sentidos. La mayoría dura entre 12 y 17 minutos, un tiempo fácil de encontrar al despertar, en una pausa o antes de dormir."
+    ]
+   ]
+  },
+  "fourMin": {
+   "slug": "meditacion-corta-4-minutos",
+   "seo": "Meditación corta de 4 minutos: 11 pausas guiadas",
+   "desc": "11 meditaciones cortas de 3 a 4 minutos para recuperar la calma en tu día: antes de una prueba, tras una discusión o una mala noticia. Gratis.",
+   "h1": "Meditaciones cortas de 4 minutos",
+   "intro": [
+    "¿No tienes tiempo para meditar? Esta categoría reúne once meditaciones guiadas de tres a cuatro minutos, pensadas para momentos concretos del día. Hay una para cuando todo va demasiado deprisa, otra para calmarte después de una discusión, para recuperar la confianza antes de una prueba, para después de recibir una mala noticia o para cuando te sientes observado o juzgado. Otras te llevan a un refugio instantáneo, a un recuerdo feliz o a una gratitud precisa.",
+    "Todas son de nivel principiante: no hace falta saber meditar. Puedes escucharlas en una pausa del trabajo, en casa o antes de salir, y repetir la que mejor te funcione tantas veces como quieras. Una vez descargadas, funcionan sin conexión, así que están disponibles justo cuando las necesitas."
+   ],
+   "faq": [
+    [
+     "¿Sirve de algo meditar solo cuatro minutos?",
+     "Una pausa corta no sustituye una práctica larga, pero permite detenerse, respirar y volver a lo que está pasando ahora. Estas sesiones están pensadas para eso: un gesto sencillo y concreto, fácil de repetir varias veces al día, sin necesidad de prepararse."
+    ],
+    [
+     "¿Necesito auriculares o un lugar tranquilo?",
+     "Ayudan, pero no son imprescindibles. Muchas de estas meditaciones están pensadas para momentos en los que no estás en un lugar ideal: antes de una prueba o después de una conversación difícil. Basta con poder escuchar la voz unos minutos."
+    ],
+    [
+     "¿Cuál elegir si es mi primera vez?",
+     "«Relajarse muy rápido» es un buen comienzo: recorre el cuerpo de la frente a los pies en unos minutos. «El refugio instantáneo» también es muy sencilla. Después, elige según el momento: falta de motivación, confianza antes de una prueba, discusión o mala noticia."
+    ]
+   ]
+  },
+  "calm": {
+   "slug": "meditacion-guiada-para-dormir",
+   "seo": "Meditación guiada para dormir y relajarse",
+   "desc": "14 meditaciones guiadas para dormir y relajarte: relajación profunda, respiración, chakras y sueño lúcido. De 13 a 30 minutos, gratis y sin conexión.",
+   "h1": "Meditación guiada para dormir y relajarse",
+   "intro": [
+    "Esta categoría reúne catorce meditaciones guiadas de 13 a 30 minutos centradas en el cuerpo, la calma y el sueño. Para la noche, «Viaje hacia el sueño» y «Deslizamiento hacia el sueño» te ayudan a soltar poco a poco todo esfuerzo; la segunda no tiene despertar al final, para que puedas quedarte dormido. También encontrarás una preparación para el sueño lúcido, una respiración con todo el cuerpo y una relajación bajo una cascada imaginaria.",
+    "Otra parte está dedicada a los chakras: reconocer los siete centros, alinearlos y un reinicio guiado con largas pausas. Las sesiones son de nivel intermedio, así que conviene haber probado antes algunas meditaciones sencillas. Funcionan sin conexión, algo práctico si dejas el teléfono en modo avión por la noche."
+   ],
+   "faq": [
+    [
+     "¿Qué meditación escuchar para quedarme dormido?",
+     "«Deslizamiento hacia el sueño», de 16 minutos, está pensada para eso: sueltas poco a poco todo esfuerzo y la sesión termina sin despertar. «Viaje hacia el sueño», de 27 minutos, propone un deslizamiento más largo, sin nada que recordar ni comprobar."
+    ],
+    [
+     "¿Puedo escucharlas sin internet en la cama?",
+     "Sí. Una vez descargadas, las sesiones funcionan sin conexión, así que puedes activar el modo avión antes de dormir. La app no necesita cuenta y los datos de tu práctica se quedan en tu teléfono."
+    ],
+    [
+     "¿Son adecuadas para principiantes?",
+     "Son de nivel intermedio: duran entre 13 y 30 minutos y piden algo más de atención. Si estás empezando, prueba antes la categoría Aprendizaje o las meditaciones de 4 minutos y después vuelve aquí. Nada te impide, de todos modos, probar una sesión para dormir desde el primer día."
+    ]
+   ]
+  },
+  "emotionalGrowth": {
+   "slug": "meditacion-guiada-amor-propio",
+   "seo": "Meditación guiada de amor propio, gratitud y perdón",
+   "desc": "8 meditaciones guiadas para cultivar el amor propio, la gratitud, la compasión y el perdón, de 7 a 17 minutos. Gratis, sin anuncios y sin conexión.",
+   "h1": "Meditación guiada de amor propio y compasión",
+   "intro": [
+    "Crecimiento emocional reúne ocho meditaciones guiadas, de 7 a 17 minutos, para cultivar el corazón interior. Aprenderás a acoger una emoción difícil observándola como un científico bondadoso, a desarrollar el amor propio a partir de algo concreto que ya está en ti, a practicar una gratitud cotidiana que empieza en el cuerpo y a abrir el corazón sin discutir con la sensación de no merecer.",
+    "También hay sesiones para perdonar sin olvidar, liberarte de la comparación y visualizar tu crecimiento a lo largo de una antigua vía férrea, además de una meditación de compasión de siete minutos. Son de nivel intermedio y te invitan a decidir por ti mismo, sin forzar nada."
+   ],
+   "faq": [
+    [
+     "¿Perdonar significa olvidar lo que pasó?",
+     "No. La sesión «Perdonar sin olvidar» explora lo que perdonar podría significar para ti y te deja decidir: soltar o guardar, conservando siempre lo aprendido. No hay una respuesta correcta impuesta; cada persona encuentra la suya."
+    ],
+    [
+     "¿Qué es la meditación de compasión?",
+     "Es una práctica breve, de siete minutos, en la que envías mentalmente deseos de paz, seguridad y felicidad, primero a ti mismo y después a los demás. Es la sesión más corta de esta categoría y una buena puerta de entrada."
+    ],
+    [
+     "¿Cuánto tiempo necesito?",
+     "Las sesiones duran entre 7 y 17 minutos. Puedes hacer una sola cuando la necesites o seguirlas en orden durante varios días. Como son de nivel intermedio, ayuda haber probado antes algunas meditaciones de la categoría Aprendizaje."
+    ]
+   ]
+  },
+  "shadow": {
+   "slug": "meditacion-trabajo-de-sombra",
+   "seo": "Meditación de trabajo con la sombra y niño interior",
+   "desc": "10 meditaciones guiadas de trabajo con la sombra: niño interior, ho’oponopono y miedo al abandono, al fracaso o al juicio. De 7 a 21 minutos, gratis.",
+   "h1": "Meditación guiada de trabajo con la sombra",
+   "intro": [
+    "Sombra y bienestar te invita a encontrarte, con suavidad, con lo que has evitado. Las diez meditaciones guiadas, de 7 a 21 minutos, abordan el trabajo con la sombra para entender qué intenta proteger una parte difícil de ti, el reencuentro con el niño interior a través del juego y la seguridad, el ho’oponopono repetido al ritmo de la respiración y el perdón hacia ti mismo después de un error.",
+    "Cuatro sesiones miran de frente miedos frecuentes: al abandono, al fracaso, al juicio y a la oscuridad. Otras se apoyan en imágenes, como un bosque de espinas o un centinela que guarda una puerta desde hace mucho tiempo. Son de nivel intermedio y se recorren a tu ritmo, sin obligación de llegar a ningún sitio."
+   ],
+   "faq": [
+    [
+     "¿Qué es el trabajo con la sombra?",
+     "Es una forma de mirar las partes de uno mismo que preferimos no ver. En la sesión dedicada, te encuentras con una de ellas y buscas entender qué intenta proteger, sin juzgarla. Se practica despacio, con amabilidad y a tu propio ritmo."
+    ],
+    [
+     "¿Cómo se practica el ho’oponopono en la app?",
+     "La sesión «Ho’oponopono del corazón», de 15 minutos, te guía para repetir las cuatro frases del ho’oponopono al ritmo de tu respiración, sin forzar. Es una práctica sencilla a la que puedes volver siempre que quieras."
+    ],
+    [
+     "¿Y si una sesión me remueve demasiado?",
+     "Puedes detenerla en cualquier momento. Estas meditaciones sirven para la exploración interior y no sustituyen el acompañamiento de un profesional. Si lo necesitas, vuelve a una práctica más ligera, como las meditaciones de 4 minutos, y retoma esta categoría más adelante."
+    ]
+   ]
+  },
+  "sacred": {
+   "slug": "meditacion-lugares-sagrados",
+   "seo": "Meditación guiada en lugares sagrados del mundo",
+   "desc": "7 meditaciones guiadas en lugares sagrados: el árbol Bodhi, Stonehenge, una pagoda, un santuario taoísta y las auroras boreales. De 13 a 17 minutos.",
+   "h1": "Meditación guiada en lugares sagrados",
+   "intro": [
+    "Lugares sagrados te lleva, con la imaginación, a siete sitios donde detenerte y respirar. Te sientas bajo el árbol Bodhi y sientes sus raíces, escuchas la lluvia junto a una antigua pagoda entre los lotos, ves el amanecer desde un santuario taoísta sobre un mar de nubes y esperas en el centro de Stonehenge a que la luz revele las piedras una a una.",
+    "Completan el viaje un acantilado escocés frente al océano, una cueva de hielo azul y un círculo de cristales bajo las auroras boreales. Cada sesión dura entre 13 y 17 minutos y es de nivel intermedio: un buen formato para un viaje interior completo sin necesitar mucho tiempo."
+   ],
+   "faq": [
+    [
+     "¿Hay que conocer estos lugares para meditar con ellos?",
+     "No. La voz describe cada lugar con detalle, sus sonidos, su luz y su aire, para que puedas recrearlo en tu imaginación. No hace falta haber estado allí ni seguir ninguna tradición concreta para disfrutar de la sesión."
+    ],
+    [
+     "¿Cuánto dura cada meditación?",
+     "Entre 13 y 17 minutos. Es una duración cómoda para una pausa por la tarde o un momento tranquilo por la noche. Cada sesión se centra en un solo lugar, así que puedes elegir según el ambiente que te apetezca."
+    ],
+    [
+     "¿Qué sesión elegir para empezar?",
+     "«Bajo el árbol Bodhi» es una buena puerta de entrada: te sientas, sientes las raíces debajo de ti y dejas que la atención se abra como las hojas al viento. Si prefieres el agua y el silencio, prueba «La antigua pagoda entre los lotos»."
+    ]
+   ]
+  },
+  "guides": {
+   "slug": "meditacion-guias-espirituales",
+   "seo": "Meditación guiada para conectar con tus guías",
+   "desc": "5 meditaciones guiadas para conocer a tus guías espirituales: el guía de luz, el consejo de los guías, la gratitud. De 16 a 27 minutos, gratis.",
+   "h1": "Meditación guiada con los guías espirituales",
+   "intro": [
+    "Guías espirituales reúne cinco meditaciones de 16 a 27 minutos para conocer las voces que caminan contigo. Recibes el calor de un guía de luz y aprendes a conservarlo cuando se retira, consultas a cinco guías sobre un problema antes de ocupar tú mismo el sexto lugar y agradeces, una a una, a las personas que han sido importantes en tu vida, incluso a las que nunca conociste.",
+    "Las otras dos sesiones te enseñan a recibir un nombre y una señal para volver fácilmente a este estado interior, y a bajar los diez peldaños de un templo de luz hasta un agua que se calma a la vez que la mente. Son de nivel intermedio y no exigen ninguna creencia previa."
+   ],
+   "faq": [
+    [
+     "¿Tengo que creer en los guías espirituales?",
+     "No. Puedes vivir estas meditaciones como un ejercicio de imaginación y de escucha interior. Cada guía es una figura con la que dialogar para ver una situación desde otro ángulo, sin que tengas que adoptar ninguna creencia."
+    ],
+    [
+     "¿Por qué sesión empezar?",
+     "«El nombre y la señal», de 16 minutos, es la más corta y te da un punto de apoyo para volver fácilmente a este estado. «Los diez peldaños del templo de luz» también es una entrada suave, centrada en calmar la mente paso a paso."
+    ],
+    [
+     "¿Cuánto duran estas meditaciones?",
+     "Entre 16 y 27 minutos. La más larga es «El consejo de los guías», que deja tiempo para escuchar a cinco guías sobre un problema concreto. Conviene elegir un momento en el que nadie te interrumpa."
+    ]
+   ]
+  },
+  "higherKnowledge": {
+   "slug": "meditacion-registros-akashicos",
+   "seo": "Meditación de registros akáshicos y reencuentros",
+   "desc": "3 meditaciones guiadas de 24 a 25 minutos: el guardián de los archivos, el jardín del reencuentro y el vínculo con un animal que se fue. Gratis.",
+   "h1": "Meditación guiada: archivos, reencuentros y memoria",
+   "intro": [
+    "Conocimientos superiores y más allá propone tres viajes largos hacia lo que nos trasciende. En «El guardián de los archivos», inspirado en la idea de los registros akáshicos, aprendes a distinguir lo que la mente inventa de lo que parece surgir solo. «El jardín del reencuentro» te invita a decir las palabras que quedaron pendientes y a sentir lo que pasa de una generación a otra.",
+    "La tercera sesión, «Mi animal que ya no está», te acompaña para reencontrar el vínculo con un animal que se fue a través de los recuerdos cotidianos. Cada meditación dura 24 o 25 minutos y es de nivel intermedio: conviene reservarles un momento tranquilo, sin prisa."
+   ],
+   "faq": [
+    [
+     "¿Qué son los registros akáshicos?",
+     "Es una idea presente en varias corrientes espirituales: una especie de memoria universal. La sesión «El guardián de los archivos» la usa como imagen para explorar tu mundo interior y aprender a distinguir lo que inventa la mente de lo que parece surgir solo."
+    ],
+    [
+     "¿Hay una meditación para recordar a un animal que se fue?",
+     "Sí. «Mi animal que ya no está» ofrece un espacio tranquilo para recordar los momentos cotidianos compartidos y reencontrar el vínculo. No pretende borrar la tristeza, sino acompañar el recuerdo con suavidad, a tu ritmo."
+    ],
+    [
+     "¿Cuánto duran estas meditaciones?",
+     "Entre 24 y 25 minutos. Son sesiones largas de nivel intermedio, así que es mejor hacerlas en un momento en que nadie te interrumpa, sentado o tumbado con comodidad y sin tener que mirar el reloj."
+    ]
+   ]
+  },
+  "shamanic": {
+   "slug": "meditacion-chamanica-guiada",
+   "seo": "Meditación chamánica guiada y viaje interior",
+   "desc": "4 meditaciones chamánicas guiadas de 23 a 30 minutos: búsqueda de visión, el fuego de los antiguos, círculo de protección y objeto de poder. Gratis.",
+   "h1": "Meditación chamánica guiada",
+   "intro": [
+    "Trance chamánico reúne cuatro viajes interiores de 23 a 30 minutos inspirados en las prácticas chamánicas. En «La búsqueda de visión» caminas, esperas y dejas llegar lo que tenga que mostrarse. En «El fuego de los antiguos» te sientas junto al fuego y miras las figuras que se reúnen, sin imponerles ningún mensaje. «El círculo de protección» parte del elemento que te llama: tierra, agua, fuego o aire.",
+    "La última sesión, «El regreso con un objeto de poder», te enseña a reconocer, sostener y entender lo que traes de un viaje. Son de nivel intermedio. Si te atraen el tambor y los viajes a los mundos de abajo y de arriba, los encontrarás en la categoría Trances y técnicas."
+   ],
+   "faq": [
+    [
+     "¿Qué es un viaje chamánico guiado?",
+     "Es un viaje interior en el que la voz te acompaña hacia un paisaje imaginario donde encontrar figuras, elementos u objetos con sentido para ti. En la app se vive como una meditación: con los ojos cerrados, sin ninguna sustancia y a tu ritmo."
+    ],
+    [
+     "¿Hace falta experiencia para un viaje chamánico?",
+     "Las cuatro sesiones son de nivel intermedio y duran entre 23 y 30 minutos. No hace falta formación chamánica, pero ayuda estar acostumbrado a mantener la atención un buen rato. «El círculo de protección» es la más corta y un buen comienzo."
+    ],
+    [
+     "¿Dónde están los viajes con tambor?",
+     "Los viajes al mundo de abajo y al mundo de arriba están en la categoría Trances y técnicas, de nivel avanzado. El viaje al mundo de abajo se hace al son del tambor, siguiendo a un animal con la imaginación y moviéndote como él."
+    ]
+   ]
+  },
+  "buddhist": {
+   "slug": "meditacion-budista-guiada",
+   "seo": "Meditación budista guiada: bodhisattvas y compasión",
+   "desc": "8 meditaciones budistas guiadas con Avalokiteśvara, Mañjuśrī, Tārā, Maitreya y Samantabhadra. De 20 a 30 minutos, gratis y sin anuncios.",
+   "h1": "Meditación budista guiada",
+   "intro": [
+    "Meditaciones budistas te propone ocho sesiones guiadas, de 20 a 30 minutos, tras los pasos de los bodhisattvas. Sigues la peregrinación de Sudhana de maestro en maestro, aprendes con los once rostros de Avalokiteśvara a responder con dulzura, firmeza o silencio, y usas la espada de Mañjuśrī para cortar las frases que dan vueltas en la cabeza. Con su león, bajas al valle de los viejos miedos.",
+    "Completan la serie la luz de Kṣitigarbha en los mundos oscuros, los diez grandes votos de Samantabhadra, el jardín de Maitreya y Tārā frente a los ocho grandes peligros. Son de nivel intermedio y no requieren ser budista: cada figura sirve de apoyo para mirar tu vida diaria con más claridad."
+   ],
+   "faq": [
+    [
+     "¿Tengo que ser budista para hacer estas meditaciones?",
+     "No. Las figuras budistas sirven de apoyo para trabajar cualidades concretas, como la compasión, la claridad o el valor, en situaciones de la vida diaria. No se te pide ninguna creencia ni ninguna práctica religiosa."
+    ],
+    [
+     "¿Qué es un bodhisattva?",
+     "En la tradición budista, un bodhisattva es un ser que se orienta hacia el despertar por el bien de todos. Avalokiteśvara encarna la compasión, Mañjuśrī la sabiduría y Tārā la protección. Cada sesión parte de una de estas figuras."
+    ],
+    [
+     "¿Cuánto duran las meditaciones budistas?",
+     "Entre 20 y 30 minutos. La más larga es «El viaje de Sudhana», de 30 minutos. Son de nivel intermedio, así que conviene haber practicado antes algunas meditaciones más cortas, por ejemplo en la categoría Aprendizaje."
+    ]
+   ]
+  },
+  "qigong": {
+   "slug": "meditacion-qigong-guiada",
+   "seo": "Qigong guiado: meditación de energía y sensaciones",
+   "desc": "4 sesiones guiadas de qigong de 20 a 25 minutos: las manos que se calientan, la pequeña circulación, el árbol inmóvil y la danza del Qi. Gratis.",
+   "h1": "Qigong y meditación guiada de sensaciones",
+   "intro": [
+    "Sensaciones y qigong reúne cuatro sesiones guiadas, de 20 a 25 minutos, para sentir el cuerpo en movimiento interior. Empiezas con «Las manos que se calientan»: una bola imaginaria entre las palmas y un calor suave. Después sigues el trayecto de la pequeña circulación, como una perla que baja desde el vientre y sube por la espalda, y aprendes la postura del árbol inmóvil.",
+    "La última sesión, «La danza del Qi», es un qigong en movimiento en el que pies, manos y torso se responden despacio, hasta que el cuerpo baila solo. Son de nivel intermedio y no necesitan material: solo un poco de espacio y ropa cómoda para las sesiones de pie."
+   ],
+   "faq": [
+    [
+     "¿Qué es la pequeña circulación?",
+     "Es un ejercicio clásico del qigong en el que la atención sigue un recorrido por el cuerpo: desde el vientre hacia abajo, por la espalda hacia arriba y de vuelta al punto de partida. En la sesión, la voz te guía para que imagines una perla que recorre ese camino."
+    ],
+    [
+     "¿Hay que practicar de pie?",
+     "Depende de la sesión. «El árbol inmóvil» se practica de pie, con los brazos alrededor de un balón imaginario, y «La danza del Qi» incluye movimiento. Las otras dos se centran en las sensaciones. Elige un espacio donde puedas moverte con comodidad."
+    ],
+    [
+     "¿Necesito saber qigong?",
+     "No. Las sesiones son de nivel intermedio, pero la voz explica cada gesto paso a paso, despacio. Lo importante es sentir antes que producir, sin forzar nada ni buscar un resultado concreto desde la primera vez."
+    ]
+   ]
+  },
+  "visualisation": {
+   "slug": "meditacion-de-visualizacion-guiada",
+   "seo": "Meditación de visualización guiada: el ojo interior",
+   "desc": "6 meditaciones de visualización guiada de 16 a 29 minutos para entrenar el ojo interior: ver, oír y tocar con la imaginación. Gratis y sin conexión.",
+   "h1": "Meditación de visualización guiada",
+   "intro": [
+    "Visualización es un entrenamiento del ojo interior en seis sesiones guiadas de 16 a 29 minutos. Cada sentido se trabaja por separado: sigues con la mirada imaginaria una mariposa que vuela a tu lado, sientes el peso y el frío de una llave en la mano abierta y escuchas un cuenco cantor que se acerca desde lejos, atento a la vez a su distancia y a su dirección.",
+    "Después, los sentidos se reúnen para construir escenas completas: la cima de un volcán apagado, la cabina de una nave que explora la galaxia y una habitación que conoces, reconstruida de memoria con la luz del atardecer. Son de nivel intermedio y se disfrutan mejor con los ojos cerrados."
+   ],
+   "faq": [
+    [
+     "¿Y si me cuesta ver imágenes al meditar?",
+     "Es muy frecuente. Por eso esta categoría no se limita a la vista: también trabaja el tacto y el oído, que a muchas personas les resultan más fáciles. Lo importante es practicar sin forzar, porque cada sentido cuenta en la visualización."
+    ],
+    [
+     "¿En qué orden hacer las sesiones?",
+     "Empieza por los sentidos por separado: la mariposa para la vista, la llave para el tacto y el cuenco cantor para el oído. Después pasa a las sesiones que los reúnen, como el volcán o la nave, que son más largas."
+    ],
+    [
+     "¿Cuánto duran estas meditaciones?",
+     "Entre 16 y 29 minutos. Las sesiones de un solo sentido duran de 16 a 18 minutos; las escenas completas, de 27 a 29 minutos. Elige según el tiempo del que dispongas ese día."
+    ]
+   ]
+  },
+  "miniAdventures": {
+   "slug": "meditacion-guiada-viaje-imaginario",
+   "seo": "Meditación guiada de viaje imaginario: miniaventuras",
+   "desc": "4 miniaventuras guiadas de 26 a 34 minutos: Versalles en 1700, el camino a Kioto en 1600, un planeta desconocido y el tren de los recuerdos. Gratis.",
+   "h1": "Miniaventuras: meditación guiada de viaje imaginario",
+   "intro": [
+    "Miniaventuras propone un viaje completo en una sola sesión: un lugar, una época, una historia. Pasas un día entero en Versalles en 1700, entre saludos, miradas y una corte que gira en torno a un solo hombre. Caminas hacia Kioto en 1600, con los sentidos despiertos, sin saber qué te espera en la próxima curva. O exploras un planeta desconocido y te dejas sorprender por lo que encuentras.",
+    "La cuarta aventura, «El tren de los recuerdos», te hace ver pasar, estación tras estación, los hábitos, gustos y decisiones que te han ido formando. Son sesiones muy narrativas, de 26 a 34 minutos y de nivel intermedio, para vivir como una película interior."
+   ],
+   "faq": [
+    [
+     "¿En qué se diferencia una miniaventura de una meditación clásica?",
+     "Una miniaventura sigue una historia con un lugar y una época concretos, como una película interior. La atención se apoya en los detalles sensoriales del relato. Es una forma de meditar que puede convenir a quien se distrae con facilidad en el silencio."
+    ],
+    [
+     "¿Cuánto dura cada aventura?",
+     "Entre 26 y 34 minutos. La más larga es «Versalles — Un día en 1700». Reserva un momento tranquilo, en el que puedas seguir el relato de principio a fin sin interrupciones, sentado o tumbado."
+    ],
+    [
+     "¿Sirven para dormir?",
+     "Están pensadas para vivirlas despierto, siguiendo la historia. Para dormir, la categoría Cuerpo, calma y sueño ofrece sesiones dedicadas, como «Deslizamiento hacia el sueño», que termina sin despertar."
+    ]
+   ]
+  },
+  "thirdEye": {
+   "slug": "meditacion-tercer-ojo-guiada",
+   "seo": "Meditación guiada del tercer ojo: Ajna y mandala",
+   "desc": "5 meditaciones guiadas del tercer ojo de 22 a 26 minutos: el punto entre las cejas, la puerta de Ajna y el mandala que se construye solo. Nivel avanzado.",
+   "h1": "Meditación guiada del tercer ojo",
+   "intro": [
+    "Tercer ojo reúne cinco meditaciones avanzadas, de 22 a 26 minutos, centradas en el punto entre las cejas. Empiezas sintiendo los dos ojos y luego ese punto, para pasar de la mirada hacia fuera a la mirada hacia dentro. Después aprendes a hacer nacer una imagen en el centro de la frente, sostenerla, transformarla y dejar que desaparezca con la misma limpieza.",
+    "Las otras sesiones invierten el esfuerzo: esperar ante el espacio oscuro hasta que una imagen aparece sola, cruzar la puerta de Ajna para explorar paso a paso el lugar que hay detrás y observar cómo un mandala sigue construyéndose sin que lo controles."
+   ],
+   "faq": [
+    [
+     "¿Qué es Ajna?",
+     "Ajna es el nombre sánscrito del sexto chakra, situado entre las cejas y asociado al tercer ojo. En «La puerta de Ajna», la voz te invita a cruzar una puerta imaginaria en ese punto y a explorar, paso a paso, lo que hay detrás."
+    ],
+    [
+     "¿Por qué son de nivel avanzado?",
+     "Piden sostener la atención en un punto preciso y trabajar con imágenes interiores durante más de veinte minutos. Si estás empezando, prepara el terreno con la categoría Visualización o con las meditaciones de los chakras de Cuerpo, calma y sueño."
+    ],
+    [
+     "¿Y si no aparece ninguna imagen?",
+     "Es normal. Las sesiones no exigen ver nada: «La imagen que aparece sola» consiste justamente en esperar sin construir. Lo que cuenta es la calidad de la atención, no el resultado, y cada práctica es distinta."
+    ]
+   ]
+  },
+  "cosmic": {
+   "slug": "meditacion-no-dual-guiada",
+   "seo": "Meditación no dual guiada y cuerpo de luz",
+   "desc": "2 meditaciones guiadas avanzadas para viajar más allá: conciencia no dual y expansión del cuerpo de luz. De 28 y 31 minutos, gratis y sin conexión.",
+   "h1": "Meditación guiada cósmica: no dualidad y cuerpo de luz",
+   "intro": [
+    "Cósmico y vacío te invita a viajar más allá, hacia la inmensidad interior. La categoría contiene dos meditaciones guiadas de nivel avanzado. En «Conciencia no dual», de 28 minutos, buscas dónde termina el dentro y empieza el fuera, y después te vuelves hacia quien percibe. Es una práctica de indagación tranquila y abierta, sin ninguna respuesta que memorizar ni idea que adoptar de antemano.",
+    "«Expansión del cuerpo de luz», de 31 minutos, parte del calor del cuerpo y deja que se convierta en una luz que va más allá de la piel. Son sesiones largas: conviene hacerlas en un momento sin prisa, después de haber practicado otras categorías."
+   ],
+   "faq": [
+    [
+     "¿Qué significa conciencia no dual?",
+     "Es la experiencia en la que la separación entre quien observa y lo observado se vuelve menos nítida. La sesión no intenta explicarla: te propone buscar dónde termina el dentro y empieza el fuera, y mirar hacia quien percibe."
+    ],
+    [
+     "¿Puedo empezar por esta categoría?",
+     "Es mejor no hacerlo. Las dos sesiones son de nivel avanzado y duran casi media hora. Para empezar, prueba la categoría Aprendizaje y, cuando te sientas cómodo con sesiones largas, vuelve aquí con calma."
+    ],
+    [
+     "¿Qué es el cuerpo de luz?",
+     "En esta sesión es una imagen: partes del calor que sientes en el cuerpo y dejas que se convierta en una luz que se extiende más allá de la piel. No hace falta ninguna creencia para practicarla, solo imaginación y tiempo."
+    ]
+   ]
+  },
+  "trance": {
+   "slug": "meditacion-de-trance-guiada",
+   "seo": "Meditación de trance guiada y sueño despierto",
+   "desc": "7 meditaciones de trance guiadas de 20 a 33 minutos: la espiral de 33 niveles, el sueño despierto dirigido y tu yo del futuro. Gratis y sin conexión.",
+   "h1": "Meditación de trance guiada",
+   "intro": [
+    "Conciencia y trance reúne siete viajes guiados, de 20 a 33 minutos, hacia estados de conciencia más profundos. Desciendes una espiral de 33 niveles llevado por el ritmo de la cuenta, observas el umbral del sueño con el cuerpo dormido y la mente despierta, o te pierdes en una biblioteca infinita sin soltar nunca el hilo que te une al cuerpo y al momento presente.",
+    "También encontrarás un sueño despierto dirigido, en el que las imágenes espontáneas cambian la historia, un desván de objetos olvidados que abres a tu ritmo, el vacío fértil entre dos pensamientos y un encuentro con tu yo del futuro para sacar de él un primer paso concreto. Son de nivel intermedio."
+   ],
+   "faq": [
+    [
+     "¿Es seguro entrar en trance con una meditación?",
+     "Las sesiones proponen un trance ligero y guiado, parecido al estado en que te sumerges cuando estás absorto en una lectura. Puedes abrir los ojos y detenerte cuando quieras. Eso sí, no las escuches mientras conduces ni durante una actividad que exija tu atención."
+    ],
+    [
+     "¿Qué es el sueño despierto dirigido?",
+     "Es una técnica en la que sigues un hilo narrativo guiado y dejas que las imágenes que aparecen solas modifiquen la historia. Combina la escucha de la voz con la libertad de tu imaginación, sin buscar un final previsto."
+    ],
+    [
+     "¿Qué diferencia hay con Trances y técnicas?",
+     "Conciencia y trance es de nivel intermedio y explora estados de atención entre la vigilia y el sueño. Trances y técnicas, de nivel avanzado, propone viajes más estructurados: descenso progresivo, mundos de abajo y de arriba o el linaje familiar."
+    ]
+   ]
+  },
+  "tranceTechniques": {
+   "slug": "tecnicas-de-trance-guiado",
+   "seo": "Técnicas de trance guiado: mundos de abajo y arriba",
+   "desc": "7 viajes en trance guiado de 16 a 30 minutos: descenso progresivo, el mundo de abajo con tambor, el mundo de arriba y las mil puertas. Nivel avanzado.",
+   "h1": "Técnicas de trance guiado",
+   "intro": [
+    "Trances y técnicas reúne siete viajes guiados de nivel avanzado, de 16 a 30 minutos. El primero te enseña a descender por etapas a un estado de trance, con breves subidas. Luego vienen dos viajes de inspiración chamánica: al mundo de abajo, al son del tambor, siguiendo a un animal con la imaginación, y al mundo de arriba, elevándote con el viento y la luz.",
+    "Las otras sesiones exploran el tiempo: remontar el linaje familiar en «Vidas pasadas y tiempo», releer el contrato de tu alma, abrir las puertas de un pasillo hacia otras épocas y ponerte en la piel de un artesano de otro tiempo para traer una cualidad a tu vida de hoy."
+   ],
+   "faq": [
+    [
+     "¿Qué es un viaje al mundo de abajo?",
+     "Es un viaje de inspiración chamánica: al ritmo del tambor, sigues a un animal y te mueves como él con la imaginación. La sesión dura 30 minutos y forma parte de las prácticas avanzadas de la app, por lo que conviene llegar con algo de experiencia."
+    ],
+    [
+     "¿La sesión de vidas pasadas habla de reencarnación?",
+     "«Vidas pasadas y tiempo» se centra en el linaje familiar: remontar su corriente y decidir qué conservar, qué dejar y qué transmitir. No te pide creer en la reencarnación; puedes vivirla como una reflexión sobre lo que has heredado."
+    ],
+    [
+     "¿Necesito experiencia previa?",
+     "Sí, es recomendable. Estas sesiones son de nivel avanzado y piden mantener la atención durante viajes largos. Antes, prueba Conciencia y trance, de nivel intermedio, y empieza aquí por el descenso progresivo al trance."
+    ]
+   ]
+  },
+  "astralMicroDetach": {
+   "slug": "ejercicios-de-desdoblamiento-astral",
+   "seo": "Ejercicios de desdoblamiento astral guiados",
+   "desc": "5 ejercicios guiados de micro-desapego, de 16 a 20 minutos, para preparar el viaje astral: el imán del techo, el tobogán, sentarse como un fantasma.",
+   "h1": "Micro-desapego: ejercicios guiados de desdoblamiento astral",
+   "intro": [
+    "Micro-desapego reúne cinco ejercicios guiados, de 16 a 20 minutos, para practicar pequeños gestos de separación antes de intentar un viaje astral completo. En «El imán del techo» sientes el peso del cuerpo y una ligera atracción hacia arriba. En «El pequeño desplazamiento» mueves el contorno del cuerpo unos centímetros, y en «El punto detrás de la cabeza» cambias el lugar desde el que observas.",
+    "Completan la serie «El tobogán», un deslizamiento imaginario con pendiente, velocidad y frenada, y «Sentarse como un fantasma», en el que repites mentalmente el gesto de incorporarte hasta sentirlo casi real. Son de nivel avanzado y preparan los protocolos de la categoría Viaje astral."
+   ],
+   "faq": [
+    [
+     "¿Qué es el micro-desapego?",
+     "Son pequeños ejercicios de imaginación y sensación que entrenan, por separado, cada gesto de la separación: sentir una atracción, desplazar el contorno del cuerpo, cambiar el punto desde el que observas. Se practican antes de intentar una salida completa."
+    ],
+    [
+     "¿Por qué empezar por aquí antes del viaje astral?",
+     "Porque cada ejercicio aísla una sola sensación y dura como mucho veinte minutos. Así te familiarizas con ellas una a una, sin la presión de lograr una salida completa, antes de pasar a los protocolos más largos de Viaje astral."
+    ],
+    [
+     "¿Con qué frecuencia conviene practicar?",
+     "No hay una regla fija. Puedes repetir el mismo ejercicio varios días seguidos hasta que la sensación te resulte familiar y luego pasar al siguiente. Lo importante es la regularidad y no forzar el resultado."
+    ]
+   ]
+  },
+  "astralJourneys": {
+   "slug": "meditacion-viaje-astral-guiada",
+   "seo": "Meditación guiada para viaje astral: 11 protocolos",
+   "desc": "11 meditaciones guiadas para el viaje astral, de 16 a 41 minutos: flotar, la cuerda, la caída imaginaria y el doble. Nivel avanzado, gratis y sin conexión.",
+   "h1": "Meditación guiada para el viaje astral",
+   "intro": [
+    "Viaje astral reúne once protocolos guiados, de 16 a 41 minutos, para practicar la salida del cuerpo con la imaginación. Puedes flotar hacia el techo hasta sentir que se borra el apoyo, incorporarte sin mover un músculo con la pelvis como eje, mover tus miembros interiores, subir por una cuerda vertical o dejarte caer interiormente en «La caída imaginaria», la sesión más larga.",
+    "Otros protocolos trabajan el desplazamiento, la visión, la visualización del doble y el encuentro con una presencia percibida. Dos sesiones proponen fijar un objetivo y anotar lo que percibes antes de comprobarlo. Son de nivel avanzado: lo ideal es empezar por los ejercicios de Micro-desapego."
+   ],
+   "faq": [
+    [
+     "¿Hace falta experiencia para el viaje astral guiado?",
+     "Sí. Estos protocolos son de nivel avanzado y duran hasta 41 minutos. Lo ideal es haber practicado antes los cinco ejercicios de Micro-desapego, que preparan cada gesto por separado, y sentirse cómodo con sesiones largas."
+    ],
+    [
+     "¿Qué protocolo elegir para empezar?",
+     "«Flotar hacia el techo» es una entrada natural: sientes cómo se borra la presión del apoyo hasta tener la impresión de flotar. «El incorporarse» y la técnica de la cuerda son otros métodos clásicos que conviene probar pronto."
+    ],
+    [
+     "¿Qué pasa si no consigo salir del cuerpo?",
+     "Es lo más habitual al principio. Las sesiones no prometen ningún resultado: entrenan la atención, la relajación y la imaginación. Puedes vivir cada protocolo como una exploración interior, sin presión, y repetirlo tantas veces como quieras."
+    ]
+   ]
+  }
+ },
+ "worlds_index": {
+  "slug": "meditacion-inmersiva-mundos",
+  "seo": "Meditación inmersiva: 17 mundos para explorar",
+  "desc": "17 meditaciones inmersivas de unos 20 minutos: templos, galaxias, la Atlántida, un jardín zen o un bosque de lobos. Gratis, sin anuncios y sin conexión.",
+  "h1": "Meditaciones inmersivas: 17 mundos para explorar",
+  "intro": "Los mundos inmersivos son viajes guiados de unos veinte minutos a lugares imaginarios, cada uno con su propio ambiente sonoro y su propia atmósfera. Puedes subir a un templo antiguo entre montañas brumosas, flotar a través de una galaxia, descender a una gruta de cristal o al corazón de la Tierra, hundirte en la Atlántida o caminar por un bosque nevado guardado por espíritus lobo. Elige según lo que buscas hoy: arraigo, calma, asombro, introspección o protección. Como el resto de la app, los diecisiete mundos son gratuitos y funcionan sin conexión una vez descargados."
+ },
+ "worlds": {
+  "antiqueTemple": {
+   "slug": "meditacion-inmersiva-templo-antiguo",
+   "seo": "Meditación inmersiva en un templo antiguo",
+   "desc": "Sube entre la lluvia y la niebla hasta un templo iluminado por velas y medita entre budas gigantes. Meditación inmersiva de 22 minutos, gratis.",
+   "h1": "El templo antiguo: meditación inmersiva"
+  },
+  "cosmicTemple": {
+   "slug": "meditacion-inmersiva-templo-cosmico",
+   "seo": "Meditación inmersiva en un templo cósmico",
+   "desc": "Elévate hacia un templo de mármol blanco suspendido entre las estrellas, por escaleras flotantes y ríos de luz dorada. Meditación inmersiva de 21 minutos.",
+   "h1": "El templo cósmico: meditación inmersiva"
+  },
+  "crystalCave": {
+   "slug": "meditacion-inmersiva-gruta-de-cristal",
+   "seo": "Meditación inmersiva en una gruta de cristal",
+   "desc": "Desciende a una caverna de cristales luminosos y estanques quietos como espejos, y deja que su resonancia te atraviese. Meditación inmersiva de 20 minutos.",
+   "h1": "La gruta de cristal infinita: meditación inmersiva"
+  },
+  "galaxy": {
+   "slug": "meditacion-guiada-viaje-por-la-galaxia",
+   "seo": "Meditación guiada: viaje a través de la galaxia",
+   "desc": "Flota ingrávido entre galaxias, nebulosas luminosas y ríos de luz estelar para soltar lo que cargas. Meditación inmersiva de 21 minutos, gratis.",
+   "h1": "Viaje a través de la galaxia: meditación inmersiva"
+  },
+  "earthCore": {
+   "slug": "meditacion-arraigo-corazon-de-la-tierra",
+   "seo": "Meditación de arraigo: el corazón de la Tierra",
+   "desc": "Desciende por cavernas de cristal y ríos de luz cálida hasta el corazón del planeta para sentirte arraigado. Meditación inmersiva de 20 minutos, gratis.",
+   "h1": "El Corazón de la Tierra: meditación de arraigo"
+  },
+  "antarcticBase": {
+   "slug": "meditacion-inmersiva-santuario-helado",
+   "seo": "Meditación inmersiva bajo el hielo antártico",
+   "desc": "Entra en una cámara de meditación silenciosa bajo el hielo polar, entre núcleos de cristal y luz holográfica. Meditación inmersiva de 20 minutos, gratis.",
+   "h1": "El santuario helado: meditación inmersiva"
+  },
+  "skyIsland": {
+   "slug": "meditacion-inmersiva-isla-flotante",
+   "seo": "Meditación inmersiva en una isla flotante",
+   "desc": "Un santuario privado sobre las nubes, con cascadas flotantes, un árbol milenario y un cálido atardecer. Meditación inmersiva de 19 minutos, gratis.",
+   "h1": "La isla flotante: meditación inmersiva"
+  },
+  "zenGarden": {
+   "slug": "meditacion-guiada-jardin-zen",
+   "seo": "Meditación guiada en un jardín zen japonés",
+   "desc": "Pasea por senderos de piedra bajo cerezos en flor, junto a estanques de carpas y arena rastrillada. Meditación inmersiva de 22 minutos, gratis.",
+   "h1": "El jardín zen: meditación inmersiva"
+  },
+  "atlantis": {
+   "slug": "meditacion-inmersiva-atlantida",
+   "seo": "Meditación inmersiva en la Atlántida sumergida",
+   "desc": "Húndete despacio en aguas cálidas hasta una ciudad perdida de templos y coral, llevado por corrientes lentas. Meditación inmersiva de 19 minutos, gratis.",
+   "h1": "La Atlántida sumergida: meditación inmersiva"
+  },
+  "himalayanMonastery": {
+   "slug": "meditacion-monasterio-al-amanecer",
+   "seo": "Meditación al amanecer en un monasterio de montaña",
+   "desc": "Entre cumbres nevadas y banderas de oración, recibe la primera luz dorada del día en un monasterio. Meditación inmersiva de 21 minutos, gratis.",
+   "h1": "El monasterio al amanecer: meditación inmersiva"
+  },
+  "celestialLibrary": {
+   "slug": "meditacion-inmersiva-biblioteca-celeste",
+   "seo": "Meditación inmersiva en una biblioteca celeste",
+   "desc": "Recorre una biblioteca sin fin de libros luminosos y escaleras de caracol bajo constelaciones en movimiento. Meditación inmersiva de 20 minutos, gratis.",
+   "h1": "La biblioteca celeste: meditación inmersiva"
+  },
+  "desertOasis": {
+   "slug": "meditacion-inmersiva-oasis-del-desierto",
+   "seo": "Meditación inmersiva en un oasis del desierto",
+   "desc": "Siéntate junto a un agua luminosa bajo una luna inmensa y un cielo lleno de estrellas, en quietud y soledad. Meditación inmersiva de 20 minutos, gratis.",
+   "h1": "El oasis del desierto: meditación inmersiva"
+  },
+  "treeOfConsciousness": {
+   "slug": "meditacion-arbol-de-la-conciencia",
+   "seo": "Meditación guiada: el árbol de la conciencia",
+   "desc": "Siéntate entre las raíces de un árbol colosal y luminoso, unido a todo lo que vive, para sentir la conexión. Meditación inmersiva de 18 minutos, gratis.",
+   "h1": "El árbol de la conciencia: meditación inmersiva"
+  },
+  "jungleRuins": {
+   "slug": "meditacion-inmersiva-ruinas-en-la-selva",
+   "seo": "Meditación inmersiva en ruinas de la selva",
+   "desc": "Explora un templo cubierto de vegetación en lo hondo de la selva, entre cascadas y símbolos luminosos. Meditación inmersiva de 21 minutos, gratis.",
+   "h1": "Las ruinas olvidadas: meditación inmersiva"
+  },
+  "mushroomForest": {
+   "slug": "meditacion-inmersiva-bosque-de-los-suenos",
+   "seo": "Meditación inmersiva: el bosque de los sueños",
+   "desc": "Vaga por un bosque luminoso de setas gigantes, esporas a la deriva y ríos de luz, una escapada hacia el asombro. Meditación inmersiva de 20 minutos.",
+   "h1": "El bosque de los sueños: meditación inmersiva"
+  },
+  "mirrorDimension": {
+   "slug": "meditacion-inmersiva-dimension-de-espejos",
+   "seo": "Meditación inmersiva en la dimensión de los espejos",
+   "desc": "Flota en un espacio quieto de espejos infinitos y suave luz blanca, una meditación sobre la conciencia misma. Meditación inmersiva de 20 minutos, gratis.",
+   "h1": "La dimensión de los espejos: meditación inmersiva"
+  },
+  "wolfForest": {
+   "slug": "meditacion-inmersiva-espiritus-lobo",
+   "seo": "Meditación inmersiva con espíritus lobo",
+   "desc": "Camina por un pinar nevado bajo las auroras boreales, acompañado por dulces espíritus lobo. Meditación inmersiva de 20 minutos sobre protección e instinto.",
+   "h1": "El bosque de los espíritus lobo: meditación inmersiva"
+  }
+ },
+ "teams": {
+  "slug": "app-de-meditacion-para-empresas",
+  "seo": "App de meditación para empresas y equipos, gratis",
+  "desc": "Ofrece a tu equipo una app de meditación gratuita, sin cuentas ni datos personales, que funciona sin conexión en español, inglés y francés. Sin despliegue.",
+  "h1": "Meditación para equipos: una app gratuita para tu empresa",
+  "sections": [
+   {
+    "h2": "Una app de meditación que puedes ofrecer a tu equipo",
+    "p": "Awakening Minds es una aplicación de meditación guiada para iPhone y Android, gratuita de verdad: sin suscripción, sin publicidad y sin cuenta. Cada persona la instala en su propio teléfono y practica cuando quiere, sin que nadie tenga que gestionar nada.",
+    "bullets": [
+     "146 meditaciones guiadas, 19 categorías y 17 mundos inmersivos",
+     "Sin cuenta ni registro: nadie tiene que dar su correo",
+     "Ningún dato personal recogido: la práctica se queda en el teléfono de cada persona",
+     "Funciona sin conexión una vez descargadas las sesiones",
+     "Disponible en español, inglés y francés"
+    ]
+   },
+   {
+    "h2": "Ideas para meditar en la jornada laboral",
+    "p": "No hace falta organizar nada complicado. Algunas formas sencillas de hacer sitio a la meditación en el día a día del equipo:",
+    "bullets": [
+     "Una pausa de 4 minutos entre dos tareas o después de una conversación difícil",
+     "Unos minutos de calma antes de una reunión o una presentación",
+     "Una sesión al final de la jornada para separar el trabajo del resto del día",
+     "Una práctica más larga en casa, para quien quiera ir más lejos"
+    ]
+   },
+   {
+    "h2": "Cómo proponerla a tu equipo",
+    "p": "Basta con compartir el enlace de descarga por correo, en el chat interno o en la intranet. No hay licencias que gestionar, ni panel de administración, ni despliegue técnico: cada persona decide si la usa y cuándo.",
+    "bullets": [
+     "Comparte el enlace de descarga de la App Store o de Google Play",
+     "Sugiere una primera sesión, por ejemplo una de las meditaciones de 4 minutos",
+     "Deja que cada persona practique a su ritmo, sin seguimiento ni obligación"
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "¿Tiene algún coste para la empresa?",
+    "No. La app es completamente gratuita para todos, sin suscripción, sin licencias por usuario y sin publicidad. Tu equipo accede a las mismas meditaciones que cualquier otra persona, y no existe ninguna versión de pago."
+   ],
+   [
+    "¿La empresa puede ver quién medita?",
+    "No. La app no pide cuenta y no recoge ningún dato personal: el historial de práctica se queda en el teléfono de cada persona. Nadie, ni la empresa ni nosotros, puede saber quién medita, cuándo ni durante cuánto tiempo."
+   ],
+   [
+    "¿Sirve para equipos internacionales?",
+    "Sí. Las meditaciones están disponibles en español, inglés y francés, y la app funciona en iPhone y Android. Las sesiones descargadas se pueden escuchar sin conexión, también durante un viaje de trabajo o en un lugar sin cobertura."
+   ]
+  ]
+ }
+}

@@ -12,6 +12,7 @@ import json, os, re, html, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import blog_fr
 import blog_hubs
+import app_pages
 from datetime import date
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -419,10 +420,12 @@ def render_sitemap(arts):
             urls.append(f'<url><loc>{BASE}{pa(x)}</loc><lastmod>{a["published"]}</lastmod>{block(pa)}</url>')
     urls += blog_fr.sitemap_urls(sys.modules[__name__], fr_seuls)
     urls += blog_hubs.sitemap_urls(sys.modules[__name__], HUB_ACT)
+    urls += app_pages.sitemap_urls(sys.modules[__name__], APP_WRITTEN)
     return ('<?xml version="1.0" encoding="UTF-8"?>'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
             'xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">' + ''.join(urls) + '</urlset>')
 
+APP_WRITTEN = []  # pages de l'application écrites (chemin, versions par langue)
 HUB_ACT = {}  # thèmes ayant une page, par langue (rempli par build)
 SCHEMA_FILES = {}  # rempli au chargement depuis assets/blog (slug sans -lang)
 def _load_schema_files():
@@ -480,9 +483,12 @@ def build():
         for a in arts:
             if a.get('published'):
                 open(f'{ROOT}/{lang}/blog/{a["slug"][lang]}.html', 'w', encoding='utf-8').write(render_article(a, lang, arts))
-    open(f'{ROOT}/sitemap-blog.xml', 'w', encoding='utf-8').write(render_sitemap(arts))
     fr_seuls = blog_fr.build(sys.modules[__name__])
     blog_hubs.build(sys.modules[__name__])
+    global APP_WRITTEN
+    APP_WRITTEN = app_pages.build(sys.modules[__name__])
+    print(f'✓ pages de l’application (catégories, mondes, équipes) : {len(APP_WRITTEN)}')
+    open(f'{ROOT}/sitemap-blog.xml', 'w', encoding='utf-8').write(render_sitemap(arts))
     print('✓ pages thématiques : ' + ', '.join(f'{l} {len(v)}' for l, v in HUB_ACT.items()))
     print(f'✓ articles en français seul : {len(blog_fr.published(fr_seuls))} publié(s), {len(fr_seuls) - len(blog_fr.published(fr_seuls))} programmé(s)')
     pub = sum(1 for a in arts if a.get('published'))

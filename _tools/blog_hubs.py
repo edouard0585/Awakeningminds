@@ -236,7 +236,8 @@ def render(bb, lang, g, act, by):
               if x['img'] else '<span class="th n">✦</span>')
         h += (f'<li><a href="{x["slug"]}.html">{th}<span class="tw"><h2>{E(x["title"])}</h2>'
               f'<p>{E(x["desc"])}</p></span></a></li>')
-    h += '</ul>' + themes_nav(lang, act, current=g) + '</main>' + bb.footer_html(lang) + '</body></html>'
+    import app_pages
+    h += '</ul>' + app_pages.practice_links(lang, g) + themes_nav(lang, act, current=g) + '</main>' + bb.footer_html(lang) + '</body></html>'
     return h
 
 
