@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reporte sur le site les modifications faites dans l'espace privé (https://webmarketing-tourisme.com/am/admin/).
+"""Reporte sur le site les modifications faites dans l'espace privé (https://espace.awakeningminds.app/admin/).
 
 Lit /am/edits.json : {"items": {"fr:<num>": {...}, "en:<num>": {...}, "q:<id>:<lang>": {...}}}
   fr/en : title, seo_title, desc, body (HTML), et pour fr : publish_at, hold
@@ -8,7 +8,7 @@ Idempotent : réappliquer les mêmes valeurs ne change rien. Reconstruit le blog
 """
 import json, os, sys, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-URL = 'https://webmarketing-tourisme.com/am/edits.json'
+URL = 'https://espace.awakeningminds.app/edits.json'
 try:
     req = urllib.request.Request(URL, headers={'User-Agent': 'AwakeningMinds-blog-sync/1.0 (+https://awakeningminds.app)', 'Accept': 'application/json'})
     E = json.load(urllib.request.urlopen(req, timeout=20)).get('items', {})

@@ -72,7 +72,7 @@
       </form><script>(function(){var f=document.getElementById('contact');if(!f||!window.fetch)return;
 f.addEventListener('submit',function(e){e.preventDefault();var st=document.getElementById('cf-status'),b=f.querySelector('button');
 b.disabled=true;st.textContent=f.dataset.sending;var d=new FormData(f);d.append('page',location.href);
-fetch('https://webmarketing-tourisme.com/am/contact',{method:'POST',body:d,headers:{'Accept':'application/json'}})
+fetch('https://espace.awakeningminds.app/contact',{method:'POST',body:d,headers:{'Accept':'application/json'}})
 .then(function(r){return r.json().then(function(j){return {r:r,j:j}})})
 .then(function(x){if(x.j&&x.j.ok){st.textContent=x.j.message||f.dataset.ok;f.reset();b.disabled=false}else if(x.r.status>=400&&x.r.status<500&&x.j&&x.j.message&&x.r.status!==403&&x.r.status!==404&&x.r.status!==405){st.textContent=x.j.message;b.disabled=false}else{throw 0}})
 .catch(function(){f.submit()});});})();</script>
