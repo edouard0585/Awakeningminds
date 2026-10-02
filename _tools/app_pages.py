@@ -278,14 +278,17 @@ def build(bb):
                     """<script>(function(){var f=document.getElementById('contact');f.addEventListener('submit',function(e){e.preventDefault();
 var st=document.getElementById('f-st'),d=new FormData(f),co=d.get('company');d.set('lang','fr');d.set('topic','Méditation en entreprise'+(co?' — '+co:''));
 d.set('page',location.href);fetch('https://espace.awakeningminds.app/contact',{method:'POST',body:d,headers:{'Accept':'application/json'}})
-.then(function(r){return r.json()}).then(function(j){st.textContent=j.ok?f.dataset.ok:(j.message||f.dataset.err);if(j.ok)f.reset()})
+.then(function(r){return r.json()}).then(function(j){st.textContent=j.ok?f.dataset.ok:(j.message||f.dataset.err);if(j.ok){f.reset();if(window.gtag)gtag('event','generate_lead',{form_id:'entreprise'})}})
 .catch(function(){st.textContent=f.dataset.err})});})();</script>""")
         bc = [(t['home'], f'/{lang}/'), (s['h1'], None)]
-        body = crumbs(lang, bc) + f'<article><h1>{E(s["h1"])}</h1><p class="lead">{E(s["desc"])}</p>{secs}{form}' + cta(lang) + faq_html(lang, s.get('faq')) + '</article>'
+        villes = '<p class="more"><a href="formation-meditation/">Formations à la méditation par ville : France, Belgique, Suisse, Luxembourg →</a></p>' if lang == 'fr' and os.path.exists(f'{T}/formations_fr.json') else ''
+        body = crumbs(lang, bc) + f'<article><h1>{E(s["h1"])}</h1><p class="lead">{E(s["desc"])}</p>{secs}{form}' + cta(lang) + faq_html(lang, s.get('faq')) + villes + '</article>'
         ld = ld_tag({'@context': 'https://schema.org', '@graph': [{'@type': 'WebPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang}, bc_ld(bb, bc)]
                      + ([{'@type': 'FAQPage', 'mainEntity': [{'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': r}} for q, r in s['faq']]}] if s.get('faq') else [])})
         _write(path, page(bb, lang, s['seo'], s['desc'], path, alts, img_cat('calm'), ld, body, s['h1']))
         written.append((path, alts))
+    import sys, formation_pages  # formations par ville (fr), liées depuis le pied de page
+    written += formation_pages.build(bb, sys.modules[__name__])
     json.dump(_LM, open(LASTMOD_F, 'w', encoding='utf-8'), indent=0, sort_keys=True)
     return written
 

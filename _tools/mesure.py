@@ -15,6 +15,7 @@ def type_page(rel):
     p = rel.replace(os.sep, '/')
     if p in ('index.html', '404.html'): return 'accueil_langues' if p == 'index.html' else 'erreur_404'
     if '/blog/' in p: return 'blog_index' if p.endswith('/blog/index.html') else ('blog_theme' if '/theme' in p or '/themes/' in p else 'blog_article')
+    if '/formation-meditation/' in p: return 'formation'
     if '/meditations/' in p or '/meditaciones/' in p: return 'categorie_meditation'
     if re.search(r'(entreprise|empresas|teams)\.html$', p): return 'entreprise'
     if '/mondes/' in p or '/worlds/' in p or '/mundos/' in p: return 'monde'
@@ -29,10 +30,10 @@ def bloc(rel, html):
     return ('\n<!--mesure:debut--><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}'
             "gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});"
             "try{var c=JSON.parse(localStorage.getItem('consent_mesure_v1'));if(c&&c.v==='oui'&&Date.now()-c.t<395*864e5)gtag('consent','update',{analytics_storage:'granted'})}catch(e){}"
-            "gtag('js',new Date());gtag('config','%s',{content_language:'%s',page_type:'%s'})</script>"
+            "gtag('js',new Date());gtag('config','%s',{content_language:'%s',page_type:'%s',content_group:'%s'})</script>"
             '<script async src="https://www.googletagmanager.com/gtag/js?id=%s"></script>'
             '<script src="/assets/mesure.js?v=%s" defer data-politique="%s" data-fond="#14142a" data-texte="#F5E6C8" data-accent="#D4AF6A" data-accent-texte="#0A0A14"></script>'
-            '<!--mesure:fin-->') % (GA, lang, type_page(rel), GA, v, POLITIQUE.get(lang, POLITIQUE['en']))
+            '<!--mesure:fin-->') % (GA, lang, type_page(rel), type_page(rel), GA, v, POLITIQUE.get(lang, POLITIQUE['en']))
 
 def pages():
     for d, sous, fich in os.walk(RACINE):

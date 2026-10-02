@@ -284,7 +284,8 @@ def header_html(lang, blog_path_of):
     return f'<header><div class="wrap"><a href="../" class="b">{E(t["back"])}</a><a href="./">{E(t["blog"])}</a><div class="lg">{lg}</div></div></header>'
 
 def footer_html(lang):
-    return f'<footer><div class="wrap"><span>Awakening Minds</span><a href="../">awakeningminds.app/{lang}</a><a href="./">{E(T[lang]["blog"])}</a></div></footer>'
+    villes = '<a href="/fr/formation-meditation/">Formations par ville</a>' if lang == 'fr' else ''
+    return f'<footer><div class="wrap"><span>Awakening Minds</span><a href="../">awakeningminds.app/{lang}</a><a href="./">{E(T[lang]["blog"])}</a>{villes}</div></footer>'
 
 def render_article(a, lang, arts):
     t = T[lang]
