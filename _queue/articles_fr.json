@@ -47,7 +47,51 @@
    "Lehrer P. et al. / littérature HRV biofeedback ; revue méthodologique 2023, <em>Methods for Heart Rate Variability Biofeedback: A Systematic Review and Guidelines</em>."
   ],
   "publish_at": "2026-10-03T11:00",
-  "published": "2026-10-03"
+  "published": "2026-10-03",
+  "en": {
+   "slug": "breathing-exercises-to-calm-down",
+   "title": "Breathing Exercises to Calm Down: 4 Techniques That Really Work",
+   "seo_title": "Breathing Exercises to Calm Down: 4 Proven Techniques",
+   "desc": "Physiological sigh, 4-7-8 breathing, box breathing and 365 cardiac coherence: which breathing technique to use to calm down, depending on the situation.",
+   "kw": "breathing exercises to calm down, breathing for anxiety, physiological sigh, 4-7-8 breathing, box breathing, cardiac coherence, slow breathing, stress relief breathing",
+   "photo": {
+    "src": "photos/p02-hero.webp",
+    "src_s": "photos/p02-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Breathing Exercises to Calm Down: 4 Proven Techniques",
+    "pid": "p02"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "What is the best breathing technique for stress?",
+     "For sudden stress, a few physiological sighs are very handy. For deeper, long-term work, slow breathing at around six cycles per minute has a particularly interesting body of scientific research behind it."
+    ],
+    [
+     "How long should you breathe slowly?",
+     "Five minutes is a practical length. Even a shorter period can help interrupt a rising wave of tension, though."
+    ],
+    [
+     "Why does a longer exhale calm you down?",
+     "A slow exhale changes the interactions between breathing, heart rhythm and autonomic regulation, and tends to encourage physiological slowing down."
+    ],
+    [
+     "Can you do breathing exercises every day?",
+     "Yes, as long as the breathing stays comfortable and natural. Cardiac coherence is specifically designed as a repeated practice."
+    ]
+   ],
+   "sources": [
+    "Laborde S. et al. (2022), <em>Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis</em>, Neuroscience &amp; Biobehavioral Reviews.",
+    "Sevoz-Couche C., Laborde S. (2022), <em>Heart rate variability and slow-paced breathing: when coherence meets resonance</em>, Neuroscience &amp; Biobehavioral Reviews.",
+    "Lehrer P. et al. / HRV biofeedback literature; 2023 methodological review, <em>Methods for Heart Rate Variability Biofeedback: A Systematic Review and Guidelines</em>."
+   ]
+  },
+  "photos": [
+   "p33",
+   "p15"
+  ]
  },
  {
   "num": 67,
@@ -70,6 +114,12 @@
     "w": 1376,
     "h": 768,
     "alt": "Schéma 1 : Yoga nidra : bienfaits du sommeil éveillé face à la sieste"
+   },
+   {
+    "src": "fr/yoga-nidra-bienfaits-sommeil-schema-2.webp",
+    "w": 1376,
+    "h": 768,
+    "alt": "Schéma 2 : Yoga nidra : bienfaits du sommeil éveillé face à la sieste"
    }
   ],
   "insert": null,
@@ -149,7 +199,11 @@
     "Dutta A. et al. — <em>Efficacy of Yoga Nidra in Managing Sleep Disorders: A Systematic Review of Randomized Controlled Trials</em>, 2026.",
     "Singh S. et al. — <em>Effect of yoga Nidra (yogic sleep) in sleep disturbances and insomnia: systematic review and metanalysis</em>, <em>Sleep and Breathing</em>, 2026."
    ]
-  }
+  },
+  "photos": [
+   "p30",
+   "p43"
+  ]
  },
  {
   "num": 32,
@@ -251,7 +305,11 @@
     "Judith A. — <em>Eastern Body, Western Mind</em>, a contemporary book that symbolically links chakras, psychology and human development.",
     "Kabat-Zinn J. — <em>Full Catastrophe Living</em>, for practices of body awareness and returning to present sensations."
    ]
-  }
+  },
+  "photos": [
+   "p42",
+   "p10"
+  ]
  },
  {
   "num": 71,
@@ -359,7 +417,11 @@
     "C. G. Jung — <em>Two Essays on Analytical Psychology</em>, foundational texts on analytical psychology, the ego, the unconscious and individuation.",
     "Jacob G.A., Arntz A. — contemporary work on schema therapy, an approach that studies emotional and behavioral modes formed from early experiences; experimental research is nonetheless still clarifying the mechanisms specific to these modes."
    ]
-  }
+  },
+  "photos": [
+   "p46",
+   "p45"
+  ]
  },
  {
   "num": 63,
@@ -435,6 +497,12 @@
      "w": 1376,
      "h": 768,
      "alt": "Diagram 1: What Is Trance? The Everyday Altered State Explained"
+    },
+    {
+     "src": "en/what-is-trance-altered-state-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: What Is Trance? The Everyday Altered State Explained"
     }
    ],
    "insert": null,
@@ -461,7 +529,11 @@
     "American Psychological Association — contemporary definitions and research literature concerning hypnosis, attention, suggestion, and altered experience.",
     "Vanhaudenhuyse A. et al. (2024) — multidisciplinary scoping review of shamanic trance practices and altered states of consciousness."
    ]
-  }
+  },
+  "photos": [
+   "p14",
+   "p23"
+  ]
  },
  {
   "num": 98,
@@ -536,7 +608,14 @@
     "h": 670,
     "alt": "Illustration for the article: Pilgrimage Without Religion: Camino and Shikoku"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "en/pilgrimage-without-religion-camino-shikoku-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Pilgrimage Without Religion: Camino and Shikoku"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -561,7 +640,11 @@
     "Tourism Shikoku — official documentation of the Shikoku Henro, its history, its 88 temples and the contemporary motivations of pilgrims. (<a href=\"https://shikoku-tourism.com/en/shikoku-henro/shikoku-henro\" target=\"_blank\" rel=\"noopener nofollow\">Tourism Shikoku</a>)",
     "Reader I. — <em>Making Pilgrimages: Meaning and Practice in Shikoku</em>, reference study dedicated to the history and contemporary practices of the Shikoku pilgrimage."
    ]
-  }
+  },
+  "photos": [
+   "p19",
+   "p13"
+  ]
  },
  {
   "num": 62,
@@ -584,6 +667,12 @@
     "w": 1376,
     "h": 768,
     "alt": "Schéma 1 : Les trois mondes du chamanisme : la carte universelle"
+   },
+   {
+    "src": "fr/trois-mondes-chamanisme-schema-2.webp",
+    "w": 1376,
+    "h": 768,
+    "alt": "Schéma 2 : Les trois mondes du chamanisme : la carte universelle"
    }
   ],
   "insert": null,
@@ -663,7 +752,11 @@
     "Columbia Center for Archaeology — ethnographic documentation on Sakha shamanic cosmology and practices.",
     "Vanhaudenhuyse A. et al. (2024) — <em>Scoping review on shamanistic trance practices</em>, a multidisciplinary review of research on shamanic trance."
    ]
-  }
+  },
+  "photos": [
+   "p08",
+   "p47"
+  ]
  },
  {
   "num": 131,
@@ -713,7 +806,11 @@
    "Wang et al., « Loving-kindness and compassion meditations in the workplace: A meta-analysis and future prospects », Stress and Health, 2024."
   ],
   "publish_at": "2026-10-28T16:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p44",
+   "p03"
+  ]
  },
  {
   "num": 8,
@@ -826,7 +923,11 @@
     "Huberty J. et al. (2021), <em>Testing a mindfulness meditation mobile app for the treatment of sleep-related symptoms in adults with sleep disturbance</em>, PLOS ONE.",
     "Kabat-Zinn J., <em>Full Catastrophe Living</em>, the program and principles of Mindfulness-Based Stress Reduction."
    ]
-  }
+  },
+  "photos": [
+   "p48",
+   "p07"
+  ]
  },
  {
   "num": 81,
@@ -934,7 +1035,11 @@
     "Scullin M.K. et al. (2018) — experimental study on writing a to-do list before bed and sleep onset latency.",
     "Walker W.H. et al. — research and reviews on the relationships between light, circadian rhythms, melatonin and sleep."
    ]
-  }
+  },
+  "photos": [
+   "p40",
+   "p17"
+  ]
  },
  {
   "num": 33,
@@ -990,7 +1095,51 @@
    "Salzberg S. — <em>Lovingkindness: The Revolutionary Art of Happiness</em>, ouvrage de référence contemporain sur la méditation de bienveillance."
   ],
   "publish_at": "2026-11-07T11:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "how-to-open-heart-chakra",
+   "title": "Opening the Heart Chakra: A No-Nonsense Guide",
+   "seo_title": "How to Open Your Heart Chakra Without Losing Yourself",
+   "desc": "Opening the heart chakra is not loving everyone. Learn how compassion, boundaries and grief fit together, with three practices and a 7-minute routine.",
+   "kw": "open heart chakra, heart chakra, Anahata, fourth chakra, blocked heart chakra, heart chakra meditation, loving-kindness meditation, compassion and boundaries",
+   "photo": {
+    "src": "photos/p14-hero.webp",
+    "src_s": "photos/p14-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: How to Open Your Heart Chakra Without Losing Yourself",
+    "pid": "p14"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "What are the signs of a blocked heart chakra?",
+     "Modern traditions often associate this imbalance with difficulty trusting, receiving affection, expressing emotions, forgiving or building balanced relationships."
+    ],
+    [
+     "What color is the heart chakra?",
+     "Green is today the color most commonly associated with Anahata, although historical and modern depictions are not all identical."
+    ],
+    [
+     "How can I open my heart chakra quickly?",
+     "There is no guaranteed method to “open” a chakra instantly. Conscious breathing, compassion, loving-kindness meditation and working on boundaries are, however, concrete practices."
+    ],
+    [
+     "Do I have to forgive to open my heart chakra?",
+     "No. Forgiveness can be helpful in some cases, but it should never be forced. Safety, boundaries and acknowledging the hurt sometimes come before any idea of forgiveness."
+    ]
+   ],
+   "sources": [
+    "Arthur Avalon (Sir John Woodroffe) — <em>The Serpent Power</em>, translation of and commentary on tantric texts about the chakras.",
+    "Neff K. — <em>Self-Compassion: The Proven Power of Being Kind to Yourself</em>, on self-compassion.",
+    "Salzberg S. — <em>Lovingkindness: The Revolutionary Art of Happiness</em>, a contemporary reference work on loving-kindness meditation."
+   ]
+  },
+  "photos": [
+   "p36",
+   "p01"
+  ]
  },
  {
   "num": 75,
@@ -1092,7 +1241,11 @@
     "Britton W.B. et al. — work on defining and measuring side effects and adverse effects related to mindfulness programs. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35174010/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Matko K., Van Dam N.T. — 2026 clinical review of the potential adverse effects of meditation and the need to adapt interventions. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/41176868/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
    ]
-  }
+  },
+  "photos": [
+   "p29",
+   "p04"
+  ]
  },
  {
   "num": 64,
@@ -1200,7 +1353,11 @@
     "Sim S. et al. (2024) — <em>Neural Correlates of Mindfulness Meditation and Hypnosis on Magnetic Resonance Imaging: Similarities and Differences. A Scoping Review</em>.",
     "McGeown W.J. (2016) — research and reviews on the neural mechanisms of hypnosis and meditation; see also <em>Neural Mechanisms of Hypnosis and Meditation</em>."
    ]
-  }
+  },
+  "photos": [
+   "p25",
+   "p27"
+  ]
  },
  {
   "num": 100,
@@ -1264,7 +1421,14 @@
     "h": 670,
     "alt": "Illustration for the article: Is Happiness a Skill? What Science Says You Can Train"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "en/happiness-skill-learn-to-be-happy-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Is Happiness a Skill? What Science Says You Can Train"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -1289,7 +1453,11 @@
     "Bolier L. et al. (2013) — <em>Positive Psychology Interventions: A Meta-analysis of Randomized Controlled Studies</em>, meta-analysis of effects on well-being and depressive symptoms. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23390882/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "<em>Mapping the Evidence Base of Positive Psychology Interventions: Effectiveness, Limitations, and Future Directions</em> (2026) — systematic review covering 63 primary studies and 11 meta-analyses. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/42293973/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
    ]
-  }
+  },
+  "photos": [
+   "p11",
+   "p52"
+  ]
  },
  {
   "num": 69,
@@ -1397,7 +1565,11 @@
     "Walsh R. — <em>The World of Shamanism: New Views of an Ancient Tradition</em>, a comparative discussion of shamanic experiences and practices.",
     "Hutton R. — <em>Shamans: Siberian Spirituality and the Western Imagination</em>, a historical analysis useful for distinguishing Siberian traditions from modern Western constructions."
    ]
-  }
+  },
+  "photos": [
+   "p06",
+   "p41"
+  ]
  },
  {
   "num": 132,
@@ -1452,7 +1624,11 @@
    "Jones, Bodie & Hughes, « The Impact of Mindfulness on Empathy, Active Listening, and Perceived Provisions of Emotional Support », Communication Research, 2019."
   ],
   "publish_at": "2026-11-25T16:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p28",
+   "p49"
+  ]
  },
  {
   "num": 9,
@@ -1560,7 +1736,11 @@
     "Kabat-Zinn J., <em>Full Catastrophe Living</em>.",
     "Britton W.B. et al., research on the mechanisms and attentional states associated with contemplative practices."
    ]
-  }
+  },
+  "photos": [
+   "p32",
+   "p34"
+  ]
  },
  {
   "num": 82,
@@ -1656,7 +1836,11 @@
     "Aspy D.J. et al. — <em>Reality testing and the mnemonic induction of lucid dreams: Findings from the national Australian lucid dream induction study</em>, a major comparative study of induction techniques.",
     "Konkoly K.R. et al. (2021) — <em>Real-time dialogue between experimenters and dreamers during REM sleep</em>, <em>Current Biology</em>, an experimental demonstration of two-way communication with certain dreamers during REM sleep."
    ]
-  }
+  },
+  "photos": [
+   "p35",
+   "p51"
+  ]
  },
  {
   "num": 34,
@@ -1758,7 +1942,11 @@
     "Arendt J. — reference work on melatonin, the pineal gland and circadian rhythms; see in particular <em>Melatonin and the Mammalian Pineal Gland</em>.",
     "Kahneman D. — <em>Thinking, Fast and Slow</em>, for the distinction between fast intuitive processing, judgment and cognitive biases."
    ]
-  }
+  },
+  "photos": [
+   "p18",
+   "p38"
+  ]
  },
  {
   "num": 79,
@@ -1860,7 +2048,11 @@
     "Craske M.G. et al. (2008) — <em>Optimizing Inhibitory Learning During Exposure Therapy</em>, an analysis of learning mechanisms and of the limits of an account based solely on habituation. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/18005936/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Jacoby R.J., Abramowitz J.S. and the literature on safety behaviors and inhibitory learning in exposure therapy, summarized in particular in the critical review devoted to this topic. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27475477/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
    ]
-  }
+  },
+  "photos": [
+   "p24",
+   "p46"
+  ]
  },
  {
   "num": 65,
@@ -1968,7 +2160,11 @@
     "Ian Stevenson — <em>Twenty Cases Suggestive of Reincarnation</em>, a classic and controversial work examining spontaneous memories reported by children.",
     "2026 critical review of hypnotic age regression, highlighting issues surrounding memory accuracy and the insufficient evidence available for past-life regression."
    ]
-  }
+  },
+  "photos": [
+   "p33",
+   "p21"
+  ]
  },
  {
   "num": 112,
@@ -2018,7 +2214,50 @@
    "Mircea Eliade, Shamanism: Archaic Techniques of Ecstasy, Princeton University Press, édition anglaise 1964."
   ],
   "publish_at": "2026-12-16T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "siberian-shamanism-origin-of-word-shaman",
+   "title": "Siberian Shamanism: Where the Word “Shaman” Was Born",
+   "seo_title": "Siberian Shamanism and the Origin of the Word Shaman",
+   "desc": "Where the word shaman comes from, what Siberian shamans actually did, the calling, the drum and costume, Soviet repression and today's revival.",
+   "kw": "Siberian shamanism, origin of the word shaman, Evenki shaman, Tungusic, shamanic drum, Buryat shamanism, Sakha shamanism, shamanic trance, Siberian spirituality",
+   "photo": {
+    "src": "en/siberian-shamanism-origin-of-word-shaman.webp",
+    "src_s": "en/siberian-shamanism-origin-of-word-shaman-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Siberian Shamanism and the Origin of the Word Shaman"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "Does the word shaman really come from Siberia?",
+     "Yes. It is generally traced to the Tungusic languages, especially Evenki, before being adopted into Russian and then other European languages."
+    ],
+    [
+     "Do all Siberian peoples call their specialists “shamans”?",
+     "No. Each people uses terms and categories specific to its own language and traditions."
+    ],
+    [
+     "Is the drum mandatory in Siberian shamanism?",
+     "Not as a universal rule. It is nonetheless very important in several documented traditions."
+    ],
+    [
+     "Can you learn Siberian shamanism from books alone?",
+     "You can study its history and symbols, but a living community tradition can't be reduced to a manual of techniques."
+    ]
+   ],
+   "sources": [
+    "Ronald Hutton, Shamans: Siberian Spirituality and the Western Imagination, Hambledon & London, 2001",
+    "Andrei A. Znamenski, Shamanism in Siberia: Russian Records of Indigenous Spirituality, Springer/Kluwer, 2003",
+    "Mircea Eliade, Shamanism: Archaic Techniques of Ecstasy, Princeton University Press, English edition 1964."
+   ]
+  },
+  "photos": [
+   "p09",
+   "p16"
+  ]
  },
  {
   "num": 10,
@@ -2114,7 +2353,11 @@
     "JAMA Network Open (2025), <em>Digital Meditation to Target Employee Stress: A Randomized Clinical Trial</em>.",
     "Kabat-Zinn J., <em>Full Catastrophe Living</em>, a classic book on the MBSR program."
    ]
-  }
+  },
+  "photos": [
+   "p02",
+   "p22"
+  ]
  },
  {
   "num": 84,
@@ -2216,7 +2459,11 @@
     "Ong J.C., Moore C. — research on mindfulness approaches to insomnia and their potential mechanisms.",
     "Edinger J.D. et al. — clinical practice guidelines on behavioral and psychological treatments for chronic insomnia."
    ]
-  }
+  },
+  "photos": [
+   "p05",
+   "p43"
+  ]
  },
  {
   "num": 35,
@@ -2318,7 +2565,11 @@
     "Stanley-Baker M. — historical research on the different meanings and functions of the concept of qi in ancient China.",
     "<em>Huangdi Neijing</em> — classical corpus of Chinese medicine in which qi holds a fundamental place."
    ]
-  }
+  },
+  "photos": [
+   "p20",
+   "p39"
+  ]
  },
  {
   "num": 66,
@@ -2347,6 +2598,12 @@
     "w": 1376,
     "h": 768,
     "alt": "Schéma 2 : Annales akashiques : consultation, mode d’emploi prudent"
+   },
+   {
+    "src": "fr/annales-akashiques-consultation-schema-3.webp",
+    "w": 1376,
+    "h": 768,
+    "alt": "Schéma 3 : Annales akashiques : consultation, mode d’emploi prudent"
    }
   ],
   "insert": null,
@@ -2374,7 +2631,64 @@
    "Howe L. — <em>How to Read the Akashic Records: Accessing the Archive of the Soul and Its Journey</em>, 2009 ; édition révisée 2026."
   ],
   "publish_at": "2026-12-30T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "akashic-records-reading-guide",
+   "title": "Akashic Records: A Cautious How-To Guide",
+   "seo_title": "Akashic Records: A Careful Guide to Personal Readings",
+   "desc": "Where the Akashic Records idea comes from, what science says, and how to do a personal reading with discernment: questions, journaling and closing.",
+   "kw": "Akashic Records, Akashic Records consultation, reading the Akashic Records, opening the Akashic Records, closing the Akashic Records, Akashic reading, akasha, spiritual discernment, intuitive journal, Linda Howe",
+   "photo": {
+    "src": "photos/p07-hero.webp",
+    "src_s": "photos/p07-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Akashic Records: A Careful Guide to Personal Readings",
+    "pid": "p07"
+   },
+   "schemas": [
+    {
+     "src": "en/akashic-records-reading-guide-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Akashic Records: A Careful Guide to Personal Readings"
+    },
+    {
+     "src": "en/akashic-records-reading-guide-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Akashic Records: A Careful Guide to Personal Readings"
+    }
+   ],
+   "insert": null,
+   "faq": [
+    [
+     "What Are the Akashic Records?",
+     "In modern esoteric traditions, they are described as an archive or dimension of consciousness containing information connected with souls and their journeys. Their existence has not been scientifically established."
+    ],
+    [
+     "Where Does the Concept of the Akashic Records Come From?",
+     "The word akasha is ancient and comes from Indian traditions, while the modern idea of a universal archive was developed extensively in Western esotericism, particularly Theosophy, and later popularized by various authors and psychics."
+    ],
+    [
+     "Can You Access the Akashic Records by Yourself?",
+     "Contemporary authors such as Linda Howe offer personal methods involving prayer, meditation, and structured questions."
+    ],
+    [
+     "Can You Make a Medical Decision Based on the Akashic Records?",
+     "No. A spiritual practice should not replace appropriate medical, psychological, legal, or financial assessment."
+    ]
+   ],
+   "sources": [
+    "Helena Blavatsky — <em>The Secret Doctrine</em>, an important source in the history of Theosophy and modern Western concepts of akasha.",
+    "Edgar Cayce — readings and archives associated with Cayce, a major figure in the twentieth-century Western popularization of the concept of the Akashic Records.",
+    "Linda Howe — <em>How to Read the Akashic Records: Accessing the Archive of the Soul and Its Journey</em>, 2009; revised edition, 2026."
+   ]
+  },
+  "photos": [
+   "p26",
+   "p42"
+  ]
  },
  {
   "num": 114,
@@ -2424,7 +2738,50 @@
    "Gerald of Wales, The Journey Through Wales / Descriptio Cambriae, fin du XIIe siècle, notamment le passage consacré aux awenyddion."
   ],
   "publish_at": "2027-01-02T11:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "celtic-shamanism-druids-awen-otherworld",
+   "title": "Celtic Shamanism: Druids, Awen and the Otherworld",
+   "seo_title": "Celtic Shamanism: What We Really Know About Druids",
+   "desc": "Were the druids shamans? What history says about awen, the awenyddion and the Otherworld, and how to practice Celtic spirituality without fake lineages.",
+   "kw": "celtic shamanism, druids, awen, awenyddion, Celtic Otherworld, Annwn, Celtic mythology, neo-druidry, Celtic spirituality",
+   "photo": {
+    "src": "en/celtic-shamanism-druids-awen-otherworld.webp",
+    "src_s": "en/celtic-shamanism-druids-awen-otherworld-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Celtic Shamanism: What We Really Know About Druids"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "Were the druids shamans?",
+     "We don’t have enough historical evidence to say so. Modern comparisons rest mainly on similarities in roles and motifs."
+    ],
+    [
+     "What is awen?",
+     "In the Welsh tradition, the term is linked to poetic or spiritual inspiration. It plays an important role in contemporary Druidry today."
+    ],
+    [
+     "Did the Celts practice trance?",
+     "Medieval Welsh sources describe phenomena resembling prophetic trance, notably among the awenyddion, but this isn’t enough to demonstrate a complete ancient shamanic system."
+    ],
+    [
+     "Can you practice Celtic shamanism today?",
+     "Yes, as a modern spiritual practice inspired by Celtic material, as long as contemporary reconstructions aren’t presented as documented ancient techniques."
+    ]
+   ],
+   "sources": [
+    "Ronald Hutton, Blood and Mistletoe: The History of the Druids in Britain, Yale University Press, 2009",
+    "Barry Cunliffe, Druids: A Very Short Introduction, Oxford University Press, 2010",
+    "Gerald of Wales, The Journey Through Wales / Descriptio Cambriae, late 12th century, especially the passage on the awenyddion."
+   ]
+  },
+  "photos": [
+   "p30",
+   "p12"
+  ]
  },
  {
   "num": 19,
@@ -2526,7 +2883,11 @@
     "Gold K.J. et al. (2023) — <em>Three Good Things Digital Intervention Among Health Care Workers: A Randomized Controlled Trial</em>, Annals of Family Medicine. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/37217328/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Randomized study of gratitude interventions among college students, <em>Journal of American College Health</em> (2022). (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35623017/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
    ]
-  }
+  },
+  "photos": [
+   "p53",
+   "p37"
+  ]
  },
  {
   "num": 85,
@@ -2628,7 +2989,11 @@
     "Black J. et al. — qualitative studies on dreams of the deceased and their subjective role in grief.",
     "Kübler-Ross E., Kessler D. — historical and clinical reference works on the experience of grief, to be complemented by contemporary models that place more emphasis on the diversity of grief trajectories."
    ]
-  }
+  },
+  "photos": [
+   "p50",
+   "p10"
+  ]
  },
  {
   "num": 36,
@@ -2684,7 +3049,51 @@
    "Revue systématique récente des essais randomisés sur le Kundalini Yoga et différents résultats de santé."
   ],
   "publish_at": "2027-01-13T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "kundalini-awakening-practice-precautions",
+   "title": "Kundalini: The Energy Serpent, the Practice, and the Precautions",
+   "seo_title": "Kundalini Awakening: Practice, Signs and Precautions",
+   "desc": "What kundalini means in yoga and tantra, what an awakening feels like, what research says about intense practices, and a gentle way to explore safely.",
+   "kw": "kundalini, kundalini awakening, kundalini syndrome, kundalini yoga, kundalini energy, chakras, sushumna, meditation adverse effects, energy practices, kundalini precautions",
+   "photo": {
+    "src": "photos/p22-hero.webp",
+    "src_s": "photos/p22-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Kundalini Awakening: Practice, Signs and Precautions",
+    "pid": "p22"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "What Are the Signs of a Kundalini Awakening?",
+     "Traditions and firsthand accounts mention heat, vibrations, spontaneous movements, rising sensations, deep meditative states or intense emotions. However, none of these signs on its own can prove that kundalini has “awakened.”"
+    ],
+    [
+     "Can Kundalini Be Dangerous?",
+     "Very intensive meditation and breathing practices can trigger difficult experiences in some people. So it’s wise to progress gradually and to seek qualified help if symptoms persist or become disturbing."
+    ],
+    [
+     "Do You Need to Open All the Chakras Before Practicing?",
+     "No. This idea mainly belongs to certain modern presentations. The historical traditions are far more diverse."
+    ],
+    [
+     "Can You Practice Kundalini on Your Own?",
+     "Gentle practices of natural breathing, meditation and body awareness can be explored on your own. For intensive techniques, a competent and responsible teacher may be preferable."
+    ]
+   ],
+   "sources": [
+    "Woodroffe J. (Arthur Avalon) — <em>The Serpent Power</em>, translation and analysis of tantric texts on kundalini and the chakras.",
+    "Farias M. et al. (2020) — <em>Adverse events in meditation practices and meditation-based therapies: a systematic review</em>, Acta Psychiatrica Scandinavica.",
+    "Recent systematic review of randomized trials on Kundalini Yoga and various health outcomes."
+   ]
+  },
+  "photos": [
+   "p31",
+   "p15"
+  ]
  },
  {
   "num": 103,
@@ -2734,7 +3143,50 @@
    "Dunja Njaradi, « Trance, Music and Dance – Old Topics and New Interdisciplinary Dialogues », 2018."
   ],
   "publish_at": "2027-01-16T11:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "types-of-trance-journeying-possession-ecstasy",
+   "title": "Types of Trance: Journeying, Possession, and Ecstasy",
+   "seo_title": "Types of Trance: Journeying, Possession and Ecstasy",
+   "desc": "Shamanic journeying, possession and ecstasy are not the same trance. See how they differ, why culture matters and when it becomes a clinical concern.",
+   "kw": "types of trance, shamanic trance, shamanic journeying, possession trance, mystical ecstasy, altered states of consciousness, ritual trance, trance and music, trance and dance",
+   "photo": {
+    "src": "en/types-of-trance-journeying-possession-ecstasy.webp",
+    "src_s": "en/types-of-trance-journeying-possession-ecstasy-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Types of Trance: Journeying, Possession and Ecstasy"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "What are the main forms of trance?",
+     "Classifications vary, but shamanic journeying, possession and ecstasy are three broad descriptive families often discussed in anthropology."
+    ],
+    [
+     "Is spirit possession necessarily a mental illness?",
+     "No. Cultural context, whether it is voluntary, the distress involved and the consequences for functioning are essential for distinguishing a ritualized practice from a clinical problem."
+    ],
+    [
+     "Does music automatically trigger trance?",
+     "No. Gilbert Rouget’s work shows precisely that the link between music and trance depends heavily on the cultural and ritual context."
+    ],
+    [
+     "Does a journeying experience prove that the mind has really left the body?",
+     "No. The subjective reality of the experience can be acknowledged without treating its metaphysical interpretation as scientifically proven."
+    ]
+   ],
+   "sources": [
+    "Gilbert Rouget, Music and Trance, University of Chicago Press, 1985.",
+    "Judith Becker, Deep Listeners: Music, Emotion, and Trancing, Indiana University Press, 2004.",
+    "Dunja Njaradi, “Trance, Music and Dance – Old Topics and New Interdisciplinary Dialogues,” 2018."
+   ]
+  },
+  "photos": [
+   "p34",
+   "p44"
+  ]
  },
  {
   "num": 121,
@@ -2804,6 +3256,12 @@
      "w": 1376,
      "h": 768,
      "alt": "Diagram 1: Shamanic Drum: How to Choose, Play and Journey"
+    },
+    {
+     "src": "en/shamanic-drum-choose-play-journey-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Shamanic Drum: How to Choose, Play and Journey"
     }
    ],
    "insert": null,
@@ -2830,7 +3288,11 @@
     "Charles Stépanoff, research on shamanism in Northern Asia.",
     "Gerard Horta, “Trance: Definitions and Potential Typological Derivations,” 2022."
    ]
-  }
+  },
+  "photos": [
+   "p45",
+   "p05"
+  ]
  },
  {
   "num": 20,
@@ -2938,7 +3400,11 @@
     "Lazar S.W. et al. — pioneering MRI research on meditation, cortical thickness and contemplative practice.",
     "2026 review: <em>Mindfulness Practice and Increases in Gray Matter Density, Gray Matter Volume, and Cortical Thickness: A Scoping Review</em>. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/42192796/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
    ]
-  }
+  },
+  "photos": [
+   "p11",
+   "p17"
+  ]
  },
  {
   "num": 86,
@@ -2967,6 +3433,12 @@
     "w": 1376,
     "h": 768,
     "alt": "Schéma 2 : Insomnie : et si vous arrêtiez d’essayer de dormir ?"
+   },
+   {
+    "src": "fr/insomnie-arreter-essayer-de-dormir-schema-3.webp",
+    "w": 1376,
+    "h": 768,
+    "alt": "Schéma 3 : Insomnie : et si vous arrêtiez d’essayer de dormir ?"
    }
   ],
   "insert": null,
@@ -3046,7 +3518,11 @@
     "Morin C.M., Espie C.A. — <em>Insomnia: A Clinical Guide to Assessment and Treatment</em>, a reference work on the mechanisms and treatments of insomnia.",
     "Espie C.A. — work on the cognitive behavioral model of insomnia, hypervigilance and CBT-I."
    ]
-  }
+  },
+  "photos": [
+   "p07",
+   "p43"
+  ]
  },
  {
   "num": 37,
@@ -3148,7 +3624,11 @@
     "Milán E.G. et al. (2012) — <em>Auras in mysticism and synaesthesia: a comparison</em>, Consciousness and Cognition.",
     "Leadbeater C.W. — <em>Man Visible and Invisible</em>, an influential historical source for modern esoteric depictions of the aura and subtle bodies."
    ]
-  }
+  },
+  "photos": [
+   "p33",
+   "p41"
+  ]
  },
  {
   "num": 104,
@@ -3256,7 +3736,11 @@
     "Kieft et al., “Conscious dance: Perceived benefits and psychological well-being of participants,” 2021.",
     "Dunja Njaradi, “Trance, Music and Dance – Old Topics and New Interdisciplinary Dialogues,” 2018."
    ]
-  }
+  },
+  "photos": [
+   "p18",
+   "p04"
+  ]
  },
  {
   "num": 87,
@@ -3326,6 +3810,12 @@
      "w": 1376,
      "h": 768,
      "alt": "Diagram 2: How to Interpret Your Dreams Without a Dictionary"
+    },
+    {
+     "src": "en/how-to-interpret-dreams-without-dictionary-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: How to Interpret Your Dreams Without a Dictionary"
     }
    ],
    "insert": null,
@@ -3352,7 +3842,11 @@
     "Freud S. — <em>The Interpretation of Dreams</em>, a major historical work in the history of dream psychology.",
     "Krakow B. et al. — research on Imagery Rehearsal Therapy for recurring nightmares and associated sleep disorders."
    ]
-  }
+  },
+  "photos": [
+   "p22",
+   "p29"
+  ]
  },
  {
   "num": 38,
@@ -3402,7 +3896,51 @@
    "Méta-analyse 2025 de 16 essais randomisés sur le qigong et la lombalgie chronique non spécifique. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/39994723/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
   ],
   "publish_at": "2027-02-10T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "qigong-for-beginners-5-movements",
+   "title": "Qigong for Beginners: 5 Movements to Feel Energy in 10 Minutes",
+   "seo_title": "Qigong for Beginners: A Simple 10-Minute Routine",
+   "desc": "Five slow qigong movements to feel warmth, tingling and calm in 10 minutes, plus the Wuji posture, beginner mistakes to avoid and what science says.",
+   "kw": "qigong for beginners, qigong exercises, 10-minute qigong, qigong movements, feel qi, feel energy, Wuji posture, lower dantian, qigong benefits",
+   "photo": {
+    "src": "photos/p35-hero.webp",
+    "src_s": "photos/p35-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Qigong for Beginners: A Simple 10-Minute Routine",
+    "pid": "p35"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "How long should I practice qigong as a beginner?",
+     "Ten minutes a day is already an excellent foundation. You can then gradually move up to twenty or thirty minutes if the practice suits you."
+    ],
+    [
+     "Is it normal for my hands to get warm during qigong?",
+     "Yes. Movement, blood circulation, temperature, muscle relaxation and heightened attention can all make the warmth in your hands much more noticeable."
+    ],
+    [
+     "Do I need to synchronize my breathing perfectly with the movement?",
+     "No. Start by breathing naturally, then let your breath and movement gradually find a shared rhythm."
+    ],
+    [
+     "Have the benefits of qigong been studied scientifically?",
+     "Various trials and reviews have studied qigong for pain, balance, well-being and other outcomes. Results vary depending on the condition and the quality of the studies; a recent meta-analysis on chronic low back pain, for example, found an improvement in pain compared with certain control groups, with a wide variety of protocols. (PubMed)"
+    ]
+   ],
+   "sources": [
+    "Cohen K.S. — <em>The Way of Qigong: The Art and Science of Chinese Energy Healing</em>, a reference work on the history and practices of qigong.",
+    "Treves I.N. et al. (2025) — meta-analysis on mindfulness and interoception, <em>Scientific Reports</em>. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40502790/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "2025 meta-analysis of 16 randomized trials on qigong and chronic non-specific low back pain. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/39994723/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
+   ]
+  },
+  "photos": [
+   "p31",
+   "p23"
+  ]
  },
  {
   "num": 105,
@@ -3497,7 +4035,11 @@
     "Bergevin et al., “Overtone focusing in biphonic Tuvan throat singing,” eLife, 2020.",
     "Carole Pegg, “Mongolian conceptualizations of overtone singing (xöömii),” British Journal of Ethnomusicology, 1992."
    ]
-  }
+  },
+  "photos": [
+   "p19",
+   "p16"
+  ]
  },
  {
   "num": 88,
@@ -3599,7 +4141,11 @@
     "Wamsley E.J. and research on memory, wakeful rest and consolidation after learning.",
     "Dutta A. et al. — recent systematic review of trials on yoga nidra, showing interesting results but a literature that is still mixed and limited."
    ]
-  }
+  },
+  "photos": [
+   "p35",
+   "p30"
+  ]
  },
  {
   "num": 39,
@@ -3655,7 +4201,51 @@
    "Gan R., Zhang L., Chen S. (2022) — <em>The effects of body scan meditation: A systematic review and meta-analysis</em>, sur les effets et limites des pratiques d’attention corporelle isolées. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35538557/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
   ],
   "publish_at": "2027-02-20T11:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "guided-chakra-meditation-root-to-crown",
+   "title": "Chakra Meditation: A Guided Practice from Root to Crown",
+   "seo_title": "Guided Chakra Meditation: A 20-Minute Root-to-Crown Practice",
+   "desc": "A 20-minute guided chakra meditation from root to crown: colors, breathing and simple phrases for each chakra, plus the step most practices forget.",
+   "kw": "chakra meditation, guided chakra meditation, seven chakras, root chakra, crown chakra, heart chakra, chakra colors, energy meditation, body awareness meditation",
+   "photo": {
+    "src": "photos/p50-hero.webp",
+    "src_s": "photos/p50-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Guided Chakra Meditation: A 20-Minute Root-to-Crown Practice",
+    "pid": "p50"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "In what order should you meditate on the chakras?",
+     "The most common modern sequence goes from the root chakra to the crown chakra. For a balanced practice, it’s also helpful to finish by coming back down toward the body and the feet."
+    ],
+    [
+     "Do you really have to see the chakra colors?",
+     "No. Some people visualize very easily, others hardly at all. You can simply think of the color or ignore that element completely."
+    ],
+    [
+     "How long should a chakra meditation last?",
+     "A full session can last between 15 and 30 minutes. To start with, two minutes per chakra is plenty."
+    ],
+    [
+     "What should I do if I feel tingling or warmth?",
+     "Observe it without panicking and without automatically giving it any particular meaning. Bodily attention, posture and breathing can make many sensations more noticeable."
+    ]
+   ],
+   "sources": [
+    "Arthur Avalon — <em>The Serpent Power</em>, translation of historical tantric texts on the chakras.",
+    "Treves I.N. et al. (2025) — meta-analysis of the effects of mindfulness on subjective interoception. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40502790/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Gan R., Zhang L., Chen S. (2022) — <em>The effects of body scan meditation: A systematic review and meta-analysis</em>, on the effects and limits of stand-alone bodily attention practices. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35538557/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
+   ]
+  },
+  "photos": [
+   "p13",
+   "p20"
+  ]
  },
  {
   "num": 109,
@@ -3705,7 +4295,51 @@
    "Hammond & Brown, « Building an Operational Definition of Grounding », 2025."
   ],
   "publish_at": "2027-02-24T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "stuck-in-trance-hypnosis-myths",
+   "title": "Can You Get Stuck in a Trance? Myths and Reality",
+   "seo_title": "Can You Get Stuck in Hypnosis? Myths vs. Warning Signs",
+   "desc": "Why you can’t get permanently stuck in hypnosis, what feeling “somewhere else” after a practice can mean, how to ground yourself and when to seek help.",
+   "kw": "stuck in hypnosis, stuck in trance, hypnosis myths, is hypnosis safe, trance states, grounding techniques, derealization, depersonalization, altered states of consciousness",
+   "photo": {
+    "src": "photos/p28-hero.webp",
+    "src_s": "photos/p28-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Can You Get Stuck in Hypnosis? Myths vs. Warning Signs",
+    "pid": "p28"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "Can you stay hypnotized forever?",
+     "Clinical data on hypnosis don’t support the idea of someone being permanently locked in a hypnotic state. Hypnosis is used in many medical settings that have been studied."
+    ],
+    [
+     "Why might I feel strange after a session?",
+     "Fatigue, deep relaxation, emotion, hyperventilation or gradual reorientation can all play a part. If the feeling persists or becomes worrying, other causes should be considered."
+    ],
+    [
+     "How can you quickly come out of a trance state?",
+     "Stop the induction, open your eyes, reorient yourself toward your surroundings and bodily sensations, then calmly get back to an ordinary activity."
+    ],
+    [
+     "When should you seek help?",
+     "In the event of persistent confusion, hallucinations, loss of contact with reality, neurological symptoms, major distress, dangerous behavior or being unable to return to your usual functioning."
+    ]
+   ],
+   "sources": [
+    "Häuser et al., “The Efficacy, Safety and Applications of Medical Hypnosis,” Deutsches Ärzteblatt International, 2016.",
+    "Waehner et al., “Hypnosis in Anesthesia: A Systematic Literature Review of Randomized Controlled Trials,” International Journal of Clinical and Experimental Hypnosis, 2026.",
+    "Hammond & Brown, “Building an Operational Definition of Grounding,” 2025."
+   ]
+  },
+  "photos": [
+   "p08",
+   "p03"
+  ]
  },
  {
   "num": 89,
@@ -3807,7 +4441,11 @@
     "Jalal B., Hinton D.E. — research on the neuropsychological mechanisms and cultural interpretations of sleep paralysis.",
     "American Academy of Sleep Medicine — clinical references on parasomnias, narcolepsy and sleep-wake transition phenomena."
    ]
-  }
+  },
+  "photos": [
+   "p48",
+   "p50"
+  ]
  },
  {
   "num": 40,
@@ -3903,7 +4541,11 @@
     "Treves I.N. et al. (2025) — <em>A meta-analysis of the effects of mindfulness meditation training on self-reported interoception</em>, Scientific Reports. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40502790/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Schwerdtfeger A.R., Weber B., Rominger C. (2025) — <em>Two weeks to tune in: Evaluating the effects of a short-term body scan on interoception</em>. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40908588/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
    ]
-  }
+  },
+  "photos": [
+   "p36",
+   "p01"
+  ]
  },
  {
   "num": 13,
@@ -3992,7 +4634,11 @@
     "Laborde S. et al. (2022) — <em>Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis</em>, Neuroscience &amp; Biobehavioral Reviews. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35623448/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Breedvelt J.J.F. et al. (2023) — <em>Effectiveness of stress management interventions to change cortisol levels: a systematic review and meta-analysis</em>. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/37879237/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
    ]
-  }
+  },
+  "photos": [
+   "p26",
+   "p15"
+  ]
  },
  {
   "num": 83,
@@ -4081,7 +4727,11 @@
     "Vallat R. et al. — research on individual differences in dream recall, nighttime awakenings and the associated brain processes.",
     "Schredl M. — reference research and books on dream recall, dream content and dream journals."
    ]
-  }
+  },
+  "photos": [
+   "p02",
+   "p49"
+  ]
  },
  {
   "num": 73,
@@ -4144,6 +4794,12 @@
      "w": 1376,
      "h": 768,
      "alt": "Diagram 2: How to Quiet Your Inner Critic Without Fighting It"
+    },
+    {
+     "src": "en/how-to-quiet-your-inner-critic-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: How to Quiet Your Inner Critic Without Fighting It"
     }
    ],
    "insert": null,
@@ -4170,7 +4826,11 @@
     "Wakelin K.E., Perman G., Simonds L.M. (2022) — systematic review and meta-analysis of 20 randomized trials on self-compassion interventions and self-criticism.",
     "Vidal J., Soldevilla J.M., and studies pooled in the meta-analysis on Compassion Focused Therapy, showing reductions in self-criticism and increases in self-reassurance."
    ]
-  }
+  },
+  "photos": [
+   "p32",
+   "p06"
+  ]
  },
  {
   "num": 102,
@@ -4227,7 +4887,20 @@
     "h": 670,
     "alt": "Illustration for the article: Self-Induced Cognitive Trance: What Science Knows"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "en/self-induced-cognitive-trance-science-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Self-Induced Cognitive Trance: What Science Knows"
+    },
+    {
+     "src": "en/self-induced-cognitive-trance-science-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Self-Induced Cognitive Trance: What Science Knows"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -4252,7 +4925,11 @@
     "Flor-Henry, Shapiro & Sombrun, “Brain changes during a shamanic trance,” Cogent Psychology, 2017",
     "Gilbert Rouget, Music and Trance: A Theory of the Relations between Music and Possession, University of Chicago Press, 1985."
    ]
-  }
+  },
+  "photos": [
+   "p25",
+   "p47"
+  ]
  },
  {
   "num": 91,
@@ -4309,7 +4986,14 @@
     "h": 670,
     "alt": "Illustration for the article: 15 of the Most Spiritual Places in the World to Visit"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "en/most-spiritual-places-in-the-world-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: 15 of the Most Spiritual Places in the World to Visit"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -4334,7 +5018,11 @@
     "National Park Service / heritage authorities and official local bodies for historical information and visiting rules at the various sacred sites.",
     "Eliade M. — <em>The Sacred and the Profane</em>, a classic work on the way different cultures symbolically structure sacred space, to be read today with the nuances brought by contemporary anthropology."
    ]
-  }
+  },
+  "photos": [
+   "p28",
+   "p10"
+  ]
  },
  {
   "num": 113,
@@ -4377,7 +5065,51 @@
    "Amanda M. Smith, « Centering the Shipibo-Konibo in Tár », ReVista, Harvard University, 2023."
   ],
   "publish_at": "2027-03-24T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "amazonian-shamanism-icaros-plant-teachers",
+   "title": "Amazonian Shamanism: Icaros, Cosmology and the Living Forest",
+   "seo_title": "Amazonian Shamanism: Icaros, Plant Teachers and Forest",
+   "desc": "Amazonian shamanism beyond the clichés: icaros healing songs, plant teachers and the dieta, the living forest, and the issues raised by ayahuasca tourism.",
+   "kw": "Amazonian shamanism, icaros, icaro healing songs, Shipibo-Konibo, vegetalismo, plant teachers, dieta, Amazonian animism, ayahuasca tourism",
+   "photo": {
+    "src": "photos/p39-hero.webp",
+    "src_s": "photos/p39-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Amazonian Shamanism: Icaros, Plant Teachers and Forest",
+    "pid": "p39"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "Do all Amazonian shamans use ayahuasca?",
+     "No. The Amazon includes many traditions, some of which do not use ayahuasca."
+    ],
+    [
+     "What is an icaro?",
+     "In several traditions of the Peruvian Amazon, it is a ritual song used especially in healing contexts and in work with plants."
+    ],
+    [
+     "Do plant teachers really teach songs?",
+     "It is a traditional conception documented by anthropology. Science does not demonstrate objective communication between a plant spirit and the practitioner."
+    ],
+    [
+     "Can Amazonian shamanism be reproduced in Europe?",
+     "Some techniques can be adapted or exported, but that doesn't make them equivalent to the community traditions they come from."
+    ]
+   ],
+   "sources": [
+    "Luis Eduardo Luna, Vegetalismo: Shamanism Among the Mestizo Population of the Peruvian Amazon, Almqvist & Wiksell International, 1986.",
+    "Luis Eduardo Luna & Pablo Amaringo, Ayahuasca Visions: The Religious Iconography of a Peruvian Shaman, North Atlantic Books, 1991",
+    "Amanda M. Smith, “Centering the Shipibo-Konibo in Tár,” ReVista, Harvard University, 2023."
+   ]
+  },
+  "photos": [
+   "p12",
+   "p51"
+  ]
  },
  {
   "num": 133,
@@ -4420,7 +5152,11 @@
    "Sieder et al., « Baseline trait mindfulness moderates the efficacy of mindfulness interventions and active controls: A meta-analysis of 177 randomised controlled trials », 2024."
   ],
   "publish_at": "2027-03-27T11:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p27",
+   "p24"
+  ]
  },
  {
   "num": 140,
@@ -4463,7 +5199,11 @@
    "Out-of-body experiences in relation to lucid dreaming and sleep paralysis: a theoretical review and conceptual model, 2024."
   ],
   "publish_at": "2027-03-31T16:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p46",
+   "p21"
+  ]
  },
  {
   "num": 16,
@@ -4558,7 +5298,11 @@
     "Sevoz-Couche C., Laborde S. (2022) — <em>Heart rate variability and slow-paced breathing: when coherence meets resonance</em>, Neuroscience &amp; Biobehavioral Reviews. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35167847/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Laborde S. et al. (2022) — <em>Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis</em>, Neuroscience &amp; Biobehavioral Reviews. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35623448/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
    ]
-  }
+  },
+  "photos": [
+   "p14",
+   "p09"
+  ]
  },
  {
   "num": 90,
@@ -4615,7 +5359,20 @@
     "h": 670,
     "alt": "Illustration for the article: Hypnagogia: Images and Voices Just Before Sleep"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "en/hypnagogia-images-voices-before-sleep-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Hypnagogia: Images and Voices Just Before Sleep"
+    },
+    {
+     "src": "en/hypnagogia-images-voices-before-sleep-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Hypnagogia: Images and Voices Just Before Sleep"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -4640,7 +5397,11 @@
     "Lacaux C. et al. — experimental work on the N1 stage of sleep and the emergence of creative insights at the border between wakefulness and sleep.",
     "American Academy of Sleep Medicine — clinical references on hypnagogic/hypnopompic hallucinations, sleep paralysis and associated sleep disorders."
    ]
-  }
+  },
+  "photos": [
+   "p52",
+   "p42"
+  ]
  },
  {
   "num": 74,
@@ -4657,7 +5418,14 @@
    "h": 670,
    "alt": "Illustration de l’article : Méditation ou thérapie ? Souvent, la réponse est les deux"
   },
-  "schemas": [],
+  "schemas": [
+   {
+    "src": "fr/meditation-ou-therapie-schema-1.webp",
+    "w": 1376,
+    "h": 768,
+    "alt": "Schéma 1 : Méditation ou thérapie ? Souvent, la réponse est les deux"
+   }
+  ],
   "insert": null,
   "faq": [
    [
@@ -4735,7 +5503,11 @@
     "Alkan E. et al. — 2025 meta-analysis on mindfulness-based interventions and depressive symptoms across different psychiatric disorders. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40187061/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Matko K., Van Dam N.T. — <em>Beyond serenity: Adverse effects of meditation and mindfulness in clinical practice</em>, 2026. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/41176868/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
    ]
-  }
+  },
+  "photos": [
+   "p40",
+   "p53"
+  ]
  },
  {
   "num": 106,
@@ -4817,7 +5589,11 @@
     "Kluger et al., “From Lung to Brain: Respiration Modulates Neural and Mental Activity,” 2023.",
     "NAFKAM, “Holotropic therapy” file, information on evidence and safety."
    ]
-  }
+  },
+  "photos": [
+   "p37",
+   "p39"
+  ]
  },
  {
   "num": 92,
@@ -4874,7 +5650,20 @@
     "h": 670,
     "alt": "Illustration for the article: Why Mountains Are Sacred: Kailash, Fuji and Sinai"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "en/why-mountains-are-sacred-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Why Mountains Are Sacred: Kailash, Fuji and Sinai"
+    },
+    {
+     "src": "en/why-mountains-are-sacred-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Why Mountains Are Sacred: Kailash, Fuji and Sinai"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -4899,7 +5688,11 @@
     "Eliade M. — <em>The Sacred and the Profane</em>, classic work on symbolic geography, the cosmic mountain and the notions of sacred center, to be read with the nuances of contemporary anthropology.",
     "Macfarlane R. — <em>Mountains of the Mind</em>, work on the cultural evolution of our relationship to mountains, between fascination, fear, spirituality and conquest."
    ]
-  }
+  },
+  "photos": [
+   "p38",
+   "p41"
+  ]
  },
  {
   "num": 115,
@@ -4942,7 +5735,50 @@
    "UNESCO, « Jeju Chilmeoridang Yeongdeunggut », inscription 2009."
   ],
   "publish_at": "2027-04-21T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "korean-shamanism-mudang-gut-ritual",
+   "title": "Korean Shamanism: The Mudang Shamans of the Modern Age",
+   "seo_title": "Korean Shamanism: Mudang, Gut Rituals and Trance",
+   "desc": "Who are the mudang, Korea’s shamans? Gut rituals, spirit illness, possession and women’s religion in a tradition still thriving in high-tech Korea.",
+   "kw": "korean shamanism, mudang, gut ritual, kut, Muism, Korean shaman, sinbyeong, spirit possession, Korean folk religion",
+   "photo": {
+    "src": "en/korean-shamanism-mudang-gut-ritual.webp",
+    "src_s": "en/korean-shamanism-mudang-gut-ritual-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Korean Shamanism: Mudang, Gut Rituals and Trance"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "What is a mudang?",
+     "It’s a Korean term for a ritual specialist traditionally regarded as an intermediary between humans and deities, ancestors or spirits."
+    ],
+    [
+     "What is a gut?",
+     "A ritual that may include music, dance, prayers, offerings, divination, costume changes and sometimes possession."
+    ],
+    [
+     "Has science proven that mudang possession is the work of a spirit?",
+     "No. The ritual experience itself is well documented, but its supernatural interpretation is a matter of belief and tradition."
+    ],
+    [
+     "Does shamanism still exist in Korea today?",
+     "Yes. Some traditions are still practiced, and several major Korean shamanic rituals are recognized as intangible cultural heritage."
+    ]
+   ],
+   "sources": [
+    "Laurel Kendall, Shamans, Housewives, and Other Restless Spirits: Women in Korean Ritual Life, University of Hawai‘i Press, 1985/1987.",
+    "Du-Hyun Lee, “Korean shamans: role playing through trance possession,” in By Means of Performance, Cambridge University Press, 1990.",
+    "UNESCO, “Jeju Chilmeoridang Yeongdeunggut,” inscribed 2009."
+   ]
+  },
+  "photos": [
+   "p17",
+   "p47"
+  ]
  },
  {
   "num": 134,
@@ -4985,7 +5821,11 @@
    "Ptáček et al., « Effectiveness of the mindfulness–acceptance–commitment approach: a meta-analysis », International Journal of Sport and Exercise Psychology, 2024."
   ],
   "publish_at": "2027-04-24T11:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p27",
+   "p01"
+  ]
  },
  {
   "num": 141,
@@ -5028,7 +5868,11 @@
    "Blanke, « Multisensory brain mechanisms of bodily self-consciousness », Nature Reviews Neuroscience, 2012."
   ],
   "publish_at": "2027-04-28T16:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p48",
+   "p09"
+  ]
  },
  {
   "num": 76,
@@ -5085,7 +5929,20 @@
     "h": 670,
     "alt": "Illustration for the article: Naming Your Emotions: Why Affect Labeling Works"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "en/naming-emotions-affect-labeling-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Naming Your Emotions: Why Affect Labeling Works"
+    },
+    {
+     "src": "en/naming-emotions-affect-labeling-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Naming Your Emotions: Why Affect Labeling Works"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -5110,7 +5967,11 @@
     "Lieberman M.D. et al. (2011) — comparative study of affect labeling, reappraisal and distraction on subjective responses to emotional stimuli. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/21534661/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Plutchik R. — <em>The Emotions</em>, foundational work on the classification and structure of emotions, at the origin of the models that inspired modern emotion wheels."
    ]
-  }
+  },
+  "photos": [
+   "p30",
+   "p28"
+  ]
  },
  {
   "num": 107,
@@ -5192,7 +6053,11 @@
     "American Psychiatric Association, DSM-5-TR, sections on dissociative disorders",
     "van der Hart, Nijenhuis & Steele, The Haunted Self, W.W. Norton, 2006."
    ]
-  }
+  },
+  "photos": [
+   "p42",
+   "p40"
+  ]
  },
  {
   "num": 93,
@@ -5249,7 +6114,14 @@
     "h": 670,
     "alt": "Illustration for the article: Ryōan-ji Zen Garden: The Mystery of the 15 Stones"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "en/ryoanji-zen-garden-15-stones-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Ryōan-ji Zen Garden: The Mystery of the 15 Stones"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -5274,7 +6146,11 @@
     "Nitschke G. — <em>Japanese Gardens: Right Angle and Natural Form</em>, reference work on the history and design of Japanese gardens.",
     "Kuitert W. — <em>Themes in the History of Japanese Garden Art</em>, historical study devoted to the evolution of Japanese gardens and the problems of symbolic interpretation."
    ]
-  }
+  },
+  "photos": [
+   "p26",
+   "p13"
+  ]
  },
  {
   "num": 116,
@@ -5317,7 +6193,50 @@
    "Michael Harner, « The History and Work of the Foundation for Shamanic Studies », réédition 2005."
   ],
   "publish_at": "2027-05-12T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "michael-harner-core-shamanism",
+   "title": "Michael Harner’s Core Shamanism",
+   "seo_title": "Michael Harner’s Core Shamanism: Influence and Limits",
+   "desc": "What is Michael Harner’s Core Shamanism? The drum journey, power animals, non-ordinary reality, and why anthropologists question a universal shamanism.",
+   "kw": "core shamanism, Michael Harner, Foundation for Shamanic Studies, The Way of the Shaman, shamanic journey, shamanic drumming, non-ordinary reality, neo-shamanism, power animals",
+   "photo": {
+    "src": "en/michael-harner-core-shamanism.webp",
+    "src_s": "en/michael-harner-core-shamanism-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Michael Harner’s Core Shamanism: Influence and Limits"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "Did Michael Harner invent shamanism?",
+     "No. He created Core Shamanism, a modern synthesis inspired by practices he considered common to different traditions."
+    ],
+    [
+     "What is the shamanic journey in Core Shamanism?",
+     "An altered-state or absorption practice, usually accompanied by repetitive drumming, intended according to the FSS to explore a non-ordinary reality."
+    ],
+    [
+     "Do power animals exist scientifically?",
+     "Their existence as independent entities has not been scientifically demonstrated. They can be viewed spiritually or symbolically, depending on the framework you adopt."
+    ],
+    [
+     "Is Core Shamanism an Indigenous tradition?",
+     "No. It is a modern method created by Michael Harner from a comparative approach to several traditions."
+    ]
+   ],
+   "sources": [
+    "Michael Harner, The Way of the Shaman, Harper & Row, 1980",
+    "Foundation for Shamanic Studies, “Core Shamanism.”",
+    "Michael Harner, “The History and Work of the Foundation for Shamanic Studies,” reissued 2005."
+   ]
+  },
+  "photos": [
+   "p35",
+   "p32"
+  ]
  },
  {
   "num": 135,
@@ -5360,7 +6279,11 @@
    "Liu et al., « Neural, genetic, and cognitive signatures of creativity », Communications Biology, 2024."
   ],
   "publish_at": "2027-05-15T11:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p22",
+   "p05"
+  ]
  },
  {
   "num": 142,
@@ -5403,7 +6326,11 @@
    "« Out-of-body experiences in relation to lucid dreaming and sleep paralysis: A theoretical review and conceptual model », 2024."
   ],
   "publish_at": "2027-05-19T16:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p51",
+   "p45"
+  ]
  },
  {
   "num": 108,
@@ -5485,7 +6412,11 @@
     "Alameda, Sanabria & Ciria, “The brain in flow: A systematic review on the neural basis of the flow state,” Cortex, 2022.",
     "Longaretti, Cheron & Zarka, “Unlocking Flow Through Mindfulness,” 2025."
    ]
-  }
+  },
+  "photos": [
+   "p37",
+   "p29"
+  ]
  },
  {
   "num": 94,
@@ -5502,7 +6433,14 @@
    "h": 670,
    "alt": "Illustration de l’article : Bain de forêt : ce que la science dit du shinrin-yoku"
   },
-  "schemas": [],
+  "schemas": [
+   {
+    "src": "fr/bain-de-foret-shinrin-yoku-schema-1.webp",
+    "w": 1376,
+    "h": 768,
+    "alt": "Schéma 1 : Bain de forêt : ce que la science dit du shinrin-yoku"
+   }
+  ],
   "insert": null,
   "faq": [
    [
@@ -5528,7 +6466,58 @@
    "Andrade A.M. et al. (2026) — revue systématique et méta-analyse récente sur les réponses cardiovasculaires et psychologiques à court terme au shinrin-yoku. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/41756503/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
   ],
   "publish_at": "2027-05-26T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "forest-bathing-shinrin-yoku-science",
+   "title": "Forest bathing: what science really says about shinrin-yoku",
+   "seo_title": "Forest Bathing: What Science Says About Shinrin-Yoku",
+   "desc": "Does forest bathing really lower stress, cortisol and blood pressure? What the meta-analyses show, the limits of phytoncides, and how to practice it well.",
+   "kw": "forest bathing, shinrin-yoku benefits, forest bathing science, forest therapy, forest cortisol, forest blood pressure, phytoncides, nature and mental health, forest meditation",
+   "photo": {
+    "src": "photos/p18-hero.webp",
+    "src_s": "photos/p18-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Forest Bathing: What Science Says About Shinrin-Yoku",
+    "pid": "p18"
+   },
+   "schemas": [
+    {
+     "src": "en/forest-bathing-shinrin-yoku-science-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Forest Bathing: What Science Says About Shinrin-Yoku"
+    }
+   ],
+   "insert": null,
+   "faq": [
+    [
+     "Does forest bathing really reduce stress?",
+     "Several meta-analyses find favorable effects on stress, anxiety or mood, but the quality and heterogeneity of the studies require us to remain cautious. (PubMed)"
+    ],
+    [
+     "How long should you stay in the forest?",
+     "There is no scientifically established universal duration; a session of 45 minutes to two hours is a convenient format, but consistency and quality of experience probably count more than a precise number."
+    ],
+    [
+     "Does shinrin-yoku lower cortisol?",
+     "A meta-analysis observed lower salivary cortisol levels in forest environments, but the authors report strong heterogeneity and a limited number of studies. (PubMed)"
+    ],
+    [
+     "Can forest therapy replace therapy or treatment?",
+     "No. Nature can be an excellent support for well-being, but it should not replace medical or psychological care when it is needed."
+    ]
+   ],
+   "sources": [
+    "Antonelli M. et al. — systematic review and meta-analysis on the effects of forest bathing on cortisol. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31001682/?utm_source=chatgpt.com\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Kotera Y. et al. — systematic review and meta-analysis on the psychological effects of <em>forest bathing</em>, including 36 articles and 3,554 participants. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/36864583/?utm_source=chatgpt.com\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Andrade A.M. et al. (2026) — recent systematic review and meta-analysis on short-term cardiovascular and psychological responses to shinrin-yoku. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/41756503/?utm_source=chatgpt.com\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
+   ]
+  },
+  "photos": [
+   "p44",
+   "p20"
+  ]
  },
  {
   "num": 117,
@@ -5571,7 +6560,50 @@
    "Foundation for Shamanic Studies, « Core Shamanism »."
   ],
   "publish_at": "2027-05-29T11:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "shamanism-cultural-appropriation-respect",
+   "title": "Shamanism and Cultural Appropriation: How to Practice with Respect",
+   "seo_title": "Shamanism and Cultural Appropriation: Practice Respectfully",
+   "desc": "Where does inspiration end and appropriation begin? Plastic shamans, closed practices, and how to build a shamanic practice with honesty and reciprocity.",
+   "kw": "shamanism cultural appropriation, plastic shaman, neo-shamanism, Indigenous spirituality, spiritual appropriation, closed practices, ethical shamanism, New Age commercialization, respecting Indigenous cultures",
+   "photo": {
+    "src": "en/shamanism-cultural-appropriation-respect.webp",
+    "src_s": "en/shamanism-cultural-appropriation-respect-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Shamanism and Cultural Appropriation: Practice Respectfully"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "Is using a drum cultural appropriation?",
+     "Not in itself. Drums exist in many cultures. The question is more about claiming a specific tradition, its context and how it is represented."
+    ],
+    [
+     "Can I practice an Indigenous tradition if a teacher allows me to?",
+     "It depends on what they are actually authorized to pass on and the role they hold in their community. Permission from one individual doesn’t automatically settle every cultural question."
+    ],
+    [
+     "Does Core Shamanism avoid appropriation entirely?",
+     "It was specifically designed as a system not tied to any particular culture, but its comparative sources still come from Indigenous traditions, so ethical reflection remains relevant."
+    ],
+    [
+     "What is a “plastic shaman”?",
+     "A critical term for people who commodify Indigenous spiritual traditions or wrongly claim authority over them."
+    ]
+   ],
+   "sources": [
+    "Lisa Aldred, “Plastic Shamans and Astroturf Sun Dances: New Age Commercialization of Native American Spirituality,” American Indian Quarterly, 24(3), 2000, pp. 329–352.",
+    "Graham Harvey, Animism: Respecting the Living World, Columbia University Press, 2005",
+    "Foundation for Shamanic Studies, “Core Shamanism.”"
+   ]
+  },
+  "photos": [
+   "p08",
+   "p19"
+  ]
  },
  {
   "num": 136,
@@ -5614,7 +6646,11 @@
    "Ma et al., « Effects of mindfulness-based interventions on psychological outcomes in college and university students », 2023."
   ],
   "publish_at": "2027-06-02T16:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p36",
+   "p38"
+  ]
  },
  {
   "num": 144,
@@ -5657,7 +6693,11 @@
    "Arnold Zwicky, travaux sur la « frequency illusion », 2005, et littérature ultérieure sur attention sélective et biais de confirmation."
   ],
   "publish_at": "2027-06-05T11:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p14",
+   "p25"
+  ]
  },
  {
   "num": 110,
@@ -5739,7 +6779,11 @@
     "Holland & Kensinger, “Emotion and Autobiographical Memory,” Physics of Life Reviews, 2010.",
     "Leo, Bruno & Proietti, “Remembering what did not happen: the role of hypnosis in memory recall and false memories formation,” Frontiers in Psychology, 2025."
    ]
-  }
+  },
+  "photos": [
+   "p24",
+   "p52"
+  ]
  },
  {
   "num": 95,
@@ -5796,7 +6840,20 @@
     "h": 670,
     "alt": "Illustration for the article: Benefits of Silence: Why Your Brain Needs Less Noise"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "en/benefits-of-silence-brain-noise-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Benefits of Silence: Why Your Brain Needs Less Noise"
+    },
+    {
+     "src": "en/benefits-of-silence-brain-noise-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Benefits of Silence: Why Your Brain Needs Less Noise"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -5821,7 +6878,11 @@
     "World Health Organization — <em>Night Noise Guidelines for Europe</em>, recommendations and summary of the effects of nighttime noise on health and sleep. (<a href=\"https://www.who.int/europe/publications/i/item/9789289041737\" target=\"_blank\" rel=\"noopener nofollow\">World Health Organization</a>)",
     "World Health Organization Europe — documentation on the cardiovascular, metabolic and psychophysiological mechanisms associated with environmental noise. (<a href=\"https://www.who.int/europe/publications/i/item/WHO-EURO-2018-3009-42767-59666\" target=\"_blank\" rel=\"noopener nofollow\">World Health Organization</a>)"
    ]
-  }
+  },
+  "photos": [
+   "p03",
+   "p07"
+  ]
  },
  {
   "num": 118,
@@ -5864,7 +6925,50 @@
    "Philippe Descola, Beyond Nature and Culture, University of Chicago Press, édition anglaise 2013."
   ],
   "publish_at": "2027-06-16T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "nature-spirits-animism-shamanic-traditions",
+   "title": "Nature Spirits in Shamanic Traditions",
+   "seo_title": "Nature Spirits and Animism in Shamanic Traditions",
+   "desc": "What are nature spirits in shamanic traditions? How anthropology rethinks animism as relationship, and how to connect with nature without borrowing.",
+   "kw": "nature spirits, animism, shamanism and nature, nature spirituality, other-than-human persons, relational animism, tree spirits, spirit masters, animist traditions",
+   "photo": {
+    "src": "en/nature-spirits-animism-shamanic-traditions.webp",
+    "src_s": "en/nature-spirits-animism-shamanic-traditions-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Nature Spirits and Animism in Shamanic Traditions"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "What is animism?",
+     "Contemporary anthropological approaches often describe it as a relational way of interacting with human and non-human persons, rather than the simple belief that all objects have a soul."
+    ],
+    [
+     "Do nature spirits exist scientifically?",
+     "Their existence as independent supernatural entities has not been scientifically demonstrated. The beliefs and experiences associated with them, however, are extensively documented."
+    ],
+    [
+     "Can I have an animal ally without belonging to a shamanic tradition?",
+     "You can work symbolically with an animal image. It’s best not to automatically attribute to that practice a specific Indigenous origin that you don’t have."
+    ],
+    [
+     "How do I start a spiritual practice with nature?",
+     "Through regular observation of one place, learning about its ecology, mindful meditation and, above all, concrete acts of respect and protection."
+    ]
+   ],
+   "sources": [
+    "Nurit Bird-David, “‘Animism’ Revisited: Personhood, Environment, and Relational Epistemology,” Current Anthropology, 40(S1), 1999, pp. S67–S91.",
+    "Graham Harvey, Animism: Respecting the Living World, Columbia University Press, 2005",
+    "Philippe Descola, Beyond Nature and Culture, University of Chicago Press, English edition 2013."
+   ]
+  },
+  "photos": [
+   "p04",
+   "p34"
+  ]
  },
  {
   "num": 138,
@@ -5907,7 +7011,11 @@
    "« Brief mindfulness meditation increases risk-taking behavior », 2026."
   ],
   "publish_at": "2027-06-19T11:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p53",
+   "p16"
+  ]
  },
  {
   "num": 145,
@@ -5950,7 +7058,11 @@
    "Sonu Shamdasani, préface à l’édition Princeton de Synchronicity."
   ],
   "publish_at": "2027-06-23T16:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p33",
+   "p43"
+  ]
  },
  {
   "num": 96,
@@ -6007,7 +7119,14 @@
     "h": 670,
     "alt": "Illustration for the article: Atlantis: Plato’s Myth and Why It Never Sinks"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "en/atlantis-plato-myth-origins-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Atlantis: Plato’s Myth and Why It Never Sinks"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -6032,7 +7151,11 @@
     "Plato — <em>Critias</em>, development of the narrative, geography and mythical organization of the island. (<a href=\"https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0180%3Atext%3DCriti.%3Asection%3D113c\" target=\"_blank\" rel=\"noopener nofollow\">Perseus Digital Library</a>)",
     "Donnelly I. — <em>Atlantis: The Antediluvian World</em> (1882), a historically decisive work in the modern transformation of Atlantis into a lost mother civilization."
    ]
-  }
+  },
+  "photos": [
+   "p06",
+   "p39"
+  ]
  },
  {
   "num": 119,
@@ -6075,7 +7198,50 @@
    "Gerard Horta, « Trance: Definitions and Potential Typological Derivations », Disparidades. Revista de Antropología, 2022."
   ],
   "publish_at": "2027-06-30T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "shaman-vs-healer-vs-medium-differences",
+   "title": "Shaman, Healer, Medium: Who Does What?",
+   "seo_title": "Shaman vs Healer vs Medium: What's the Difference?",
+   "desc": "Shaman, healer and medium are easily confused. Journeying between worlds, healing, channelling messages: what really sets these three roles apart.",
+   "kw": "shaman vs medium, shaman vs healer, what is a shaman, traditional healer, mediumship, spirit possession, shamanic journey, spiritual healing",
+   "photo": {
+    "src": "en/shaman-vs-healer-vs-medium-differences.webp",
+    "src_s": "en/shaman-vs-healer-vs-medium-differences-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Shaman vs Healer vs Medium: What's the Difference?"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "Is a shaman always a healer?",
+     "No. Healing is common in many shamanic traditions, but a shaman may also practise divination, community rites, guiding the dead or other functions."
+    ],
+    [
+     "What is the main difference between a shaman and a medium?",
+     "In some anthropological typologies, the shaman is associated more with journeying or an active relationship with spirits, while the medium is associated with possession or letting a spirit express itself through them."
+    ],
+    [
+     "Can a healer replace a doctor?",
+     "Not for medical problems that require diagnosis or proven treatment. Traditional practices can be complementary but should never delay necessary care."
+    ],
+    [
+     "Do mediums scientifically communicate with the dead?",
+     "This claim is not established by scientific consensus. The experience and traditions of mediumship, however, are widely documented culturally."
+    ]
+   ],
+   "sources": [
+    "Michael Winkelman, “A Cross-cultural Study of Shamanistic Healers”, Journal of Psychoactive Drugs, 1989.",
+    "Michael Winkelman, “Magico-Religious Practitioner Types and Socioeconomic Conditions”, Cross-Cultural Research, 1986.",
+    "Gerard Horta, “Trance: Definitions and Potential Typological Derivations”, Disparidades. Revista de Antropología, 2022."
+   ]
+  },
+  "photos": [
+   "p10",
+   "p50"
+  ]
  },
  {
   "num": 99,
@@ -6132,7 +7298,20 @@
     "h": 670,
     "alt": "Illustration for the article: Memento Mori: Thinking About Death to Live Better"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "en/memento-mori-meaning-death-meditation-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Memento Mori: Thinking About Death to Live Better"
+    },
+    {
+     "src": "en/memento-mori-meaning-death-meditation-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Memento Mori: Thinking About Death to Live Better"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -6157,7 +7336,11 @@
     "Chen L. et al. (2025) — <em>Managing the Terror of Publication Bias: A Systematic Review of the Mortality Salience Hypothesis</em>, critical review of several hundred studies. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40193452/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Analayo B. — works devoted to ancient Buddhist mindfulness practices, particularly the contemplation of impermanence and death."
    ]
-  }
+  },
+  "photos": [
+   "p15",
+   "p49"
+  ]
  },
  {
   "num": 120,
@@ -6200,7 +7383,50 @@
    "Michael Winkelman, « Shamans and Other Magico-Religious Healers », Ethos, 1990."
   ],
   "publish_at": "2027-07-07T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "how-to-become-a-shaman-calling-initiation",
+   "title": "Becoming a Shaman: Calling, Initiation and Training",
+   "seo_title": "How to Become a Shaman: Calling, Initiation, Training",
+   "desc": "Becoming a shaman is nothing like signing up for a course. The calling, initiatory illness and apprenticeship: what traditions and modern practice say.",
+   "kw": "how to become a shaman, shamanic calling, shamanic initiation, shaman training, initiatory illness, shamanic apprenticeship, neo-shamanism, Core Shamanism",
+   "photo": {
+    "src": "en/how-to-become-a-shaman-calling-initiation.webp",
+    "src_s": "en/how-to-become-a-shaman-calling-initiation-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: How to Become a Shaman: Calling, Initiation, Training"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "Can you become a shaman without being “chosen by the spirits”?",
+     "In some traditions, the spiritual calling is central. In modern neo-shamanic practices, training can be a voluntary choice."
+    ],
+    [
+     "Can a psychological illness be a shamanic initiation?",
+     "Some cultures may interpret it that way, but a psychiatric or neurological illness should always be open to appropriate medical assessment."
+    ],
+    [
+     "How long does it take to become a shaman?",
+     "There is no universal timeframe. In some traditions, training spans several years and cannot be reduced to a single ceremony."
+    ],
+    [
+     "Does a Western training course entitle you to present yourself as an Indigenous shaman?",
+     "No. It can train you in a contemporary method, but it does not automatically confer a traditional identity or authority."
+    ]
+   ],
+   "sources": [
+    "Charles Stépanoff, “Transsingularities: The Cognitive Foundations of Shamanism in Northern Asia”, Social Anthropology, 2015.",
+    "Andrei A. Znamenski, Shamanism in Siberia, Kluwer Academic Publishers, 2003.",
+    "Michael Winkelman, “Shamans and Other Magico-Religious Healers”, Ethos, 1990."
+   ]
+  },
+  "photos": [
+   "p18",
+   "p02"
+  ]
  },
  {
   "num": 122,
@@ -6243,7 +7469,50 @@
    "Smithsonian Institution, « Shaman’s Rattle Or Clapper “A-Ga-Shak” », collection Sugpiaq/Alutiiq."
   ],
   "publish_at": "2027-07-10T11:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "shamanic-rattle-meaning-and-use",
+   "title": "The Shamanic Rattle: The Other Instrument of the Journey",
+   "seo_title": "Shamanic Rattle: Meaning, History and How to Use It",
+   "desc": "The shamanic rattle is far more than a little drum you shake. Its role in traditions, the effect of repetitive sound and how to use one respectfully.",
+   "kw": "shamanic rattle, ritual rattle, shamanic instrument, shamanic journey, sound meditation, repetitive sound, raven rattle, make your own rattle",
+   "photo": {
+    "src": "en/shamanic-rattle-meaning-and-use.webp",
+    "src_s": "en/shamanic-rattle-meaning-and-use-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Shamanic Rattle: Meaning, History and How to Use It"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "What is the difference between a shamanic rattle and a shamanic drum?",
+     "The drum generally produces a deeper, more structured pulse, while the rattle creates a dense rhythmic texture made of many tiny impacts."
+    ],
+    [
+     "Can a rattle induce a trance?",
+     "It can support attention, repetition and absorption, but no instrument automatically guarantees a trance state."
+    ],
+    [
+     "Can I make my own rattle?",
+     "Yes. For personal practice, a simple instrument can be perfectly suitable and take on a personal meaning."
+    ],
+    [
+     "Are all shamanic rattles used for the same ritual?",
+     "No. Their function varies greatly across cultures: healing, divination, calling on spirits, dance or other ritual uses."
+    ]
+   ],
+   "sources": [
+    "Metropolitan Museum of Art, “Tsiitsiito (rattle), Hiwi”, late 19th century.",
+    "Metropolitan Museum of Art, “Raven rattle”, T’smsyen/Tsimshian.",
+    "Smithsonian Institution, “Shaman’s Rattle Or Clapper ‘A-Ga-Shak’”, Sugpiaq/Alutiiq collection."
+   ]
+  },
+  "photos": [
+   "p11",
+   "p21"
+  ]
  },
  {
   "num": 123,
@@ -6286,7 +7555,51 @@
    "Yadav et al., « The Impact of Fine Particulate Matters from Incense Smokes on the Various Organ Systems », Particle & Particle Systems Characterization, 2024."
   ],
   "publish_at": "2027-07-14T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "smoke-cleansing-white-sage-palo-santo-alternatives",
+   "title": "Sacred Smoke: Sage, Palo Santo and Local Alternatives",
+   "seo_title": "Smoke Cleansing: White Sage, Palo Santo and Alternatives",
+   "desc": "Smoke cleansing is older than modern energy clearing. White sage, palo santo, rosemary, juniper: how to cleanse a space with respect and common sense.",
+   "kw": "smoke cleansing, white sage, palo santo, smudging cultural appropriation, cleanse a room, palo santo alternatives, rosemary smoke cleansing, incense smoke health",
+   "photo": {
+    "src": "photos/p46-hero.webp",
+    "src_s": "photos/p46-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Smoke Cleansing: White Sage, Palo Santo and Alternatives",
+    "pid": "p46"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "Does smoke cleansing scientifically remove negative energy?",
+     "No. The existence and removal of negative spiritual energy have not been established scientifically. The ritual can nonetheless change the emotional and symbolic experience of a place."
+    ],
+    [
+     "Why might you avoid white sage?",
+     "Because Salvia apiana has deep cultural significance for several Indigenous peoples of California, and some commercial supply chains are criticised for problematic harvesting."
+    ],
+    [
+     "Which local alternative should I choose in France or elsewhere in Europe?",
+     "Rosemary, lavender, bay laurel or juniper can serve as symbolic supports, depending on availability, correct botanical identification and sensible precautions."
+    ],
+    [
+     "Is smoke from natural plants harmless?",
+     "No. All combustion produces pollutants. Small, occasional, well-ventilated use limits exposure, but people with respiratory problems should avoid smoke or keep it to a strict minimum."
+    ]
+   ],
+   "sources": [
+    "California Native Plant Society, “White Sage Protection”.",
+    "Lin et al., “Incense smoke: clinical, structural and molecular effects on airway disease”, Clinical and Molecular Allergy, 2008.",
+    "Yadav et al., “The Impact of Fine Particulate Matters from Incense Smokes on the Various Organ Systems”, Particle & Particle Systems Characterization, 2024."
+   ]
+  },
+  "photos": [
+   "p31",
+   "p23"
+  ]
  },
  {
   "num": 124,
@@ -6329,7 +7642,50 @@
    "« From mind–matter duality to body–situation mechanism: the phenomenology of the body on how shaman soul retrieval heals the sick », Philosophy, Ethics, and Humanities in Medicine, 2025."
   ],
   "publish_at": "2027-07-17T11:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "soul-retrieval-shamanic-practice-trauma",
+   "title": "Soul Retrieval: Understanding the Shamanic Practice",
+   "seo_title": "Soul Retrieval: Shamanic Practice, Trauma and Soul Loss",
+   "desc": "What are soul loss and soul retrieval? How the practice works, its careful link to trauma, and how to explore the symbol without diagnosing yourself.",
+   "kw": "soul retrieval, soul loss, shamanic soul retrieval, Sandra Ingerman, shamanic healing, soul fragmentation, trauma and the soul, Core Shamanism",
+   "photo": {
+    "src": "en/soul-retrieval-shamanic-practice-trauma.webp",
+    "src_s": "en/soul-retrieval-shamanic-practice-trauma-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Soul Retrieval: Shamanic Practice, Trauma and Soul Loss"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "Does soul retrieval exist in different traditions?",
+     "Ideas of losing or calling back the soul are documented in various societies, even though their cosmologies and rituals differ greatly."
+    ],
+    [
+     "Does soul retrieval heal trauma?",
+     "It is not established as a clinical treatment for trauma. The Foundation for Shamanic Studies itself states that its training is educational and not intended to treat physical or mental illness."
+    ],
+    [
+     "Is soul loss the same as dissociation?",
+     "No. The two may share some subjective descriptions, but one belongs to a spiritual cosmology and the other to a clinical framework."
+    ],
+    [
+     "Can I practise it on my own?",
+     "A gentle symbolic meditation is possible. For significant trauma or dissociative symptoms, it is better not to trigger intense experiences on your own and to turn to a qualified professional."
+    ]
+   ],
+   "sources": [
+    "Michael Harner, The Way of the Shaman, Harper & Row, 1980.",
+    "Foundation for Shamanic Studies, “Power Soul Retrieval Training”.",
+    "“From mind–matter duality to body–situation mechanism: the phenomenology of the body on how shaman soul retrieval heals the sick”, Philosophy, Ethics, and Humanities in Medicine, 2025."
+   ]
+  },
+  "photos": [
+   "p12",
+   "p46"
+  ]
  },
  {
   "num": 125,
@@ -6372,7 +7728,51 @@
    "Susan Mokelke, « Shamanism, Spirits, and Transformation », Foundation for Shamanic Studies."
   ],
   "publish_at": "2027-07-21T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "shamanic-extraction-letting-go",
+   "title": "Shamanic Extraction: Letting Go of What No Longer Serves You",
+   "seo_title": "Shamanic Extraction: What It Is and How to Let Go",
+   "desc": "What is shamanic extraction? How it works in Core Shamanism, why its symbolism is powerful, and a gentle letting-go practice with no energy diagnosis.",
+   "kw": "shamanic extraction, extraction healing, spiritual intrusion, core shamanism, Michael Harner, shamanic healing, letting go ritual, symbolic healing",
+   "photo": {
+    "src": "photos/p11-hero.webp",
+    "src_s": "photos/p11-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Shamanic Extraction: What It Is and How to Let Go",
+    "pid": "p11"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "What is a spiritual intrusion?",
+     "In some shamanic cosmologies, it is an influence or presence considered foreign to the person. Its objective existence has not been scientifically demonstrated."
+    ],
+    [
+     "Can extraction heal physical pain?",
+     "It should not be used as a substitute for medical diagnosis or treatment. The FSS itself states that its trainings are not intended to treat physical or mental conditions."
+    ],
+    [
+     "Can I perform an extraction on myself?",
+     "A symbolic letting-go visualization can be practiced gently. It’s best to avoid diagnosing yourself with invisible entities or intrusions."
+    ],
+    [
+     "What should I do if someone tells me I’m under spiritual attack?",
+     "Don’t immediately accept that claim as fact. If it increases your fear or paranoia, step back and seek appropriate professional advice."
+    ]
+   ],
+   "sources": [
+    "Michael Harner, The Way of the Shaman, Harper & Row, 1980.",
+    "Foundation for Shamanic Studies, “Shamanic Extraction Healing Training.”",
+    "Susan Mokelke, “Shamanism, Spirits, and Transformation,” Foundation for Shamanic Studies."
+   ]
+  },
+  "photos": [
+   "p28",
+   "p20"
+  ]
  },
  {
   "num": 126,
@@ -6415,7 +7815,50 @@
    "Foundation for Shamanic Studies, « Shamanism, Spirits, and Transformation »."
   ],
   "publish_at": "2027-07-24T11:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "helping-spirits-shamanism-power-animal",
+   "title": "Helping Spirits: Building a Lasting Relationship",
+   "seo_title": "Helping Spirits: How to Build a Lasting Relationship",
+   "desc": "What is a helping spirit? Meeting, imagination and regular practice: how to build a lasting bond, and how power animals, totems and guides differ.",
+   "kw": "helping spirits, spirit allies, power animal, shamanic journey, core shamanism, spirit guide, totem animal, spirit animal, Michael Harner",
+   "photo": {
+    "src": "en/helping-spirits-shamanism-power-animal.webp",
+    "src_s": "en/helping-spirits-shamanism-power-animal-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Helping Spirits: How to Build a Lasting Relationship"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "What is a helping spirit?",
+     "In various shamanic traditions, it is a non-human or spiritual being considered to help, protect or teach the practitioner."
+    ],
+    [
+     "Is a power animal the same thing as a totem?",
+     "No. The term power animal is notably associated with Michael Harner’s Core Shamanism, while totemic systems have their own cultural contexts."
+    ],
+    [
+     "How can I tell whether a guide is “real”?",
+     "There is no scientific test that can verify whether a figure met during a shamanic journey exists independently of the practitioner’s mind. You can work with the experience without claiming to settle that question."
+    ],
+    [
+     "Should I always follow a helping spirit’s messages?",
+     "No. Any inner guidance should be weighed against reality, ethics, the facts and your own responsibility."
+    ]
+   ],
+   "sources": [
+    "Michael Harner, The Way of the Shaman, Harper & Row, 1980.",
+    "Michael Harner, The Jívaro: People of the Sacred Waterfalls, University of California Press, 1972.",
+    "Foundation for Shamanic Studies, “Shamanism, Spirits, and Transformation.”"
+   ]
+  },
+  "photos": [
+   "p06",
+   "p13"
+  ]
  },
  {
   "num": 128,
@@ -6458,7 +7901,50 @@
    "Kokugakuin University, Encyclopedia of Shinto, entrée « Ienokami »."
   ],
   "publish_at": "2027-07-28T16:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "create-personal-altar-sacred-space-home",
+   "title": "Creating Your Personal Altar: A Sacred Space at Home",
+   "seo_title": "How to Create a Personal Altar: A Sacred Space at Home",
+   "desc": "Before choosing objects, decide what your altar is for. Five simple elements to create a sacred space at home without copying someone else’s tradition.",
+   "kw": "personal altar, how to make an altar, home altar, sacred space at home, meditation altar, meditation corner, household shrine, minimalist altar",
+   "photo": {
+    "src": "en/create-personal-altar-sacred-space-home.webp",
+    "src_s": "en/create-personal-altar-sacred-space-home-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: How to Create a Personal Altar: A Sacred Space at Home"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "What objects must a personal altar include?",
+     "No object is universally required. Choose according to its purpose: meditation, gratitude, ancestors, nature or a religious tradition."
+    ],
+    [
+     "Can I create an altar without being religious?",
+     "Yes. It can serve as a contemplative or symbolic space without any belief in a deity."
+    ],
+    [
+     "Where should I put my altar?",
+     "In a quiet, clean and accessible spot, where objects, candles or offerings don’t pose any risk."
+    ],
+    [
+     "Can I mix several traditions on the same altar?",
+     "It’s possible on a personal level, but it’s better to know what the objects mean and to avoid treating specific sacred items as interchangeable decorations."
+    ]
+   ],
+   "sources": [
+    "Metropolitan Museum of Art, “Bronze statuette of a Lar,” 1st–2nd century, entry on Roman household lararia.",
+    "British Museum, “Kamidana, Shinto household altar,” set, 2016–2017.",
+    "Kokugakuin University, Encyclopedia of Shinto, entry “Ienokami.”"
+   ]
+  },
+  "photos": [
+   "p27",
+   "p37"
+  ]
  },
  {
   "num": 129,
@@ -6501,7 +7987,51 @@
    "Queen’s University, Guide to Indigenous Protocols – Talking Stick Protocol, 2019."
   ],
   "publish_at": "2027-07-31T11:00",
-  "published": null
+  "published": null,
+  "en": {
+   "slug": "talking-circle-talking-stick-listening",
+   "title": "Talking Circles and the Talking Stick",
+   "seo_title": "Talking Circles and the Talking Stick: Learning to Listen",
+   "desc": "A talking circle changes how a group listens. How to run one respectfully, without staging a fake Indigenous ritual or promising healing.",
+   "kw": "talking circle, talking stick, active listening, sharing circle, circle practice, Indigenous protocols, healing circle, group facilitation, deep listening",
+   "photo": {
+    "src": "photos/p26-hero.webp",
+    "src_s": "photos/p26-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Talking Circles and the Talking Stick: Learning to Listen",
+    "pid": "p26"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "Does the talking stick belong to all Indigenous cultures?",
+     "No. Practices vary widely between nations; some use sticks, feathers, pipes, shells or other objects, and others don’t follow this model at all."
+    ],
+    [
+     "Can a talking circle be used at work or in a family?",
+     "Yes, as a contemporary adaptation, provided you acknowledge its Indigenous inspiration and don’t claim to be reproducing a particular ceremony."
+    ],
+    [
+     "Do I have to speak when the object reaches me?",
+     "No. Several contemporary protocols explicitly allow you to pass your turn."
+    ],
+    [
+     "Is a talking circle a form of therapy?",
+     "Not automatically. A sharing circle can support listening, but treating trauma or psychological disorders requires an appropriate professional setting."
+    ]
+   ],
+   "sources": [
+    "First Nations Pedagogy Online, “Talking Circles Overview.”",
+    "Trent University, Teaching Commons, “Talking Circles.”",
+    "Queen’s University, Guide to Indigenous Protocols – Talking Stick Protocol, 2019."
+   ]
+  },
+  "photos": [
+   "p04",
+   "p33"
+  ]
  },
  {
   "num": 130,
@@ -6544,6 +8074,1068 @@
    "Nicolas Sihlé, « Towards a Comparative Anthropology of the Buddhist Gift (and Other Transfers) », Religion Compass, 2015."
   ],
   "publish_at": "2027-08-04T16:00",
-  "published": null
+  "published": null,
+  "photos": [
+   "p02",
+   "p25"
+  ]
+ },
+ {
+  "num": 3,
+  "slug": "mediter-5-minutes-par-jour",
+  "title": "Méditer 5 minutes par jour : est-ce que ça sert vraiment à quelque chose ?",
+  "seo_title": "Méditer 5 minutes par jour : est-ce vraiment utile ?",
+  "desc": "Cinq minutes de méditation par jour suffisent-elles ? Ce que dit la recherche, ce qui change vraiment et un protocole chronométré pour commencer.",
+  "kw": "méditer 5 minutes par jour, méditation 5 minutes, méditation courte, méditation quotidienne, bienfaits méditation 5 minutes, méditation débutant, commencer la méditation, méditation pleine conscience, routine méditation",
+  "group": "bases",
+  "photo": {
+   "src": "photos/p05-hero.webp",
+   "src_s": "photos/p05-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Méditer 5 minutes par jour : est-ce vraiment utile ?",
+   "pid": "p05"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "Est-ce que 5 minutes de méditation par jour suffisent ?",
+    "Elles suffisent pour commencer et peuvent déjà produire certains effets sur le stress, l’attention et les ruminations lorsqu’elles sont pratiquées régulièrement. Pour approfondir la pratique, 10 à 20 minutes offrent davantage de temps."
+   ],
+   [
+    "Combien de jours faut-il méditer avant de ressentir quelque chose ?",
+    "Certaines personnes remarquent un apaisement dès une séance ; les changements plus durables nécessitent généralement plusieurs jours ou semaines de pratique régulière."
+   ],
+   [
+    "Dois-je absolument méditer tous les jours ?",
+    "Non. Mais une fréquence élevée facilite la création de l’habitude et multiplie les occasions d’entraîner l’attention."
+   ],
+   [
+    "Quelle méditation choisir pour cinq minutes ?",
+    "La respiration consciente, le body scan court ou une méditation guidée de pleine conscience sont d’excellents choix pour débuter."
+   ]
+  ],
+  "sources": [
+   "Sommerhoff A., Ehring T., Takano K. (2023), <em>Effects of Induced Mindfulness at Night on Repetitive Negative Thinking</em>, JMIR Mental Health.",
+   "Palmer R. et al. (2023), <em>The effect of ten versus twenty minutes of mindfulness meditation on state mindfulness and affect</em>, Scientific Reports.",
+   "Yüksel A. et al. (2021), <em>Mindful Breathing: Effects of a Five-Minute Practice on Perceived Stress and Mindfulness Among Patients With Cancer</em>, Oncology Nursing Forum."
+  ],
+  "publish_at": "2027-08-07T11:00",
+  "published": null,
+  "photos": [
+   "p22",
+   "p53"
+  ]
+ },
+ {
+  "num": 68,
+  "slug": "etats-modifies-de-conscience",
+  "title": "États modifiés de conscience : le spectre complet, sans substance",
+  "seo_title": "États modifiés de conscience : le spectre sans substance",
+  "desc": "Votre conscience change déjà plusieurs fois par jour. Rêve, hypnagogie, méditation, flow, transe, extase : une carte simple des états de conscience.",
+  "kw": "états modifiés de conscience, état modifié de conscience définition, états de conscience, état de transe, hypnose, rêve lucide, hypnagogie, état de flow, transe chamanique",
+  "group": "transe",
+  "photo": {
+   "src": "photos/p20-hero.webp",
+   "src_s": "photos/p20-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : États modifiés de conscience : le spectre sans substance",
+   "pid": "p20"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "Qu’est-ce qu’un état modifié de conscience ?",
+    "C’est une expression générale désignant une expérience dans laquelle certaines caractéristiques de la conscience habituelle — attention, perception du temps, conscience corporelle, sentiment de soi ou imagerie — changent sensiblement."
+   ],
+   [
+    "La méditation est-elle toujours un état modifié de conscience ?",
+    "Non. Certaines méditations restent très proches de la veille ordinaire, tandis que d’autres peuvent produire une absorption ou des modifications perceptives importantes."
+   ],
+   [
+    "Le flow est-il une transe ?",
+    "Les deux partagent notamment absorption et modification temporelle, mais le flow est généralement organisé autour d’une activité dirigée vers un objectif. Il vaut mieux parler de phénomènes apparentés plutôt que d’identité stricte."
+   ],
+   [
+    "Peut-on explorer les états modifiés sans drogue ?",
+    "Oui. Sommeil, rêve lucide, méditation, hypnose, musique, danse, chant, yoga nidra et pratiques contemplatives peuvent tous modifier l’expérience consciente sans substance psychoactive."
+   ]
+  ],
+  "sources": [
+   "Tart C.T. — <em>States of Consciousness</em>, ouvrage classique sur l’étude des états de conscience.",
+   "Csíkszentmihályi M. — <em>Flow: The Psychology of Optimal Experience</em>, référence fondamentale sur l’état de flow.",
+   "Voss U. et al. (2009) — <em>Lucid dreaming: a state of consciousness with features of both waking and non-lucid dreaming</em>, <em>Sleep</em>."
+  ],
+  "publish_at": "2027-08-11T16:00",
+  "published": null,
+  "en": {
+   "slug": "altered-states-of-consciousness-without-drugs",
+   "title": "Altered States of Consciousness: The Full Spectrum, Without Substances",
+   "seo_title": "Altered States of Consciousness Without Drugs",
+   "desc": "From dreams and hypnagogia to flow, hypnosis and ritual trance: a clear map of altered states of consciousness and how to explore them without drugs.",
+   "kw": "altered states of consciousness, states of consciousness, trance state, lucid dreaming, hypnagogia, flow state, hypnosis, shamanic trance, altered states without drugs",
+   "photo": {
+    "src": "en/altered-states-of-consciousness-without-drugs.webp",
+    "src_s": "en/altered-states-of-consciousness-without-drugs-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Altered States of Consciousness Without Drugs"
+   },
+   "schemas": [
+    {
+     "src": "en/altered-states-of-consciousness-without-drugs-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Altered States of Consciousness Without Drugs"
+    },
+    {
+     "src": "en/altered-states-of-consciousness-without-drugs-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Altered States of Consciousness Without Drugs"
+    }
+   ],
+   "insert": null,
+   "faq": [
+    [
+     "What is an altered state of consciousness?",
+     "It is a general term for an experience in which certain features of ordinary consciousness (attention, the perception of time, body awareness, the sense of self or imagery) change noticeably."
+    ],
+    [
+     "Is meditation always an altered state of consciousness?",
+     "No. Some forms of meditation remain very close to ordinary waking, while others can produce absorption or significant perceptual changes."
+    ],
+    [
+     "Is flow a trance?",
+     "The two share absorption and altered time perception in particular, but flow is generally organized around a goal-directed activity. It is better to speak of related phenomena than of strict identity."
+    ],
+    [
+     "Can you explore altered states without drugs?",
+     "Yes. Sleep, lucid dreaming, meditation, hypnosis, music, dance, chanting, yoga nidra and contemplative practices can all alter conscious experience without any psychoactive substance."
+    ]
+   ],
+   "sources": [
+    "Tart C.T. — <em>States of Consciousness</em>, a classic work on the study of states of consciousness.",
+    "Csíkszentmihályi M. — <em>Flow: The Psychology of Optimal Experience</em>, the foundational reference on the flow state.",
+    "Voss U. et al. (2009) — <em>Lucid dreaming: a state of consciousness with features of both waking and non-lucid dreaming</em>, <em>Sleep</em>."
+   ]
+  },
+  "photos": [
+   "p24",
+   "p52"
+  ]
+ },
+ {
+  "num": 72,
+  "slug": "guerir-enfant-interieur-exercices",
+  "title": "Guérir son enfant intérieur : par où commencer sans réécrire son enfance ?",
+  "seo_title": "Guérir son enfant intérieur : par où commencer ?",
+  "desc": "Enfant intérieur : une métaphore utile, pas un souvenir à reconstruire. Reconnaître vos réactions, identifier vos besoins et des exercices concrets.",
+  "kw": "guérir son enfant intérieur, enfant intérieur exercices, enfant intérieur psychologie, rencontrer son enfant intérieur, dialogue enfant intérieur, besoins émotionnels enfance, thérapie des schémas, reparentage, imagery rescripting",
+  "group": "psy",
+  "photo": {
+   "src": "fr/guerir-enfant-interieur-exercices.webp",
+   "src_s": "fr/guerir-enfant-interieur-exercices-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Guérir son enfant intérieur : par où commencer ?"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "Qu’est-ce que l’enfant intérieur en psychologie ?",
+    "C’est principalement une métaphore permettant de parler de besoins, croyances et réactions émotionnelles issus d’expériences précoces et pouvant rester actifs à l’âge adulte."
+   ],
+   [
+    "Comment savoir si mon enfant intérieur est blessé ?",
+    "Il n’existe pas de test clinique de « l’enfant intérieur blessé ». Des réactions répétitives très intenses face au rejet, à la critique, à l’abandon ou à l’erreur peuvent cependant indiquer des schémas émotionnels intéressants à explorer."
+   ],
+   [
+    "Peut-on guérir son enfant intérieur seul ?",
+    "Certaines pratiques d’introspection, d’écriture et de compassion peuvent être réalisées seul. Les expériences traumatiques importantes ou les symptômes dissociatifs sont mieux abordés avec un professionnel compétent."
+   ],
+   [
+    "Une visualisation peut-elle retrouver un souvenir oublié ?",
+    "Une image mentale peut ressembler à un souvenir sans être nécessairement historiquement exacte. Il faut éviter d’utiliser l’imagerie guidée comme preuve d’un événement dont on ne possédait auparavant aucun souvenir fiable."
+   ]
+  ],
+  "sources": [
+   "Young J.E., Klosko J.S., Weishaar M.E. — <em>Schema Therapy: A Practitioner’s Guide</em>, ouvrage fondamental sur les schémas précoces, les modes et le limited reparenting.",
+   "Uysal M. et al. (2026) — revue systématique récente sur les interventions de schema therapy chez l’enfant et l’adolescent, avec résultats prometteurs mais méthodologies encore hétérogènes.",
+   "Pelzer M. et al. (2025) — méta-analyse et revue systématique de l’imagery rescripting pour différentes émotions pénibles."
+  ],
+  "publish_at": "2027-08-14T11:00",
+  "published": null,
+  "en": {
+   "slug": "inner-child-healing-where-to-start",
+   "title": "Healing Your Inner Child: Where to Begin",
+   "seo_title": "Inner Child Healing: Where to Start (Without Myths)",
+   "desc": "What the inner child really is, how to spot its reactions, and simple exercises: finding the need, meeting your younger self, reparenting, safe limits.",
+   "kw": "inner child healing, inner child work, reparenting, schema therapy, imagery rescripting, emotional triggers, self-compassion, childhood wounds",
+   "photo": {
+    "src": "en/inner-child-healing-where-to-start.webp",
+    "src_s": "en/inner-child-healing-where-to-start-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Inner Child Healing: Where to Start (Without Myths)"
+   },
+   "schemas": [
+    {
+     "src": "en/inner-child-healing-where-to-start-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Inner Child Healing: Where to Start (Without Myths)"
+    },
+    {
+     "src": "en/inner-child-healing-where-to-start-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Inner Child Healing: Where to Start (Without Myths)"
+    }
+   ],
+   "insert": null,
+   "faq": [
+    [
+     "What is the inner child in psychology?",
+     "It is mainly a metaphor for talking about needs, beliefs and emotional reactions that stem from early experiences and can remain active in adulthood."
+    ],
+    [
+     "How do I know if my inner child is wounded?",
+     "There is no clinical test for a “wounded inner child.” However, very intense, repetitive reactions to rejection, criticism, abandonment or making mistakes can point to emotional patterns worth exploring."
+    ],
+    [
+     "Can you heal your inner child on your own?",
+     "Some introspection, writing and self-compassion practices can be done alone. Significant traumatic experiences or dissociative symptoms are best approached with a qualified professional."
+    ],
+    [
+     "Can a visualization recover a forgotten memory?",
+     "A mental image can feel like a memory without necessarily being historically accurate. Guided imagery should not be used as proof of an event you previously had no reliable memory of."
+    ]
+   ],
+   "sources": [
+    "Young J.E., Klosko J.S., Weishaar M.E. — <em>Schema Therapy: A Practitioner’s Guide</em>, foundational book on early schemas, modes and limited reparenting.",
+    "Uysal M. et al. (2026) — recent systematic review of schema therapy interventions in children and adolescents, with promising results but still heterogeneous methodologies.",
+    "Pelzer M. et al. (2025) — meta-analysis and systematic review of imagery rescripting for various distressing emotions."
+   ]
+  },
+  "photos": [
+   "p12",
+   "p15"
+  ]
+ },
+ {
+  "num": 147,
+  "slug": "mediter-dans-la-nature",
+  "title": "Méditer dans la nature : pourquoi dehors change réellement notre manière d’être attentif",
+  "seo_title": "Méditer dans la nature : ce que dehors change à l’attention",
+  "desc": "Méditer dans la nature change votre attention : fascination douce, effets sur le stress et trois pratiques simples pour méditer dehors, même dans un parc.",
+  "kw": "méditer dans la nature, méditation nature, méditation plein air, méditation dehors, attention restoration theory, nature et stress, méditation marche nature, mindfulness nature, concentration nature",
+  "group": "lieux",
+  "photo": {
+   "src": "photos/p24-hero.webp",
+   "src_s": "photos/p24-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Méditer dans la nature : ce que dehors change à l’attention",
+   "pid": "p24"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "Méditer dans la nature est-il plus efficace qu’à l’intérieur ?",
+    "Pas universellement. Les environnements naturels peuvent favoriser certains aspects de l’attention et du stress, mais les préférences et conditions individuelles comptent beaucoup."
+   ],
+   [
+    "Combien de temps faut-il méditer dehors ?",
+    "Dix à vingt minutes constituent un excellent début. Une séance courte mais régulière est plus réaliste qu’une longue sortie occasionnelle."
+   ],
+   [
+    "Un parc urbain suffit-il ?",
+    "Oui. Il n’est pas nécessaire d’être en forêt profonde pour pratiquer une méditation extérieure."
+   ],
+   [
+    "La nature peut-elle traiter l’anxiété ou la dépression ?",
+    "Les interventions basées sur la nature montrent des résultats prometteurs, mais elles doivent être considérées comme complémentaires et non comme remplacements automatiques de traitements adaptés."
+   ]
+  ],
+  "sources": [
+   "McDonnell & Strayer, « Immersion in nature enhances neural indices of executive attention », Scientific Reports, 2024.",
+   "Kaplan & Kaplan, The Experience of Nature: A Psychological Perspective, Cambridge University Press, 1989",
+   "Paredes-Céspedes et al., « The Effects of Nature Exposure Therapies on Stress, Depression, and Anxiety Levels: A Systematic Review », 2024."
+  ],
+  "publish_at": "2027-08-18T16:00",
+  "published": null,
+  "photos": [
+   "p46",
+   "p14"
+  ]
+ },
+ {
+  "num": 70,
+  "slug": "roue-de-medecine-quatre-directions",
+  "title": "La roue de médecine et les quatre directions : pratiquer sans transformer toutes les traditions autochtones en une seule",
+  "seo_title": "Roue de médecine et quatre directions : pratiquer",
+  "desc": "Il n’existe pas une roue de médecine amérindienne universelle. Histoire, couleurs, symbole des quatre directions, et une lecture personnelle respectueuse.",
+  "kw": "roue de médecine amérindienne, roue médecine quatre directions, roue de médecine signification, medicine wheel, quatre directions spiritualité, roue médecine couleurs, traditions amérindiennes",
+  "group": "chamanisme",
+  "photo": {
+   "src": "photos/p27-hero.webp",
+   "src_s": "photos/p27-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Roue de médecine et quatre directions : pratiquer",
+   "pid": "p27"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "Quelles sont les quatre directions de la roue de médecine ?",
+    "Les quatre directions cardinales sont généralement est, sud, ouest et nord. En revanche, leurs couleurs, animaux, saisons et significations varient selon les traditions et ne doivent pas être présentés comme universels."
+   ],
+   [
+    "Quelle couleur correspond à chaque direction ?",
+    "Il n’existe pas une correspondance unique valable pour toutes les nations autochtones. Plusieurs systèmes utilisent rouge, jaune, noir et blanc, mais leur disposition et leur interprétation varient."
+   ],
+   [
+    "Peut-on utiliser une roue de médecine si l’on n’est pas autochtone ?",
+    "On peut étudier les traditions et utiliser respectueusement le cercle ou les directions comme supports personnels. Il faut toutefois éviter de revendiquer une cérémonie, une identité ou une autorité traditionnelle que l’on n’a pas reçue."
+   ],
+   [
+    "La roue de médecine est-elle chamanique ?",
+    "Le terme « chamanisme » est souvent appliqué très largement à des pratiques autochtones qui ne se désignent pas nécessairement ainsi. Il est donc plus précis de parler de la tradition ou de la nation concernée lorsque celle-ci est connue."
+   ]
+  ],
+  "sources": [
+   "National Museum of the American Indian — ressources pédagogiques sur les cultures et connaissances des peuples autochtones d’Amérique du Nord.",
+   "Royal Alberta Museum — ressources sur les medicine wheels des Plaines et leur contexte archéologique et culturel.",
+   "Parks Canada — documentation sur les sites, paysages culturels et traditions autochtones des Plaines, utile pour replacer les structures circulaires et les pratiques dans des contextes précis plutôt que dans une prétendue tradition pan-amérindienne."
+  ],
+  "publish_at": "2027-08-21T11:00",
+  "published": null,
+  "en": {
+   "slug": "medicine-wheel-four-directions-meaning",
+   "title": "The Medicine Wheel and the Four Directions",
+   "seo_title": "Medicine Wheel and the Four Directions: A Respectful Guide",
+   "desc": "What does the medicine wheel really mean? Why the four directions and colors vary between nations, and how to meditate with them without appropriation.",
+   "kw": "medicine wheel, four directions, medicine wheel meaning, medicine wheel colors, four directions meditation, Bighorn Medicine Wheel, Indigenous traditions, cultural appropriation",
+   "photo": {
+    "src": "en/medicine-wheel-four-directions-meaning.webp",
+    "src_s": "en/medicine-wheel-four-directions-meaning-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Medicine Wheel and the Four Directions: A Respectful Guide"
+   },
+   "schemas": [
+    {
+     "src": "en/medicine-wheel-four-directions-meaning-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Medicine Wheel and the Four Directions: A Respectful Guide"
+    },
+    {
+     "src": "en/medicine-wheel-four-directions-meaning-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Medicine Wheel and the Four Directions: A Respectful Guide"
+    }
+   ],
+   "insert": null,
+   "faq": [
+    [
+     "What are the four directions of the medicine wheel?",
+     "The four cardinal directions are generally east, south, west and north. Their colors, animals, seasons and meanings, however, vary between traditions and should not be presented as universal."
+    ],
+    [
+     "Which color goes with each direction?",
+     "There is no single correspondence that holds for every Indigenous nation. Several systems use red, yellow, black and white, but their arrangement and interpretation vary."
+    ],
+    [
+     "Can you use a medicine wheel if you are not Indigenous?",
+     "You can study the traditions and respectfully use the circle or the directions as personal supports. You should, however, avoid claiming a ceremony, an identity or a traditional authority you have not received."
+    ],
+    [
+     "Is the medicine wheel shamanic?",
+     "The term “shamanism” is often applied very broadly to Indigenous practices that do not necessarily describe themselves that way. It is therefore more accurate to name the tradition or nation concerned when it is known."
+    ]
+   ],
+   "sources": [
+    "National Museum of the American Indian — educational resources on the cultures and knowledge of the Indigenous peoples of North America.",
+    "Royal Alberta Museum — resources on Plains medicine wheels and their archaeological and cultural context.",
+    "Parks Canada — documentation on the sites, cultural landscapes and Indigenous traditions of the Plains, useful for placing circular structures and practices in specific contexts rather than in a supposed pan-Native American tradition."
+   ]
+  },
+  "photos": [
+   "p31",
+   "p45"
+  ]
+ },
+ {
+  "num": 137,
+  "slug": "parentalite-consciente-patience",
+  "title": "Parentalité consciente : la patience se muscle, surtout quand personne ne veut mettre ses chaussures",
+  "seo_title": "Parentalité consciente : la patience se muscle",
+  "desc": "La parentalité consciente n’exige pas d’être calme 24 h sur 24. Saturation, émotions de l’enfant, pratique quotidienne pour les parents sans temps libre.",
+  "kw": "parentalité consciente, mindful parenting, méditation parents, patience parent, stress parental, pleine conscience parentalité, relation parent enfant, gérer colère parent, émotions enfants",
+  "group": "vie",
+  "photo": {
+   "src": "photos/p09-hero.webp",
+   "src_s": "photos/p09-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Parentalité consciente : la patience se muscle",
+   "pid": "p09"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "La parentalité consciente réduit-elle le stress parental ?",
+    "Les grandes synthèses récentes suggèrent un effet favorable, particulièrement sur le stress parental, mais les résultats concernant d’autres dimensions restent plus incertains."
+   ],
+   [
+    "Faut-il méditer avec ses enfants ?",
+    "Non. Le parent peut pratiquer seul. Des exercices familiaux peuvent être ajoutés si l’enfant les apprécie, mais ils ne doivent pas devenir une obligation."
+   ],
+   [
+    "Être mindful signifie-t-il ne jamais crier ?",
+    "Non. L’objectif est de réduire les réactions automatiques, reconnaître les erreurs et réparer lorsqu’elles surviennent."
+   ],
+   [
+    "La mindfulness suffit-elle pour gérer un enfant présentant de grandes difficultés comportementales ?",
+    "Non. Elle peut aider le parent, mais un accompagnement pédiatrique, psychologique ou éducatif adapté peut être nécessaire selon la situation."
+   ]
+  ],
+  "sources": [
+   "Townshend et al., « A Systematic Meta-Review of Mindfulness-Based and Mindfulness-Integrated Programs with Parents and Families », 2026.",
+   "Burgdorf et al., « The Effect of Mindfulness Interventions for Parents on Parenting Stress and Youth Psychological Outcomes », 2019.",
+   "Cai et al., « The efficacy of mindful parenting interventions: A systematic review and meta-analysis », International Journal of Nursing Studies, 2021."
+  ],
+  "publish_at": "2027-08-25T16:00",
+  "published": null,
+  "photos": [
+   "p05",
+   "p36"
+  ]
+ },
+ {
+  "num": 6,
+  "slug": "combien-de-temps-mediter-par-jour",
+  "title": "Combien de temps méditer par jour ? La vraie réponse",
+  "seo_title": "Combien de temps méditer par jour ? La vraie réponse",
+  "desc": "5, 10, 20 minutes ou plus ? Découvrez combien de temps méditer par jour selon votre profil, et comment augmenter la durée sans abandonner.",
+  "kw": "combien de temps méditer, durée méditation, combien de minutes méditer par jour, durée idéale méditation, méditation 10 minutes, méditation 20 minutes, méditation débutant, fréquence méditation, dose méditation",
+  "group": "bases",
+  "photo": {
+   "src": "photos/p12-hero.webp",
+   "src_s": "photos/p12-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Combien de temps méditer par jour ? La vraie réponse",
+   "pid": "p12"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "20 minutes de méditation par jour sont-elles suffisantes ?",
+    "Oui. Pour la plupart des pratiques quotidiennes, vingt minutes représentent déjà une séance substantielle."
+   ],
+   [
+    "Peut-on méditer trop longtemps ?",
+    "Oui, surtout si l’on augmente brutalement la durée ou si la pratique déclenche un inconfort psychologique important. Plus n’est pas automatiquement mieux."
+   ],
+   [
+    "Vaut-il mieux 10 minutes chaque jour ou une heure une fois par semaine ?",
+    "Pour créer une compétence et une habitude, une pratique courte et fréquente est généralement plus intéressante."
+   ],
+   [
+    "Puis-je méditer deux fois par jour ?",
+    "Absolument. Deux séances courtes matin et soir sont souvent plus faciles à intégrer qu’une seule longue séance."
+   ]
+  ],
+  "sources": [
+   "Palmer R. et al. (2023), <em>The effect of ten versus twenty minutes of mindfulness meditation on state mindfulness and affect</em>, Scientific Reports.",
+   "Riordan K.M. et al. (2024), <em>How often should I meditate? A randomized trial examining the role of meditation frequency when total amount of meditation is held constant</em>, Journal of Counseling Psychology.",
+   "JAMA Network Open (2025), <em>Digital Meditation to Target Employee Stress: A Randomized Clinical Trial</em>."
+  ],
+  "publish_at": "2027-08-28T11:00",
+  "published": null,
+  "photos": [
+   "p09",
+   "p32"
+  ]
+ },
+ {
+  "num": 97,
+  "slug": "bibliotheque-alexandrie-histoire-destruction",
+  "title": "D’Alexandrie aux annales célestes : pourquoi l’humanité rêve depuis toujours d’une bibliothèque qui contiendrait tout",
+  "seo_title": "Bibliothèque d’Alexandrie : le rêve d’un savoir total",
+  "desc": "La bibliothèque d’Alexandrie n’a sans doute pas disparu en un seul incendie. Son histoire et pourquoi l’idée d’une bibliothèque totale persiste.",
+  "kw": "bibliothèque Alexandrie histoire, bibliothèque Alexandrie destruction, incendie bibliothèque Alexandrie, qui a détruit bibliothèque Alexandrie, grande bibliothèque Alexandrie, Mouseion Alexandrie, savoir antique perdu, histoire du savoir",
+  "group": "lieux",
+  "photo": {
+   "src": "photos/p47-hero.webp",
+   "src_s": "photos/p47-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Bibliothèque d’Alexandrie : le rêve d’un savoir total",
+   "pid": "p47"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "Qui a détruit la Bibliothèque d’Alexandrie ?",
+    "Il n’existe probablement pas un seul responsable ni un seul incendie final : son déclin semble résulter d’une combinaison de pertes de mécénat, conflits, incendies et transformations institutionnelles sur plusieurs siècles. (World History Encyclopedia)"
+   ],
+   [
+    "Jules César a-t-il brûlé la bibliothèque ?",
+    "Son incendie de 48 av. J.-C. détruisit des livres ou dépôts à Alexandrie, mais il est contesté qu’il ait détruit à lui seul toute la Grande Bibliothèque. (World History Encyclopedia)"
+   ],
+   [
+    "Les Arabes ont-ils détruit la Bibliothèque d’Alexandrie ?",
+    "Le récit attribuant au calife Omar l’ordre de brûler les livres apparaît des siècles après les événements et est généralement considéré comme historiquement non crédible. (World History Encyclopedia)"
+   ],
+   [
+    "Les annales akashiques sont-elles l’équivalent spirituel de la Bibliothèque d’Alexandrie ?",
+    "Seulement comme métaphore moderne : la bibliothèque alexandrine était une institution historique matérielle, tandis que les annales akashiques appartiennent à des traditions ésotériques et ne constituent pas une archive dont l’existence ait été scientifiquement établie."
+   ]
+  ],
+  "sources": [
+   "Canfora L. — <em>The Vanished Library / La Véritable Histoire de la Bibliothèque d’Alexandrie</em>, étude historique du destin de la bibliothèque et des sources relatives à sa destruction.",
+   "World History Encyclopedia — synthèses historiques consacrées à la Bibliothèque d’Alexandrie, son déclin et les différentes traditions entourant sa disparition. (<a href=\"https://www.worldhistory.org/article/207/what-happened-to-the-great-library-at-alexandria/\" target=\"_blank\" rel=\"noopener nofollow\">World History Encyclopedia</a>)",
+   "Borges J.L. — <em>La Bibliothèque de Babel</em>, nouvelle philosophique majeure sur l’idée d’une bibliothèque contenant virtuellement toutes les combinaisons possibles de livres."
+  ],
+  "publish_at": "2027-09-01T16:00",
+  "published": null,
+  "en": {
+   "slug": "library-of-alexandria-lost-knowledge",
+   "title": "From Alexandria to the celestial records: why humanity has always dreamed of a library that would contain everything",
+   "seo_title": "Library of Alexandria: Myth, Fire and Lost Knowledge",
+   "desc": "Who really destroyed the Library of Alexandria? Discover its slow decline, the Caesar myth, Borges’ Library of Babel and our dream of a universal library.",
+   "kw": "library Alexandria history, who destroyed Alexandria library, library Alexandria destruction, great library Alexandria, lost ancient knowledge, library of Babel, akashic records, universal library",
+   "photo": {
+    "src": "photos/p47-hero.webp",
+    "src_s": "photos/p47-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Library of Alexandria: Myth, Fire and Lost Knowledge",
+    "pid": "p47"
+   },
+   "schemas": [
+    {
+     "src": "en/library-of-alexandria-lost-knowledge-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Library of Alexandria: Myth, Fire and Lost Knowledge"
+    },
+    {
+     "src": "en/library-of-alexandria-lost-knowledge-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Library of Alexandria: Myth, Fire and Lost Knowledge"
+    }
+   ],
+   "insert": null,
+   "faq": [
+    [
+     "Who destroyed the Library of Alexandria?",
+     "There is probably not a single culprit nor a single final fire: its decline seems to result from a combination of loss of patronage, conflicts, fires and institutional transformations over several centuries. (World History Encyclopedia)"
+    ],
+    [
+     "Did Julius Caesar burn the library?",
+     "His fire of 48 BCE destroyed books or warehouses in Alexandria, but it is disputed that he single-handedly destroyed the entire Great Library. (World History Encyclopedia)"
+    ],
+    [
+     "Did the Arabs destroy the Library of Alexandria?",
+     "The story attributing the order to burn the books to the Caliph Omar appears centuries after the events and is generally considered historically not credible. (World History Encyclopedia)"
+    ],
+    [
+     "Are the Akashic Records the spiritual equivalent of the Library of Alexandria?",
+     "Only as a modern metaphor: the Alexandrian library was a material historical institution, while the Akashic records belong to esoteric traditions and do not constitute an archive whose existence has been scientifically established."
+    ]
+   ],
+   "sources": [
+    "Canfora L. — <em>The Vanished Library / La Véritable Histoire de la Bibliothèque d’Alexandrie</em>, historical study of the fate of the library and the sources relating to its destruction.",
+    "World History Encyclopedia — historical summaries dedicated to the Library of Alexandria, its decline and the different traditions surrounding its disappearance. (<a href=\"https://www.worldhistory.org/article/207/what-happened-to-the-great-library-at-alexandria/?utm_source=chatgpt.com\" target=\"_blank\" rel=\"noopener nofollow\">World History Encyclopedia</a>)",
+    "Borges J.L. — <em>The Library of Babel</em>, major philosophical short story on the idea of a library containing virtually every possible combination of books."
+   ]
+  },
+  "photos": [
+   "p19",
+   "p43"
+  ]
+ },
+ {
+  "num": 80,
+  "slug": "arreter-de-ruminer-techniques",
+  "title": "Rumination mentale : 6 techniques pour sortir de la boucle sans essayer de « ne plus penser »",
+  "seo_title": "Arrêter de ruminer : 6 techniques pour sortir de la boucle",
+  "desc": "Réfléchir cherche une sortie, ruminer tourne en rond. Six techniques pour sortir des pensées en boucle sans essayer de ne plus penser.",
+  "kw": "arrêter de ruminer techniques, rumination mentale, pensées en boucle, pensées répétitives, arrêter de trop penser, overthinking, comment arrêter de penser, méditation anti-rumination",
+  "group": "psy",
+  "photo": {
+   "src": "photos/p41-hero.webp",
+   "src_s": "photos/p41-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Arrêter de ruminer : 6 techniques pour sortir de la boucle",
+   "pid": "p41"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "Comment arrêter de ruminer immédiatement ?",
+    "Il n’existe pas de bouton universel permettant d’interrompre instantanément toute rumination, mais identifier explicitement la boucle, vérifier s’il existe une action possible puis déplacer volontairement l’attention vers une activité physique ou sensorielle peut aider à rompre son automatisme."
+   ],
+   [
+    "La méditation aide-t-elle contre les pensées en boucle ?",
+    "Elle peut développer une meilleure conscience métacognitive et aider à reconnaître les pensées comme des événements mentaux, mais elle doit être utilisée comme entraînement de l’attention plutôt que comme tentative forcée de supprimer toute pensée."
+   ],
+   [
+    "Pourquoi est-ce que je rumine surtout le soir ?",
+    "La diminution des distractions, la fatigue et l’absence d’actions possibles peuvent rendre les préoccupations beaucoup plus saillantes au coucher ; déplacer volontairement la réflexion vers un créneau plus tôt dans la journée peut donc être utile."
+   ],
+   [
+    "Rumination et réflexion sont-elles différentes ?",
+    "Oui : une réflexion productive tend vers une information, une décision ou une action, tandis que la rumination répète souvent les mêmes scénarios sans produire de solution nouvelle."
+   ]
+  ],
+  "sources": [
+   "Nolen-Hoeksema S., Wisco B.E., Lyubomirsky S. — <em>Rethinking Rumination</em>, <em>Perspectives on Psychological Science</em>, article de référence sur la rumination et ses conséquences psychologiques.",
+   "Segal Z.V., Williams J.M.G., Teasdale J.D. — <em>Mindfulness-Based Cognitive Therapy for Depression</em>, ouvrage majeur sur la MBCT et la relation aux pensées automatiques.",
+   "Watkins E.R. — travaux sur la rumination-focused cognitive behavioural therapy et la distinction entre styles de pensée répétitifs constructifs et non constructifs."
+  ],
+  "publish_at": "2027-09-04T11:00",
+  "published": null,
+  "en": {
+   "slug": "how-to-stop-ruminating-techniques",
+   "title": "Mental Rumination: 6 Techniques to Break the Cycle",
+   "seo_title": "How to Stop Ruminating: 6 Techniques That Work",
+   "desc": "Rumination is not reflection. Six techniques, from worry time and defusion to mindfulness, to break looping thoughts without trying to stop thinking.",
+   "kw": "how to stop ruminating, rumination, looping thoughts, overthinking, repetitive thoughts, worry time, cognitive defusion, mindfulness for rumination, negative thoughts",
+   "photo": {
+    "src": "photos/p41-hero.webp",
+    "src_s": "photos/p41-hero-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: How to Stop Ruminating: 6 Techniques That Work",
+    "pid": "p41"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "How can I stop ruminating right away?",
+     "There is no universal button that instantly stops all rumination, but explicitly identifying the loop, checking whether there is a possible action and then deliberately shifting your attention to a physical or sensory activity can help break its automatic pull."
+    ],
+    [
+     "Does meditation help with looping thoughts?",
+     "It can build stronger metacognitive awareness and help you recognize thoughts as mental events, but it should be used as attention training rather than as a forced attempt to suppress every thought."
+    ],
+    [
+     "Why do I ruminate mostly at night?",
+     "Fewer distractions, fatigue and the lack of any possible action can make worries far more prominent at bedtime; deliberately moving your thinking to a slot earlier in the day can therefore help."
+    ],
+    [
+     "Are rumination and reflection different?",
+     "Yes: productive reflection moves toward information, a decision or an action, whereas rumination often repeats the same scenarios without producing any new solution."
+    ]
+   ],
+   "sources": [
+    "Nolen-Hoeksema S., Wisco B.E., Lyubomirsky S. — <em>Rethinking Rumination</em>, <em>Perspectives on Psychological Science</em>, a key article on rumination and its psychological consequences.",
+    "Segal Z.V., Williams J.M.G., Teasdale J.D. — <em>Mindfulness-Based Cognitive Therapy for Depression</em>, a major work on MBCT and our relationship to automatic thoughts.",
+    "Watkins E.R. — work on rumination-focused cognitive behavioural therapy and the distinction between constructive and unconstructive styles of repetitive thinking."
+   ]
+  },
+  "photos": [
+   "p16",
+   "p44"
+  ]
+ },
+ {
+  "num": 127,
+  "slug": "rituel-pleine-lune-et-nouvelle-lune",
+  "title": "Rituels de pleine lune et de nouvelle lune : symbolique, pratique et réalité scientifique",
+  "seo_title": "Rituel de pleine lune et de nouvelle lune : le guide",
+  "desc": "Pleine lune et nouvelle lune : symbolique, rituels concrets d’intention et de bilan, et ce que la science dit vraiment de l’influence de la Lune.",
+  "kw": "rituel pleine lune, rituel nouvelle lune, intentions nouvelle lune, lâcher-prise pleine lune, rituel lunaire, cycle lunaire spiritualité, phases de la lune, symbolisme lunaire, pleine lune science, influence lune comportement",
+  "group": "energie",
+  "photo": {
+   "src": "fr/rituel-pleine-lune-et-nouvelle-lune.webp",
+   "src_s": "fr/rituel-pleine-lune-et-nouvelle-lune-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Rituel de pleine lune et de nouvelle lune : le guide"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "La pleine lune influence-t-elle vraiment notre comportement ?",
+    "Les grandes revues scientifiques historiques n’identifient pas d’effet général et robuste sur la violence, les crises ou d’autres comportements humains."
+   ],
+   [
+    "Quelle différence entre rituel de pleine lune et de nouvelle lune ?",
+    "Dans de nombreuses pratiques contemporaines, la nouvelle lune sert à définir des intentions et la pleine lune à faire le bilan et symboliser le lâcher-prise. Il s’agit d’un cadre moderne plutôt que d’une règle universelle."
+   ],
+   [
+    "Faut-il faire son rituel exactement à l’heure de la phase lunaire ?",
+    "Non. Pour une pratique symbolique personnelle, le jour même ou une période proche suffit largement."
+   ],
+   [
+    "La manifestation à la nouvelle lune est-elle scientifiquement démontrée ?",
+    "Non. Une intention peut cependant aider à clarifier un objectif lorsqu’elle est transformée en actions concrètes."
+   ]
+  ],
+  "sources": [
+   "Culver, Rotton & Kelly, « Moon Mechanisms and Myths: A Critical Appraisal of Explanations of Purported Lunar Effects on Human Behavior », Perceptual and Motor Skills, 1988.",
+   "Martens, Kelly & Saklofske, « Lunar Phase and Birthrate: A 50-Year Critical Review », Psychological Reports, 1988.",
+   "Byrnes & Kelly, « Crisis Calls and Lunar Cycles: A Twenty-Year Review », Psychological Reports, 1992."
+  ],
+  "publish_at": "2027-09-08T16:00",
+  "published": null,
+  "en": {
+   "slug": "full-moon-new-moon-rituals",
+   "title": "Full Moon and New Moon Rituals",
+   "seo_title": "Full Moon and New Moon Rituals: Meaning and Practice",
+   "desc": "How to build simple full moon and new moon rituals for intentions and release, and what science actually says about the Moon's effect on behavior.",
+   "kw": "full moon ritual, new moon ritual, new moon intentions, full moon meditation, lunar cycle spirituality, moon phases, full moon effects, lunar journaling",
+   "photo": {
+    "src": "en/full-moon-new-moon-rituals.webp",
+    "src_s": "en/full-moon-new-moon-rituals-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Full Moon and New Moon Rituals: Meaning and Practice"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "Does the full moon really influence our behavior?",
+     "The major historical scientific reviews have not identified any general, robust effect on violence, crises or other human behaviors."
+    ],
+    [
+     "What's the difference between a full moon ritual and a new moon ritual?",
+     "In many contemporary practices, the new moon is used to set intentions and the full moon to take stock and symbolize letting go. It is a modern framework rather than a universal rule."
+    ],
+    [
+     "Do you have to do your ritual at the exact time of the lunar phase?",
+     "No. For a personal symbolic practice, the same day or a nearby period is more than enough."
+    ],
+    [
+     "Is new moon manifestation scientifically proven?",
+     "No. An intention can, however, help clarify a goal when it is turned into concrete actions."
+    ]
+   ],
+   "sources": [
+    "Culver, Rotton & Kelly, “Moon Mechanisms and Myths: A Critical Appraisal of Explanations of Purported Lunar Effects on Human Behavior,” Perceptual and Motor Skills, 1988.",
+    "Martens, Kelly & Saklofske, “Lunar Phase and Birthrate: A 50-Year Critical Review,” Psychological Reports, 1988.",
+    "Byrnes & Kelly, “Crisis Calls and Lunar Cycles: A Twenty-Year Review,” Psychological Reports, 1992."
+   ]
+  },
+  "photos": [
+   "p23",
+   "p01"
+  ]
+ },
+ {
+  "num": 146,
+  "slug": "symboles-universels-cercle-spirale-arbre",
+  "title": "Cercle, spirale, arbre : pourquoi certains symboles traversent les cultures sans avoir un sens universel",
+  "seo_title": "Cercle, spirale, arbre : des symboles vraiment universels ?",
+  "desc": "Cercle, spirale, arbre : découvrez pourquoi ces formes traversent les cultures sans avoir un sens universel, et comment les utiliser en méditation.",
+  "kw": "symboles universels, cercle symbole, spirale symbole, arbre de vie, arbre cosmique, axis mundi, Jung archétypes, symbolisme comparé, histoire des symboles",
+  "group": "lieux",
+  "photo": {
+   "src": "photos/p16-hero.webp",
+   "src_s": "photos/p16-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Cercle, spirale, arbre : des symboles vraiment universels ?",
+   "pid": "p16"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "Le cercle possède-t-il une signification universelle ?",
+    "Non au sens d’un code identique dans toutes les sociétés. Des associations avec totalité, cycle ou unité sont fréquentes, mais la signification dépend du contexte culturel."
+   ],
+   [
+    "La spirale signifie-t-elle toujours évolution spirituelle ?",
+    "Non. Cette interprétation est populaire aujourd’hui, mais les spirales historiques peuvent avoir des fonctions décoratives, symboliques ou techniques différentes."
+   ],
+   [
+    "Pourquoi l’arbre de vie apparaît-il dans plusieurs religions ?",
+    "La structure de l’arbre se prête naturellement aux métaphores de croissance et de connexion entre différents niveaux, mais chaque tradition développe sa propre cosmologie."
+   ],
+   [
+    "Peut-on utiliser librement ces symboles en méditation ?",
+    "Oui comme supports personnels, tout en évitant d’attribuer artificiellement à une culture ancienne une interprétation moderne sans sources."
+   ]
+  ],
+  "sources": [
+   "C. G. Jung, Archetypes and the Collective Unconscious, Collected Works vol. 9, Princeton University Press",
+   "Metropolitan Museum of Art, objets étrusques en forme de spirale, VIIe–VIe siècles av. J.-C.",
+   "Hallie Ford Museum of Art, « The Tree of Life », dossier sur le symbolisme alchimique."
+  ],
+  "publish_at": "2027-09-11T11:00",
+  "published": null,
+  "photos": [
+   "p49",
+   "p48"
+  ]
+ },
+ {
+  "num": 150,
+  "slug": "meditation-aube-lever-du-soleil",
+  "title": "La méditation de l’aube : commencer la journée entre silence, lumière et clarté mentale",
+  "seo_title": "Méditation de l’aube : silence, lumière et clarté mentale",
+  "desc": "Méditer à l’aube : Brahma Muhurta, lumière du matin et rythme circadien, avec une méditation de vingt minutes à pratiquer sans sacrifier votre sommeil.",
+  "kw": "méditation de l’aube, méditation matin, méditer au lever du soleil, méditation matinale, Brahma Muhurta, lumière du matin, rythme circadien, routine méditation matin, réveil conscient",
+  "group": "vie",
+  "photo": {
+   "src": "photos/p44-hero.webp",
+   "src_s": "photos/p44-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Méditation de l’aube : silence, lumière et clarté mentale",
+   "pid": "p44"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "À quelle heure faire une méditation de l’aube ?",
+    "Vous pouvez commencer vingt à trente minutes avant le lever du soleil ou simplement peu après votre réveil. Il n’existe pas d’heure universelle adaptée à tous."
+   ],
+   [
+    "Qu’est-ce que Brahma Muhurta ?",
+    "Dans les traditions ayurvédiques et yogiques, c’est une période précédant l’aube considérée comme favorable aux pratiques contemplatives. L’Ashtanga Hridaya recommande de se lever durant cette période dans le cadre de la routine quotidienne."
+   ],
+   [
+    "La lumière du matin influence-t-elle réellement le rythme circadien ?",
+    "Oui. La lumière est un signal majeur pour l’horloge circadienne, et l’exposition matinale peut avancer certains rythmes biologiques selon son timing et son intensité."
+   ],
+   [
+    "Faut-il sacrifier du sommeil pour méditer tôt ?",
+    "Non. Le manque chronique de sommeil annulerait une grande partie de l’intérêt recherché. Une méditation plus tardive avec sommeil suffisant vaut mieux qu’un réveil spirituellement ambitieux mais physiologiquement épuisant."
+   ]
+  ],
+  "sources": [
+   "Vagbhata, Ashtanga Hridaya, Sutrasthana 2.1, passage sur Brahma Muhurta.",
+   "López-Velasco & Cajochen, « Can Morning Light Phase Advance Human Melatonin Rhythms in Less Than 24 h? », Journal of Pineal Research, 2026.",
+   "Kirschbaum et al./travaux sur la cortisol awakening response, notamment « The cortisol response to awakening in relation to different challenge tests and a 12-hour cortisol rhythm », 1999."
+  ],
+  "publish_at": "2027-09-15T16:00",
+  "published": null,
+  "photos": [
+   "p17",
+   "p34"
+  ]
+ },
+ {
+  "num": 78,
+  "slug": "journal-developpement-personnel-3-lignes",
+  "title": "Tenir un journal d’évolution : 3 lignes par soir qui valent mieux que 14 pages une fois par mois",
+  "seo_title": "Journal de développement personnel : 3 lignes par soir",
+  "desc": "Trois lignes par soir valent mieux que 14 pages par mois : observer, reconnaître, ajuster, puis une revue hebdomadaire et un protocole de 30 jours.",
+  "kw": "journal développement personnel, journal quotidien, journal introspection, écrire journal tous les jours, journaling, journal émotionnel, journal évolution personnelle, journal de bord personnel",
+  "group": "psy",
+  "photo": {
+   "src": "photos/p33-hero.webp",
+   "src_s": "photos/p33-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Journal de développement personnel : 3 lignes par soir",
+   "pid": "p33"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "Faut-il écrire dans son journal tous les jours ?",
+    "La régularité aide à observer des tendances, mais manquer une journée n’annule rien ; une pratique imparfaite maintenue pendant plusieurs mois est probablement plus utile qu’une routine parfaite abandonnée après cinq jours."
+   ],
+   [
+    "Combien de temps faut-il écrire ?",
+    "Deux à cinq minutes peuvent suffire pour un journal minimaliste, surtout si l’objectif principal est le suivi quotidien plutôt qu’un travail d’écriture expressive approfondi."
+   ],
+   [
+    "Journal de gratitude et journal émotionnel sont-ils identiques ?",
+    "Non, le premier met surtout l’accent sur les éléments appréciés, tandis que le second cherche davantage à identifier émotions, déclencheurs et besoins ; les deux peuvent toutefois être combinés."
+   ],
+   [
+    "Tenir un journal remplace-t-il une thérapie ?",
+    "Non. L’écriture peut soutenir la réflexion mais ne remplace pas un accompagnement professionnel lorsqu’une souffrance psychologique importante, durable ou invalidante est présente."
+   ]
+  ],
+  "sources": [
+   "Pennebaker J.W., Smyth J.M. — <em>Opening Up by Writing It Down</em>, référence majeure sur l’écriture expressive et la mise en récit des expériences émotionnelles.",
+   "Porras-Segovia A. et al. (2024) — revue systématique et méta-analyse sur les thérapies utilisant l’écriture créative pour la dépression et les idées suicidaires. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/38717657/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+   "Baikie K.A., Wilhelm K. — <em>Emotional and physical health benefits of expressive writing</em>, revue classique sur l’écriture expressive, ses usages et ses limites."
+  ],
+  "publish_at": "2027-09-18T11:00",
+  "published": null,
+  "en": {
+   "slug": "personal-growth-journal-three-lines",
+   "title": "Keeping a Personal Growth Journal: 3 Lines Every Evening",
+   "seo_title": "Personal Growth Journal: 3 Lines Every Evening",
+   "desc": "Forget nine-page entries. Three lines each evening, a five-minute weekly review and a 30-day protocol turn journaling into real self-observation.",
+   "kw": "personal growth journal, daily journaling, journaling for beginners, emotional journal, evening journal, self-reflection, expressive writing, weekly review, journaling prompts",
+   "photo": {
+    "src": "en/personal-growth-journal-three-lines.webp",
+    "src_s": "en/personal-growth-journal-three-lines-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Illustration for the article: Personal Growth Journal: 3 Lines Every Evening"
+   },
+   "schemas": [
+    {
+     "src": "en/personal-growth-journal-three-lines-diagram-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 1: Personal Growth Journal: 3 Lines Every Evening"
+    },
+    {
+     "src": "en/personal-growth-journal-three-lines-diagram-2.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Diagram 2: Personal Growth Journal: 3 Lines Every Evening"
+    }
+   ],
+   "insert": null,
+   "faq": [
+    [
+     "Do You Need to Write in Your Journal Every Day?",
+     "Regularity helps you spot patterns, but missing a day doesn’t cancel anything out; an imperfect practice kept up for several months is probably more useful than a perfect routine abandoned after five days."
+    ],
+    [
+     "How Long Should You Write?",
+     "Two to five minutes can be enough for a minimalist journal, especially if the main goal is daily tracking rather than in-depth expressive writing."
+    ],
+    [
+     "Are a Gratitude Journal and an Emotional Journal the Same Thing?",
+     "No. The first focuses mainly on what you appreciated, while the second aims more at identifying emotions, triggers and needs; the two can, however, be combined."
+    ],
+    [
+     "Can Keeping a Journal Replace Therapy?",
+     "No. Writing can support reflection, but it doesn’t replace professional support when significant, lasting or disabling psychological distress is present."
+    ]
+   ],
+   "sources": [
+    "Pennebaker J.W., Smyth J.M. — <em>Opening Up by Writing It Down</em>, a major reference on expressive writing and putting emotional experiences into words.",
+    "Porras-Segovia A. et al. (2024) — systematic review and meta-analysis on therapies using creative writing for depression and suicidal ideation. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/38717657/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Baikie K.A., Wilhelm K. — <em>Emotional and physical health benefits of expressive writing</em>, a classic review of expressive writing, its uses and its limits."
+   ]
+  },
+  "photos": [
+   "p18",
+   "p39"
+  ]
+ },
+ {
+  "num": 149,
+  "slug": "meditation-pleine-lune-rituel",
+  "title": "Méditation de pleine lune : rituel, sens et mode d’emploi sans confondre symbolisme et science",
+  "seo_title": "Méditation de pleine lune : rituel, sens et mode d’emploi",
+  "desc": "Méditation de pleine lune : le sens du rituel, ce que dit la science sur le sommeil et une pratique guidée de quinze minutes pour votre bilan du mois.",
+  "kw": "méditation pleine lune, rituel pleine lune, pleine lune spiritualité, méditation lunaire, lâcher-prise pleine lune, intentions pleine lune, pleine lune sommeil, journal pleine lune, symbolisme de la pleine lune",
+  "group": "energie",
+  "photo": {
+   "src": "photos/p37-hero.webp",
+   "src_s": "photos/p37-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Méditation de pleine lune : rituel, sens et mode d’emploi",
+   "pid": "p37"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "Faut-il voir la Lune pour faire la méditation ?",
+    "Non. La pleine lune sert surtout de repère temporel et symbolique ; le rituel peut parfaitement être pratiqué à l’intérieur ou par temps couvert."
+   ],
+   [
+    "La pleine lune augmente-t-elle scientifiquement les émotions ?",
+    "Ce phénomène n’est pas établi comme effet général. Certaines recherches trouvent des associations avec le sommeil, mais elles ne démontrent pas une augmentation universelle de l’intensité émotionnelle."
+   ],
+   [
+    "Que faut-il écrire pendant le rituel ?",
+    "Un bilan du mois, une gratitude, ce que vous souhaitez continuer et un élément que vous voulez cesser d’alimenter sont une structure simple et efficace."
+   ],
+   [
+    "Peut-on pratiquer si l’on ne croit pas aux énergies lunaires ?",
+    "Oui. La pleine lune peut simplement être utilisée comme calendrier contemplatif régulier."
+   ]
+  ],
+  "sources": [
+   "Casiraghi et al., « Moonstruck sleep: Synchronization of human sleep with the moon cycle under field conditions », Science Advances, 2021.",
+   "Benedict et al., « Sex-specific association of the lunar cycle with sleep », Science of the Total Environment, 2022.",
+   "Wehr, « Longitudinal observations call into question the scientific consensus that humans are unaffected by lunar cycles », BioEssays, 2021."
+  ],
+  "publish_at": "2027-09-22T16:00",
+  "published": null,
+  "photos": [
+   "p21",
+   "p26"
+  ]
+ },
+ {
+  "num": 148,
+  "slug": "sylvotherapie-effets-scientifiques",
+  "title": "Sylvothérapie : ce que les arbres font réellement à votre système nerveux, et ce qu’on leur attribue à tort",
+  "seo_title": "Sylvothérapie : ce que la science dit vraiment des arbres",
+  "desc": "Sylvothérapie et shinrin-yoku : ce que la forêt fait réellement à votre système nerveux, ce que disent les études et comment pratiquer simplement.",
+  "kw": "sylvothérapie, bain de forêt, shinrin-yoku, sylvothérapie preuves scientifiques, forêt stress, forêt cortisol, phytoncides forêt, marcher en forêt, forest bathing, bain de forêt bienfaits",
+  "group": "lieux",
+  "photo": {
+   "src": "photos/p30-hero.webp",
+   "src_s": "photos/p30-hero-640.webp",
+   "w": 1200,
+   "h": 670,
+   "alt": "Illustration de l’article : Sylvothérapie : ce que la science dit vraiment des arbres",
+   "pid": "p30"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [
+   [
+    "La sylvothérapie est-elle scientifiquement prouvée ?",
+    "Les recherches montrent des effets prometteurs sur certains indicateurs de stress, d’humeur et de santé cardiovasculaire, mais la certitude des preuves reste limitée ou très faible selon les revues récentes."
+   ],
+   [
+    "Les arbres réduisent-ils réellement le cortisol ?",
+    "Certaines études et revues trouvent des diminutions après des bains de forêt, mais les protocoles et résultats varient et il est difficile d’isoler l’effet spécifique des arbres."
+   ],
+   [
+    "Faut-il enlacer un arbre pour bénéficier du bain de forêt ?",
+    "Non. Aucun résultat scientifique n’établit que le contact physique avec le tronc soit nécessaire. La marche lente et l’immersion sensorielle suffisent."
+   ],
+   [
+    "Le shinrin-yoku peut-il remplacer un traitement contre l’anxiété ou la dépression ?",
+    "Non. Les revues récentes le présentent comme pratique complémentaire de bien-être et non comme traitement autonome d’un trouble mental."
+   ]
+  ],
+  "sources": [
+   "Andrade et al., « Short-term cardiovascular and mental health responses to Shinrin-Yoku (forest bathing): a systematic review and meta-analysis », Frontiers in Psychology, 2026.",
+   "Siah et al., « The effects of forest bathing on psychological well-being: A systematic review and meta-analysis », International Journal of Mental Health Nursing, 2023.",
+   "Antonelli et al., « Effects of forest bathing (shinrin-yoku) on individual well-being: an umbrella review », International Journal of Environmental Health Research, 2022."
+  ],
+  "publish_at": "2027-09-25T11:00",
+  "published": null,
+  "photos": [
+   "p51",
+   "p42"
+  ]
  }
 ]

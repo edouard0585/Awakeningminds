@@ -208,6 +208,154 @@ footer .wrap{padding:22px 20px;color:var(--dim);font-size:14px;font-family:'Aven
 footer a{color:var(--muted)}
 """
 
+# Mise en page éditoriale des articles (classe .post sur <article>) et de l'index (.bidx).
+# Portée limitée à ces classes : les pages de l'application et des formations ne changent pas.
+POST_CSS = """
+@media(max-width:600px){header a{font-size:15px;white-space:nowrap}header .wrap{gap:10px}header .lg{gap:5px}header .lg a{padding:3px 8px}}
+.progress{position:fixed;top:0;left:0;right:0;height:3px;z-index:20;pointer-events:none}
+.progress span{display:block;height:100%;width:0;background:linear-gradient(90deg,#b8934f,#F3D9A4);box-shadow:0 0 12px rgba(212,175,106,.6)}
+main.post-main{padding-top:28px;position:relative}
+main.post-main::before{content:"";position:absolute;inset:0 0 auto 0;height:520px;z-index:-1;pointer-events:none;
+ background:radial-gradient(60% 70% at 50% 0%,rgba(122,96,180,.20),rgba(10,10,20,0) 70%),radial-gradient(40% 50% at 85% 10%,rgba(212,175,106,.10),rgba(10,10,20,0) 70%)}
+article.post{max-width:740px;margin:0 auto}
+article.post .post-head{text-align:center;margin:6px auto 26px;max-width:700px}
+article.post .crumbs{justify-content:center;flex-wrap:wrap}
+article.post .cat{margin:4px 0 16px}
+article.post h1{font-size:clamp(34px,5.6vw,52px);line-height:1.08;letter-spacing:-.005em;margin:0 0 16px;
+ background:linear-gradient(180deg,#fff9ec 30%,#E9CF98);-webkit-background-clip:text;background-clip:text;color:transparent}
+article.post .meta{display:flex;justify-content:center;flex-wrap:wrap;gap:6px 16px;font-size:13.5px;letter-spacing:.02em;margin:0}
+article.post .meta span{display:inline-flex;align-items:center;gap:6px}
+article.post .meta span+span::before{content:"✦";color:var(--gold);font-size:10px;margin-right:10px}
+article.post .hero-photo,article.post figure.hero{margin:0 -40px 30px;position:relative}
+article.post .hero-photo img,article.post figure.hero img{width:100%;border-radius:22px;border:1px solid rgba(212,175,106,.22);
+ box-shadow:0 30px 80px -30px rgba(0,0,0,.8),0 0 0 6px rgba(255,255,255,.015);margin:0}
+article.post .lead{font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(21px,2.6vw,25px);line-height:1.5;font-style:italic;
+ color:#f1e3c4;text-align:center;max-width:640px;margin:0 auto 30px;padding:0 0 26px;position:relative}
+article.post .lead::after{content:"";position:absolute;left:50%;bottom:0;width:64px;height:1px;transform:translateX(-50%);
+ background:linear-gradient(90deg,transparent,var(--gold),transparent)}
+article.post .intro{font-size:17.5px;line-height:1.8;color:rgba(245,230,200,.86)}
+article.post p,article.post ul,article.post ol{font-size:17.5px;line-height:1.82;color:rgba(245,230,200,.86)}
+article.post p{margin:0 0 16px}
+article.post li{margin:8px 0}
+article.post b,article.post strong{color:#fff4dc;font-weight:600}
+article.post a{color:#E9CF98;text-decoration:underline;text-decoration-color:rgba(212,175,106,.45);text-underline-offset:3px}
+article.post a:hover{text-decoration-color:var(--gold)}
+article.post .crumbs a,article.post a.cat,article.post .toc a,.rel-grid a,article.post .cta a{text-decoration:none}
+article.post>ul:not(.alist),article.post .body ul{list-style:none;padding-left:4px}
+article.post .body ul,article.post .body ol,article.post p.key{display:flow-root}
+article.post .body ul>li{position:relative;padding-left:26px}
+article.post .body ul>li::before{content:"";position:absolute;left:4px;top:.72em;width:8px;height:8px;border-radius:50%;
+ background:radial-gradient(circle,#F3D9A4,#b8934f);box-shadow:0 0 8px rgba(212,175,106,.55)}
+article.post .body ol{padding-left:26px}
+article.post .body ol>li::marker{color:var(--gold);font-weight:600}
+article.post .body>p:first-of-type::first-letter,article.post .body>h2.sec:first-child+p::first-letter{
+ font-family:'Cormorant Garamond',Georgia,serif;float:left;font-size:4.1em;line-height:.82;margin:.08em .1em 0 0;color:var(--gold)}
+article.post h2.sec{display:block;text-align:left;border:0;padding:0;margin:64px 0 22px;font-size:clamp(27px,3.6vw,34px);line-height:1.18;color:#fff3da}
+article.post h2.sec::before{content:"";display:block;height:1px;margin:0 0 40px;
+ background:linear-gradient(90deg,transparent,rgba(212,175,106,.45) 20%,rgba(212,175,106,.45) 80%,transparent)}
+article.post .body>h2.sec:first-child{margin-top:20px}
+article.post .body>h2.sec:first-child::before{display:none}
+article.post h2.sec .num{display:flex;width:auto;height:auto;min-width:0;border:0;border-radius:0;transform:none;margin:0 0 10px;
+ font-family:'Avenir Next','Segoe UI',sans-serif;font-size:12px;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);align-items:center;gap:10px}
+article.post h2.sec .num::before{content:attr(data-l)}
+article.post h2.sec .num::after{content:"";width:34px;height:1px;background:var(--gold);opacity:.6}
+article.post h3{font-size:24px;color:#F0D9A6;margin:30px 0 10px}
+article.post p.key{position:relative;font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(21px,2.5vw,24px);line-height:1.45;color:#fff1d6;
+ background:linear-gradient(135deg,rgba(212,175,106,.13),rgba(122,96,180,.10));border:1px solid rgba(212,175,106,.28);border-left:0;
+ border-radius:18px;padding:26px 28px 24px 64px;margin:30px 0}
+article.post p.key::before{content:"“";position:absolute;left:20px;top:8px;font-size:62px;line-height:1;color:var(--gold);font-family:Georgia,serif;opacity:.85}
+article.post p.key strong,article.post p.key b{color:#fff7e4}
+article.post figure{margin:34px 0}
+article.post figure img{display:block;margin:0 auto}
+article.post figure.schema,article.post figure.illus{background:linear-gradient(180deg,rgba(255,255,255,.035),rgba(255,255,255,.01));
+ border:1px solid rgba(212,175,106,.2);border-radius:22px;padding:14px}
+article.post figure.schema img{border-radius:14px;border:0;width:100%}
+article.post figure.illus{max-width:460px;margin-left:auto;margin-right:auto}
+article.post figure.illus img{border:0;border-radius:14px}
+article.post figcaption{text-align:center;font-size:13.5px;color:var(--dim);margin-top:10px;font-style:italic}
+article.post figure.ph{width:43%;margin:6px 0 18px;shape-outside:inset(0 round 20px)}
+article.post figure.ph.r{float:right;margin-left:30px;margin-right:-34px}
+article.post figure.ph.l{float:left;margin-right:30px;margin-left:-34px}
+article.post figure.ph img{width:100%;border-radius:20px;border:1px solid rgba(212,175,106,.25);margin:0;
+ box-shadow:0 24px 50px -24px rgba(0,0,0,.9)}
+article.post figure.pair{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:38px -34px;clear:both}
+article.post figure.pair img{width:100%;border-radius:20px;border:1px solid rgba(212,175,106,.25);margin:0;box-shadow:0 24px 50px -24px rgba(0,0,0,.9)}
+article.post figure.pair img:nth-child(2){transform:translateY(28px)}
+article.post figure.pair{margin-bottom:62px}
+article.post h2.sec,article.post .section-head,article.post .tbl,article.post figure.schema,article.post .afaq,article.post .cta,article.post .sources{clear:both}
+@media(max-width:720px){
+ article.post .hero-photo,article.post figure.hero{margin:0 -20px 26px}
+ article.post .hero-photo img,article.post figure.hero img{border-radius:0;border-left:0;border-right:0}
+ article.post figure.ph,article.post figure.ph.r,article.post figure.ph.l{float:none;width:78%;margin:26px auto}
+ article.post figure.pair{margin:30px 0 50px;gap:10px}
+ article.post p.key{padding:22px 20px 20px 52px}
+ article.post p.key::before{left:14px;font-size:52px}
+}
+article.post .toc{background:linear-gradient(180deg,rgba(255,255,255,.04),rgba(255,255,255,.015));border:1px solid rgba(212,175,106,.22);border-radius:20px;padding:22px 26px;margin:0 0 34px}
+article.post .toc ul{columns:1;counter-reset:toc}
+article.post .toc li{counter-increment:toc;display:flex;gap:12px;align-items:baseline;margin:2px 0;padding:7px 0;border-bottom:1px dashed rgba(255,255,255,.07)}
+article.post .toc li:last-child{border-bottom:0}
+article.post .toc li::before{content:counter(toc,decimal-leading-zero);font-size:12px;color:var(--gold);font-weight:600;letter-spacing:.06em;min-width:22px}
+article.post .toc a{font-size:15px;color:rgba(245,230,200,.82);text-decoration:none}
+article.post .toc a:hover{color:#F3D9A4}
+article.post .tbl{border-radius:16px;border-color:rgba(212,175,106,.22);margin:26px 0}
+article.post table{font-size:15px}
+article.post tr:nth-child(even) td{background:rgba(255,255,255,.025)}
+article.post td{color:rgba(245,230,200,.84);padding:11px 14px}
+article.post th{padding:12px 14px;letter-spacing:.02em}
+article.post .card{background:linear-gradient(180deg,rgba(255,255,255,.04),rgba(255,255,255,.015));border-color:rgba(212,175,106,.16);border-radius:20px;padding:26px}
+article.post .section-head{border-bottom:0;margin:60px 0 22px;flex-direction:column;align-items:flex-start;gap:8px}
+article.post .section-head::before{content:"";display:block;width:100%;height:1px;margin-bottom:30px;
+ background:linear-gradient(90deg,transparent,rgba(212,175,106,.45) 20%,rgba(212,175,106,.45) 80%,transparent)}
+article.post .section-head h2{font-size:clamp(27px,3.6vw,34px);color:#fff3da}
+article.post .take{border-radius:20px;padding:24px 28px;background:linear-gradient(135deg,rgba(212,175,106,.12),rgba(122,96,180,.08))}
+article.post .afaq{margin-top:56px}
+article.post .afaq>h2{font-size:30px;color:#fff3da;text-align:center;margin-bottom:20px}
+article.post details{border:1px solid rgba(212,175,106,.18);border-radius:16px;padding:0 20px;margin:0 0 12px;background:rgba(255,255,255,.025);transition:background .2s}
+article.post details[open]{background:rgba(212,175,106,.06)}
+article.post summary{list-style:none;display:flex;justify-content:space-between;gap:16px;align-items:center;padding:16px 0;font-size:16px;color:#fff1d6}
+article.post summary::-webkit-details-marker{display:none}
+article.post summary::after{content:"+";color:var(--gold);font-size:22px;line-height:1;transition:transform .2s}
+article.post details[open] summary::after{transform:rotate(45deg)}
+article.post details p{font-size:16px;padding-bottom:16px;margin:0}
+article.post .sources{background:transparent;border-color:rgba(255,255,255,.08);margin-top:36px}
+article.post .sources li{font-size:13.5px}
+article.post .cta{position:relative;overflow:hidden;border-radius:24px;padding:40px 30px;margin:60px 0 30px;
+ background:radial-gradient(80% 120% at 50% 0%,rgba(212,175,106,.20),rgba(0,0,0,0) 60%),linear-gradient(135deg,#1b1631,#261d44);
+ box-shadow:0 30px 80px -40px rgba(122,96,180,.7)}
+article.post .cta::before{content:"✦";display:block;color:var(--gold);font-size:22px;margin-bottom:10px}
+article.post .cta h2{font-size:clamp(26px,3.4vw,32px)}
+article.post .cta p{font-size:16px;color:rgba(245,230,200,.8)}
+article.post .cta a{text-decoration:none;box-shadow:0 10px 30px -8px rgba(212,175,106,.6);transition:transform .2s}
+article.post .cta a:hover{transform:translateY(-2px)}
+.rel{margin:50px 0 10px}
+.rel>h2{font-size:28px;color:#fff3da;text-align:center;margin:0 0 22px;font-weight:500}
+.rel-grid{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.rel-grid a{display:flex;flex-direction:column;height:100%;text-decoration:none;border:1px solid rgba(212,175,106,.18);border-radius:18px;overflow:hidden;
+ background:rgba(255,255,255,.025);transition:transform .25s,border-color .25s}
+.rel-grid a:hover{transform:translateY(-4px);border-color:rgba(212,175,106,.5)}
+.rel-grid img{width:100%;aspect-ratio:16/10;object-fit:cover;display:block;border:0;border-radius:0;margin:0}
+.rel-grid .n{aspect-ratio:16/10;display:flex;align-items:center;justify-content:center;font-size:40px;color:var(--gold);background:linear-gradient(135deg,#1b1631,#261d44)}
+.rel-grid h3{font-size:19px!important;line-height:1.25;color:#fff3da!important;margin:14px 16px 16px!important;font-weight:500}
+@media(max-width:720px){.rel-grid{grid-template-columns:1fr}.rel-grid a{flex-direction:row}.rel-grid img,.rel-grid .n{width:120px;aspect-ratio:1;flex:0 0 120px}.rel-grid h3{font-size:17px!important;margin:12px 14px!important}}
+.bidx .alist{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.bidx .alist li{margin:0}
+.bidx .alist a{flex-direction:column;gap:0;padding:0;overflow:hidden;height:100%;border-radius:20px;border-color:rgba(212,175,106,.16);transition:transform .25s,border-color .25s}
+.bidx .alist a:hover{transform:translateY(-4px)}
+.bidx .alist .th{width:100%;height:auto;flex:none;aspect-ratio:16/10;border:0;border-radius:0}
+.bidx .alist .th img{object-position:center}
+.bidx .alist .tw{padding:16px 20px 20px}
+.bidx .alist h2{font-size:23px;line-height:1.2}
+.bidx .alist li:first-child{grid-column:1/-1}
+.bidx .alist li:first-child .th{aspect-ratio:21/9}
+.bidx .alist li:first-child h2{font-size:30px}
+@media(max-width:640px){.bidx .alist{grid-template-columns:1fr}.bidx .alist li:first-child .th{aspect-ratio:16/10}}
+"""
+PROGRESS_JS = ('<div class="progress" aria-hidden="true"><span></span></div><script>(function(){var b=document.querySelector(".progress span");'
+               'function u(){var d=document.documentElement,h=d.scrollHeight-d.clientHeight;b.style.width=(h>0?Math.min(100,d.scrollTop/h*100):0)+"%"}'
+               'addEventListener("scroll",u,{passive:true});u()})();</script>')
+SEC_LABEL = {'fr': 'Partie', 'en': 'Part', 'es': 'Parte'}
+
 def load():
     arts = json.load(open(f'{ROOT}/_queue/articles.json', encoding='utf-8'))
     return arts
@@ -276,7 +424,7 @@ def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_a
 {HEAD_ICONES}{BANNIERE}
 <link rel="alternate" type="application/rss+xml" title="Awakening Minds" href="{BASE}/{lang}/blog/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap"></noscript>
-<style>{CSS}</style></head><body>"""
+<style>{CSS}{POST_CSS}</style></head><body>"""
 
 def header_html(lang, blog_path_of):
     t = T[lang]
@@ -319,11 +467,13 @@ def render_article(a, lang, arts):
     h = head(lang, a['title'][lang], a['desc'][lang], path_of, path_of(lang), img, ld_tag, kw=art_kw, img_alt=img_alt)
     h += header_html(lang, lambda x: f'../../{x}/blog/{a["slug"][x]}.html')
     g = blog_hubs.SERIES_GROUP.get(a['id'], 'bases'); hl = blog_hubs.group_link(lang, g, HUB_ACT)
-    h += (f'<main class="wrap"><article><nav class="crumbs"><a href="../">Awakening Minds</a>'
+    h += PROGRESS_JS
+    h += (f'<main class="wrap post-main"><article class="post"><div class="post-head"><nav class="crumbs"><a href="../">Awakening Minds</a>'
           f'<span>›</span><a href="./">{E(T[lang]["blog"])}</a>'
           + (f'<span>›</span><a href="{hl}">{E(blog_hubs.HUBS[lang][g]["h1"])}</a>' if hl else '')
           + f'</nav><h1>{E(a["title"][lang])}</h1>')
-    h += f'<div class="meta">{E(t["published_on"])} {E(fmt_date(a["published"], lang))} · {mins} {E(t["read"])}</div>'
+    h += (f'<div class="meta"><span>{E(t["published_on"])} {E(fmt_date(a["published"], lang))}</span>'
+          f'<span>{mins} {E(t["read"])}</span></div></div>')
     h += f'<p class="lead">{E(a["desc"][lang])}</p>'
     if a.get('intro'):
         h += f'<p class="intro">{E(a["intro"][lang])}</p>'
@@ -336,7 +486,14 @@ def render_article(a, lang, arts):
         h += (f'<figure class="hero"><img src="../../assets/blog/{sl}-{lang}.webp" alt="{E(alt)}" '
               f'{wh} fetchpriority="high" decoding="async"><figcaption>{E(cap)}</figcaption></figure>')
     toc, body = enrich_body(body, lang)
-    h += toc + body
+    figs = blog_fr.photo_figs(a.get('photos'), lang, a['title'][lang])
+    if figs:
+        # photos d'ambiance : une paire au milieu de l'article, entre deux blocs
+        cuts = [m.start() for m in re.finditer(r'\n\s*<div class="(?:card|section-head)"', body)]
+        pos = cuts[max(2, round(len(cuts) * 0.55))] if len(cuts) >= 4 else (cuts[-1] if cuts else len(body))
+        cls = 'pair' if len(figs) > 1 else 'ph r'
+        body = body[:pos] + f'<figure class="{cls}">{"".join(figs[:2])}</figure>' + body[pos:]
+    h += toc + f'<div class="body">{body}</div>'
     if a.get('takeaways'):
         pts = ''.join(f'<li>{E(x)}</li>' for x in a['takeaways'][lang])
         h += f'<aside class="take"><b>{E(TAKE_LABEL[lang])}</b><ul>{pts}</ul></aside>'
@@ -349,10 +506,12 @@ def render_article(a, lang, arts):
     if not others:
         others = [o for o in arts if o.get('published') and o['id'] != a['id']][-3:]
     if others:
-        h += f'<h2>{E(t["other"])}</h2><ul class="alist">'
+        h += f'<section class="rel"><h2>{E(t["other"])}</h2><ul class="rel-grid">'
         for o in others:
-            h += f'<li><a href="{o["slug"][lang]}.html"><h3>{E(o["title"][lang])}</h3><p>{E(o["desc"][lang])}</p></a></li>'
-        h += '</ul>'
+            th = (f'<img src="../../assets/blog/{_img_slug(o, lang)}" alt="" loading="lazy" width="640" height="400">'
+                  if o.get('image') is not None else '<span class="n">✦</span>')
+            h += f'<li><a href="{o["slug"][lang]}.html">{th}<h3>{E(o["title"][lang])}</h3></a></li>'
+        h += '</ul></section>'
     h += '</article></main>' + footer_html(lang) + '</body></html>'
     return h
 
@@ -377,7 +536,7 @@ def render_index(lang, arts):
     h = head(lang, t['idx_seo'], t['idx_desc'], path_of, path_of(lang), '/assets/brand/og-image.jpg',
              ld_tag, kw=SITE_KW[lang], img_alt='Awakening Minds', og_type='website')
     h += header_html(lang, lambda x: f'../../{x}/blog/')
-    h += f'<main class="wrap"><h1>{E(t["idx_title"])}</h1><p class="lead">{E(t["idx_desc"])}</p>'
+    h += f'<main class="wrap bidx"><h1>{E(t["idx_title"])}</h1><p class="lead">{E(t["idx_desc"])}</p>'
     nav = blog_hubs.themes_nav(lang, HUB_ACT)
     if nav: h += nav.replace('class="themes"', 'class="themes topnav"', 1)
     h += '<ul class="alist">'
@@ -386,7 +545,7 @@ def render_index(lang, arts):
     entries.sort(key=lambda e: (e[1], e[2]))
     for i, (kind, _, _, a) in enumerate(reversed(entries)):
         if kind == 'f':
-            th = f'<span class="th"><img src="../../assets/blog/{a["thumb"]}" alt="{E(a["alt"])}" loading="lazy" width="88" height="88"></span>'
+            th = f'<span class="th"><img src="../../assets/blog/{a["thumb"]}" alt="{E(a["alt"])}" loading="lazy" width="640" height="400"></span>'
             h += (f'<li><a href="{a["slug"]}.html">{th}<span class="tw"><h2>{E(a["title"])}</h2>'
                   f'<p>{E(a["desc"])}</p><span class="d">{E(fmt_date(a["published"], lang))}</span></span></a></li>')
             continue

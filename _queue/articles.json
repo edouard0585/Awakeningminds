@@ -31,7 +31,11 @@
    "fr": "apprendre à méditer, méditation débutant, commencer la méditation, méditation guidée gratuite",
    "en": "how to meditate, meditation for beginners, start meditating, free guided meditation",
    "es": "cómo meditar, meditación para principiantes, empezar a meditar, meditación guiada gratis"
-  }
+  },
+  "photos": [
+   "p02",
+   "p41"
+  ]
  },
  {
   "id": "dormir",
@@ -129,7 +133,11 @@
     "A las 3 de la mañana: ni pantalla ni hora — vuelve al cuerpo."
    ]
   },
-  "published": "2026-08-28"
+  "published": "2026-08-28",
+  "photos": [
+   "p01",
+   "p24"
+  ]
  },
  {
   "id": "posture",
@@ -226,7 +234,11 @@
    "fr": "posture méditation, position pour méditer, méditer sur une chaise, posture dos droit",
    "en": "meditation posture, meditation positions, meditate on a chair, sitting position meditation",
    "es": "postura de meditación, posiciones para meditar, meditar en silla, postura espalda recta"
-  }
+  },
+  "photos": [
+   "p12",
+   "p36"
+  ]
  },
  {
   "id": "respiration",
@@ -323,7 +335,11 @@
    "fr": "respiration méditation, cohérence cardiaque, respiration 4-7-8, respiration carrée, respiration guidée",
    "en": "meditation breathing, coherent breathing, 4-7-8 breathing, box breathing, breathing exercises",
    "es": "respiración meditación, respiración coherente, respiración 4-7-8, respiración cuadrada, respiración guiada"
-  }
+  },
+  "photos": [
+   "p22",
+   "p40"
+  ]
  },
  {
   "id": "scan",
@@ -421,7 +437,11 @@
     "Tumbado para dormir, sentado para seguir presente."
    ]
   },
-  "published": "2026-09-14"
+  "published": "2026-09-14",
+  "photos": [
+   "p09",
+   "p49"
+  ]
  },
  {
   "id": "pensees",
@@ -518,7 +538,11 @@
    "fr": "arrêter de penser méditation, gérer ses pensées, pleine conscience, obstacles méditation",
    "en": "can't stop thinking meditation, dealing with thoughts, mindfulness, meditation obstacles",
    "es": "no puedo dejar de pensar, gestionar pensamientos, atención plena, obstáculos meditación"
-  }
+  },
+  "photos": [
+   "p31",
+   "p44"
+  ]
  },
  {
   "id": "pleineconscience",
@@ -616,7 +640,11 @@
     "Formal en el cojín, informal fregando los platos."
    ]
   },
-  "published": "2026-09-28"
+  "published": "2026-09-28",
+  "photos": [
+   "p26",
+   "p06"
+  ]
  },
  {
   "id": "cinqminutes",
@@ -714,7 +742,11 @@
     "La pausa corta interrumpe; la sesión larga profundiza."
    ]
   },
-  "published": null
+  "published": null,
+  "photos": [
+   "p04",
+   "p45"
+  ]
  },
  {
   "id": "matin",
@@ -812,7 +844,11 @@
     "No en la cama por la mañana: la cama significa sueño."
    ]
   },
-  "published": null
+  "published": null,
+  "photos": [
+   "p35",
+   "p14"
+  ]
  },
  {
   "id": "programme",
@@ -847,7 +883,11 @@
    "fr": "programme méditation débutant, méditation 4 semaines, apprendre à méditer pas à pas, habitude méditation",
    "en": "beginner meditation program, 4 week meditation, learn to meditate step by step, meditation habit",
    "es": "programa meditación principiantes, meditación 4 semanas, aprender a meditar paso a paso, hábito de meditación"
-  }
+  },
+  "photos": [
+   "p16",
+   "p52"
+  ]
  },
  {
   "id": "techniques",
@@ -880,7 +920,11 @@
    "fr": "techniques de méditation, scan corporel, méditation marchée, méditation bienveillance, méthode RAIN",
    "en": "meditation techniques, body scan, walking meditation, loving-kindness meditation, RAIN method",
    "es": "técnicas de meditación, escaneo corporal, meditación caminando, bondad amorosa, método RAIN"
-  }
+  },
+  "photos": [
+   "p08",
+   "p27"
+  ]
  },
  {
   "id": "marche",
@@ -978,7 +1022,11 @@
     "Fuera: ojos abiertos, recorrido conocido, seguridad primero."
    ]
   },
-  "published": null
+  "published": null,
+  "photos": [
+   "p32",
+   "p48"
+  ]
  },
  {
   "id": "bienveillance",
@@ -1076,7 +1124,11 @@
     "La persona difícil: empieza por una molestia leve."
    ]
   },
-  "published": null
+  "published": null,
+  "photos": [
+   "p29",
+   "p11"
+  ]
  },
  {
   "id": "quotidien",
@@ -1173,7 +1225,11 @@
    "fr": "méditer tous les jours, habitude méditation, méditation quotidienne, méditation guidée pour dormir",
    "en": "meditate every day, daily meditation habit, guided sleep meditation",
    "es": "meditar todos los días, hábito diario de meditación, meditación guiada para dormir"
-  }
+  },
+  "photos": [
+   "p18",
+   "p21"
+  ]
  },
  {
   "id": "science",
@@ -1270,7 +1326,11 @@
    "fr": "science méditation, effets de la méditation, cerveau méditation, bienfaits méditation",
    "en": "science of meditation, meditation effects, meditation brain, benefits of meditation",
    "es": "ciencia de la meditación, efectos de la meditación, cerebro meditación, beneficios de meditar"
-  }
+  },
+  "photos": [
+   "p25",
+   "p47"
+  ]
  },
  {
   "id": "histoire",
@@ -1367,7 +1427,11 @@
    "fr": "histoire de la méditation, origine méditation, traditions méditation, histoire pleine conscience",
    "en": "history of meditation, origin of meditation, meditation traditions, mindfulness history",
    "es": "historia de la meditación, origen de la meditación, tradiciones de meditación, historia atención plena"
-  }
+  },
+  "photos": [
+   "p28",
+   "p05"
+  ]
  },
  {
   "id": "emc",
@@ -1400,7 +1464,11 @@
    "fr": "états modifiés de conscience, transe méditative, conscience profonde, relaxation profonde",
    "en": "altered states of consciousness, meditative trance, deep consciousness, deep relaxation",
    "es": "estados modificados de conciencia, trance meditativo, conciencia profunda, relajación profunda"
-  }
+  },
+  "photos": [
+   "p23",
+   "p17"
+  ]
  },
  {
   "id": "chakras",
@@ -1497,7 +1565,11 @@
    "fr": "chakras, méditation chakras, 7 chakras, équilibrer les chakras",
    "en": "chakras, chakra meditation, 7 chakras, balance chakras",
    "es": "chakras, meditación de chakras, 7 chakras, equilibrar chakras"
-  }
+  },
+  "photos": [
+   "p50",
+   "p07"
+  ]
  },
  {
   "id": "reve",
@@ -1594,7 +1666,11 @@
    "fr": "rêve lucide, comment faire un rêve lucide, journal de rêves, sommeil conscient",
    "en": "lucid dreaming, how to lucid dream, dream journal, conscious sleep",
    "es": "sueño lúcido, cómo tener un sueño lúcido, diario de sueños, dormir consciente"
-  }
+  },
+  "photos": [
+   "p38",
+   "p51"
+  ]
  },
  {
   "id": "ombre",
@@ -1628,7 +1704,11 @@
    "fr": "travail de l'ombre, ombre intérieure, réconciliation intérieure, accueillir ses émotions",
    "en": "shadow work, inner shadow, self reconciliation, welcoming emotions",
    "es": "trabajo de sombra, sombra interior, reconciliación interior, acoger emociones"
-  }
+  },
+  "photos": [
+   "p20",
+   "p03"
+  ]
  },
  {
   "id": "symboles",
@@ -1661,7 +1741,11 @@
    "fr": "symboles méditation, archétypes, visualisation guidée, mondes intérieurs, sanctuaire intérieur",
    "en": "meditation symbols, archetypes, guided visualization, inner worlds, inner sanctuary",
    "es": "símbolos meditación, arquetipos, visualización guiada, mundos interiores, santuario interior"
-  }
+  },
+  "photos": [
+   "p19",
+   "p13"
+  ]
  },
  {
   "id": "astral",
@@ -1694,7 +1778,11 @@
    "fr": "voyage astral, sortie hors du corps, projection astrale, techniques voyage astral",
    "en": "astral projection, out of body experience, astral travel techniques",
    "es": "viaje astral, experiencia fuera del cuerpo, proyección astral, técnicas de viaje astral"
-  }
+  },
+  "photos": [
+   "p53",
+   "p37"
+  ]
  },
  {
   "id": "interactives",
@@ -1727,6 +1815,10 @@
    "fr": "méditation guidée, bien méditer, voix de méditation, impressions après méditation",
    "en": "guided meditation tips, meditation voice, after-meditation reflection",
    "es": "consejos meditación guiada, voz de meditación, impresiones tras meditar"
-  }
+  },
+  "photos": [
+   "p34",
+   "p39"
+  ]
  }
 ]

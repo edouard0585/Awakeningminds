@@ -20,6 +20,7 @@ GROUP_LABEL_EN = {
     'psy': 'Emotions and inner life', 'sommeil': 'Sleep and dreams', 'lieux': 'Places, myths and wisdom',
     'chamanisme': 'Shamanism', 'vie': 'Meditation in daily life', 'astral': 'Astral travel and signs',
 }
+SEC = {'fr': 'Partie', 'en': 'Part'}
 LBL = {'fr': dict(toc='Dans cet article', src='Sources'), 'en': dict(toc='In this article', src='Sources')}
 GROUP_LABEL = {
     'bases': 'Pratique de la méditation', 'energie': 'Énergie et chakras', 'transe': 'Transe et conscience',
@@ -76,7 +77,7 @@ def V(a, lang):
     """Champs de l'article dans la langue demandée (la version anglaise vit dans a['en'])."""
     if lang == 'fr': return a
     v = dict(a[lang]); v['num'] = a['num']; v['group'] = a['group']; v['published'] = a['published']
-    v.setdefault('photo', a['photo']); v.setdefault('insert', None)
+    v.setdefault('photo', a['photo']); v.setdefault('insert', None); v.setdefault('photos', a.get('photos'))
     return v
 
 
@@ -92,28 +93,62 @@ def _fig(m, cls, lazy=True):
             + (f'<figcaption>{E(m["cap"])}</figcaption>' if m.get('cap') else '') + '</figure>')
 
 
-def place_media(body, a):
-    """Répartit schémas et illustration dans le texte : fin de la section ~30 %, ~55 %, ~80 %.
+PHOTOS = None
+def photos_lib():
+    """Photos d'ambiance sans texte (assets/blog/photos), communes à toutes les langues."""
+    global PHOTOS
+    if PHOTOS is None:
+        p = f'{ROOT}/_queue/photos.json'
+        PHOTOS = {x['id']: x for x in json.load(open(p, encoding='utf-8'))} if os.path.exists(p) else {}
+    return PHOTOS
+
+
+PHOTO_ALT = {'fr': 'Illustration méditative en papier découpé', 'en': 'Meditative paper-cut illustration',
+             'es': 'Ilustración meditativa de papel recortado'}
+
+
+def photo_figs(ids, lang, title, depth='../../'):
+    lib = photos_lib(); out = []
+    for i in ids or []:
+        m = lib.get(i)
+        if not m: continue
+        out.append(f'<img src="{depth}assets/blog/{m["src"]}" srcset="{depth}assets/blog/{m["src_s"]} 440w, {depth}assets/blog/{m["src"]} 760w" '
+                   f'sizes="(max-width:720px) 78vw, 340px" alt="{E(PHOTO_ALT[lang])} — {E(title)}" width="{m["w"]}" height="{m["h"]}" loading="lazy" decoding="async">')
+    return out
+
+
+def place_media(body, a, lang='fr'):
+    """Répartit schémas, illustration et photos d'ambiance dans le texte.
+    Schémas et illustration : fin des sections à ~30 %, ~55 %, ~80 %. Photos (1 ou 2) : en début de
+    section, flottantes, alternées droite/gauche, dans des sections sans autre image.
     Si l'article a été mis en page dans l'éditeur de l'espace privé (media_inline), le corps contient
-    déjà ses images à leur place : on n'ajoute rien."""
-    if a.get('media_inline'):
-        return body
+    déjà ses images à leur place : on n'ajoute que les photos d'ambiance absentes."""
     parts = re.split(r'(?=<h2 class="sec")', body)
     head, secs = parts[0], parts[1:]
     n = len(secs)
-    slots = []
-    sch = a.get('schemas') or []
-    if sch: slots.append(('schema', sch[0]))
-    if a.get('insert'): slots.append(('illus', a['insert']))
-    if len(sch) > 1: slots.append(('schema', sch[1]))
-    if not slots or n == 0: return body
-    fr = {1: [0.5], 2: [0.34, 0.75], 3: [0.3, 0.55, 0.8]}[len(slots)]
     used = set()
-    for (cls, m), f in zip(slots, fr):
-        k = min(n - 1, max(0, round(n * f) - 1))
-        while k in used and k < n - 1: k += 1
-        used.add(k)
-        secs[k] = secs[k] + _fig(m, cls)
+    if not a.get('media_inline') and n:
+        slots = []
+        sch = a.get('schemas') or []
+        if sch: slots.append(('schema', sch[0]))
+        if a.get('insert'): slots.append(('illus', a['insert']))
+        for m in sch[1:]: slots.append(('schema', m))
+        fr = {1: [0.5], 2: [0.34, 0.75], 3: [0.3, 0.55, 0.8], 4: [0.25, 0.45, 0.65, 0.85]}.get(len(slots), [(i + 1) / (len(slots) + 1) for i in range(len(slots))])
+        for (cls, m), f in zip(slots, fr):
+            k = min(n - 1, max(0, round(n * f) - 1))
+            while k in used and k < n - 1: k += 1
+            used.add(k)
+            secs[k] = secs[k] + _fig(m, cls)
+    figs = [] if 'assets/blog/photos/' in body else photo_figs(a.get('photos'), lang, a['title'])
+    if figs and n >= 2:
+        targets = [1, max(2, round(n * 0.7) - 1)] if len(figs) > 1 else [1 if 1 not in used else min(n - 1, 2)]
+        for j, (fig, k) in enumerate(zip(figs, targets)):
+            k = min(n - 1, k)
+            while k in used and k < n - 1: k += 1
+            used.add(k)
+            secs[k] = re.sub(r'(</h2>)', r'\1' + f'<figure class="ph {"r" if j % 2 == 0 else "l"}">{fig}</figure>', secs[k], count=1)
+    elif figs:
+        head += f'<figure class="ph r">{figs[0]}</figure>'
     return head + ''.join(secs)
 
 
@@ -123,7 +158,7 @@ def toc_and_ids(body, lang='fr'):
         n, txt = m.group(1), m.group(2)
         hid = f's{n}'
         heads.append((hid, re.sub('<[^>]+>', '', txt)))
-        return f'<h2 class="sec" id="{hid}" data-n="{n}"><span class="num">{n}</span>{txt}</h2>'
+        return f'<h2 class="sec" id="{hid}" data-n="{n}"><span class="num" data-l="{SEC[lang]} {int(n):02d}"></span>{txt}</h2>'
     body = re.sub(r'<h2 class="sec" data-n="(\d+)"><span class="num">\d+</span>(.*?)</h2>', anchor, body)
     toc = ''
     if len(heads) >= 3:
@@ -151,7 +186,7 @@ def render_article(bb, a0, arts, lang='fr'):
     if a0.get('en'): paths['en'] = f'/en/blog/{a0["en"]["slug"]}.html'
     url = paths[lang]
     GL = GROUP_LABEL if lang == 'fr' else GROUP_LABEL_EN
-    body = place_media(body_html(a0, lang), a)
+    body = place_media(body_html(a0, lang), a, lang)
     toc, body = toc_and_ids(body, lang)
     mins = max(3, round(bb.words(body) / 220))
     img = f'/assets/blog/{a["photo"]["src"]}'
@@ -177,19 +212,21 @@ def render_article(bb, a0, arts, lang='fr'):
     h += bb.header_html(lang, lambda x: f'../..{paths[x]}' if x in paths else f'../../{x}/blog/')
     import blog_hubs as hubs
     hl = hubs.group_link(lang, a['group'], getattr(bb, 'HUB_ACT', {}))
-    h += (f'<main class="wrap"><article><nav class="crumbs"><a href="../">Awakening Minds</a>'
+    h += bb.PROGRESS_JS
+    h += (f'<main class="wrap post-main"><article class="post"><div class="post-head"><nav class="crumbs"><a href="../">Awakening Minds</a>'
           f'<span>›</span><a href="./">{E(t["blog"])}</a>'
           + (f'<span>›</span><a href="{hl}">{E(hubs.HUBS[lang][a["group"]]["h1"])}</a>' if hl else '')
           + '</nav>'
           + (f'<a class="cat" href="{hl}">' if hl else '<span class="cat">') + E(GL.get(a["group"], "Meditation"))
           + ('</a>' if hl else '</span>') + f'<h1>{E(a["title"])}</h1>')
-    h += f'<div class="meta">{E(t["published_on"])} {E(bb.fmt_date(a["published"], lang))} · {mins} {E(t["read"])}</div>'
+    h += (f'<div class="meta"><span>{E(t["published_on"])} {E(bb.fmt_date(a["published"], lang))}</span>'
+          f'<span>{mins} {E(t["read"])}</span></div></div>')
     p = a['photo']
     h += (f'<figure class="hero-photo"><img src="../../assets/blog/{p["src"]}" '
           f'srcset="../../assets/blog/{p["src_s"]} 640w, ../../assets/blog/{p["src"]} 1200w" sizes="(max-width:800px) 100vw, 780px" '
           f'alt="{E(p["alt"])}" width="{p["w"]}" height="{p["h"]}" fetchpriority="high" decoding="async"></figure>')
     h += f'<p class="lead">{E(a["desc"])}</p>'
-    h += toc + body
+    h += toc + f'<div class="body">{body}</div>'
     if a.get('faq'):
         qa = ''.join(f'<details><summary>{E(q)}</summary><p>{E(r)}</p></details>' for q, r in a['faq'])
         h += f'<section class="afaq"><h2>{E(bb.FAQ_LABEL[lang])}</h2>{qa}</section>'
@@ -198,11 +235,11 @@ def render_article(bb, a0, arts, lang='fr'):
     h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="../#download">✦ {E(t["cta_b"])}</a></div>'
     rel = related(a0, arts, lang)
     if rel:
-        h += f'<h2>{E(t["other"])}</h2><ul class="alist">'
+        h += f'<section class="rel"><h2>{E(t["other"])}</h2><ul class="rel-grid">'
         for o in rel:
-            h += (f'<li><a href="{o["slug"]}.html"><span class="th"><img src="../../assets/blog/{o["photo"]["src_s"]}" alt="" loading="lazy" width="88" height="88"></span>'
-                  f'<span class="tw"><h3>{E(o["seo_title"])}</h3><p>{E(o["desc"])}</p></span></a></li>')
-        h += '</ul>'
+            h += (f'<li><a href="{o["slug"]}.html"><img src="../../assets/blog/{o["photo"]["src_s"]}" alt="" loading="lazy" width="640" height="400">'
+                  f'<h3>{E(o["seo_title"])}</h3></a></li>')
+        h += '</ul></section>'
     h += '</article></main>' + bb.footer_html(lang) + '</body></html>'
     return h
 
@@ -227,7 +264,7 @@ def sitemap_urls(bb, arts):
         if 'en' in locs: alts += f'<xhtml:link rel="alternate" hreflang="x-default" href="{locs["en"]}"/>'
         for lang, u in locs.items():
             v = V(a, lang)
-            imgs = [v['photo']['src']] + [x['src'] for x in v.get('schemas', [])]
+            imgs = [v['photo']['src']] + [x['src'] for x in v.get('schemas') or []] + [photos_lib()[i]['src'] for i in v.get('photos') or [] if i in photos_lib()]
             im = ''.join(f'<image:image><image:loc>{bb.BASE}/assets/blog/{x}</image:loc></image:image>' for x in imgs if not x.startswith('http'))
             urls.append(f'<url><loc>{u}</loc><lastmod>{a.get("modified", a["published"])}</lastmod>{alts}{im}</url>')
     return urls
@@ -236,7 +273,7 @@ def sitemap_urls(bb, arts):
 def build(bb):
     arts = load()
     # feuille de style du blog, lue par l'éditeur visuel de l'espace privé (aperçu identique au site)
-    open(f'{ROOT}/_tools/blog_preview.css', 'w', encoding='utf-8').write(bb.CSS + CSS_FR)
+    open(f'{ROOT}/_tools/blog_preview.css', 'w', encoding='utf-8').write(bb.CSS + bb.POST_CSS + CSS_FR)
     for a in published(arts):
         open(f'{ROOT}/fr/blog/{a["slug"]}.html', 'w', encoding='utf-8').write(render_article(bb, a, arts))
         if a.get('en'):
