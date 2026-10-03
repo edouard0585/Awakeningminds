@@ -12,14 +12,15 @@
    "src_s": "fr/exercices-respiration-pour-se-calmer-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Exercices de respiration pour se calmer : 4 techniques"
+   "alt": "Femme assise de dos face à une rivière et aux montagnes, panneaux des 4 exercices de respiration pour se calmer"
   },
   "schemas": [
    {
     "src": "fr/exercices-respiration-pour-se-calmer-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Exercices de respiration pour se calmer : 4 techniques"
+    "alt": "Quatre cartes colorées pour chaque exercice de respiration pour se calmer : cohérence cardiaque, carrée, 4-7-8, alternée",
+    "cap": "Les 4 exercices de respiration pour se calmer, avec leur rythme et leur effet"
    }
   ],
   "insert": null,
@@ -55,12 +56,11 @@
    "desc": "Physiological sigh, 4-7-8 breathing, box breathing and 365 cardiac coherence: which breathing technique to use to calm down, depending on the situation.",
    "kw": "breathing exercises to calm down, breathing for anxiety, physiological sigh, 4-7-8 breathing, box breathing, cardiac coherence, slow breathing, stress relief breathing",
    "photo": {
-    "src": "photos/p02-hero.webp",
-    "src_s": "photos/p02-hero-640.webp",
+    "src": "en/breathing-exercises-to-calm-down.webp",
+    "src_s": "en/breathing-exercises-to-calm-down-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Breathing Exercises to Calm Down: 4 Proven Techniques",
-    "pid": "p02"
+    "alt": "Paper-quilled golden sun above swirling blue, green and violet waves, a soothing visual for breathing exercises to calm down"
    },
    "schemas": [],
    "insert": null,
@@ -106,20 +106,22 @@
    "src_s": "fr/yoga-nidra-bienfaits-sommeil-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Yoga nidra : bienfaits du sommeil éveillé face à la sieste"
+   "alt": "Femme allongée en yoga nidra sur un tapis, bougies et cristaux, fenêtre ouverte sur un lac et une lune la nuit"
   },
   "schemas": [
    {
     "src": "fr/yoga-nidra-bienfaits-sommeil-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Yoga nidra : bienfaits du sommeil éveillé face à la sieste"
+    "alt": "Schéma des bienfaits du yoga nidra : relaxation profonde, récupération, clarté mentale et sommeil amélioré",
+    "cap": "Les 4 bienfaits du yoga nidra, dont 20 minutes valant 2 à 3 heures de sommeil"
    },
    {
     "src": "fr/yoga-nidra-bienfaits-sommeil-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Yoga nidra : bienfaits du sommeil éveillé face à la sieste"
+    "alt": "Femme allongée sur un tapis pour le yoga nidra, entourée de six bienfaits : stress, émotions, sommeil, attention, énergie",
+    "cap": "Les six bienfaits du yoga nidra, du sommeil à l'énergie, et son fonctionnement"
    }
   ],
   "insert": null,
@@ -159,20 +161,22 @@
     "src_s": "en/yoga-nidra-the-waking-sleep-that-can-feel-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Yoga Nidra: Benefits, Sleep Research and a 10-Min Practice"
+    "alt": "Woman lying on her back in yoga nidra, cradled by swirling blue paper waves under a crescent moon and cherry blossoms"
    },
    "schemas": [
     {
      "src": "en/yoga-nidra-the-waking-sleep-that-can-feel-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Yoga Nidra: Benefits, Sleep Research and a 10-Min Practice"
+     "alt": "Woman lying on a mat in yoga nidra beneath a lotus and moon, framed by scrolls listing its definition and key benefits",
+     "cap": "What yoga nidra is, its key benefits and how it compares with a nap"
     },
     {
      "src": "en/yoga-nidra-the-waking-sleep-that-can-feel-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Yoga Nidra: Benefits, Sleep Research and a 10-Min Practice"
+     "alt": "Woman lying on a mat in yoga nidra, brain waves, sankalpa lotus, rest and repair and key benefits panels around her",
+     "cap": "How yoga nidra shifts brain waves, plants an intention and brings deep rest"
     }
    ],
    "insert": null,
@@ -218,14 +222,15 @@
    "src_s": "fr/chakra-racine-bloque-ancrage-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Chakra racine bloqué : 7 signes et 5 exercices d’ancrage"
+   "alt": "Femme en méditation au pied d’un arbre aux racines géantes, panneaux listant les signes du chakra racine bloqué et l’ancrage"
   },
   "schemas": [
    {
     "src": "fr/chakra-racine-bloque-ancrage-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Chakra racine bloqué : 7 signes et 5 exercices d’ancrage"
+    "alt": "Infographie du chakra racine bloqué : 7 signes comme la peur, la fatigue ou le mal de dos, et 5 exercices d’ancrage illustrés",
+    "cap": "Les 7 signes d’un chakra racine bloqué et 5 exercices d’ancrage pour le rééquilibrer"
    }
   ],
   "insert": null,
@@ -265,20 +270,22 @@
     "src_s": "en/blocked-root-chakra-7-signs-and-5-grounding-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Blocked Root Chakra: 7 Signs and 5 Grounding Exercises"
+    "alt": "Silhouette en papier découpé méditant sur un rocher, chakra racine rouge, 7 signes et 5 exercices d’ancrage autour"
    },
    "schemas": [
     {
      "src": "en/blocked-root-chakra-7-signs-and-5-grounding-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Blocked Root Chakra: 7 Signs and 5 Grounding Exercises"
+     "alt": "Woman meditating with a glowing red base chakra, flanked by 7 signs of a blocked root chakra and 5 grounding exercises",
+     "cap": "Seven signs of a blocked root chakra alongside five grounding exercises"
     },
     {
      "src": "en/blocked-root-chakra-7-signs-and-5-grounding-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Blocked Root Chakra: 7 Signs and 5 Grounding Exercises"
+     "alt": "Meditating figure with roots below the pelvis, seven blocked root chakra signs on the left, five grounding exercises right",
+     "cap": "Seven signs of a blocked root chakra and five grounding exercises to rebalance it"
     }
    ],
    "insert": null,
@@ -324,20 +331,22 @@
    "src_s": "fr/travail-de-l-ombre-jung-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Travail de l’ombre : vos défauts cachent vos trésors"
+   "alt": "Femme assise lisant un livre devant un miroir doré ouvrant sur un trésor, symbole du travail de l’ombre selon Jung"
   },
   "schemas": [
    {
     "src": "fr/travail-de-l-ombre-jung-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Travail de l’ombre : vos défauts cachent vos trésors"
+    "alt": "Travail de l’ombre : colère, honte, jalousie transformées en passion, compassion et clarté, de part et d’autre d’un torrent",
+    "cap": "Le travail de l’ombre : trois défauts cachés et les trésors qu’ils révèlent"
    },
    {
     "src": "fr/travail-de-l-ombre-jung-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Travail de l’ombre : vos défauts cachent vos trésors"
+    "alt": "Schéma du travail de l’ombre selon Jung : masque de l’ombre, lanterne de l’exploration, coffre des trésors intégrés",
+    "cap": "De l’ombre cachée aux trésors : observer, accepter et intégrer ses parts refoulées"
    }
   ],
   "insert": null,
@@ -377,20 +386,22 @@
     "src_s": "en/shadow-work-why-your-flaws-may-be-hiding-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Shadow Work: How Your Flaws Can Hide Real Strengths"
+    "alt": "Femme en papier découpé, moitié nuit bleue et moitié jour doré, méditant entre deux chemins : la dualité du shadow work"
    },
    "schemas": [
     {
      "src": "en/shadow-work-why-your-flaws-may-be-hiding-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Shadow Work: How Your Flaws Can Hide Real Strengths"
+     "alt": "Face split between a dark side with masks and a golden side with lotuses, beside four panels explaining shadow work",
+     "cap": "Shadow work in four steps: what it is, the gold in the shadow, how to do it, and the result"
     },
     {
      "src": "en/shadow-work-why-your-flaws-may-be-hiding-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Shadow Work: How Your Flaws Can Hide Real Strengths"
+     "alt": "Shadow work diagram: a figure split into dark shadow and golden light, keyhole of integration, flaws turned into strengths",
+     "cap": "How shadow work turns repressed flaws into strengths through integration"
     }
    ],
    "insert": null,
@@ -436,20 +447,22 @@
    "src_s": "fr/qu-est-ce-que-la-transe-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Qu’est-ce que la transe ? Un état plus normal qu’on croit"
+   "alt": "Femme aux yeux clos, chevelure en spirales étoilées au-dessus d'un lac de montagne, évoquant l'état de transe"
   },
   "schemas": [
    {
     "src": "fr/qu-est-ce-que-la-transe-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Qu’est-ce que la transe ? Un état plus normal qu’on croit"
+    "alt": "Quatre cartes colorées devant des montagnes expliquant l'état de transe : état naturel, attention, inconscient, thérapie",
+    "cap": "Qu'est-ce que la transe : un état naturel, focalisé, ouvert et thérapeutique"
    },
    {
     "src": "fr/qu-est-ce-que-la-transe-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Qu’est-ce que la transe ? Un état plus normal qu’on croit"
+    "alt": "Schéma de l’état de transe : focalisation intense, dissociation douce, exemples quotidiens et ressources autour d’un cerveau",
+    "cap": "La transe, un état naturel : focalisation, dissociation douce et exemples du quotidien"
    }
   ],
   "insert": null,
@@ -489,20 +502,22 @@
     "src_s": "en/what-is-trance-altered-state-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: What Is Trance? The Everyday Altered State Explained"
+    "alt": "Woman meditating cross-legged on a carved spiral stone, swirling hair flowing into a starry sky, evoking a trance state"
    },
    "schemas": [
     {
      "src": "en/what-is-trance-altered-state-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: What Is Trance? The Everyday Altered State Explained"
+     "alt": "Woman with eyes closed amid spirals, six trance state traits and daily examples like daydreaming and highway hypnosis",
+     "cap": "Six features of a trance state, plus everyday examples such as daydreaming and flow"
     },
     {
      "src": "en/what-is-trance-altered-state-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: What Is Trance? The Everyday Altered State Explained"
+     "alt": "Woman meditating in warm and night-blue halves beside icons of everyday trance states like daydreaming and highway hypnosis",
+     "cap": "Everyday trance states and what defines them: focus, reduced awareness, inner resources"
     }
    ],
    "insert": null,
@@ -548,27 +563,30 @@
    "src_s": "fr/pelerinage-sans-religion-compostelle-shikoku-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Pèlerinage sans religion : Compostelle, Shikoku et la marche"
+   "alt": "Randonneur en papier découpé, sac et bâton, en marche spirituelle vers deux monts marqués d’une coquille et d’un torii"
   },
   "schemas": [
    {
     "src": "fr/pelerinage-sans-religion-compostelle-shikoku-schema-1.webp",
     "w": 1164,
     "h": 726,
-    "alt": "Schéma 1 : Pèlerinage sans religion : Compostelle, Shikoku et la marche"
+    "alt": "Trois bienfaits de la marche spirituelle : esprit plus calme, moins de superflu avec un sac à dos, lien humain plus fort",
+    "cap": "Les trois effets de la marche spirituelle : calme mental, essentiel retrouvé et liens humains"
    },
    {
     "src": "fr/pelerinage-sans-religion-compostelle-shikoku-schema-2.webp",
     "w": 1168,
     "h": 724,
-    "alt": "Schéma 2 : Pèlerinage sans religion : Compostelle, Shikoku et la marche"
+    "alt": "Trois étapes d'un pèlerinage sans religion : choisir un itinéraire, partir léger, marcher en pleine présence",
+    "cap": "Faire son propre pèlerinage en 3 étapes : itinéraire, sac léger, marche en pleine présence"
    }
   ],
   "insert": {
    "src": "fr/pelerinage-sans-religion-compostelle-shikoku-illustration.webp",
    "w": 584,
    "h": 764,
-   "alt": "Illustration : Pèlerinage sans religion : Compostelle, Shikoku et la marche"
+   "alt": "Pèlerin de dos au chapeau de paille montant un escalier de pierre vers un torii et une pagode, pèlerinage Shikoku fleuri",
+   "cap": "Sur le chemin des 88 temples de Shikoku, marcher comme pèlerinage sans religion"
   },
   "faq": [
    [
@@ -606,14 +624,15 @@
     "src_s": "en/pilgrimage-without-religion-camino-shikoku-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Pilgrimage Without Religion: Camino and Shikoku"
+    "alt": "Hiker with a staff on a winding path between Santiago scallop shells and Shikoku torii gates, a pilgrimage without religion"
    },
    "schemas": [
     {
      "src": "en/pilgrimage-without-religion-camino-shikoku-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Pilgrimage Without Religion: Camino and Shikoku"
+     "alt": "Pilgrimage without religion: a hiker on the Camino de Santiago and a white-robed Shikoku pilgrim, with benefits of each path",
+     "cap": "Camino de Santiago and Shikoku compared, and why pilgrims walk without religion"
     }
    ],
    "insert": null,
@@ -659,20 +678,22 @@
    "src_s": "fr/trois-mondes-chamanisme-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Les trois mondes du chamanisme : la carte universelle"
+   "alt": "Arbre du monde reliant les trois mondes du chamanisme : grotte aux ours en bas, vallée au milieu, palais céleste en haut"
   },
   "schemas": [
    {
     "src": "fr/trois-mondes-chamanisme-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Les trois mondes du chamanisme : la carte universelle"
+    "alt": "Trois panneaux reliés par des flèches : monde d’en bas, monde du milieu et monde d’en haut, les trois mondes du chamanisme",
+    "cap": "Les trois mondes du chamanisme et ce que l’on rencontre dans chacun d’eux"
    },
    {
     "src": "fr/trois-mondes-chamanisme-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Les trois mondes du chamanisme : la carte universelle"
+    "alt": "Arbre du monde en papier découpé reliant monde d’en haut, monde du milieu et monde d’en bas : les trois mondes du chamanisme",
+    "cap": "Les trois mondes du chamanisme : sagesse céleste, réalité terrestre et puissance des profondeurs"
    }
   ],
   "insert": null,
@@ -712,20 +733,22 @@
     "src_s": "en/the-three-worlds-of-shamanism-a-universal-map-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: The Three Worlds of Shamanism: Lower, Middle and Upper"
+    "alt": "Woman meditating under a world tree linking the lower world of caves and animals, the middle world and the upper world"
    },
    "schemas": [
     {
      "src": "en/the-three-worlds-of-shamanism-a-universal-map-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: The Three Worlds of Shamanism: Lower, Middle and Upper"
+     "alt": "Map of the three worlds of shamanism: a world tree linking upper, middle and lower worlds, with a drummer and travelers",
+     "cap": "Upper, middle and lower worlds: inhabitants, means of access and purpose of each realm"
     },
     {
      "src": "en/the-three-worlds-of-shamanism-a-universal-map-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: The Three Worlds of Shamanism: Lower, Middle and Upper"
+     "alt": "Three-band map of the three worlds of shamanism: a sky-filled Upper World, earthly Middle World and cave-lined Lower World",
+     "cap": "The Upper, Middle and Lower Worlds of shamanism and what each realm holds"
     }
    ],
    "insert": null,
@@ -771,14 +794,15 @@
    "src_s": "fr/meditation-et-productivite-travail-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditation et productivité : travailler mieux, moins crispé"
+   "alt": "Femme méditant sur un bureau près d’un ordinateur et d’un sablier, face à un lac de montagne : méditation et productivité"
   },
   "schemas": [
    {
     "src": "fr/meditation-et-productivite-travail-schema-1.webp",
     "w": 1116,
     "h": 710,
-    "alt": "Schéma 1 : Méditation et productivité : travailler mieux, moins crispé"
+    "alt": "Silhouette en méditation entourée de six bienfaits : concentration, idées claires, énergie, moins de stress, organisation",
+    "cap": "Les six bienfaits de la méditation sur la productivité au travail"
    }
   ],
   "insert": null,
@@ -825,27 +849,30 @@
    "src_s": "fr/mediter-matin-ou-soir-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditer le matin ou le soir : ce que change l’heure"
+   "alt": "Deux femmes en méditation, l’une au lever du soleil sur un rocher, l’autre le soir sur un balcon : méditer matin ou soir"
   },
   "schemas": [
    {
     "src": "fr/mediter-matin-ou-soir-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Méditer le matin ou le soir : ce que change l’heure"
+    "alt": "Tableau en deux moitiés, soleil et lune : bienfaits de méditer le matin (énergie, concentration) ou le soir (sommeil, calme)",
+    "cap": "Méditer le matin ou le soir : trois bienfaits propres à chaque moment"
    },
    {
     "src": "fr/mediter-matin-ou-soir-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Méditer le matin ou le soir : ce que change l’heure"
+    "alt": "Horloge mi-soleil mi-lune séparant les bienfaits de méditer le matin (clarté, énergie) et le soir (sommeil, émotions)",
+    "cap": "Méditer le matin ou le soir : les bienfaits propres à chaque moment de la journée"
    }
   ],
   "insert": {
    "src": "fr/mediter-matin-ou-soir-illustration.webp",
    "w": 682,
    "h": 716,
-   "alt": "Illustration : Méditer le matin ou le soir : ce que change l’heure"
+   "alt": "Trois galets empilés gravés Respirer, Se recentrer, Avancer face à un lac au soleil levant, pour méditer le matin ou le soir",
+   "cap": "Le bon moment pour méditer, matin ou soir, est celui que vous parvenez à tenir"
   },
   "faq": [
    [
@@ -883,20 +910,22 @@
     "src_s": "en/morning-or-evening-meditation-how-the-time-of-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Best Time to Meditate: Morning or Evening?"
+    "alt": "Silhouette meditating on a rock, split between sunrise and moonlit night, glowing chakras: morning vs evening meditation"
    },
    "schemas": [
     {
      "src": "en/morning-or-evening-meditation-how-the-time-of-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Best Time to Meditate: Morning or Evening?"
+     "alt": "Sun and moon panels comparing morning meditation and evening meditation around a clock, with three benefits for each",
+     "cap": "Morning meditation sets intentions and energy; evening meditation releases stress"
     },
     {
      "src": "en/morning-or-evening-meditation-how-the-time-of-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Best Time to Meditate: Morning or Evening?"
+     "alt": "Morning meditation under a rising sun beside evening meditation under the moon, comparing benefits of each time of day",
+     "cap": "Morning vs evening meditation: benefits of each and how to find your rhythm"
     }
    ],
    "insert": null,
@@ -942,20 +971,22 @@
    "src_s": "fr/rituel-avant-de-dormir-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Rituel avant de dormir : le quart d’heure qui compte"
+   "alt": "Femme lisant sous un plaid dans un fauteuil, fenêtre ronde sur la montagne et chat endormi : un rituel avant de dormir"
   },
   "schemas": [
    {
     "src": "fr/rituel-avant-de-dormir-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Rituel avant de dormir : le quart d’heure qui compte"
+    "alt": "Quatre cartes du rituel avant de dormir : infusion et lecture, bain chaud, journal et méditation, chambre sombre",
+    "cap": "Les 4 étapes d’un rituel du soir de 15 minutes pour un sommeil réparateur"
    },
    {
     "src": "fr/rituel-avant-de-dormir-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Rituel avant de dormir : le quart d’heure qui compte"
+    "alt": "Quatre étapes d’un rituel avant de dormir : écrans éteints, lecture et tisane, liste du lendemain, chambre fraîche et sombre",
+    "cap": "Le rituel avant de dormir en 4 étapes, des écrans à la chambre idéale"
    }
   ],
   "insert": null,
@@ -995,20 +1026,22 @@
     "src_s": "en/the-15-minutes-before-bed-can-shape-your-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: A 15-Minute Bedtime Routine That Prepares You for Sleep"
+    "alt": "Woman reading in bed by a warm lamp, tea and a clock at 10:45 on the nightstand, a calm bedtime routine under the moon"
    },
    "schemas": [
     {
      "src": "en/the-15-minutes-before-bed-can-shape-your-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: A 15-Minute Bedtime Routine That Prepares You for Sleep"
+     "alt": "Bedtime routine in four steps: power down screens, gentle stretching, journaling to quiet the mind, a calm dim bedroom",
+     "cap": "A 15-minute bedtime routine in 4 steps: screens off, stretching, journaling, sanctuary"
     },
     {
      "src": "en/the-15-minutes-before-bed-can-shape-your-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: A 15-Minute Bedtime Routine That Prepares You for Sleep"
+     "alt": "Woman meditating cross-legged surrounded by four bedtime routine steps: digital detox, physical release, melatonin, cortisol",
+     "cap": "Four effects of a 15-minute bedtime routine, from digital detox to lower stress hormones"
     }
    ],
    "insert": null,
@@ -1054,20 +1087,22 @@
    "src_s": "fr/ouvrir-chakra-du-coeur-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Ouvrir le chakra du cœur : le guide sans niaiserie"
+   "alt": "Femme en robe verte méditant sur une falaise, un cœur vert lumineux sur le dos, symbole du chakra du cœur, cascade au loin"
   },
   "schemas": [
    {
     "src": "fr/ouvrir-chakra-du-coeur-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Ouvrir le chakra du cœur : le guide sans niaiserie"
+    "alt": "Silhouette au cœur vert lumineux entourée des actions pratiques et des bienfaits pour ouvrir le chakra du cœur",
+    "cap": "Quatre gestes concrets pour ouvrir le chakra du cœur et les bienfaits qu’on peut en attendre"
    },
    {
     "src": "fr/ouvrir-chakra-du-coeur-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Ouvrir le chakra du cœur : le guide sans niaiserie"
+    "alt": "Quatre étapes pour ouvrir le chakra du cœur autour d’un lotus vert : comprendre, pratiques physiques, émotions, connexion",
+    "cap": "Ouvrir le chakra du cœur en 4 étapes : comprendre, bouger, ressentir, se relier"
    }
   ],
   "insert": null,
@@ -1103,12 +1138,11 @@
    "desc": "Opening the heart chakra is not loving everyone. Learn how compassion, boundaries and grief fit together, with three practices and a 7-minute routine.",
    "kw": "open heart chakra, heart chakra, Anahata, fourth chakra, blocked heart chakra, heart chakra meditation, loving-kindness meditation, compassion and boundaries",
    "photo": {
-    "src": "photos/p14-hero.webp",
-    "src_s": "photos/p14-hero-640.webp",
+    "src": "en/how-to-open-heart-chakra.webp",
+    "src_s": "en/how-to-open-heart-chakra-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: How to Open Your Heart Chakra Without Losing Yourself",
-    "pid": "p14"
+    "alt": "Blue, green and gold quilled paper swirls rising from a glowing sun under curled clouds, evoking an open heart chakra"
    },
    "schemas": [],
    "insert": null,
@@ -1154,14 +1188,15 @@
    "src_s": "fr/pleurer-pendant-meditation-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Pleurer pendant une méditation : bug ou fonctionnalité ?"
+   "alt": "Femme en larmes en tailleur sur un rocher près d’un lac, spirales de papier figurant les émotions pendant la méditation"
   },
   "schemas": [
    {
     "src": "fr/pleurer-pendant-meditation-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Pleurer pendant une méditation : bug ou fonctionnalité ?"
+    "alt": "Quatre étapes colorées, de la larme vue comme un bug à l’intégration, pour comprendre pourquoi on pleure en méditation",
+    "cap": "Pleurer pendant une méditation : de la peur du bug à la libération et à l’acceptation"
    }
   ],
   "insert": null,
@@ -1201,20 +1236,22 @@
     "src_s": "en/crying-during-meditation-bug-or-feature-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Crying During Meditation: Is It Normal and Why?"
+    "alt": "Woman crying during meditation on a stone by a pond, tears turning into glowing ribbons of water and blooming lotuses"
    },
    "schemas": [
     {
      "src": "en/crying-during-meditation-bug-or-feature-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Crying During Meditation: Is It Normal and Why?"
+     "alt": "Buddha with tears meditating on a lotus, storm on one side and sun on the other: crying during meditation, bug or feature",
+     "cap": "Crying during meditation: emotional overload or cathartic release and healing"
     },
     {
      "src": "en/crying-during-meditation-bug-or-feature-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Crying During Meditation: Is It Normal and Why?"
+     "alt": "Woman meditating with tears on her cheeks between two paths: crying during meditation as release or as overwhelm",
+     "cap": "Crying during meditation: emotional release and insight, or overwhelm needing support"
     }
    ],
    "insert": null,
@@ -1260,20 +1297,22 @@
    "src_s": "fr/difference-hypnose-meditation-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Hypnose ou méditation : différences et laquelle choisir"
+   "alt": "Homme hypnotisé dans un fauteuil face à une spirale et femme méditant au bord d’un lac : la différence hypnose méditation"
   },
   "schemas": [
    {
     "src": "fr/difference-hypnose-meditation-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Hypnose ou méditation : différences et laquelle choisir"
+    "alt": "Trois colonnes comparant hypnose, méditation et leurs points communs : guidage, focalisation, objectifs, relaxation, stress",
+    "cap": "Différence hypnose méditation : ce qui les distingue et ce qu’elles partagent"
    },
    {
     "src": "fr/difference-hypnose-meditation-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Hypnose ou méditation : différences et laquelle choisir"
+    "alt": "Tableau en trois colonnes comparant hypnose et méditation : différences de chacune et points communs au centre",
+    "cap": "Hypnose et méditation : ce qui les distingue et ce qu’elles ont en commun"
    }
   ],
   "insert": null,
@@ -1313,20 +1352,22 @@
     "src_s": "en/hypnosis-vs-meditation-differences-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Hypnosis vs Meditation: Key Differences and How to Choose"
+    "alt": "Paper-cut art contrasting hypnosis, a man floating in spirals beside a pocket watch, and meditation, a figure seated in calm"
    },
    "schemas": [
     {
      "src": "en/hypnosis-vs-meditation-differences-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Hypnosis vs Meditation: Key Differences and How to Choose"
+     "alt": "Comparison chart of hypnosis and meditation linked by a bridge, listing trance, guidance, awareness and their shared ground",
+     "cap": "Hypnosis vs meditation: how each works, how they differ, and what they share"
     },
     {
      "src": "en/hypnosis-vs-meditation-differences-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Hypnosis vs Meditation: Key Differences and How to Choose"
+     "alt": "Hypnosis vs meditation chart: focused suggestion on one side, mindful awareness on the other, shared ground of relaxation",
+     "cap": "Hypnosis and meditation compared: goals, guidance and the altered states they share"
     }
    ],
    "insert": null,
@@ -1372,14 +1413,15 @@
    "src_s": "fr/bonheur-competence-apprendre-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Bonheur et compétence : ce que l’on peut vraiment apprendre"
+   "alt": "Femme marchant sous des arches fleuries vers un château doré, le bonheur vu comme une compétence à apprendre"
   },
   "schemas": [
    {
     "src": "fr/bonheur-competence-apprendre-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Bonheur et compétence : ce que l’on peut vraiment apprendre"
+    "alt": "Cerveau en puzzle lumineux au centre de quatre zones : neuroplasticité, gratitude, relations sociales et pratique du bonheur",
+    "cap": "Le bonheur comme compétence : neuroplasticité, habitudes, liens sociaux, pratique"
    }
   ],
   "insert": null,
@@ -1419,14 +1461,15 @@
     "src_s": "en/happiness-skill-learn-to-be-happy-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Is Happiness a Skill? What Science Says You Can Train"
+    "alt": "Woman meditating on a mossy gear under a smiling sun, books and tools swirling above: happiness as a skill you can learn"
    },
    "schemas": [
     {
      "src": "en/happiness-skill-learn-to-be-happy-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Is Happiness a Skill? What Science Says You Can Train"
+     "alt": "A woman meditating among lotus flowers, flanked by panels on neuroplasticity, gratitude and resilience: happiness as a skill",
+     "cap": "Why happiness is a skill: the practices that train it and what they build"
     }
    ],
    "insert": null,
@@ -1472,20 +1515,22 @@
    "src_s": "fr/trouver-son-animal-de-pouvoir-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Trouver son animal de pouvoir : le voyage pas à pas"
+   "alt": "Jeune femme marchant en forêt entourée d’un loup, d’un ours, d’un cerf, d’un aigle et d’une chouette : son animal de pouvoir"
   },
   "schemas": [
    {
     "src": "fr/trouver-son-animal-de-pouvoir-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Trouver son animal de pouvoir : le voyage pas à pas"
+    "alt": "Quatre étapes pour trouver son animal de pouvoir : préparation, voyage au son du tambour, rencontre avec le loup, intégration",
+    "cap": "Les 4 étapes du voyage pour trouver son animal de pouvoir, de la préparation à l’intégration"
    },
    {
     "src": "fr/trouver-son-animal-de-pouvoir-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Trouver son animal de pouvoir : le voyage pas à pas"
+    "alt": "Quatre cartes pour trouver son animal de pouvoir : préparation, voyage au tambour, rencontre d’un regard animal, intégration",
+    "cap": "Les 4 étapes du voyage pour trouver son animal de pouvoir, de la préparation à l’intégration"
    }
   ],
   "insert": null,
@@ -1525,20 +1570,22 @@
     "src_s": "en/finding-your-power-animal-a-step-by-step-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: How to Find Your Power Animal: A Shamanic Journey"
+    "alt": "Person meditating on a cliff as a rainbow stream releases a wolf and a bear, a compass guiding the search for a power animal"
    },
    "schemas": [
     {
      "src": "en/finding-your-power-animal-a-step-by-step-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: How to Find Your Power Animal: A Shamanic Journey"
+     "alt": "Four steps to find your power animal: prepare your space, journey within, notice the signs, embody the wisdom",
+     "cap": "Four steps to find your power animal, from preparing your space to embodying its wisdom"
     },
     {
      "src": "en/finding-your-power-animal-a-step-by-step-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: How to Find Your Power Animal: A Shamanic Journey"
+     "alt": "Four parchment steps around a Spirit Guide compass to find your power animal: observe, meditate, connect, integrate",
+     "cap": "Four steps to find your power animal, from observing to honoring your guide"
     }
    ],
    "insert": null,
@@ -1584,21 +1631,23 @@
    "src_s": "fr/meditation-et-relations-ecoute-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditation et relations : écouter vraiment l’autre"
+   "alt": "Femme et homme assis en tailleur face à face sous un arbre en fleurs, échangeant une écoute consciente au coucher du soleil"
   },
   "schemas": [
    {
     "src": "fr/meditation-et-relations-ecoute-schema-1.webp",
     "w": 1212,
     "h": 732,
-    "alt": "Schéma 1 : Méditation et relations : écouter vraiment l’autre"
+    "alt": "Deux visages en papier roulé formant un yin-yang, à côté de cinq bienfaits de l’écoute : méditation et relations apaisées",
+    "cap": "Cinq bienfaits d’une écoute réelle dans le couple et les relations"
    }
   ],
   "insert": {
    "src": "fr/meditation-et-relations-ecoute-illustration.webp",
    "w": 660,
    "h": 752,
-   "alt": "Illustration : Méditation et relations : écouter vraiment l’autre"
+   "alt": "Couple assis de dos face à un lac au coucher du soleil, un chien à leurs pieds, panneaux méditation et relations : écoute",
+   "cap": "Présence, écoute, confiance : les piliers d’une relation où l’on écoute vraiment"
   },
   "faq": [
    [
@@ -1643,20 +1692,22 @@
    "src_s": "fr/s-endormir-en-meditant-rester-eveille-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : S’endormir en méditant : pourquoi, et comment rester éveillé"
+   "alt": "Femme qui s’endort en méditant, tête penchée sur un rocher face à un lac de montagne au coucher du soleil"
   },
   "schemas": [
    {
     "src": "fr/s-endormir-en-meditant-rester-eveille-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : S’endormir en méditant : pourquoi, et comment rester éveillé"
+    "alt": "Deux colonnes : pourquoi on s’endort en méditant (manque de sommeil, détente, horaire) et 4 astuces pour rester éveillé",
+    "cap": "Les causes de la somnolence en méditation et quatre façons de rester éveillé"
    },
    {
     "src": "fr/s-endormir-en-meditant-rester-eveille-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : S’endormir en méditant : pourquoi, et comment rester éveillé"
+    "alt": "Cerveau mi-orange mi-bleu : causes du fait de s’endormir en méditant à gauche, posture, yeux mi-clos et souffle à droite",
+    "cap": "Pourquoi on s’endort en méditant : trois causes et trois astuces pour rester éveillé"
    }
   ],
   "insert": null,
@@ -1696,20 +1747,22 @@
     "src_s": "en/why-do-i-fall-asleep-while-meditating-and-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Falling Asleep While Meditating? How to Stay Awake"
+    "alt": "Woman meditating on a stone with a sleepy cloud of moons on one side and sunlight on the other, tips to stay awake"
    },
    "schemas": [
     {
      "src": "en/why-do-i-fall-asleep-while-meditating-and-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Falling Asleep While Meditating? How to Stay Awake"
+     "alt": "A drowsy meditator and an alert one framing a yin-yang: causes of falling asleep while meditating and ways to stay awake",
+     "cap": "Why you fall asleep while meditating and four ways to stay alert on the cushion"
     },
     {
      "src": "en/why-do-i-fall-asleep-while-meditating-and-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Falling Asleep While Meditating? How to Stay Awake"
+     "alt": "Drowsy young man between the causes of falling asleep while meditating and tips to stay awake: rest, posture, anchoring",
+     "cap": "Why meditation makes you sleepy, and three ways to stay alert: timing, posture, anchor"
     }
    ],
    "insert": null,
@@ -1755,14 +1808,15 @@
    "src_s": "fr/reve-lucide-techniques-induction-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Rêve lucide : les 4 techniques d’induction étudiées"
+   "alt": "Quatre scènes de rêve lucide : techniques MILD, WBTB et SSILD au lit, puis test de réalité devant des horloges qui fondent"
   },
   "schemas": [
    {
     "src": "fr/reve-lucide-techniques-induction-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Rêve lucide : les 4 techniques d’induction étudiées"
+    "alt": "Quatre cartes numérotées des techniques de rêve lucide : MILD, tests de réalité, WBTB et WILD avec leurs consignes",
+    "cap": "Les 4 techniques d’induction du rêve lucide : MILD, tests de réalité, WBTB et WILD"
    }
   ],
   "insert": null,
@@ -1802,14 +1856,15 @@
     "src_s": "en/lucid-dreaming-4-proven-induction-techniques-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Lucid Dreaming Techniques: MILD, WBTB, WILD and More"
+    "alt": "Woman meditating among clouds, framed by four lucid dreaming techniques: reality checks, WBTB, MILD and WILD scenes"
    },
    "schemas": [
     {
      "src": "en/lucid-dreaming-4-proven-induction-techniques-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Lucid Dreaming Techniques: MILD, WBTB, WILD and More"
+     "alt": "Hooded figure meditating among dreamcatchers and moons, framed by lucid dreaming techniques: MILD, SSILD, WBTB and more",
+     "cap": "Four lucid dreaming induction techniques: MILD, SSILD, wake back to bed and reality checks"
     }
    ],
    "insert": null,
@@ -1855,14 +1910,15 @@
    "src_s": "fr/troisieme-oeil-glande-pineale-intuition-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Troisième œil : mythe, glande pinéale et intuition"
+   "alt": "Triptyque sur le troisième œil : œil rayonnant au-dessus des montagnes, glande pinéale dans le cerveau, femme intuitive"
   },
   "schemas": [
    {
     "src": "fr/troisieme-oeil-glande-pineale-intuition-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Troisième œil : mythe, glande pinéale et intuition"
+    "alt": "Schéma du troisième œil en trois volets : mythe de l'œil spirituel, glande pinéale et intuition, reliés par une flèche",
+    "cap": "Le troisième œil entre mythe, glande pinéale qui régule la mélatonine et intuition"
    }
   ],
   "insert": null,
@@ -1902,20 +1958,22 @@
     "src_s": "en/the-third-eye-myth-the-pineal-gland-and-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Third Eye Meaning: Pineal Gland, Myth and Intuition"
+    "alt": "Glowing figure meditating on a rock by a lake, a pine cone inside a radiant third eye above the head, under a galaxy sky"
    },
    "schemas": [
     {
      "src": "en/the-third-eye-myth-the-pineal-gland-and-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Third Eye Meaning: Pineal Gland, Myth and Intuition"
+     "alt": "Three parchment panels on the third eye: ancient symbols like the Eye of Horus, the pineal gland, and intuition and insight",
+     "cap": "The third eye seen three ways: ancient myth, the pineal gland’s biology, and intuition"
     },
     {
      "src": "en/the-third-eye-myth-the-pineal-gland-and-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Third Eye Meaning: Pineal Gland, Myth and Intuition"
+     "alt": "Meditating figure with a glowing third eye and pinecone, between scrolls on myth, the pineal gland’s biology and intuition",
+     "cap": "The third eye across myth, pineal gland biology and intuition"
     }
    ],
    "insert": null,
@@ -1961,20 +2019,22 @@
    "src_s": "fr/vaincre-ses-peurs-exposition-progressive-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Vaincre ses peurs par l’exposition douce et progressive"
+   "alt": "Randonneur tendant la main à un petit dragon sur un sentier de montagne, pour vaincre ses peurs par l’exposition douce"
   },
   "schemas": [
    {
     "src": "fr/vaincre-ses-peurs-exposition-progressive-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Vaincre ses peurs par l’exposition douce et progressive"
+    "alt": "Quatre flèches pour vaincre ses peurs par exposition progressive : identifier, hiérarchiser, s’exposer, répéter",
+    "cap": "Vaincre ses peurs par l’exposition douce : les 4 étapes et leurs bienfaits"
    },
    {
     "src": "fr/vaincre-ses-peurs-exposition-progressive-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Vaincre ses peurs par l’exposition douce et progressive"
+    "alt": "Souris, lapin, chien face à son ombre puis aigle en vol : les 4 étapes de l’exposition progressive pour vaincre ses peurs",
+    "cap": "Les 4 paliers de l’exposition progressive, des petites victoires jusqu’à la liberté"
    }
   ],
   "insert": null,
@@ -2014,14 +2074,15 @@
     "src_s": "en/overcoming-your-fears-through-gentle-exposure-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: How to Overcome Your Fears With Gradual Exposure"
+    "alt": "Man holding a lantern walking toward a spider and shadowy monsters, learning to overcome your fears in paper-cut style"
    },
    "schemas": [
     {
      "src": "en/overcoming-your-fears-through-gentle-exposure-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: How to Overcome Your Fears With Gradual Exposure"
+     "alt": "Five-step path of gentle exposure to overcome your fears: fear ladder, smallest step, repeat, breathe, celebrate",
+     "cap": "Five steps of gradual exposure to overcome your fears, from fear ladder to celebration"
     }
    ],
    "insert": null,
@@ -2067,20 +2128,22 @@
    "src_s": "fr/regression-vies-anterieures-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Régression vies antérieures : que faut-il en penser ?"
+   "alt": "Femme méditant dans une bibliothèque devant une fenêtre ronde ouvrant sur des époques passées, évoquant les vies antérieures"
   },
   "schemas": [
    {
     "src": "fr/regression-vies-anterieures-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Régression vies antérieures : que faut-il en penser ?"
+    "alt": "Quatre cartes reliées par des flèches sur la régression vies antérieures : définition, points de vue, bénéfices, précautions",
+    "cap": "Régression vers des vies antérieures : définition, avis scientifique et spirituel, précautions"
    },
    {
     "src": "fr/regression-vies-anterieures-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Régression vies antérieures : que faut-il en penser ?"
+    "alt": "Portail lumineux ouvrant sur des silhouettes du passé, entouré de quatre cartes sur la régression vers les vies antérieures",
+    "cap": "La régression vies antérieures : principe, processus, bénéfices et débat scientifique"
    }
   ],
   "insert": null,
@@ -2120,20 +2183,22 @@
     "src_s": "en/past-life-regression-what-to-think-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Past Life Regression: What Is Really Happening?"
+    "alt": "Woman meditating on a stone circle in a night forest as a spiral of past life scenes, from Egypt to castles, swirls above"
    },
    "schemas": [
     {
      "src": "en/past-life-regression-what-to-think-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Past Life Regression: What Is Really Happening?"
+     "alt": "Monk meditating in a spiral of past figures, framed by panels on past life regression technique, belief and skeptic view",
+     "cap": "Past life regression seen four ways: technique, belief, skeptic view and potential benefits"
     },
     {
      "src": "en/past-life-regression-what-to-think-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Past Life Regression: What Is Really Happening?"
+     "alt": "Meditating man amid visions of past eras, above four panels on past life regression: process, views, benefits and risks",
+     "cap": "Past life regression: the technique, competing explanations, reported benefits and risks"
     }
    ],
    "insert": null,
@@ -2179,14 +2244,15 @@
    "src_s": "fr/chamanisme-siberien-origine-mot-chamane-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Chamanisme sibérien : là où le mot « chamane » est né"
+   "alt": "Chamane sibérien coiffé de bois de renne jouant du tambour près d’une yourte enneigée sous une aurore boréale"
   },
   "schemas": [
    {
     "src": "fr/chamanisme-siberien-origine-mot-chamane-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Chamanisme sibérien : là où le mot « chamane » est né"
+    "alt": "Chamane sibérien coiffé de bois de renne jouant du tambour près d'un feu, esprits ours et loup sous une aurore boréale",
+    "cap": "Le chamane sibérien et ses esprits animaux, au cœur des traditions où le mot est né"
    }
   ],
   "insert": null,
@@ -2226,7 +2292,7 @@
     "src_s": "en/siberian-shamanism-origin-of-word-shaman-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Siberian Shamanism and the Origin of the Word Shaman"
+    "alt": "Siberian shaman with antler headdress beating a frame drum among reindeer, an owl and a yurt under northern lights"
    },
    "schemas": [],
    "insert": null,
@@ -2272,14 +2338,15 @@
    "src_s": "fr/30-jours-meditation-journal-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : 30 jours de méditation : ce qui change vraiment"
+   "alt": "Silhouette bleue méditant sur un sommet, chemin sinueux et livres ouverts au lever du soleil : 30 jours de méditation"
   },
   "schemas": [
    {
     "src": "fr/30-jours-meditation-journal-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : 30 jours de méditation : ce qui change vraiment"
+    "alt": "30 jours de méditation en trois étapes : chaos des jours 1 à 10, déclic des jours 11 à 20, puis nouveau calme de fond",
+    "cap": "30 jours de méditation : ce qui change vraiment, par tranches de 10 jours"
    }
   ],
   "insert": null,
@@ -2319,14 +2386,15 @@
     "src_s": "en/30-days-of-meditation-what-really-changes-an-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: 30-Day Meditation Challenge: What Really Changes"
+    "alt": "Silhouette meditating on a river rock, chakras glowing along the spine under galaxies, the start of daily meditation"
    },
    "schemas": [
     {
      "src": "en/30-days-of-meditation-what-really-changes-an-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: 30-Day Meditation Challenge: What Really Changes"
+     "alt": "Six icons charting 30 days of meditation, from clearer mind and better sleep in weeks 1–2 to resilience and patience in 3–4",
+     "cap": "What changes over 30 days of daily meditation, split into weeks 1–2 and weeks 3–4"
     }
    ],
    "insert": null,
@@ -2372,14 +2440,15 @@
    "src_s": "fr/meditation-du-soir-pour-dormir-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditation du soir pour dormir : le pouvoir d’une voix"
+   "alt": "Femme endormie dans son lit, téléphone diffusant une méditation du soir pour dormir, lune et lac derrière la fenêtre"
   },
   "schemas": [
    {
     "src": "fr/meditation-du-soir-pour-dormir-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Méditation du soir pour dormir : le pouvoir d’une voix"
+    "alt": "Méditation du soir pour dormir : micro et oreille entre esprit agité et sommeil serein, la voix guide vers le repos",
+    "cap": "Comment une voix guidée fait passer de l’esprit agité au sommeil serein le soir"
    }
   ],
   "insert": null,
@@ -2419,20 +2488,22 @@
     "src_s": "en/evening-meditation-why-falling-asleep-to-a-voice-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Why Falling Asleep to a Guided Voice Works So Well"
+    "alt": "Woman meditating by a mountain lake as a rainbow swirl rises to a crescent moon where a girl sleeps: guided sleep meditation"
    },
    "schemas": [
     {
      "src": "en/evening-meditation-why-falling-asleep-to-a-voice-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Why Falling Asleep to a Guided Voice Works So Well"
+     "alt": "Woman asleep on a pillow under a crescent moon as a speaker plays a voice, with four benefits of guided sleep meditation",
+     "cap": "How a guided voice calms the mind and promotes deep rest for evening meditation"
     },
     {
      "src": "en/evening-meditation-why-falling-asleep-to-a-voice-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Why Falling Asleep to a Guided Voice Works So Well"
+     "alt": "Sleeping face with a glowing brain and ear, sound waves and a bed showing why a guided sleep meditation helps you drift off",
+     "cap": "Why a calm voice helps you fall asleep: quieter thoughts, rest response and a sleep cue"
     }
    ],
    "insert": null,
@@ -2478,20 +2549,22 @@
    "src_s": "fr/chi-qi-energie-vitale-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Qu’est-ce que le chi ? L’énergie vitale expliquée"
+   "alt": "Homme translucide parcouru de méridiens lumineux, assis devant un livre et une loupe parmi boussoles : qu’est-ce que le chi ?"
   },
   "schemas": [
    {
     "src": "fr/chi-qi-energie-vitale-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Qu’est-ce que le chi ? L’énergie vitale expliquée"
+    "alt": "Silhouette humaine parcourue de méridiens lumineux entre le concept chinois du chi et une analogie bioélectrique",
+    "cap": "Le chi vu par la médecine chinoise puis traduit en bioélectricité pour un esprit cartésien"
    },
    {
     "src": "fr/chi-qi-energie-vitale-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Qu’est-ce que le chi ? L’énergie vitale expliquée"
+    "alt": "Deux colonnes : le chi vu comme force vitale, méridiens et équilibre, face à la bioélectricité, aux nerfs et à l’homéostasie",
+    "cap": "Qu’est-ce que le chi ? Lecture énergétique et lecture cartésienne côte à côte"
    }
   ],
   "insert": null,
@@ -2531,14 +2604,15 @@
     "src_s": "en/what-is-chi-life-energy-explained-for-the-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: What Is Chi? Qi and Life Energy, Explained Clearly"
+    "alt": "Watercolor figure meditating on a stone platform, wrapped in golden swirls of chi energy amid mountains and rivers"
    },
    "schemas": [
     {
      "src": "en/what-is-chi-life-energy-explained-for-the-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: What Is Chi? Qi and Life Energy, Explained Clearly"
+     "alt": "Four panels on what is chi: a flow of vitality, yin and yang balance, cultivation through tai chi and qigong, benefits",
+     "cap": "Chi explained in four points: vital flow, yin-yang balance, practice and real benefits"
     }
    ],
    "insert": null,
@@ -2584,26 +2658,29 @@
    "src_s": "fr/annales-akashiques-consultation-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Annales akashiques : consultation, mode d’emploi prudent"
+   "alt": "Vieil homme à la lanterne consultant un grand livre lumineux dans une bibliothèque de rouleaux : annales akashiques"
   },
   "schemas": [
    {
     "src": "fr/annales-akashiques-consultation-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Annales akashiques : consultation, mode d’emploi prudent"
+    "alt": "Quatre étapes colorées d'une consultation des annales akashiques : préparation, demande d'accès, exploration, intégration",
+    "cap": "Les 4 étapes d'une consultation prudente des annales akashiques"
    },
    {
     "src": "fr/annales-akashiques-consultation-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Annales akashiques : consultation, mode d’emploi prudent"
+    "alt": "Livre ouvert sous une spirale cosmique et quatre étapes pour consulter les annales akashiques, de la préparation au retour",
+    "cap": "Les quatre étapes d’une consultation prudente des annales akashiques, de la préparation au retour"
    },
    {
     "src": "fr/annales-akashiques-consultation-schema-3.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 3 : Annales akashiques : consultation, mode d’emploi prudent"
+    "alt": "Femme entrant dans les annales akashiques, bibliothèque cosmique, entourée de conseils : préparation, ancrage, discernement",
+    "cap": "Annales akashiques : quatre précautions avant toute consultation"
    }
   ],
   "insert": null,
@@ -2639,25 +2716,26 @@
    "desc": "Where the Akashic Records idea comes from, what science says, and how to do a personal reading with discernment: questions, journaling and closing.",
    "kw": "Akashic Records, Akashic Records consultation, reading the Akashic Records, opening the Akashic Records, closing the Akashic Records, Akashic reading, akasha, spiritual discernment, intuitive journal, Linda Howe",
    "photo": {
-    "src": "photos/p07-hero.webp",
-    "src_s": "photos/p07-hero-640.webp",
+    "src": "en/akashic-records-reading-guide.webp",
+    "src_s": "en/akashic-records-reading-guide-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Akashic Records: A Careful Guide to Personal Readings",
-    "pid": "p07"
+    "alt": "Quilled paper sun and full moon above a seated Buddha, cherry blossoms and pagodas, a calm setting for Akashic Records"
    },
    "schemas": [
     {
      "src": "en/akashic-records-reading-guide-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Akashic Records: A Careful Guide to Personal Readings"
+     "alt": "Mystical library with floating books, surrounded by panels on what the Akashic Records are, access methods and cautions",
+     "cap": "The Akashic Records in four points: definition, access, preparation and cautions"
     },
     {
      "src": "en/akashic-records-reading-guide-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Akashic Records: A Careful Guide to Personal Readings"
+     "alt": "Mystical library with floating books and crystals, framed by panels on accessing the Akashic Records and key cautions",
+     "cap": "Akashic Records: what they are, how to access them, how to prepare and what to watch for"
     }
    ],
    "insert": null,
@@ -2703,14 +2781,15 @@
    "src_s": "fr/chamanisme-celtique-druides-awen-autre-monde-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Chamanisme celtique : druides, awen et Autre Monde"
+   "alt": "Quatre scènes du chamanisme celtique : druide sous un chêne, symbole de l’awen, voyage et secrets de l’Autre Monde"
   },
   "schemas": [
    {
     "src": "fr/chamanisme-celtique-druides-awen-autre-monde-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Chamanisme celtique : druides, awen et Autre Monde"
+    "alt": "Quatre volets du chamanisme celtique : druides et bâton, rayons de l'awen, porte vers l'Autre Monde, cerf et corbeau",
+    "cap": "Druides, awen, Autre Monde (Annwn) et animaux sacrés du chamanisme celtique"
    }
   ],
   "insert": null,
@@ -2750,7 +2829,7 @@
     "src_s": "en/celtic-shamanism-druids-awen-otherworld-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Celtic Shamanism: What We Really Know About Druids"
+    "alt": "Long-haired druid with a staff walking through an old oak forest among standing stones and a dolmen, the awen sign above"
    },
    "schemas": [],
    "insert": null,
@@ -2796,20 +2875,22 @@
    "src_s": "fr/exercice-gratitude-3-lignes-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Exercice de gratitude : 3 lignes pour changer d’humeur"
+   "alt": "Jeune femme de dos écrivant à la plume dans un carnet près d’une lampe, parchemin de trois lignes : exercice de gratitude"
   },
   "schemas": [
    {
     "src": "fr/exercice-gratitude-3-lignes-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Exercice de gratitude : 3 lignes pour changer d’humeur"
+    "alt": "Trois cartes numérotées de l’exercice de gratitude : ce qui m’a fait sourire, une chose apprise, une personne que j’apprécie",
+    "cap": "L’exercice de gratitude en 3 lignes à écrire chaque soir"
    },
    {
     "src": "fr/exercice-gratitude-3-lignes-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Exercice de gratitude : 3 lignes pour changer d’humeur"
+    "alt": "Schéma en trois étapes de l’exercice de gratitude : écrire 3 choses positives, ressentir l’émotion, répéter chaque soir",
+    "cap": "Écrire, ressentir, répéter : les 3 étapes de l’exercice de gratitude du soir"
    }
   ],
   "insert": null,
@@ -2849,14 +2930,15 @@
     "src_s": "en/gratitude-the-3-line-exercise-that-can-reshape-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Three Good Things: The Gratitude Exercise That Works"
+    "alt": "Woman meditating by a river under three glowing scrolls, sun, winged heart and sprout, for a three-line gratitude exercise"
    },
    "schemas": [
     {
      "src": "en/gratitude-the-3-line-exercise-that-can-reshape-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Three Good Things: The Gratitude Exercise That Works"
+     "alt": "Three parchment scrolls lay out the gratitude exercise: a small joy, a kind connection and a personal strength or lesson",
+     "cap": "The three lines of the gratitude exercise and the benefit each one brings"
     }
    ],
    "insert": null,
@@ -2902,14 +2984,15 @@
    "src_s": "fr/rever-d-un-defunt-reve-de-visite-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Rêver d’un défunt : les rêves de visite plus réels"
+   "alt": "Femme endormie dans son lit tandis qu’un défunt lumineux se penche sur elle, illustrant un rêve de visite nocturne"
   },
   "schemas": [
    {
     "src": "fr/rever-d-un-defunt-reve-de-visite-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Rêver d’un défunt : les rêves de visite plus réels"
+    "alt": "Schéma du rêve de visite d'un défunt : expérience réaliste, messages de réconfort, impact au réveil, interprétation",
+    "cap": "Ce qui caractérise un rêve de visite d'un défunt, du réalisme au réconfort au réveil"
    }
   ],
   "insert": null,
@@ -2949,20 +3032,22 @@
     "src_s": "en/visitation-dreams-when-someone-who-has-died-appears-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Visitation Dreams: Dreaming of a Loved One Who Died"
+    "alt": "Woman asleep in bed as a luminous translucent figure reaches toward her through swirling clouds, a visitation dream scene"
    },
    "schemas": [
     {
      "src": "en/visitation-dreams-when-someone-who-has-died-appears-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Visitation Dreams: Dreaming of a Loved One Who Died"
+     "alt": "Woman sleeping peacefully as a smiling winged elder appears in light, framed by the traits and impact of visitation dreams",
+     "cap": "Visitation dreams: their key traits, common themes, emotional impact and how to respond"
     },
     {
      "src": "en/visitation-dreams-when-someone-who-has-died-appears-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Visitation Dreams: Dreaming of a Loved One Who Died"
+     "alt": "Glowing figure leaning over a sleeping woman through an open door, with panels on the traits and themes of visitation dreams",
+     "cap": "Key traits, common messages and emotional impact of visitation dreams"
     }
    ],
    "insert": null,
@@ -3008,20 +3093,22 @@
    "src_s": "fr/kundalini-pratique-precautions-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Kundalini : le serpent d’énergie, pratique et précautions"
+   "alt": "Femme en lotus sous un portique de pierre, un serpent lumineux de kundalini s’élevant le long de ses chakras colorés"
   },
   "schemas": [
    {
     "src": "fr/kundalini-pratique-precautions-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Kundalini : le serpent d’énergie, pratique et précautions"
+    "alt": "Colonne de chakras du serpent endormi au lotus : pratique de la kundalini (souffle, mantras, postures) et précautions",
+    "cap": "Kundalini : trois leviers de pratique et les précautions essentielles avant l’éveil"
    },
    {
     "src": "fr/kundalini-pratique-precautions-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Kundalini : le serpent d’énergie, pratique et précautions"
+    "alt": "Colonne vertébrale ornée des chakras et serpent, entre trois encadrés sur la kundalini : pratique, énergie, précautions",
+    "cap": "Kundalini : pratiques d’éveil, nature de l’énergie et précautions à respecter"
    }
   ],
   "insert": null,
@@ -3057,12 +3144,11 @@
    "desc": "What kundalini means in yoga and tantra, what an awakening feels like, what research says about intense practices, and a gentle way to explore safely.",
    "kw": "kundalini, kundalini awakening, kundalini syndrome, kundalini yoga, kundalini energy, chakras, sushumna, meditation adverse effects, energy practices, kundalini precautions",
    "photo": {
-    "src": "photos/p22-hero.webp",
-    "src_s": "photos/p22-hero-640.webp",
+    "src": "en/kundalini-awakening-practice-precautions.webp",
+    "src_s": "en/kundalini-awakening-practice-precautions-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Kundalini Awakening: Practice, Signs and Precautions",
-    "pid": "p22"
+    "alt": "Kundalini energy as a blue and gold paper river spiraling up to a radiant sun, cherry blossoms, mountains and a pagoda"
    },
    "schemas": [],
    "insert": null,
@@ -3108,14 +3194,15 @@
    "src_s": "fr/types-de-transe-voyage-possession-extase-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Types de transe : voyage, possession et extase"
+   "alt": "Trois types de transe illustrés : voyage d'une dormeuse hors de son corps, possession dansée parmi les esprits, extase"
   },
   "schemas": [
    {
     "src": "fr/types-de-transe-voyage-possession-extase-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Types de transe : voyage, possession et extase"
+    "alt": "Trois panneaux illustrés sur les types de transe : voyage chamanique ailé, possession masquée par le feu, extase lumineuse",
+    "cap": "Les trois types de transe, voyage, possession et extase, et ce qui les distingue"
    }
   ],
   "insert": null,
@@ -3155,7 +3242,7 @@
     "src_s": "en/types-of-trance-journeying-possession-ecstasy-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Types of Trance: Journeying, Possession and Ecstasy"
+    "alt": "Four panels on types of trance: a woman meditating by a valley, a dream journey, spirit possession and arms raised in ecstasy"
    },
    "schemas": [],
    "insert": null,
@@ -3201,14 +3288,15 @@
    "src_s": "fr/tambour-chamanique-choisir-jouer-voyager-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Tambour chamanique : le choisir, en jouer et voyager"
+   "alt": "Quatre scènes d’une femme et son tambour chamanique : choisir l’instrument, jouer près du feu, voyager, contempler la vallée"
   },
   "schemas": [
    {
     "src": "fr/tambour-chamanique-choisir-jouer-voyager-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Tambour chamanique : le choisir, en jouer et voyager"
+    "alt": "Quatre cartes sur le tambour chamanique : le choisir, en jouer avec une mailloche, voyager en transe et ses bienfaits",
+    "cap": "Choisir son tambour chamanique, en jouer, voyager avec et en tirer des bienfaits"
    }
   ],
   "insert": null,
@@ -3248,20 +3336,22 @@
     "src_s": "en/the-shamanic-drum-how-to-choose-it-play-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Shamanic Drum: How to Choose, Play and Journey"
+    "alt": "Seated figure beating a shamanic drum painted with a bear and a wolf, golden sound waves spiraling into a starry galaxy"
    },
    "schemas": [
     {
      "src": "en/the-shamanic-drum-how-to-choose-it-play-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Shamanic Drum: How to Choose, Play and Journey"
+     "alt": "Three parchment scrolls on the shamanic drum: choosing a hide frame drum, playing a steady beat and journeying with sound",
+     "cap": "The shamanic drum in three steps: choose it, play the rhythm, then journey with it"
     },
     {
      "src": "en/shamanic-drum-choose-play-journey-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Shamanic Drum: How to Choose, Play and Journey"
+     "alt": "Shamanic drum guide: choosing hide and wood, a woman playing a steady beat, then a drum journey into altered states",
+     "cap": "How to choose, play and journey with a shamanic drum, step by step"
     }
    ],
    "insert": null,
@@ -3307,20 +3397,22 @@
    "src_s": "fr/neuroplasticite-meditation-cerveau-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Neuroplasticité et méditation : votre cerveau change"
+   "alt": "Homme méditant sur un rocher face à un profil de tête rempli d'un neurone lumineux, illustrant la neuroplasticité"
   },
   "schemas": [
    {
     "src": "fr/neuroplasticite-meditation-cerveau-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Neuroplasticité et méditation : votre cerveau change"
+    "alt": "Cerveau bicolore au centre entre mécanismes clés et facteurs d'influence de la neuroplasticité : sommeil, sport, lecture",
+    "cap": "Comment la neuroplasticité fait évoluer le cerveau à tout âge, et ce qui l'influence"
    },
    {
     "src": "fr/neuroplasticite-meditation-cerveau-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Neuroplasticité et méditation : votre cerveau change"
+    "alt": "Quatre cartes illustrées sur la neuroplasticité : création de connexions, renforcement des liens, adaptation, réorganisation",
+    "cap": "Les 4 mécanismes de la neuroplasticité qui permettent au cerveau de changer à tout âge"
    }
   ],
   "insert": null,
@@ -3360,20 +3452,22 @@
     "src_s": "en/neuroplasticity-your-brain-can-change-at-any-age-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Neuroplasticity and Meditation: What Really Changes"
+    "alt": "Colourful paper-quilled brain above a winding river, with an older man reading and children playing music: neuroplasticity"
    },
    "schemas": [
     {
      "src": "en/neuroplasticity-your-brain-can-change-at-any-age-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Neuroplasticity and Meditation: What Really Changes"
+     "alt": "Illuminated brain surrounded by four neuroplasticity panels: lifelong adaptability, rewiring, experience and recovery",
+     "cap": "Four ways neuroplasticity lets the brain rewire itself throughout adult life"
     },
     {
      "src": "en/neuroplasticity-your-brain-can-change-at-any-age-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Neuroplasticity and Meditation: What Really Changes"
+     "alt": "Brain growing from a tree, with panels on how neuroplasticity works, its key drivers such as meditation, and its paradox",
+     "cap": "How neuroplasticity rewires the brain, what drives it and why it lasts into old age"
     }
    ],
    "insert": null,
@@ -3419,26 +3513,29 @@
    "src_s": "fr/insomnie-arreter-essayer-de-dormir-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Insomnie : et si vous arrêtiez d’essayer de dormir ?"
+   "alt": "Jeune femme éveillée dans son lit, entourée d’horloges, regardant la lune par une fenêtre ronde, une nuit d’insomnie apaisée"
   },
   "schemas": [
    {
     "src": "fr/insomnie-arreter-essayer-de-dormir-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Insomnie : et si vous arrêtiez d’essayer de dormir ?"
+    "alt": "Insomnie : l’effort mental pour dormir face au lâcher-prise, horloge, lit, lune apaisée et règle des 20 minutes",
+    "cap": "Le paradoxe de l’insomnie : vouloir dormir entretient l’éveil, lâcher prise l’apaise"
    },
    {
     "src": "fr/insomnie-arreter-essayer-de-dormir-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Insomnie : et si vous arrêtiez d’essayer de dormir ?"
+    "alt": "Quatre étapes contre l'insomnie : effort contre-productif, lâcher-prise, approche anti-effort, sommeil plus naturel",
+    "cap": "Pourquoi arrêter d'essayer de dormir réduit l'insomnie, en 4 étapes"
    },
    {
     "src": "fr/insomnie-arreter-essayer-de-dormir-schema-3.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 3 : Insomnie : et si vous arrêtiez d’essayer de dormir ?"
+    "alt": "Femme éveillée face à un réveil en pleine insomnie, à côté d'une femme endormie sereine illustrant le lâcher-prise",
+    "cap": "Insomnie : l'effort pour dormir entretient l'éveil, le lâcher-prise ramène le sommeil"
    }
   ],
   "insert": null,
@@ -3478,20 +3575,22 @@
     "src_s": "en/insomnia-what-if-you-stopped-trying-to-sleep-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Insomnia: Why Trying Harder to Sleep Backfires"
+    "alt": "Woman meditating on a cliff under a full moon and constellations, calmly accepting insomnia instead of fighting it"
    },
    "schemas": [
     {
      "src": "en/insomnia-what-if-you-stopped-trying-to-sleep-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Insomnia: Why Trying Harder to Sleep Backfires"
+     "alt": "Woman reading calmly in an armchair at night, surrounded by four panels on paradoxical intention for insomnia",
+     "cap": "Paradoxical intention for insomnia: stop chasing sleep to break the cycle"
     },
     {
      "src": "en/insomnia-what-if-you-stopped-trying-to-sleep-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Insomnia: Why Trying Harder to Sleep Backfires"
+     "alt": "Four insomnia panels: tangled brain from trying, reading in an armchair, resting body on a cloud, moon of lasting sleep",
+     "cap": "Why trying to sleep fuels insomnia, and how acceptance lets sleep come back"
     }
    ],
    "insert": null,
@@ -3537,14 +3636,15 @@
    "src_s": "fr/aura-existe-t-elle-couleurs-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : L’aura existe-t-elle ? Tradition, science et couleurs"
+   "alt": "Silhouette de papier, moitié orange avec l’œil d’Horus, moitié bleue avec IRM et ADN : l’aura entre tradition et science"
   },
   "schemas": [
    {
     "src": "fr/aura-existe-t-elle-couleurs-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : L’aura existe-t-elle ? Tradition, science et couleurs"
+    "alt": "Silhouettes lumineuses et quatre cartes sur l’aura humaine : tradition, photographie Kirlian, neurosciences et verdict actuel",
+    "cap": "L’aura existe-t-elle ? Tradition, tentatives scientifiques, lectures modernes et verdict"
    }
   ],
   "insert": null,
@@ -3584,20 +3684,22 @@
     "src_s": "en/does-the-aura-exist-an-honest-look-at-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Does the Aura Exist? What Science Says About Auras"
+    "alt": "Woman meditating inside a rainbow human aura, lotus and third eye on one side, brain waves and a camera on the other"
    },
    "schemas": [
     {
      "src": "en/does-the-aura-exist-an-honest-look-at-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Does the Aura Exist? What Science Says About Auras"
+     "alt": "Man meditating inside a glowing human aura, with traditional views on the left and scientific bioelectric fields on right",
+     "cap": "The human aura seen by tradition and by science: life force versus measurable fields"
     },
     {
      "src": "en/does-the-aura-exist-an-honest-look-at-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Does the Aura Exist? What Science Says About Auras"
+     "alt": "Meditating figure split in two: chakras and subtle bodies on the tradition side, biofield and Kirlian photography on science",
+     "cap": "The human aura seen by tradition as an energy body and by science as a biofield"
     }
    ],
    "insert": null,
@@ -3643,20 +3745,22 @@
    "src_s": "fr/danse-extatique-ecstatic-dance-transe-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Danse extatique : quand bouger fait décoller l’esprit"
+   "alt": "Femme en tenue fluide dansant bras levés sur un sommet rocheux au coucher du soleil, rubans en spirale : la danse extatique"
   },
   "schemas": [
    {
     "src": "fr/danse-extatique-ecstatic-dance-transe-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Danse extatique : quand bouger fait décoller l’esprit"
+    "alt": "Quatre cartes colorées sur la danse extatique : libération émotionnelle, connexion corps-esprit, transe et communauté",
+    "cap": "Danse extatique : quatre effets du mouvement libre sur l’esprit"
    },
    {
     "src": "fr/danse-extatique-ecstatic-dance-transe-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Danse extatique : quand bouger fait décoller l’esprit"
+    "alt": "Quatre cartes sur la danse extatique : lâcher-prise, énergie des endorphines, expression émotionnelle et ancrage",
+    "cap": "Les 4 effets de la danse extatique, du lâcher-prise total à l’ancrage dans l’instant"
    }
   ],
   "insert": null,
@@ -3696,20 +3800,22 @@
     "src_s": "en/ecstatic-dance-why-moving-your-body-can-set-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Ecstatic Dance: Flow, Trance and What Science Says"
+    "alt": "Dancer with flowing hair twirling under a full moon amid colorful paper swirls, four smaller ecstatic dance scenes around her"
    },
    "schemas": [
     {
      "src": "en/ecstatic-dance-why-moving-your-body-can-set-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Ecstatic Dance: Flow, Trance and What Science Says"
+     "alt": "Silhouette dancing freely in a swirl of light above five scrolls on ecstatic dance, from releasing tension to flow state",
+     "cap": "Five benefits of ecstatic dance: release, joy, flow state, self-awareness and freedom"
     },
     {
      "src": "en/ecstatic-dance-why-moving-your-body-can-set-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Ecstatic Dance: Flow, Trance and What Science Says"
+     "alt": "Ecstatic dance figure whirling before a glowing tree, with benefits like flow state, emotional release and connection",
+     "cap": "Why ecstatic dance frees the mind: grounding, flow, emotional release and community"
     }
    ],
    "insert": null,
@@ -3755,14 +3861,15 @@
    "src_s": "fr/interpreter-ses-reves-methode-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Interpréter ses rêves : une méthode en 4 questions"
+   "alt": "Femme assise sur son lit notant ses rêves dans un carnet de symboles, chien endormi : interpréter ses rêves soi-même"
   },
   "schemas": [
    {
     "src": "fr/interpreter-ses-reves-methode-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Interpréter ses rêves : une méthode en 4 questions"
+    "alt": "Quatre cercles reliés par des flèches pour interpréter ses rêves : noter, ses symboles, relier à sa vie, trouver le message",
+    "cap": "Interpréter ses rêves en 4 questions, sans dictionnaire des songes"
    }
   ],
   "insert": null,
@@ -3802,20 +3909,22 @@
     "src_s": "en/how-to-interpret-your-dreams-without-a-dream-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: How to Interpret Your Dreams Without a Dictionary"
+    "alt": "Meditating silhouette before a swirling vortex of animals, clocks and doors, symbols to explore when you interpret dreams"
    },
    "schemas": [
     {
      "src": "en/how-to-interpret-your-dreams-without-a-dream-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: How to Interpret Your Dreams Without a Dictionary"
+     "alt": "Woman meditating amid dream symbols, with four steps for dream interpretation: record, feel, connect to life, dialogue",
+     "cap": "How to interpret dreams in four steps, without a dream dictionary"
     },
     {
      "src": "en/how-to-interpret-dreams-without-dictionary-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: How to Interpret Your Dreams Without a Dictionary"
+     "alt": "Woman in bed beneath a dream cloud of keys and a mirror, four scrolls on how to interpret dreams without a dictionary",
+     "cap": "Four steps to interpret your dreams: record, spot symbols, link to life, find meaning"
     }
    ],
    "insert": null,
@@ -3861,14 +3970,15 @@
    "src_s": "fr/qi-gong-debutant-5-mouvements-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Qi gong débutant : 5 mouvements pour sentir l’énergie"
+   "alt": "Femme en tunique pratiquant un mouvement de qi gong pour débutant sur une falaise face au lac, cerisiers et soleil levant"
   },
   "schemas": [
    {
     "src": "fr/qi-gong-debutant-5-mouvements-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Qi gong débutant : 5 mouvements pour sentir l’énergie"
+    "alt": "Cinq pictogrammes de qi gong débutant : réveil, souffle, pousser le Qi, embrasser l’énergie et ancrage, 2 minutes chacun",
+    "cap": "Les 5 mouvements de qi gong pour débutant, 2 minutes chacun, pour sentir l’énergie"
    }
   ],
   "insert": null,
@@ -3904,12 +4014,11 @@
    "desc": "Five slow qigong movements to feel warmth, tingling and calm in 10 minutes, plus the Wuji posture, beginner mistakes to avoid and what science says.",
    "kw": "qigong for beginners, qigong exercises, 10-minute qigong, qigong movements, feel qi, feel energy, Wuji posture, lower dantian, qigong benefits",
    "photo": {
-    "src": "photos/p35-hero.webp",
-    "src_s": "photos/p35-hero-640.webp",
+    "src": "en/qigong-for-beginners-5-movements.webp",
+    "src_s": "en/qigong-for-beginners-5-movements-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Qigong for Beginners: A Simple 10-Minute Routine",
-    "pid": "p35"
+    "alt": "Qigong for beginners: a faceless figure before a golden sun, energy swirls of blue and gold, cherry blossoms and temples"
    },
    "schemas": [],
    "insert": null,
@@ -3955,20 +4064,22 @@
    "src_s": "fr/chant-diphonique-mongol-khoomii-transe-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Chant diphonique mongol : khöömii, voix et transe"
+   "alt": "Vieil homme en tenue mongole pratiquant le chant diphonique dans une yourte, volutes sonores s'échappant vers la steppe"
   },
   "schemas": [
    {
     "src": "fr/chant-diphonique-mongol-khoomii-transe-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Chant diphonique mongol : khöömii, voix et transe"
+    "alt": "Quatre panneaux sur le chant diphonique mongol : technique du khöömii, chamanisme, induction de la transe, leçons modernes",
+    "cap": "Le khöömii mongol : deux notes simultanées, chamanisme, transe et neuroacoustique"
    },
    {
     "src": "fr/chant-diphonique-mongol-khoomii-transe-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Chant diphonique mongol : khöömii, voix et transe"
+    "alt": "Schéma en quatre volets du chant diphonique mongol : chaman au tambour, technique du khöömii, transe et usage thérapeutique",
+    "cap": "Chant diphonique mongol : racines chamaniques, technique vocale, effets sur la transe et héritage"
    }
   ],
   "insert": null,
@@ -4008,7 +4119,7 @@
     "src_s": "en/overtone-singing-and-trance-what-mongolia-can-teach-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Overtone Singing and Trance: The Truth About Khöömii"
+    "alt": "Mongolian man in a traditional deel meditating on a rock, sound waves flowing to a horsehead fiddle: overtone singing"
    },
    "schemas": [],
    "insert": null,
@@ -4054,14 +4165,15 @@
    "src_s": "fr/nsdr-repos-profond-sans-sommeil-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : NSDR : peut-on vraiment récupérer sans dormir ?"
+   "alt": "Femme allongée sur un matelas près d’une baie vitrée au coucher du soleil, plantes autour, en séance de NSDR"
   },
   "schemas": [
    {
     "src": "fr/nsdr-repos-profond-sans-sommeil-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : NSDR : peut-on vraiment récupérer sans dormir ?"
+    "alt": "Trois panneaux sur le NSDR, repos profond sans sommeil : état entre-deux, super-récupération et réinitialisation nerveuse",
+    "cap": "Le NSDR en 3 effets : état entre-deux, récupération rapide et apaisement nerveux"
    }
   ],
   "insert": null,
@@ -4101,20 +4213,22 @@
     "src_s": "en/nsdr-deep-rest-without-sleep-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: NSDR: What Non-Sleep Deep Rest Can and Can’t Do"
+    "alt": "Woman reclining on a mossy rock by a lake among ruins, eyes closed in non-sleep deep rest, wrapped in glowing swirls"
    },
    "schemas": [
     {
      "src": "en/nsdr-deep-rest-without-sleep-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: NSDR: What Non-Sleep Deep Rest Can and Can’t Do"
+     "alt": "NSDR explained: a woman lying in deep rest, calmer brainwaves, body scan, a soothed nervous system and recharged energy",
+     "cap": "What NSDR does: conscious deep rest that calms the nerves and recharges energy"
     },
     {
      "src": "en/nsdr-deep-rest-without-sleep-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: NSDR: What Non-Sleep Deep Rest Can and Can’t Do"
+     "alt": "Person lying in deep relaxation under brain waves, framed by NSDR techniques such as yoga nidra and its key benefits",
+     "cap": "How NSDR works: yoga nidra and body scan, brain states and benefits in 10-20 minutes"
     }
    ],
    "insert": null,
@@ -4160,20 +4274,22 @@
    "src_s": "fr/meditation-chakras-guidee-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditation des chakras guidée : de la racine à la couronne"
+   "alt": "Femme de dos en méditation des chakras sur un rocher, sept chakras lumineux alignés le long du dos, vallée et temples"
   },
   "schemas": [
    {
     "src": "fr/meditation-chakras-guidee-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Méditation des chakras guidée : de la racine à la couronne"
+    "alt": "Arbre lumineux reliant les sept chakras de la racine à la couronne, avec action et bienfait : méditation des chakras",
+    "cap": "Les 7 étapes d’une méditation des chakras guidée, de la racine à la couronne"
    },
    {
     "src": "fr/meditation-chakras-guidee-schema-2.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 2 : Méditation des chakras guidée : de la racine à la couronne"
+    "alt": "Les sept chakras alignés de la racine rouge à la couronne violette, avec leurs qualités, pour une méditation chakras guidée",
+    "cap": "Méditation des chakras guidée : les 7 centres de la racine à la couronne"
    }
   ],
   "insert": null,
@@ -4209,12 +4325,11 @@
    "desc": "A 20-minute guided chakra meditation from root to crown: colors, breathing and simple phrases for each chakra, plus the step most practices forget.",
    "kw": "chakra meditation, guided chakra meditation, seven chakras, root chakra, crown chakra, heart chakra, chakra colors, energy meditation, body awareness meditation",
    "photo": {
-    "src": "photos/p50-hero.webp",
-    "src_s": "photos/p50-hero-640.webp",
+    "src": "en/guided-chakra-meditation-root-to-crown.webp",
+    "src_s": "en/guided-chakra-meditation-root-to-crown-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Guided Chakra Meditation: A 20-Minute Root-to-Crown Practice",
-    "pid": "p50"
+    "alt": "Monk seen from behind facing misty peaks and a temple as a glowing energy spiral rises, a guided chakra meditation"
    },
    "schemas": [],
    "insert": null,
@@ -4260,14 +4375,15 @@
    "src_s": "fr/rester-bloque-en-transe-mythes-realites-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Rester bloqué en transe : mythes, réalités et alertes"
+   "alt": "Femme vêtue de blanc méditant en transe, enveloppée de volutes lumineuses, dans une salle gothique ouverte sur un lac"
   },
   "schemas": [
    {
     "src": "fr/rester-bloque-en-transe-mythes-realites-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Rester bloqué en transe : mythes, réalités et alertes"
+    "alt": "Tableau sur le risque de rester bloqué en transe : trois mythes face à trois réalités, réveil naturel, volonté et sécurité",
+    "cap": "Rester bloqué en transe : trois mythes répandus confrontés à la réalité scientifique"
    }
   ],
   "insert": null,
@@ -4303,12 +4419,11 @@
    "desc": "Why you can’t get permanently stuck in hypnosis, what feeling “somewhere else” after a practice can mean, how to ground yourself and when to seek help.",
    "kw": "stuck in hypnosis, stuck in trance, hypnosis myths, is hypnosis safe, trance states, grounding techniques, derealization, depersonalization, altered states of consciousness",
    "photo": {
-    "src": "photos/p28-hero.webp",
-    "src_s": "photos/p28-hero-640.webp",
+    "src": "en/stuck-in-trance-hypnosis-myths.webp",
+    "src_s": "en/stuck-in-trance-hypnosis-myths-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Can You Get Stuck in Hypnosis? Myths vs. Warning Signs",
-    "pid": "p28"
+    "alt": "Dreamlike paper scene of a dragon in blue waves, sun and moon and a praying Guanyin, evoking trance states and their myths"
    },
    "schemas": [],
    "insert": null,
@@ -4354,14 +4469,15 @@
    "src_s": "fr/paralysie-du-sommeil-causes-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Paralysie du sommeil : causes, présences et que faire"
+   "alt": "Jeune femme figée dans son lit, yeux grands ouverts, entourée de créatures sombres : la paralysie du sommeil"
   },
   "schemas": [
    {
     "src": "fr/paralysie-du-sommeil-causes-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Paralysie du sommeil : causes, présences et que faire"
+    "alt": "Quatre cartes numérotées sur fond nocturne pour la paralysie du sommeil : comprendre, identifier les causes, apprivoiser",
+    "cap": "Paralysie du sommeil : comprendre, identifier les causes, apprivoiser et prévenir"
    }
   ],
   "insert": null,
@@ -4401,20 +4517,22 @@
     "src_s": "en/sleep-paralysis-causes-what-to-do-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Sleep Paralysis: Causes, Hallucinations and What to Do"
+    "alt": "Woman sitting cross-legged on her bed at night, thought bubbles with a clock, waves and a key, calmly facing sleep paralysis"
    },
    "schemas": [
     {
      "src": "en/sleep-paralysis-causes-what-to-do-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Sleep Paralysis: Causes, Hallucinations and What to Do"
+     "alt": "Person in bed with a hand on the chest, linked to panels on sleep paralysis causes, triggers and calm coping strategies",
+     "cap": "What sleep paralysis is, what triggers it and how to get through an episode"
     },
     {
      "src": "en/sleep-paralysis-causes-what-to-do-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Sleep Paralysis: Causes, Hallucinations and What to Do"
+     "alt": "Man lying frozen in a canopy bed with a shadow figure below, panels on sleep paralysis causes, experience and coping",
+     "cap": "What sleep paralysis is, its common triggers, the experience and how to cope"
     }
    ],
    "insert": null,
@@ -4460,14 +4578,15 @@
    "src_s": "fr/s-ancrer-techniques-ancrage-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : S’ancrer : 6 techniques pour arrêter de vivre dans sa tête"
+   "alt": "Femme assise de dos sur un rocher moussu face à une rivière en forêt, parchemin listant six techniques d’ancrage"
   },
   "schemas": [
    {
     "src": "fr/s-ancrer-techniques-ancrage-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : S’ancrer : 6 techniques pour arrêter de vivre dans sa tête"
+    "alt": "Six cartes de techniques d’ancrage : méthode 5-4-3-2-1, pieds nus, respiration, mouvement, description neutre et eau froide",
+    "cap": "Six techniques d’ancrage pour sortir de sa tête et revenir au moment présent"
    }
   ],
   "insert": null,
@@ -4507,14 +4626,15 @@
     "src_s": "en/grounding-yourself-6-techniques-to-stop-living-in-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Grounding Techniques: 6 Ways to Get Out of Your Head"
+    "alt": "Woman meditating on a rooted tree stump, surrounded by six grounding techniques from barefoot walking to 5-4-3-2-1"
    },
    "schemas": [
     {
      "src": "en/grounding-yourself-6-techniques-to-stop-living-in-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Grounding Techniques: 6 Ways to Get Out of Your Head"
+     "alt": "Six grounding techniques: 5-4-3-2-1 senses, box breathing, body scan, nature contact, mindful movement, anchor object",
+     "cap": "Six grounding techniques to get out of your head and back into your body"
     }
    ],
    "insert": null,
@@ -4560,7 +4680,7 @@
    "src_s": "fr/meditation-anti-stress-comment-ca-marche-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditation anti stress : comment ça marche, concrètement"
+   "alt": "Femme méditant face au soleil couchant, cheveux en tourbillons de papier, panneau des 4 étapes de la méditation anti stress"
   },
   "schemas": [],
   "insert": null,
@@ -4600,14 +4720,15 @@
     "src_s": "en/meditation-for-stress-how-does-it-actually-work-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Meditation for Stress: What Really Happens in Your Body"
+    "alt": "Woman meditating on a rock as storm clouds of anxiety turn into calm and focus, showing how meditation for stress works"
    },
    "schemas": [
     {
      "src": "en/meditation-for-stress-how-does-it-actually-work-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Meditation for Stress: What Really Happens in Your Body"
+     "alt": "Woman meditating with a glowing heart, arrows linking a calmer amygdala and lower cortisol to calm: meditation for stress",
+     "cap": "How meditation for stress works, from body chemistry to emotional calm"
     }
    ],
    "insert": null,
@@ -4653,7 +4774,7 @@
    "src_s": "fr/se-souvenir-de-ses-reves-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Se souvenir de ses rêves : le protocole des 90 secondes"
+   "alt": "Femme endormie dans une chambre aux bougies, un rêve de renard au-dessus d’elle, les 3 étapes pour se souvenir de ses rêves"
   },
   "schemas": [],
   "insert": null,
@@ -4693,14 +4814,15 @@
     "src_s": "en/how-to-remember-your-dreams-the-90-second-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: How to Remember Your Dreams: A 90-Second Method"
+    "alt": "Figure meditating on a rock under a dreamcatcher, with three steps to remember your dreams: stay still, recall, write it down"
    },
    "schemas": [
     {
      "src": "en/how-to-remember-your-dreams-the-90-second-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: How to Remember Your Dreams: A 90-Second Method"
+     "alt": "Four icons for dream recall: a moon for intention, a closed eye to stay still, a notebook for keywords, a stretching figure",
+     "cap": "The 90-second protocol to remember your dreams, in four timed steps from bedtime to rising"
     }
    ],
    "insert": null,
@@ -4746,7 +4868,7 @@
    "src_s": "fr/faire-taire-critique-interieur-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Critique intérieur : lui retirer le mégaphone"
+   "alt": "Femme sereine qui lève la main face à un gobelin au mégaphone, image du critique intérieur qu’on apprend à apaiser"
   },
   "schemas": [],
   "insert": null,
@@ -4786,20 +4908,22 @@
     "src_s": "en/silencing-or-befriending-your-inner-critic-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: How to Quiet Your Inner Critic Without Fighting It"
+    "alt": "Woman meditating on a mountain rock, a scowling inner critic and a smiling leafy friend in thought clouds above her"
    },
    "schemas": [
     {
      "src": "en/silencing-or-befriending-your-inner-critic-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: How to Quiet Your Inner Critic Without Fighting It"
+     "alt": "Brain split between a stormy harsh critic with crossed arms and a flowering compassionate guide, quieting the inner critic",
+     "cap": "Turning the inner critic from a voice of fear into a compassionate guide"
     },
     {
      "src": "en/how-to-quiet-your-inner-critic-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: How to Quiet Your Inner Critic Without Fighting It"
+     "alt": "Woman split between silencing a horned shadow and befriending a small goblin, with strategies to handle the inner critic",
+     "cap": "Two ways to handle your inner critic: silence it for quick relief or befriend it for growth"
     }
    ],
    "insert": null,
@@ -4845,7 +4969,7 @@
    "src_s": "fr/transe-cognitive-auto-induite-science-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Transe cognitive auto-induite : ce qu’en dit la science"
+   "alt": "Femme en lotus au cœur d’un cerveau en papier, entre rouages, microscope et galaxies : la transe cognitive auto-induite"
   },
   "schemas": [],
   "insert": null,
@@ -4885,20 +5009,22 @@
     "src_s": "en/self-induced-cognitive-trance-what-science-is-discovering-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Self-Induced Cognitive Trance: What Science Knows"
+    "alt": "Silhouette meditating on a mountain peak beneath a glowing brain and brain waves, a picture of self-induced cognitive trance"
    },
    "schemas": [
     {
      "src": "en/self-induced-cognitive-trance-science-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Self-Induced Cognitive Trance: What Science Knows"
+     "alt": "Woman meditating, half blue, half warm, contrasting normal brain waves with a self-induced cognitive trance and its benefits",
+     "cap": "Normal state versus self-induced cognitive trance, and the effects science observes"
     },
     {
      "src": "en/self-induced-cognitive-trance-science-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Self-Induced Cognitive Trance: What Science Knows"
+     "alt": "Glowing meditating figure with brain waves, surrounded by effects and limits of self-induced cognitive trance",
+     "cap": "What science says about self-induced cognitive trance: benefits, limits and regular practice"
     }
    ],
    "insert": null,
@@ -4944,7 +5070,7 @@
    "src_s": "fr/lieux-spirituels-monde-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Lieux spirituels du monde : 15 destinations sacrées"
+   "alt": "Randonneuse contemplant le Machu Picchu depuis un sentier pavé, premier des lieux spirituels du monde à visiter"
   },
   "schemas": [],
   "insert": null,
@@ -4984,14 +5110,15 @@
     "src_s": "en/most-spiritual-places-in-the-world-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: 15 of the Most Spiritual Places in the World to Visit"
+    "alt": "Figure meditating by a lotus lake facing snowy Mount Kailash, prayer flags and Tibetan temples: spiritual places"
    },
    "schemas": [
     {
      "src": "en/most-spiritual-places-in-the-world-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: 15 of the Most Spiritual Places in the World to Visit"
+     "alt": "Map of 15 spiritual places in the world, from Machu Picchu and Stonehenge to Varanasi, around a collage of sacred sites",
+     "cap": "Fifteen spiritual destinations, from sacred ancient sites to places of ritual"
     }
    ],
    "insert": null,
@@ -5037,7 +5164,7 @@
    "src_s": "fr/chamanisme-amazonien-icaros-cosmovision-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Chamanisme amazonien : icaros, cosmovision et forêt-monde"
+   "alt": "Quatre scènes du chamanisme amazonien : guérisseur assis, chant des icaros dans une hutte, arbre-monde et méditation en forêt"
   },
   "schemas": [],
   "insert": null,
@@ -5073,12 +5200,11 @@
    "desc": "Amazonian shamanism beyond the clichés: icaros healing songs, plant teachers and the dieta, the living forest, and the issues raised by ayahuasca tourism.",
    "kw": "Amazonian shamanism, icaros, icaro healing songs, Shipibo-Konibo, vegetalismo, plant teachers, dieta, Amazonian animism, ayahuasca tourism",
    "photo": {
-    "src": "photos/p39-hero.webp",
-    "src_s": "photos/p39-hero-640.webp",
+    "src": "en/amazonian-shamanism-icaros-plant-teachers.webp",
+    "src_s": "en/amazonian-shamanism-icaros-plant-teachers-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Amazonian Shamanism: Icaros, Plant Teachers and Forest",
-    "pid": "p39"
+    "alt": "Woman with long hair beneath a golden sun amid swirling waves and cherry blossoms, an Amazonian shamanism scene in paper"
    },
    "schemas": [],
    "insert": null,
@@ -5124,7 +5250,7 @@
    "src_s": "fr/meditation-confiance-en-soi-autocritique-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditation et confiance en soi : devenir plus solide"
+   "alt": "Femme méditant sur un rocher moussu, une petite flamme dans les mains, ciel tourbillonnant : méditation et confiance en soi"
   },
   "schemas": [],
   "insert": null,
@@ -5171,7 +5297,7 @@
    "src_s": "fr/sortie-de-corps-science-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Sortie de corps : ce que la science sait vraiment"
+   "alt": "Femme endormie dans une bibliothèque, son double lumineux flottant au-dessus du lit : la sortie de corps vue par la science"
   },
   "schemas": [],
   "insert": null,
@@ -5218,7 +5344,7 @@
    "src_s": "fr/coherence-cardiaque-365-mode-emploi-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Cohérence cardiaque 365 : le mode d’emploi complet"
+   "alt": "Femme méditant près d’un étang en forme de cœur, parchemin de la cohérence cardiaque 365 : 3 fois par jour, 5 minutes"
   },
   "schemas": [],
   "insert": null,
@@ -5258,20 +5384,22 @@
     "src_s": "en/365-cardiac-coherence-the-complete-guide-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: 365 Cardiac Coherence Breathing: How to Do It Right"
+    "alt": "Woman meditating with a glowing heart and heartbeat line, a 365 dial at her feet, symbol of cardiac coherence practice"
    },
    "schemas": [
     {
      "src": "en/365-cardiac-coherence-the-complete-guide-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: 365 Cardiac Coherence Breathing: How to Do It Right"
+     "alt": "Glowing heart with a wave line, surrounded by the 3-6-5 method of cardiac coherence, its physiology and benefits",
+     "cap": "The 365 cardiac coherence rule: 3 times a day, 6 breaths a minute, for 5 minutes"
     },
     {
      "src": "en/365-cardiac-coherence-the-complete-guide-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: 365 Cardiac Coherence Breathing: How to Do It Right"
+     "alt": "Three parchment panels on cardiac coherence: three times a day, six breaths per minute and five minutes of practice",
+     "cap": "The 365 rule of cardiac coherence: 3 times a day, 6 breaths a minute, 5 minutes"
     }
    ],
    "insert": null,
@@ -5317,7 +5445,7 @@
    "src_s": "fr/hypnagogie-images-avant-dormir-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Hypnagogie : images et voix étranges avant de dormir"
+   "alt": "Femme endormie avec un chien, d’où s’échappent visages, horloges et notes de musique : l’hypnagogie avant le sommeil"
   },
   "schemas": [],
   "insert": null,
@@ -5357,20 +5485,22 @@
     "src_s": "en/hypnagogia-images-voices-before-sleep-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Hypnagogia: Images and Voices Just Before Sleep"
+    "alt": "Man sleeping peacefully as eyes, faces, a dragon and floating islands rise from his pillow, depicting hypnagogia"
    },
    "schemas": [
     {
      "src": "en/hypnagogia-images-voices-before-sleep-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Hypnagogia: Images and Voices Just Before Sleep"
+     "alt": "Woman falling asleep under a swirling galaxy and floating eyes, four scrolls explaining hypnagogia and its images",
+     "cap": "Hypnagogia explained: a twilight state of vivid images, creativity and normal sleep onset"
     },
     {
      "src": "en/hypnagogia-images-voices-before-sleep-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Hypnagogia: Images and Voices Just Before Sleep"
+     "alt": "Meditating figure between an agitated and a calm mind, with panels on hypnagogia: visual images, sounds and sleep onset",
+     "cap": "Hypnagogia explained: the visions, sounds and sensations of the twilight state"
     }
    ],
    "insert": null,
@@ -5416,14 +5546,15 @@
    "src_s": "fr/meditation-ou-therapie-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditation ou thérapie ? Souvent, la réponse est les deux"
+   "alt": "Moine méditant sous un arbre et séance de thérapie à une table, reliés par un pont en quilling : méditation ou thérapie"
   },
   "schemas": [
    {
     "src": "fr/meditation-ou-therapie-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Méditation ou thérapie ? Souvent, la réponse est les deux"
+    "alt": "Méditation ou thérapie : femme méditant sous la lune d’un côté, séance avec une thérapeute de l’autre, l’alliance au centre",
+    "cap": "Méditation et thérapie se complètent : calme mental d’un côté, compréhension profonde de l’autre"
    }
   ],
   "insert": null,
@@ -5463,20 +5594,22 @@
     "src_s": "en/meditation-or-therapy-why-the-answer-is-often-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Meditation vs. Therapy: When You Need One, the Other or Both"
+    "alt": "Meditator on a rock and a therapy session in armchairs, joined by a wooden bridge: meditation vs therapy"
    },
    "schemas": [
     {
      "src": "en/meditation-or-therapy-why-the-answer-is-often-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Meditation vs. Therapy: When You Need One, the Other or Both"
+     "alt": "A meditator and a therapy session joined by an infinity loop, illustrating meditation vs therapy and their synergy",
+     "cap": "Meditation builds awareness, therapy provides a framework: why both work together"
     },
     {
      "src": "en/meditation-or-therapy-why-the-answer-is-often-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Meditation vs. Therapy: When You Need One, the Other or Both"
+     "alt": "Woman meditating and a client talking with a therapist, joined by open hands holding a brain and heart: meditation vs therapy",
+     "cap": "Meditation calms, therapy heals the past: why the two work best together for mental health"
     }
    ],
    "insert": null,
@@ -5522,7 +5655,7 @@
    "src_s": "fr/respiration-holotropique-transe-souffle-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Respiration holotropique : la transe par le souffle"
+   "alt": "Femme en robe flottante dansant sur un cercle de symboles, souffle en spirale vers la lune : la respiration holotropique"
   },
   "schemas": [],
   "insert": null,
@@ -5562,7 +5695,7 @@
     "src_s": "en/holotropic-breathwork-entering-trance-through-the-breath-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Holotropic Breathwork: Trance, Science and Risks"
+    "alt": "Woman meditating on a stone circle by a moonlit lake, wrapped in swirling ribbons of breath, for holotropic breathwork"
    },
    "schemas": [],
    "insert": null,
@@ -5608,7 +5741,7 @@
    "src_s": "fr/montagnes-sacrees-monde-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Montagnes sacrées : pourquoi prier en altitude ?"
+   "alt": "Pèlerins gravissant en file un sentier en lacets vers des temples au sommet d’une montagne sacrée, drapeaux de prière"
   },
   "schemas": [],
   "insert": null,
@@ -5648,20 +5781,22 @@
     "src_s": "en/why-mountains-are-sacred-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Why Mountains Are Sacred: Kailash, Fuji and Sinai"
+    "alt": "Pilgrims climbing a snowy peak hung with prayer flags at sunrise, a watercolor of why mountains are sacred across cultures"
    },
    "schemas": [
     {
      "src": "en/why-mountains-are-sacred-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Why Mountains Are Sacred: Kailash, Fuji and Sinai"
+     "alt": "Monk praying on a ledge before a snowy peak and temples, showing why mountains are sacred: divine, insight, ascent",
+     "cap": "Four reasons mountains are sacred: the divine, clarity, pilgrimage and ascent"
     },
     {
      "src": "en/why-mountains-are-sacred-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Why Mountains Are Sacred: Kailash, Fuji and Sinai"
+     "alt": "Person praying on a ledge below a sunlit peak, with four reasons why mountains are sacred: divine, awe, clarity, pilgrimage",
+     "cap": "Four reasons people across cultures have prayed on sacred mountains"
     }
    ],
    "insert": null,
@@ -5707,7 +5842,7 @@
    "src_s": "fr/chamanisme-coreen-mudang-gut-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Chamanisme coréen : les mudang entre tradition et transe"
+   "alt": "Mudang en hanbok multicolore dansant avec éventail et clochettes devant un autel d'offrandes, rituel du chamanisme coréen"
   },
   "schemas": [],
   "insert": null,
@@ -5747,7 +5882,7 @@
     "src_s": "en/korean-shamanism-mudang-gut-ritual-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Korean Shamanism: Mudang, Gut Rituals and Trance"
+    "alt": "Mudang shaman in a colorful hanbok dancing with a fan and bells beside an offering table, a gut ritual of Korean shamanism"
    },
    "schemas": [],
    "insert": null,
@@ -5793,7 +5928,7 @@
    "src_s": "fr/meditation-sport-mental-champions-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditation et sport : le mental des champions"
+   "alt": "Athlète médaillée méditant sur un rocher au-dessus d’un stade et de coureurs en montagne : méditation et sport"
   },
   "schemas": [],
   "insert": null,
@@ -5840,7 +5975,7 @@
    "src_s": "fr/techniques-projection-astrale-corde-rouleau-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Techniques de projection astrale : corde, rouleau et autres"
+   "alt": "Femme méditant sur un tapis, son double lumineux s’élevant par une corde vers une galaxie : techniques de projection astrale"
   },
   "schemas": [],
   "insert": null,
@@ -5887,7 +6022,7 @@
    "src_s": "fr/nommer-ses-emotions-vocabulaire-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Nommer ses émotions : le pouvoir d’un vocabulaire précis"
+   "alt": "Femme assise au bord d’une rivière, entourée de parchemins volants portant des noms d’émotions : joie, peur, colère, espoir"
   },
   "schemas": [],
   "insert": null,
@@ -5927,20 +6062,22 @@
     "src_s": "en/naming-your-emotions-the-power-of-emotional-vocabulary-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Naming Your Emotions: Why Affect Labeling Works"
+    "alt": "Person meditating on a rock, naming emotions in thought bubbles: joy, sadness, anger, fear and love, above mountain valleys"
    },
    "schemas": [
     {
      "src": "en/naming-emotions-affect-labeling-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Naming Your Emotions: Why Affect Labeling Works"
+     "alt": "Woman meditating between unnamed emotions in stormy tones and named emotions in warm tones, showing affect labeling",
+     "cap": "Naming emotions moves you from vague overwhelm to clarity, self-regulation and resilience"
     },
     {
      "src": "en/naming-emotions-affect-labeling-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Naming Your Emotions: Why Affect Labeling Works"
+     "alt": "Woman meditating, half in storm and half in bloom, comparing unnamed and named emotions to show the power of naming emotions",
+     "cap": "Naming emotions turns vague overwhelm into clearer self-regulation and communication"
     }
    ],
    "insert": null,
@@ -5986,7 +6123,7 @@
    "src_s": "fr/revenir-de-transe-ancrage-integration-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Revenir de transe : l’art du retour et de l’ancrage"
+   "alt": "Femme assise de dos dans une forêt, mains posées sur le sol d'où partent des racines, pour revenir de transe par l'ancrage"
   },
   "schemas": [],
   "insert": null,
@@ -6026,7 +6163,7 @@
     "src_s": "en/coming-back-from-trance-the-art-of-returning-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Coming Back From Trance: How to Return and Ground Yourself"
+    "alt": "Woman meditating on a rock by a lake, violet aura and roots spreading below: grounding yourself after coming back from trance"
    },
    "schemas": [],
    "insert": null,
@@ -6072,7 +6209,7 @@
    "src_s": "fr/jardin-zen-ryoan-ji-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Jardin zen Ryōan-ji : 15 pierres et un mystère"
+   "alt": "Rochers sombres sur du gravier ratissé en vagues, îlots de mousse et soleil orange : le jardin zen de Ryōan-ji en papier"
   },
   "schemas": [],
   "insert": null,
@@ -6112,14 +6249,15 @@
     "src_s": "en/ryoanji-zen-garden-15-stones-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Ryōan-ji Zen Garden: The Mystery of the 15 Stones"
+    "alt": "Raked white gravel and mossy rock islands framed by autumn maples under a full moon in the Ryōan-ji zen garden"
    },
    "schemas": [
     {
      "src": "en/ryoanji-zen-garden-15-stones-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Ryōan-ji Zen Garden: The Mystery of the 15 Stones"
+     "alt": "Raked white gravel with fifteen moss-covered stones in five groups, framed by panels on the Ryōan-ji zen garden mystery",
+     "cap": "The 15 stones of Ryōan-ji, the raked gravel and why one stone always stays hidden"
     }
    ],
    "insert": null,
@@ -6165,7 +6303,7 @@
    "src_s": "fr/core-shamanism-michael-harner-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Core shamanism de Michael Harner : influence et limites"
+   "alt": "Chaman jouant du tambour, yeux clos, entouré d’un aigle, d’un ours et d’un loup, pour le core shamanism de Michael Harner"
   },
   "schemas": [],
   "insert": null,
@@ -6205,7 +6343,7 @@
     "src_s": "en/michael-harner-core-shamanism-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Michael Harner’s Core Shamanism: Influence and Limits"
+    "alt": "Drummer by a campfire in a forest with eagles, a bear and a snake, illustrating Michael Harner’s core shamanism"
    },
    "schemas": [],
    "insert": null,
@@ -6251,7 +6389,7 @@
    "src_s": "fr/meditation-creativite-idees-douche-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditation et créativité : les idées sous la douche"
+   "alt": "Femme méditant sous une douche lumineuse d'ampoules et de notes de musique, illustrant le lien méditation et créativité"
   },
   "schemas": [],
   "insert": null,
@@ -6298,7 +6436,7 @@
    "src_s": "fr/projection-astrale-ou-reve-lucide-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Projection astrale ou rêve lucide : comment les distinguer"
+   "alt": "Femme endormie dont le double lumineux s'envole vers un ciel étoilé, entre projection astrale ou rêve lucide"
   },
   "schemas": [],
   "insert": null,
@@ -6345,7 +6483,7 @@
    "src_s": "fr/transe-et-flow-etat-de-grace-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Transe et flow : ce que l’état de grâce leur doit"
+   "alt": "Jeune femme portée par des rubans de lumière au-dessus d’une rivière sinueuse au coucher du soleil, entre transe et flow"
   },
   "schemas": [],
   "insert": null,
@@ -6385,7 +6523,7 @@
     "src_s": "en/trance-and-the-flow-state-what-they-share-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Trance and the Flow State: What They Really Share"
+    "alt": "Woman meditating on a cliff edge above a starry river winding through mountains, a brainwave line in the sky: flow state"
    },
    "schemas": [],
    "insert": null,
@@ -6431,14 +6569,15 @@
    "src_s": "fr/bain-de-foret-shinrin-yoku-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Bain de forêt : ce que la science dit du shinrin-yoku"
+   "alt": "Jeune femme marchant sur un sentier de forêt ensoleillée parmi cerfs, renard et oiseaux, en plein bain de forêt shinrin-yoku"
   },
   "schemas": [
    {
     "src": "fr/bain-de-foret-shinrin-yoku-schema-1.webp",
     "w": 1376,
     "h": 768,
-    "alt": "Schéma 1 : Bain de forêt : ce que la science dit du shinrin-yoku"
+    "alt": "Femme marchant sur un sentier forestier près d’un ruisseau, entourée des cinq bienfaits du bain de forêt (shinrin-yoku)",
+    "cap": "Les bienfaits du bain de forêt : stress, sommeil, humeur, immunité et rumination"
    }
   ],
   "insert": null,
@@ -6474,19 +6613,19 @@
    "desc": "Does forest bathing really lower stress, cortisol and blood pressure? What the meta-analyses show, the limits of phytoncides, and how to practice it well.",
    "kw": "forest bathing, shinrin-yoku benefits, forest bathing science, forest therapy, forest cortisol, forest blood pressure, phytoncides, nature and mental health, forest meditation",
    "photo": {
-    "src": "photos/p18-hero.webp",
-    "src_s": "photos/p18-hero-640.webp",
+    "src": "en/forest-bathing-shinrin-yoku-science.webp",
+    "src_s": "en/forest-bathing-shinrin-yoku-science-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Forest Bathing: What Science Says About Shinrin-Yoku",
-    "pid": "p18"
+    "alt": "Paper-quilled lotus glowing above a meditating figure, with cherry blossoms, pine trees and a pagoda, for forest meditation"
    },
    "schemas": [
     {
      "src": "en/forest-bathing-shinrin-yoku-science-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Forest Bathing: What Science Says About Shinrin-Yoku"
+     "alt": "Forest bathing diagram: a woman walking among mossy trees, with six benefits from lower stress to better sleep",
+     "cap": "Six science-backed benefits of forest bathing, from less stress to better sleep"
     }
    ],
    "insert": null,
@@ -6532,7 +6671,7 @@
    "src_s": "fr/chamanisme-appropriation-culturelle-respect-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Chamanisme et appropriation culturelle : le respect"
+   "alt": "Ancien au tambour et plumes près d'un arbre, capteurs de rêves et totems en papier roulé : chamanisme et appropriation"
   },
   "schemas": [],
   "insert": null,
@@ -6572,7 +6711,7 @@
     "src_s": "en/shamanism-cultural-appropriation-respect-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Shamanism and Cultural Appropriation: Practice Respectfully"
+    "alt": "Indigenous elder handing herbs to a kneeling young man in a forest, a scene on shamanism and cultural appropriation"
    },
    "schemas": [],
    "insert": null,
@@ -6618,7 +6757,7 @@
    "src_s": "fr/meditation-etudiant-examens-memoire-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditation pour étudiants : mémoire, examens et stress"
+   "alt": "Étudiante au casque méditant en tailleur dans une bibliothèque, entourée de livres qui tourbillonnent : méditation étudiant"
   },
   "schemas": [],
   "insert": null,
@@ -6665,7 +6804,7 @@
    "src_s": "fr/signes-spirituels-plumes-papillons-pieces-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Signes spirituels : plumes, papillons et pièces"
+   "alt": "Femme méditant en forêt parmi papillons, plumes et pièces près d’un livre ouvert et d’un panneau : les signes spirituels"
   },
   "schemas": [],
   "insert": null,
@@ -6712,7 +6851,7 @@
    "src_s": "fr/journal-de-transe-carnet-voyages-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Journal de transe : noter ses voyages pour progresser"
+   "alt": "Femme écrivant à un bureau dans un grand carnet orné de spirales, fenêtre ouverte sur un ciel étoilé : son journal de transe"
   },
   "schemas": [],
   "insert": null,
@@ -6752,7 +6891,7 @@
     "src_s": "en/keeping-a-trance-journal-record-your-journeys-to-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: How to Keep a Trance Journal That Actually Helps You"
+    "alt": "Woman writing in a leather trance journal while meditating, her hair swirling into a wolf, a bird and symbols of her journeys"
    },
    "schemas": [],
    "insert": null,
@@ -6798,7 +6937,7 @@
    "src_s": "fr/bienfaits-silence-cerveau-bruit-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Bienfaits du silence : pourquoi le cerveau a besoin de calme"
+   "alt": "Femme méditant sur un rocher moussu au-dessus d’une ville bruyante parcourue d’ondes sonores, les bienfaits du silence"
   },
   "schemas": [],
   "insert": null,
@@ -6838,20 +6977,22 @@
     "src_s": "en/benefits-of-silence-brain-noise-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Benefits of Silence: Why Your Brain Needs Less Noise"
+    "alt": "Woman meditating between a quiet waterfall temple and a noisy city of cars and phones, the benefits of silence for health"
    },
    "schemas": [
     {
      "src": "en/benefits-of-silence-brain-noise-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Benefits of Silence: Why Your Brain Needs Less Noise"
+     "alt": "Woman's face split between a quiet moonlit forest and a noisy city, showing the benefits of silence for the brain",
+     "cap": "Natural quiet versus constant noise: what silence does for stress, focus and sleep"
     },
     {
      "src": "en/benefits-of-silence-brain-noise-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Benefits of Silence: Why Your Brain Needs Less Noise"
+     "alt": "Man cupping his ear inside a bubble amid cars, phones and planes, with six effects of noise and the benefits of silence",
+     "cap": "How noise, screens and overload erode silence, focus, stress levels and sleep"
     }
    ],
    "insert": null,
@@ -6897,7 +7038,7 @@
    "src_s": "fr/esprits-de-la-nature-chamanisme-animisme-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Esprits de la nature : le regard des traditions chamaniques"
+   "alt": "Chaman de dos méditant au pied d’un arbre sacré, entouré d’un ours, d’un loup et d’un aigle : les esprits de la nature"
   },
   "schemas": [],
   "insert": null,
@@ -6937,7 +7078,7 @@
     "src_s": "en/nature-spirits-animism-shamanic-traditions-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Nature Spirits and Animism in Shamanic Traditions"
+    "alt": "Shaman with a feathered headdress and staff on a mossy rock, surrounded by glowing animal nature spirits in a moonlit forest"
    },
    "schemas": [],
    "insert": null,
@@ -6983,7 +7124,7 @@
    "src_s": "fr/mediter-pour-mieux-decider-biais-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditer pour mieux décider : voir ses biais sans se figer"
+   "alt": "Femme méditant les yeux fermés sur un rocher au bord d’une rivière au soleil levant, pour méditer et mieux décider"
   },
   "schemas": [],
   "insert": null,
@@ -7030,7 +7171,7 @@
    "src_s": "fr/synchronicites-en-serie-jung-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Synchronicités en série : pourquoi maintenant ?"
+   "alt": "Jeune femme tenant une boussole sur un chemin d’engrenages dorés, entourée d’horloges et de 11:11 : synchronicités en série"
   },
   "schemas": [],
   "insert": null,
@@ -7077,7 +7218,7 @@
    "src_s": "fr/atlantide-mythe-platon-origine-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Atlantide : le mythe de Platon qui refuse de couler"
+   "alt": "Jeune femme en toge sur un rocher face aux temples engloutis, raies et poissons, évoquant le mythe de l’Atlantide de Platon"
   },
   "schemas": [],
   "insert": null,
@@ -7117,14 +7258,15 @@
     "src_s": "en/atlantis-plato-myth-origins-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Atlantis: Plato’s Myth and Why It Never Sinks"
+    "alt": "Sunken city of Atlantis from Plato’s myth, domed temples and columns among corals, glowing fish and sunbeams"
    },
    "schemas": [
     {
      "src": "en/atlantis-plato-myth-origins-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Atlantis: Plato’s Myth and Why It Never Sinks"
+     "alt": "Sunken city with domed temples and fish at its centre, surrounded by facts on Plato's Atlantis myth and its theories",
+     "cap": "Atlantis according to Plato: legendary city, cataclysm, location theories and legacy"
     }
    ],
    "insert": null,
@@ -7170,7 +7312,7 @@
    "src_s": "fr/difference-chamane-guerisseur-medium-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Chamane, guérisseur, médium : qui fait quoi vraiment ?"
+   "alt": "Triptyque en papier découpé : chamane au tambour près d'un feu, guérisseuse imposant les mains, médium et sa boule de cristal"
   },
   "schemas": [],
   "insert": null,
@@ -7210,7 +7352,7 @@
     "src_s": "en/shaman-vs-healer-vs-medium-differences-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Shaman vs Healer vs Medium: What's the Difference?"
+    "alt": "Long-haired healer meditating by a forest stream between signposts for shaman and medium, explaining shaman vs medium roles"
    },
    "schemas": [],
    "insert": null,
@@ -7256,7 +7398,7 @@
    "src_s": "fr/memento-mori-penser-mort-mieux-vivre-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Memento mori : penser à la mort pour mieux vivre"
+   "alt": "Femme méditant au bord d’une falaise entre fleurs ensoleillées et arbre nocturne aux crânes et sablier : memento mori"
   },
   "schemas": [],
   "insert": null,
@@ -7296,20 +7438,22 @@
     "src_s": "en/memento-mori-meaning-death-meditation-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Memento Mori: Thinking About Death to Live Better"
+    "alt": "Woman meditating with a skull in her hands between an hourglass and a blossoming tree, a memento mori meditation"
    },
    "schemas": [
     {
      "src": "en/memento-mori-meaning-death-meditation-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Memento Mori: Thinking About Death to Live Better"
+     "alt": "Hourglass filled with flowers, surrounded by four memento mori benefits: clarity of purpose, gratitude, urgency, authenticity",
+     "cap": "Four ways memento mori helps you live better: purpose, gratitude, action, authenticity"
     },
     {
      "src": "en/memento-mori-meaning-death-meditation-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Memento Mori: Thinking About Death to Live Better"
+     "alt": "Skull crowned with a flowering tree, between fears of death and memento mori benefits like gratitude and presence",
+     "cap": "Memento mori: from the fears death stirs up to the benefits of remembering it"
     }
    ],
    "insert": null,
@@ -7355,7 +7499,7 @@
    "src_s": "fr/devenir-chamane-appel-initiation-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Devenir chamane : appel, initiation et formation"
+   "alt": "Femme méditant avec un tambour entre un renard et un hibou, cercle autour d’un feu au loin, l’appel pour devenir chamane"
   },
   "schemas": [],
   "insert": null,
@@ -7395,7 +7539,7 @@
     "src_s": "en/how-to-become-a-shaman-calling-initiation-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: How to Become a Shaman: Calling, Initiation, Training"
+    "alt": "Four scenes of how to become a shaman: the spirit call in a forest, initiation rites, training with an elder, healer"
    },
    "schemas": [],
    "insert": null,
@@ -7441,7 +7585,7 @@
    "src_s": "fr/hochet-chamanique-instrument-voyage-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Hochet chamanique : l’autre instrument du voyage"
+   "alt": "Femme en papier enroulé secouant un hochet chamanique à plumes, d'où jaillit un flot de spirales vers montagnes et ours"
   },
   "schemas": [],
   "insert": null,
@@ -7481,7 +7625,7 @@
     "src_s": "en/shamanic-rattle-meaning-and-use-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Shamanic Rattle: Meaning, History and How to Use It"
+    "alt": "Hand holding a carved shamanic rattle with feathers and beads, wolves and mountains at sunrise in layered paper art"
    },
    "schemas": [],
    "insert": null,
@@ -7527,7 +7671,7 @@
    "src_s": "fr/fumigation-sauge-palo-santo-alternatives-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Fumigation : sauge, palo santo et alternatives locales"
+   "alt": "Bâton de sauge blanche, palo santo fumant et bol d’herbes séchées sur une table en bois : la fumigation spirituelle"
   },
   "schemas": [],
   "insert": null,
@@ -7563,12 +7707,11 @@
    "desc": "Smoke cleansing is older than modern energy clearing. White sage, palo santo, rosemary, juniper: how to cleanse a space with respect and common sense.",
    "kw": "smoke cleansing, white sage, palo santo, smudging cultural appropriation, cleanse a room, palo santo alternatives, rosemary smoke cleansing, incense smoke health",
    "photo": {
-    "src": "photos/p46-hero.webp",
-    "src_s": "photos/p46-hero-640.webp",
+    "src": "en/smoke-cleansing-white-sage-palo-santo-alternatives.webp",
+    "src_s": "en/smoke-cleansing-white-sage-palo-santo-alternatives-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Smoke Cleansing: White Sage, Palo Santo and Alternatives",
-    "pid": "p46"
+    "alt": "Quilled paper swirl rising like smoke from a meditating figure toward a golden sun, a pine tree beside, for smoke cleansing"
    },
    "schemas": [],
    "insert": null,
@@ -7614,7 +7757,7 @@
    "src_s": "fr/recouvrement-ame-soul-retrieval-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Recouvrement d’âme : comprendre le soul retrieval"
+   "alt": "Femme méditant au bord d’une rivière nocturne, rejointe par un loup, une chouette et une jeune fille : le recouvrement d’âme"
   },
   "schemas": [],
   "insert": null,
@@ -7654,7 +7797,7 @@
     "src_s": "en/soul-retrieval-shamanic-practice-trauma-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Soul Retrieval: Shamanic Practice, Trauma and Soul Loss"
+    "alt": "Woman meditating in an enchanted forest as a luminous spirit returns a glowing orb to her, evoking soul retrieval"
    },
    "schemas": [],
    "insert": null,
@@ -7700,7 +7843,7 @@
    "src_s": "fr/extraction-chamanique-delester-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Extraction chamanique : se délester de ce qui pèse"
+   "alt": "Guérisseuse avec tambour et plume au-dessus d’une personne allongée d’où sort une fumée sombre, extraction chamanique"
   },
   "schemas": [],
   "insert": null,
@@ -7736,12 +7879,11 @@
    "desc": "What is shamanic extraction? How it works in Core Shamanism, why its symbolism is powerful, and a gentle letting-go practice with no energy diagnosis.",
    "kw": "shamanic extraction, extraction healing, spiritual intrusion, core shamanism, Michael Harner, shamanic healing, letting go ritual, symbolic healing",
    "photo": {
-    "src": "photos/p11-hero.webp",
-    "src_s": "photos/p11-hero-640.webp",
+    "src": "en/shamanic-extraction-letting-go.webp",
+    "src_s": "en/shamanic-extraction-letting-go-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Shamanic Extraction: What It Is and How to Let Go",
-    "pid": "p11"
+    "alt": "Paper quilling of blue and gold swirls spiraling toward a bright sun, letting go as in shamanic extraction healing"
    },
    "schemas": [],
    "insert": null,
@@ -7787,7 +7929,7 @@
    "src_s": "fr/esprits-allies-chamanisme-animal-pouvoir-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Esprits alliés : construire une relation qui dure"
+   "alt": "Jeune femme méditant en forêt entourée d'un cerf, d'une chouette, d'un loup et d'un renard, ses esprits alliés"
   },
   "schemas": [],
   "insert": null,
@@ -7827,7 +7969,7 @@
     "src_s": "en/helping-spirits-shamanism-power-animal-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Helping Spirits: How to Build a Lasting Relationship"
+    "alt": "Woman kneeling in a glowing forest before a white stag, an elder and doves, welcoming her helping spirits with open arms"
    },
    "schemas": [],
    "insert": null,
@@ -7873,7 +8015,7 @@
    "src_s": "fr/creer-autel-personnel-espace-sacre-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Créer son autel personnel : un espace sacré à la maison"
+   "alt": "Femme disposant cristaux, bougies et statuette du Bouddha sur une table près d’une fenêtre pour créer son autel personnel"
   },
   "schemas": [],
   "insert": null,
@@ -7913,7 +8055,7 @@
     "src_s": "en/create-personal-altar-sacred-space-home-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: How to Create a Personal Altar: A Sacred Space at Home"
+    "alt": "Woman arranging a personal altar with candles, crystals, Buddha statues, lavender and a singing bowl by a round window"
    },
    "schemas": [],
    "insert": null,
@@ -7959,7 +8101,7 @@
    "src_s": "fr/cercle-de-parole-baton-de-parole-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Cercle de parole et bâton de parole : apprendre à écouter"
+   "alt": "Neuf personnes assises en cercle de parole autour d’un feu en forêt, une femme tenant le bâton de parole orné de plumes"
   },
   "schemas": [],
   "insert": null,
@@ -7995,12 +8137,11 @@
    "desc": "A talking circle changes how a group listens. How to run one respectfully, without staging a fake Indigenous ritual or promising healing.",
    "kw": "talking circle, talking stick, active listening, sharing circle, circle practice, Indigenous protocols, healing circle, group facilitation, deep listening",
    "photo": {
-    "src": "photos/p26-hero.webp",
-    "src_s": "photos/p26-hero-640.webp",
+    "src": "en/talking-circle-talking-stick-listening.webp",
+    "src_s": "en/talking-circle-talking-stick-listening-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Talking Circles and the Talking Stick: Learning to Listen",
-    "pid": "p26"
+    "alt": "Paper-quilled woman with closed eyes amid swirling waves, cherry blossoms, sun and a pagoda, a calm image of deep listening"
    },
    "schemas": [],
    "insert": null,
@@ -8046,7 +8187,7 @@
    "src_s": "fr/offrande-spirituelle-reciprocite-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Offrande spirituelle : donner avant de demander"
+   "alt": "Femme agenouillée tendant un bol de fruits vers un autel de pierres moussues et un esprit animal, offrande spirituelle"
   },
   "schemas": [],
   "insert": null,
@@ -8089,12 +8230,11 @@
   "kw": "méditer 5 minutes par jour, méditation 5 minutes, méditation courte, méditation quotidienne, bienfaits méditation 5 minutes, méditation débutant, commencer la méditation, méditation pleine conscience, routine méditation",
   "group": "bases",
   "photo": {
-   "src": "photos/p05-hero.webp",
-   "src_s": "photos/p05-hero-640.webp",
+   "src": "fr/mediter-5-minutes-par-jour.webp",
+   "src_s": "fr/mediter-5-minutes-par-jour-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditer 5 minutes par jour : est-ce vraiment utile ?",
-   "pid": "p05"
+   "alt": "Femme de dos face à un grand soleil en papier, cerisiers en fleurs et pagode : méditer 5 minutes par jour"
   },
   "schemas": [],
   "insert": null,
@@ -8137,12 +8277,11 @@
   "kw": "états modifiés de conscience, état modifié de conscience définition, états de conscience, état de transe, hypnose, rêve lucide, hypnagogie, état de flow, transe chamanique",
   "group": "transe",
   "photo": {
-   "src": "photos/p20-hero.webp",
-   "src_s": "photos/p20-hero-640.webp",
+   "src": "fr/etats-modifies-de-conscience.webp",
+   "src_s": "fr/etats-modifies-de-conscience-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : États modifiés de conscience : le spectre sans substance",
-   "pid": "p20"
+   "alt": "Divinité bouddhiste assise sur un lotus au halo doré, entre soleil et lune, évoquant les états modifiés de conscience"
   },
   "schemas": [],
   "insert": null,
@@ -8182,20 +8321,22 @@
     "src_s": "en/altered-states-of-consciousness-without-drugs-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Altered States of Consciousness Without Drugs"
+    "alt": "Woman meditating with eyes closed amid cosmic swirls and runes, signposts for focus, lucid dreaming, flow: altered states"
    },
    "schemas": [
     {
      "src": "en/altered-states-of-consciousness-without-drugs-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Altered States of Consciousness Without Drugs"
+     "alt": "Woman split into cool and warm halves amid meditation, lucid dreaming, flow and breathwork: altered states of consciousness",
+     "cap": "Altered states of consciousness reached without drugs, internal and active"
     },
     {
      "src": "en/altered-states-of-consciousness-without-drugs-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Altered States of Consciousness Without Drugs"
+     "alt": "Woman half in cool, half in warm tones, with six altered states of consciousness from meditation to peak experiences",
+     "cap": "Altered states of consciousness without drugs, from lucid dreams to breathwork and flow"
     }
    ],
    "insert": null,
@@ -8241,7 +8382,7 @@
    "src_s": "fr/guerir-enfant-interieur-exercices-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Guérir son enfant intérieur : par où commencer ?"
+   "alt": "Quatre scènes pour guérir son enfant intérieur : une femme berce, joue avec, libère et soigne la petite fille qu’elle était"
   },
   "schemas": [],
   "insert": null,
@@ -8281,20 +8422,22 @@
     "src_s": "en/inner-child-healing-where-to-start-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Inner Child Healing: Where to Start (Without Myths)"
+    "alt": "Woman on a mossy log embracing a glowing child spirit in a forest with deer and rabbits, a scene of inner child healing"
    },
    "schemas": [
     {
      "src": "en/inner-child-healing-where-to-start-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Inner Child Healing: Where to Start (Without Myths)"
+     "alt": "Woman hugging a glowing child on a mossy rock, with six steps for inner child healing such as reparenting and joy",
+     "cap": "Six first steps toward inner child healing, from acknowledging the wound to self-compassion"
     },
     {
      "src": "en/inner-child-healing-where-to-start-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Inner Child Healing: Where to Start (Without Myths)"
+     "alt": "Woman on a mossy rock embracing a glowing child spirit in a forest, among six steps of inner child healing",
+     "cap": "Six ways to begin inner child healing, from acknowledging the wound to self-compassion"
     }
    ],
    "insert": null,
@@ -8336,12 +8479,11 @@
   "kw": "méditer dans la nature, méditation nature, méditation plein air, méditation dehors, attention restoration theory, nature et stress, méditation marche nature, mindfulness nature, concentration nature",
   "group": "lieux",
   "photo": {
-   "src": "photos/p24-hero.webp",
-   "src_s": "photos/p24-hero-640.webp",
+   "src": "fr/mediter-dans-la-nature.webp",
+   "src_s": "fr/mediter-dans-la-nature-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditer dans la nature : ce que dehors change à l’attention",
-   "pid": "p24"
+   "alt": "Grand tourbillon de nature en papier, soleil, cerisier en fleurs et pagode entre montagnes, pour méditer dans la nature"
   },
   "schemas": [],
   "insert": null,
@@ -8384,12 +8526,11 @@
   "kw": "roue de médecine amérindienne, roue médecine quatre directions, roue de médecine signification, medicine wheel, quatre directions spiritualité, roue médecine couleurs, traditions amérindiennes",
   "group": "chamanisme",
   "photo": {
-   "src": "photos/p27-hero.webp",
-   "src_s": "photos/p27-hero-640.webp",
+   "src": "fr/roue-de-medecine-quatre-directions.webp",
+   "src_s": "fr/roue-de-medecine-quatre-directions-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Roue de médecine et quatre directions : pratiquer",
-   "pid": "p27"
+   "alt": "Divinité bouddhiste en méditation sur un lotus devant un soleil doré, pagode et cerisiers en fleurs en papier découpé"
   },
   "schemas": [],
   "insert": null,
@@ -8429,20 +8570,22 @@
     "src_s": "en/medicine-wheel-four-directions-meaning-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Medicine Wheel and the Four Directions: A Respectful Guide"
+    "alt": "Medicine wheel with bison, eagle, wolves and bear marking north, east, south and west around a meditating woman"
    },
    "schemas": [
     {
      "src": "en/medicine-wheel-four-directions-meaning-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Medicine Wheel and the Four Directions: A Respectful Guide"
+     "alt": "Medicine wheel split into four quadrants with a bison, eagle, bear and heart for the meaning of the four directions",
+     "cap": "The four directions of the medicine wheel, their seasons, animals and meanings"
     },
     {
      "src": "en/medicine-wheel-four-directions-meaning-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Medicine Wheel and the Four Directions: A Respectful Guide"
+     "alt": "Medicine wheel in four quadrants, with north, east, south and west panels showing a bison, an eagle, a heart and a bear",
+     "cap": "The four directions of the medicine wheel and what each one represents"
     }
    ],
    "insert": null,
@@ -8484,12 +8627,11 @@
   "kw": "parentalité consciente, mindful parenting, méditation parents, patience parent, stress parental, pleine conscience parentalité, relation parent enfant, gérer colère parent, émotions enfants",
   "group": "vie",
   "photo": {
-   "src": "photos/p09-hero.webp",
-   "src_s": "photos/p09-hero-640.webp",
+   "src": "fr/parentalite-consciente-patience.webp",
+   "src_s": "fr/parentalite-consciente-patience-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Parentalité consciente : la patience se muscle",
-   "pid": "p09"
+   "alt": "Soleil doré en quilling au-dessus de montagnes, pagode et cerisiers en fleurs, image apaisante de la parentalité consciente"
   },
   "schemas": [],
   "insert": null,
@@ -8532,12 +8674,11 @@
   "kw": "combien de temps méditer, durée méditation, combien de minutes méditer par jour, durée idéale méditation, méditation 10 minutes, méditation 20 minutes, méditation débutant, fréquence méditation, dose méditation",
   "group": "bases",
   "photo": {
-   "src": "photos/p12-hero.webp",
-   "src_s": "photos/p12-hero-640.webp",
+   "src": "fr/combien-de-temps-mediter-par-jour.webp",
+   "src_s": "fr/combien-de-temps-mediter-par-jour-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Combien de temps méditer par jour ? La vraie réponse",
-   "pid": "p12"
+   "alt": "Divinité dorée méditant sur un lotus parmi des nuages en papier, cerisier et pagode : combien de temps méditer chaque jour"
   },
   "schemas": [],
   "insert": null,
@@ -8580,12 +8721,11 @@
   "kw": "bibliothèque Alexandrie histoire, bibliothèque Alexandrie destruction, incendie bibliothèque Alexandrie, qui a détruit bibliothèque Alexandrie, grande bibliothèque Alexandrie, Mouseion Alexandrie, savoir antique perdu, histoire du savoir",
   "group": "lieux",
   "photo": {
-   "src": "photos/p47-hero.webp",
-   "src_s": "photos/p47-hero-640.webp",
+   "src": "fr/bibliotheque-alexandrie-histoire-destruction.webp",
+   "src_s": "fr/bibliotheque-alexandrie-histoire-destruction-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Bibliothèque d’Alexandrie : le rêve d’un savoir total",
-   "pid": "p47"
+   "alt": "Bodhisattva méditant sur un lotus parmi des volutes de papier, rêve d'une bibliothèque universelle comme Alexandrie"
   },
   "schemas": [],
   "insert": null,
@@ -8621,25 +8761,26 @@
    "desc": "Who really destroyed the Library of Alexandria? Discover its slow decline, the Caesar myth, Borges’ Library of Babel and our dream of a universal library.",
    "kw": "library Alexandria history, who destroyed Alexandria library, library Alexandria destruction, great library Alexandria, lost ancient knowledge, library of Babel, akashic records, universal library",
    "photo": {
-    "src": "photos/p47-hero.webp",
-    "src_s": "photos/p47-hero-640.webp",
+    "src": "en/library-of-alexandria-lost-knowledge.webp",
+    "src_s": "en/library-of-alexandria-lost-knowledge-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Library of Alexandria: Myth, Fire and Lost Knowledge",
-    "pid": "p47"
+    "alt": "Serene bodhisattva on a lotus amid swirling clouds, cherry blossoms and a tree, evoking akashic records and lost knowledge"
    },
    "schemas": [
     {
      "src": "en/library-of-alexandria-lost-knowledge-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Library of Alexandria: Myth, Fire and Lost Knowledge"
+     "alt": "Timeline from the Library of Alexandria through printing and the internet to a cosmic book, humanity’s quest for knowledge",
+     "cap": "From the Library of Alexandria to the Akashic records: humanity’s dream of a universal library"
     },
     {
      "src": "en/library-of-alexandria-lost-knowledge-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Library of Alexandria: Myth, Fire and Lost Knowledge"
+     "alt": "Arched library corridor opening onto a cosmic network, between panels on the Library of Alexandria and celestial records",
+     "cap": "From the Library of Alexandria to the Akashic records: the dream of a total library"
     }
    ],
    "insert": null,
@@ -8681,12 +8822,11 @@
   "kw": "arrêter de ruminer techniques, rumination mentale, pensées en boucle, pensées répétitives, arrêter de trop penser, overthinking, comment arrêter de penser, méditation anti-rumination",
   "group": "psy",
   "photo": {
-   "src": "photos/p41-hero.webp",
-   "src_s": "photos/p41-hero-640.webp",
+   "src": "fr/arreter-de-ruminer-techniques.webp",
+   "src_s": "fr/arreter-de-ruminer-techniques-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Arrêter de ruminer : 6 techniques pour sortir de la boucle",
-   "pid": "p41"
+   "alt": "Femme en méditation sous un rayon de lumière dorée entre soleil et lune, cerisiers et montagnes, pour arrêter de ruminer"
   },
   "schemas": [],
   "insert": null,
@@ -8722,12 +8862,11 @@
    "desc": "Rumination is not reflection. Six techniques, from worry time and defusion to mindfulness, to break looping thoughts without trying to stop thinking.",
    "kw": "how to stop ruminating, rumination, looping thoughts, overthinking, repetitive thoughts, worry time, cognitive defusion, mindfulness for rumination, negative thoughts",
    "photo": {
-    "src": "photos/p41-hero.webp",
-    "src_s": "photos/p41-hero-640.webp",
+    "src": "en/how-to-stop-ruminating-techniques.webp",
+    "src_s": "en/how-to-stop-ruminating-techniques-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: How to Stop Ruminating: 6 Techniques That Work",
-    "pid": "p41"
+    "alt": "Woman meditating beneath a beam of golden light between cherry blossoms and mountains, calming mental rumination"
    },
    "schemas": [],
    "insert": null,
@@ -8773,7 +8912,7 @@
    "src_s": "fr/rituel-pleine-lune-et-nouvelle-lune-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Rituel de pleine lune et de nouvelle lune : le guide"
+   "alt": "Quatre scènes nocturnes de rituel de pleine lune et de nouvelle lune : méditation au bord de l’eau, bougies, peinture, semis"
   },
   "schemas": [],
   "insert": null,
@@ -8813,7 +8952,7 @@
     "src_s": "en/full-moon-new-moon-rituals-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Full Moon and New Moon Rituals: Meaning and Practice"
+    "alt": "Woman meditating on a rock by the water between a full moon and a new moon, candles, crystals and paper boats for rituals"
    },
    "schemas": [],
    "insert": null,
@@ -8855,12 +8994,11 @@
   "kw": "symboles universels, cercle symbole, spirale symbole, arbre de vie, arbre cosmique, axis mundi, Jung archétypes, symbolisme comparé, histoire des symboles",
   "group": "lieux",
   "photo": {
-   "src": "photos/p16-hero.webp",
-   "src_s": "photos/p16-hero-640.webp",
+   "src": "fr/symboles-universels-cercle-spirale-arbre.webp",
+   "src_s": "fr/symboles-universels-cercle-spirale-arbre-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Cercle, spirale, arbre : des symboles vraiment universels ?",
-   "pid": "p16"
+   "alt": "Silhouette d'où jaillissent des volutes dorées et une spirale solaire, symboles universels du cercle et de la spirale"
   },
   "schemas": [],
   "insert": null,
@@ -8903,12 +9041,11 @@
   "kw": "méditation de l’aube, méditation matin, méditer au lever du soleil, méditation matinale, Brahma Muhurta, lumière du matin, rythme circadien, routine méditation matin, réveil conscient",
   "group": "vie",
   "photo": {
-   "src": "photos/p44-hero.webp",
-   "src_s": "photos/p44-hero-640.webp",
+   "src": "fr/meditation-aube-lever-du-soleil.webp",
+   "src_s": "fr/meditation-aube-lever-du-soleil-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditation de l’aube : silence, lumière et clarté mentale",
-   "pid": "p44"
+   "alt": "Soleil levant sur des montagnes dorées, pin et cerisier, Bouddha auréolé de vagues bleues pour la méditation de l'aube"
   },
   "schemas": [],
   "insert": null,
@@ -8951,12 +9088,11 @@
   "kw": "journal développement personnel, journal quotidien, journal introspection, écrire journal tous les jours, journaling, journal émotionnel, journal évolution personnelle, journal de bord personnel",
   "group": "psy",
   "photo": {
-   "src": "photos/p33-hero.webp",
-   "src_s": "photos/p33-hero-640.webp",
+   "src": "fr/journal-developpement-personnel-3-lignes.webp",
+   "src_s": "fr/journal-developpement-personnel-3-lignes-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Journal de développement personnel : 3 lignes par soir",
-   "pid": "p33"
+   "alt": "Grand soleil doré au-dessus de montagnes, pagode, dragon et cerisiers en fleurs, rivière en spirale, en papier découpé"
   },
   "schemas": [],
   "insert": null,
@@ -8996,20 +9132,22 @@
     "src_s": "en/personal-growth-journal-three-lines-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Illustration for the article: Personal Growth Journal: 3 Lines Every Evening"
+    "alt": "Woman writing in a personal growth journal in bed by lamplight, a golden retriever asleep at her feet, moon at the window"
    },
    "schemas": [
     {
      "src": "en/personal-growth-journal-three-lines-diagram-1.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 1: Personal Growth Journal: 3 Lines Every Evening"
+     "alt": "Open personal growth journal and pen linked to three benefits: self-reflection, gratitude and tracking progress",
+     "cap": "Three lines each evening in a journal build self-reflection, gratitude and progress"
     },
     {
      "src": "en/personal-growth-journal-three-lines-diagram-2.webp",
      "w": 1376,
      "h": 768,
-     "alt": "Diagram 2: Personal Growth Journal: 3 Lines Every Evening"
+     "alt": "Open journal and pen linked to three benefits of a personal growth journal: self-reflection, gratitude and tracking progress",
+     "cap": "Three lines each evening: how a growth journal builds reflection, gratitude and progress"
     }
    ],
    "insert": null,
@@ -9051,12 +9189,11 @@
   "kw": "méditation pleine lune, rituel pleine lune, pleine lune spiritualité, méditation lunaire, lâcher-prise pleine lune, intentions pleine lune, pleine lune sommeil, journal pleine lune, symbolisme de la pleine lune",
   "group": "energie",
   "photo": {
-   "src": "photos/p37-hero.webp",
-   "src_s": "photos/p37-hero-640.webp",
+   "src": "fr/meditation-pleine-lune-rituel.webp",
+   "src_s": "fr/meditation-pleine-lune-rituel-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Méditation de pleine lune : rituel, sens et mode d’emploi",
-   "pid": "p37"
+   "alt": "Bodhisattva en papier découpé, main levée, entre pleine lune et soleil, cerisiers et pagode : méditation de pleine lune"
   },
   "schemas": [],
   "insert": null,
@@ -9099,12 +9236,11 @@
   "kw": "sylvothérapie, bain de forêt, shinrin-yoku, sylvothérapie preuves scientifiques, forêt stress, forêt cortisol, phytoncides forêt, marcher en forêt, forest bathing, bain de forêt bienfaits",
   "group": "lieux",
   "photo": {
-   "src": "photos/p30-hero.webp",
-   "src_s": "photos/p30-hero-640.webp",
+   "src": "fr/sylvotherapie-effets-scientifiques.webp",
+   "src_s": "fr/sylvotherapie-effets-scientifiques-640.webp",
    "w": 1200,
    "h": 670,
-   "alt": "Illustration de l’article : Sylvothérapie : ce que la science dit vraiment des arbres",
-   "pid": "p30"
+   "alt": "Personne de dos dans un halo de volutes face au soleil levant, temple doré et montagnes, calme recherché en sylvothérapie"
   },
   "schemas": [],
   "insert": null,

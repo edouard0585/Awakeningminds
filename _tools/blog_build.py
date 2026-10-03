@@ -403,12 +403,17 @@ def enrich_body(body, lang):
 def words(txt):
     return len(re.sub('<[^>]+>', ' ', txt).split())
 
-def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_alt='', og_type='article', langs=None):
+def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_alt='', og_type='article', langs=None, img_wh=None):
     """path_of(x) → chemin de la version dans la langue x (pour hreflang)."""
     alts = ''.join(f'<link rel="alternate" hreflang="{x}" href="{BASE}{path_of(x)}">' for x in (langs or LANGS))
     if not langs or 'en' in langs:  # article en français seul : pas de x-default vers l'anglais
         alts += f'<link rel="alternate" hreflang="x-default" href="{BASE}{path_of("en")}">'
     kw_tag = f'<meta name="keywords" content="{E(kw)}">' if kw else ''
+    if img_wh is None and image.startswith('/assets/'):
+        img_wh = webp_size(ROOT + image)
+    mime = {'webp': 'image/webp', 'jpg': 'image/jpeg', 'jpeg': 'image/jpeg', 'png': 'image/png'}.get(image.rsplit('.', 1)[-1].lower())
+    img_dim = ((f'<meta property="og:image:width" content="{img_wh[0]}"><meta property="og:image:height" content="{img_wh[1]}">' if img_wh else '')
+               + (f'<meta property="og:image:type" content="{mime}">' if mime else ''))
     alt_tag = (f'<meta property="og:image:alt" content="{E(img_alt)}">'
                f'<meta name="twitter:image:alt" content="{E(img_alt)}">') if img_alt else ''
     return f"""<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -417,7 +422,7 @@ def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_a
 <meta name="robots" content="index,follow,max-image-preview:large"><meta name="theme-color" content="#0A0A14">{kw_tag}
 <meta property="og:type" content="{og_type}"><meta property="og:site_name" content="Awakening Minds">
 <meta property="og:url" content="{BASE}{canonical}"><meta property="og:title" content="{E(title)}">
-<meta property="og:description" content="{E(desc)}"><meta property="og:image" content="{BASE}{image}">{alt_tag}
+<meta property="og:description" content="{E(desc)}"><meta property="og:image" content="{BASE}{image}">{img_dim}{alt_tag}
 <meta property="og:locale" content="{OG_LOCALE[lang]}">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{E(title)}"><meta name="twitter:description" content="{E(desc)}"><meta name="twitter:image" content="{BASE}{image}">
 {extra_ld}

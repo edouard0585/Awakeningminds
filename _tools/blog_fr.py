@@ -113,7 +113,7 @@ def photo_figs(ids, lang, title, depth='../../'):
         m = lib.get(i)
         if not m: continue
         out.append(f'<img src="{depth}assets/blog/{m["src"]}" srcset="{depth}assets/blog/{m["src_s"]} 440w, {depth}assets/blog/{m["src"]} 760w" '
-                   f'sizes="(max-width:720px) 78vw, 340px" alt="{E(PHOTO_ALT[lang])} — {E(title)}" width="{m["w"]}" height="{m["h"]}" loading="lazy" decoding="async">')
+                   f'sizes="(max-width:720px) 78vw, 340px" alt="{E(m.get(f"alt_{lang}") or PHOTO_ALT[lang])}" width="{m["w"]}" height="{m["h"]}" loading="lazy" decoding="async">')
     return out
 
 
@@ -178,6 +178,23 @@ def related(a, arts, lang='fr'):
     return [V(o, lang) for o in out]
 
 
+def ld_images(a, lang, BASE):
+    """Images de l'article pour les données structurées : principale, schémas, photos (ImageObject)."""
+    out = []
+    def io(m, alt=None, cap=None):
+        d = {'@type': 'ImageObject', 'url': f'{BASE}/assets/blog/{m["src"]}', 'contentUrl': f'{BASE}/assets/blog/{m["src"]}',
+             'description': alt or m.get('alt', ''), 'inLanguage': lang}
+        if m.get('w'): d.update(width=m['w'], height=m['h'])
+        if cap or m.get('cap'): d['caption'] = cap or m['cap']
+        return d
+    out.append(io(a['photo']))
+    out += [io(m) for m in a.get('schemas') or []]
+    if a.get('insert'): out.append(io(a['insert']))
+    lib = photos_lib()
+    out += [io(lib[i], lib[i].get(f'alt_{lang}')) for i in a.get('photos') or [] if i in lib]
+    return out
+
+
 def render_article(bb, a0, arts, lang='fr'):
     """bb = module blog_build (head, footer, CSS, T…). a0 = entrée de la file ; lang = 'fr' ou 'en'."""
     a = V(a0, lang); t = bb.T[lang]; BASE = bb.BASE
@@ -191,7 +208,7 @@ def render_article(bb, a0, arts, lang='fr'):
     mins = max(3, round(bb.words(body) / 220))
     img = f'/assets/blog/{a["photo"]["src"]}'
     ld = {'@context': 'https://schema.org', '@graph': [
-        {'@type': 'BlogPosting', 'headline': a['title'][:110], 'description': a['desc'], 'image': BASE + img,
+        {'@type': 'BlogPosting', 'headline': a['title'][:110], 'description': a['desc'], 'image': ld_images(a, lang, BASE),
          'datePublished': a['published'], 'dateModified': a.get('modified', a['published']), 'inLanguage': lang,
          'keywords': a.get('kw', ''), 'articleSection': GL.get(a['group'], 'Meditation'),
          'mainEntityOfPage': BASE + url, 'wordCount': bb.words(body),
@@ -207,7 +224,7 @@ def render_article(bb, a0, arts, lang='fr'):
          if a.get('faq') else [])}
     ld_tag = '<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False).replace('<', '\\u003c') + '</script>'
     h = bb.head(lang, a['seo_title'], a['desc'], lambda x: paths[x], url, img, ld_tag,
-                kw=a.get('kw', ''), img_alt=a['photo']['alt'], langs=langs)
+                kw=a.get('kw', ''), img_alt=a['photo']['alt'], langs=langs, img_wh=(a['photo'].get('w'), a['photo'].get('h')) if a['photo'].get('w') else None)
     h = h.replace('</style>', CSS_FR + '</style>', 1)
     h += bb.header_html(lang, lambda x: f'../..{paths[x]}' if x in paths else f'../../{x}/blog/')
     import blog_hubs as hubs

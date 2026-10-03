@@ -1,373 +1,479 @@
 [
  {
   "id": "p01",
-  "src": "photos/p01.webp",
-  "src_s": "photos/p01-440.webp",
+  "src": "photos/robed-man-meditating-quilled-waves-pagoda.webp",
+  "src_s": "photos/robed-man-meditating-quilled-waves-pagoda-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Homme méditant en tunique sur un rocher, vagues en spirales, soleil levant, cerisiers et pagode en papier roulé",
+  "alt_en": "Robed man meditating on a rock amid swirling paper waves, rising sun, cherry blossoms and a pagoda in quilled paper"
  },
  {
   "id": "p02",
-  "src": "photos/p02.webp",
-  "src_s": "photos/p02-440.webp",
+  "src": "photos/person-meditating-rock-sun-swirls-quilled-paper.webp",
+  "src_s": "photos/person-meditating-rock-sun-swirls-quilled-paper-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Personne en méditation sur un rocher sous un grand soleil, tourbillons colorés, rivière, pagode et cerisiers en papier",
+  "alt_en": "Person meditating on a rock beneath a vast sun, colorful swirls, river, pagoda and cherry trees in quilled paper"
  },
  {
   "id": "p03",
-  "src": "photos/p03.webp",
-  "src_s": "photos/p03-440.webp",
+  "src": "photos/woman-meditating-lake-deity-paper-swirls.webp",
+  "src_s": "photos/woman-meditating-lake-deity-paper-swirls-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme en méditation sur un rocher au bord d’un lac, sous une divinité bienveillante, volutes bleues et cerisiers",
+  "alt_en": "Woman meditating on a lakeside rock beneath a serene deity, swirling blue waves, cherry blossoms and pagodas in paper art"
  },
  {
   "id": "p04",
-  "src": "photos/p04.webp",
-  "src_s": "photos/p04-440.webp",
+  "src": "photos/buddha-dragons-pagoda-sun-quilled-paper.webp",
+  "src_s": "photos/buddha-dragons-pagoda-sun-quilled-paper-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Bouddha en méditation sur un rocher entre dragons, cerisiers en fleurs, pagode et grand soleil, en papier roulé",
+  "alt_en": "Buddha meditating on a rock between dragons, cherry blossoms, a pagoda and a blazing sun, in quilled paper"
  },
  {
   "id": "p05",
-  "src": "photos/p05.webp",
-  "src_s": "photos/p05-440.webp",
+  "src": "photos/monk-meditating-cliff-pagoda-sun-quilling.webp",
+  "src_s": "photos/monk-meditating-cliff-pagoda-sun-quilling-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Personne méditant de profil au bord d’une falaise face à des vagues spiralées, une pagode et un grand soleil en quilling",
+  "alt_en": "Person meditating in profile on a cliff edge facing swirling waves, a pagoda and a large quilled paper sun"
  },
  {
   "id": "p06",
-  "src": "photos/p06.webp",
-  "src_s": "photos/p06-440.webp",
+  "src": "photos/woman-meditating-sun-moon-pagodas-quilled-paper.webp",
+  "src_s": "photos/woman-meditating-sun-moon-pagodas-quilled-paper-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme méditant sur un rocher sous un grand soleil et un croissant de lune, rivière, pagodes et cerisiers en papier découpé",
+  "alt_en": "Woman meditating on a rock beneath a large sun and crescent moon, river, pagodas and cherry blossoms in quilled paper art"
  },
  {
   "id": "p07",
-  "src": "photos/p07.webp",
-  "src_s": "photos/p07-440.webp",
+  "src": "photos/buddha-sun-moon-pagodas-quilled-waves.webp",
+  "src_s": "photos/buddha-sun-moon-pagodas-quilled-waves-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Bouddha en robe orange méditant sous un soleil éclatant et la pleine lune, pagodes, cerisiers et vagues en papier découpé",
+  "alt_en": "Buddha in orange robes meditating beneath a blazing sun and full moon, pagodas, cherry blossoms and quilled paper waves"
  },
  {
   "id": "p08",
-  "src": "photos/p08.webp",
-  "src_s": "photos/p08-440.webp",
+  "src": "photos/woman-meditating-cliff-sunset-deity-quilling.webp",
+  "src_s": "photos/woman-meditating-cliff-sunset-deity-quilling-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme méditant sur une falaise face au soleil couchant, cerisier en fleurs, pagode et divinité dans des volutes de papier",
+  "alt_en": "Woman meditating on a cliff at sunset, cherry blossoms, a pagoda and a deity above in swirling quilled paper waves"
  },
  {
   "id": "p09",
-  "src": "photos/p09.webp",
-  "src_s": "photos/p09-440.webp",
+  "src": "photos/figure-meditating-cliff-golden-sun-quilling.webp",
+  "src_s": "photos/figure-meditating-cliff-golden-sun-quilling-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Silhouette méditant de dos sur une falaise, rivière de spirales bleues et dorées, soleil doré et pagode en papier",
+  "alt_en": "Seated figure seen from behind on a cliff, blue and gold quilled swirls, golden sun and pagoda among cherry trees"
  },
  {
   "id": "p10",
-  "src": "photos/p10.webp",
-  "src_s": "photos/p10-440.webp",
+  "src": "photos/woman-meditating-lotus-sun-moon-scrolls.webp",
+  "src_s": "photos/woman-meditating-lotus-sun-moon-scrolls-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme en méditation sur un rocher au-dessus d'un lotus, soleil et lune, cerisiers et temples dans un cadre de parchemins",
+  "alt_en": "Woman meditating on a rock above a glowing lotus, sun and moon, cherry trees and temples framed by paper scrolls"
  },
  {
   "id": "p11",
-  "src": "photos/p11.webp",
-  "src_s": "photos/p11-440.webp",
+  "src": "photos/figure-golden-lotus-blue-swirl-sun-quilling.webp",
+  "src_s": "photos/figure-golden-lotus-blue-swirl-sun-quilling-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Personne en méditation assise sur un lotus doré, volutes bleues vers le soleil, cerisiers et temple en papier quilling",
+  "alt_en": "Person meditating on a golden lotus as blue swirls rise to the sun, cherry trees and a temple in quilled paper"
  },
  {
   "id": "p12",
-  "src": "photos/p12.webp",
-  "src_s": "photos/p12-440.webp",
+  "src": "photos/woman-river-golden-deity-lotus-quilling.webp",
+  "src_s": "photos/woman-river-golden-deity-lotus-quilling-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme assise au bord d’une rivière contemplant une divinité dorée sur un lotus, cerisiers et pagode en papier roulé",
+  "alt_en": "Woman by a river gazing up at a golden deity on a lotus, with cherry blossoms and a pagoda in quilled paper"
  },
  {
   "id": "p13",
-  "src": "photos/p13.webp",
-  "src_s": "photos/p13-440.webp",
+  "src": "photos/buddha-orange-robe-river-rock-halo.webp",
+  "src_s": "photos/buddha-orange-robe-river-rock-halo-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Bouddha en robe orange méditant sur un rocher au milieu d’une rivière, auréole bleue en volutes, soleil doré en papier",
+  "alt_en": "Buddha in an orange robe meditating on a rock amid a river, a blue swirling halo and golden paper sun behind him"
  },
  {
   "id": "p14",
-  "src": "photos/p14.webp",
-  "src_s": "photos/p14-440.webp",
+  "src": "photos/woman-cliff-meditation-swirling-waves-pagoda.webp",
+  "src_s": "photos/woman-cliff-meditation-swirling-waves-pagoda-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme de profil méditant au bord d’une falaise, vagues de papier bleues et vertes, soleil couchant et pagode au loin",
+  "alt_en": "Woman in profile meditating on a cliff edge under swirling blue and green paper waves, setting sun and distant pagoda"
  },
  {
   "id": "p15",
-  "src": "photos/p15.webp",
-  "src_s": "photos/p15-440.webp",
+  "src": "photos/crowned-deity-monk-lotus-river-quilling.webp",
+  "src_s": "photos/crowned-deity-monk-lotus-river-quilling-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Divinité couronnée au-dessus d’un moine méditant sur un rocher, rivière aux lotus, pagodes et cerisiers en papier découpé",
+  "alt_en": "Crowned deity hovering above a monk meditating on a rock, lotus river, pagodas and cherry blossoms in quilled paper"
  },
  {
   "id": "p16",
-  "src": "photos/p16.webp",
-  "src_s": "photos/p16-440.webp",
+  "src": "photos/faceless-monk-golden-swirls-river-paper-art.webp",
+  "src_s": "photos/faceless-monk-golden-swirls-river-paper-art-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Silhouette sans visage en méditation sur un rocher, volutes dorées jaillissant vers le soleil, rivière et cerisiers",
+  "alt_en": "Faceless figure meditating on a rock, golden swirls rising toward the sun, a winding river and cherry trees in paper art"
  },
  {
   "id": "p17",
-  "src": "photos/p17.webp",
-  "src_s": "photos/p17-440.webp",
+  "src": "photos/woman-river-goddess-lotus-clouds-paper-art.webp",
+  "src_s": "photos/woman-river-goddess-lotus-clouds-paper-art-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme assise sur un rocher au bord d'une rivière sinueuse, contemplant une déesse sur un lotus dans les nuages",
+  "alt_en": "Woman seated on a rock by a winding river, gazing up at a goddess on a lotus floating in golden paper clouds"
  },
  {
   "id": "p18",
-  "src": "photos/p18.webp",
-  "src_s": "photos/p18-440.webp",
+  "src": "photos/meditator-back-view-giant-lotus-sunrise.webp",
+  "src_s": "photos/meditator-back-view-giant-lotus-sunrise-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Méditant de dos sur un rocher face au soleil levant, grand lotus lumineux dans le ciel, rivière en spirales et temples",
+  "alt_en": "Meditator seen from behind on a rock facing the sunrise, a large glowing lotus in the sky, swirling river and temples"
  },
  {
   "id": "p19",
-  "src": "photos/p19.webp",
-  "src_s": "photos/p19-440.webp",
+  "src": "photos/woman-cliff-golden-swirls-dragon-river.webp",
+  "src_s": "photos/woman-cliff-golden-swirls-dragon-river-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme de dos méditant au bord d’une falaise, entourée de volutes dorées, d’un dragon et d’une statue face à la rivière",
+  "alt_en": "Woman seen from behind meditating on a cliff, wrapped in golden swirls with a dragon and statue above a winding river"
  },
  {
   "id": "p20",
-  "src": "photos/p20.webp",
-  "src_s": "photos/p20-440.webp",
+  "src": "photos/meditator-waves-haloed-deity-scrolls-paper.webp",
+  "src_s": "photos/meditator-waves-haloed-deity-scrolls-paper-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Personne méditant sur un rocher au milieu des vagues, sous une divinité auréolée et entre deux parchemins, en papier roulé",
+  "alt_en": "Person meditating on a rock amid waves beneath a haloed deity, flanked by two scrolls, in quilled paper art"
  },
  {
   "id": "p21",
-  "src": "photos/p21.webp",
-  "src_s": "photos/p21-440.webp",
+  "src": "photos/monk-meditating-goddess-clouds-pagoda.webp",
+  "src_s": "photos/monk-meditating-goddess-clouds-pagoda-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Moine méditant sur un rocher sous une vague de papier, une déesse assise dans les nuages, pagodes et cerisiers en fleurs",
+  "alt_en": "Monk meditating on a rock beneath a paper wave, a goddess seated in the clouds above, pagodas and cherry blossoms"
  },
  {
   "id": "p22",
-  "src": "photos/p22.webp",
-  "src_s": "photos/p22-440.webp",
+  "src": "photos/monk-meditating-river-stone-red-temple-quilling.webp",
+  "src_s": "photos/monk-meditating-river-stone-red-temple-quilling-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Moine en robe violette méditant sur une pierre au milieu d’une rivière, cerisier en fleurs et temple rouge en papier roulé",
+  "alt_en": "Monk in a purple robe meditating on a stone in a river, beside a blossoming cherry tree and a red temple in quilled paper"
  },
  {
   "id": "p23",
-  "src": "photos/p23.webp",
-  "src_s": "photos/p23-440.webp",
+  "src": "photos/monk-rock-sun-moon-spiral-paper.webp",
+  "src_s": "photos/monk-rock-sun-moon-spiral-paper-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Moine en robe orange méditant sur un rocher, porté par une spirale soleil et lune, montagnes et pagode en papier roulé",
+  "alt_en": "Monk in orange robes meditating on a rock within a sun and moon spiral, mountains and a pagoda in rolled paper art"
  },
  {
   "id": "p24",
-  "src": "photos/p24.webp",
-  "src_s": "photos/p24-440.webp",
+  "src": "photos/woman-meditating-blue-gold-spiral-sun.webp",
+  "src_s": "photos/woman-meditating-blue-gold-spiral-sun-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme en méditation sur un rocher, enlacée d’une spirale bleue et dorée, grand soleil, pagodes et cerisiers en papier",
+  "alt_en": "Woman meditating on a rock wrapped in a blue and gold spiral, a large sun, pagodas and cherry blossoms in quilled paper"
  },
  {
   "id": "p25",
-  "src": "photos/p25.webp",
-  "src_s": "photos/p25-440.webp",
+  "src": "photos/woman-lotus-pose-sun-halo-great-tree.webp",
+  "src_s": "photos/woman-lotus-pose-sun-halo-great-tree-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme méditant en lotus sur un rocher, halo solaire, rivière, grand arbre et temples sous les cerisiers en papier",
+  "alt_en": "Woman meditating in lotus pose on a rock, sun halo, river, great tree and temples under paper cherry blossoms"
  },
  {
   "id": "p26",
-  "src": "photos/p26.webp",
-  "src_s": "photos/p26-440.webp",
+  "src": "photos/woman-meditating-blue-gold-waves-pagoda.webp",
+  "src_s": "photos/woman-meditating-blue-gold-waves-pagoda-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme en méditation enveloppée de vagues bleues et dorées sur un rocher, soleil, cerisier en fleurs et pagode en papier",
+  "alt_en": "Woman meditating on a rock wrapped in blue and gold waves, with sun, blossoming cherry tree and pagoda in paper art"
  },
  {
   "id": "p27",
-  "src": "photos/p27.webp",
-  "src_s": "photos/p27-440.webp",
+  "src": "photos/woman-meditating-waves-deity-lotus-scrolls.webp",
+  "src_s": "photos/woman-meditating-waves-deity-lotus-scrolls-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme en méditation sur un rocher au milieu des vagues, divinité sur un lotus et soleil, deux parchemins vierges",
+  "alt_en": "Woman meditating on a rock amid swirling waves, a deity on a lotus and the sun above, two blank scrolls below"
  },
  {
   "id": "p28",
-  "src": "photos/p28.webp",
-  "src_s": "photos/p28-440.webp",
+  "src": "photos/orange-robed-buddha-dragon-sun-moon-river.webp",
+  "src_s": "photos/orange-robed-buddha-dragon-sun-moon-river-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Bouddha en robe orange méditant sur un rocher, dragon, soleil et lune en croissant, rivière et pagode en papier découpé",
+  "alt_en": "Buddha in an orange robe meditating on a rock with a dragon, sun and crescent moon, river and pagoda in paper art"
  },
  {
   "id": "p29",
-  "src": "photos/p29.webp",
-  "src_s": "photos/p29-440.webp",
+  "src": "photos/woman-meditating-cherry-tree-red-pagoda.webp",
+  "src_s": "photos/woman-meditating-cherry-tree-red-pagoda-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme aux longs cheveux noirs méditant sur un rocher au bord de l’eau, cerisier en fleurs et pagode rouge en papier roulé",
+  "alt_en": "Woman with long black hair meditating on a rock by the water, a blossoming cherry tree and red pagoda in quilled paper"
  },
  {
   "id": "p30",
-  "src": "photos/p30.webp",
-  "src_s": "photos/p30-440.webp",
+  "src": "photos/person-back-view-golden-halo-sunrise-temple.webp",
+  "src_s": "photos/person-back-view-golden-halo-sunrise-temple-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Personne vue de dos méditant sur un rocher, halo de spirales dorées, lever de soleil sur la vallée et temple lointain",
+  "alt_en": "Person seen from behind meditating on a rock, framed by a halo of golden swirls, sunrise over a valley and a distant temple"
  },
  {
   "id": "p31",
-  "src": "photos/p31.webp",
-  "src_s": "photos/p31-440.webp",
+  "src": "photos/monk-glowing-lotus-river-tree-paper.webp",
+  "src_s": "photos/monk-glowing-lotus-river-tree-paper-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Moine méditant sur un rocher au bord d’une rivière aux lotus lumineux, grand arbre et temples en papier découpé",
+  "alt_en": "Monk meditating on a rock by a river of glowing lotuses, with a great tree and temples under the sun in paper art"
  },
  {
   "id": "p32",
-  "src": "photos/p32.webp",
-  "src_s": "photos/p32-440.webp",
+  "src": "photos/woman-robe-meditating-tree-waterfall-moon.webp",
+  "src_s": "photos/woman-robe-meditating-tree-waterfall-moon-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme en kimono méditant au pied d’un grand arbre, soleil et lune, cascade, pagodes et volutes en papier découpé",
+  "alt_en": "Woman in a robe meditating beneath a great tree with sun and moon, a waterfall, pagodas and swirling paper waves"
  },
  {
   "id": "p33",
-  "src": "photos/p33.webp",
-  "src_s": "photos/p33-440.webp",
+  "src": "photos/meditator-vortex-dragon-goddess-cut-paper.webp",
+  "src_s": "photos/meditator-vortex-dragon-goddess-cut-paper-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Méditant en robe claire sur un rocher devant un vortex bleu, dragon vert et déesse sur un lotus en papier découpé",
+  "alt_en": "Robed meditator on a rock before a blue vortex, with a green dragon and a goddess on a lotus in cut-paper art"
  },
  {
   "id": "p34",
-  "src": "photos/p34.webp",
-  "src_s": "photos/p34-440.webp",
+  "src": "photos/monk-meditating-golden-swirls-sun-crescent-moon.webp",
+  "src_s": "photos/monk-meditating-golden-swirls-sun-crescent-moon-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Moine en méditation sur un rocher, volutes dorées derrière lui, soleil et croissant de lune, pagodes et cerisiers",
+  "alt_en": "Monk meditating on a rock with golden swirls behind him, sun and crescent moon, pagodas and cherry blossoms in paper"
  },
  {
   "id": "p35",
-  "src": "photos/p35.webp",
-  "src_s": "photos/p35-440.webp",
+  "src": "photos/golden-robe-figure-lotus-river-pagodas.webp",
+  "src_s": "photos/golden-robe-figure-lotus-river-pagodas-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Silhouette en robe dorée méditant sur un lotus près d’une rivière, soleil, volutes, pagodes et cerisiers en papier",
+  "alt_en": "Figure in a golden robe meditating above a lotus by a river, with sun, swirls, pagodas and cherry blossoms in paper"
  },
  {
   "id": "p36",
-  "src": "photos/p36.webp",
-  "src_s": "photos/p36-440.webp",
+  "src": "photos/buddha-cliff-sun-full-moon-trees-paper.webp",
+  "src_s": "photos/buddha-cliff-sun-full-moon-trees-paper-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Bouddha méditant au sommet d’une falaise devant un soleil rayonnant, pleine lune et rivière entre deux arbres en papier",
+  "alt_en": "Buddha meditating atop a cliff before a radiant sun, full moon and a river between two trees in paper art"
  },
  {
   "id": "p37",
-  "src": "photos/p37.webp",
-  "src_s": "photos/p37-440.webp",
+  "src": "photos/golden-deity-blessing-meditator-sun-moon.webp",
+  "src_s": "photos/golden-deity-blessing-meditator-sun-moon-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Grande divinité dorée bénissant une personne en méditation sur un rocher, entre soleil, lune et vagues en papier roulé",
+  "alt_en": "Large golden deity blessing a person meditating on a rock, set between sun, moon and swirling quilled paper waves"
  },
  {
   "id": "p38",
-  "src": "photos/p38.webp",
-  "src_s": "photos/p38-440.webp",
+  "src": "photos/faceless-figure-meditating-water-lilies-sun.webp",
+  "src_s": "photos/faceless-figure-meditating-water-lilies-sun-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Silhouette sans visage en robe crème méditant sur un rocher, nénuphars en fleurs, soleil et deux croissants de lune",
+  "alt_en": "Faceless figure in a cream robe meditating on a rock among water lilies, under a golden sun and two crescent moons"
  },
  {
   "id": "p39",
-  "src": "photos/p39.webp",
-  "src_s": "photos/p39-440.webp",
+  "src": "photos/woman-kimono-cliff-golden-swirl-quilling.webp",
+  "src_s": "photos/woman-kimono-cliff-golden-swirl-quilling-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme en kimono méditant au bord d’une falaise, enveloppée d’une spirale dorée, soleil, cerisiers et pagodes en quilling",
+  "alt_en": "Woman in a kimono meditating on a cliff edge, wrapped in a golden swirl with sun, cherry blossoms and pagodas in quilling"
  },
  {
   "id": "p40",
-  "src": "photos/p40.webp",
-  "src_s": "photos/p40-440.webp",
+  "src": "photos/woman-ochre-robe-mossy-rock-river-pines.webp",
+  "src_s": "photos/woman-ochre-robe-mossy-rock-river-pines-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme en robe ocre méditant sur un rocher moussu au milieu d’une rivière, pins, pagode et soleil en papier découpé",
+  "alt_en": "Woman in an ochre robe meditating on a mossy rock in a river, with pine trees, a pagoda and a sun in quilled paper"
  },
  {
   "id": "p41",
-  "src": "photos/p41.webp",
-  "src_s": "photos/p41-440.webp",
+  "src": "photos/woman-meditating-light-beam-sun-moon.webp",
+  "src_s": "photos/woman-meditating-light-beam-sun-moon-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme méditant sur un rocher entouré d'eau, rayon de lumière entre soleil et lune, lotus lumineux et cerisiers",
+  "alt_en": "Woman meditating on a rock surrounded by water, a beam of light between sun and moon, glowing lotus and cherry trees"
  },
  {
   "id": "p42",
-  "src": "photos/p42.webp",
-  "src_s": "photos/p42-440.webp",
+  "src": "photos/haloed-buddha-cliff-river-spiral-waves.webp",
+  "src_s": "photos/haloed-buddha-cliff-river-spiral-waves-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Bouddha auréolé méditant sur une falaise au bord d'une rivière, vagues en spirales, soleil, pagodes et cerisiers en papier",
+  "alt_en": "Haloed Buddha meditating on a cliff by a river, spiral waves, rising sun, pagodas and cherry blossoms in paper art"
  },
  {
   "id": "p43",
-  "src": "photos/p43.webp",
-  "src_s": "photos/p43-440.webp",
+  "src": "photos/blue-robe-meditation-teal-spiral-sunrise.webp",
+  "src_s": "photos/blue-robe-meditation-teal-spiral-sunrise-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Silhouette en robe bleue méditant sur un rocher face au soleil levant, grande spirale turquoise et pagodes en papier",
+  "alt_en": "Figure in a blue robe meditating on a rock at sunrise beneath a huge teal spiral, with pagodas in quilled paper"
  },
  {
   "id": "p44",
-  "src": "photos/p44.webp",
-  "src_s": "photos/p44-440.webp",
+  "src": "photos/buddha-mossy-rock-river-golden-mountains.webp",
+  "src_s": "photos/buddha-mossy-rock-river-golden-mountains-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Bouddha méditant sur un rocher moussu au bord d’une rivière, pins, montagnes dorées et soleil couchant en papier découpé",
+  "alt_en": "Buddha meditating on a mossy rock by a river, with pine trees, golden mountains and a setting sun in paper art"
  },
  {
   "id": "p45",
-  "src": "photos/p45.webp",
-  "src_s": "photos/p45-440.webp",
+  "src": "photos/silhouette-lotus-mossy-rock-cherry-trees.webp",
+  "src_s": "photos/silhouette-lotus-mossy-rock-cherry-trees-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Silhouette sombre en lotus sur un rocher moussu au bord d’une rivière, cerisiers roses et pagode dans la lumière dorée",
+  "alt_en": "Dark silhouette in lotus pose on a mossy rock by a river, pink cherry trees and a pagoda in warm golden light"
  },
  {
   "id": "p46",
-  "src": "photos/p46.webp",
-  "src_s": "photos/p46-440.webp",
+  "src": "photos/man-turquoise-robe-energy-spiral-golden-sun.webp",
+  "src_s": "photos/man-turquoise-robe-energy-spiral-golden-sun-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Homme en robe turquoise méditant sur un rocher, spirale d’énergie montant vers un soleil doré, pin tordu et temple",
+  "alt_en": "Man in a turquoise robe meditating on a rock, a spiral of energy rising toward a golden sun, gnarled pine and temple"
  },
  {
   "id": "p47",
-  "src": "photos/p47.webp",
-  "src_s": "photos/p47-440.webp",
+  "src": "photos/woman-rock-light-ribbon-lotus-deity.webp",
+  "src_s": "photos/woman-rock-light-ribbon-lotus-deity-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Femme méditant sur un rocher, ruban de lumière s’élevant vers une divinité sur un lotus, rivière, arbre et temple en papier",
+  "alt_en": "Woman meditating on a rock as a ribbon of light rises to a deity on a lotus, with river, tree and temple in paper art"
  },
  {
   "id": "p48",
-  "src": "photos/p48.webp",
-  "src_s": "photos/p48-440.webp",
+  "src": "photos/faceless-figure-turquoise-waves-goddess-pagoda.webp",
+  "src_s": "photos/faceless-figure-turquoise-waves-goddess-pagoda-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Silhouette sans visage méditant sur un rocher dans des vagues turquoise, déesse lumineuse et pagode au soleil couchant",
+  "alt_en": "Faceless figure meditating on a rock amid turquoise waves, a glowing goddess and a pagoda at sunset in paper quilling"
  },
  {
   "id": "p49",
-  "src": "photos/p49.webp",
-  "src_s": "photos/p49-440.webp",
+  "src": "photos/buddha-quilled-lotus-waterfall-temple.webp",
+  "src_s": "photos/buddha-quilled-lotus-waterfall-temple-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Bouddha méditant devant un grand lotus en spirales de papier, cascade, temple, soleil et croissant de lune",
+  "alt_en": "Buddha meditating before a large quilled lotus flame, with waterfall, temple, sun and crescent moon"
  },
  {
   "id": "p50",
-  "src": "photos/p50.webp",
-  "src_s": "photos/p50-440.webp",
+  "src": "photos/meditator-cliff-glowing-wisps-misty-valley.webp",
+  "src_s": "photos/meditator-cliff-glowing-wisps-misty-valley-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Méditant de dos sur une falaise entouré de volutes lumineuses bleues, vallée brumeuse, temple chinois et cerisiers",
+  "alt_en": "Meditator seen from behind on a cliff wrapped in glowing blue wisps, misty valley, Chinese temple and cherry trees"
  },
  {
   "id": "p51",
-  "src": "photos/p51.webp",
-  "src_s": "photos/p51-440.webp",
+  "src": "photos/buddha-statue-rock-sun-cherry-quilling.webp",
+  "src_s": "photos/buddha-statue-rock-sun-cherry-quilling-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Statue du Bouddha en méditation sur un rocher, main levée, soleil, volutes, pagodes et cerisiers en papier quilling",
+  "alt_en": "Buddha statue meditating on a rock with one hand raised, sun, swirls, pagodas and cherry blossoms in quilled paper"
  },
  {
   "id": "p52",
-  "src": "photos/p52.webp",
-  "src_s": "photos/p52-440.webp",
+  "src": "photos/blue-robed-meditator-swirling-waves-pagoda.webp",
+  "src_s": "photos/blue-robed-meditator-swirling-waves-pagoda-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Personne en robe bleue méditant au cœur de vagues tourbillonnantes, cerisiers, pagode et grand soleil en papier roulé",
+  "alt_en": "Person in a blue robe meditating amid swirling waves, cherry blossoms, a pagoda and a great sun in quilled paper"
  },
  {
   "id": "p53",
-  "src": "photos/p53.webp",
-  "src_s": "photos/p53-440.webp",
+  "src": "photos/blue-robe-meditator-lotus-blazing-sun.webp",
+  "src_s": "photos/blue-robe-meditator-lotus-blazing-sun-440.webp",
   "w": 760,
-  "h": 950
+  "h": 950,
+  "alt_fr": "Personne en robe bleue méditant sur une fleur de lotus au bord d’une falaise, soleil flamboyant et cerisiers en quilling",
+  "alt_en": "Person in a blue robe meditating on a lotus flower at a cliff edge, a blazing sun and cherry trees in quilled paper"
  }
 ]
