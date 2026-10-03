@@ -103,8 +103,7 @@
     "src_s": "es/ejercicios-de-respiracion-para-calmarse-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Hombre con túnica meditando sobre una roca, olas en espiral, sol naciente, cerezos y pagoda en filigrana de papel",
-    "provisoire": true
+    "alt": "Mujer medita sobre el agua en un bosque nocturno entre remolinos de aire: ejercicios de respiración para calmarse"
    },
    "schemas": [],
    "insert": null,
@@ -262,7 +261,15 @@
     "alt": "Persona meditando sobre una roca bajo un gran sol, remolinos de colores, río, pagoda y cerezos de papel",
     "provisoire": true
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/yoga-nidra-beneficios-sueno-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía de yoga nidra con una figura acostada entre nubes y la luna, su definición, beneficios y pasos de la práctica",
+     "cap": "Qué es el yoga nidra, sus beneficios y las seis etapas para practicarlo"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -408,10 +415,17 @@
     "src_s": "es/chakra-raiz-bloqueado-senales-ejercicios-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer meditando sobre una roca a orillas de un lago, bajo una deidad benévola, volutas azules y cerezos",
-    "provisoire": true
+    "alt": "Mujer meditando en loto sobre un tocón con raíces rojas que se hunden en la tierra para desbloquear el chakra raíz"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/chakra-raiz-bloqueado-senales-ejercicios-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía del chakra raíz bloqueado con siete iconos de señales y cinco ejercicios de enraizamiento ilustrados",
+     "cap": "Las 7 señales de un chakra raíz bloqueado y 5 ejercicios para enraizarte"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -564,8 +578,7 @@
     "src_s": "es/trabajo-de-sombra-jung-defectos-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Buda meditando sobre una roca entre dragones, cerezos en flor, pagoda y gran sol en filigrana de papel",
-    "provisoire": true
+    "alt": "Joven ante su sombra en un muro de piedra que revela cofres de oro, joyas y flores: el trabajo de sombra como tesoro oculto"
    },
    "schemas": [],
    "insert": null,
@@ -875,10 +888,17 @@
     "src_s": "es/peregrinacion-sin-religion-camino-santiago-shikoku-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer meditando sobre una roca bajo un gran sol y una luna creciente, río, pagodas y cerezos de papel recortado",
-    "provisoire": true
+    "alt": "Peregrinos con mochilas y bastones recorren un sendero entre la catedral de Santiago y templos de Shikoku: peregrinación"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/peregrinacion-sin-religion-camino-santiago-shikoku-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía comparativa de tres formas de peregrinación sin religión: el Camino de Santiago, Shikoku y los peregrinos laicos",
+     "cap": "Camino de Santiago, Shikoku y peregrinos laicos: tres formas de caminar"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -1126,8 +1146,7 @@
     "src_s": "es/meditacion-y-productividad-en-el-trabajo-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer meditando en un acantilado frente al atardecer, cerezo en flor, pagoda y deidad entre volutas de papel",
-    "provisoire": true
+    "alt": "Escritorio ordenado con portátil cerrado, piedras apiladas, té y cuaderno junto al jardín: meditación y productividad"
    },
    "schemas": [],
    "insert": null,
@@ -1288,10 +1307,17 @@
     "src_s": "es/meditar-manana-o-noche-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Silueta de espaldas meditando en un acantilado, río de espirales azules y doradas, sol dorado y pagoda de papel",
-    "provisoire": true
+    "alt": "Mujer meditando sentada al amanecer y otra relajada sobre una esterilla de noche: meditar por la mañana o por la noche"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/meditar-manana-o-noche-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Cerebro mitad naranja y mitad violeta que compara los beneficios de meditar por la mañana o por la noche",
+     "cap": "Meditar por la mañana o por la noche: los beneficios de cada momento del día"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -1444,10 +1470,17 @@
     "src_s": "es/ritual-antes-de-dormir-rutina-nocturna-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer meditando sobre una roca encima de un loto, sol y luna, cerezos y templos en un marco de pergaminos",
-    "provisoire": true
+    "alt": "Mujer en pijama leyendo un libro en la cama junto a una lámpara y una taza de infusión, su ritual antes de dormir"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/ritual-antes-de-dormir-rutina-nocturna-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía del ritual antes de dormir de 15 minutos: efectos, qué evitar y respiración, estiramientos y gratitud",
+     "cap": "El ritual de 15 minutos antes de dormir: qué evitar y qué practicar"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -1588,7 +1621,15 @@
     "alt": "Persona meditando sentada sobre un loto dorado, volutas azules hacia el sol, cerezos y templo en papel quilling",
     "provisoire": true
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/como-abrir-el-chakra-del-corazon-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía del chakra del corazón con un corazón verde de loto, señales de bloqueo, acciones directas y microhábitos diarios",
+     "cap": "Cómo abrir el chakra del corazón: señales de bloqueo, acciones directas y microhábitos"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -1734,8 +1775,7 @@
     "src_s": "es/llorar-durante-la-meditacion-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer sentada a orillas de un río contemplando una deidad dorada sobre un loto, cerezos y pagoda de papel enrollado",
-    "provisoire": true
+    "alt": "Mujer de espaldas medita sobre una roca rodeada de espirales y gotas azules, imagen de llorar al meditar y liberar emociones"
    },
    "schemas": [],
    "insert": null,
@@ -1890,8 +1930,7 @@
     "src_s": "es/diferencia-entre-hipnosis-y-meditacion-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Buda con túnica naranja meditando sobre una roca en medio de un río, aureola azul en volutas, sol dorado de papel",
-    "provisoire": true
+    "alt": "Comparación entre hipnosis, mujer tumbada en un sofá con un péndulo, y meditación, mujer sentada en loto sobre el agua"
    },
    "schemas": [],
    "insert": null,
@@ -2035,7 +2074,15 @@
     "alt": "Mujer de perfil meditando al borde de un acantilado, olas de papel azules y verdes, atardecer y pagoda a lo lejos",
     "provisoire": true
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/aprender-a-ser-feliz-habilidad-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Cerebro con un corazón y engranajes rodeado de cuatro claves para aprender a ser feliz: hábitos, beneficios y crecimiento",
+     "cap": "La felicidad como habilidad: neuroplasticidad, hábitos diarios y crecimiento sostenible"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -2188,10 +2235,17 @@
     "src_s": "es/como-encontrar-tu-animal-de-poder-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Deidad coronada sobre un monje que medita en una roca, río con lotos, pagodas y cerezos de papel recortado",
-    "provisoire": true
+    "alt": "Mujer medita en un bosque mágico ante un jaguar luminoso, un águila, un lobo, un oso y un ciervo: su animal de poder"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/como-encontrar-tu-animal-de-poder-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Figura meditando con raíces en el centro y las cuatro etapas del viaje chamánico para encontrar tu animal de poder",
+     "cap": "Las 4 etapas del viaje chamánico para encontrar tu animal de poder"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -2289,10 +2343,17 @@
     "src_s": "es/meditacion-relaciones-escucha-consciente-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Silueta sin rostro meditando sobre una roca, volutas doradas que brotan hacia el sol, río y cerezos",
-    "provisoire": true
+    "alt": "Mujer con los ojos cerrados escucha a otra que habla junto a un lago al atardecer: escucha consciente en pareja"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/meditacion-relaciones-escucha-consciente-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Mapa mental sobre meditación y relaciones: escucha verdadera frente al hábito de esperar turno, beneficios y claves prácticas",
+     "cap": "La escucha consciente frente a esperar tu turno: beneficios y claves prácticas"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -2445,10 +2506,17 @@
     "src_s": "es/quedarse-dormido-meditando-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer sentada sobre una roca junto a un río sinuoso, contemplando a una diosa sobre un loto entre las nubes",
-    "provisoire": true
+    "alt": "Mujer cabeceando de sueño mientras medita sentada en un cojín junto a una vela, quedarse dormido meditando"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/quedarse-dormido-meditando-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Mujer meditando en loto entre las causas de quedarse dormido meditando y tres trucos para mantenerse despierto",
+     "cap": "Por qué te duermes al meditar y tres maneras de mantenerte despierto"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -2587,10 +2655,17 @@
     "src_s": "es/suenos-lucidos-tecnicas-para-principiantes-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Meditador de espaldas sobre una roca frente al sol naciente, gran loto luminoso en el cielo, río en espiral y templos",
-    "provisoire": true
+    "alt": "Persona dormida en una cama de madera mientras su doble flota entre castillos, portales y criaturas en un sueño lúcido"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/suenos-lucidos-tecnicas-para-principiantes-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía de cuatro técnicas para tener sueños lúcidos: MILD, WBTB, pruebas de realidad y WILD, y un durmiente en el centro",
+     "cap": "Las 4 técnicas de inducción de sueños lúcidos: MILD, WBTB, pruebas y WILD"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -2736,8 +2811,7 @@
     "src_s": "es/tercer-ojo-glandula-pineal-intuicion-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer de espaldas meditando al borde de un acantilado, rodeada de volutas doradas, un dragón y una estatua frente al río",
-    "provisoire": true
+    "alt": "Mujer meditando en una roca con el tercer ojo brillando en la frente, junto a un cerebro y una piña de la glándula pineal"
    },
    "schemas": [],
    "insert": null,
@@ -2885,10 +2959,17 @@
     "src_s": "es/vencer-miedos-exposicion-gradual-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Persona meditando sobre una roca entre las olas, bajo una deidad con aureola y entre dos pergaminos, en papel enrollado",
-    "provisoire": true
+    "alt": "Joven sube una escalera escalón a escalón mientras una ola oscura de miedo queda atrás: vencer tus miedos poco a poco"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/vencer-miedos-exposicion-gradual-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Comparación entre la espiral de la evitación que alimenta el miedo y la flecha ascendente de la exposición gradual",
+     "cap": "Por qué la evitación alimenta el miedo y la exposición gradual lo reduce"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -3041,10 +3122,17 @@
     "src_s": "es/regresion-a-vidas-pasadas-hipnosis-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Monje con túnica violeta meditando sobre una piedra en medio de un río, cerezo en flor y templo rojo de papel enrollado",
-    "provisoire": true
+    "alt": "Mujer flotando en meditación entre nubes y marcos dorados con escenas de otras épocas, evocando la regresión a vidas pasadas"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/regresion-a-vidas-pasadas-hipnosis-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía sobre la regresión a vidas pasadas con un reloj de arena: qué es, origen, perspectiva científica y beneficios",
+     "cap": "Regresión a vidas pasadas: definición, origen, visión científica y beneficios"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -3178,7 +3266,15 @@
     "alt": "Monje meditando sobre una roca bajo una ola de papel, una diosa sentada en las nubes, pagodas y cerezos en flor",
     "provisoire": true
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/chamanismo-siberiano-origen-palabra-chaman-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Chamán con tambor y pieles bajo una aurora boreal, rodeado de los pilares del chamanismo siberiano y el origen de chamán",
+     "cap": "Los pilares del chamanismo siberiano y el origen tungús de la palabra «chamán»"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -3466,10 +3562,17 @@
     "src_s": "es/meditacion-guiada-para-dormir-voz-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer meditando sobre una roca, envuelta en una espiral azul y dorada, gran sol, pagodas y cerezos de papel",
-    "provisoire": true
+    "alt": "Mujer dormida con auriculares en una habitación cálida, con ondas de luz que evocan una meditación guiada para dormir"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/meditacion-guiada-para-dormir-voz-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Mujer dormida en una habitación oscura mientras un móvil en la mesita emite ondas de luz con una meditación para dormir",
+     "cap": "Una voz guiada desde el móvil acompaña el paso de la vigilia al sueño"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -3615,10 +3718,17 @@
     "src_s": "es/que-es-el-chi-energia-vital-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer meditando en loto sobre una roca, halo solar, río, gran árbol y templos bajo los cerezos de papel",
-    "provisoire": true
+    "alt": "Silueta humana luminosa con centros de energía de colores alineados en la columna, símbolo de la energía vital o chi"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/que-es-el-chi-energia-vital-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía sobre qué es el chi: silueta luminosa, bioelectromagnetismo, metabolismo, meridianos y respiración consciente",
+     "cap": "El chi desde una perspectiva racional: ciencia, meridianos y beneficios de la práctica"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -3778,10 +3888,17 @@
     "src_s": "es/registros-akashicos-como-consultarlos-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer meditando sobre una roca en medio de las olas, deidad sobre un loto y sol, dos pergaminos en blanco",
-    "provisoire": true
+    "alt": "Anciano sabio medita ante un gran libro luminoso en una biblioteca mágica, símbolo de los registros akáshicos"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/registros-akashicos-como-consultarlos-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Libro abierto y luminoso en el centro de una guía de registros akáshicos: qué son, cómo acceder, beneficios y consejos",
+     "cap": "Registros akáshicos: qué son, cómo acceder, beneficios y consejos de prudencia"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -3912,10 +4029,17 @@
     "src_s": "es/chamanismo-celta-druidas-awen-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer meditando envuelta en olas azules y doradas sobre una roca, sol, cerezo en flor y pagoda de papel",
-    "provisoire": true
+    "alt": "Druidesa con bastón y símbolo del awen en un bosque encantado, druidas en círculo y menhires: chamanismo celta"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/chamanismo-celta-druidas-awen-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía del chamanismo celta con un símbolo del Awen y tres bloques: los druidas, la inspiración del Awen y el Otro Mundo",
+     "cap": "Druidas, Awen y el Otro Mundo: los tres pilares del chamanismo celta"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -4061,10 +4185,17 @@
     "src_s": "es/ejercicio-de-gratitud-tres-cosas-buenas-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Buda con túnica naranja meditando sobre una roca, dragón, sol y luna creciente, río y pagoda de papel recortado",
-    "provisoire": true
+    "alt": "Joven en un sillón escribe en su diario de gratitud junto a una taza de café y una ventana luminosa"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/ejercicio-de-gratitud-tres-cosas-buenas-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Tres columnas sobre el ejercicio de gratitud con un diario, una mano que escribe y un cerebro ligado a una cara sonriente",
+     "cap": "El ejercicio de gratitud de 3 líneas: qué es, cómo hacerlo y sus beneficios"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -4210,10 +4341,17 @@
     "src_s": "es/sonar-con-un-difunto-suenos-de-visita-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer de largo cabello negro meditando sobre una roca junto al agua, cerezo en flor y pagoda roja de papel enrollado",
-    "provisoire": true
+    "alt": "Mujer dormida en su cama mientras una figura luminosa se inclina hacia ella a la luz de la luna: soñar con un difunto"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/sonar-con-un-difunto-suenos-de-visita-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Mujer dormida mientras una anciana translúcida y luminosa, sentada a su lado, le toma la mano: soñar con un difunto",
+     "cap": "Un sueño de visita: el ser querido fallecido aparece sereno y cercano"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -4485,8 +4623,7 @@
     "src_s": "es/tipos-de-trance-viaje-posesion-extasis-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Monje meditando sobre una roca a orillas de un río con lotos luminosos, gran árbol y templos de papel recortado",
-    "provisoire": true
+    "alt": "Cuatro escenas ilustran tipos de trance: viaje astral desde la cama, posesión espiritual, éxtasis místico y estado alterado"
    },
    "schemas": [],
    "insert": null,
@@ -4634,8 +4771,7 @@
     "src_s": "es/tambor-chamanico-elegir-tocar-viajar-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer en kimono meditando al pie de un gran árbol, sol y luna, cascada, pagodas y volutas de papel recortado",
-    "provisoire": true
+    "alt": "Tambor chamánico con águila tallada y plumas colgantes ante un cielo estrellado, con ciervo, búhos, bosque y río de papel"
    },
    "schemas": [],
    "insert": null,
@@ -4790,8 +4926,7 @@
     "src_s": "es/neuroplasticidad-meditacion-cerebro-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Meditador con túnica clara sobre una roca ante un vórtice azul, dragón verde y diosa sobre un loto de papel recortado",
-    "provisoire": true
+    "alt": "Manos sosteniendo un cerebro luminoso con conexiones neuronales de colores en un laboratorio, neuroplasticidad"
    },
    "schemas": [],
    "insert": null,
@@ -4953,10 +5088,17 @@
     "src_s": "es/insomnio-dejar-de-intentar-dormir-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Monje meditando sobre una roca, volutas doradas a su espalda, sol y luna creciente, pagodas y cerezos",
-    "provisoire": true
+    "alt": "Mujer dormida en una cama que flota entre nubes, estrellas y relojes sobre un bosque nocturno: soltar el insomnio"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/insomnio-dejar-de-intentar-dormir-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Tres claves contra el insomnio: intención paradójica, regla de los 20 minutos y calmar el sistema nervioso",
+     "cap": "Tres estrategias para dormir mejor cuando dejas de intentar forzar el sueño"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -5102,10 +5244,17 @@
     "src_s": "es/existe-el-aura-colores-significado-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Silueta con túnica dorada meditando sobre un loto junto a un río, sol, volutas, pagodas y cerezos de papel",
-    "provisoire": true
+    "alt": "Silueta en meditación con chakras de colores y un halo luminoso entre mandalas, galaxias y monitores: qué es el aura"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/existe-el-aura-colores-significado-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Esquema sobre qué es el aura: silueta meditando con halo, visión tradicional, foto Kirlian, campos del cuerpo y colores",
+     "cap": "El aura según la tradición y la ciencia, y el significado de sus colores"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -5261,7 +5410,15 @@
     "alt": "Buda meditando en la cima de un acantilado ante un sol radiante, luna llena y río entre dos árboles de papel",
     "provisoire": true
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/danza-extatica-ecstatic-dance-trance-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Silueta de bailarina entre ondas de colores neón con los beneficios de la danza extática: emociones, estrés, cuerpo y flujo",
+     "cap": "Cuatro beneficios de la danza extática: liberación emocional, calma, conexión y flujo"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -5407,8 +5564,7 @@
     "src_s": "es/como-interpretar-tus-suenos-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Gran deidad dorada bendiciendo a una persona que medita sobre una roca, entre sol, luna y olas de papel enrollado",
-    "provisoire": true
+    "alt": "Persona dormida de cuyo pensamiento surgen llaves, puertas y escaleras, con las 4 preguntas para interpretar los sueños"
    },
    "schemas": [],
    "insert": null,
@@ -5541,8 +5697,7 @@
     "src_s": "es/qi-gong-para-principiantes-5-movimientos-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Silueta sin rostro con túnica crema meditando sobre una roca, nenúfares en flor, sol y dos lunas crecientes",
-    "provisoire": true
+    "alt": "Mujer practicando qi gong para principiantes en un prado entre montañas, rodeada de espirales de energía y otros alumnos"
    },
    "schemas": [],
    "insert": null,
@@ -5682,10 +5837,17 @@
     "src_s": "es/canto-difonico-mongol-khoomii-trance-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer en kimono meditando al borde de un acantilado, envuelta en una espiral dorada, sol, cerezos y pagodas en quilling",
-    "provisoire": true
+    "alt": "Anciano mongol con túnica tradicional sobre una roca exhala espirales de sonido sobre la estepa y sus yurtas: canto difónico"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/canto-difonico-mongol-khoomii-trance-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía del canto difónico mongol: técnica khöömii y respiración, efectos del trance en el cerebro y raíces chamánicas",
+     "cap": "Cómo funciona el canto difónico, su vínculo con el trance y su raíz chamánica"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -5831,8 +5993,7 @@
     "src_s": "es/nsdr-descanso-profundo-sin-dormir-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer con túnica ocre meditando sobre una roca musgosa en medio de un río, pinos, pagoda y sol de papel recortado",
-    "provisoire": true
+    "alt": "Mujer reclinada en un sillón entre ondas de luz y escenas de reposo: NSDR o descanso profundo sin dormir"
    },
    "schemas": [],
    "insert": null,
@@ -6106,10 +6267,17 @@
     "src_s": "es/quedarse-atrapado-en-trance-hipnosis-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Buda con aureola meditando en un acantilado junto a un río, olas en espiral, sol, pagodas y cerezos de papel",
-    "provisoire": true
+    "alt": "Mujer de perfil ante una espiral hipnótica con engranajes y relojes, sobre la duda de quedarse atrapado en un trance"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/quedarse-atrapado-en-trance-hipnosis-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía sobre quedarse atrapado en hipnosis o trance: tres mitos frente a tres realidades y un cerebro unido a un corazón",
+     "cap": "Mitos y realidades sobre quedarse atrapado en un trance o en la hipnosis"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -6255,10 +6423,17 @@
     "src_s": "es/paralisis-del-sueno-causas-que-hacer-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Silueta con túnica azul meditando sobre una roca frente al sol naciente, gran espiral turquesa y pagodas de papel",
-    "provisoire": true
+    "alt": "Mujer despierta e inmóvil en la cama mientras una sombra se inclina sobre ella de noche, escena de parálisis del sueño"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/paralisis-del-sueno-causas-que-hacer-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Cuatro recuadros sobre la parálisis del sueño: qué es, por qué pasa, lo que se siente y consejos clave para afrontarla",
+     "cap": "Parálisis del sueño: qué es, por qué ocurre, qué se siente y qué hacer"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -6397,8 +6572,7 @@
     "src_s": "es/tecnicas-de-anclaje-grounding-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Buda meditando sobre una roca musgosa a orillas de un río, pinos, montañas doradas y atardecer en papel recortado",
-    "provisoire": true
+    "alt": "Hombre meditando sobre raíces junto a un río, rodeado de iconos de respiración, sentidos y caminata: técnicas de anclaje"
    },
    "schemas": [],
    "insert": null,
@@ -6531,8 +6705,7 @@
     "src_s": "es/meditacion-para-el-estres-como-funciona-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Silueta oscura en postura de loto sobre una roca musgosa junto a un río, cerezos rosados y pagoda bajo la luz dorada",
-    "provisoire": true
+    "alt": "Mujer de blanco en postura de loto practica meditación para el estrés en una sala luminosa llena de plantas verdes"
    },
    "schemas": [],
    "insert": null,
@@ -6665,8 +6838,7 @@
     "src_s": "es/como-recordar-tus-suenos-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Hombre con túnica turquesa meditando sobre una roca, espiral de energía que sube hacia un sol dorado, pino retorcido y templo",
-    "provisoire": true
+    "alt": "Mujer dormida con burbujas de sueños sobre la almohada, despertador y diario junto a la cama para recordar los sueños"
    },
    "schemas": [],
    "insert": null,
@@ -6806,10 +6978,17 @@
     "src_s": "es/como-callar-al-critico-interior-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Mujer meditando sobre una roca, cinta de luz que se eleva hacia una deidad sobre un loto, río, árbol y templo de papel",
-    "provisoire": true
+    "alt": "Joven bajando el volumen de un megáfono del que salen caras preocupadas, metáfora para calmar al crítico interior"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/como-callar-al-critico-interior-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Cuatro pasos para callar al crítico interior en torno a un megáfono: identificar, bajar el volumen, cambiar y cuidarse",
+     "cap": "Cuatro pasos para quitarle el megáfono al crítico interior"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -6947,10 +7126,17 @@
     "src_s": "es/trance-cognitivo-autoinducido-ciencia-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Silueta sin rostro meditando sobre una roca entre olas turquesa, diosa luminosa y pagoda al atardecer",
-    "provisoire": true
+    "alt": "Figura humana con el cerebro iluminado entre neuronas, ondas cerebrales y escáneres: el trance cognitivo autoinducido"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/trance-cognitivo-autoinducido-ciencia-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía del trance cognitivo autoinducido con una figura meditando: seis efectos en mente y cuerpo y sus limitaciones",
+     "cap": "Seis efectos del trance cognitivo autoinducido y sus límites reales"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -7081,10 +7267,17 @@
     "src_s": "es/lugares-espirituales-del-mundo-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Buda meditando ante un gran loto de espirales de papel, cascada, templo, sol y luna creciente",
-    "provisoire": true
+    "alt": "Templos de piedra antiguos entre montañas con niebla y un lago al amanecer, uno de los lugares espirituales del mundo"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/lugares-espirituales-del-mundo-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Mapa ilustrado de 15 lugares espirituales del mundo, de Machu Picchu y Kyoto a Varanasi y la Isla de Pascua",
+     "cap": "Quince lugares espirituales del mundo y lo que hace único a cada uno"
+    }
+   ],
    "insert": null,
    "faq": [
     [
@@ -7207,10 +7400,17 @@
     "src_s": "es/chamanismo-amazonico-icaros-cosmovision-640.webp",
     "w": 1200,
     "h": 670,
-    "alt": "Meditador de espaldas en un acantilado rodeado de volutas luminosas azules, valle brumoso, templo chino y cerezos",
-    "provisoire": true
+    "alt": "Chamán con tocado de plumas medita junto a un río de la selva entre jaguares, serpiente y colibríes: chamanismo amazónico"
    },
-   "schemas": [],
+   "schemas": [
+    {
+     "src": "es/chamanismo-amazonico-icaros-cosmovision-esquema-1.webp",
+     "w": 1376,
+     "h": 768,
+     "alt": "Infografía del chamanismo amazónico: los ícaros, una cosmovisión de tres mundos superpuestos y la selva como ser vivo",
+     "cap": "Ícaros, los tres mundos de la cosmovisión y la selva como ser vivo"
+    }
+   ],
    "insert": null,
    "faq": [
     [
