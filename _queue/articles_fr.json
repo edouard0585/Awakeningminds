@@ -91,7 +91,47 @@
   "photos": [
    "p33",
    "p15"
-  ]
+  ],
+  "es": {
+   "slug": "ejercicios-de-respiracion-para-calmarse",
+   "title": "Ejercicios de respiración para calmarte: 4 técnicas que funcionan",
+   "seo_title": "Ejercicios de respiración para calmarte: 4 técnicas",
+   "desc": "Suspiro fisiológico, respiración 4-7-8, respiración cuadrada y coherencia cardíaca: descubre qué técnica usar según la situación para calmarte.",
+   "kw": "ejercicios de respiración para calmarse, respiración para la ansiedad, respiración antiestrés, técnicas de respiración, respiración 4-7-8, respiración cuadrada, suspiro fisiológico, coherencia cardíaca, respiración lenta",
+   "photo": {
+    "src": "es/ejercicios-de-respiracion-para-calmarse.webp",
+    "src_s": "es/ejercicios-de-respiracion-para-calmarse-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Hombre con túnica meditando sobre una roca, olas en espiral, sol naciente, cerezos y pagoda en filigrana de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuál es la mejor respiración contra el estrés?",
+     "Para un estrés repentino, unos cuantos suspiros fisiológicos son muy prácticos. Para un trabajo de fondo, la respiración lenta en torno a seis ciclos por minuto cuenta con una literatura científica especialmente interesante."
+    ],
+    [
+     "¿Cuánto tiempo hay que respirar despacio?",
+     "Cinco minutos es una duración práctica. Aun así, un rato más corto también puede ayudarte a frenar una subida de tensión."
+    ],
+    [
+     "¿Por qué exhalar más tiempo calma?",
+     "Una exhalación lenta modifica las interacciones entre la respiración, el ritmo cardíaco y la regulación autónoma, y tiende a favorecer una desaceleración fisiológica."
+    ],
+    [
+     "¿Se pueden hacer ejercicios de respiración todos los días?",
+     "Sí, siempre que la respiración siga siendo cómoda y natural. La coherencia cardíaca está pensada precisamente como una práctica repetida."
+    ]
+   ],
+   "sources": [
+    "Laborde S. et al. (2022), <em>Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis</em>, Neuroscience &amp; Biobehavioral Reviews.",
+    "Sevoz-Couche C., Laborde S. (2022), <em>Heart rate variability and slow-paced breathing: when coherence meets resonance</em>, Neuroscience &amp; Biobehavioral Reviews.",
+    "Lehrer P. et al. / literatura sobre biofeedback de VFC; revisión metodológica de 2023, <em>Methods for Heart Rate Variability Biofeedback: A Systematic Review and Guidelines</em>."
+   ]
+  }
  },
  {
   "num": 67,
@@ -207,7 +247,47 @@
   "photos": [
    "p30",
    "p43"
-  ]
+  ],
+  "es": {
+   "slug": "yoga-nidra-beneficios-sueno",
+   "title": "Yoga nidra: el sueño consciente que descansa más que una siesta",
+   "seo_title": "Yoga nidra: beneficios del sueño consciente y NSDR",
+   "desc": "Dormir sin dormir: cómo es una sesión de yoga nidra, qué dice la ciencia sobre el sueño y el estrés, su relación con el NSDR y una práctica de 10 minutos.",
+   "kw": "yoga nidra, yoga nidra beneficios, yoga nidra para dormir, sueño yóguico, relajación profunda, yoga nidra para principiantes, NSDR, descanso profundo sin dormir, yoga nidra guiado",
+   "photo": {
+    "src": "es/yoga-nidra-beneficios-sueno.webp",
+    "src_s": "es/yoga-nidra-beneficios-sueno-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Persona meditando sobre una roca bajo un gran sol, remolinos de colores, río, pagoda y cerezos de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿El yoga nidra equivale a varias horas de sueño?",
+     "No hay pruebas sólidas que permitan establecer una equivalencia fija del tipo «30 minutos = 4 horas de sueño». El yoga nidra puede favorecer un descanso profundo, pero no sustituye las funciones biológicas del sueño."
+    ],
+    [
+     "¿Puede el yoga nidra mejorar el insomnio?",
+     "Las investigaciones son prometedoras, pero todavía limitadas. Algunas revisiones recientes recogen mejoras en ciertos estudios, mientras que un metaanálisis de 2026 considera muy baja la certeza global de la evidencia."
+    ],
+    [
+     "¿Pasa algo si me duermo durante una sesión?",
+     "No. Si lo que buscas es relajarte o conciliar el sueño, puede ser incluso deseable. Si quieres hacer un trabajo de conciencia más específico, prueba simplemente a practicar a una hora en la que estés menos cansado."
+    ],
+    [
+     "¿Qué diferencia hay entre el yoga nidra y el NSDR?",
+     "El yoga nidra es una práctica estructurada que procede del yoga moderno y de tradiciones contemplativas de la India. NSDR es una denominación contemporánea más amplia que agrupa distintos métodos de descanso profundo sin dormir."
+    ]
+   ],
+   "sources": [
+    "Satyananda Saraswati — <em>Yoga Nidra</em>, Bihar School of Yoga, obra clave en la difusión moderna del método.",
+    "Dutta A. et al. — <em>Efficacy of Yoga Nidra in Managing Sleep Disorders: A Systematic Review of Randomized Controlled Trials</em>, 2026.",
+    "Singh S. et al. — <em>Effect of yoga Nidra (yogic sleep) in sleep disturbances and insomnia: systematic review and metanalysis</em>, <em>Sleep and Breathing</em>, 2026."
+   ]
+  }
  },
  {
   "num": 32,
@@ -316,7 +396,47 @@
   "photos": [
    "p42",
    "p10"
-  ]
+  ],
+  "es": {
+   "slug": "chakra-raiz-bloqueado-senales-ejercicios",
+   "title": "Chakra raíz bloqueado: 7 señales y 5 ejercicios de enraizamiento",
+   "seo_title": "Chakra raíz bloqueado: 7 señales y 5 ejercicios",
+   "desc": "¿Inquieto o atrapado en tu cabeza? Descubre 7 señales de un chakra raíz bloqueado, su vínculo con el sistema nervioso y 5 ejercicios para enraizarte.",
+   "kw": "chakra raíz bloqueado, cómo desbloquear el chakra raíz, chakra raíz significado, chakra Muladhara, primer chakra, ejercicios de enraizamiento, técnicas de grounding, meditación de enraizamiento",
+   "photo": {
+    "src": "es/chakra-raiz-bloqueado-senales-ejercicios.webp",
+    "src_s": "es/chakra-raiz-bloqueado-senales-ejercicios-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer meditando sobre una roca a orillas de un lago, bajo una deidad benévola, volutas azules y cerezos",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cómo saber si tengo el chakra raíz bloqueado?",
+     "En las tradiciones energéticas, un chakra raíz desequilibrado suele asociarse a la inseguridad, la inquietud, el miedo, la dificultad para sentirse presente y la desconexión del cuerpo. Aun así, estas señales no constituyen un diagnóstico médico."
+    ],
+    [
+     "¿Qué color se asocia al chakra raíz?",
+     "El chakra Muladhara suele representarse en rojo en los sistemas modernos de los siete chakras."
+    ],
+    [
+     "¿Cuál es el mejor ejercicio para desbloquear el chakra raíz?",
+     "La caminata consciente, la postura de pie, el trabajo con los pies, la respiración baja y los ejercicios sensoriales son prácticas de enraizamiento excelentes."
+    ],
+    [
+     "¿Cuánto tiempo hay que practicar el enraizamiento?",
+     "De cinco a diez minutos al día bastan para empezar. La constancia suele ser más útil que una sesión muy larga hecha de vez en cuando."
+    ]
+   ],
+   "sources": [
+    "Sat-Cakra-Nirupana, texto tántrico clásico que describe el sistema de los chakras, traducido, entre otros, por Arthur Avalon en <em>The Serpent Power</em>.",
+    "Judith A. — <em>Eastern Body, Western Mind</em>, obra contemporánea que relaciona simbólicamente los chakras, la psicología y el desarrollo humano.",
+    "Kabat-Zinn J. — <em>Full Catastrophe Living</em>, para las prácticas de conciencia corporal y de regreso a las sensaciones del presente."
+   ]
+  }
  },
  {
   "num": 71,
@@ -432,7 +552,47 @@
   "photos": [
    "p46",
    "p45"
-  ]
+  ],
+  "es": {
+   "slug": "trabajo-de-sombra-jung-defectos",
+   "title": "Trabajo de sombra: por qué tus defectos a veces esconden tus tesoros",
+   "seo_title": "Trabajo de sombra según Jung: tus defectos esconden tesoros",
+   "desc": "La sombra según Jung no es tu lado oscuro. Descubre la proyección, por qué tus defectos son cualidades desajustadas y 3 ejercicios para integrar tu sombra.",
+   "kw": "trabajo de sombra, shadow work, sombra Jung, Carl Jung sombra, integrar la sombra, ejercicios de trabajo de sombra, proyección psicológica, aceptar tus defectos, autoconocimiento",
+   "photo": {
+    "src": "es/trabajo-de-sombra-jung-defectos.webp",
+    "src_s": "es/trabajo-de-sombra-jung-defectos-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Buda meditando sobre una roca entre dragones, cerezos en flor, pagoda y gran sol en filigrana de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Qué es la sombra según Jung?",
+     "En la psicología analítica, designa aspectos de la personalidad que el yo consciente reconoce con dificultad o rechaza. Puede contener tanto rasgos percibidos como negativos como capacidades positivas que no se han reconocido lo suficiente."
+    ],
+    [
+     "¿Cómo empezar el trabajo de sombra?",
+     "Un buen punto de partida es observar tus reacciones desproporcionadas, tus juicios repetitivos, las cualidades que envidias y los comportamientos que te prohíbes."
+    ],
+    [
+     "¿El trabajo de sombra es una terapia validada científicamente?",
+     "El «shadow work» no es un protocolo clínico estandarizado comparable a una psicoterapia validada. Aun así, algunas de sus ideas pueden relacionarse con técnicas modernas que trabajan con esquemas, emociones, imaginería y autoobservación."
+    ],
+    [
+     "¿Conviene trabajar los traumas en solitario con el shadow work?",
+     "No necesariamente. Cuando la introspección desencadena un malestar intenso, recuerdos traumáticos, síntomas disociativos o una alteración duradera de tu vida diaria, es preferible contar con el acompañamiento de un profesional formado."
+    ]
+   ],
+   "sources": [
+    "C. G. Jung — <em>Aion: Researches into the Phenomenology of the Self</em>, obra fundamental para entender los conceptos junguianos de sombra e individuación.",
+    "C. G. Jung — <em>Two Essays on Analytical Psychology</em>, textos fundamentales sobre la psicología analítica, el yo, el inconsciente y la individuación.",
+    "Jacob G.A., Arntz A. — trabajos contemporáneos sobre la schema therapy (terapia de esquemas), enfoque que estudia en particular modos emocionales y conductuales formados a partir de experiencias tempranas; no obstante, la investigación experimental sigue precisando los mecanismos propios de estos modos."
+   ]
+  }
  },
  {
   "num": 63,
@@ -548,7 +708,47 @@
   "photos": [
    "p14",
    "p23"
-  ]
+  ],
+  "es": {
+   "slug": "que-es-el-trance-estado-alterado",
+   "title": "¿Qué es el trance? Una capacidad humana mucho más normal de lo que crees",
+   "seo_title": "¿Qué es el trance? Un estado más normal de lo que crees",
+   "desc": "Ya has vivido un trance sin tambores ni péndulos. Absorción, ritmo, flow y su relación con la meditación y la hipnosis: un estado alterado muy cotidiano.",
+   "kw": "qué es el trance, estado de trance, estado alterado de conciencia, trance natural, trance meditativo, trance e hipnosis, trance y meditación, absorción mental, estado de flow",
+   "photo": {
+    "src": "es/que-es-el-trance-estado-alterado.webp",
+    "src_s": "es/que-es-el-trance-estado-alterado-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Persona de perfil meditando al borde de un acantilado frente a olas en espiral, una pagoda y un gran sol en quilling",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿El trance es un estado de sueño?",
+     "No. Una persona en trance puede seguir perfectamente despierta, responder y mantener cierta conciencia de su entorno."
+    ],
+    [
+     "¿Se puede entrar en trance sin hipnosis?",
+     "Sí. Los estados de trance o de absorción profunda pueden aparecer con la música, el baile, la meditación, el ritmo, la oración u otras prácticas repetitivas."
+    ],
+    [
+     "¿Conducir en piloto automático es realmente un trance?",
+     "Se usa a menudo como ejemplo de absorción o de automatización de la atención, pero es mejor no equiparar sin más cualquier trayecto rutinario con un trance en sentido estricto."
+    ],
+    [
+     "¿Te puedes quedar atrapado en un trance?",
+     "Los estados hipnóticos o de trance voluntario no funcionan como una puerta que se cierra mágicamente con llave. Aun así, después de algunas prácticas intensivas pueden persistir sensaciones desagradables; en ese caso, conviene que las valore un profesional."
+    ]
+   ],
+   "sources": [
+    "Bourguignon E. (1989) — <em>Trance and shamanism: what’s in a name?</em>, Journal of Psychoactive Drugs.",
+    "Dobkin de Rios M., Winkelman M. (1989) — <em>Shamanism and altered states of consciousness: an introduction</em>.",
+    "Revisión de 2026 — <em>The rhythms of trance: Cultural phenomenology and neural mechanisms of music-induced non-ordinary states of consciousness</em>."
+   ]
+  }
  },
  {
   "num": 98,
@@ -663,7 +863,47 @@
   "photos": [
    "p19",
    "p13"
-  ]
+  ],
+  "es": {
+   "slug": "peregrinacion-sin-religion-camino-santiago-shikoku",
+   "title": "Caminar para transformarte: el Camino de Santiago, Shikoku y los peregrinos sin religión",
+   "seo_title": "Peregrinación sin religión: Camino de Santiago y Shikoku",
+   "desc": "¿Por qué caminar despacio si nadie te obliga? Del Camino de Santiago a los 88 templos de Shikoku: la peregrinación como búsqueda personal.",
+   "kw": "peregrinación sin religión, caminata espiritual, Camino de Santiago sin ser creyente, Camino de Santiago, peregrinación de Shikoku, 88 templos de Shikoku, meditación caminando, caminar para encontrarse, peregrinación moderna",
+   "photo": {
+    "src": "es/peregrinacion-sin-religion-camino-santiago-shikoku.webp",
+    "src_s": "es/peregrinacion-sin-religion-camino-santiago-shikoku-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer meditando sobre una roca bajo un gran sol y una luna creciente, río, pagodas y cerezos de papel recortado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Se puede hacer el Camino de Santiago sin ser creyente?",
+     "Sí. El Camino sigue siendo históricamente una peregrinación cristiana, pero muchos caminantes actuales tienen también motivaciones culturales, personales o introspectivas; respetar la historia religiosa del camino sigue siendo esencial."
+    ],
+    [
+     "¿Cuántos kilómetros tiene la peregrinación de Shikoku?",
+     "El circuito de los 88 templos suma unos 1200 kilómetros según la ruta a pie que presenta el organismo oficial de turismo de Shikoku, y algunas estimaciones detalladas superan los 1400 kilómetros según las variantes. (ツーリズム四国)"
+    ],
+    [
+     "¿Por qué caminar ayuda a pensar?",
+     "Puede reducir las distracciones, aporta una actividad repetitiva y deja largos periodos de pensamiento sin estructura, además de los beneficios generales de la actividad física y del contacto con el entorno."
+    ],
+    [
+     "¿Hace falta irse varias semanas para vivir una peregrinación?",
+     "No. Un día de caminata voluntaria hacia un lugar significativo ya puede reunir los elementos esenciales: intención, desplazamiento, esfuerzo, llegada y regreso."
+    ]
+   ],
+   "sources": [
+    "UNESCO World Heritage Centre — <em>Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain</em>, documentación histórica sobre la peregrinación jacobea. (<a href=\"https://whc.unesco.org/en/list/669/\" target=\"_blank\" rel=\"noopener nofollow\">UNESCO World Heritage Centre</a>)",
+    "Tourism Shikoku — documentación oficial del Shikoku Henro, su historia, sus 88 templos y las motivaciones actuales de los peregrinos. (<a href=\"https://shikoku-tourism.com/en/shikoku-henro/shikoku-henro\" target=\"_blank\" rel=\"noopener nofollow\">ツーリズム四国</a>)",
+    "Reader I. — <em>Making Pilgrimages: Meaning and Practice in Shikoku</em>, estudio de referencia dedicado a la historia y las prácticas actuales de la peregrinación de Shikoku."
+   ]
+  }
  },
  {
   "num": 62,
@@ -779,7 +1019,47 @@
   "photos": [
    "p08",
    "p47"
-  ]
+  ],
+  "es": {
+   "slug": "tres-mundos-del-chamanismo",
+   "title": "Los tres mundos del chamanismo: el mapa universal del viaje interior",
+   "seo_title": "Los tres mundos del chamanismo: el mapa del alma",
+   "desc": "Mundo inferior, medio y superior unidos por el árbol del mundo: qué dice este mapa chamánico y cómo usarlo hoy en tu meditación.",
+   "kw": "tres mundos del chamanismo, mundo inferior chamanismo, mundo medio chamanismo, mundo superior chamanismo, viaje chamánico, cosmología chamánica, árbol del mundo, axis mundi, animal de poder",
+   "photo": {
+    "src": "es/tres-mundos-del-chamanismo.webp",
+    "src_s": "es/tres-mundos-del-chamanismo-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Buda con túnica naranja meditando bajo un sol radiante y la luna llena, pagodas, cerezos y olas de papel recortado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuáles son los tres mundos del chamanismo?",
+     "En muchos modelos actuales se llaman Mundo inferior, Mundo medio y Mundo superior. Sin embargo, su estructura y su significado varían muchísimo de una cultura a otra."
+    ],
+    [
+     "¿El Mundo inferior es el infierno?",
+     "No. Esa equivalencia es bastante engañosa. Según la tradición, el mundo inferior puede estar ligado a los muertos, a ciertos espíritus o a las regiones subterráneas, pero no es simplemente el equivalente del infierno cristiano."
+    ],
+    [
+     "¿Qué hay en el Mundo superior?",
+     "En algunas cosmologías tradicionales, distintos seres celestes o espíritus; en las prácticas modernas, se asocia a menudo con guías, maestros y perspectivas espirituales."
+    ],
+    [
+     "¿Existen realmente los tres mundos?",
+     "Existen sin duda como estructuras cosmológicas y simbólicas en diferentes tradiciones. Su existencia como lugares objetivos, independientes de la experiencia humana, pertenece al terreno de las creencias espirituales y no está demostrada científicamente."
+    ]
+   ],
+   "sources": [
+    "Eliade M. — <em>Le Chamanisme et les techniques archaïques de l’extase</em>, obra histórica fundamental sobre el chamanismo comparado, que hoy conviene leer junto con las críticas y revisiones de la antropología más reciente.",
+    "Columbia Center for Archaeology — documentación etnográfica sobre la cosmología y las prácticas chamánicas sajá.",
+    "Vanhaudenhuyse A. et al. (2024) — <em>Scoping review on shamanistic trance practices</em>, revisión multidisciplinar de la investigación sobre el trance chamánico."
+   ]
+  }
  },
  {
   "num": 131,
@@ -834,7 +1114,47 @@
   "photos": [
    "p44",
    "p03"
-  ]
+  ],
+  "es": {
+   "slug": "meditacion-y-productividad-en-el-trabajo",
+   "title": "Meditación y productividad: trabaja mejor con menos tensión",
+   "seo_title": "Meditación y productividad: rinde más con menos estrés",
+   "desc": "¿Meditar para rendir más? Primero, deja de confundir estar ocupado con ser eficaz. Atención, distracciones y una rutina realista para tu trabajo.",
+   "kw": "meditación y productividad, mindfulness en el trabajo, meditación para concentrarse, concentración en el trabajo, productividad consciente, evitar distracciones, atención plena en el trabajo, estrés laboral, meditar en la oficina",
+   "photo": {
+    "src": "es/meditacion-y-productividad-en-el-trabajo.webp",
+    "src_s": "es/meditacion-y-productividad-en-el-trabajo-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer meditando en un acantilado frente al atardecer, cerezo en flor, pagoda y deidad entre volutas de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuánto tiempo hay que meditar para concentrarse mejor en el trabajo?",
+     "No existe una duración universal. Entre cinco y diez minutos diarios son un punto de partida realista; la constancia suele importar más que una sesión excepcional."
+    ],
+    [
+     "¿Está demostrado científicamente que la meditación aumenta la productividad?",
+     "Los resultados son alentadores, pero con matices. Un metaanálisis de 2025 encuentra una pequeña ventaja frente a los controles pasivos, pero no frente a los controles activos."
+    ],
+    [
+     "¿Se puede meditar directamente en la oficina?",
+     "Sí. Un minuto de atención a la respiración o a las sensaciones del cuerpo puede ser una transición útil entre dos tareas."
+    ],
+    [
+     "¿Puede la meditación prevenir el burnout?",
+     "Algunas intervenciones de mindfulness o de compasión reducen de media el estrés y el burnout, pero no sustituyen la corrección de una carga de trabajo excesiva o de un entorno laboral dañino."
+    ]
+   ],
+   "sources": [
+    "Vainre et al., «Mindfulness-Based Programmes for Work Performance: A Systematic Review and Meta-Analysis of Randomised Controlled Trials», Stress and Health, 2025.",
+    "Bartlett et al., «Mindfulness-Based Programs in the Workplace: a Meta-Analysis of Randomized Controlled Trials», Mindfulness, 2020.",
+    "Wang et al., «Loving-kindness and compassion meditations in the workplace: A meta-analysis and future prospects», Stress and Health, 2024."
+   ]
+  }
  },
  {
   "num": 8,
@@ -956,7 +1276,47 @@
   "photos": [
    "p48",
    "p07"
-  ]
+  ],
+  "es": {
+   "slug": "meditar-manana-o-noche",
+   "title": "Meditar por la mañana o por la noche: qué cambia según la hora de tu sesión",
+   "seo_title": "Meditar por la mañana o por la noche: ¿qué es mejor?",
+   "desc": "Meditar al despertar o antes de dormir no da la misma sesión. Objetivo, cronotipo y constancia: así eliges la hora que de verdad vas a mantener.",
+   "kw": "meditar por la mañana o por la noche, mejor hora para meditar, meditación matutina, meditación nocturna, meditar al despertar, meditar antes de dormir, rutina de meditación, cronotipo",
+   "photo": {
+    "src": "es/meditar-manana-o-noche.webp",
+    "src_s": "es/meditar-manana-o-noche-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Silueta de espaldas meditando en un acantilado, río de espirales azules y doradas, sol dorado y pagoda de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Es mejor meditar en ayunas por la mañana?",
+     "No hace falta. A algunas personas les gusta la sensación de ligereza antes del desayuno, pero no existe ninguna obligación general."
+    ],
+    [
+     "¿Se puede meditar justo antes de dormir?",
+     "Sí. Las meditaciones de relajación, de respiración y el body scan son especialmente adecuadas para ese momento."
+    ],
+    [
+     "¿Meditar por la noche puede quitarme el sueño?",
+     "Una práctica tranquila suele favorecer la relajación, pero algunas meditaciones muy estimulantes o introspectivas pueden aumentar el estado de alerta en ciertas personas."
+    ],
+    [
+     "¿Puedo meditar por la mañana y por la noche?",
+     "Sí. Una sesión corta por la mañana y otra por la noche forman una rutina excelente, siempre que siga siendo fácil de mantener."
+    ]
+   ],
+   "sources": [
+    "Sommerhoff A., Ehring T., Takano K. (2023), <em>Effects of Induced Mindfulness at Night on Repetitive Negative Thinking</em>, JMIR Mental Health.",
+    "Huberty J. et al. (2021), <em>Testing a mindfulness meditation mobile app for the treatment of sleep-related symptoms in adults with sleep disturbance</em>, PLOS ONE.",
+    "Kabat-Zinn J., <em>Full Catastrophe Living</em>, programa y principios de la Mindfulness-Based Stress Reduction."
+   ]
+  }
  },
  {
   "num": 81,
@@ -1072,7 +1432,47 @@
   "photos": [
    "p40",
    "p17"
-  ]
+  ],
+  "es": {
+   "slug": "ritual-antes-de-dormir-rutina-nocturna",
+   "title": "¿Los 15 minutos antes de dormir deciden tu noche? El ritual que de verdad prepara el sueño",
+   "seo_title": "Ritual antes de dormir: los 15 minutos que cuentan",
+   "desc": "Baja la estimulación, vacía la cabeza y usa el cuerpo como interruptor: un ritual nocturno de 15 minutos, y por qué tu rutina empieza por la mañana.",
+   "kw": "ritual antes de dormir, rutina para dormir mejor, rutina nocturna, cómo dormir mejor, higiene del sueño, meditación para dormir, pantallas antes de dormir, conciliar el sueño",
+   "photo": {
+    "src": "es/ritual-antes-de-dormir-rutina-nocturna.webp",
+    "src_s": "es/ritual-antes-de-dormir-rutina-nocturna-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer meditando sobre una roca encima de un loto, sol y luna, cerezos y templos en un marco de pergaminos",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuánto tiempo antes de dormir hay que dejar las pantallas?",
+     "No existe un plazo mágico igual para todo el mundo; reducir la luz y la estimulación antes de acostarte es razonable, pero también cuentan el contenido que consumes, la duración, la intensidad de la luz y cuánto retrasa el dispositivo tu hora de acostarte."
+    ],
+    [
+     "¿Cuál es la mejor rutina nocturna para dormir?",
+     "Una rutina sencilla y fácil de repetir, que combine bajar la estimulación, una luz más suave, apuntar las tareas del día siguiente y alguna actividad tranquila, suele ser mejor que un ritual muy complicado imposible de mantener."
+    ],
+    [
+     "¿La meditación ayuda a dormir?",
+     "Puede ayudar a algunas personas a reaccionar menos ante los pensamientos y el estrés, pero no sustituye a los tratamientos establecidos para el insomnio crónico."
+    ],
+    [
+     "¿Qué hago si no consigo dormir a pesar de tener buena higiene del sueño?",
+     "Un insomnio persistente merece una evaluación, sobre todo para descartar factores médicos o psicológicos y plantearse una TCC-I, en lugar de acumular trucos para dormir de forma indefinida."
+    ]
+   ],
+   "sources": [
+    "Edinger J.D. et al. — recomendaciones clínicas de la American Academy of Sleep Medicine sobre los tratamientos conductuales y psicológicos del insomnio crónico.",
+    "Scullin M.K. et al. (2018) — estudio experimental sobre escribir una lista de tareas antes de acostarse y la latencia del sueño.",
+    "Walker W.H. et al. — trabajos y revisiones sobre las relaciones entre la luz, los ritmos circadianos, la melatonina y el sueño."
+   ]
+  }
  },
  {
   "num": 33,
@@ -1173,7 +1573,47 @@
   "photos": [
    "p36",
    "p01"
-  ]
+  ],
+  "es": {
+   "slug": "como-abrir-el-chakra-del-corazon",
+   "title": "Cómo abrir el chakra del corazón: la guía sin cursilerías",
+   "seo_title": "Cómo abrir el chakra del corazón sin cursilerías",
+   "desc": "Abrir Anahata no es perdonarlo todo ni querer a todo el mundo. Compasión y límites, tres prácticas concretas y un protocolo de siete minutos para ti.",
+   "kw": "abrir el chakra del corazón, chakra del corazón, chakra Anahata, cuarto chakra, chakra del corazón bloqueado, chakra del corazón significado, meditación chakra del corazón, ejercicios chakra del corazón",
+   "photo": {
+    "src": "es/como-abrir-el-chakra-del-corazon.webp",
+    "src_s": "es/como-abrir-el-chakra-del-corazon-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Persona meditando sentada sobre un loto dorado, volutas azules hacia el sol, cerezos y templo en papel quilling",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuáles son las señales de un chakra del corazón bloqueado?",
+     "Las tradiciones modernas suelen asociar este desequilibrio con la dificultad para confiar, recibir afecto, expresar las emociones, perdonar o construir relaciones equilibradas."
+    ],
+    [
+     "¿Qué color corresponde al chakra del corazón?",
+     "El verde es hoy el color más asociado a Anahata, aunque no todas las representaciones históricas y modernas coinciden."
+    ],
+    [
+     "¿Cómo abrir rápido el chakra del corazón?",
+     "No existe ningún método garantizado para «abrir» un chakra al instante. Aun así, la respiración consciente, la compasión, la meditación de bondad amorosa y el trabajo con los límites son prácticas concretas."
+    ],
+    [
+     "¿Tengo que perdonar para abrir el chakra del corazón?",
+     "No. El perdón puede ser útil en algunos casos, pero nunca debe forzarse. La seguridad, los límites y el reconocimiento de la herida a veces van antes que cualquier idea de perdón."
+    ]
+   ],
+   "sources": [
+    "Arthur Avalon (Sir John Woodroffe) — <em>The Serpent Power</em>, traducción y comentario de textos tántricos sobre los chakras.",
+    "Neff K. — <em>Self-Compassion: The Proven Power of Being Kind to Yourself</em>, sobre la autocompasión.",
+    "Salzberg S. — <em>Lovingkindness: The Revolutionary Art of Happiness</em>, obra de referencia contemporánea sobre la meditación de bondad amorosa."
+   ]
+  }
  },
  {
   "num": 75,
@@ -1282,7 +1722,47 @@
   "photos": [
    "p29",
    "p04"
-  ]
+  ],
+  "es": {
+   "slug": "llorar-durante-la-meditacion",
+   "title": "Llorar mientras meditas: ¿fallo del sistema o parte del proceso?",
+   "seo_title": "Llorar al meditar: ¿es normal y por qué ocurre?",
+   "desc": "Venías a respirar y llegan las lágrimas. Por qué el silencio hace aflorar emociones, qué hacer en ese momento y cuándo volver al anclaje.",
+   "kw": "llorar al meditar, llorar durante la meditación, emociones en la meditación, liberación emocional meditación, lágrimas al meditar, por qué lloro cuando medito, meditación y tristeza, efectos adversos de la meditación",
+   "photo": {
+    "src": "es/llorar-durante-la-meditacion.webp",
+    "src_s": "es/llorar-durante-la-meditacion-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer sentada a orillas de un río contemplando una deidad dorada sobre un loto, cerezos y pagoda de papel enrollado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Es normal llorar durante una meditación?",
+     "Sí, puede pasar y no significa necesariamente que haya un problema. La calma y la atención hacia dentro pueden hacer más visibles ciertas emociones."
+    ],
+    [
+     "¿Las lágrimas significan que estoy liberando un trauma?",
+     "No necesariamente. Esa interpretación puede servir como metáfora, pero las lágrimas por sí solas no permiten concluir que un trauma «almacenado en el cuerpo» se esté liberando biológicamente."
+    ],
+    [
+     "¿Debo seguir meditando cuando lloro?",
+     "Si te sientes estable y la emoción sigue siendo tolerable, puedes continuar con suavidad. Si te sientes desbordado, abre los ojos, muévete y vuelve a conectar con tu entorno."
+    ],
+    [
+     "¿Cuándo hay que pedir ayuda?",
+     "Si la meditación te provoca con frecuencia pánico, disociación, reexperimentación de un trauma, insomnio o un malestar que altera tu día a día, un profesional cualificado puede ayudarte a adaptar la práctica."
+    ]
+   ],
+   "sources": [
+    "Farias M. et al. — revisión sistemática sobre los efectos adversos asociados a las prácticas meditativas, <em>Acta Psychiatrica Scandinavica</em>, 2020. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32820538/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Britton W.B. et al. — trabajos sobre la definición y la medición de los efectos secundarios y adversos de los programas de mindfulness. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35174010/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Matko K., Van Dam N.T. — revisión clínica de 2026 sobre los posibles efectos adversos de la meditación y la necesidad de adaptar las intervenciones. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/41176868/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
+   ]
+  }
  },
  {
   "num": 64,
@@ -1398,7 +1878,47 @@
   "photos": [
    "p25",
    "p27"
-  ]
+  ],
+  "es": {
+   "slug": "diferencia-entre-hipnosis-y-meditacion",
+   "title": "Hipnosis y meditación: diferencias, parecidos y cuál elegir",
+   "seo_title": "Hipnosis o meditación: diferencias y cuál elegir",
+   "desc": "Ojos cerrados, voz tranquila… pero no funcionan igual: sugestión frente a observación. Descubre cuál te conviene más para el estrés, el dolor o el sueño.",
+   "kw": "diferencia entre hipnosis y meditación, hipnosis o meditación, autohipnosis, meditación guiada, hipnosis clínica, mindfulness, estado hipnótico, meditación para el estrés, hipnosis para dormir",
+   "photo": {
+    "src": "es/diferencia-entre-hipnosis-y-meditacion.webp",
+    "src_s": "es/diferencia-entre-hipnosis-y-meditacion-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Buda con túnica naranja meditando sobre una roca en medio de un río, aureola azul en volutas, sol dorado de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿La meditación es una forma de hipnosis?",
+     "No en sentido estricto. Pueden compartir relajación, atención focalizada y absorción, pero la sugestión suele tener un papel mucho más central en la hipnosis. Las comparaciones científicas directas encuentran tanto solapamientos como diferencias."
+    ],
+    [
+     "¿Con la hipnosis se pierde el control?",
+     "No. La imagen de alguien totalmente controlado por el hipnotizador pertenece sobre todo al espectáculo y a los mitos populares. La respuesta hipnótica implica la participación de la persona y varía mucho de un individuo a otro."
+    ],
+    [
+     "¿Se puede practicar la autohipnosis?",
+     "Sí. Muchos métodos de autohipnosis utilizan la relajación, la atención focalizada, la visualización y las autosugestiones."
+    ],
+    [
+     "¿Qué práctica es mejor contra el estrés?",
+     "Para desarrollar una habilidad general de gestión del estrés y de observación de los pensamientos, la meditación encaja muy bien. Para un objetivo más específico, la hipnosis puede ser interesante. Y las dos también pueden complementarse."
+    ]
+   ],
+   "sources": [
+    "Penazzi G., De Pisapia N. (2022) — <em>Direct comparisons between hypnosis and meditation: A mini-review</em>, Frontiers in Psychology.",
+    "Sim S. et al. (2024) — <em>Neural correlates of mindfulness meditation and hypnosis on magnetic resonance imaging: similarities and differences. A scoping review</em>.",
+    "McGeown W.J. (2016) — trabajos y revisiones sobre los mecanismos neuronales de la hipnosis y la meditación; véase también la revisión <em>Neural mechanisms of hypnosis and meditation</em>."
+   ]
+  }
  },
  {
   "num": 100,
@@ -1500,7 +2020,47 @@
   "photos": [
    "p11",
    "p52"
-  ]
+  ],
+  "es": {
+   "slug": "aprender-a-ser-feliz-habilidad",
+   "title": "¿La felicidad es una habilidad? Lo que de verdad puedes aprender a mejorar",
+   "seo_title": "¿Se puede aprender a ser feliz? Lo que dice la ciencia",
+   "desc": "¿Se puede entrenar la felicidad? Lo que muestra la psicología positiva, sus efectos modestos pero reales y las cuatro habilidades que de verdad importan.",
+   "kw": "aprender a ser feliz, cómo ser más feliz, la felicidad es una habilidad, psicología positiva, ciencia de la felicidad, felicidad duradera, gratitud y felicidad, adaptación hedónica, bienestar emocional",
+   "photo": {
+    "src": "es/aprender-a-ser-feliz-habilidad.webp",
+    "src_s": "es/aprender-a-ser-feliz-habilidad-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer de perfil meditando al borde de un acantilado, olas de papel azules y verdes, atardecer y pagoda a lo lejos",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿De verdad se puede aprender a ser más feliz?",
+     "Algunas intervenciones psicológicas pueden aumentar modestamente el bienestar medio, pero el efecto varía según la persona, las condiciones de vida y las prácticas utilizadas. (PubMed)"
+    ],
+    [
+     "¿La felicidad es genética en un 50 %?",
+     "Los factores genéticos influyen en las diferencias de bienestar, pero los porcentajes popularizados a partir de modelos antiguos no deben interpretarse como cuotas fijas e inmutables para cada persona."
+    ],
+    [
+     "¿Qué hábitos parecen más útiles?",
+     "Los datos respaldan sobre todo ciertas prácticas de gratitud, atención plena, uso de las fortalezas personales y cultivo de las relaciones, con efectos generalmente modestos más que milagrosos. (PubMed)"
+    ],
+    [
+     "¿Hay que intentar ser positivo todo el tiempo?",
+     "No. El bienestar psicológico también implica la capacidad de reconocer y atravesar la tristeza, el miedo, la rabia y la frustración sin considerar automáticamente su presencia como un fracaso."
+    ]
+   ],
+   "sources": [
+    "Lyubomirsky S., Sheldon K.M., Schkade D. (2005) — <em>Pursuing Happiness: The Architecture of Sustainable Change</em>, <em>Review of General Psychology</em>. (<a href=\"https://journals.sagepub.com/doi/10.1037/1089-2680.9.2.111\" target=\"_blank\" rel=\"noopener nofollow\">Sage Journals</a>)",
+    "Bolier L. et al. (2013) — <em>Positive Psychology Interventions: A Meta-analysis of Randomized Controlled Studies</em>, metaanálisis de los efectos sobre el bienestar y los síntomas depresivos. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23390882/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "<em>Mapping the Evidence Base of Positive Psychology Interventions: Effectiveness, Limitations, and Future Directions</em> (2026) — revisión sistemática que abarca 63 estudios primarios y 11 metaanálisis. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/42293973/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
+   ]
+  }
  },
  {
   "num": 69,
@@ -1616,7 +2176,47 @@
   "photos": [
    "p06",
    "p41"
-  ]
+  ],
+  "es": {
+   "slug": "como-encontrar-tu-animal-de-poder",
+   "title": "Cómo encontrar tu animal de poder: el viaje chamánico paso a paso",
+   "seo_title": "Cómo encontrar tu animal de poder: viaje paso a paso",
+   "desc": "Mucho más que un test: los cinco pasos del viaje al Mundo inferior para encontrar tu animal de poder, y qué hacer si no ves nada.",
+   "kw": "animal de poder, cómo saber cuál es mi animal de poder, encontrar mi animal de poder, animal de poder chamanismo, animal tótem, viaje chamánico, animal guía espiritual, mundo inferior chamánico",
+   "photo": {
+    "src": "es/como-encontrar-tu-animal-de-poder.webp",
+    "src_s": "es/como-encontrar-tu-animal-de-poder-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Deidad coronada sobre un monje que medita en una roca, río con lotos, pagodas y cerezos de papel recortado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cómo sé cuál es mi animal de poder?",
+     "En algunos métodos chamánicos contemporáneos se busca encontrar de forma espontánea un animal a lo largo de varios viajes, en lugar de elegir sin más tu animal favorito."
+    ],
+    [
+     "¿Animal tótem y animal de poder son sinónimos?",
+     "No exactamente. «Tótem» pertenece a tradiciones indígenas concretas y tiene significados sociales y culturales que van mucho más allá de la idea moderna de un guía animal personal."
+    ],
+    [
+     "¿Qué hago si no aparece ningún animal?",
+     "Sigue sin forzar y usa otras vías además de la vista: sensaciones, sonidos, intuición o palabras. La capacidad de formar imágenes mentales varía mucho de una persona a otra."
+    ],
+    [
+     "¿Un animal que da miedo puede ser un animal de poder?",
+     "En una práctica simbólica, sí: un animal imponente puede representar una cualidad importante. Si la experiencia se vuelve realmente angustiosa, termina la visualización, vuelve a las sensaciones del cuerpo y retómala solo cuando te sientas estable."
+    ]
+   ],
+   "sources": [
+    "Harner M. — <em>The Way of the Shaman</em>, obra clave en el desarrollo del core shamanism contemporáneo.",
+    "Walsh R. — <em>The World of Shamanism: New Views of an Ancient Tradition</em>, análisis comparativo de las experiencias y prácticas chamánicas.",
+    "Hutton R. — <em>Shamans: Siberian Spirituality and the Western Imagination</em>, análisis histórico útil para distinguir las tradiciones siberianas de las construcciones occidentales modernas."
+   ]
+  }
  },
  {
   "num": 132,
@@ -1677,7 +2277,47 @@
   "photos": [
    "p28",
    "p49"
-  ]
+  ],
+  "es": {
+   "slug": "meditacion-relaciones-escucha-consciente",
+   "title": "Meditación y relaciones: escuchar de verdad en lugar de esperar tu turno para hablar",
+   "seo_title": "Meditación y relaciones: aprende a escuchar de verdad",
+   "desc": "Estar ahí no es estar presente. Escucha consciente, conflictos y límites: tres prácticas para convertir la meditación en una habilidad para tu pareja.",
+   "kw": "meditación y relaciones, mindfulness en pareja, meditación en pareja, escucha activa, escucha consciente, atención plena en pareja, comunicación en pareja, conflictos de pareja, cómo escuchar a tu pareja",
+   "photo": {
+    "src": "es/meditacion-relaciones-escucha-consciente.webp",
+    "src_s": "es/meditacion-relaciones-escucha-consciente-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Silueta sin rostro meditando sobre una roca, volutas doradas que brotan hacia el sol, río y cerezos",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Está demostrado científicamente que la meditación mejora las relaciones de pareja?",
+     "Los estudios sugieren una pequeña asociación positiva y algunos ensayos indican mejoras, pero la certeza global de las pruebas sigue siendo baja."
+    ],
+    [
+     "¿Cómo meditar para escuchar mejor?",
+     "Entrenando primero la atención y practicando después una pausa antes de responder, la reformulación y periodos de escucha sin interrupciones."
+    ],
+    [
+     "¿El mindfulness ayuda a desarrollar la empatía?",
+     "Algunos estudios encuentran asociaciones entre varias dimensiones del mindfulness, la empatía y la escucha activa, pero los resultados no permiten garantizar un efecto automático en todo el mundo."
+    ],
+    [
+     "¿Hay que meditar juntos para mejorar la pareja?",
+     "No. Una práctica individual puede influir en ciertos hábitos relacionales, mientras que las actividades compartidas y la comunicación directa siguen siendo importantes."
+    ]
+   ],
+   "sources": [
+    "Park, «The association between mindfulness and couple quality: The mediating roles of self-care and engagement in shared relationship activities», Journal of Family Therapy, 2024.",
+    "McGill, Adler-Baeder & Rodriguez, «Mindfully in Love: A Meta-Analysis of the Association Between Mindfulness and Relationship Satisfaction», 2016.",
+    "Jones, Bodie & Hughes, «The Impact of Mindfulness on Empathy, Active Listening, and Perceived Provisions of Emotional Support», Communication Research, 2019."
+   ]
+  }
  },
  {
   "num": 9,
@@ -1793,7 +2433,47 @@
   "photos": [
    "p32",
    "p34"
-  ]
+  ],
+  "es": {
+   "slug": "quedarse-dormido-meditando",
+   "title": "¿Por qué me quedo dormido meditando? Y cómo mantenerte despierto",
+   "seo_title": "¿Te quedas dormido meditando? Cómo evitarlo",
+   "desc": "Quedarte dormido meditando es muy común y no te convierte en un mal meditador. Descubre por qué pasa y siete trucos sencillos para seguir despierto.",
+   "kw": "quedarse dormido meditando, me duermo al meditar, sueño al meditar, somnolencia meditación, cómo no dormirse meditando, meditación y cansancio, meditación por la noche, falta de sueño",
+   "photo": {
+    "src": "es/quedarse-dormido-meditando.webp",
+    "src_s": "es/quedarse-dormido-meditando-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer sentada sobre una roca junto a un río sinuoso, contemplando a una diosa sobre un loto entre las nubes",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Es grave quedarse dormido durante una meditación?",
+     "No. Es muy frecuente, sobre todo cuando meditas cansado o tumbado."
+    ],
+    [
+     "¿Cuenta como meditación si me he quedado dormido?",
+     "Probablemente te has beneficiado de un rato de relajación, pero si tu objetivo era entrenar la atención, la parte que pasaste durmiendo ya no es, evidentemente, meditación consciente."
+    ],
+    [
+     "¿Qué postura evita mejor el sueño?",
+     "Sentado en una silla, con la espalda recta pero no rígida, los pies en el suelo y los ojos ligeramente abiertos."
+    ],
+    [
+     "¿Por qué las meditaciones guiadas me duermen enseguida?",
+     "La voz lenta, la repetición, la quietud y la reducción de estímulos son también señales que favorecen el sueño."
+    ]
+   ],
+   "sources": [
+    "Huberty J. et al. (2021), ensayo aleatorizado sobre una aplicación de mindfulness y síntomas relacionados con el sueño, PLOS ONE.",
+    "Kabat-Zinn J., <em>Full Catastrophe Living</em>.",
+    "Britton W.B. et al., trabajos sobre los mecanismos y los estados atencionales asociados a las prácticas contemplativas."
+   ]
+  }
  },
  {
   "num": 82,
@@ -1895,7 +2575,47 @@
   "photos": [
    "p35",
    "p51"
-  ]
+  ],
+  "es": {
+   "slug": "suenos-lucidos-tecnicas-para-principiantes",
+   "title": "Sueño lúcido: las 4 técnicas de inducción que de verdad se han estudiado",
+   "seo_title": "Sueños lúcidos: 4 técnicas estudiadas para lograrlos",
+   "desc": "Pruebas de realidad, MILD, WBTB y WILD: las 4 técnicas de sueño lúcido que se han estudiado y un plan realista para empezar sin sacrificar tu descanso.",
+   "kw": "sueños lúcidos, cómo tener sueños lúcidos, técnicas de sueño lúcido, sueño lúcido para principiantes, inducir sueños lúcidos, técnica MILD, técnica WBTB, pruebas de realidad, técnica WILD",
+   "photo": {
+    "src": "es/suenos-lucidos-tecnicas-para-principiantes.webp",
+    "src_s": "es/suenos-lucidos-tecnicas-para-principiantes-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Meditador de espaldas sobre una roca frente al sol naciente, gran loto luminoso en el cielo, río en espiral y templos",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuál es la técnica de sueño lúcido más eficaz?",
+     "Los datos disponibles muestran resultados interesantes sobre todo para MILD, a menudo combinada con un despertar nocturno tipo WBTB, pero ningún método garantiza un sueño lúcido y los resultados varían mucho de una persona a otra."
+    ],
+    [
+     "¿Bastan las pruebas de realidad para volverse lúcido?",
+     "Pueden ayudar, sobre todo cuando se hacen con atención y se asocian a tus señales oníricas, pero por sí solas no parecen ser el método más sólido."
+    ],
+    [
+     "¿WILD provoca necesariamente parálisis del sueño?",
+     "No. La parálisis del sueño puede aparecer en las transiciones entre vigilia y sueño, pero practicar WILD no significa que vaya a ocurrir siempre."
+    ],
+    [
+     "¿El sueño lúcido es malo para el descanso?",
+     "El fenómeno en sí no es necesariamente problemático, pero las técnicas que usan despertares voluntarios pueden fragmentar el sueño; por eso es razonable reducir o dejar las inducciones si te causan cansancio o insomnio."
+    ]
+   ],
+   "sources": [
+    "LaBerge S. — <em>Exploring the World of Lucid Dreaming</em>, obra clásica que describe, entre otras cosas, el método MILD y las prácticas de inducción del sueño lúcido.",
+    "Aspy D.J. et al. — <em>Reality testing and the mnemonic induction of lucid dreams: Findings from the national Australian lucid dream induction study</em>, importante estudio comparativo sobre las técnicas de inducción.",
+    "Konkoly K.R. et al. (2021) — <em>Real-time dialogue between experimenters and dreamers during REM sleep</em>, <em>Current Biology</em>, demostración experimental de comunicación bidireccional con algunos soñadores durante el sueño REM."
+   ]
+  }
  },
  {
   "num": 34,
@@ -2004,7 +2724,47 @@
   "photos": [
    "p18",
    "p38"
-  ]
+  ],
+  "es": {
+   "slug": "tercer-ojo-glandula-pineal-intuicion",
+   "title": "El tercer ojo: mito, glándula pineal e intuición",
+   "seo_title": "Tercer ojo: mito, glándula pineal e intuición",
+   "desc": "El chakra Ajna en la tradición, lo que hace de verdad la glándula pineal, la presión entre las cejas y una práctica honesta de 10 minutos para ti.",
+   "kw": "tercer ojo, abrir el tercer ojo, chakra del tercer ojo, chakra Ajna, tercer ojo significado, glándula pineal tercer ojo, glándula pineal melatonina, intuición, meditación tercer ojo",
+   "photo": {
+    "src": "es/tercer-ojo-glandula-pineal-intuicion.webp",
+    "src_s": "es/tercer-ojo-glandula-pineal-intuicion-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer de espaldas meditando al borde de un acantilado, rodeada de volutas doradas, un dragón y una estatua frente al río",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿El tercer ojo existe de verdad?",
+     "El tercer ojo existe como concepto espiritual y simbólico en varias tradiciones. La ciencia no ha identificado ningún órgano humano que permita una percepción extrasensorial que corresponda literalmente a este concepto."
+    ],
+    [
+     "¿La glándula pineal es el tercer ojo?",
+     "No en sentido científico. La glándula pineal es una glándula endocrina que interviene principalmente en la producción de melatonina y en la regulación circadiana. Su identificación con el tercer ojo procede sobre todo de asociaciones filosóficas y espirituales modernas."
+    ],
+    [
+     "¿Por qué siento hormigueo entre las cejas cuando medito?",
+     "Concentrar la atención aumenta la percepción de las sensaciones locales, y una ligera contracción muscular también puede provocar presión u hormigueo."
+    ],
+    [
+     "¿Se puede desarrollar la intuición con la meditación?",
+     "La meditación puede mejorar la conciencia de tus sensaciones, emociones y reacciones internas, lo que puede ayudarte a detectar mejor ciertas señales intuitivas. Eso no significa, sin embargo, que toda intuición sea acertada o paranormal."
+    ]
+   ],
+   "sources": [
+    "Arthur Avalon — <em>The Serpent Power</em>, traducción de textos tántricos que describen, entre otros, el chakra Ajna.",
+    "Arendt J. — trabajos de referencia sobre la melatonina, la glándula pineal y los ritmos circadianos; véase en particular <em>Melatonin and the Mammalian Pineal Gland</em>.",
+    "Kahneman D. — <em>Thinking, Fast and Slow</em>, para la distinción entre el procesamiento intuitivo rápido, el juicio y los sesgos cognitivos."
+   ]
+  }
  },
  {
   "num": 79,
@@ -2113,7 +2873,47 @@
   "photos": [
    "p24",
    "p46"
-  ]
+  ],
+  "es": {
+   "slug": "vencer-miedos-exposicion-gradual",
+   "title": "Vencer tus miedos con exposición gradual: por qué esperar a no tener miedo suele alimentar el miedo",
+   "seo_title": "Vencer tus miedos con exposición gradual y suave",
+   "desc": "Esperar a no tener miedo suele mantener el miedo. Descubre la exposición gradual, las conductas de seguridad y cuándo es mejor no hacerlo solo.",
+   "kw": "cómo vencer tus miedos, exposición gradual, terapia de exposición, enfrentar tus miedos, superar el miedo, ansiedad y exposición, terapia cognitivo conductual, conductas de seguridad",
+   "photo": {
+    "src": "es/vencer-miedos-exposicion-gradual.webp",
+    "src_s": "es/vencer-miedos-exposicion-gradual-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Persona meditando sobre una roca entre las olas, bajo una deidad con aureola y entre dos pergaminos, en papel enrollado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Hay que enfrentarse a los miedos para vencerlos?",
+     "Para muchos miedos y trastornos de ansiedad, la exposición es uno de los métodos terapéuticos mejor establecidos, pero debe adaptarse a cada situación y no significa obligarse de golpe a enfrentarse de inmediato al nivel máximo de miedo."
+    ],
+    [
+     "¿Tengo que esperar a que desaparezca la ansiedad durante una exposición?",
+     "No necesariamente. Los modelos actuales muestran que el aprendizaje puede ser útil aunque la ansiedad siga presente; lo que importa, sobre todo, es poner a prueba las predicciones de peligro y aprender que puedes hacer frente a la situación."
+    ],
+    [
+     "¿Cómo se crea una escala de exposición?",
+     "Haz una lista de situaciones relacionadas con tu miedo, ponle a cada una una dificultad subjetiva y empieza por un paso que te genere la ansiedad suficiente para que tenga sentido, pero que sea lo bastante manejable para poder repetirlo."
+    ],
+    [
+     "¿Cuándo hay que hacer la exposición con un profesional?",
+     "Cuando el miedo es intenso o incapacitante, o está ligado a un trauma, a un TOC, a ataques de pánico importantes o a una situación compleja, un profesional formado en terapias conductuales puede diseñar una estrategia mucho más segura y precisa."
+    ]
+   ],
+   "sources": [
+    "Craske M.G. et al. (2014) — <em>Maximizing Exposure Therapy: An Inhibitory Learning Approach</em>, <em>Behaviour Research and Therapy</em>, artículo clave sobre los modelos actuales de la exposición. (⁠<a href=\"https://pubmed.ncbi.nlm.nih.gov/24864005/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Craske M.G. et al. (2008) — <em>Optimizing Inhibitory Learning During Exposure Therapy</em>, análisis de los mecanismos de aprendizaje y de los límites de una lectura basada exclusivamente en la habituación. (⁠<a href=\"https://pubmed.ncbi.nlm.nih.gov/18005936/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Jacoby R.J., Abramowitz J.S. y literatura sobre las conductas de seguridad y el aprendizaje inhibitorio en las terapias de exposición, sintetizada sobre todo en la revisión crítica dedicada a este tema. (⁠<a href=\"https://pubmed.ncbi.nlm.nih.gov/27475477/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
+   ]
+  }
  },
  {
   "num": 65,
@@ -2229,7 +3029,47 @@
   "photos": [
    "p33",
    "p21"
-  ]
+  ],
+  "es": {
+   "slug": "regresion-a-vidas-pasadas-hipnosis",
+   "title": "Vidas pasadas: ¿qué pensar de la regresión?",
+   "seo_title": "Regresión a vidas pasadas: ¿qué hay de cierto?",
+   "desc": "Bajo hipnosis surgen escenas de otra época. Memoria reconstructiva, criptomnesia y tradiciones: cómo abordar una regresión a vidas pasadas con prudencia.",
+   "kw": "regresión a vidas pasadas, vidas pasadas, hipnosis regresiva, hipnosis vidas pasadas, recuerdos de vidas pasadas, reencarnación, falsos recuerdos, memoria reconstructiva, criptomnesia",
+   "photo": {
+    "src": "es/regresion-a-vidas-pasadas-hipnosis.webp",
+    "src_s": "es/regresion-a-vidas-pasadas-hipnosis-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Monje con túnica violeta meditando sobre una piedra en medio de un río, cerezo en flor y templo rojo de papel enrollado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Puede la hipnosis recuperar una vida pasada real?",
+     "Hoy por hoy, ningún método científico validado permite demostrar que una escena obtenida bajo hipnosis corresponda realmente a una existencia anterior."
+    ],
+    [
+     "¿Por qué los recuerdos parecen tan reales?",
+     "La absorción hipnótica, la imaginación y los mecanismos reconstructivos de la memoria pueden producir escenas sumamente vívidas acompañadas de emociones intensas."
+    ],
+    [
+     "¿Puede una regresión crear falsos recuerdos?",
+     "Sí, es un riesgo importante cuando un terapeuta hace preguntas sugestivas o presenta imágenes imaginadas como recuerdos comprobados. Los estudios sobre la regresión hipnótica insisten en la prudencia respecto a la exactitud de la memoria."
+    ],
+    [
+     "¿Se puede sacar algo de una regresión de todos modos?",
+     "Sí. Una escena puede usarse como material simbólico o de introspección sin suponer que sea un archivo histórico exacto."
+    ]
+   ],
+   "sources": [
+    "Lynn S.J., Kirsch I., Hallquist M.N. y trabajos sobre hipnosis, sugestionabilidad y falsos recuerdos.",
+    "Stevenson I. — <em>Twenty Cases Suggestive of Reincarnation</em>, obra clásica y controvertida sobre recuerdos espontáneos relatados por niños.",
+    "Revisión crítica de 2026 sobre la regresión de edad en hipnosis, que subraya los problemas de memoria y la insuficiencia de datos sobre la regresión a vidas pasadas."
+   ]
+  }
  },
  {
   "num": 112,
@@ -2323,7 +3163,47 @@
   "photos": [
    "p09",
    "p16"
-  ]
+  ],
+  "es": {
+   "slug": "chamanismo-siberiano-origen-palabra-chaman",
+   "title": "Chamanismo siberiano: el lugar donde nació la palabra «chamán»",
+   "seo_title": "Chamanismo siberiano y el origen de la palabra chamán",
+   "desc": "La palabra chamán viene de los evenkis de Siberia. Su papel, la llamada, la iniciación, el tambor y el atuendo: descubre la diversidad de esta tradición.",
+   "kw": "chamanismo siberiano, origen de la palabra chamán, chamán evenki, tradiciones siberianas, espiritualidad siberiana, chamanismo buriato, chamanismo yakuto, trance chamánico, tambor chamánico siberiano",
+   "photo": {
+    "src": "es/chamanismo-siberiano-origen-palabra-chaman.webp",
+    "src_s": "es/chamanismo-siberiano-origen-palabra-chaman-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Monje meditando sobre una roca bajo una ola de papel, una diosa sentada en las nubes, pagodas y cerezos en flor",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿La palabra chamán viene realmente de Siberia?",
+     "Sí. Suele vincularse a las lenguas tungúsicas, en particular al evenki, antes de que la adoptara el ruso y, después, otras lenguas europeas."
+    ],
+    [
+     "¿Todos los pueblos siberianos llaman «chamanes» a sus especialistas?",
+     "No. Cada pueblo usa términos y categorías propios de su lengua y sus tradiciones."
+    ],
+    [
+     "¿El tambor es obligatorio en el chamanismo siberiano?",
+     "No como regla universal. Aun así, es muy importante en varias tradiciones documentadas."
+    ],
+    [
+     "¿Se puede aprender chamanismo siberiano solo con libros?",
+     "Puedes estudiar su historia y sus símbolos, pero una tradición comunitaria viva no se reduce a un manual de técnicas."
+    ]
+   ],
+   "sources": [
+    "Ronald Hutton, Shamans: Siberian Spirituality and the Western Imagination, Hambledon & London, 2001",
+    "Andrei A. Znamenski, Shamanism in Siberia: Russian Records of Indigenous Spirituality, Springer/Kluwer, 2003",
+    "Mircea Eliade, Shamanism: Archaic Techniques of Ecstasy, Princeton University Press, edición inglesa de 1964."
+   ]
+  }
  },
  {
   "num": 10,
@@ -2425,7 +3305,47 @@
   "photos": [
    "p02",
    "p22"
-  ]
+  ],
+  "es": {
+   "slug": "30-dias-de-meditacion-diario",
+   "title": "30 días de meditación: lo que cambia de verdad (diario honesto)",
+   "seo_title": "30 días de meditación: lo que cambia de verdad",
+   "desc": "El diario honesto de un reto de 30 días de meditación: un día 1 sin nada místico, un día 8 sin ganas, la meseta del día 19 y unos cambios muy normales.",
+   "kw": "30 días de meditación, reto de meditación 30 días, meditar todos los días beneficios, meditación diaria, beneficios de meditar un mes, meditación para principiantes, rutina de meditación, experiencia meditando",
+   "photo": {
+    "src": "es/30-dias-de-meditacion-diario.webp",
+    "src_s": "es/30-dias-de-meditacion-diario-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Monje con túnica naranja meditando sobre una roca, sostenido por una espiral de sol y luna, montañas y pagoda de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Basta con un mes de meditación para notar cambios?",
+     "Un mes puede bastar para crear un hábito y notar algunos cambios subjetivos o de comportamiento. Las transformaciones más profundas suelen requerir una práctica más larga."
+    ],
+    [
+     "¿Hay que meditar sí o sí 30 días seguidos?",
+     "No. Saltarte un día no borra los beneficios acumulados. Simplemente retómalo al día siguiente."
+    ],
+    [
+     "¿Qué resultados puedo esperar después de 30 días?",
+     "Es más realista esperar una mayor conciencia de tus pensamientos, tu estrés y tus sensaciones corporales que una transformación espectacular de tu personalidad."
+    ],
+    [
+     "¿Por qué a veces siento que medito peor después de varias semanas?",
+     "Porque a veces te vuelves más consciente de la agitación que ya estaba ahí. Ver más el desorden no significa necesariamente que haya más."
+    ]
+   ],
+   "sources": [
+    "Remskar M. et al. (2024), <em>Mindfulness improves psychological health and supports health behaviour cognitions: Evidence from a pragmatic RCT of a digital mindfulness-based intervention</em>, British Journal of Health Psychology.",
+    "JAMA Network Open (2025), <em>Digital Meditation to Target Employee Stress: A Randomized Clinical Trial</em>.",
+    "Kabat-Zinn J., <em>Full Catastrophe Living</em>, obra de referencia sobre el programa MBSR."
+   ]
+  }
  },
  {
   "num": 84,
@@ -2534,7 +3454,47 @@
   "photos": [
    "p05",
    "p43"
-  ]
+  ],
+  "es": {
+   "slug": "meditacion-guiada-para-dormir-voz",
+   "title": "Meditación para dormir: por qué quedarte dormido con una voz funciona tan bien",
+   "seo_title": "Meditación guiada para dormir: el poder de una voz",
+   "desc": "Una voz no te duerme como un fármaco: ocupa tu atención sin mantenerte despierto. Por qué el body scan, el ritmo y el tono te ayudan tanto a dormirte.",
+   "kw": "meditación para dormir, meditación guiada para dormir, meditación nocturna, dormir con una voz, relajación guiada para dormir, body scan para dormir, cómo conciliar el sueño, pensamientos nocturnos",
+   "photo": {
+    "src": "es/meditacion-guiada-para-dormir-voz.webp",
+    "src_s": "es/meditacion-guiada-para-dormir-voz-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer meditando sobre una roca, envuelta en una espiral azul y dorada, gran sol, pagodas y cerezos de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Por qué una voz ayuda a dormirse?",
+     "Puede ofrecer un objeto de atención tranquilo y predecible que compite con la rumiación, facilita centrarse en las sensaciones y acompaña poco a poco la disminución del nivel de alerta."
+    ],
+    [
+     "¿Hay que escuchar toda la meditación para que funcione?",
+     "No. En una meditación para dormir, quedarte dormido antes del final es, de hecho, un resultado excelente."
+    ],
+    [
+     "¿La meditación nocturna cura el insomnio?",
+     "Puede ayudar a algunas personas, pero el insomnio crónico suele requerir un enfoque más estructurado, en particular la TCC-I."
+    ],
+    [
+     "¿Hace falta usar auriculares para dormir?",
+     "No es imprescindible; algunas personas prefieren un altavoz a bajo volumen para evitar la incomodidad o las molestias de llevar auriculares toda la noche."
+    ]
+   ],
+   "sources": [
+    "Rusch H.L. et al. — revisión sistemática y metaanálisis sobre las intervenciones de mindfulness y la calidad del sueño.",
+    "Ong J.C., Moore C. — trabajos sobre los enfoques de mindfulness para el insomnio y sus posibles mecanismos.",
+    "Edinger J.D. et al. — guías de práctica clínica sobre las intervenciones conductuales y psicológicas para el insomnio crónico."
+   ]
+  }
  },
  {
   "num": 35,
@@ -2643,7 +3603,47 @@
   "photos": [
    "p20",
    "p39"
-  ]
+  ],
+  "es": {
+   "slug": "que-es-el-chi-energia-vital",
+   "title": "¿Qué es el chi? La energía vital explicada a una mente racional",
+   "seo_title": "¿Qué es el chi? La energía vital explicada sin misterio",
+   "desc": "Chi, qi, prana, pneuma: qué hay detrás del aliento vital, qué sientes al hacer qigong o taichí y un ejercicio de diez minutos para comprobarlo tú mismo.",
+   "kw": "qué es el chi, qué es el qi, energía chi, energía qi, energía vital, aliento vital, qigong, taichí, sentir el chi, medicina tradicional china",
+   "photo": {
+    "src": "es/que-es-el-chi-energia-vital.webp",
+    "src_s": "es/que-es-el-chi-energia-vital-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer meditando en loto sobre una roca, halo solar, río, gran árbol y templos bajo los cerezos de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Qué diferencia hay entre qi y chi?",
+     "Es el mismo término chino 氣/气. «Qi» corresponde al sistema de romanización pinyin, hoy predominante, mientras que «chi» procede de sistemas de transcripción más antiguos."
+    ],
+    [
+     "¿Se puede sentir el chi en las manos?",
+     "Muchas personas que lo practican describen calor, hormigueo, presión o pulsaciones. Estas sensaciones pueden ser reales sin demostrar por sí solas la existencia de una energía física distinta de los procesos fisiológicos conocidos."
+    ],
+    [
+     "¿El qi es lo mismo que el prana?",
+     "Son conceptos comparables porque asocian respiración, vida y vitalidad, pero proceden de tradiciones filosóficas y médicas diferentes y no son del todo intercambiables."
+    ],
+    [
+     "¿Hay que creer en el qi para practicar qigong?",
+     "No. Puedes usar perfectamente el qigong como una práctica de movimiento lento, respiración, atención corporal y relajación sin adoptar al pie de la letra su modelo energético tradicional."
+    ]
+   ],
+   "sources": [
+    "Yuan H.-W. et al. (2013) — <em>The Historical Development of Deqi Concept from Classics of Traditional Chinese Medicine to Modern Research</em>.",
+    "Stanley-Baker M. — trabajos históricos sobre los distintos significados y funciones del concepto de qi en la China antigua.",
+    "<em>Huangdi Neijing</em> — corpus clásico de la medicina china en el que el qi ocupa un lugar fundamental."
+   ]
+  }
  },
  {
   "num": 66,
@@ -2766,7 +3766,47 @@
   "photos": [
    "p26",
    "p42"
-  ]
+  ],
+  "es": {
+   "slug": "registros-akashicos-como-consultarlos",
+   "title": "Registros akáshicos: guía prudente para consultarlos",
+   "seo_title": "Registros akáshicos: cómo consultarlos con prudencia",
+   "desc": "¿Una biblioteca que lo contiene todo? Origen de la palabra akasha, qué dice la ciencia y cómo consultarla separando lo que recibes de lo que interpretas.",
+   "kw": "registros akáshicos, cómo abrir los registros akáshicos, consulta de registros akáshicos, lectura de registros akáshicos, Akashic Records, archivos akáshicos, akasha, meditación registros akáshicos",
+   "photo": {
+    "src": "es/registros-akashicos-como-consultarlos.webp",
+    "src_s": "es/registros-akashicos-como-consultarlos-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer meditando sobre una roca en medio de las olas, deidad sobre un loto y sol, dos pergaminos en blanco",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Qué son los registros akáshicos?",
+     "En las corrientes esotéricas modernas se describen como un archivo o una dimensión de conciencia que contiene la información relacionada con las almas y su recorrido. Su existencia no está demostrada científicamente."
+    ],
+    [
+     "¿De dónde viene el concepto de los Akashic Records?",
+     "La palabra akasha es antigua y procede de tradiciones de la India, mientras que la noción moderna de un archivo universal se desarrolló sobre todo en el esoterismo occidental, en particular en la teosofía, y después la popularizaron diversos autores y médiums."
+    ],
+    [
+     "¿Puedes consultar los registros por tu cuenta?",
+     "Autores contemporáneos como Linda Howe proponen métodos personales que utilizan oración, meditación y preguntas estructuradas."
+    ],
+    [
+     "¿Se puede tomar una decisión médica basándose en los registros?",
+     "No. Una práctica espiritual no debe sustituir una evaluación médica, psicológica, jurídica o financiera adecuada."
+    ]
+   ],
+   "sources": [
+    "Blavatsky H.P. — <em>The Secret Doctrine</em>, fuente importante en la historia de la teosofía y de las concepciones occidentales modernas del akasha.",
+    "Cayce E. — lecturas y archivos asociados a Edgar Cayce, figura clave de la popularización occidental del concepto de Akashic Records en el siglo XX.",
+    "Howe L. — <em>How to Read the Akashic Records: Accessing the Archive of the Soul and Its Journey</em>, 2009; edición revisada 2026."
+   ]
+  }
  },
  {
   "num": 114,
@@ -2860,7 +3900,47 @@
   "photos": [
    "p30",
    "p12"
-  ]
+  ],
+  "es": {
+   "slug": "chamanismo-celta-druidas-awen",
+   "title": "Chamanismo celta: druidas, awen y el Otro Mundo, entre tradición antigua y reconstrucción moderna",
+   "seo_title": "Chamanismo celta: druidas, awen y el Otro Mundo",
+   "desc": "¿Eran chamanes los druidas? Lo que dicen las fuentes sobre el awen, los awenyddion y Annwn, y cómo practicar hoy sin inventarte un linaje antiguo.",
+   "kw": "chamanismo celta, druidas, druida chamán, awen, Otro Mundo celta, Annwn, mitología celta, espiritualidad celta, awenyddion, neodruidismo",
+   "photo": {
+    "src": "es/chamanismo-celta-druidas-awen.webp",
+    "src_s": "es/chamanismo-celta-druidas-awen-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer meditando envuelta en olas azules y doradas sobre una roca, sol, cerezo en flor y pagoda de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Los druidas eran chamanes?",
+     "No tenemos pruebas históricas suficientes para afirmarlo. Las comparaciones modernas se basan sobre todo en parecidos de funciones y de motivos."
+    ],
+    [
+     "¿Qué es el awen?",
+     "En la tradición galesa, el término está ligado a la inspiración poética o espiritual. Hoy ocupa un lugar importante en el druidismo contemporáneo."
+    ],
+    [
+     "¿Los celtas practicaban el trance?",
+     "Algunas fuentes galesas medievales describen fenómenos parecidos a un trance profético, sobre todo entre los awenyddion, pero eso no basta para demostrar la existencia de un sistema chamánico antiguo completo."
+    ],
+    [
+     "¿Se puede practicar hoy un chamanismo celta?",
+     "Sí, como práctica espiritual moderna inspirada en materiales celtas, siempre que no presentes las reconstrucciones actuales como técnicas antiguas documentadas."
+    ]
+   ],
+   "sources": [
+    "Ronald Hutton, Blood and Mistletoe: The History of the Druids in Britain, Yale University Press, 2009",
+    "Barry Cunliffe, Druids: A Very Short Introduction, Oxford University Press, 2010",
+    "Gerald of Wales, The Journey Through Wales / Descriptio Cambriae, finales del siglo XII, en especial el pasaje dedicado a los awenyddion."
+   ]
+  }
  },
  {
   "num": 19,
@@ -2969,7 +4049,47 @@
   "photos": [
    "p53",
    "p37"
-  ]
+  ],
+  "es": {
+   "slug": "ejercicio-de-gratitud-tres-cosas-buenas",
+   "title": "Gratitud: el ejercicio de 3 líneas que puede cambiarte el ánimo",
+   "seo_title": "Ejercicio de gratitud: 3 líneas para mejorar tu ánimo",
+   "desc": "Cada noche, tres cosas buenas y por qué importaron. El método exacto, los tres errores que lo vuelven una obligación y un ritual de solo 2 minutos.",
+   "kw": "ejercicio de gratitud, beneficios de la gratitud, diario de gratitud, gratitud psicología positiva, tres cosas buenas, three good things, practicar la gratitud cada día, mejorar el estado de ánimo",
+   "photo": {
+    "src": "es/ejercicio-de-gratitud-tres-cosas-buenas.webp",
+    "src_s": "es/ejercicio-de-gratitud-tres-cosas-buenas-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Buda con túnica naranja meditando sobre una roca, dragón, sol y luna creciente, río y pagoda de papel recortado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuándo escribir el diario de gratitud?",
+     "La noche es especialmente práctica porque te permite repasar mentalmente el día, pero el mejor momento es el que puedas mantener con regularidad."
+    ],
+    [
+     "¿Hay que escribir tres cosas distintas cada día?",
+     "Lo ideal es que sí, o al menos que describas con precisión qué fue diferente. La novedad y el detalle evitan que el ejercicio se vuelva automático."
+    ],
+    [
+     "¿La gratitud significa ignorar los problemas?",
+     "En absoluto. Una gratitud realista puede convivir con la rabia, la tristeza o una época difícil. Añade información positiva al cuadro sin borrar el resto."
+    ],
+    [
+     "¿Durante cuánto tiempo hay que practicarlo?",
+     "Prueba tres semanas. Es suficiente para ver si el ejercicio influye en tu atención, en tu estado de ánimo o en tu manera de repasar tus días."
+    ]
+   ],
+   "sources": [
+    "Emmons R.A., McCullough M.E. — trabajos fundacionales sobre gratitud y bienestar, en particular <em>Counting Blessings Versus Burdens</em>.",
+    "Gold K.J. et al. (2023) — <em>Three Good Things Digital Intervention Among Health Care Workers: A Randomized Controlled Trial</em>, Annals of Family Medicine. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/37217328/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Estudio aleatorizado sobre intervenciones de gratitud en estudiantes, <em>Journal of American College Health</em> (2022). (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35623017/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
+   ]
+  }
  },
  {
   "num": 85,
@@ -3078,7 +4198,47 @@
   "photos": [
    "p50",
    "p10"
-  ]
+  ],
+  "es": {
+   "slug": "sonar-con-un-difunto-suenos-de-visita",
+   "title": "Sueños de visita: cuando un ser querido fallecido aparece de noche y el sueño parece «más real que los demás»",
+   "seo_title": "Soñar con un difunto: sueños de visita que parecen reales",
+   "desc": "Tras una pérdida, algunos sueños parecen más reales que otros. Por qué ocurre, cómo pueden acompañarte en el duelo y cuándo buscar más apoyo.",
+   "kw": "soñar con un difunto, soñar con una persona fallecida, sueños con muertos significado, sueños de visita, soñar con un familiar fallecido, duelo y sueños, sueños de duelo, visitation dreams",
+   "photo": {
+    "src": "es/sonar-con-un-difunto-suenos-de-visita.webp",
+    "src_s": "es/sonar-con-un-difunto-suenos-de-visita-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer de largo cabello negro meditando sobre una roca junto al agua, cerezo en flor y pagoda roja de papel enrollado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Qué significa soñar con una persona fallecida?",
+     "No existe un significado universal. El sueño puede reflejar memoria, apego, emociones ligadas al duelo o preocupaciones actuales y, según tus creencias personales, recibir una interpretación espiritual."
+    ],
+    [
+     "¿Un sueño con un difunto puede ser una visita real?",
+     "Algunas personas lo viven así, pero hoy la ciencia no dispone de ningún método para demostrar que un sueño concreto sea una comunicación real con una persona fallecida."
+    ],
+    [
+     "¿Por qué estos sueños parecen a veces tan reales?",
+     "Pueden ser muy coherentes, emocionalmente intensos e ir seguidos de un despertar inmediato, lo que favorece un recuerdo especialmente nítido y una fuerte sensación de presencia."
+    ],
+    [
+     "¿Es normal llorar después de soñar con un difunto?",
+     "Sí. El sueño puede reavivar tristeza, amor, alivio o añoranza. Aun así, si el duelo sigue siendo muy incapacitante durante mucho tiempo, un acompañamiento especializado puede ser útil."
+    ]
+   ],
+   "sources": [
+    "Klass D., Silverman P.R., Nickman S.L. — <em>Continuing Bonds: New Understandings of Grief</em>, obra fundamental que contribuyó a renovar la comprensión del mantenimiento de los vínculos con las personas fallecidas.",
+    "Black J. et al. — estudios cualitativos sobre los dreams of the deceased y su papel subjetivo en el duelo.",
+    "Kübler-Ross E., Kessler D. — obras de referencia histórica y clínica sobre la experiencia del duelo, que conviene completar con los modelos contemporáneos, más atentos a la diversidad de trayectorias de duelo."
+   ]
+  }
  },
  {
   "num": 36,
@@ -3179,7 +4339,47 @@
   "photos": [
    "p31",
    "p15"
-  ]
+  ],
+  "es": {
+   "slug": "kundalini-practica-precauciones",
+   "title": "Kundalini: la serpiente de energía, la práctica y las precauciones",
+   "seo_title": "Kundalini: qué es, cómo practicarla y precauciones",
+   "desc": "Despertar, testimonios, síndrome de kundalini: por qué algunas prácticas producen sensaciones tan fuertes y cómo explorarla con prudencia.",
+   "kw": "kundalini, qué es la kundalini, despertar de kundalini, energía kundalini, serpiente kundalini, síntomas kundalini, kundalini peligros, síndrome de kundalini, kundalini yoga",
+   "photo": {
+    "src": "es/kundalini-practica-precauciones.webp",
+    "src_s": "es/kundalini-practica-precauciones-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Persona de espaldas meditando sobre una roca, halo de espirales doradas, amanecer sobre el valle y templo lejano",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuáles son las señales de un despertar de kundalini?",
+     "Las tradiciones y los testimonios mencionan calor, vibraciones, movimientos espontáneos, sensaciones que ascienden, estados meditativos profundos o emociones intensas. Sin embargo, ninguna de estas señales, por sí sola, permite demostrar que una kundalini se haya «despertado»."
+    ],
+    [
+     "¿Puede ser peligrosa la kundalini?",
+     "Las prácticas meditativas y respiratorias muy intensivas pueden provocar experiencias difíciles en algunas personas. Por eso es prudente avanzar de forma gradual y buscar ayuda cualificada si aparecen síntomas persistentes o perturbadores."
+    ],
+    [
+     "¿Hay que abrir todos los chakras antes de practicar?",
+     "No. Esa idea pertenece sobre todo a ciertas presentaciones modernas. Las tradiciones históricas son mucho más diversas."
+    ],
+    [
+     "¿Se puede practicar la kundalini en solitario?",
+     "Las prácticas suaves de respiración natural, meditación y conciencia corporal se pueden probar a solas. Para las técnicas intensivas, puede ser preferible contar con un profesor competente y responsable."
+    ]
+   ],
+   "sources": [
+    "Woodroffe J. (Arthur Avalon) — <em>The Serpent Power</em>, traducción y análisis de textos tántricos sobre la kundalini y los chakras.",
+    "Farias M. et al. (2020) — <em>Adverse events in meditation practices and meditation-based therapies: a systematic review</em>, Acta Psychiatrica Scandinavica.",
+    "Revisión sistemática reciente de los ensayos aleatorizados sobre el Kundalini Yoga y distintos resultados de salud."
+   ]
+  }
  },
  {
   "num": 103,
@@ -3273,7 +4473,47 @@
   "photos": [
    "p34",
    "p44"
-  ]
+  ],
+  "es": {
+   "slug": "tipos-de-trance-viaje-posesion-extasis",
+   "title": "Tipos de trance: viaje, posesión, éxtasis y estados alterados de conciencia",
+   "seo_title": "Tipos de trance: viaje, posesión y éxtasis",
+   "desc": "El trance no es un único estado. Viaje chamánico, posesión, éxtasis místico: descubre los grandes tipos de trance que describe la antropología.",
+   "kw": "tipos de trance, trance chamánico, viaje chamánico, trance de posesión, éxtasis místico, estados alterados de conciencia, trance ritual, trance y música, trance y danza",
+   "photo": {
+    "src": "es/tipos-de-trance-viaje-posesion-extasis.webp",
+    "src_s": "es/tipos-de-trance-viaje-posesion-extasis-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Monje meditando sobre una roca a orillas de un río con lotos luminosos, gran árbol y templos de papel recortado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuáles son las principales formas de trance?",
+     "Las clasificaciones varían, pero el viaje chamánico, la posesión y el éxtasis son tres grandes familias descriptivas que se discuten a menudo en antropología."
+    ],
+    [
+     "¿La posesión espiritual es necesariamente una enfermedad mental?",
+     "No. El contexto cultural, el carácter voluntario, el sufrimiento y las consecuencias en el funcionamiento son esenciales para distinguir una práctica ritualizada de un problema clínico."
+    ],
+    [
+     "¿La música provoca el trance de forma automática?",
+     "No. Los trabajos de Gilbert Rouget muestran precisamente que el vínculo entre música y trance depende mucho del contexto cultural y ritual."
+    ],
+    [
+     "¿Una experiencia de viaje demuestra que la mente ha salido realmente del cuerpo?",
+     "No. Se puede reconocer la realidad subjetiva de la experiencia sin considerar científicamente demostrada su interpretación metafísica."
+    ]
+   ],
+   "sources": [
+    "Gilbert Rouget, Music and Trance, University of Chicago Press, 1985.",
+    "Judith Becker, Deep Listeners: Music, Emotion, and Trancing, Indiana University Press, 2004.",
+    "Dunja Njaradi, «Trance, Music and Dance – Old Topics and New Interdisciplinary Dialogues», 2018."
+   ]
+  }
  },
  {
   "num": 121,
@@ -3382,7 +4622,47 @@
   "photos": [
    "p45",
    "p05"
-  ]
+  ],
+  "es": {
+   "slug": "tambor-chamanico-elegir-tocar-viajar",
+   "title": "Tambor chamánico: cómo elegirlo, tocarlo y viajar con él sin inventarse reglas universales",
+   "seo_title": "Tambor chamánico: cómo elegirlo, tocarlo y viajar",
+   "desc": "El tambor no es un simple metrónomo espiritual. Cómo elegirlo, tocarlo con regularidad y viajar con él sin caer en mitos ni reglas universales.",
+   "kw": "tambor chamánico, cómo elegir un tambor chamánico, tocar tambor chamánico, viaje chamánico con tambor, tambor de trance, ritmo chamánico, tambor siberiano, meditación con tambor, trance con tambor",
+   "photo": {
+    "src": "es/tambor-chamanico-elegir-tocar-viajar.webp",
+    "src_s": "es/tambor-chamanico-elegir-tocar-viajar-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer en kimono meditando al pie de un gran árbol, sol y luna, cascada, pagodas y volutas de papel recortado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Qué tamaño de tambor chamánico conviene elegir?",
+     "Un tamaño mediano, lo bastante ligero para sostenerlo mucho rato, suele ir bien para empezar. No existe ningún diámetro espiritualmente superior."
+    ],
+    [
+     "¿Existe un ritmo científicamente demostrado para entrar en trance?",
+     "No. Algunos ritmos repetitivos pueden facilitar la absorción en ciertas personas, pero ninguna frecuencia única garantiza un estado chamánico."
+    ],
+    [
+     "¿Hay que usar un parche de piel animal?",
+     "No. Las pieles naturales son tradicionales en muchas culturas, pero los parches sintéticos pueden funcionar perfectamente en una práctica moderna."
+    ],
+    [
+     "¿El tambor permite realmente viajar a otro mundo?",
+     "Es una interpretación espiritual. La ciencia puede documentar la experiencia subjetiva, pero no demuestra que la conciencia se desplace objetivamente."
+    ]
+   ],
+   "sources": [
+    "Leonid P. Potapov, «Shaman’s Drum: A Unique Monument of Spiritual Culture of the Altai Turk Peoples», Anthropology of Consciousness, 1999.",
+    "Charles Stépanoff, trabajos sobre el chamanismo del norte de Asia.",
+    "Gerard Horta, «Trance: Definitions and Potential Typological Derivations», 2022."
+   ]
+  }
  },
  {
   "num": 20,
@@ -3498,7 +4778,47 @@
   "photos": [
    "p11",
    "p17"
-  ]
+  ],
+  "es": {
+   "slug": "neuroplasticidad-meditacion-cerebro",
+   "title": "Neuroplasticidad: tu cerebro cambia a cualquier edad… pero no en tres meditaciones",
+   "seo_title": "Neuroplasticidad y meditación: tu cerebro cambia",
+   "desc": "Tu cerebro adulto puede cambiar, pero no en tres meditaciones. Lo que muestran de verdad las resonancias y cuánto se tarda en «cambiar tu cerebro».",
+   "kw": "neuroplasticidad, neuroplasticidad y meditación, meditación y cerebro, plasticidad cerebral, meditación materia gris, neuroplasticidad en adultos, reprogramar el cerebro, mindfulness y cerebro",
+   "photo": {
+    "src": "es/neuroplasticidad-meditacion-cerebro.webp",
+    "src_s": "es/neuroplasticidad-meditacion-cerebro-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Meditador con túnica clara sobre una roca ante un vórtice azul, dragón verde y diosa sobre un loto de papel recortado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿El cerebro puede cambiar de verdad después de los 40, 50 o 60 años?",
+     "Sí. La plasticidad cerebral se mantiene en la edad adulta y durante el envejecimiento, aunque algunas formas de plasticidad y la velocidad de aprendizaje pueden cambiar con la edad."
+    ],
+    [
+     "¿La meditación aumenta de verdad la materia gris?",
+     "Algunos estudios han descrito diferencias de volumen, densidad o grosor cortical, pero los datos siguen siendo heterogéneos y no permiten afirmar que estos cambios se produzcan sistemáticamente en todas las personas que meditan."
+    ],
+    [
+     "¿Cuántas semanas hay que meditar para cambiar el cerebro?",
+     "No existe una duración universal. Muchos estudios usan programas de varias semanas, mientras que las diferencias estructurales más marcadas suelen estudiarse en practicantes con mucha más experiencia."
+    ],
+    [
+     "¿Se puede «recablear el cerebro» con pensamientos positivos?",
+     "Esa fórmula simplifica muchísimo la neuroplasticidad. El aprendizaje y la repetición pueden modificar el funcionamiento cerebral, pero un simple pensamiento repetido no provoca automáticamente una transformación profunda del cerebro."
+    ]
+   ],
+   "sources": [
+    "Hebb D.O. (1949) — <em>The Organization of Behavior: A Neuropsychological Theory</em>.",
+    "Lazar S.W. et al. — trabajos pioneros de resonancia magnética sobre la meditación, el grosor cortical y la práctica contemplativa.",
+    "Revisión de 2026: <em>Mindfulness Practice and Increases in Gray Matter Density, Gray Matter Volume, and Cortical Thickness: A Scoping Review</em>. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/42192796/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
+   ]
+  }
  },
  {
   "num": 86,
@@ -3621,7 +4941,47 @@
   "photos": [
    "p07",
    "p43"
-  ]
+  ],
+  "es": {
+   "slug": "insomnio-dejar-de-intentar-dormir",
+   "title": "Insomnio: ¿y si dejaras de intentar dormir?",
+   "seo_title": "Insomnio: ¿y si dejaras de intentar dormir?",
+   "desc": "Cuanto más quieres dormir, más se aleja el sueño. Control de estímulos e intención paradójica: cuando dejar de intentarlo se vuelve una estrategia real.",
+   "kw": "insomnio qué hacer, no puedo dormir, cómo dormir cuando no puedes, insomnio crónico, ansiedad por no dormir, intención paradójica, control de estímulos, TCC-I insomnio, dificultad para conciliar el sueño",
+   "photo": {
+    "src": "es/insomnio-dejar-de-intentar-dormir.webp",
+    "src_s": "es/insomnio-dejar-de-intentar-dormir-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Monje meditando sobre una roca, volutas doradas a su espalda, sol y luna creciente, pagodas y cerezos",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Hay que levantarse cuando no consigues dormir?",
+     "Cuando estás claramente despierto, frustrado y la cama se ha convertido en un campo de batalla, salir de ella un rato para hacer algo tranquilo puede ayudar a recrear la asociación entre cama y sueño."
+    ],
+    [
+     "¿La intención paradójica funciona de verdad?",
+     "Se utiliza en algunos enfoques conductuales para reducir la ansiedad de rendimiento ligada al sueño, pero no es necesariamente adecuada para todas las formas de insomnio."
+    ],
+    [
+     "¿Debo mirar la hora para saber cuándo levantarme?",
+     "Mejor evitar el cronometraje obsesivo. El principio consiste en actuar cuando sientes que estás realmente despierto y peleando, no en respetar una cifra mágica."
+    ],
+    [
+     "¿Cuándo consultar por insomnio?",
+     "Cuando las dificultades persisten, afectan a tu funcionamiento diario o van acompañadas de síntomas médicos o psicológicos importantes, una evaluación y una TCC-I pueden ser especialmente útiles."
+    ]
+   ],
+   "sources": [
+    "Edinger J.D. et al. — recomendaciones clínicas de la American Academy of Sleep Medicine sobre las intervenciones conductuales y psicológicas para el insomnio crónico.",
+    "Morin C.M., Espie C.A. — <em>Insomnia: A Clinical Guide to Assessment and Treatment</em>, obra de referencia sobre los mecanismos y tratamientos del insomnio.",
+    "Espie C.A. — trabajos sobre el modelo cognitivo-conductual del insomnio, la hipervigilancia y la TCC-I."
+   ]
+  }
  },
  {
   "num": 37,
@@ -3730,7 +5090,47 @@
   "photos": [
    "p33",
    "p41"
-  ]
+  ],
+  "es": {
+   "slug": "existe-el-aura-colores-significado",
+   "title": "¿Existe el aura? Una mirada honesta entre tradición y ciencia",
+   "seo_title": "¿Existe el aura? Tradición, ciencia y colores",
+   "desc": "¿Ver un color alrededor de alguien es un efecto visual, sinestesia o intuición? Qué dice la ciencia, la foto Kirlian y qué significan los colores del aura.",
+   "kw": "qué es el aura, existe el aura, colores del aura significado, cómo ver el aura, aura humana, aura espiritual, campo energético humano, fotografía Kirlian, cuerpo sutil",
+   "photo": {
+    "src": "es/existe-el-aura-colores-significado.webp",
+    "src_s": "es/existe-el-aura-colores-significado-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Silueta con túnica dorada meditando sobre un loto junto a un río, sol, volutas, pagodas y cerezos de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Es posible ver el aura de una persona?",
+     "Algunas personas dicen ver colores o contornos alrededor de los demás. Mecanismos como las imágenes residuales, el contraste, la visión periférica o ciertas formas de sinestesia pueden producir experiencias parecidas."
+    ],
+    [
+     "¿Los colores del aura tienen un significado científico?",
+     "No. Las asociaciones entre colores y cualidades emocionales o espirituales pertenecen a distintos sistemas esotéricos y no constituyen una clasificación científica validada."
+    ],
+    [
+     "¿La fotografía Kirlian fotografía el aura?",
+     "Fotografía efectos de descarga eléctrica alrededor de objetos conductores. Estos efectos son reales, pero no demuestran la existencia de un aura espiritual."
+    ],
+    [
+     "¿Se puede sentir la «energía» de una persona sin ver su aura?",
+     "Es perfectamente posible formarse una impresión intuitiva muy rápida de alguien gracias a señales corporales, vocales, emocionales y del contexto que a veces se procesan sin análisis consciente. Eso no basta para demostrar la existencia de un campo energético externo."
+    ]
+   ],
+   "sources": [
+    "Rosa L., Rosa E., Sarner L., Barrett S. (1998) — <em>A Close Look at Therapeutic Touch</em>, JAMA, 279(13), 1005–1010.",
+    "Milán E.G. et al. (2012) — <em>Auras in mysticism and synaesthesia: a comparison</em>, Consciousness and Cognition.",
+    "Leadbeater C.W. — <em>Man Visible and Invisible</em>, fuente histórica influyente en las representaciones esotéricas modernas del aura y los cuerpos sutiles."
+   ]
+  }
  },
  {
   "num": 104,
@@ -3846,7 +5246,47 @@
   "photos": [
    "p18",
    "p04"
-  ]
+  ],
+  "es": {
+   "slug": "danza-extatica-ecstatic-dance-trance",
+   "title": "Danza extática: por qué moverte puede hacer que la mente despegue",
+   "seo_title": "Danza extática: cuando moverte hace despegar la mente",
+   "desc": "Bailar sin coreografía puede cambiar cómo te sientes. Ritmo, absorción y ánimo: cómo explorar la danza extática sin forzar el trance.",
+   "kw": "danza extática, ecstatic dance, danza consciente, baile libre, trance con la danza, meditación en movimiento, estado de flow, danza y cerebro, soltar el control, danza meditativa",
+   "photo": {
+    "src": "es/danza-extatica-ecstatic-dance-trance.webp",
+    "src_s": "es/danza-extatica-ecstatic-dance-trance-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Buda meditando en la cima de un acantilado ante un sol radiante, luna llena y río entre dos árboles de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿La danza extática provoca realmente un trance?",
+     "Algunas personas cuentan que viven absorción, flow o estados de conciencia inusuales, pero esto varía mucho según la persona y el contexto."
+    ],
+    [
+     "¿Hace falta saber bailar?",
+     "No. La práctica actual de la danza consciente suele poner el acento en el movimiento libre más que en la ejecución de una coreografía."
+    ],
+    [
+     "¿La danza extática es terapéutica?",
+     "Las investigaciones sobre la danza en sentido amplio muestran resultados alentadores en algunos indicadores psicológicos, pero eso no demuestra que Ecstatic Dance sea un tratamiento médico."
+    ],
+    [
+     "¿Por qué algunas personas sienten una emoción tan fuerte?",
+     "La música, el esfuerzo físico, la atención al cuerpo, los recuerdos, la expresión a través del movimiento y el contexto social pueden contribuir a la intensidad emocional."
+    ]
+   ],
+   "sources": [
+    "Karkou et al./Salihu, Kwan & Wong, «The effect of dancing interventions on depression symptoms, anxiety, and stress in adults», Complementary Therapies in Clinical Practice, 2021.",
+    "Kieft et al., «Conscious dance: Perceived benefits and psychological well-being of participants», 2021.",
+    "Dunja Njaradi, «Trance, Music and Dance – Old Topics and New Interdisciplinary Dialogues», 2018."
+   ]
+  }
  },
  {
   "num": 87,
@@ -3955,7 +5395,47 @@
   "photos": [
    "p22",
    "p29"
-  ]
+  ],
+  "es": {
+   "slug": "como-interpretar-tus-suenos",
+   "title": "Cómo interpretar tus sueños sin diccionario: un método en 4 preguntas",
+   "seo_title": "Cómo interpretar tus sueños: método en 4 preguntas",
+   "desc": "Soñar con una serpiente no significa traición. Cuatro preguntas para interpretar tus sueños sin diccionario, a partir de lo que vives ahora mismo.",
+   "kw": "cómo interpretar los sueños, interpretación de los sueños, significado de los sueños, entender mis sueños, símbolos en los sueños, diccionario de sueños, diario de sueños, sueños recurrentes",
+   "photo": {
+    "src": "es/como-interpretar-tus-suenos.webp",
+    "src_s": "es/como-interpretar-tus-suenos-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Gran deidad dorada bendiciendo a una persona que medita sobre una roca, entre sol, luna y olas de papel enrollado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Son fiables los diccionarios de sueños?",
+     "No como sistemas universales. Una imagen puede tener significados culturales interesantes, pero su sentido personal depende mucho del contexto, de la emoción y de la historia de quien sueña."
+    ],
+    [
+     "¿Freud y Jung interpretaban los sueños de la misma manera?",
+     "No. Freud ponía más el acento en el deseo, el conflicto y el trabajo del sueño, mientras que Jung daba mucha importancia a los símbolos, a la compensación psíquica y a la amplificación cultural."
+    ],
+    [
+     "¿Puede un sueño predecir el futuro?",
+     "No hay pruebas científicas sólidas que permitan usar los sueños como un método fiable para predecir el futuro."
+    ],
+    [
+     "¿Qué hago con una pesadilla recurrente?",
+     "Anotarla, identificar su guion y plantearte una técnica estructurada como la Imagery Rehearsal Therapy puede ayudar; si las pesadillas son frecuentes y muy perturbadoras, también puede estar justificado buscar acompañamiento profesional."
+    ]
+   ],
+   "sources": [
+    "Jung C.G. — <em>Dreams</em> y otros escritos sobre la interpretación, la amplificación y la función psicológica de los sueños.",
+    "Freud S. — <em>L’Interprétation du rêve</em>, obra histórica fundamental en la historia de la psicología del sueño.",
+    "Krakow B. et al. — trabajos sobre la Imagery Rehearsal Therapy para las pesadillas recurrentes y los trastornos del sueño asociados."
+   ]
+  }
  },
  {
   "num": 38,
@@ -4049,7 +5529,47 @@
   "photos": [
    "p31",
    "p23"
-  ]
+  ],
+  "es": {
+   "slug": "qi-gong-para-principiantes-5-movimientos",
+   "title": "Qi gong para principiantes: 5 movimientos para sentir la energía en 10 minutos",
+   "seo_title": "Qi gong para principiantes: 5 movimientos en 10 minutos",
+   "desc": "Medita sin quedarte quieto: la postura Wuji y cinco movimientos de qi gong para principiantes en diez minutos, y lo que puedes sentir (o no).",
+   "kw": "qi gong para principiantes, qigong para principiantes, ejercicios de qi gong, chi kung para principiantes, qi gong 10 minutos, movimientos de qi gong, sentir el qi, sentir la energía, beneficios del qi gong",
+   "photo": {
+    "src": "es/qi-gong-para-principiantes-5-movimientos.webp",
+    "src_s": "es/qi-gong-para-principiantes-5-movimientos-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Silueta sin rostro con túnica crema meditando sobre una roca, nenúfares en flor, sol y dos lunas crecientes",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuánto tiempo hay que practicar qi gong cuando empiezas?",
+     "Diez minutos al día ya son una base excelente. Después podrás pasar poco a poco a veinte o treinta minutos si la práctica te sienta bien."
+    ],
+    [
+     "¿Es normal sentir calor en las manos durante el qi gong?",
+     "Sí. El movimiento, la circulación sanguínea, la temperatura, la relajación muscular y una atención más intensa pueden hacer que el calor de las manos sea mucho más perceptible."
+    ],
+    [
+     "¿Hay que sincronizar perfectamente la respiración y el movimiento?",
+     "No. Empieza respirando con naturalidad y luego deja que, poco a poco, la respiración y el movimiento encuentren un ritmo común."
+    ],
+    [
+     "¿Tiene el qi gong beneficios estudiados científicamente?",
+     "Diversos ensayos y revisiones han estudiado el qigong para el dolor, el equilibrio, el bienestar y otros criterios. Los resultados varían según la indicación y la calidad de los estudios; por ejemplo, un metaanálisis reciente sobre la lumbalgia crónica encontró una mejora del dolor frente a algunos grupos de control, con una gran diversidad de protocolos. (PubMed)"
+    ]
+   ],
+   "sources": [
+    "Cohen K.S. — <em>The Way of Qigong: The Art and Science of Chinese Energy Healing</em>, obra de referencia sobre la historia y las prácticas del qigong.",
+    "Treves I.N. et al. (2025) — metaanálisis sobre mindfulness e interocepción, <em>Scientific Reports</em>. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40502790/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Metaanálisis de 2025 de 16 ensayos aleatorizados sobre el qigong y la lumbalgia crónica inespecífica. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/39994723/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
+   ]
+  }
  },
  {
   "num": 105,
@@ -4150,7 +5670,47 @@
   "photos": [
    "p19",
    "p16"
-  ]
+  ],
+  "es": {
+   "slug": "canto-difonico-mongol-khoomii-trance",
+   "title": "Canto difónico y trance: lo que Mongolia sabe de verdad",
+   "seo_title": "Canto difónico mongol: khöömii, voz y trance",
+   "desc": "¿Cómo puede una sola voz sonar como dos? Técnica, cultura y espiritualidad del khöömii mongol, y lo que hay de cierto sobre el trance. Te lo contamos.",
+   "kw": "canto difónico, canto difónico mongol, khöömii, canto de garganta, canto armónico, canto tradicional mongol, música mongola, armónicos vocales, canto difónico trance",
+   "photo": {
+    "src": "es/canto-difonico-mongol-khoomii-trance.webp",
+    "src_s": "es/canto-difonico-mongol-khoomii-trance-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer en kimono meditando al borde de un acantilado, envuelta en una espiral dorada, sol, cerezos y pagodas en quilling",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿El canto difónico produce realmente dos notas a la vez?",
+     "Quien escucha percibe con claridad un bordón y un componente melódico agudo. Las investigaciones muestran que el cantante concentra ciertos armónicos gracias a un control preciso del tracto vocal."
+    ],
+    [
+     "¿El khöömii es exclusivamente mongol?",
+     "Existen tradiciones emparentadas, sobre todo en Mongolia, Tuvá y Mongolia Interior. Sus estilos, historias e identidades culturales no deben confundirse."
+    ],
+    [
+     "¿Está demostrado científicamente que el canto difónico provoca un trance?",
+     "No hay pruebas sólidas que permitan afirmar que desencadena automáticamente un estado de trance específico. La absorción subjetiva es plausible, pero depende de muchos factores."
+    ],
+    [
+     "¿Se puede aprender solo?",
+     "Es posible explorar la voz con suavidad, pero lo ideal es aprender las técnicas avanzadas con un profesor cualificado. Ante cualquier dolor o alteración persistente de la voz, hay que parar."
+    ]
+   ],
+   "sources": [
+    "UNESCO, «Mongolian art of singing, Khoomei», inscripción de 2009.",
+    "Bergevin et al., «Overtone focusing in biphonic Tuvan throat singing», eLife, 2020.",
+    "Carole Pegg, «Mongolian conceptualizations of overtone singing (xöömii)», British Journal of Ethnomusicology, 1992."
+   ]
+  }
  },
  {
   "num": 88,
@@ -4259,7 +5819,47 @@
   "photos": [
    "p35",
    "p30"
-  ]
+  ],
+  "es": {
+   "slug": "nsdr-descanso-profundo-sin-dormir",
+   "title": "NSDR y descanso profundo sin sueño: ¿de verdad puedes recuperarte sin dormir?",
+   "seo_title": "NSDR: ¿de verdad puedes recuperarte sin dormir?",
+   "desc": "El NSDR, descanso profundo sin sueño, no sustituye una noche. Lo que se sabe de verdad, un protocolo de 15 minutos y cómo elegir entre NSDR y siesta.",
+   "kw": "NSDR, non sleep deep rest, descanso profundo sin dormir, qué es NSDR, beneficios del NSDR, yoga nidra, relajación profunda, descanso mental, NSDR o siesta",
+   "photo": {
+    "src": "es/nsdr-descanso-profundo-sin-dormir.webp",
+    "src_s": "es/nsdr-descanso-profundo-sin-dormir-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer con túnica ocre meditando sobre una roca musgosa en medio de un río, pinos, pagoda y sol de papel recortado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Qué significa NSDR?",
+     "NSDR significa Non-Sleep Deep Rest («descanso profundo sin sueño») y designa, en general, prácticas de descanso profundo que se hacen sin buscar necesariamente dormirse."
+    ],
+    [
+     "¿El NSDR sustituye a una siesta o a una noche de sueño?",
+     "No. Puede ser reparador, pero no reproduce la arquitectura ni el conjunto de funciones biológicas del sueño."
+    ],
+    [
+     "¿Qué diferencia hay entre NSDR y yoga nidra?",
+     "El yoga nidra es una tradición y práctica estructurada con distintos linajes y formas modernas, mientras que NSDR es una categoría contemporánea más amplia que puede incluir técnicas inspiradas en el yoga nidra."
+    ],
+    [
+     "¿Cuánto tiempo hay que practicar?",
+     "De diez a veinte minutos es un formato práctico para muchas personas, pero no existe una duración universal científicamente óptima."
+    ]
+   ],
+   "sources": [
+    "Satyananda Saraswati — <em>Yoga Nidra</em>, obra de referencia sobre la forma moderna estructurada del yoga nidra.",
+    "Wamsley E.J. y trabajos sobre la memoria, el descanso en vigilia y la consolidación después del aprendizaje.",
+    "Dutta A. et al. — revisión sistemática reciente de los ensayos sobre el yoga nidra, que muestra resultados interesantes, aunque con una literatura todavía heterogénea y limitada."
+   ]
+  }
  },
  {
   "num": 39,
@@ -4360,7 +5960,47 @@
   "photos": [
    "p13",
    "p20"
-  ]
+  ],
+  "es": {
+   "slug": "meditacion-de-los-chakras-guiada",
+   "title": "Meditación de los chakras: sesión guiada de la raíz a la corona",
+   "seo_title": "Meditación de los chakras guiada: de la raíz a la corona",
+   "desc": "Una sesión guiada que recorre los siete chakras, de Muladhara a Sahasrara, como un mapa simbólico del cuerpo, y por qué siempre debes volver a bajar.",
+   "kw": "meditación de chakras guiada, meditación de los chakras, meditación chakras, alinear chakras, equilibrar chakras, siete chakras, 7 chakras, chakra raíz, chakra del corazón",
+   "photo": {
+    "src": "es/meditacion-de-los-chakras-guiada.webp",
+    "src_s": "es/meditacion-de-los-chakras-guiada-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer meditando sobre una roca rodeada de agua, rayo de luz entre el sol y la luna, loto luminoso y cerezos",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿En qué orden se medita sobre los chakras?",
+     "La secuencia moderna más habitual va del chakra raíz al chakra corona. Para una práctica equilibrada, también es útil terminar bajando de nuevo hacia el cuerpo y los pies."
+    ],
+    [
+     "¿Hay que ver de verdad los colores de los chakras?",
+     "No. Hay personas que visualizan con mucha facilidad y otras casi nada. Puedes limitarte a pensar en el color o ignorar por completo ese elemento."
+    ],
+    [
+     "¿Cuánto debe durar una meditación de los chakras?",
+     "Una sesión completa puede durar entre 15 y 30 minutos. Para empezar, dos minutos por chakra son más que suficientes."
+    ],
+    [
+     "¿Qué hago si siento hormigueo o calor?",
+     "Obsérvalos sin alarmarte y sin atribuirles automáticamente un significado especial. La atención corporal, la postura y la respiración pueden hacer más perceptibles muchas sensaciones."
+    ]
+   ],
+   "sources": [
+    "Arthur Avalon — <em>The Serpent Power</em>, traducción de textos tántricos históricos sobre los chakras.",
+    "Treves I.N. et al. (2025) — metaanálisis de los efectos del mindfulness sobre la interocepción subjetiva. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40502790/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Gan R., Zhang L., Chen S. (2022) — <em>The effects of body scan meditation: A systematic review and meta-analysis</em>, sobre los efectos y límites de las prácticas aisladas de atención corporal. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35538557/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
+   ]
+  }
  },
  {
   "num": 109,
@@ -4454,7 +6094,47 @@
   "photos": [
    "p08",
    "p03"
-  ]
+  ],
+  "es": {
+   "slug": "quedarse-atrapado-en-trance-hipnosis",
+   "title": "¿Puedes quedarte atrapado en un trance? Mitos, realidades y señales de alarma",
+   "seo_title": "¿Puedes quedarte atrapado en un trance o en hipnosis?",
+   "desc": "¿Y si nunca vuelves de un trance? Un mito persistente frente a los hechos, las señales de alarma reales y qué hacer si aún te sientes «en otra parte».",
+   "kw": "quedarse atrapado en hipnosis, salir de un trance, peligros de la hipnosis, es peligrosa la hipnosis, trance hipnótico, miedo a la hipnosis, disociación, despersonalización, desrealización",
+   "photo": {
+    "src": "es/quedarse-atrapado-en-trance-hipnosis.webp",
+    "src_s": "es/quedarse-atrapado-en-trance-hipnosis-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Buda con aureola meditando en un acantilado junto a un río, olas en espiral, sol, pagodas y cerezos de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Se puede quedar uno hipnotizado para siempre?",
+     "Los datos clínicos sobre la hipnosis no respaldan la idea de que una persona pueda quedarse encerrada para siempre en un estado hipnótico. La hipnosis se utiliza en muchos contextos médicos que han sido estudiados."
+    ],
+    [
+     "¿Por qué puedo sentirme raro después de una sesión?",
+     "El cansancio, la relajación profunda, la emoción, la hiperventilación o una reorientación gradual pueden influir. Si la sensación persiste o se vuelve preocupante, hay que considerar otras causas."
+    ],
+    [
+     "¿Cómo salir rápido de un estado de trance?",
+     "Detén la inducción, abre los ojos, reoriéntate hacia el entorno y las sensaciones del cuerpo y luego retoma con calma una actividad cotidiana."
+    ],
+    [
+     "¿Cuándo hay que consultar a un profesional?",
+     "Ante confusión persistente, alucinaciones, pérdida de contacto con la realidad, síntomas neurológicos, un malestar intenso, conductas peligrosas o incapacidad para retomar tu funcionamiento habitual."
+    ]
+   ],
+   "sources": [
+    "Häuser et al., «The Efficacy, Safety and Applications of Medical Hypnosis», Deutsches Ärzteblatt International, 2016.",
+    "Waehner et al., «Hypnosis in Anesthesia: A Systematic Literature Review of Randomized Controlled Trials», International Journal of Clinical and Experimental Hypnosis, 2026.",
+    "Hammond & Brown, «Building an Operational Definition of Grounding», 2025."
+   ]
+  }
  },
  {
   "num": 89,
@@ -4563,7 +6243,47 @@
   "photos": [
    "p48",
    "p50"
-  ]
+  ],
+  "es": {
+   "slug": "paralisis-del-sueno-causas-que-hacer",
+   "title": "Parálisis del sueño: entiende lo que pasa y deja de creer que algo te retiene",
+   "seo_title": "Parálisis del sueño: causas, presencias y qué hacer",
+   "desc": "Despiertas consciente pero sin poder moverte, a veces con una presencia en la habitación. Qué ocurre de verdad y tres gestos sencillos durante un episodio.",
+   "kw": "parálisis del sueño, parálisis del sueño causas, parálisis del sueño qué hacer, parálisis del sueño alucinaciones, despertar sin poder moverse, sensación de presencia en la habitación, cómo salir de una parálisis del sueño, sueño REM",
+   "photo": {
+    "src": "es/paralisis-del-sueno-causas-que-hacer.webp",
+    "src_s": "es/paralisis-del-sueno-causas-que-hacer-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Silueta con túnica azul meditando sobre una roca frente al sol naciente, gran espiral turquesa y pagodas de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿La parálisis del sueño es peligrosa?",
+     "Los episodios aislados suelen ser breves y no suponen un peligro físico directo, aunque pueden dar muchísimo miedo."
+    ],
+    [
+     "¿Por qué veo personas durante una parálisis del sueño?",
+     "Las alucinaciones ligadas a la transición entre el sueño y la vigilia pueden superponerse a la percepción real de la habitación y crear una sensación de presencia muy convincente."
+    ],
+    [
+     "¿Cómo salir más rápido de una parálisis del sueño?",
+     "No hay ningún método garantizado, pero reconocer el episodio, dejar de luchar e intentar hacer un movimiento pequeño en lugar de mover todo el cuerpo puede ayudar a algunas personas a mantener la calma hasta que pase."
+    ],
+    [
+     "¿Debo consultar a un médico?",
+     "Sí, si los episodios son frecuentes, muy limitantes o van acompañados de una somnolencia diurna importante o de otros síntomas que hagan pensar en un trastorno del sueño."
+    ]
+   ],
+   "sources": [
+    "Sharpless B.A., Barber J.P. — trabajos y revisiones epidemiológicas sobre la sleep paralysis, su frecuencia y sus factores asociados.",
+    "Jalal B., Hinton D.E. — investigaciones sobre los mecanismos neuropsicológicos y las interpretaciones culturales de la parálisis del sueño.",
+    "American Academy of Sleep Medicine — referencias clínicas sobre las parasomnias, la narcolepsia y los fenómenos de transición entre la vigilia y el sueño."
+   ]
+  }
  },
  {
   "num": 40,
@@ -4665,7 +6385,47 @@
   "photos": [
    "p36",
    "p01"
-  ]
+  ],
+  "es": {
+   "slug": "tecnicas-de-anclaje-grounding",
+   "title": "Anclarte al presente: 6 técnicas para dejar de vivir en tu cabeza",
+   "seo_title": "Técnicas de anclaje: 6 formas de salir de tu cabeza",
+   "desc": "El 5-4-3-2-1, la presión de los pies, un mini body scan, caminar sin móvil: seis técnicas de anclaje (grounding) para volver al momento presente.",
+   "kw": "técnicas de anclaje, grounding, ejercicios de grounding, técnica 5-4-3-2-1, cómo anclarte al presente, dejar de pensar tanto, vivir en tu cabeza, volver al momento presente, meditación de enraizamiento, ansiedad",
+   "photo": {
+    "src": "es/tecnicas-de-anclaje-grounding.webp",
+    "src_s": "es/tecnicas-de-anclaje-grounding-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Buda meditando sobre una roca musgosa a orillas de un río, pinos, montañas doradas y atardecer en papel recortado",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuál es la mejor técnica de anclaje contra la ansiedad?",
+     "El 5-4-3-2-1 sensorial, la presión de los pies, la caminata consciente y la respiración lenta están entre los métodos más sencillos de probar. La mejor depende sobre todo de cuál te devuelve al presente con más eficacia."
+    ],
+    [
+     "¿Cuánto tiempo hace falta para anclarte?",
+     "A veces bastan de uno a tres minutos para interrumpir una rumiación leve. Una ansiedad intensa puede requerir más tiempo u otras formas de apoyo."
+    ],
+    [
+     "¿El enraizamiento energético y el grounding psicológico son lo mismo?",
+     "No exactamente. El primero suele usar el vocabulario del chakra raíz, la tierra y la energía, mientras que el segundo se centra en la atención sensorial y en el regreso al entorno presente. Aun así, muchos ejercicios prácticos se parecen."
+    ],
+    [
+     "¿Cuándo conviene consultar en lugar de limitarse a practicar el anclaje?",
+     "Si la desrealización, la despersonalización, las crisis de pánico, la disociación o la ansiedad se repiten, son muy intensas o alteran tu día a día, lo prudente es consultar a un profesional de la salud en lugar de confiar únicamente en ejercicios por tu cuenta."
+    ]
+   ],
+   "sources": [
+    "Gan R., Zhang L., Chen S. (2022) — <em>The effects of body scan meditation: A systematic review and meta-analysis</em>, Applied Psychology: Health and Well-Being. La revisión concluye que el body scan por sí solo tiene efectos limitados y subraya la heterogeneidad y la calidad modesta de los estudios, un matiz importante para evitar promesas exageradas. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35538557/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Treves I.N. et al. (2025) — <em>A meta-analysis of the effects of mindfulness meditation training on self-reported interoception</em>, Scientific Reports. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40502790/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Schwerdtfeger A.R., Weber B., Rominger C. (2025) — <em>Two weeks to tune in: Evaluating the effects of a short-term body scan on interoception</em>. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40908588/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
+   ]
+  }
  },
  {
   "num": 13,
@@ -4759,7 +6519,47 @@
   "photos": [
    "p26",
    "p15"
-  ]
+  ],
+  "es": {
+   "slug": "meditacion-para-el-estres-como-funciona",
+   "title": "Meditación contra el estrés: ¿cómo funciona en la práctica?",
+   "seo_title": "Meditación para el estrés: cómo funciona de verdad",
+   "desc": "Meditar contra el estrés no es dejar la mente en blanco. La cadena del estrés, la respiración, el nervio vago y tres meditaciones según tu tipo de estrés.",
+   "kw": "meditación para el estrés, meditación antiestrés, meditación para reducir el estrés, meditación mindfulness, atención plena, ejercicios de meditación para el estrés, cómo manejar el estrés, calmar la mente",
+   "photo": {
+    "src": "es/meditacion-para-el-estres-como-funciona.webp",
+    "src_s": "es/meditacion-para-el-estres-como-funciona-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Silueta oscura en postura de loto sobre una roca musgosa junto a un río, cerezos rosados y pagoda bajo la luz dorada",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuánto tiempo hay que meditar para reducir el estrés?",
+     "Una sesión de 5 a 10 minutos ya puede crear una pausa útil, mientras que una práctica regular de 10 a 20 minutos suele permitir un entrenamiento más profundo de la atención, la respiración y la regulación emocional."
+    ],
+    [
+     "¿La meditación puede sustituir un tratamiento para la ansiedad?",
+     "No. La meditación puede ser una herramienta complementaria para gestionar el estrés y la ansiedad, pero no sustituye el seguimiento médico o psicoterapéutico cuando está indicado."
+    ],
+    [
+     "¿Cuál es la mejor meditación antiestrés?",
+     "Para el estrés inmediato, la respiración lenta y el anclaje en el cuerpo son especialmente sencillos. Para el estrés crónico o las rumiaciones repetitivas, la meditación de atención plena y el body scan suelen ser más adecuados."
+    ],
+    [
+     "¿Por qué a veces noto más mi estrés cuando medito?",
+     "Porque bajar el ritmo a veces permite notar una tensión que ya estaba ahí, pero que la actividad tapaba. Así que un aumento momentáneo de la conciencia del estrés no significa necesariamente que la meditación lo haya creado."
+    ]
+   ],
+   "sources": [
+    "Kabat-Zinn J. — <em>Full Catastrophe Living</em>, obra fundacional que presenta el programa MBSR y el uso del mindfulness en la gestión del estrés.",
+    "Laborde S. et al. (2022) — <em>Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis</em>, Neuroscience &amp; Biobehavioral Reviews. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35623448/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
+    "Breedvelt J.J.F. et al. (2023) — <em>Effectiveness of stress management interventions to change cortisol levels: a systematic review and meta-analysis</em>. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/37879237/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
+   ]
+  }
  },
  {
   "num": 83,
@@ -4853,7 +6653,47 @@
   "photos": [
    "p02",
    "p49"
-  ]
+  ],
+  "es": {
+   "slug": "como-recordar-tus-suenos",
+   "title": "Cómo recordar tus sueños: el protocolo de los 90 segundos que lo cambia todo al despertar",
+   "seo_title": "Cómo recordar tus sueños: el método de los 90 segundos",
+   "desc": "Sueñas mucho más de lo que crees. No te muevas, atrapa la emoción y anótalo antes de que la mañana se imponga: 90 segundos y un diario de sueños.",
+   "kw": "cómo recordar los sueños, recordar tus sueños, por qué no recuerdo mis sueños, memoria de los sueños, diario de sueños, anotar los sueños, dream recall, sueños lúcidos",
+   "photo": {
+    "src": "es/como-recordar-tus-suenos.webp",
+    "src_s": "es/como-recordar-tus-suenos-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Hombre con túnica turquesa meditando sobre una roca, espiral de energía que sube hacia un sol dorado, pino retorcido y templo",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Por qué olvido mis sueños nada más despertar?",
+     "Porque los recuerdos oníricos pueden ser frágiles y el paso rápido a las percepciones y preocupaciones de la vigilia favorece el olvido; despertarte cerca del sueño y prestarle atención de inmediato puede mejorar el recuerdo."
+    ],
+    [
+     "¿El protocolo de los 90 segundos es científicamente exacto?",
+     "No. Aquí, los 90 segundos son un marco práctico para proteger los primeros momentos tras despertar, no un límite biológico demostrado a partir del cual todos los sueños desaparecerían."
+    ],
+    [
+     "¿Sirve de algo llevar un diario de sueños?",
+     "Sí: para desarrollar la atención a los sueños, conservar los recuerdos, identificar patrones recurrentes y, si quieres, prepararte para practicar el sueño lúcido."
+    ],
+    [
+     "¿Qué hago si de verdad no recuerdo ningún sueño?",
+     "Sigue anotando incluso fragmentos o emociones muy pequeños, evita moverte nada más despertar y mantén la intención durante varias semanas; aun así, las diferencias individuales en el recuerdo siguen siendo importantes."
+    ]
+   ],
+   "sources": [
+    "Siclari F. et al. — trabajos de neurociencia del sueño que muestran las relaciones entre la actividad cerebral, la experiencia onírica y los relatos de sueños al despertar.",
+    "Vallat R. et al. — investigaciones sobre las diferencias individuales en el recuerdo de los sueños, los despertares nocturnos y los procesos cerebrales asociados.",
+    "Schredl M. — trabajos y obras de referencia sobre el dream recall, el contenido de los sueños y los diarios de sueños."
+   ]
+  }
  },
  {
   "num": 73,
@@ -4954,7 +6794,47 @@
   "photos": [
    "p32",
    "p06"
-  ]
+  ],
+  "es": {
+   "slug": "como-callar-al-critico-interior",
+   "title": "¿Hacer callar a tu crítico interior? Mejor aprende a quitarle el megáfono",
+   "seo_title": "Crítico interior: cómo quitarle el megáfono",
+   "desc": "Tu crítico interior quizá quería ayudarte. Cuatro técnicas para distinguir la autocrítica útil del ataque y un protocolo de cinco minutos para calmarlo.",
+   "kw": "crítico interior, cómo callar al crítico interior, voz interior negativa, dejar de criticarme, autocrítica, autocompasión, diálogo interno negativo, perfeccionismo, defusión cognitiva",
+   "photo": {
+    "src": "es/como-callar-al-critico-interior.webp",
+    "src_s": "es/como-callar-al-critico-interior-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Mujer meditando sobre una roca, cinta de luz que se eleva hacia una deidad sobre un loto, río, árbol y templo de papel",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cómo hacer callar a tu crítico interior?",
+     "Suele ser más eficaz aprender a observar, reformular y poner en contexto tus críticas que intentar eliminar todos los pensamientos negativos."
+    ],
+    [
+     "¿Por qué soy siempre tan duro conmigo mismo?",
+     "La autocrítica puede estar ligada al aprendizaje, al perfeccionismo, al miedo al rechazo, a exigencias muy altas o a distintas experiencias de vida. No hay una única causa."
+    ],
+    [
+     "¿La autocompasión me hace rendir menos?",
+     "Las intervenciones de autocompasión no consisten en abandonar tus objetivos. Buscan más bien sustituir el ataque personal por una respuesta más comprensiva y constructiva; los estudios muestran que pueden reducir la autocrítica."
+    ],
+    [
+     "¿Qué es la defusión cognitiva?",
+     "Es, entre otras cosas, una técnica que se usa en la ACT y que ayuda a ver un pensamiento como un evento mental y no como un hecho o una orden automática."
+    ]
+   ],
+   "sources": [
+    "Neff K. — <em>Self-Compassion: The Proven Power of Being Kind to Yourself</em>, obra de referencia sobre la autocompasión.",
+    "Wakelin K.E., Perman G., Simonds L.M. (2022) — revisión sistemática y metaanálisis de 20 ensayos aleatorizados sobre las intervenciones de autocompasión y la autocrítica.",
+    "Vidal J., Soldevilla J.M., y trabajos recogidos en el metaanálisis sobre la Compassion Focused Therapy, que muestran reducciones de la autocrítica y un aumento de la capacidad de autocalmarse."
+   ]
+  }
  },
  {
   "num": 102,
@@ -5055,7 +6935,47 @@
   "photos": [
    "p25",
    "p47"
-  ]
+  ],
+  "es": {
+   "slug": "trance-cognitivo-autoinducido-ciencia",
+   "title": "Trance cognitivo autoinducido: lo que la ciencia está descubriendo sobre este estado de conciencia",
+   "seo_title": "Trance cognitivo autoinducido: lo que dice la ciencia",
+   "desc": "¿Qué es el trance cognitivo autoinducido? Qué cambia en el cerebro, cómo se aprende y en qué se diferencia de la meditación o de la hipnosis.",
+   "kw": "trance cognitivo autoinducido, trance cognitivo, estado de trance, estado alterado de conciencia, neurociencia del trance, cerebro y trance, meditación y trance, hipnosis y trance, EEG trance",
+   "photo": {
+    "src": "es/trance-cognitivo-autoinducido-ciencia.webp",
+    "src_s": "es/trance-cognitivo-autoinducido-ciencia-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Silueta sin rostro meditando sobre una roca entre olas turquesa, diosa luminosa y pagoda al atardecer",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Está reconocido científicamente el trance cognitivo autoinducido?",
+     "Es objeto de investigación científica, pero la literatura específica todavía es limitada y algunos estudios importantes son exploratorios o se basan en muy pocos participantes."
+    ],
+    [
+     "¿Se puede aprender a entrar en trance a voluntad?",
+     "Algunos practicantes describen ese aprendizaje y ciertas investigaciones estudian a personas capaces de reproducir el estado voluntariamente. Eso no significa que todo el mundo vaya a lograrlo de la misma manera."
+    ],
+    [
+     "¿Demuestra el trance la existencia de una realidad espiritual?",
+     "No. Una experiencia puede recibir una interpretación espiritual personal o cultural, pero las mediciones neurofisiológicas por sí solas no demuestran la existencia de un mundo espiritual externo."
+    ],
+    [
+     "¿Es peligroso el trance?",
+     "Una práctica suave no es automáticamente peligrosa, pero las técnicas intensas o los estados perceptivos inusuales exigen más prudencia, sobre todo si hay antecedentes psiquiátricos, disociativos o neurológicos."
+    ]
+   ],
+   "sources": [
+    "Gosseries et al., «Behavioural and brain responses in cognitive trance: A TMS-EEG case study», Clinical Neurophysiology, 2020.",
+    "Flor-Henry, Shapiro & Sombrun, «Brain changes during a shamanic trance», Cogent Psychology, 2017",
+    "Gilbert Rouget, Music and Trance: A Theory of the Relations between Music and Possession, University of Chicago Press, 1985."
+   ]
+  }
  },
  {
   "num": 91,
@@ -5149,7 +7069,47 @@
   "photos": [
    "p28",
    "p10"
-  ]
+  ],
+  "es": {
+   "slug": "lugares-espirituales-del-mundo",
+   "title": "Los lugares más espirituales del mundo: 15 destinos donde el paisaje parece cambiar nuestra forma de pensar",
+   "seo_title": "Lugares espirituales del mundo: 15 destinos sagrados",
+   "desc": "Bodh Gaya, Kailash, Kōyasan, el Camino de Santiago, Machu Picchu: 15 lugares que cambian tu forma de pensar y cómo visitarlos con respeto.",
+   "kw": "lugares espirituales del mundo, lugares sagrados del mundo, viaje espiritual, destinos espirituales, peregrinación espiritual, montaña sagrada, Bodh Gaya, monte Kailash, Camino de Santiago",
+   "photo": {
+    "src": "es/lugares-espirituales-del-mundo.webp",
+    "src_s": "es/lugares-espirituales-del-mundo-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Buda meditando ante un gran loto de espirales de papel, cascada, templo, sol y luna creciente",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Cuál es el lugar más espiritual del mundo?",
+     "Evidentemente, no existe una clasificación objetiva de la espiritualidad. Bodh Gaya, el monte Kailash, Benarés, Kōyasan o Santiago de Compostela pueden ser enormemente importantes por razones totalmente distintas."
+    ],
+    [
+     "¿Se puede visitar un lugar sagrado sin ser creyente?",
+     "Sí, siempre que respetes sus normas, sus prácticas y sus comunidades, y no reduzcas el lugar a un simple decorado exótico."
+    ],
+    [
+     "¿Qué lugar elegir para un viaje meditativo?",
+     "Kōyasan, algunos tramos de la peregrinación de Shikoku o Bodh Gaya pueden encajar especialmente bien si buscas una dimensión explícitamente contemplativa, mientras que las largas caminatas como el Camino ofrecen otra forma de meditación en movimiento."
+    ],
+    [
+     "¿Hay que evitar el turismo espiritual?",
+     "No, pero conviene practicarlo con respeto: conocer el contexto, seguir las normas locales, apoyar a las comunidades y evitar convertir cada tradición en un producto de desarrollo personal."
+    ]
+   ],
+   "sources": [
+    "UNESCO World Heritage Centre — expedientes históricos y patrimoniales relativos, en particular, a Bodh Gaya, Borobudur, Angkor y varios grandes lugares religiosos del mundo.",
+    "National Park Service / autoridades patrimoniales y organismos oficiales locales, para la información histórica y las normas de visita de los distintos lugares sagrados.",
+    "Eliade M. — <em>Le Sacré et le Profane</em> (<em>Lo sagrado y lo profano</em>), obra clásica sobre la manera en que distintas culturas estructuran simbólicamente el espacio sagrado, que hoy conviene leer con los matices aportados por la antropología contemporánea."
+   ]
+  }
  },
  {
   "num": 113,
@@ -5235,7 +7195,47 @@
   "photos": [
    "p12",
    "p51"
-  ]
+  ],
+  "es": {
+   "slug": "chamanismo-amazonico-icaros-cosmovision",
+   "title": "Chamanismo amazónico: icaros, cosmovisión y la selva como mundo",
+   "seo_title": "Chamanismo amazónico: icaros, cosmovisión y selva",
+   "desc": "No existe un solo chamanismo amazónico. Icaros, plantas maestras, dieta y selva viva: descubre la riqueza de estas tradiciones sin simplificarlas.",
+   "kw": "chamanismo amazónico, icaros, cantos icaros, shipibo-konibo, vegetalismo amazónico, cosmovisión amazónica, plantas maestras, cantos de sanación, animismo amazónico, dieta amazónica",
+   "photo": {
+    "src": "es/chamanismo-amazonico-icaros-cosmovision.webp",
+    "src_s": "es/chamanismo-amazonico-icaros-cosmovision-640.webp",
+    "w": 1200,
+    "h": 670,
+    "alt": "Meditador de espaldas en un acantilado rodeado de volutas luminosas azules, valle brumoso, templo chino y cerezos",
+    "provisoire": true
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [
+    [
+     "¿Todos los chamanes amazónicos usan ayahuasca?",
+     "No. La Amazonía abarca muchas tradiciones, y algunas no usan ayahuasca."
+    ],
+    [
+     "¿Qué es un icaro?",
+     "En varias tradiciones de la Amazonía peruana, es un canto ritual que se usa sobre todo en contextos de curación y de trabajo con plantas."
+    ],
+    [
+     "¿De verdad las plantas maestras enseñan cantos?",
+     "Es una concepción tradicional documentada por la antropología. La ciencia no demuestra una comunicación objetiva entre un espíritu vegetal y el practicante."
+    ],
+    [
+     "¿Se puede reproducir el chamanismo amazónico en Europa?",
+     "Algunas técnicas pueden adaptarse o exportarse, pero eso no las convierte en equivalentes a las tradiciones comunitarias de las que proceden."
+    ]
+   ],
+   "sources": [
+    "Luis Eduardo Luna, Vegetalismo: Shamanism Among the Mestizo Population of the Peruvian Amazon, Almqvist & Wiksell International, 1986.",
+    "Luis Eduardo Luna & Pablo Amaringo, Ayahuasca Visions: The Religious Iconography of a Peruvian Shaman, North Atlantic Books, 1991",
+    "Amanda M. Smith, «Centering the Shipibo-Konibo in Tár», ReVista, Harvard University, 2023."
+   ]
+  }
  },
  {
   "num": 133,

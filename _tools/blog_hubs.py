@@ -185,7 +185,7 @@ def items(bb, lang):
         if a.get('image') is not None:
             img = f"{bb.SCHEMA_FILES[a['image']][lang]}-{lang}.webp"
         by[g].append((a['published'], '', dict(slug=a['slug'][lang], title=a['title'][lang], desc=a['desc'][lang], img=img)))
-    if lang in ('fr', 'en'):
+    if lang in ('fr', 'en', 'es'):
         for a0 in blog_fr.published(blog_fr.load(), lang):
             a = blog_fr.V(a0, lang)
             by[a0['group']].append((a['published'], a0.get('publish_at', ''),

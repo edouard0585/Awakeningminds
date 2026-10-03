@@ -20,8 +20,14 @@ GROUP_LABEL_EN = {
     'psy': 'Emotions and inner life', 'sommeil': 'Sleep and dreams', 'lieux': 'Places, myths and wisdom',
     'chamanisme': 'Shamanism', 'vie': 'Meditation in daily life', 'astral': 'Astral travel and signs',
 }
-SEC = {'fr': 'Partie', 'en': 'Part'}
-LBL = {'fr': dict(toc='Dans cet article', src='Sources'), 'en': dict(toc='In this article', src='Sources')}
+GROUP_LABEL_ES = {
+    'bases': 'Práctica de la meditación', 'energie': 'Energía y chakras', 'transe': 'Trance y conciencia',
+    'psy': 'Emociones y vida interior', 'sommeil': 'Sueño y sueños', 'lieux': 'Lugares, mitos y sabiduría',
+    'chamanisme': 'Chamanismo', 'vie': 'Meditación en el día a día', 'astral': 'Viaje astral y señales',
+}
+SEC = {'fr': 'Partie', 'en': 'Part', 'es': 'Parte'}
+LBL = {'fr': dict(toc='Dans cet article', src='Sources'), 'en': dict(toc='In this article', src='Sources'),
+       'es': dict(toc='En este artículo', src='Fuentes')}
 GROUP_LABEL = {
     'bases': 'Pratique de la méditation', 'energie': 'Énergie et chakras', 'transe': 'Transe et conscience',
     'psy': 'Émotions et vie intérieure', 'sommeil': 'Sommeil et rêves', 'lieux': 'Lieux, mythes et sagesse',
@@ -198,11 +204,12 @@ def ld_images(a, lang, BASE):
 def render_article(bb, a0, arts, lang='fr'):
     """bb = module blog_build (head, footer, CSS, T…). a0 = entrée de la file ; lang = 'fr' ou 'en'."""
     a = V(a0, lang); t = bb.T[lang]; BASE = bb.BASE
-    langs = ['fr'] + (['en'] if a0.get('en') else [])
+    langs = ['fr'] + [x for x in ('en', 'es') if a0.get(x)]
     paths = {'fr': f'/fr/blog/{a0["slug"]}.html'}
-    if a0.get('en'): paths['en'] = f'/en/blog/{a0["en"]["slug"]}.html'
+    for x in ('en', 'es'):
+        if a0.get(x): paths[x] = f'/{x}/blog/{a0[x]["slug"]}.html'
     url = paths[lang]
-    GL = GROUP_LABEL if lang == 'fr' else GROUP_LABEL_EN
+    GL = {'fr': GROUP_LABEL, 'en': GROUP_LABEL_EN, 'es': GROUP_LABEL_ES}[lang]
     body = place_media(body_html(a0, lang), a, lang)
     toc, body = toc_and_ids(body, lang)
     mins = max(3, round(bb.words(body) / 220))
@@ -276,7 +283,8 @@ def sitemap_urls(bb, arts):
     urls = []
     for a in published(arts):
         locs = {'fr': f'{bb.BASE}/fr/blog/{a["slug"]}.html'}
-        if a.get('en'): locs['en'] = f'{bb.BASE}/en/blog/{a["en"]["slug"]}.html'
+        for x in ('en', 'es'):
+            if a.get(x): locs[x] = f'{bb.BASE}/{x}/blog/{a[x]["slug"]}.html'
         alts = ''.join(f'<xhtml:link rel="alternate" hreflang="{x}" href="{u}"/>' for x, u in locs.items())
         if 'en' in locs: alts += f'<xhtml:link rel="alternate" hreflang="x-default" href="{locs["en"]}"/>'
         for lang, u in locs.items():
@@ -293,6 +301,7 @@ def build(bb):
     open(f'{ROOT}/_tools/blog_preview.css', 'w', encoding='utf-8').write(bb.CSS + bb.POST_CSS + CSS_FR)
     for a in published(arts):
         open(f'{ROOT}/fr/blog/{a["slug"]}.html', 'w', encoding='utf-8').write(render_article(bb, a, arts))
-        if a.get('en'):
-            open(f'{ROOT}/en/blog/{a["en"]["slug"]}.html', 'w', encoding='utf-8').write(render_article(bb, a, arts, 'en'))
+        for x in ('en', 'es'):
+            if a.get(x):
+                open(f'{ROOT}/{x}/blog/{a[x]["slug"]}.html', 'w', encoding='utf-8').write(render_article(bb, a, arts, x))
     return arts

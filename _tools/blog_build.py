@@ -545,7 +545,7 @@ def render_index(lang, arts):
     nav = blog_hubs.themes_nav(lang, HUB_ACT)
     if nav: h += nav.replace('class="themes"', 'class="themes topnav"', 1)
     h += '<ul class="alist">'
-    fr_items = blog_fr.index_items(blog_fr.load(), lang) if lang in ('fr', 'en') else []
+    fr_items = blog_fr.index_items(blog_fr.load(), lang) if lang in ('fr', 'en', 'es') else []
     entries = [('a', a['published'], '', a) for a in pub] + [('f', x['published'], x['order'], x) for x in fr_items]
     entries.sort(key=lambda e: (e[1], e[2]))
     for i, (kind, _, _, a) in enumerate(reversed(entries)):
@@ -618,7 +618,7 @@ def render_feed(lang, arts):
     pub = [a for a in arts if a.get('published')]
     items = ''
     entries = [(a['published'], '', a['slug'][lang], a['title'][lang], a['desc'][lang]) for a in pub]
-    if lang in ('fr', 'en'):
+    if lang in ('fr', 'en', 'es'):
         entries += [(x['published'], x['order'], x['slug'], x['title'], x['desc']) for x in blog_fr.index_items(blog_fr.load(), lang)]
     entries.sort()
     for d, _, slug, title, desc in reversed(entries):
