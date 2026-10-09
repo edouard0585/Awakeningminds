@@ -1,54 +1,54 @@
 {
  "https://awakeningminds.app/": {
-  "date": "2026-09-24",
-  "sha1": "2255bdf598399a59ace4e77cb198022fac81f3ce"
+  "date": "2026-10-09",
+  "sha1": "3b887dcbeae7ad57f94e53ab91df52c7630976a2"
  },
  "https://awakeningminds.app/en/": {
   "date": "2026-10-01",
   "sha1": "83b752eee916823279dbb861095c4299ddf954ee"
  },
  "https://awakeningminds.app/en/privacy.html": {
-  "date": "2026-10-02",
-  "sha1": "0d2c67651c25088f8f954d1b852cefe8d84727a3"
+  "date": "2026-10-09",
+  "sha1": "89a126286afdc23fa07176c9369b73eb659cd983"
  },
  "https://awakeningminds.app/en/support.html": {
-  "date": "2026-10-02",
-  "sha1": "993d0d65fbf147b62b3094420cd9a4483b05c5e3"
+  "date": "2026-10-09",
+  "sha1": "d689c2fe959596983c46eb89fb536378478870e3"
  },
  "https://awakeningminds.app/en/terms.html": {
-  "date": "2026-10-02",
-  "sha1": "c15644458f3ebf7ec3d70b1e2046e3315e646779"
+  "date": "2026-10-09",
+  "sha1": "194339aeafb6083fd084c1cf1e7ee17610c89f0a"
  },
  "https://awakeningminds.app/es/": {
   "date": "2026-10-01",
   "sha1": "6040b3e11ff7eb59b5ba26acaeca89bdf5be6266"
  },
  "https://awakeningminds.app/es/privacy.html": {
-  "date": "2026-10-02",
-  "sha1": "3eed17ef6db289cb664303dd98b64b2b5352ea53"
+  "date": "2026-10-09",
+  "sha1": "c86986f9c0e44f339b66bb398646045160056528"
  },
  "https://awakeningminds.app/es/support.html": {
-  "date": "2026-10-02",
-  "sha1": "1602133fc9f95c2a202c572e4f16f9e9f5e4b29e"
+  "date": "2026-10-09",
+  "sha1": "2105628e30e603e9b38966afa3fc76cab99cd635"
  },
  "https://awakeningminds.app/es/terms.html": {
-  "date": "2026-10-02",
-  "sha1": "fbaa4350920451d76f818e73a7762d06b0516fcd"
+  "date": "2026-10-09",
+  "sha1": "615d556bcac98163dc4c18103f4f9b6af26557a7"
  },
  "https://awakeningminds.app/fr/": {
-  "date": "2026-10-02",
-  "sha1": "2ebb01a946a43f0a75e6ec13b16e3e9a30f10564"
+  "date": "2026-10-09",
+  "sha1": "21e37895afa32d7c8acfa95adc40e62345aaa79e"
  },
  "https://awakeningminds.app/fr/privacy.html": {
-  "date": "2026-10-02",
-  "sha1": "3d862c883a240d870408d5aa0bfffce7d2b5ff35"
+  "date": "2026-10-09",
+  "sha1": "def5497c8f0267649b886a76a16bfbebb468821e"
  },
  "https://awakeningminds.app/fr/support.html": {
-  "date": "2026-10-02",
-  "sha1": "2a1fc4a836ed731077b5d042e1a1e6bd3dfd571a"
+  "date": "2026-10-09",
+  "sha1": "7d6bb14662f2b4a46c354f43b39017613469447c"
  },
  "https://awakeningminds.app/fr/terms.html": {
-  "date": "2026-10-02",
-  "sha1": "e6b61222b100b76803faeece3577c038e1c933a9"
+  "date": "2026-10-09",
+  "sha1": "9fb75191dcaf418452a6838f507b7edc9c018697"
  }
 }
