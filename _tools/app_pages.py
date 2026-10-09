@@ -30,7 +30,7 @@ L = {
             list='Les séances', faq='Questions fréquentes', other='Autres catégories', otherw='Autres mondes',
             read='Pour aller plus loin', cta_t='Pratiquer gratuitement',
             cta_p="Toutes ces séances sont dans l'application MeditaDream : gratuite, sans abonnement, sans publicité ni compte, et utilisable hors ligne.",
-            cta_b="Découvrir l'application", scene='La scène', goal='L’intention', inter='Ce que vous y faites', sound='L’ambiance sonore',
+            cta_b="Découvrir l'application", scene='La scène', goal='L’intention', inter='Ce que tu y fais', sound='L’ambiance sonore',
             visual='Les couleurs du monde', end='Au moment de partir', duration='Durée', moods='Ambiance', practice='Pratiquer avec l’application',
             teams='Méditation en entreprise', form_t='Parlons de votre projet', name='Votre nom', company='Entreprise', email='Votre email',
             msg='Votre projet (taille de l’équipe, objectifs, sur site ou à distance…)', send='Envoyer', sent='Merci, votre message est bien reçu. Nous vous répondons rapidement.',
@@ -52,7 +52,45 @@ L = {
             visual='Los colores de este mundo', end='Al despedirte', duration='Duración', moods='Ambiente', practice='Practica con la app',
             teams='Para equipos', form_t='', name='', company='', email='', msg='', send='', sent='', err=''),
 }
+XL = {  # libellés des blocs ajoutés le 09-10 (mondes étoffés, pages thématiques)
+ 'fr': dict(qui='Pour qui, et à quel moment', deroule='Comment se déroule la séance', conseils='Conseils pour en profiter',
+            sons='Les sons de l’application', fam={'nature': 'Nature', 'instruments_et_voix': 'Instruments et voix', 'nappes_et_drones': 'Nappes et drones'},
+            minuteur='Minuteur « son seul » : 5, 10, 15, 20, 30, 45 ou 60 minutes, puis le son s’éteint en fondu.',
+            seances='Les séances de l’application', voir='Voir la catégorie', themes='Autres thèmes'),
+ 'en': dict(qui='Who it is for, and when', deroule='How the session unfolds', conseils='Tips to make the most of it',
+            sons='The sounds in the app', fam={'nature': 'Nature', 'instruments_et_voix': 'Instruments & voices', 'nappes_et_drones': 'Soundscapes & drones'},
+            minuteur='Sound-only timer: 5, 10, 15, 20, 30, 45 or 60 minutes, then the sound fades out.',
+            seances='Sessions in the app', voir='See the category', themes='More themes'),
+ 'es': dict(qui='Para quién y en qué momento', deroule='Cómo transcurre la sesión', conseils='Consejos para aprovecharla',
+            sons='Los sonidos de la app', fam={'nature': 'Naturaleza', 'instruments_et_voix': 'Instrumentos y voces', 'nappes_et_drones': 'Texturas y drones'},
+            minuteur='Temporizador «solo sonido»: 5, 10, 15, 20, 30, 45 o 60 minutos, y el sonido se apaga en fundido.',
+            seances='Las sesiones de la app', voir='Ver la categoría', themes='Otros temas'),
+}
+# Pages thématiques (mots-clés des recherches réelles, 09-10) : textes dans _tools/themes_<langue>.json ;
+# séances et sons ajoutés ici depuis les données de l'app (jamais recopiés à la main).
+THEMES = ('sons', 'reve', 'chakras', 'gratitude')
+THEME_IMG = {'sons': 'assets/worlds/mushroomForest.jpg', 'reve': 'assets/cats/catart-trance.png',
+             'chakras': 'assets/cats/catart-calm.png', 'gratitude': 'assets/cats/catart-emotionalGrowth.png'}
+THEME_SEANCES = {'reve': ['reves01', 'reves02', 'corpsc03', 'consci02', 'consci05'],
+                 'chakras': ['chakra01', 'chakra02', 'cons02', 'corpsc01'],
+                 'gratitude': ['croiss03', '4minut03', 'guides01', 'croiss02', 'cons06']}
+THEME_CATS = {'sons': ['calm', 'fourMin'], 'reve': ['calm', 'trance'], 'chakras': ['calm', 'thirdEye', 'qigong'], 'gratitude': ['emotionalGrowth', 'fourMin']}
+SONS = [('nature', ['sousbois', 'grandsBois', 'apresAverse', 'torrent', 'ressac']),
+        ('instruments_et_voix', ['resonance', 'dizi', 'xiao', 'khoomei', 'feerie']),
+        ('nappes_et_drones', ['nebuleuse', 'theta', 'monolithe'])]
+
+
+def charge(nom, lang):
+    f = os.path.join(T, f'{nom}_{lang}.json')
+    return json.load(open(f, encoding='utf-8')) if os.path.exists(f) else None
+
+
 CSS = """
+.ap-theme img.hero{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin:4px 0 22px}
+.ap-sons{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;margin:10px 0 24px}
+.ap-sons div{border:1px solid var(--line);border-radius:14px;padding:12px 16px;background:rgba(255,255,255,.02)}
+.ap-sons b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:19px;color:#fff7e8;margin-bottom:4px}
+.ap-sons span{font-family:'Avenir Next',sans-serif;font-size:13.5px;color:var(--muted)}
 .ap-hero{display:grid;grid-template-columns:auto 1fr;gap:20px;align-items:center;margin:6px 0 22px}
 .ap-hero img{width:120px;height:120px;border-radius:22px;border:1px solid var(--line);object-fit:cover;margin:0}
 @media(max-width:520px){.ap-hero{grid-template-columns:1fr}.ap-hero img{width:96px;height:96px}}
@@ -243,6 +281,10 @@ def build(bb):
                             f'<p>{E(m["desc"][lang])}</p></li>' for m in c['meds'] if m['title'][lang])
             g = CAT_GROUP.get(cid); hl = blog_hubs.group_link(lang, g, act) if g else None
             read = (f'<h2>{E(t["read"])}</h2><ul class="ap-links"><li><a href="/{lang}/blog/{hl}">{E(blog_hubs.HUBS[lang][g]["h1"])}</a></li></ul>') if hl else ''
+            # pages thématiques liées à cette catégorie (sons pour dormir, rêve lucide, chakras, gratitude)
+            TH = charge('themes', lang) or {}
+            lt = ''.join(f'<li><a href="/{lang}/{TH[k]["slug"]}.html">{E(TH[k]["h1"])}</a></li>' for k in THEMES if k in TH and cid in THEME_CATS.get(k, []))
+            if lt: read += f'<h2>{E(XL[lang]["themes"])}</h2><ul class="ap-links">{lt}</ul>'
             sib = [k for k in cats if k != cid and CAT_GROUP.get(k) == g][:3] or [k for k in cats if k != cid][:3]
             others = ''.join(f'<li><a href="{u(lang, "med", p["categories"][k]["slug"])}">{E(cats[k]["name"][lang])}</a></li>' for k in sib)
             bc = [(t['home'], f'/{lang}/'), (t['med'], u(lang, 'med')), (cats[cid]['name'][lang], None)]
@@ -270,8 +312,15 @@ def build(bb):
         written.append((path, alts))
         # --- pages mondes ---
         ws = cat['worlds']
+        MX = charge('mondes', lang) or {}
         for wid, w in ws.items():
             if wid not in p['worlds']: continue
+            x = MX.get(wid) or {}
+            xl = XL[lang]
+            extra = ((f'<h2>{E(xl["qui"])}</h2><p class="intro">{E(x["pour_qui"])}</p>' if x.get('pour_qui') else '')
+                     + (f'<h2>{E(xl["deroule"])}</h2><p class="intro">{E(x["deroule"])}</p>' if x.get('deroule') else '')
+                     + (f'<h2>{E(xl["conseils"])}</h2><ul>' + ''.join(f'<li>{E(c)}</li>' for c in x['conseils']) + '</ul>' if x.get('conseils') else ''))
+            wfaq = [tuple(q) for q in x.get('faq', [])]
             s = p['worlds'][wid]; path = u(lang, 'world', s['slug'])
             alts = {x: u(x, 'world', P[x]['worlds'][wid]['slug']) for x in P if wid in P[x]['worlds']}
             dl = ''.join(f'<dt>{E(t[k])}</dt><dd>{E(w[f][lang])}</dd>' for k, f in (('goal', 'objective'), ('inter', 'interactions'), ('sound', 'soundDesign'), ('visual', 'visualAtmosphere')) if w.get(f, {}).get(lang))
@@ -281,10 +330,11 @@ def build(bb):
             body = (crumbs(lang, bc) + f'<article class="ap-world"><h1>{E(s["h1"])}</h1><p class="lead">{E(w["tagline"][lang])}</p>'
                     f'{HERO_MONDE(wid, lang)}'
                     f'<p class="intro">{E(w["description"][lang])}</p><h2>{E(t["scene"])}</h2><p class="ap-scene">{E(w["openingScene"][lang])}</p>'
-                    f'<dl class="ap-dl">{dl}</dl><h2>{E(t["end"])}</h2><p class="intro">{E(w["endingNote"][lang])}</p>' + cta(lang)
-                    + f'<h2>{E(t["otherw"])}</h2><ul class="ap-links">{others}</ul></article>')
+                    f'<dl class="ap-dl">{dl}</dl>' + extra + f'<h2>{E(t["end"])}</h2><p class="intro">{E(w["endingNote"][lang])}</p>' + cta(lang)
+                    + faq_html(lang, wfaq) + f'<h2>{E(t["otherw"])}</h2><ul class="ap-links">{others}</ul></article>')
             ld = ld_tag({'@context': 'https://schema.org', '@graph': [{'@type': 'WebPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang,
-                         'primaryImageOfPage': bb.BASE + img_world(wid)}, bc_ld(bb, bc)]})
+                         'primaryImageOfPage': bb.BASE + img_world(wid)}, bc_ld(bb, bc)]
+                         + ([{'@type': 'FAQPage', 'mainEntity': [{'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': r}} for q, r in wfaq]}] if wfaq else [])})
             _write(path, page(bb, lang, s['seo'], s['desc'], path, alts, img_world(wid), ld, body, w['name'][lang]))
             written.append((path, alts))
         # --- index des mondes ---
@@ -323,9 +373,71 @@ fetch('https://formsubmit.co/ajax/edouard@meditadream.com',{method:'POST',header
                      + ([{'@type': 'FAQPage', 'mainEntity': [{'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': r}} for q, r in s['faq']]}] if s.get('faq') else [])})
         _write(path, page(bb, lang, s['seo'], s['desc'], path, alts, img_cat('calm'), ld, body, s['h1']))
         written.append((path, alts))
+    written += themes(bb, cat, P)
     import sys, formation_pages  # formations par ville (fr), liées depuis le pied de page
     written += formation_pages.build(bb, sys.modules[__name__])
     json.dump(_LM, open(LASTMOD_F, 'w', encoding='utf-8'), indent=0, sort_keys=True)
+    return written
+
+
+def theme_path(lang, key):
+    d = charge('themes', lang)
+    return f'/{lang}/{d[key]["slug"]}.html' if d and key in d else None
+
+
+def themes(bb, cat, P):
+    """Pages thématiques par langue (sons pour dormir, rêve lucide, chakras, journal de gratitude)."""
+    written = []
+    meds = {m['id']: (cid, m) for cid, c in cat['categories'].items() for m in c['meds']}
+    I18N_SONS = json.load(open(os.path.join(T, 'sons_app.json'), encoding='utf-8')) if os.path.exists(os.path.join(T, 'sons_app.json')) else {}
+    for lang in P:
+        D = charge('themes', lang)
+        if not D: continue
+        t = L[lang]; xl = XL[lang]; p = P[lang]
+        for key in THEMES:
+            if key not in D: continue
+            s = D[key]; path = f'/{lang}/{s["slug"]}.html'
+            alts = {x: theme_path(x, key) for x in P if theme_path(x, key)}
+            ik = THEME_IMG[key]
+            p_img, alt_img, titre_img = media(ik, lang, 960 if 'worlds' in ik else 640)
+            src = p_img or (img_world(ik.split('/')[-1][:-4]) if 'worlds' in ik else img_cat(ik.split('catart-')[-1][:-4]))
+            hero = f'<img class="hero" src="{rel(src, 1)}" alt="{E(alt_img)}" title="{E(titre_img)}"{dims(src)} fetchpriority="high" decoding="async">'
+            secs = ''.join(f'<h2>{E(x["h2"])}</h2>' + ''.join(f'<p>{E(q)}</p>' for q in x.get('p', []))
+                           + (('<ul>' + ''.join(f'<li>{E(b)}</li>' for b in x['ul']) + '</ul>') if x.get('ul') else '') for x in s['sections'])
+            bloc = ''
+            items = []
+            if key == 'sons' and I18N_SONS:
+                bloc = f'<h2>{E(xl["sons"])}</h2>' + ''.join(
+                    f'<h3>{E(xl["fam"][fam])}</h3><div class="ap-sons">' + ''.join(
+                        f'<div><b>{E(I18N_SONS[i]["nom"][lang])}</b><span>{E(I18N_SONS[i]["note"][lang])}</span></div>' for i in ids) + '</div>'
+                    for fam, ids in SONS) + f'<p class="intro">{E(xl["minuteur"])}</p>'
+            elif key in THEME_SEANCES:
+                ms = [meds[i] for i in THEME_SEANCES[key] if i in meds]
+                items = [m['title'][lang] for _, m in ms]
+                bloc = (f'<h2>{E(xl["seances"])}</h2><ol class="ap-list">' + ''.join(
+                    f'<li><h3>{E(m["title"][lang])}</h3><div class="d">{m["dur"]} {E(t["min"])} · {E(t["level"].get(m["level"], m["level"]))} · '
+                    f'<a href="{u(lang, "med", p["categories"][cid]["slug"])}">{E(cat["categories"][cid]["name"][lang])}</a></div><p>{E(m["desc"][lang])}</p></li>'
+                    for cid, m in ms) + '</ol>')
+            liens = ''.join(f'<li><a href="{u(lang, "med", p["categories"][c]["slug"])}">{E(cat["categories"][c]["name"][lang])}</a></li>' for c in THEME_CATS.get(key, []))
+            liens += ''.join(f'<li><a href="{theme_path(lang, k)}">{E(D[k]["h1"])}</a></li>' for k in THEMES if k != key and k in D)
+            bc = [(t['home'], f'/{lang}/'), (s['h1'], None)]
+            faq = [tuple(q) for q in s.get('faq', [])]
+            body = (crumbs(lang, bc) + f'<article class="ap-theme"><h1>{E(s["h1"])}</h1><p class="lead">{E(s["lead"])}</p>{hero}{secs}{bloc}'
+                    + cta(lang) + faq_html(lang, faq) + f'<h2>{E(xl["themes"])}</h2><ul class="ap-links">{liens}</ul></article>')
+            graph = [{'@type': 'WebPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang,
+                      'primaryImageOfPage': bb.BASE + src, 'isPartOf': {'@type': 'WebSite', 'name': 'MeditaDream', 'url': bb.BASE + '/'},
+                      'about': {'@type': 'MobileApplication', 'name': 'MeditaDream', 'applicationCategory': 'LifestyleApplication',
+                                'operatingSystem': 'iOS, Android', 'offers': {'@type': 'Offer', 'price': '0', 'priceCurrency': 'EUR'}}},
+                     bc_ld(bb, bc)]
+            if items:
+                graph.append({'@type': 'ItemList', 'name': xl['seances'], 'numberOfItems': len(items),
+                              'itemListElement': [{'@type': 'ListItem', 'position': i + 1, 'name': n} for i, n in enumerate(items)]})
+            if faq:
+                graph.append({'@type': 'FAQPage', 'mainEntity': [{'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': r}} for q, r in faq]})
+            ld = ld_tag({'@context': 'https://schema.org', '@graph': graph})
+            html_ = page(bb, lang, s['seo'], s['desc'], path, alts, src, ld, body, alt_img or s['h1'])
+            _write(path, html_)
+            written.append((path, alts))
     return written
 
 

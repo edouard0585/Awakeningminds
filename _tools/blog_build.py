@@ -25,8 +25,10 @@ try:
 except Exception:
     SITE_CFG = {'total': 149, 'stores_live': False, 'app_store_id': '6808918209'}
 TOTAL = SITE_CFG.get('total', 149)
-HEAD_ICONES = ('<link rel="icon" href="/favicon.ico" sizes="48x48">'
+HEAD_ICONES = ('<link rel="icon" href="/assets/brand/favicon-rond-48.png" type="image/png" sizes="48x48">'
+               '<link rel="icon" href="/assets/brand/favicon-rond-96.png" type="image/png" sizes="96x96">'
                '<link rel="icon" href="/assets/brand/icon-192.png" type="image/png" sizes="192x192">'
+               '<link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48">'
                '<link rel="apple-touch-icon" href="/apple-touch-icon.png">'
                '<link rel="manifest" href="/site.webmanifest">')
 BANNIERE = (f'<meta name="apple-itunes-app" content="app-id={SITE_CFG["app_store_id"]}">'

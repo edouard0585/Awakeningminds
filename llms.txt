@@ -1,0 +1,35 @@
+# MeditaDream
+
+> MeditaDream is a free guided meditation app for iPhone and Android: 146 guided meditations, including 17 immersive meditation worlds, in English, French and Spanish, with two voices per language. No subscription, no ads, no in-app purchases and no account. Meditations download once and then play offline. Coming soon to the App Store and Google Play.
+
+## Key facts
+
+- Price: free, forever. No subscription, no ads, no in-app purchases, no premium tier.
+- Content: 146 guided meditations in 19 categories (sleep and calm, beginners, 4-minute pauses, self-love and gratitude, shadow work, sacred places, spirit guides, shamanic and trance journeys, Buddhist meditations, qigong, visualization, third eye, non-dual awareness, astral projection), including 17 immersive worlds; sessions last 3 to 41 minutes.
+- Languages: English, French and Spanish, two synthetic voices per language; every meditation is narrated in the chosen language.
+- Offline: each meditation or world downloads once, then plays without a connection.
+- Also in the app: real ambient sounds (rain, ocean waves, forest, stream, singing bowl, flutes, theta binaural beats) with a sound-only timer, five personal journals (dreams, gratitude and growth, emotions, signs and synchronicities, spiritual experiences), sanctuaries, a companion dragon that grows with practice, a zen passport of stamps, an Oracle that suggests three meditations for how you feel.
+- Privacy: no account; journals and progress stay on the phone.
+- It is a well-being and learning tool, not medical advice.
+- Contact: edouard@meditadream.com
+
+## English
+
+- [MeditaDream — guided meditation, 100% free](https://meditadream.com/en/): 146 guided meditations for sleep, focus and calm. Free forever: no subscription, no ads, no account. Every session plays offline once downloaded.
+- [Free guided meditations for every moment of your day](https://meditadream.com/en/meditations/): Browse 146 free guided meditations for sleep, calm, focus and inner exploration. No subscription, no ads, no account, and they work offline.
+- [Immersive meditation worlds](https://meditadream.com/en/worlds/): Explore 17 immersive meditation worlds: a mountain temple, a crystal cave, Atlantis, a zen garden, a celestial library. Free, about 20 minutes.
+- [Blog](https://meditadream.com/en/blog/)
+
+## Français
+
+- [MeditaDream — méditation guidée, 100 % gratuite](https://meditadream.com/fr/): 146 méditations guidées en français pour dormir, respirer et s'apaiser. Application 100 % gratuite, sans abonnement ni publicité, même hors ligne.
+- [Méditations guidées gratuites](https://meditadream.com/fr/meditations/): 146 méditations guidées gratuites, sans abonnement ni compte : sommeil, débutants, 4 minutes, voyage astral. Hors ligne sur iPhone et Android.
+- [Méditations immersives : 17 mondes](https://meditadream.com/fr/mondes/): 17 mondes de méditation immersive : temple dans la brume, Atlantide, jardin zen, forêt des esprits loups. Visualisations guidées, gratuites, hors ligne.
+- [Blog](https://meditadream.com/fr/blog/)
+
+## Español
+
+- [MeditaDream — meditación guiada, 100 % gratis](https://meditadream.com/es/): 146 meditaciones guiadas en español para dormir, respirar y calmarte. App 100 % gratis, sin suscripción ni anuncios, y funciona sin conexión.
+- [Meditaciones guiadas gratis en español](https://meditadream.com/es/meditaciones/): 146 meditaciones guiadas gratis en español: dormir, calma, budismo, chamanismo y viaje astral. Sin suscripción, sin anuncios y sin conexión.
+- [Meditaciones inmersivas: 17 mundos para explorar](https://meditadream.com/es/mundos/): 17 meditaciones inmersivas de unos 20 minutos: templos, galaxias, la Atlántida, un jardín zen o un bosque de lobos. Gratis, sin anuncios y sin conexión.
+- [Blog](https://meditadream.com/es/blog/)

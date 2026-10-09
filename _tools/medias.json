@@ -730,21 +730,21 @@
    "slug": "icono-app-meditacion-meditadream"
   }
  },
- "assets/brand/scene-ganesh-temple.webp": {
+ "assets/brand/jardin-meditation-temple-bouddhas.webp": {
   "fr": {
-   "alt": "Un temple thaï en bois dans un jardin tropical : statue de Ganesh, tigre et paons au bord d'un étang de lotus",
+   "alt": "Jardin de méditation à l'aquarelle : des personnes méditent au bord d'une rivière de lotus, entre une statue de Guanyin, un grand Bouddha assis et un temple à pagode",
    "title": "Apprendre à méditer, gratuitement",
-   "slug": "temple-jardin-meditation-ganesh"
+   "slug": "jardin-meditation-personnes-meditent-temple-bouddha"
   },
   "en": {
-   "alt": "A Thai wooden temple in a tropical garden: a Ganesh statue, a tiger and peacocks by a lotus pond",
+   "alt": "Watercolour meditation garden: people meditate beside a lotus river, between a Guanyin statue, a large seated Buddha and a pagoda temple",
    "title": "Learn to meditate, for free",
-   "slug": "meditation-temple-garden-ganesh"
+   "slug": "meditation-garden-people-meditating-temple-buddha"
   },
   "es": {
-   "alt": "Un templo tailandés de madera en un jardín tropical: estatua de Ganesha, tigre y pavos reales junto a un estanque de lotos",
+   "alt": "Jardín de meditación en acuarela: personas meditan junto a un río de lotos, entre una estatua de Guanyin, un gran Buda sentado y un templo con pagoda",
    "title": "Aprende a meditar, gratis",
-   "slug": "templo-jardin-meditacion-ganesha"
+   "slug": "jardin-meditacion-personas-meditando-templo-buda"
   }
  }
 }

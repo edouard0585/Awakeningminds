@@ -1,0 +1,158 @@
+{
+ "sousbois": {
+  "nom": {
+   "fr": "Sous-bois",
+   "en": "Woodland",
+   "es": "Sotobosque"
+  },
+  "note": {
+   "fr": "Forêt des Pays-Bas, chants d'oiseaux",
+   "en": "A Dutch forest with birdsong",
+   "es": "Un bosque de los Países Bajos con pájaros"
+  }
+ },
+ "grandsBois": {
+  "nom": {
+   "fr": "Grands Bois",
+   "en": "Northwoods",
+   "es": "Gran bosque"
+  },
+  "note": {
+   "fr": "Grande forêt du Nord, oiseaux au loin",
+   "en": "North woods, distant birdsong",
+   "es": "Gran bosque del norte, pájaros a lo lejos"
+  }
+ },
+ "apresAverse": {
+  "nom": {
+   "fr": "Après l’averse",
+   "en": "After Rain",
+   "es": "Tras la lluvia"
+  },
+  "note": {
+   "fr": "Pluie sur la forêt tropicale",
+   "en": "Rain falling on a rainforest",
+   "es": "Lluvia sobre la selva tropical"
+  }
+ },
+ "torrent": {
+  "nom": {
+   "fr": "Torrent",
+   "en": "Highland Stream",
+   "es": "Torrente"
+  },
+  "note": {
+   "fr": "Un ruisseau des Highlands écossais",
+   "en": "A stream in the Scottish Highlands",
+   "es": "Un arroyo de las Highlands escocesas"
+  }
+ },
+ "ressac": {
+  "nom": {
+   "fr": "Vagues",
+   "en": "Ocean Waves",
+   "es": "Olas"
+  },
+  "note": {
+   "fr": "Les vagues de l'océan",
+   "en": "Ocean waves rolling in",
+   "es": "Las olas del océano"
+  }
+ },
+ "resonance": {
+  "nom": {
+   "fr": "Résonance",
+   "en": "Resonance",
+   "es": "Resonancia"
+  },
+  "note": {
+   "fr": "Un bol chantant, toutes les 4 minutes",
+   "en": "A singing bowl every 4 minutes",
+   "es": "Un cuenco tibetano cada 4 minutos"
+  }
+ },
+ "dizi": {
+  "nom": {
+   "fr": "Flûte chinoise",
+   "en": "Chinese Flute",
+   "es": "Flauta china"
+  },
+  "note": {
+   "fr": "Flûte chinoise dizi",
+   "en": "Chinese dizi flute",
+   "es": "Flauta china dizi"
+  }
+ },
+ "xiao": {
+  "nom": {
+   "fr": "Xiao",
+   "en": "Xiao",
+   "es": "Xiao"
+  },
+  "note": {
+   "fr": "Flûte xiao, toutes les 5 minutes",
+   "en": "A xiao flute every 5 minutes",
+   "es": "Flauta xiao cada 5 minutos"
+  }
+ },
+ "khoomei": {
+  "nom": {
+   "fr": "Khöömei",
+   "en": "Khoomei",
+   "es": "Khöömei"
+  },
+  "note": {
+   "fr": "Chant diphonique de gorge",
+   "en": "Overtone throat singing",
+   "es": "Canto difónico de garganta"
+  }
+ },
+ "feerie": {
+  "nom": {
+   "fr": "Féerie",
+   "en": "Fairy Tale",
+   "es": "Ensueño"
+  },
+  "note": {
+   "fr": "Thèmes classiques de conte",
+   "en": "Classical fairy-tale themes",
+   "es": "Temas clásicos de cuento"
+  }
+ },
+ "nebuleuse": {
+  "nom": {
+   "fr": "Nébuleuse",
+   "en": "Nebula",
+   "es": "Nebulosa"
+  },
+  "note": {
+   "fr": "Une nappe spatiale très douce",
+   "en": "A soft space soundscape",
+   "es": "Una textura espacial muy suave"
+  }
+ },
+ "theta": {
+  "nom": {
+   "fr": "Thêta",
+   "en": "Theta",
+   "es": "Theta"
+  },
+  "note": {
+   "fr": "Battements binauraux thêta (4 Hz), au casque",
+   "en": "Theta binaural beats (4 Hz), with headphones",
+   "es": "Ondas binaurales theta (4 Hz), con auriculares"
+  }
+ },
+ "monolithe": {
+  "nom": {
+   "fr": "Monolithe",
+   "en": "Monolith",
+   "es": "Monolito"
+  },
+  "note": {
+   "fr": "Un drone grave et profond",
+   "en": "A deep, low drone",
+   "es": "Un dron grave y profundo"
+  }
+ }
+}
