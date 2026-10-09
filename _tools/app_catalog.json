@@ -147,7 +147,7 @@
     "es": "4 Minutos"
    },
    "desc": {
-    "fr": "De courtes méditations, disponibles hors ligne une fois téléchargées : trouvez le calme ou recentrez-vous en quatre minutes.",
+    "fr": "De courtes méditations, disponibles hors ligne une fois téléchargées : trouve le calme ou recentre-toi en quatre minutes.",
     "en": "Short meditations, available offline once downloaded: find calm or reset in four minutes.",
     "es": "Meditaciones cortas, disponibles sin conexión una vez descargadas: encuentra la calma o recupera tu centro en cuatro minutos."
    },
@@ -393,14 +393,14 @@
      "dur": 15,
      "level": "intermediate",
      "title": {
-      "fr": "Apaiser une douleur localisée",
-      "en": "Soothing a Localized Pain",
-      "es": "Calmar un dolor localizado"
+      "fr": "Respirer autour d’une zone sensible",
+      "en": "Breathing Around a Tender Spot",
+      "es": "Respirar alrededor de una zona sensible"
      },
      "desc": {
-      "fr": "Approcher une zone qui fait mal sans y aller tout de suite : d’abord une région neutre, puis respirer autour d’elle.",
-      "en": "Approach a painful area without going there right away: a neutral region first, then breathe around it.",
-      "es": "Acercarse a una zona dolorida sin ir de inmediato: primero una región neutra, luego respirar a su alrededor."
+      "fr": "Approcher une zone sensible sans y aller tout de suite : d’abord une région neutre, puis respirer autour d’elle.",
+      "en": "Approach a tender area without going there right away: a neutral region first, then breathe around it.",
+      "es": "Acercarte a una zona sensible sin ir de inmediato: primero una región neutra, luego respirar a su alrededor."
      }
     },
     {
@@ -480,7 +480,7 @@
     },
     {
      "id": "corpsc01",
-     "dur": 28,
+     "dur": 27,
      "level": "intermediate",
      "title": {
       "fr": "Activation du corps énergétique",
@@ -702,7 +702,7 @@
     "es": "Sombra & Bienestar"
    },
    "desc": {
-    "fr": "Rencontrez ce dont vous vous êtes détourné, avec douceur.",
+    "fr": "Rencontre ce dont tu t'es détourné, avec douceur.",
     "en": "Meet what you've turned from, with care.",
     "es": "Encuentra lo que has evitado, con suavidad."
    },
@@ -997,13 +997,13 @@
     "es": "Guías Espirituales"
    },
    "desc": {
-    "fr": "Rencontrez les voix qui marchent avec vous.",
+    "fr": "Rencontre les voix qui marchent avec toi.",
     "en": "Meet the voices that walk with you.",
     "es": "Conoce las voces que caminan contigo."
    },
    "count": 5,
    "min": 16,
-   "max": 27,
+   "max": 26,
    "levels": [
     "intermediate"
    ],
@@ -1025,7 +1025,7 @@
     },
     {
      "id": "guides02",
-     "dur": 27,
+     "dur": 26,
      "level": "intermediate",
      "title": {
       "fr": "Le conseil des guides",
@@ -1157,9 +1157,9 @@
     "es": "Trance Chamánico"
    },
    "desc": {
-    "fr": "Voyages aux mondes d'en bas, d'en haut, du milieu. Animal de pouvoir, âme des lieux, chaudron celte.",
-    "en": "Journeys to the lower, upper, and middle worlds. Power animal, spirit of place, Celtic cauldron.",
-    "es": "Viajes a los mundos de abajo, de arriba, del medio. Animal de poder, alma de los lugares, caldero celta."
+    "fr": "Quête de vision, feu des anciens, cercle de protection, objet de pouvoir : quatre voyages de transe chamanique.",
+    "en": "Vision quest, fire of the ancients, circle of protection, power object: four shamanic trance journeys.",
+    "es": "Búsqueda de visión, fuego de los ancestros, círculo de protección, objeto de poder: cuatro viajes de trance chamánico."
    },
    "count": 4,
    "min": 23,
@@ -1572,7 +1572,7 @@
     "es": "Un viaje completo en una sesión: un lugar, una época, una historia."
    },
    "count": 4,
-   "min": 26,
+   "min": 17,
    "max": 34,
    "levels": [
     "intermediate"
@@ -1580,7 +1580,7 @@
    "meds": [
     {
      "id": "miniav01",
-     "dur": 33,
+     "dur": 23,
      "level": "intermediate",
      "title": {
       "fr": "Le train des souvenirs",
@@ -1595,7 +1595,7 @@
     },
     {
      "id": "miniav02",
-     "dur": 26,
+     "dur": 17,
      "level": "intermediate",
      "title": {
       "fr": "La planète inconnue",
@@ -1610,7 +1610,7 @@
     },
     {
      "id": "miniav03",
-     "dur": 34,
+     "dur": 30,
      "level": "intermediate",
      "title": {
       "fr": "Versailles — Une journée en 1700",
@@ -1625,7 +1625,7 @@
     },
     {
      "id": "miniav04",
-     "dur": 31,
+     "dur": 34,
      "level": "intermediate",
      "title": {
       "fr": "Japon — Sur la route de Kyoto en 1600",
@@ -1742,7 +1742,7 @@
     "es": "Cósmico & Vacío"
    },
    "desc": {
-    "fr": "Voyagez au-delà. Étoiles, vide, l'immensité intérieure.",
+    "fr": "Voyage au-delà. Étoiles, vide, l'immensité intérieure.",
     "en": "Travel beyond. Stars, void, the vast within.",
     "es": "Viaja más allá. Estrellas, vacío, la inmensidad interior."
    },
@@ -1792,20 +1792,20 @@
     "es": "Conciencia & Trance"
    },
    "desc": {
-    "fr": "Troisième œil, astral, mondes symboliques.",
-    "en": "Third eye, astral, symbolic worlds.",
-    "es": "Tercer ojo, astral, mundos simbólicos."
+    "fr": "Bibliothèque infinie, corps endormi et esprit éveillé, spirale, rêve éveillé dirigé, vide fertile, soi du futur.",
+    "en": "Infinite library, body asleep and mind awake, spiral, directed waking dream, fertile void, future self.",
+    "es": "Biblioteca infinita, cuerpo dormido y mente despierta, espiral, sueño despierto dirigido, vacío fértil, yo futuro."
    },
    "count": 7,
    "min": 20,
-   "max": 33,
+   "max": 32,
    "levels": [
     "intermediate"
    ],
    "meds": [
     {
      "id": "consci01",
-     "dur": 33,
+     "dur": 32,
      "level": "intermediate",
      "title": {
       "fr": "Bibliothèque infinie",
@@ -1912,14 +1912,14 @@
   },
   "tranceTechniques": {
    "name": {
-    "fr": "Trances & Techniques",
+    "fr": "Transes & Techniques",
     "en": "Trances & Techniques",
     "es": "Trances & Técnicas"
    },
    "desc": {
-    "fr": "Huit voyages en transe : descente progressive, mondes d’en bas et d’en haut, vies passées, contrat de l’âme, couloir aux mille portes, talents oubliés, soi futur.",
-    "en": "Eight trance journeys: progressive descent, lower and upper worlds, past lives, the contract of your soul, the corridor of a thousand doors, forgotten talents, your future self.",
-    "es": "Ocho viajes en trance: descenso progresivo, mundos inferior y superior, vidas pasadas, el contrato del alma, el pasillo de las mil puertas, talentos olvidados, el yo futuro."
+    "fr": "Sept voyages en transe : descente progressive, mondes d’en bas et d’en haut, vies passées, contrat de l’âme, couloir aux mille portes, talents oubliés.",
+    "en": "Seven trance journeys: progressive descent, lower and upper worlds, past lives, the contract of your soul, the corridor of a thousand doors, forgotten talents.",
+    "es": "Siete viajes en trance: descenso progresivo, mundos inferior y superior, vidas pasadas, el contrato del alma, el pasillo de las mil puertas, talentos olvidados."
    },
    "count": 7,
    "min": 16,
@@ -2275,7 +2275,7 @@
      "title": {
       "fr": "Astral · La Corde",
       "en": "Astral · Rope Technique",
-      "es": "Astral · La cuerda"
+      "es": "Astral · La Corde"
      },
      "desc": {
       "fr": "Grimpe une corde verticale imaginaire pour te dégager du corps physique",
@@ -2330,7 +2330,7 @@
    },
    "description": {
     "en": "Climb through the rain and mountain fog to a candlelit temple that has waited, in silence, for a thousand years. Sit among giant stone Buddhas and let the stillness hold you.",
-    "fr": "Montez à travers la pluie et la brume des montagnes vers un temple éclairé de bougies qui attend, en silence, depuis mille ans. Asseyez-vous parmi de géants Bouddhas de pierre et laissez l’immobilité vous porter.",
+    "fr": "Monte à travers la pluie et la brume des montagnes vers un temple éclairé de bougies qui attend, en silence, depuis mille ans. Assieds-toi parmi de géants Bouddhas de pierre et laisse l’immobilité te porter.",
     "es": "Asciende entre la lluvia y la niebla de la montaña hasta un templo iluminado por velas que espera, en silencio, desde hace mil años. Siéntate entre budas gigantes de piedra y deja que la quietud te sostenga."
    },
    "openingScene": {
@@ -2340,12 +2340,12 @@
    },
    "objective": {
     "en": "To feel safe, grounded, and held — to set down what you carried up the mountain and rest in timeless, sacred stillness.",
-    "fr": "Se sentir en sécurité, ancré et porté — déposer ce que vous avez porté jusqu’au sommet et vous reposer dans une immobilité sacrée et hors du temps.",
+    "fr": "Se sentir en sécurité, ancré et porté — déposer ce que tu as porté jusqu’au sommet et te reposer dans une immobilité sacrée et hors du temps.",
     "es": "Sentirte seguro, arraigado y sostenido — dejar en el suelo lo que cargaste montaña arriba y descansar en una quietud sagrada, fuera del tiempo."
    },
    "interactions": {
     "en": "Light a candle for something you wish to release · Bow to a stone Buddha · Set a burden down on the cool stone floor",
-    "fr": "Allumer une bougie pour ce que vous souhaitez libérer · S’incliner devant un Bouddha de pierre · Déposer un fardeau sur le sol de pierre frais",
+    "fr": "Allumer une bougie pour ce que tu souhaites libérer · S’incliner devant un Bouddha de pierre · Déposer un fardeau sur le sol de pierre frais",
     "es": "Encender una vela por aquello que deseas soltar · Inclinarte ante un buda de piedra · Depositar una carga sobre el fresco suelo de piedra"
    },
    "soundDesign": {
@@ -2384,9 +2384,9 @@
     ]
    },
    "minutes": {
-    "fr": 22,
-    "en": 22,
-    "es": 22
+    "fr": 20,
+    "en": 19,
+    "es": 19
    }
   },
   "cosmicTemple": {
@@ -2402,12 +2402,12 @@
    },
    "description": {
     "en": "Rise to a temple of glowing white marble suspended in the cosmos. Climb floating staircases past rivers of golden light to a great meditation circle at the center of everything.",
-    "fr": "Élevez-vous vers un temple de marbre blanc lumineux suspendu dans le cosmos. Gravissez des escaliers flottants au-delà des rivières de lumière dorée jusqu’à un grand cercle de méditation au centre de tout.",
+    "fr": "Élève-toi vers un temple de marbre blanc lumineux suspendu dans le cosmos. Gravis des escaliers flottants au-delà des rivières de lumière dorée jusqu’à un grand cercle de méditation au centre de tout.",
     "es": "Elévate hacia un templo de mármol blanco resplandeciente suspendido en el cosmos. Sube por escaleras flotantes, más allá de ríos de luz dorada, hasta un gran círculo de meditación en el centro de todo."
    },
    "openingScene": {
     "en": "Stars drift far beneath your feet. Giant marble pillars rise into golden cosmic fog, and crystal orbs hang weightless in the violet dark.",
-    "fr": "Les étoiles dérivent loin sous vos pieds. De géants piliers de marbre s’élèvent dans une brume cosmique dorée, et des orbes de cristal flottent, sans poids, dans l’obscurité violette.",
+    "fr": "Les étoiles dérivent loin sous tes pieds. De géants piliers de marbre s’élèvent dans une brume cosmique dorée, et des orbes de cristal flottent, sans poids, dans l’obscurité violette.",
     "es": "Las estrellas derivan lejos, bajo tus pies. Pilares gigantes de mármol se alzan en una niebla cósmica dorada, y orbes de cristal penden ingrávidos en la oscuridad violeta."
    },
    "objective": {
@@ -2432,7 +2432,7 @@
    },
    "endingNote": {
     "en": "The temple slowly dims to a single point of golden light, which you carry back inside you.",
-    "fr": "Le temple s’estompe lentement jusqu’à un seul point de lumière dorée, que vous rapportez en vous.",
+    "fr": "Le temple s’estompe lentement jusqu’à un seul point de lumière dorée, que tu rapportes en toi.",
     "es": "El templo se atenúa despacio hasta un único punto de luz dorada, que llevas de vuelta dentro de ti."
    },
    "moods": {
@@ -2456,9 +2456,9 @@
     ]
    },
    "minutes": {
-    "fr": 22,
-    "en": 21,
-    "es": 21
+    "fr": 13,
+    "en": 13,
+    "es": 13
    }
   },
   "crystalCave": {
@@ -2474,7 +2474,7 @@
    },
    "description": {
     "en": "Descend into a vast cavern of glowing crystals, mirror-still pools, and slow rainbow light. Let the gentle resonance of the crystals wash through you and carry away what no longer serves.",
-    "fr": "Descendez dans une vaste caverne de cristaux lumineux, de bassins immobiles comme des miroirs, et de lente lumière arc-en-ciel. Laissez la douce résonance des cristaux vous traverser et emporter ce qui ne vous sert plus.",
+    "fr": "Descends dans une vaste caverne de cristaux lumineux, de bassins immobiles comme des miroirs, et de lente lumière arc-en-ciel. Laisse la douce résonance des cristaux te traverser et emporter ce qui ne te sert plus.",
     "es": "Desciende a una vasta caverna de cristales luminosos, estanques quietos como espejos y lenta luz irisada. Deja que la suave resonancia de los cristales te atraviese y se lleve lo que ya no te sirve."
    },
    "openingScene": {
@@ -2484,12 +2484,12 @@
    },
    "objective": {
     "en": "To find clarity and emotional cleansing — to let the crystal light dissolve heaviness and leave you clear, light, and whole.",
-    "fr": "Trouver la clarté et un nettoyage émotionnel — laisser la lumière des cristaux dissoudre la lourdeur et vous laisser clair, léger et entier.",
+    "fr": "Trouver la clarté et un nettoyage émotionnel — laisser la lumière des cristaux dissoudre la lourdeur et te laisser clair, léger et entier.",
     "es": "Encontrar claridad y limpieza emocional — dejar que la luz de los cristales disuelva la pesadez y te deje claro, ligero y entero."
    },
    "interactions": {
     "en": "Place a hand on a glowing crystal · Cross a crystal bridge · Look into a still pool · Let a color flow through you",
-    "fr": "Poser une main sur un cristal lumineux · Traverser un pont de cristal · Regarder dans un bassin immobile · Laisser une couleur vous traverser",
+    "fr": "Poser une main sur un cristal lumineux · Traverser un pont de cristal · Regarder dans un bassin immobile · Laisser une couleur te traverser",
     "es": "Posar una mano sobre un cristal luminoso · Cruzar un puente de cristal · Mirar en un estanque inmóvil · Dejar que un color te recorra"
    },
    "soundDesign": {
@@ -2528,9 +2528,9 @@
     ]
    },
    "minutes": {
-    "fr": 21,
-    "en": 20,
-    "es": 20
+    "fr": 17,
+    "en": 17,
+    "es": 16
    }
   },
   "galaxy": {
@@ -2541,17 +2541,17 @@
    },
    "tagline": {
     "en": "Float peacefully through deep cosmic space.",
-    "fr": "Flottez paisiblement à travers l’espace cosmique profond.",
+    "fr": "Flotte paisiblement à travers l’espace cosmique profond.",
     "es": "Flota en paz por el espacio cósmico profundo."
    },
    "description": {
     "en": "Drift weightless among slowly turning galaxies, glowing nebulae, and rivers of starlight. A vast, gentle journey to release what you hold and rest in cosmic peace.",
-    "fr": "Dérivez sans poids parmi des galaxies qui tournent lentement, des nébuleuses lumineuses et des rivières de lumière stellaire. Un voyage vaste et doux pour libérer ce que vous portez et vous reposer dans la paix cosmique.",
+    "fr": "Dérive sans poids parmi des galaxies qui tournent lentement, des nébuleuses lumineuses et des rivières de lumière stellaire. Un voyage vaste et doux pour libérer ce que tu portes et te reposer dans la paix cosmique.",
     "es": "Deriva ingrávido entre galaxias que giran despacio, nebulosas luminosas y ríos de luz estelar. Un viaje vasto y amable para soltar lo que cargas y descansar en la paz cósmica."
    },
    "openingScene": {
     "en": "You float in the deep dark of space. Galaxies turn slowly around you, and clouds of blue and violet light drift past in perfect silence.",
-    "fr": "Vous flottez dans l’obscurité profonde de l’espace. Des galaxies tournent lentement autour de vous, et des nuages de lumière bleue et violette dérivent dans un silence parfait.",
+    "fr": "Tu flottes dans l’obscurité profonde de l’espace. Des galaxies tournent lentement autour de toi, et des nuages de lumière bleue et violette dérivent dans un silence parfait.",
     "es": "Flotas en la oscuridad profunda del espacio. Las galaxias giran lentamente a tu alrededor, y nubes de luz azul y violeta pasan a la deriva en un silencio perfecto."
    },
    "objective": {
@@ -2576,7 +2576,7 @@
    },
    "endingNote": {
     "en": "The stars draw close and gentle, carrying you softly back toward your breath.",
-    "fr": "Les étoiles se rapprochent, douces, vous ramenant délicatement vers votre souffle.",
+    "fr": "Les étoiles se rapprochent, douces, te ramenant délicatement vers ton souffle.",
     "es": "Las estrellas se acercan, dulces, y te devuelven suavemente hacia tu respiración."
    },
    "moods": {
@@ -2600,9 +2600,9 @@
     ]
    },
    "minutes": {
-    "fr": 21,
-    "en": 21,
-    "es": 21
+    "fr": 19,
+    "en": 19,
+    "es": 19
    }
   },
   "earthCore": {
@@ -2618,12 +2618,12 @@
    },
    "description": {
     "en": "Descend through glowing crystal caverns and slow rivers of warm light to the grounding heart of the planet. A primal, ancient place to feel rooted and held.",
-    "fr": "Descendez à travers des cavernes de cristal lumineuses et de lentes rivières de lumière chaude jusqu’au cœur ancrant de la planète. Un lieu primal et ancien pour se sentir enraciné et porté.",
+    "fr": "Descends à travers des cavernes de cristal lumineuses et de lentes rivières de lumière chaude jusqu’au cœur ancrant de la planète. Un lieu primal et ancien pour se sentir enraciné et porté.",
     "es": "Desciende por cavernas de cristal luminosas y lentos ríos de luz cálida hasta el corazón enraizante del planeta. Un lugar primario y antiguo para sentirte arraigado y sostenido."
    },
    "openingScene": {
     "en": "Vast underground caverns open before you, lit by glowing minerals and slow rivers of warm orange light far below.",
-    "fr": "De vastes cavernes souterraines s’ouvrent devant vous, éclairées par des minéraux lumineux et de lentes rivières de lumière orange chaude, loin en contrebas.",
+    "fr": "De vastes cavernes souterraines s’ouvrent devant toi, éclairées par des minéraux lumineux et de lentes rivières de lumière orange chaude, loin en contrebas.",
     "es": "Vastas cavernas subterráneas se abren ante ti, iluminadas por minerales resplandecientes y lentos ríos de cálida luz naranja, allá abajo."
    },
    "objective": {
@@ -2648,7 +2648,7 @@
    },
    "endingNote": {
     "en": "You rise gently back toward the surface, carrying the Earth’s steadiness in your bones.",
-    "fr": "Vous remontez doucement vers la surface, en portant la stabilité de la Terre dans vos os.",
+    "fr": "Tu remontes doucement vers la surface, en portant la stabilité de la Terre dans tes os.",
     "es": "Asciendes suavemente de vuelta hacia la superficie, llevando la firmeza de la Tierra en los huesos."
    },
    "moods": {
@@ -2672,9 +2672,9 @@
     ]
    },
    "minutes": {
-    "fr": 20,
-    "en": 19,
-    "es": 20
+    "fr": 15,
+    "en": 15,
+    "es": 15
    }
   },
   "antarcticBase": {
@@ -2690,7 +2690,7 @@
    },
    "description": {
     "en": "Step into a vast, silent meditation chamber frozen beneath the polar ice — glowing crystal cores, soft holographic light, and a stillness older than memory.",
-    "fr": "Entrez dans une vaste chambre de méditation silencieuse, gelée sous la glace polaire — des cœurs de cristal lumineux, une douce lumière holographique, et une immobilité plus ancienne que la mémoire.",
+    "fr": "Entre dans une vaste chambre de méditation silencieuse, gelée sous la glace polaire — des cœurs de cristal lumineux, une douce lumière holographique, et une immobilité plus ancienne que la mémoire.",
     "es": "Entra en una vasta cámara de meditación silenciosa, congelada bajo el hielo polar — núcleos de cristal luminosos, suave luz holográfica y una quietud más antigua que la memoria."
    },
    "openingScene": {
@@ -2705,7 +2705,7 @@
    },
    "interactions": {
     "en": "Walk a glowing ice tunnel · Rest before a white crystal core · Read a holographic symbol with your awareness",
-    "fr": "Parcourir un tunnel de glace lumineux · Se reposer devant un cœur de cristal blanc · Lire un symbole holographique avec votre conscience",
+    "fr": "Parcourir un tunnel de glace lumineux · Se reposer devant un cœur de cristal blanc · Lire un symbole holographique avec ta conscience",
     "es": "Recorrer un túnel de hielo luminoso · Descansar ante un núcleo de cristal blanco · Leer un símbolo holográfico con tu conciencia"
    },
    "soundDesign": {
@@ -2720,7 +2720,7 @@
    },
    "endingNote": {
     "en": "The silence settles into you as you rise gently back to the warmth of your body.",
-    "fr": "Le silence se dépose en vous tandis que vous remontez doucement vers la chaleur de votre corps.",
+    "fr": "Le silence se dépose en toi tandis que tu remontes doucement vers la chaleur de ton corps.",
     "es": "El silencio se asienta en ti mientras asciendes suavemente hacia el calor de tu cuerpo."
    },
    "moods": {
@@ -2744,9 +2744,9 @@
     ]
    },
    "minutes": {
-    "fr": 21,
-    "en": 20,
-    "es": 20
+    "fr": 16,
+    "en": 15,
+    "es": 15
    }
   },
   "skyIsland": {
@@ -2762,7 +2762,7 @@
    },
    "description": {
     "en": "Your own private sanctuary in the sky — a green island with floating waterfalls, a giant ancient tree, and a warm sunset. A place that is entirely safe, and entirely yours.",
-    "fr": "Votre propre sanctuaire privé dans le ciel — une île verte avec des cascades flottantes, un arbre ancien géant, et un coucher de soleil chaud. Un lieu entièrement sûr, et entièrement vôtre.",
+    "fr": "Ton propre sanctuaire privé dans le ciel — une île verte avec des cascades flottantes, un arbre ancien géant, et un coucher de soleil chaud. Un lieu entièrement sûr, et entièrement à toi.",
     "es": "Tu propio santuario privado en el cielo — una isla verde con cascadas flotantes, un árbol gigante y milenario, y un cálido atardecer. Un lugar del todo seguro, y del todo tuyo."
    },
    "openingScene": {
@@ -2772,7 +2772,7 @@
    },
    "objective": {
     "en": "To feel free, safe, and at home — to rest in a personal sanctuary where nothing can reach you.",
-    "fr": "Se sentir libre, en sécurité, et chez soi — se reposer dans un sanctuaire personnel où rien ne peut vous atteindre.",
+    "fr": "Se sentir libre, en sécurité, et chez soi — se reposer dans un sanctuaire personnel où rien ne peut t’atteindre.",
     "es": "Sentirte libre, a salvo y en casa — descansar en un santuario personal donde nada puede alcanzarte."
    },
    "interactions": {
@@ -2792,7 +2792,7 @@
    },
    "endingNote": {
     "en": "Lanterns glow as evening falls, and you drift gently back, carrying the island’s peace with you.",
-    "fr": "Les lanternes s’illuminent à la tombée du soir, et vous dérivez doucement en arrière, en emportant la paix de l’île avec vous.",
+    "fr": "Les lanternes s’illuminent à la tombée du soir, et tu dérives doucement en arrière, en emportant la paix de l’île avec toi.",
     "es": "Los farolillos se encienden al caer la tarde, y regresas flotando dulcemente, llevando contigo la paz de la isla."
    },
    "moods": {
@@ -2834,7 +2834,7 @@
    },
    "description": {
     "en": "Walk slow stone paths beneath falling cherry blossoms, past koi ponds and raked sand, in a place built for nothing but peace, balance, and elegant calm.",
-    "fr": "Parcourez de lents chemins de pierre sous des cerisiers en fleurs, près de bassins à carpes et de sable ratissé, dans un lieu fait pour rien d’autre que la paix, l’équilibre et un calme élégant.",
+    "fr": "Parcours de lents chemins de pierre sous des cerisiers en fleurs, près de bassins à carpes et de sable ratissé, dans un lieu fait pour rien d’autre que la paix, l’équilibre et un calme élégant.",
     "es": "Recorre lentos senderos de piedra bajo cerezos en flor, junto a estanques de carpas y arena rastrillada, en un lugar hecho solo para la paz, el equilibrio y una calma elegante."
    },
    "openingScene": {
@@ -2864,7 +2864,7 @@
    },
    "endingNote": {
     "en": "A lantern glows as you leave the garden, its calm balance settled deep within you.",
-    "fr": "Une lanterne brille tandis que vous quittez le jardin, son équilibre calme déposé profondément en vous.",
+    "fr": "Une lanterne brille tandis que tu quittes le jardin, son équilibre calme déposé profondément en toi.",
     "es": "Un farolillo brilla mientras dejas el jardín, con su sereno equilibrio asentado en lo hondo de ti."
    },
    "moods": {
@@ -2888,9 +2888,9 @@
     ]
    },
    "minutes": {
-    "fr": 22,
-    "en": 21,
-    "es": 22
+    "fr": 18,
+    "en": 18,
+    "es": 18
    }
   },
   "atlantis": {
@@ -2906,7 +2906,7 @@
    },
    "description": {
     "en": "Sink slowly into warm, glowing waters to a lost city of temples and coral. Move with the slow currents, held in flow, in the deep emotional calm of the sea.",
-    "fr": "Coulez lentement dans des eaux chaudes et lumineuses jusqu’à une cité perdue de temples et de coraux. Bougez avec les lents courants, porté par le flux, dans le calme émotionnel profond de la mer.",
+    "fr": "Coule lentement dans des eaux chaudes et lumineuses jusqu’à une cité perdue de temples et de coraux. Bouge avec les lents courants, porté par le flux, dans le calme émotionnel profond de la mer.",
     "es": "Húndete despacio en aguas cálidas y luminosas hasta una ciudad perdida de templos y coral. Muévete con las corrientes lentas, sostenido por el flujo, en la honda calma emocional del mar."
    },
    "openingScene": {
@@ -2936,7 +2936,7 @@
    },
    "endingNote": {
     "en": "The slow current lifts you gently upward, back toward the surface and your breath.",
-    "fr": "Le lent courant vous soulève doucement vers le haut, vers la surface et votre souffle.",
+    "fr": "Le lent courant te soulève doucement vers le haut, vers la surface et ton souffle.",
     "es": "La corriente lenta te eleva con dulzura, de vuelta hacia la superficie y tu respiración."
    },
    "moods": {
@@ -2960,9 +2960,9 @@
     ]
    },
    "minutes": {
-    "fr": 20,
-    "en": 19,
-    "es": 19
+    "fr": 18,
+    "en": 17,
+    "es": 18
    }
   },
   "himalayanMonastery": {
@@ -2978,7 +2978,7 @@
    },
    "description": {
     "en": "Stand among snow peaks as the first golden light breaks over the world. Prayer flags move in the cold wind, and a deep clarity rises with the sun.",
-    "fr": "Tenez-vous parmi les sommets enneigés tandis que la première lumière dorée se lève sur le monde. Les drapeaux de prière s’agitent dans le vent froid, et une clarté profonde s’élève avec le soleil.",
+    "fr": "Tiens-toi parmi les sommets enneigés tandis que la première lumière dorée se lève sur le monde. Les drapeaux de prière s’agitent dans le vent froid, et une clarté profonde s’élève avec le soleil.",
     "es": "Permanece entre cumbres nevadas mientras la primera luz dorada rompe sobre el mundo. Las banderas de oración ondean en el viento frío, y una claridad profunda se alza con el sol."
    },
    "openingScene": {
@@ -3008,7 +3008,7 @@
    },
    "endingNote": {
     "en": "The full warmth of the sun fills the valley as you carry its clarity back with you.",
-    "fr": "La pleine chaleur du soleil emplit la vallée tandis que vous en rapportez la clarté avec vous.",
+    "fr": "La pleine chaleur du soleil emplit la vallée tandis que tu en rapportes la clarté avec toi.",
     "es": "El pleno calor del sol inunda el valle mientras llevas contigo su claridad de regreso."
    },
    "moods": {
@@ -3032,9 +3032,9 @@
     ]
    },
    "minutes": {
-    "fr": 21,
-    "en": 21,
-    "es": 21
+    "fr": 18,
+    "en": 18,
+    "es": 18
    }
   },
   "celestialLibrary": {
@@ -3050,7 +3050,7 @@
    },
    "description": {
     "en": "Wander an endless library of glowing books and spiral staircases beneath moving constellations. A quiet place for introspection and calm, curious wisdom.",
-    "fr": "Errez dans une bibliothèque sans fin de livres lumineux et d’escaliers en spirale, sous des constellations en mouvement. Un lieu tranquille pour l’introspection et une sagesse calme et curieuse.",
+    "fr": "Erre dans une bibliothèque sans fin de livres lumineux et d’escaliers en spirale, sous des constellations en mouvement. Un lieu tranquille pour l’introspection et une sagesse calme et curieuse.",
     "es": "Vaga por una biblioteca sin fin de libros luminosos y escaleras de caracol, bajo constelaciones en movimiento. Un lugar tranquilo para la introspección y una sabiduría serena y curiosa."
    },
    "openingScene": {
@@ -3065,7 +3065,7 @@
    },
    "interactions": {
     "en": "Let a glowing book drift into your hands · Climb a spiral staircase · Watch the constellations move",
-    "fr": "Laisser un livre lumineux dériver dans vos mains · Gravir un escalier en spirale · Regarder les constellations bouger",
+    "fr": "Laisser un livre lumineux dériver dans tes mains · Gravir un escalier en spirale · Regarder les constellations bouger",
     "es": "Dejar que un libro luminoso llegue flotando a tus manos · Subir una escalera de caracol · Contemplar el movimiento de las constelaciones"
    },
    "soundDesign": {
@@ -3080,7 +3080,7 @@
    },
    "endingNote": {
     "en": "You close the book gently and drift back, carrying one quiet insight with you.",
-    "fr": "Vous fermez le livre doucement et dérivez en arrière, en emportant une réflexion tranquille avec vous.",
+    "fr": "Tu fermes le livre doucement et dérives en arrière, en emportant une réflexion tranquille avec toi.",
     "es": "Cierras el libro con suavidad y regresas flotando, llevando contigo una comprensión serena."
    },
    "moods": {
@@ -3104,9 +3104,9 @@
     ]
    },
    "minutes": {
-    "fr": 20,
-    "en": 20,
-    "es": 20
+    "fr": 14,
+    "en": 13,
+    "es": 13
    }
   },
   "desertOasis": {
@@ -3122,7 +3122,7 @@
    },
    "description": {
     "en": "Sit by glowing water beneath an immense moon and a sky thick with stars. A place of stillness and solitude for deep, gentle emotional reflection.",
-    "fr": "Asseyez-vous près d’une eau lumineuse sous une lune immense et un ciel chargé d’étoiles. Un lieu d’immobilité et de solitude pour une réflexion émotionnelle profonde et douce.",
+    "fr": "Assieds-toi près d’une eau lumineuse sous une lune immense et un ciel chargé d’étoiles. Un lieu d’immobilité et de solitude pour une réflexion émotionnelle profonde et douce.",
     "es": "Siéntate junto a un agua luminosa bajo una luna inmensa y un cielo cargado de estrellas. Un lugar de quietud y soledad para una reflexión emocional honda y amable."
    },
    "openingScene": {
@@ -3152,7 +3152,7 @@
    },
    "endingNote": {
     "en": "The fire glows low and warm as you carry the desert’s deep stillness back with you.",
-    "fr": "Le feu rougeoie, bas et chaud, tandis que vous rapportez l’immobilité profonde du désert avec vous.",
+    "fr": "Le feu rougeoie, bas et chaud, tandis que tu rapportes l’immobilité profonde du désert avec toi.",
     "es": "El fuego arde bajo y cálido mientras llevas contigo la quietud profunda del desierto."
    },
    "moods": {
@@ -3176,9 +3176,9 @@
     ]
    },
    "minutes": {
-    "fr": 20,
-    "en": 19,
-    "es": 20
+    "fr": 13,
+    "en": 13,
+    "es": 13
    }
   },
   "treeOfConsciousness": {
@@ -3194,22 +3194,22 @@
    },
    "description": {
     "en": "Sit within the roots of a colossal glowing tree whose branches hold the stars and whose roots reach through all living things. A journey of connection, life energy, and renewal.",
-    "fr": "Asseyez-vous parmi les racines d’un arbre colossal et lumineux dont les branches portent les étoiles et dont les racines traversent tout ce qui vit. Un voyage de connexion, d’énergie vitale et de renouveau.",
+    "fr": "Assieds-toi parmi les racines d’un arbre colossal et lumineux dont les branches portent les étoiles et dont les racines traversent tout ce qui vit. Un voyage de connexion, d’énergie vitale et de renouveau.",
     "es": "Siéntate entre las raíces de un árbol colosal y luminoso cuyas ramas sostienen las estrellas y cuyas raíces atraviesan todo lo que vive. Un viaje de conexión, energía vital y renovación."
    },
    "openingScene": {
     "en": "A colossal tree rises before you, glowing softly, its roots spreading endlessly and its leaves drifting like sparks of light into the dark.",
-    "fr": "Un arbre colossal se dresse devant vous, rayonnant doucement, ses racines s’étendant à l’infini et ses feuilles dérivant comme des étincelles de lumière dans l’obscurité.",
+    "fr": "Un arbre colossal se dresse devant toi, rayonnant doucement, ses racines s’étendant à l’infini et ses feuilles dérivant comme des étincelles de lumière dans l’obscurité.",
     "es": "Un árbol colosal se alza ante ti, resplandeciendo con suavidad, sus raíces extendiéndose sin fin y sus hojas derivando como chispas de luz en la oscuridad."
    },
    "objective": {
     "en": "To feel deeply connected to all of life, and to let renewing life-energy flow through you.",
-    "fr": "Se sentir profondément relié à toute la vie, et laisser une énergie vitale régénérante circuler à travers vous.",
+    "fr": "Se sentir profondément relié à toute la vie, et laisser une énergie vitale régénérante circuler à travers toi.",
     "es": "Sentirte profundamente unido a toda la vida, y dejar que una energía vital renovadora fluya a través de ti."
    },
    "interactions": {
     "en": "Rest your back against the great trunk · Place your hands on a glowing root · Let life-energy flow up through you",
-    "fr": "Reposer votre dos contre le grand tronc · Poser vos mains sur une racine lumineuse · Laisser l’énergie vitale monter à travers vous",
+    "fr": "Reposer ton dos contre le grand tronc · Poser tes mains sur une racine lumineuse · Laisser l’énergie vitale monter à travers toi",
     "es": "Recostar tu espalda contra el gran tronco · Posar las manos sobre una raíz luminosa · Dejar que la energía vital ascienda a través de ti"
    },
    "soundDesign": {
@@ -3224,7 +3224,7 @@
    },
    "endingNote": {
     "en": "The tree’s warm energy stays glowing in your chest as you gently return.",
-    "fr": "L’énergie chaude de l’arbre reste rayonnante dans votre poitrine tandis que vous revenez doucement.",
+    "fr": "L’énergie chaude de l’arbre reste rayonnante dans ta poitrine tandis que tu reviens doucement.",
     "es": "La cálida energía del árbol sigue brillando en tu pecho mientras regresas con suavidad."
    },
    "moods": {
@@ -3248,7 +3248,7 @@
     ]
    },
    "minutes": {
-    "fr": 19,
+    "fr": 18,
     "en": 18,
     "es": 18
    }
@@ -3266,7 +3266,7 @@
    },
    "description": {
     "en": "Explore a quiet, overgrown temple deep in the jungle, where waterfalls pour through old stone and glowing symbols wait in the green half-light. A place of mystery and primal calm.",
-    "fr": "Explorez un temple silencieux et envahi par la végétation, au cœur de la jungle, où des cascades coulent à travers la vieille pierre et où des symboles lumineux attendent dans la pénombre verte. Un lieu de mystère et de calme primal.",
+    "fr": "Explore un temple silencieux et envahi par la végétation, au cœur de la jungle, où des cascades coulent à travers la vieille pierre et où des symboles lumineux attendent dans la pénombre verte. Un lieu de mystère et de calme primal.",
     "es": "Explora un templo silencioso y cubierto de vegetación en lo hondo de la selva, donde las cascadas fluyen a través de la piedra vieja y símbolos luminosos aguardan en la penumbra verde. Un lugar de misterio y calma primaria."
    },
    "openingScene": {
@@ -3296,7 +3296,7 @@
    },
    "endingNote": {
     "en": "A soft rain begins to fall as you leave the ruins, calm and quietly curious.",
-    "fr": "Une douce pluie commence à tomber tandis que vous quittez les ruines, calme et tranquillement curieux.",
+    "fr": "Une douce pluie commence à tomber tandis que tu quittes les ruines, calme et tranquillement curieux.",
     "es": "Una lluvia suave comienza a caer mientras dejas las ruinas, sereno y tranquilamente curioso."
    },
    "moods": {
@@ -3320,9 +3320,9 @@
     ]
    },
    "minutes": {
-    "fr": 21,
-    "en": 21,
-    "es": 21
+    "fr": 19,
+    "en": 18,
+    "es": 18
    }
   },
   "mushroomForest": {
@@ -3338,7 +3338,7 @@
    },
    "description": {
     "en": "Wander a soft, glowing forest of giant mushrooms, drifting spores, and rivers of light. A gentle, dreamlike escape for wonder and free imagination.",
-    "fr": "Errez dans une forêt douce et lumineuse de champignons géants, de spores flottantes, et de rivières de lumière. Une échappée douce et onirique pour l’émerveillement et l’imagination libre.",
+    "fr": "Erre dans une forêt douce et lumineuse de champignons géants, de spores flottantes, et de rivières de lumière. Une échappée douce et onirique pour l’émerveillement et l’imagination libre.",
     "es": "Vaga por un bosque suave y resplandeciente de setas gigantes, esporas a la deriva y ríos de luz. Una escapada dulce y onírica hacia el asombro y la imaginación libre."
    },
    "openingScene": {
@@ -3368,7 +3368,7 @@
    },
    "endingNote": {
     "en": "The colors soften and fade as you drift gently back, light and full of wonder.",
-    "fr": "Les couleurs s’adoucissent et s’estompent tandis que vous dérivez doucement en arrière, léger et émerveillé.",
+    "fr": "Les couleurs s’adoucissent et s’estompent tandis que tu dérives doucement en arrière, léger et émerveillé.",
     "es": "Los colores se suavizan y se desvanecen mientras regresas flotando dulcemente, ligero y lleno de asombro."
    },
    "moods": {
@@ -3392,9 +3392,9 @@
     ]
    },
    "minutes": {
-    "fr": 22,
-    "en": 20,
-    "es": 20
+    "fr": 17,
+    "en": 17,
+    "es": 16
    }
   },
   "mirrorDimension": {
@@ -3410,7 +3410,7 @@
    },
    "description": {
     "en": "Float in a still, luminous space of endless mirrors and soft white light. A meditation on awareness itself — for introspection, transcendence, and a gentle shift in perception.",
-    "fr": "Flottez dans un espace immobile et lumineux de miroirs infinis et de douce lumière blanche. Une méditation sur la conscience elle-même — pour l’introspection, la transcendance, et un doux changement de perception.",
+    "fr": "Flotte dans un espace immobile et lumineux de miroirs infinis et de douce lumière blanche. Une méditation sur la conscience elle-même — pour l’introspection, la transcendance, et un doux changement de perception.",
     "es": "Flota en un espacio quieto y luminoso de espejos infinitos y suave luz blanca. Una meditación sobre la conciencia misma — para la introspección, la trascendencia y un dulce giro en la percepción."
    },
    "openingScene": {
@@ -3425,7 +3425,7 @@
    },
    "interactions": {
     "en": "Float between two mirrors · Meet your own calm reflection · Rest as the awareness watching it all",
-    "fr": "Flotter entre deux miroirs · Rencontrer votre propre reflet calme · Se reposer en tant que conscience qui observe tout",
+    "fr": "Flotter entre deux miroirs · Rencontrer ton propre reflet calme · Se reposer en tant que conscience qui observe tout",
     "es": "Flotar entre dos espejos · Encontrar tu propio reflejo sereno · Descansar como la conciencia que lo observa todo"
    },
    "soundDesign": {
@@ -3440,7 +3440,7 @@
    },
    "endingNote": {
     "en": "The mirrors fade softly into light as you return, quietly changed.",
-    "fr": "Les miroirs se fondent doucement dans la lumière tandis que vous revenez, tranquillement transformé.",
+    "fr": "Les miroirs se fondent doucement dans la lumière tandis que tu reviens, tranquillement transformé.",
     "es": "Los espejos se funden suavemente en la luz mientras regresas, serenamente transformado."
    },
    "moods": {
@@ -3464,9 +3464,9 @@
     ]
    },
    "minutes": {
-    "fr": 21,
-    "en": 20,
-    "es": 20
+    "fr": 15,
+    "en": 16,
+    "es": 16
    }
   },
   "wolfForest": {
@@ -3482,12 +3482,12 @@
    },
    "description": {
     "en": "Walk a snowy pine forest under the northern lights, watched over by gentle wolf spirits. A journey of protection, instinct, and quiet emotional strength.",
-    "fr": "Parcourez une forêt de pins enneigée sous les aurores boréales, veillé par de doux esprits loups. Un voyage de protection, d’instinct, et de force émotionnelle tranquille.",
+    "fr": "Parcours une forêt de pins enneigée sous les aurores boréales, veillé par de doux esprits loups. Un voyage de protection, d’instinct, et de force émotionnelle tranquille.",
     "es": "Camina por un pinar nevado bajo las auroras boreales, velado por dulces espíritus lobo. Un viaje de protección, instinto y serena fuerza emocional."
    },
    "openingScene": {
     "en": "Moonlight falls through tall pines onto fresh snow. Blue spirit-lights drift between the trees, and far off, calm glowing eyes watch over you.",
-    "fr": "Le clair de lune tombe à travers de grands pins sur la neige fraîche. Des lumières-esprits bleues dérivent entre les arbres, et au loin, des yeux lumineux et calmes veillent sur vous.",
+    "fr": "Le clair de lune tombe à travers de grands pins sur la neige fraîche. Des lumières-esprits bleues dérivent entre les arbres, et au loin, des yeux lumineux et calmes veillent sur toi.",
     "es": "La luz de la luna cae entre altos pinos sobre la nieve recién caída. Luces-espíritu azules derivan entre los árboles, y a lo lejos, unos ojos luminosos y serenos velan por ti."
    },
    "objective": {
@@ -3497,7 +3497,7 @@
    },
    "interactions": {
     "en": "Walk the moonlit path · Sit by a sacred campfire · Let a wolf spirit walk beside you",
-    "fr": "Parcourir le sentier au clair de lune · S’asseoir près d’un feu sacré · Laisser un esprit loup marcher à vos côtés",
+    "fr": "Parcourir le sentier au clair de lune · S’asseoir près d’un feu sacré · Laisser un esprit loup marcher à tes côtés",
     "es": "Recorrer el sendero a la luz de la luna · Sentarte junto a un fuego sagrado · Dejar que un espíritu lobo camine a tu lado"
    },
    "soundDesign": {
@@ -3512,7 +3512,7 @@
    },
    "endingNote": {
     "en": "The wolves watch quietly as you go, their steady strength now part of you.",
-    "fr": "Les loups veillent en silence tandis que vous partez, leur force tranquille faisant désormais partie de vous.",
+    "fr": "Les loups veillent en silence tandis que tu pars, leur force tranquille faisant désormais partie de toi.",
     "es": "Los lobos velan en silencio mientras te alejas, con su fuerza serena formando ya parte de ti."
    },
    "moods": {
@@ -3536,9 +3536,9 @@
     ]
    },
    "minutes": {
-    "fr": 21,
-    "en": 20,
-    "es": 20
+    "fr": 15,
+    "en": 15,
+    "es": 15
    }
   }
  }

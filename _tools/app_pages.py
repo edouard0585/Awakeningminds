@@ -29,8 +29,8 @@ L = {
             to='à', level={'beginner': 'débutant', 'intermediate': 'intermédiaire', 'advanced': 'avancé'},
             list='Les séances', faq='Questions fréquentes', other='Autres catégories', otherw='Autres mondes',
             read='Pour aller plus loin', cta_t='Pratiquer gratuitement',
-            cta_p="Toutes ces séances sont dans l'application MeditaDream : gratuite, sans abonnement, sans publicité ni compte, et utilisable hors ligne.",
-            cta_b="Découvrir l'application", scene='La scène', goal='L’intention', inter='Ce que tu y fais', sound='L’ambiance sonore',
+            cta_p="Toutes ces séances sont dans l’application MeditaDream : gratuite, sans abonnement, sans publicité ni compte, et utilisable hors ligne.",
+            cta_b="Découvrir l’application", scene='La scène', goal='L’intention', inter='Ce que tu y fais', sound='L’ambiance sonore',
             visual='Les couleurs du monde', end='Au moment de partir', duration='Durée', moods='Ambiance', practice='Pratiquer avec l’application',
             teams='Méditation en entreprise', form_t='Parlons de votre projet', name='Votre nom', company='Entreprise', email='Votre email',
             msg='Votre projet (taille de l’équipe, objectifs, sur site ou à distance…)', send='Envoyer', sent='Merci, votre message est bien reçu. Nous vous répondons rapidement.',
@@ -313,6 +313,8 @@ def build(bb):
         # --- pages mondes ---
         ws = cat['worlds']
         MX = charge('mondes', lang) or {}
+        # fiches de l'app encore antérieures à la refonte v3 des mondes (04-10) : affichées seulement une fois validées
+        VALIDES = set(json.load(open(os.path.join(T, 'mondes_valides.json'), encoding='utf-8'))) if os.path.exists(os.path.join(T, 'mondes_valides.json')) else set()
         for wid, w in ws.items():
             if wid not in p['worlds']: continue
             x = MX.get(wid) or {}
@@ -323,14 +325,17 @@ def build(bb):
             wfaq = [tuple(q) for q in x.get('faq', [])]
             s = p['worlds'][wid]; path = u(lang, 'world', s['slug'])
             alts = {x: u(x, 'world', P[x]['worlds'][wid]['slug']) for x in P if wid in P[x]['worlds']}
-            dl = ''.join(f'<dt>{E(t[k])}</dt><dd>{E(w[f][lang])}</dd>' for k, f in (('goal', 'objective'), ('inter', 'interactions'), ('sound', 'soundDesign'), ('visual', 'visualAtmosphere')) if w.get(f, {}).get(lang))
+            ok = wid in VALIDES
+            dl = ''.join(f'<dt>{E(t[k])}</dt><dd>{E(w[f][lang])}</dd>' for k, f in (('goal', 'objective'), ('inter', 'interactions'), ('sound', 'soundDesign'), ('visual', 'visualAtmosphere')) if ok and w.get(f, {}).get(lang))
             dl += f'<dt>{E(t["duration"])}</dt><dd>{w["minutes"][lang]} {E(t["min"])}</dd><dt>{E(t["moods"])}</dt><dd>{E(", ".join(w["moods"][lang]))}</dd>'
             others = ''.join(f'<li><a href="{u(lang, "world", p["worlds"][k]["slug"])}">{E(ws[k]["name"][lang])}</a></li>' for k in list(ws)[:0] or [k for k in ws if k != wid][:6] if k in p['worlds'])
             bc = [(t['home'], f'/{lang}/'), (t['worlds'], u(lang, 'world')), (w['name'][lang], None)]
-            body = (crumbs(lang, bc) + f'<article class="ap-world"><h1>{E(s["h1"])}</h1><p class="lead">{E(w["tagline"][lang])}</p>'
+            lead = s.get('lead') or (w['tagline'][lang] if ok else s['desc'])
+            body = (crumbs(lang, bc) + f'<article class="ap-world"><h1>{E(s["h1"])}</h1><p class="lead">{E(lead)}</p>'
                     f'{HERO_MONDE(wid, lang)}'
-                    f'<p class="intro">{E(w["description"][lang])}</p><h2>{E(t["scene"])}</h2><p class="ap-scene">{E(w["openingScene"][lang])}</p>'
-                    f'<dl class="ap-dl">{dl}</dl>' + extra + f'<h2>{E(t["end"])}</h2><p class="intro">{E(w["endingNote"][lang])}</p>' + cta(lang)
+                    + (f'<p class="intro">{E(w["description"][lang])}</p><h2>{E(t["scene"])}</h2><p class="ap-scene">{E(w["openingScene"][lang])}</p>' if ok else '')
+                    + f'<dl class="ap-dl">{dl}</dl>' + extra
+                    + (f'<h2>{E(t["end"])}</h2><p class="intro">{E(w["endingNote"][lang])}</p>' if ok else '') + cta(lang)
                     + faq_html(lang, wfaq) + f'<h2>{E(t["otherw"])}</h2><ul class="ap-links">{others}</ul></article>')
             ld = ld_tag({'@context': 'https://schema.org', '@graph': [{'@type': 'WebPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang,
                          'primaryImageOfPage': bb.BASE + img_world(wid)}, bc_ld(bb, bc)]
@@ -339,8 +344,9 @@ def build(bb):
             written.append((path, alts))
         # --- index des mondes ---
         s = p['worlds_index']; path = u(lang, 'world'); alts = {x: u(x, 'world') for x in P}
+        carte = lambda k, w: w['tagline'][lang] if k in VALIDES else f'{w["minutes"][lang]} {t["min"]} · ' + ', '.join(w['moods'][lang][:2])
         cards = ''.join(f'<li><a href="{p["worlds"][k]["slug"]}.html">{VIG_MONDE(k, lang)}'
-                        f'<b>{E(w["name"][lang])}</b><span>{E(w["tagline"][lang])}</span></a></li>' for k, w in ws.items() if k in p['worlds'])
+                        f'<b>{E(w["name"][lang])}</b><span>{E(carte(k, w))}</span></a></li>' for k, w in ws.items() if k in p['worlds'])
         bc = [(t['home'], f'/{lang}/'), (t['worlds'], None)]
         body = crumbs(lang, bc) + f'<h1>{E(s["h1"])}</h1><p class="lead">{E(s["intro"])}</p><ul class="ap-grid">{cards}</ul>' + cta(lang)
         ld = ld_tag({'@context': 'https://schema.org', '@graph': [{'@type': 'CollectionPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang}, bc_ld(bb, bc)]})

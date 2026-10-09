@@ -1,0 +1,393 @@
+{
+ "antiqueTemple": {
+  "pour_qui": "Le Temple Ancien est un abri pour les soirs où tu portes trop de choses. Si la pluie, les lieux sacrés et la lueur des bougies t’apaisent, ce monde est pour toi. Choisis-le quand tu cherches à te sentir en sécurité, ancré, comme hors du temps.",
+  "deroule": "Tout commence sur des marches de pierre, sous la pluie, dans la brume de la montagne. Une renarde blanche aux neuf queues te guide jusqu’à une porte immense, qui s’ouvre sous ta paume. À l’intérieur, des centaines de bougies brillent devant de grands bouddhas de pierre, et une cloche sonne un seul coup. Un vieux gardien au masque de bois te remet une petite bougie. Tu lui confies un poids, puis tu la laisses monter rejoindre des milliers d’autres. Une petite porte rouge s’ouvre ensuite sur ton paysage intérieur. À la fin, l’aube dore le temple et les bougies pâlissent.",
+  "conseils": [
+   "Assieds-toi sur un coussin, au sol si tu peux, comme les moines du temple.",
+   "Choisis avant de commencer le poids que tu confieras à la bougie.",
+   "Pour prolonger, lance l’Ambiance minutée avec Résonance et son bol chantant."
+  ],
+  "faq": [
+   [
+    "Combien de temps dure le Temple Ancien ?",
+    "La séance dure 20 minutes. Elle avance lentement, de la montée sous la pluie jusqu’au lever du jour."
+   ],
+   [
+    "Qui t’accompagne jusqu’au temple ?",
+    "Une renarde blanche aux neuf queues te montre le chemin. Dans le temple, un vieux gardien au masque de bois prend le relais."
+   ],
+   [
+    "Faut-il être bouddhiste pour suivre ce monde ?",
+    "Non. Les statues forment un décor paisible. Si tu t’inclines devant l’une d’elles, c’est seulement pour dire « je suis là »."
+   ]
+  ]
+ },
+ "cosmicTemple": {
+  "pour_qui": "Le Temple Cosmique s’adresse aux esprits qui aiment l’immensité et les grandes questions. Les amoureux des étoiles y croiseront aussi une baleine céleste. Quand la journée t’a semblé étroite, il t’ouvre un espace sans limite. Comme il est court, tu peux l’écouter en fin d’après-midi comme le soir, pour goûter un calme vaste.",
+  "deroule": "Tu t’élèves d’abord sans poids, dans une obscurité violette et chaude. Une baleine céleste, grande comme une colline, te prend sur son dos et fait le tour d’un temple de marbre blanc. Elle t’offre une sphère de cristal où tourne une galaxie miniature. Dans le temple, tu marches sur un sol transparent, au-dessus des étoiles. Une horloge des âges te montre la naissance d’un peuple de lumière, sur une planète lointaine. Au centre, tu t’assieds dans un grand cercle, et une étoile naît sous tes pieds. Puis le temple s’efface en un point de lumière dorée.",
+  "conseils": [
+   "Allonge-toi si tu peux : la séance commence par une sensation de flotter.",
+   "Prépare une question avant d’entrer : tu pourras la confier aux étoiles.",
+   "Après la séance, garde un instant l’image de ta petite galaxie avant de te lever."
+  ],
+  "faq": [
+   [
+    "Le Temple Cosmique est-il long ?",
+    "Non, il dure 13 minutes. C’est l’un des deux mondes les plus courts de l’application."
+   ],
+   [
+    "Quel rôle joue la baleine céleste ?",
+    "Elle te porte jusqu’au temple sur son dos, puis t’offre une sphère de cristal. Elle chante une dernière fois avant que le temple s’efface."
+   ],
+   [
+    "Que se passe-t-il au centre du temple ?",
+    "Tu t’assieds dans un grand cercle de lumière, et une étoile naît sous tes pieds. Si une question te vient, tu la laisses monter parmi les étoiles."
+   ]
+  ]
+ },
+ "crystalCave": {
+  "pour_qui": "La Grotte de Cristal est faite pour les moments où tu te sens lourd ou encombré, et où tu rêves de clarté. Les lieux secrets, l’eau calme et la lumière te font rêver ? Garde-la pour un soir ou un jour de repos, quand tu as le temps de te laisser surprendre.",
+  "deroule": "Un chemin en pente douce t’emmène sous la terre, jusqu’à une fissure que tu franchis en expirant. Derrière s’ouvre une caverne immense, où des cristaux géants s’illuminent de l’intérieur. Un papillon de cristal te guide vers des bassins calmes comme des miroirs, où chante une sirène. Sous ta main, un cristal se met à sonner, et toute la grotte lui répond. Une barque transparente t’emporte ensuite jusqu’à un petit dragon de cristal. Au cœur de la grotte, une ville minuscule chante avec toi, puis le dragon te raccompagne.",
+  "conseils": [
+   "Expire longuement au passage de la fissure : c’est par ce souffle que tu entres dans la grotte.",
+   "Garde les mains libres, posées sur tes cuisses : tu toucheras un cristal en chemin.",
+   "Si la voix t’invite à chanter, fredonne tout bas, même sans mots."
+  ],
+  "faq": [
+   [
+    "Que rencontre-t-on dans la Grotte de Cristal ?",
+    "Un papillon de cristal, une sirène et un petit dragon grand comme un chat. Au cœur de la grotte, une ville minuscule d’êtres de lumière t’accueille."
+   ],
+   [
+    "Combien de minutes faut-il prévoir ?",
+    "Compte 17 minutes, de la descente sous la terre jusqu’au retour par la fissure."
+   ],
+   [
+    "Pourquoi parle-t-on de nettoyage dans ce monde ?",
+    "La lumière des cristaux emporte ce qui pèse, comme une brume qui s’envole. C’est une image pour te sentir plus léger, pas une promesse."
+   ]
+  ]
+ },
+ "galaxy": {
+  "pour_qui": "Ce voyage s’adresse aux rêveurs, et à tous ceux qui gardent l’émerveillement d’un enfant devant le ciel étoilé. Il tombe bien quand tu veux lâcher prise et regarder loin, très loin de ta journée. Le soir, profite-en bien installé, dans un fauteuil ou dans ton lit.",
+  "deroule": "Tu flottes d’abord dans une obscurité bleue, pleine de grains d’argent. Un train de lumière s’arrête près de toi, et tu prends place près d’une grande fenêtre. Une baleine de lumière longe le wagon, puis un guide vient s’asseoir à tes côtés. Le train traverse les anneaux de Saturne et une pluie d’étoiles filantes. Sur un astéroïde, un marchand t’offre une fiole où tourne une planète minuscule. Un anneau de lumière te mène à l’autre bout de la galaxie, où tu laisses partir un poids par la vitre. Puis le train te ramène, la fiole dans la main.",
+  "conseils": [
+   "Pense à un souhait avant de partir : une étoile filante pourra l’emporter.",
+   "Garde une main ouverte sur tes genoux pour recevoir la fiole du marchand.",
+   "Écoute-le lumière éteinte, comme on regarde la nuit par la fenêtre d’un train."
+  ],
+  "faq": [
+   [
+    "Est-ce vraiment un voyage en train ?",
+    "Oui. Après quelques instants à flotter, un train de lumière vient te chercher. Tu voyages assis près de sa fenêtre, avec une halte sur un astéroïde."
+   ],
+   [
+    "Le voyage dure-t-il longtemps ?",
+    "Il dure 19 minutes, des premières étoiles jusqu’au retour, là où le train t’a pris."
+   ],
+   [
+    "Que représente la fiole offerte par le marchand ?",
+    "Une planète minuscule y tourne. En y repensant, tu peux retrouver ce calme quand le monde devient trop bruyant."
+   ]
+  ]
+ },
+ "earthCore": {
+  "pour_qui": "Tu te sens dispersé ou pressé ? Le Cœur de la Terre t’emmène tout en bas, vers ce qui ne bouge pas. Il plaira aux amoureux de la pierre, des grottes et des mondes très anciens. Écoute-le après une journée chargée, quand tu veux te sentir stable.",
+  "deroule": "Tu descends lentement sous la surface, par une ouverture d’où sort un air chaud. Le chemin longe des veines de cristal jusqu’à une caverne aux pierres bleues, vertes et dorées. Ta main se pose sur la paroi, qui s’éclaire au rythme de ton souffle. Des rivières de lumière orange te mènent à un monde caché, éclairé par un soleil intérieur couleur de miel. Au pied d’un arbre immense, tu poses les mains sur un œuf d’ambre, d’où sort un petit dragon. Un peuple lumineux te confie un message, puis une colonne de lumière te remonte à la surface.",
+  "conseils": [
+   "Assieds-toi les pieds bien à plat, pour sentir le sol pendant toute la descente.",
+   "Garde un petit galet dans ta poche : la fin de la séance en parle.",
+   "Quand l’œuf se met à battre, laisse ta respiration ralentir avec lui."
+  ],
+  "faq": [
+   [
+    "Que découvre-t-on au cœur de la Terre ?",
+    "Un monde caché, éclairé par un soleil intérieur couleur de miel. Au pied d’un arbre immense, un petit dragon sort de son œuf."
+   ],
+   [
+    "Le message reçu est-il imposé ?",
+    "Non. La voix te laisse accueillir un mot ou une image qui vient de toi. Si rien ne vient, ce n’est pas grave."
+   ],
+   [
+    "En combien de temps se fait la descente ?",
+    "La séance entière dure 15 minutes, de la descente jusqu’à la remontée par la colonne de lumière."
+   ]
+  ]
+ },
+ "antarcticBase": {
+  "pour_qui": "Le Sanctuaire Gelé attire ceux qui aiment le silence, le mystère et les grands espaces blancs. Il est précieux les jours où ta tête est pleine et où tu rêves d’un endroit immobile. Écoute-le seul, sans bruit autour, pour te poser dans une immobilité très ancienne.",
+  "deroule": "Tu descends à travers des couches de glace, chacune faite de la neige d’un seul hiver. Sur le seuil, un renard polaire lumineux te guide dans un tunnel d’un bleu profond. Des symboles bleus flottent dans l’air : il suffit de les regarder. Dans une vaste chambre, un jardin de givre s’ouvre en tintant devant un grand cœur de cristal. Tu t’assieds et tu respires avec sa lumière. Un livre gelé te montre une cité blanche, d’avant la glace. Puis une aurore te mène à l’air libre, sur la neige de l’Antarctique.",
+  "conseils": [
+   "Garde une couverture à portée de main : le voyage se passe dans le froid.",
+   "Coupe les notifications avant de commencer : ce monde repose sur le silence.",
+   "Si une pensée arrive, laisse-la résonner puis s’effacer, comme la note de cristal."
+  ],
+  "faq": [
+   [
+    "Ce monde donne-t-il froid ?",
+    "Le décor est glacé, mais la voix parle d’un froid vif et pur. Devant le cœur de cristal, sa lumière froide te réchauffe même."
+   ],
+   [
+    "Qui te guide sous la glace ?",
+    "Un renard polaire au pelage lumineux. Il te mène jusqu’au sanctuaire, puis te dit au revoir sur la neige, sous l’aurore."
+   ],
+   [
+    "Quelle est la durée du Sanctuaire Gelé ?",
+    "16 minutes. La fin se passe à l’air libre, sous une aurore verte et rose."
+   ]
+  ]
+ },
+ "skyIsland": {
+  "pour_qui": "L’Île Flottante est ton refuge personnel, haut au-dessus des nuages. Les grands oiseaux, les cascades et les arbres anciens y règnent. Un lieu sûr, rien qu’à toi, où tu te sens libre et loin du bruit. Comme le voyage suit la fin du jour, écoute-la plutôt au coucher du soleil ou en début de soirée.",
+  "deroule": "Un pont de nuages se déroule jusqu’à ton île, verte dessus et dorée sur les bords. Tu marches dans l’herbe chaude, puis tu t’assieds au bord d’une cascade, les pieds dans le ciel. Un grand oiseau blanc et doré te porte jusqu’à l’arbre ancien du centre. Là, ton dos repose contre le tronc, et un cerf blanc ailé te confie une graine. Au coucher du soleil, une baleine blanche passe sous l’île. Le soir venu, les lanternes s’allument, et tu souffles la graine vers le ciel ou l’océan : une toute petite île commence à naître.",
+  "conseils": [
+   "Écoute-la près d’une fenêtre ouverte, si l’air du soir est doux.",
+   "Garde une main ouverte, paume vers le ciel, pour recevoir la graine.",
+   "À la fin, choisis sans hésiter entre le ciel et l’océan : les deux conviennent."
+  ],
+  "faq": [
+   [
+    "Pourquoi dit-on que cette île est à toi ?",
+    "La séance la présente comme ton sanctuaire personnel : un lieu sûr où tu peux être simplement toi."
+   ],
+   [
+    "À quoi sert la graine du cerf blanc ?",
+    "C’est une graine du grand arbre. Quand tu la souffles vers le ciel ou l’océan, une toute petite île commence à naître."
+   ],
+   [
+    "Combien de temps passe-t-on sur l’île ?",
+    "20 minutes, du pont de nuages jusqu’aux premières étoiles."
+   ]
+  ]
+ },
+ "zenGarden": {
+  "pour_qui": "Le Jardin Zen est là pour les jours où tout va trop vite et où tu cherches l’équilibre. Si tu aimes les jardins japonais, le thé et les gestes lents, tu t’y sentiras chez toi. Écoute-le en fin de journée ou un matin tranquille, pour un calme simple et élégant.",
+  "deroule": "Tu entres dans un jardin japonais juste après une pluie douce, au son lointain d’une cloche. Un cerisier s’ouvre d’un seul coup au-dessus du chemin, et une pluie de pétales roses t’entoure. Sur un petit pont de bois, tu nourris les carpes, et la carpe d’or vient frôler tes doigts. Une fontaine de bambou bat la mesure. Près du sable ratissé, un vieux jardinier te sert un thé : dans la vapeur passent un dragon et un phénix. Le soir, les lanternes de pierre s’allument, et le bois de bambous se met à chanter parmi les lucioles.",
+  "conseils": [
+   "Prépare un thé chaud avant de commencer : tu le boiras avec le jardinier.",
+   "Quand la fontaine de bambou sonne, ne compte pas : attends simplement le coup suivant.",
+   "Prolonge la promenade : lance Flûte chinoise dans l’Ambiance minutée."
+  ],
+  "faq": [
+   [
+    "Faut-il connaître le zen pour suivre ce monde ?",
+    "Non. Le jardin sert de décor : tu marches, tu regardes, tu respires. Aucune connaissance n’est demandée."
+   ],
+   [
+    "Que fait-on avec le vieux jardinier ?",
+    "Il t’invite sur une terrasse de bois et te sert un thé. Dans la vapeur des bols, un dragon, un phénix puis un renard prennent forme."
+   ],
+   [
+    "La promenade dure combien de temps ?",
+    "18 minutes, de l’entrée après la pluie jusqu’au retour à la lueur des lanternes."
+   ]
+  ]
+ },
+ "atlantis": {
+  "pour_qui": "L’Atlantide s’adresse aux amoureux de la mer, à ceux qui aiment se laisser porter. Tu y croiseras une cité engloutie, des méduses et un hippocampe géant. Elle accompagne bien les jours où une émotion cherche à passer, sans que tu aies à la nommer. Le soir, elle offre de la profondeur et une grande sérénité.",
+  "deroule": "Tu flottes d’abord sur une mer chaude, puis tu descends doucement et découvres que tu respires sous l’eau. Les tours d’un château de nacre apparaissent, au cœur d’une cité ancienne. Un hippocampe géant et doré te prend sur son dos, entre les temples et les méduses. Deux habitants t’accueillent dans leur maison ronde et t’offrent une bulle dorée à boire. Dans leur jardin de corail, une perle tiède te montre un souvenir doux. Sur une terrasse de corail, une baleine chante au loin. À la fin, toute la cité s’illumine, et le courant te ramène vers la surface.",
+  "conseils": [
+   "Allonge-toi : l’eau te porte pendant tout le voyage.",
+   "Laisse ton souffle suivre les méduses, qui s’ouvrent et se referment lentement.",
+   "Pour rester près de la mer, enchaîne avec l’Ambiance minutée et le son Vagues."
+  ],
+  "faq": [
+   [
+    "Faut-il aimer l’eau pour écouter ce monde ?",
+    "Pas forcément. Dès le début, la voix te rassure : tu descends en sécurité et tu respires sous l’eau sans effort."
+   ],
+   [
+    "Quel souvenir la perle montre-t-elle ?",
+    "Celui qui vient à toi : un instant heureux, un visage aimé ou un endroit. La perle le garde, et tu la tiens jusqu’au retour."
+   ],
+   [
+    "Combien de temps reste-t-on sous la mer ?",
+    "La séance dure 18 minutes. Avant la remontée, tu regardes toute la cité s’illuminer depuis le sommet du château."
+   ]
+  ]
+ },
+ "himalayanMonastery": {
+  "pour_qui": "Le Monastère à l’Aube est fait pour les matins, et pour tous les moments où tu veux commencer quelque chose avec clarté. La montagne, le silence et les sagesses anciennes te parlent ? Tu y vivras le lever du jour comme un départ paisible, guidé par un vieux moine.",
+  "deroule": "Tout commence avant l’aube, devant le portail d’un monastère de montagne. Un vieux moine en robe rouge sombre t’accueille, une lampe à beurre à la main. Il te mène dans un jardin couvert de givre, où tu fais tourner des moulins à prières. Dans la cour, tu confies une pensée tendre au cheval de vent d’un drapeau de prière. Sur un balcon de bois, un bol de thé entre les mains, tu écoutes l’histoire du monastère. Puis le soleil se lève sur les sommets enneigés, et sa lumière descend jusqu’à toi. La vallée s’éveille, et tu repars avec cette clarté.",
+  "conseils": [
+   "Écoute-le le matin, assis, le dos bien droit, comme au début de la séance.",
+   "Avant d’entrer dans la cour des drapeaux, pense à quelqu’un que tu aimes.",
+   "Le chant de gorge Khöömei, dans l’Ambiance minutée, prolonge l’air de la montagne."
+  ],
+  "faq": [
+   [
+    "Faut-il l’écouter au lever du soleil ?",
+    "Ce n’est pas obligatoire, mais le matin s’y prête bien. La séance suit l’arrivée de l’aube, de la nuit bleue jusqu’au plein soleil."
+   ],
+   [
+    "Que raconte le vieux moine ?",
+    "L’histoire d’un voyageur venu avec une seule lampe. Au lever du jour, il te confie aussi une phrase sur la montagne et le soleil."
+   ],
+   [
+    "Faut-il beaucoup de temps le matin ?",
+    "Non, 18 minutes suffisent, du portail dans la nuit jusqu’à la vallée en plein soleil."
+   ]
+  ]
+ },
+ "celestialLibrary": {
+  "pour_qui": "La Bibliothèque Céleste convient aux esprits curieux, qui aiment réfléchir sans effort. Les amoureux des livres s’y sentiront chez eux. Elle accompagne bien une question personnelle, ou un moment où tu veux voir un peu plus loin. Assez courte, elle se glisse facilement dans une soirée calme, au fond d’un fauteuil.",
+  "deroule": "Une grande porte de vieux bois s’ouvre sur une bibliothèque sans fin, éclairée de bougies flottantes. L’air sent le vieux papier, et une horloge ancienne fait tic-tac. Des livres lumineux volent vers leurs lecteurs, sous un plafond d’étoiles. Une bougie te guide en haut d’un escalier en spirale, jusqu’aux livres des mondes disparus. Un livre d’argent t’ouvre un monde à deux lunes. Dans un vieux fauteuil, une salamandre de feu se blottit contre ton bras, et un livre sans mots te montre un avenir possible. En partant, tu reçois une petite clé d’or.",
+  "conseils": [
+   "Avant de commencer, choisis un sujet de ta vie qui te tient à cœur aujourd’hui.",
+   "Si aucune image ne vient, garde simplement la sensation du livre tiède dans tes mains.",
+   "Laisse ta respiration suivre celle de la salamandre, lente et chaude."
+  ],
+  "faq": [
+   [
+    "Le livre doré montre-t-il l’avenir ?",
+    "Non. Il montre un futur possible parmi beaucoup d’autres, à regarder simplement. Parfois aucune image ne vient, et c’est très bien ainsi."
+   ],
+   [
+    "À quoi sert la petite clé d’or ?",
+    "La salamandre te la laisse à la fin : c’est une clé de la bibliothèque. Il te suffira d’y penser pour revenir."
+   ],
+   [
+    "Est-ce une séance courte ?",
+    "Oui, elle dure 14 minutes, de la grande porte jusqu’à la clé d’or."
+   ]
+  ]
+ },
+ "desertOasis": {
+  "pour_qui": "L’Oasis du Désert est pour les soirs où tu veux être seul avec toi-même, sans personne à qui répondre. Elle accueille les émotions sans t’obliger à les nommer. C’est un monde d’immobilité et de réflexion, à écouter après le coucher du soleil, quand la maison devient calme.",
+  "deroule": "Tu marches sur les dunes au coucher du soleil, vers une oasis encore cachée. Un esprit fait de sable doré appelle un chameau blanc, qui te porte sous les premières étoiles. Dans l’oasis, un marché de nuit brille de mille flammes, et un vieux marchand te sert un thé à la menthe. Il t’offre une petite lampe d’où sortent des papillons lumineux. Ils te mènent à un bassin qui reflète les étoiles, puis à un jardin caché sous l’eau. Près d’un petit feu, sous une lune énorme, tu confies une phrase vraie à la nuit.",
+  "conseils": [
+   "Laisse ton souffle prendre le balancement lent du chameau.",
+   "Au bord du bassin, imagine vraiment la fraîcheur de l’eau sur tes pieds.",
+   "Éteins la lumière : presque tout le voyage se passe sous les étoiles."
+  ],
+  "faq": [
+   [
+    "Faut-il parler à voix haute ?",
+    "Non. La voix te propose de confier une phrase vraie à la nuit, en silence si tu veux. Tu peux aussi ne rien dire du tout."
+   ],
+   [
+    "Que trouve-t-on sous le bassin ?",
+    "Un escalier mène à un jardin caché, plein de lotus bleus. Un vieux temple égyptien l’entoure, endormi sous le sable."
+   ],
+   [
+    "Peut-on l’écouter quand on a peu de temps ?",
+    "Oui, elle dure 13 minutes, autant que le Temple Cosmique. Aucun autre monde n’est plus court."
+   ]
+  ]
+ },
+ "treeOfConsciousness": {
+  "pour_qui": "L’Arbre de Conscience accompagne les moments de solitude, quand tu te sens coupé du reste et que tu cherches un lien. Les forêts, les animaux et les très grands arbres te touchent ? Écoute-le le soir, pour finir la journée relié à tout ce qui vit.",
+  "deroule": "Tu traverses une forêt lumineuse, la nuit, jusqu’à une grande clairière. Au centre se dresse un arbre colossal, dont la cime touche les étoiles. Sous ta main, l’écorce bat lentement, comme un souffle. Le gardien de l’arbre, fait de bois et de mousse, te prend la main. La terre devient alors transparente, et tu sens battre toutes les vies qu’elle relie. Tu montes avec lui par un escalier de racines jusqu’aux branches. Un papillon détache une feuille, où tu découvres un petit monde plein de bonté. À la fin, tu te reposes contre le tronc chaud.",
+  "conseils": [
+   "Assieds-toi le dos contre un mur ou un coussin, comme contre le grand tronc.",
+   "À la fin, garde une main posée sur le cœur, là où tu tiens la feuille.",
+   "Choisis un moment sans hâte : la fin laisse plusieurs respirations en silence."
+  ],
+  "faq": [
+   [
+    "Qui est le gardien de l’arbre ?",
+    "Un être grand, fait de bois et de mousse, aux cheveux de feuilles. Il te guide dans l’arbre, puis rentre dans l’écorce."
+   ],
+   [
+    "Que contient la feuille lumineuse ?",
+    "Un petit monde de collines et de cascades, avec une ville de bois et de pétales. Ses habitants veillent les uns sur les autres."
+   ],
+   [
+    "Ce monde est-il long ?",
+    "Il dure 18 minutes, avec un vrai moment de repos contre le tronc avant le retour."
+   ]
+  ]
+ },
+ "jungleRuins": {
+  "pour_qui": "Les Ruines Oubliées conviennent aux explorateurs dans l’âme, à ceux qu’un mystère rend curieux. Si tu aimes les vieilles pierres et les cascades, tu y seras bien. On y ralentit sans s’ennuyer, car chaque passage cache une découverte. Écoute ce monde un après-midi tranquille ou un soir de pluie, pour une aventure calme.",
+  "deroule": "Tu arrives au bord d’une jungle chaude, devant un temple couvert de lianes. La brume s’écarte sur toute une cité endormie sous la forêt. Tu poses au pied d’un mur ce que tu portes, puis tu montes un escalier de mousse. Près d’une cascade, des insectes lumineux forment un petit singe de lumière, ton guide. Une ondine faite d’eau s’assied près de toi, puis tu suis du doigt des spirales gravées. Par un puits, tu descends vers un océan caché et une cité plus ancienne encore. À la fin, tu plantes une graine, et une pluie douce tombe.",
+  "conseils": [
+   "Au début, laisse ton regard intérieur s’habituer à la pénombre verte, sans te presser.",
+   "Quand la voix t’invite à suivre une spirale, trace-la du bout du doigt sur ta paume.",
+   "Pour garder la pluie de la fin, lance l’Ambiance minutée avec Après l’averse."
+  ],
+  "faq": [
+   [
+    "Qui est le petit singe de lumière ?",
+    "Il naît des insectes lumineux qui dansent au-dessus de l’eau. Il te guide dans les ruines, puis redevient une constellation de petites lumières."
+   ],
+   [
+    "Va-t-on sous l’eau ?",
+    "Oui, un moment. Par un puits, tu rejoins un océan souterrain, où tu respires aussi facilement qu’à l’air libre."
+   ],
+   [
+    "Combien de temps faut-il pour explorer les ruines ?",
+    "La séance dure 19 minutes, de l’orée de la jungle jusqu’à la pluie douce de la fin."
+   ]
+  ]
+ },
+ "mushroomForest": {
+  "pour_qui": "La Forêt des Rêves est faite pour ceux qui ont gardé un cœur d’enfant, ou qui aimeraient le retrouver. Fées, papillons et créatures de lumière y vivent en paix. Légèreté, imagination, évasion : voilà ce qu’elle t’offre. Écoute-la un soir ou un dimanche après-midi, simplement pour le plaisir de rêver.",
+  "deroule": "Tu arrives directement dans une forêt de rêve, baignée de violet et de rose. Des champignons géants brillent comme des lanternes, et une petite fée se pose sur ta main. Sur des arbres d’argent poussent de petites galaxies : tu en cueilles une, et un mot monte vers toi. Une rivière de lumière tinte comme des clochettes. Dans une clairière, des milliers de papillons s’envolent, et l’un d’eux te montre une image de toi, heureux. Puis une pieuvre de lumière te soulève au-dessus de la forêt, d’où tu vois des cerfs de cristal et des oiseaux-lanternes.",
+  "conseils": [
+   "Laisse ton esprit redevenir curieux, comme celui d’un enfant : ici, rien ne peut te faire de mal.",
+   "Retiens le mot reçu de la galaxie : tu repartiras avec lui.",
+   "Juste après, le son Féerie, avec l’Ambiance minutée, garde l’atmosphère de conte."
+  ],
+  "faq": [
+   [
+    "Pourquoi l’appelle-t-on la Forêt des Rêves ?",
+    "Parce que tout y est onirique : des champignons qui brillent, des arbres qui portent des galaxies, une rivière faite de lumière. La voix l’annonce dès le début : « Nous entrons dans un rêve »."
+   ],
+   [
+    "La pieuvre géante fait-elle peur ?",
+    "Non, elle est douce, rose et lumineuse. Elle te soulève tranquillement pour te montrer la forêt d’en haut."
+   ],
+   [
+    "Quelle durée pour ce voyage ?",
+    "17 minutes, de la mousse tiède du début jusqu’au retour, le mot de la galaxie en tête."
+   ]
+  ]
+ },
+ "mirrorDimension": {
+  "pour_qui": "La Dimension des Miroirs s’adresse à ceux qui aiment les questions intérieures. Elle convient quand tu veux prendre du recul sur un moment difficile, ou simplement observer ton esprit avec calme. Écoute-la quand rien ne presse, dans un endroit tranquille, pour goûter la clarté et l’immobilité.",
+  "deroule": "Tu flottes sans poids dans une lumière blanche, guidé par une note pure. Des miroirs t’entourent et se reflètent à l’infini. Dans l’un d’eux, ce n’est pas ton reflet qui apparaît, mais ton animal-guide. Il sort du miroir et t’emmène ailleurs. Tu traverses une prairie où la pluie monte vers le ciel, puis tu flottes parmi des bulles qui contiennent de petits mondes. Devant un vieux miroir rond, tu déposes l’image d’un moment difficile, et une perle de lumière te revient. Enfin, face à ton propre visage, tu te demandes qui regarde.",
+  "conseils": [
+   "Ne choisis pas ton animal-guide à l’avance : accueille celui qui apparaît.",
+   "Pour le miroir rond, pense à un souvenir moyen, pas au plus lourd.",
+   "Assieds-toi plutôt que de t’allonger, pour rester présent jusqu’à la dernière question."
+  ],
+  "faq": [
+   [
+    "Et si aucun animal n’apparaît dans le miroir ?",
+    "Laisse venir ce qui vient, sans forcer. La voix cite un cerf, une chouette ou un renard, mais aucun n’est imposé."
+   ],
+   [
+    "Faut-il revivre un moment difficile ?",
+    "Non. Tu le vois tout petit, comme un reflet dans tes mains, puis tu le donnes au miroir. Tu choisis lequel, sans prendre forcément le plus lourd."
+   ],
+   [
+    "Combien de temps dure la traversée des miroirs ?",
+    "15 minutes. Les dernières se passent au centre des miroirs, dans un grand calme."
+   ]
+  ]
+ },
+ "wolfForest": {
+  "pour_qui": "La Forêt des Esprits Loups est pour toi si tu veux te sentir protégé, guidé, plus fort à l’intérieur. Elle plaît aussi à ceux qui aiment les aurores boréales. La nuit, la neige et les animaux sauvages y tiennent la première place. Écoute-la le soir, pour retrouver ton instinct et une force tranquille.",
+  "deroule": "Tu entres de nuit parmi de grands pins couverts de neige. Au-dessus, la lune est immense. Un loup transparent, plein d’étoiles, apparaît sur le sentier : des perce-neige s’allument sous ses pattes. La meute d’esprits loups t’entoure, et le loup du sentier pose son front contre le tien. Puis tu cours avec eux, sans effort, jusqu’à devenir loup toi-même. Sur une colline, la meute chante vers la lune, puis un pont d’aurore boréale t’emporte dans le ciel. Au retour, tu te reposes près d’un feu sacré, avec la force tranquille du loup.",
+  "conseils": [
+   "Baisse la lumière avant de commencer : tout le voyage se passe de nuit.",
+   "Près du feu, pose une main sur ta poitrine : c’est là que la voix t’invite à garder cette force.",
+   "Prolonge la nuit avec l’Ambiance minutée et Grands Bois, une grande forêt du Nord."
+  ],
+  "faq": [
+   [
+    "Les loups sont-ils effrayants ?",
+    "Non. Ce sont des esprits doux, transparents et pleins d’étoiles. Ils veillent sur toi et t’accueillent comme quelqu’un de la famille."
+   ],
+   [
+    "Faut-il vraiment hurler avec la meute ?",
+    "Non, tout se passe dans ton imagination. Tu peux simplement souffler longuement quand la meute chante vers la lune."
+   ],
+   [
+    "Combien de temps court-on avec les loups ?",
+    "Le voyage complet prend 15 minutes, de l’entrée dans la forêt jusqu’au repos près du feu sacré."
+   ]
+  ]
+ }
+}

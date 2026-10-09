@@ -403,7 +403,7 @@
    "faq": [
     [
      "Is this a past life regression?",
-     "Past Lives & Time is an imaginative journey up your family line, to see what you want to keep, set down or pass on. It does not claim to reveal real past lives and makes no therapeutic promise."
+     "Past Lives & Time is an imaginative journey up your family line, to see what you want to keep, set down or pass on. It does not claim to reveal real past lives and promises no particular result."
     ],
     [
      "Why start with Progressive Descent into Trance?",
@@ -467,112 +467,129 @@
  "worlds_index": {
   "slug": "immersive-meditation-worlds",
   "seo": "Immersive Meditation: 17 Guided Visualization Worlds",
-  "desc": "Explore 17 immersive meditation worlds: a mountain temple, a crystal cave, Atlantis, a zen garden, a celestial library. Free, about 20 minutes.",
+  "desc": "Explore 17 immersive meditation worlds: a mountain temple, a crystal cave, Atlantis, a zen garden, a celestial library. Free, 13 to 19 minutes.",
   "h1": "Immersive meditation worlds",
-  "intro": "MeditaDream includes 17 immersive worlds, each one a complete guided visualization of about 20 minutes. Climb to an ancient temple in the mountain mist, drift through a galaxy, sink into the waters of Atlantis, walk the paths of a zen garden or wander a celestial library beneath moving constellations. Every world has its own atmosphere, its own soundscape and its own intention, from grounding and safety to wonder and clarity. Like the rest of the app, the worlds are free, need no account and play offline once downloaded."
+  "intro": "MeditaDream includes 17 immersive worlds, each one a complete guided visualization of 13 to 19 minutes. Climb to an ancient temple in the mountain mist, ride a train of light across the galaxy, sink into the waters of Atlantis, walk the paths of a zen garden or wander a celestial library beneath moving constellations. Every world has its own atmosphere, its own soundscape and its own intention, from grounding and safety to wonder and clarity. Like the rest of the app, the worlds are free, need no account and play offline once downloaded."
  },
  "worlds": {
   "antiqueTemple": {
    "slug": "ancient-temple-guided-visualization",
-   "seo": "Ancient Temple Guided Visualization",
-   "desc": "Climb through mountain mist to a candlelit temple among giant stone Buddhas. An immersive guided meditation of about 22 minutes to feel grounded.",
-   "h1": "The Ancient Temple: an immersive guided meditation"
+   "seo": "Ancient Temple Guided Visualization: Candles and Rain",
+   "desc": "Climb through mountain mist to a candlelit temple among giant stone Buddhas. An immersive guided meditation of 19 minutes to feel grounded.",
+   "h1": "The Ancient Temple: an immersive guided meditation",
+   "lead": "Climb a misty mountain path behind a nine-tailed white fox, all the way to a temple of candlelight and stone Buddhas. There, a masked guardian waits with a small candle, and a red door opens onto a landscape that belongs only to you."
   },
   "cosmicTemple": {
    "slug": "cosmic-temple-guided-meditation",
-   "seo": "Cosmic Temple Guided Meditation",
-   "desc": "Rise to a white marble temple floating among the stars, past rivers of golden light. An immersive guided meditation of about 21 minutes.",
-   "h1": "The Cosmic Temple: an immersive guided meditation"
+   "seo": "Cosmic Temple Guided Meditation with a Celestial Whale",
+   "desc": "Rise to a white marble temple floating among the stars, past rivers of golden light. An immersive guided meditation of 13 minutes.",
+   "h1": "The Cosmic Temple: an immersive guided meditation",
+   "lead": "Ride on the back of a celestial whale to a white marble temple floating among the stars. Inside, you watch a distant world's story begin and a star being born right beneath your feet."
   },
   "crystalCave": {
    "slug": "crystal-cave-guided-visualization",
-   "seo": "Crystal Cave Guided Visualization",
-   "desc": "Descend into a cavern of glowing crystals and mirror-still pools for clarity and renewal. An immersive guided meditation of about 20 minutes.",
-   "h1": "The Infinite Crystal Cave: an immersive guided meditation"
+   "seo": "Crystal Cave Guided Visualization: Light and Clarity",
+   "desc": "Descend into a cavern of glowing crystals and mirror-still pools for clarity and renewal. An immersive guided meditation of 17 minutes.",
+   "h1": "The Infinite Crystal Cave: an immersive guided meditation",
+   "lead": "Slip through a crack in the rock into a cavern of glowing crystals, where a crystal-winged butterfly shows you the way. A singing mermaid, a sleepy little dragon and a tiny glowing city wait deeper inside."
   },
   "galaxy": {
    "slug": "galaxy-guided-meditation",
-   "seo": "Galaxy Guided Meditation: Float Through Space",
-   "desc": "Drift weightless among galaxies, nebulae and rivers of starlight, and let go of what you carry. An immersive guided meditation of about 21 minutes.",
-   "h1": "Journey Through the Galaxy: an immersive guided meditation"
+   "seo": "Galaxy Guided Meditation: A Train of Light to the Stars",
+   "desc": "Board a silent train of light past Saturn's icy rings, shooting stars and a night market. A free 19-minute guided meditation that works offline.",
+   "h1": "Journey Through the Galaxy: an immersive guided meditation",
+   "lead": "Climb aboard a silent train of light and travel through Saturn's icy rings, a shower of shooting stars and a night market on an asteroid. A guide rides beside you, out to the far edge of the galaxy."
   },
   "earthCore": {
    "slug": "grounding-earth-guided-visualization",
    "seo": "Grounding Meditation: Journey to the Earth's Core",
-   "desc": "Descend through crystal caverns and rivers of warm light to the heart of the planet. An immersive grounding meditation of about 19 minutes.",
-   "h1": "The Heart of the Earth: an immersive grounding meditation"
+   "desc": "Descend through crystal caverns and rivers of warm light to the heart of the planet. An immersive grounding meditation of 15 minutes.",
+   "h1": "The Heart of the Earth: an immersive grounding meditation",
+   "lead": "Follow warm rivers of light deep underground, into a hollow land with a gentle sun of its own. There, among giant ferns and glowing flowers, an amber egg is waiting to hatch in your hands."
   },
   "antarcticBase": {
    "slug": "frozen-sanctuary-guided-meditation",
-   "seo": "Frozen Sanctuary: Silent Guided Meditation",
-   "desc": "Enter a silent chamber beneath the Antarctic ice, with glowing crystal cores and deep stillness. An immersive guided meditation of about 20 minutes.",
-   "h1": "The Frozen Sanctuary: an immersive guided meditation"
+   "seo": "Frozen Sanctuary: Silent Guided Meditation Under the Ice",
+   "desc": "Follow a glowing polar fox beneath the Antarctic ice to a crystal heart, frost flowers and the aurora. A free 15-minute guided meditation, offline.",
+   "h1": "The Frozen Sanctuary: an immersive guided meditation",
+   "lead": "Sink through ancient layers of ice to a sanctuary older than memory, where a glowing polar fox shows you the way. Frost flowers, a beating crystal heart and an aurora await, before you step out under the open polar sky."
   },
   "skyIsland": {
    "slug": "floating-island-guided-visualization",
-   "seo": "Floating Island Guided Visualization",
+   "seo": "Floating Island Guided Visualization Above the Clouds",
    "desc": "Rest on your own island above the clouds, with floating waterfalls, an ancient tree and a warm sunset. An immersive guided meditation of 19 minutes.",
-   "h1": "The Floating Island: an immersive guided meditation"
+   "h1": "The Floating Island: an immersive guided meditation",
+   "lead": "Cross a bridge of clouds to a green island that is yours alone, high above the world. Ride a great white bird, meet the winged stag who guards it, and send a shining seed into the night to start a tiny island."
   },
   "zenGarden": {
    "slug": "zen-garden-guided-meditation",
-   "seo": "Zen Garden Guided Meditation",
-   "desc": "Walk slow stone paths under cherry blossoms, past koi ponds and raked sand, in perfect calm. An immersive guided meditation of about 21 minutes.",
-   "h1": "The Zen Garden: an immersive guided meditation"
+   "seo": "Zen Garden Guided Meditation: Koi, Tea and Cherry Blossoms",
+   "desc": "Walk slow stone paths under cherry blossoms, past koi ponds and raked sand, in perfect calm. An immersive guided meditation of 18 minutes.",
+   "h1": "The Zen Garden: an immersive guided meditation",
+   "lead": "Enter a quiet Japanese garden still fresh from the rain, where a cherry tree bursts into bloom and koi glide under a wooden bridge. An old gardener shares his tea, and stone lanterns light your way back at dusk."
   },
   "atlantis": {
    "slug": "atlantis-underwater-guided-meditation",
-   "seo": "Underwater Atlantis Guided Meditation",
-   "desc": "Sink into warm, glowing waters to a lost city of temples and coral, and move with the slow currents. An immersive meditation of about 19 minutes.",
-   "h1": "Underwater Atlantis: an immersive guided meditation"
+   "seo": "Underwater Atlantis Guided Meditation: Ride a Seahorse",
+   "desc": "Breathe underwater and ride a golden seahorse through a lost city of coral and pale temples. A free 17-minute guided meditation that works offline.",
+   "h1": "Underwater Atlantis: an immersive guided meditation",
+   "lead": "Sink gently into a warm sea, breathe freely underwater and ride a golden seahorse through a lost city of coral towers. Kind hosts welcome you, and a pearl keeps one of your memories as the whole city lights up."
   },
   "himalayanMonastery": {
    "slug": "himalayan-monastery-sunrise-meditation",
-   "seo": "Himalayan Monastery Sunrise Meditation",
-   "desc": "Stand among snowy peaks as the first golden light breaks and prayer flags move in the wind. An immersive guided meditation of about 21 minutes.",
-   "h1": "Monastery at Sunrise: an immersive guided meditation"
+   "seo": "Himalayan Monastery Sunrise Meditation with Prayer Flags",
+   "desc": "Stand among snowy peaks as the first golden light breaks and prayer flags move in the wind. An immersive guided meditation of 18 minutes.",
+   "h1": "Monastery at Sunrise: an immersive guided meditation",
+   "lead": "Arrive at a mountain monastery before dawn, where an old monk lights the way with a butter lamp. Turn a prayer wheel, drink his tea on the balcony, then watch the sun rise over snowy peaks."
   },
   "celestialLibrary": {
    "slug": "celestial-library-guided-meditation",
-   "seo": "Celestial Library Guided Meditation",
-   "desc": "Wander an endless library of glowing books and spiral staircases beneath moving constellations. An immersive guided meditation of 20 minutes.",
-   "h1": "The Celestial Library: an immersive guided meditation"
+   "seo": "Celestial Library Guided Meditation Beneath the Stars",
+   "desc": "Wander an endless library of glowing books and spiral staircases beneath moving constellations. An immersive guided meditation of 13 minutes.",
+   "h1": "The Celestial Library: an immersive guided meditation",
+   "lead": "Step through a great wooden door into an endless library lit by floating candles, where books glide down to any reader who raises a hand. A salamander of golden light keeps you company as two books open for you."
   },
   "desertOasis": {
    "slug": "desert-oasis-guided-visualization",
-   "seo": "Desert Oasis Guided Visualization",
-   "desc": "Sit by glowing water under an immense moon and a sky full of stars, in stillness and solitude. An immersive guided meditation of about 19 minutes.",
-   "h1": "The Desert Oasis: an immersive guided meditation"
+   "seo": "Desert Oasis Guided Visualization by Moonlight",
+   "desc": "Sit by glowing water under an immense moon and a sky full of stars, in stillness and solitude. An immersive guided meditation of 13 minutes.",
+   "h1": "The Desert Oasis: an immersive guided meditation",
+   "lead": "Walk the dunes at sunset, then ride a white camel beside a spirit of golden sand. At the oasis, a night market, a lamp full of butterflies and a garden hidden beneath the pool are waiting for you."
   },
   "treeOfConsciousness": {
    "slug": "tree-of-life-guided-meditation",
-   "seo": "Tree of Life Guided Meditation",
+   "seo": "Tree of Life Guided Meditation in a Glowing Night Forest",
    "desc": "Sit among the roots of a vast glowing tree whose branches hold the stars, and feel connected to all of life. An immersive meditation of 18 minutes.",
-   "h1": "The Tree of Consciousness: an immersive guided meditation"
+   "h1": "The Tree of Consciousness: an immersive guided meditation",
+   "lead": "Wander a forest that glows in the dark until you reach a vast tree joining the earth and the stars. Its guardian of wood and moss lets you feel every life beating, then a single leaf opens onto a gentle little world."
   },
   "jungleRuins": {
    "slug": "jungle-ruins-guided-visualization",
-   "seo": "Jungle Ruins Guided Visualization",
-   "desc": "Explore an overgrown temple in the jungle, where waterfalls pour through old stone and symbols glow. An immersive guided meditation of 21 minutes.",
-   "h1": "The Forgotten Ruins: an immersive guided meditation"
+   "seo": "Jungle Ruins Guided Visualization of a Lost City",
+   "desc": "Explore an overgrown temple in the jungle, where waterfalls pour through old stone and symbols glow. An immersive guided meditation of 18 minutes.",
+   "h1": "The Forgotten Ruins: an immersive guided meditation",
+   "lead": "Watch the mist lift from a city lost beneath the jungle, then follow a little monkey of light through its ruins. You dive to an older city under the water and see a tree spring from the seed you plant."
   },
   "mushroomForest": {
    "slug": "enchanted-forest-guided-meditation",
-   "seo": "Enchanted Forest Guided Meditation",
-   "desc": "Wander a soft, glowing forest of giant mushrooms, drifting spores and rivers of light. A dreamlike immersive guided meditation of about 20 minutes.",
-   "h1": "The Dream Forest: an immersive guided meditation"
+   "seo": "Enchanted Forest Guided Meditation with Glowing Mushrooms",
+   "desc": "Wander a soft, glowing forest of giant mushrooms, drifting spores and rivers of light. A dreamlike immersive guided meditation of 17 minutes.",
+   "h1": "The Dream Forest: an immersive guided meditation",
+   "lead": "Find yourself inside a dream, in a forest of giant mushrooms that glow like blue lamps. Pick a tiny galaxy from a silver tree, follow butterflies of light and float above it all on a gentle octopus."
   },
   "mirrorDimension": {
    "slug": "mirror-dimension-guided-meditation",
    "seo": "Mirror Dimension: Guided Awareness Meditation",
-   "desc": "Float in a luminous space of endless mirrors and soft white light, and rest as the calm witness. An immersive guided meditation of about 20 minutes.",
-   "h1": "The Mirror Dimension: an immersive guided meditation"
+   "desc": "Float in a luminous space of endless mirrors and soft white light, and rest as the calm witness. An immersive guided meditation of 16 minutes.",
+   "h1": "The Mirror Dimension: an immersive guided meditation",
+   "lead": "Drift weightless through white light and countless mirrors, until one of them shows an animal guide instead of your face. Together you pass through small dreamlike worlds, then come back to the quiet awareness behind every reflection."
   },
   "wolfForest": {
    "slug": "wolf-spirit-guided-meditation",
-   "seo": "Wolf Spirit Guided Meditation",
-   "desc": "Walk a snowy pine forest under the northern lights, watched over by gentle wolf spirits. An immersive guided meditation of about 20 minutes.",
-   "h1": "The Wolf Spirit Forest: an immersive guided meditation"
+   "seo": "Wolf Spirit Guided Meditation Under the Northern Lights",
+   "desc": "Walk a snowy pine forest under the northern lights, watched over by gentle wolf spirits. An immersive guided meditation of 15 minutes.",
+   "h1": "The Wolf Spirit Forest: an immersive guided meditation",
+   "lead": "Step into a moonlit pine forest where a wolf made of stars leads you to its pack. Run with them until you become a wolf yourself, howl at an enormous moon and cross a bridge of northern lights."
   }
  },
  "teams": {

@@ -8,12 +8,12 @@
   var ADS = A('ads', '0') === '1', KEY = 'consent_mesure_v1', DUREE = 395 * 864e5;
   var lang = (document.documentElement.lang || 'fr').slice(0, 2).toLowerCase();
   var TXT = {
-    fr: {t: 'Mesure d’audience', p: ADS ? 'Avec votre accord, nous utilisons Google Analytics et Google Ads pour savoir quelles pages vous intéressent et mesurer l’efficacité de nos campagnes. Aucune revente de données.' : 'Avec votre accord, nous utilisons Google Analytics pour savoir quelles pages sont lues et améliorer le site. Aucune publicité, aucune revente de données.',
-         d: 'Votre choix est gardé 13 mois et modifiable à tout moment via « Cookies » en bas de page.', plus: 'En savoir plus', non: 'Refuser', oui: 'Accepter', lien: 'Cookies'},
+    fr: {t: 'Mesure d’audience', p: ADS ? 'Avec ton accord, nous utilisons Google Analytics et Google Ads pour savoir quelles pages t’intéressent et mesurer l’efficacité de nos campagnes. Aucune revente de données.' : 'Avec ton accord, nous utilisons Google Analytics pour savoir quelles pages sont lues et améliorer le site. Aucune publicité, aucune revente de données.',
+         d: 'Ton choix est gardé 13 mois et modifiable à tout moment via « Cookies » en bas de page.', plus: 'En savoir plus sur les cookies', non: 'Refuser', oui: 'Accepter', lien: 'Cookies'},
     en: {t: 'Audience measurement', p: ADS ? 'With your consent, we use Google Analytics and Google Ads to learn which pages interest you and measure our campaigns. Your data is never sold.' : 'With your consent, we use Google Analytics to learn which pages are read and improve the site. No ads, your data is never sold.',
-         d: 'Your choice is kept for 13 months and can be changed anytime via “Cookies” at the bottom of the page.', plus: 'Learn more', non: 'Decline', oui: 'Accept', lien: 'Cookies'},
+         d: 'Your choice is kept for 13 months and can be changed anytime via “Cookies” at the bottom of the page.', plus: 'Learn more about cookies', non: 'Decline', oui: 'Accept', lien: 'Cookies'},
     es: {t: 'Medición de audiencia', p: ADS ? 'Con tu permiso, usamos Google Analytics y Google Ads para saber qué páginas te interesan y medir nuestras campañas. Nunca vendemos tus datos.' : 'Con tu permiso, usamos Google Analytics para saber qué páginas se leen y mejorar el sitio. Sin publicidad, nunca vendemos tus datos.',
-         d: 'Tu elección se guarda 13 meses y puedes cambiarla cuando quieras en «Cookies», al pie de la página.', plus: 'Saber más', non: 'Rechazar', oui: 'Aceptar', lien: 'Cookies'}
+         d: 'Tu elección se guarda 13 meses y puedes cambiarla cuando quieras en «Cookies», al pie de la página.', plus: 'Saber más sobre las cookies', non: 'Rechazar', oui: 'Aceptar', lien: 'Cookies'}
   };
   var T = TXT[lang] || TXT.en;
   function g() { if (window.gtag) window.gtag.apply(null, arguments); }

@@ -467,112 +467,129 @@
  "worlds_index": {
   "slug": "meditacion-inmersiva-mundos",
   "seo": "Meditación inmersiva: 17 mundos para explorar",
-  "desc": "17 meditaciones inmersivas de unos 20 minutos: templos, galaxias, la Atlántida, un jardín zen o un bosque de lobos. Gratis, sin anuncios y sin conexión.",
+  "desc": "17 meditaciones inmersivas de 13 a 19 minutos: templos, galaxias, la Atlántida, un jardín zen o un bosque de lobos. Gratis, sin anuncios y sin conexión.",
   "h1": "Meditaciones inmersivas: 17 mundos para explorar",
-  "intro": "Los mundos inmersivos son viajes guiados de unos veinte minutos a lugares imaginarios, cada uno con su propio ambiente sonoro y su propia atmósfera. Puedes subir a un templo antiguo entre montañas brumosas, flotar a través de una galaxia, descender a una gruta de cristal o al corazón de la Tierra, hundirte en la Atlántida o caminar por un bosque nevado guardado por espíritus lobo. Elige según lo que buscas hoy: arraigo, calma, asombro, introspección o protección. Como el resto de la app, los diecisiete mundos son gratuitos y funcionan sin conexión una vez descargados."
+  "intro": "Los mundos inmersivos son viajes guiados de 13 a 19 minutos a lugares imaginarios, cada uno con su propio ambiente sonoro y su propia atmósfera. Puedes subir a un templo antiguo entre montañas brumosas, cruzar la galaxia en un tren de luz, descender a una gruta de cristal o al corazón de la Tierra, hundirte en la Atlántida o caminar por un bosque nevado guardado por espíritus lobo. Elige según lo que buscas hoy: arraigo, calma, asombro, introspección o protección. Como el resto de la app, los diecisiete mundos son gratuitos y funcionan sin conexión una vez descargados."
  },
  "worlds": {
   "antiqueTemple": {
    "slug": "meditacion-inmersiva-templo-antiguo",
-   "seo": "Meditación inmersiva en un templo antiguo",
-   "desc": "Sube entre la lluvia y la niebla hasta un templo iluminado por velas y medita entre budas gigantes. Meditación inmersiva de 22 minutos, gratis.",
-   "h1": "El templo antiguo: meditación inmersiva"
+   "seo": "Meditación inmersiva en un templo antiguo, en español",
+   "desc": "Sube entre la lluvia y la niebla hasta un templo iluminado por velas y medita entre budas gigantes. Meditación inmersiva de 19 minutos, gratis.",
+   "h1": "El templo antiguo: meditación inmersiva",
+   "lead": "Bajo la lluvia, una zorra de leyenda con nueve colas te guía hasta un templo escondido en la montaña. Dentro te esperan velas que flotan, un guardián de mil años y una pequeña puerta roja que da a tu propio paisaje interior."
   },
   "cosmicTemple": {
    "slug": "meditacion-inmersiva-templo-cosmico",
-   "seo": "Meditación inmersiva en un templo cósmico",
-   "desc": "Elévate hacia un templo de mármol blanco suspendido entre las estrellas, por escaleras flotantes y ríos de luz dorada. Meditación inmersiva de 21 minutos.",
-   "h1": "El templo cósmico: meditación inmersiva"
+   "seo": "Meditación inmersiva en un templo cósmico entre estrellas",
+   "desc": "Una ballena celeste te lleva hasta un templo de mármol que flota entre las estrellas, donde ves nacer una estrella. Meditación de 13 minutos, gratis.",
+   "h1": "El templo cósmico: meditación inmersiva",
+   "lead": "A lomos de una ballena cubierta de estrellas, llegas a un templo de mármol suspendido en pleno cosmos. Allí, un reloj de oro te hace viajar millones de años, y bajo tus pies ves nacer una estrella."
   },
   "crystalCave": {
    "slug": "meditacion-inmersiva-gruta-de-cristal",
-   "seo": "Meditación inmersiva en una gruta de cristal",
-   "desc": "Desciende a una caverna de cristales luminosos y estanques quietos como espejos, y deja que su resonancia te atraviese. Meditación inmersiva de 20 minutos.",
-   "h1": "La gruta de cristal infinita: meditación inmersiva"
+   "seo": "Meditación inmersiva en una gruta de cristal luminosa",
+   "desc": "Desciende a una caverna de cristales luminosos y estanques quietos como espejos, y deja que su resonancia te atraviese. Meditación inmersiva de 16 minutos.",
+   "h1": "La gruta de cristal infinita: meditación inmersiva",
+   "lead": "Tras cruzar la roca con una exhalación, entras en una cueva de cristales gigantes donde te esperan una mariposa de cristal y una sirena. Luego, un pequeño dragón te acompaña hasta una ciudad en miniatura donde todos cantan contigo."
   },
   "galaxy": {
    "slug": "meditacion-guiada-viaje-por-la-galaxia",
    "seo": "Meditación guiada: viaje a través de la galaxia",
-   "desc": "Flota ingrávido entre galaxias, nebulosas luminosas y ríos de luz estelar para soltar lo que cargas. Meditación inmersiva de 21 minutos, gratis.",
-   "h1": "Viaje a través de la galaxia: meditación inmersiva"
+   "desc": "Sube a un tren de luz y cruza la galaxia: los anillos de Saturno, estrellas fugaces y un mercado en un asteroide. Meditación de 19 minutos, gratis.",
+   "h1": "Viaje a través de la galaxia: meditación inmersiva",
+   "lead": "Un tren de luz cruza contigo la galaxia: los anillos de Saturno, cientos de estrellas fugaces y un mercado nocturno en un asteroide. Muy lejos de casa, dejas ir lo que pesa."
   },
   "earthCore": {
    "slug": "meditacion-arraigo-corazon-de-la-tierra",
    "seo": "Meditación de arraigo: el corazón de la Tierra",
-   "desc": "Desciende por cavernas de cristal y ríos de luz cálida hasta el corazón del planeta para sentirte arraigado. Meditación inmersiva de 20 minutos, gratis.",
-   "h1": "El Corazón de la Tierra: meditación de arraigo"
+   "desc": "Desciende por cavernas de cristal y ríos de luz cálida hasta el corazón del planeta para sentirte arraigado. Meditación inmersiva de 15 minutos, gratis.",
+   "h1": "El Corazón de la Tierra: meditación de arraigo",
+   "lead": "Bajo la roca se esconde un mundo hueco, iluminado por un sol interior de color miel. Entre helechos gigantes, un huevo de ámbar late con la Tierra hasta que nace un pequeño dragón."
   },
   "antarcticBase": {
    "slug": "meditacion-inmersiva-santuario-helado",
-   "seo": "Meditación inmersiva bajo el hielo antártico",
-   "desc": "Entra en una cámara de meditación silenciosa bajo el hielo polar, entre núcleos de cristal y luz holográfica. Meditación inmersiva de 20 minutos, gratis.",
-   "h1": "El santuario helado: meditación inmersiva"
+   "seo": "Meditación inmersiva bajo el hielo de la Antártida",
+   "desc": "Desciende bajo el hielo antártico y sigue a un zorro polar luminoso hasta un corazón de cristal que late. Meditación inmersiva de 15 minutos, gratis.",
+   "h1": "El santuario helado: meditación inmersiva",
+   "lead": "Bajo kilómetros de hielo, un zorro polar luminoso te guía hasta un santuario que nadie ha pisado en miles de años. Allí late un corazón de cristal, y un libro helado te muestra la ciudad de quienes lo construyeron."
   },
   "skyIsland": {
    "slug": "meditacion-inmersiva-isla-flotante",
-   "seo": "Meditación inmersiva en una isla flotante",
+   "seo": "Meditación inmersiva en una isla flotante sobre las nubes",
    "desc": "Un santuario privado sobre las nubes, con cascadas flotantes, un árbol milenario y un cálido atardecer. Meditación inmersiva de 19 minutos, gratis.",
-   "h1": "La isla flotante: meditación inmersiva"
+   "h1": "La isla flotante: meditación inmersiva",
+   "lead": "Cruza un puente de nubes hasta tu propia isla, suspendida sobre el mundo al atardecer. Volarás con un gran pájaro y un ciervo alado te dará una semilla para hacer nacer otra isla."
   },
   "zenGarden": {
    "slug": "meditacion-guiada-jardin-zen",
-   "seo": "Meditación guiada en un jardín zen japonés",
-   "desc": "Pasea por senderos de piedra bajo cerezos en flor, junto a estanques de carpas y arena rastrillada. Meditación inmersiva de 22 minutos, gratis.",
-   "h1": "El jardín zen: meditación inmersiva"
+   "seo": "Meditación guiada en un jardín zen japonés, en español",
+   "desc": "Pasea por senderos de piedra bajo cerezos en flor, junto a estanques de carpas y arena rastrillada. Meditación inmersiva de 18 minutos, gratis.",
+   "h1": "El jardín zen: meditación inmersiva",
+   "lead": "Tras la lluvia, un jardín japonés se abre para ti: un cerezo florece de golpe y las carpas suben a comer tu arroz. Más tarde, el té de un viejo jardinero deja escapar un vapor con forma de dragón."
   },
   "atlantis": {
    "slug": "meditacion-inmersiva-atlantida",
    "seo": "Meditación inmersiva en la Atlántida sumergida",
-   "desc": "Húndete despacio en aguas cálidas hasta una ciudad perdida de templos y coral, llevado por corrientes lentas. Meditación inmersiva de 19 minutos, gratis.",
-   "h1": "La Atlántida sumergida: meditación inmersiva"
+   "desc": "Respira bajo el mar y recorre una ciudad antigua a lomos de un caballito de mar dorado, entre templos y medusas. Meditación de 18 minutos, gratis.",
+   "h1": "La Atlántida sumergida: meditación inmersiva",
+   "lead": "Descubre que puedes respirar bajo el mar y deja que un gran caballito de mar dorado te pasee por una ciudad antigua. Una perla guarda uno de tus recuerdos y, cuando cae la noche, la ciudad entera se enciende como un cielo de estrellas."
   },
   "himalayanMonastery": {
    "slug": "meditacion-monasterio-al-amanecer",
    "seo": "Meditación al amanecer en un monasterio de montaña",
-   "desc": "Entre cumbres nevadas y banderas de oración, recibe la primera luz dorada del día en un monasterio. Meditación inmersiva de 21 minutos, gratis.",
-   "h1": "El monasterio al amanecer: meditación inmersiva"
+   "desc": "Entre cumbres nevadas y banderas de oración, recibe la primera luz dorada del día en un monasterio. Meditación inmersiva de 18 minutos, gratis.",
+   "h1": "El monasterio al amanecer: meditación inmersiva",
+   "lead": "Todavía es de noche cuando un viejo monje te abre la puerta de su monasterio, en lo alto de la montaña. Con él haces girar las ruedas de oración, tomas té en un balcón y ves cómo el alba enciende las cumbres."
   },
   "celestialLibrary": {
    "slug": "meditacion-inmersiva-biblioteca-celeste",
    "seo": "Meditación inmersiva en una biblioteca celeste",
-   "desc": "Recorre una biblioteca sin fin de libros luminosos y escaleras de caracol bajo constelaciones en movimiento. Meditación inmersiva de 20 minutos, gratis.",
-   "h1": "La biblioteca celeste: meditación inmersiva"
+   "desc": "Recorre una biblioteca sin fin de libros luminosos y escaleras de caracol bajo constelaciones en movimiento. Meditación inmersiva de 13 minutos, gratis.",
+   "h1": "La biblioteca celeste: meditación inmersiva",
+   "lead": "Una gran puerta se abre a una biblioteca suspendida fuera del mundo, donde cada libro vuela hasta su lector sin equivocarse. Una salamandra de fuego te acompaña, y un libro dorado te deja asomarte a un futuro posible."
   },
   "desertOasis": {
    "slug": "meditacion-inmersiva-oasis-del-desierto",
    "seo": "Meditación inmersiva en un oasis del desierto",
-   "desc": "Siéntate junto a un agua luminosa bajo una luna inmensa y un cielo lleno de estrellas, en quietud y soledad. Meditación inmersiva de 20 minutos, gratis.",
-   "h1": "El oasis del desierto: meditación inmersiva"
+   "desc": "Siéntate junto a un agua luminosa bajo una luna inmensa y un cielo lleno de estrellas, en quietud y soledad. Meditación inmersiva de 13 minutos, gratis.",
+   "h1": "El oasis del desierto: meditación inmersiva",
+   "lead": "Al caer la noche, un camello blanco te lleva entre las dunas hasta un oasis escondido. Allí te esperan un té de menta, una lámpara llena de mariposas de luz y un jardín secreto bajo el agua del estanque."
   },
   "treeOfConsciousness": {
    "slug": "meditacion-arbol-de-la-conciencia",
-   "seo": "Meditación guiada: el árbol de la conciencia",
+   "seo": "Meditación guiada: el árbol de la conciencia, gratis",
    "desc": "Siéntate entre las raíces de un árbol colosal y luminoso, unido a todo lo que vive, para sentir la conexión. Meditación inmersiva de 18 minutos, gratis.",
-   "h1": "El árbol de la conciencia: meditación inmersiva"
+   "h1": "El árbol de la conciencia: meditación inmersiva",
+   "lead": "De noche, en el corazón de un bosque que brilla, un árbol inmenso late bajo tu mano. Su guardián de musgo te muestra raíces que llegan a cada ser vivo, y una hoja guarda un mundo donde todos se cuidan."
   },
   "jungleRuins": {
    "slug": "meditacion-inmersiva-ruinas-en-la-selva",
-   "seo": "Meditación inmersiva en ruinas de la selva",
-   "desc": "Explora un templo cubierto de vegetación en lo hondo de la selva, entre cascadas y símbolos luminosos. Meditación inmersiva de 21 minutos, gratis.",
-   "h1": "Las ruinas olvidadas: meditación inmersiva"
+   "seo": "Meditación inmersiva en ruinas ocultas de la selva",
+   "desc": "Explora un templo cubierto de vegetación en lo hondo de la selva, entre cascadas y símbolos luminosos. Meditación inmersiva de 18 minutos, gratis.",
+   "h1": "Las ruinas olvidadas: meditación inmersiva",
+   "lead": "Detrás de la bruma duerme una ciudad perdida bajo la selva. Un monito de luz te guía hasta una ondina y un océano escondido, y al final plantas un árbol que cubre sus ruinas."
   },
   "mushroomForest": {
    "slug": "meditacion-inmersiva-bosque-de-los-suenos",
    "seo": "Meditación inmersiva: el bosque de los sueños",
-   "desc": "Vaga por un bosque luminoso de setas gigantes, esporas a la deriva y ríos de luz, una escapada hacia el asombro. Meditación inmersiva de 20 minutos.",
-   "h1": "El bosque de los sueños: meditación inmersiva"
+   "desc": "Entra en un bosque soñado de hongos gigantes y un río de luz, con un hada, mariposas y un pulpo luminoso. Meditación inmersiva de 16 minutos, gratis.",
+   "h1": "El bosque de los sueños: meditación inmersiva",
+   "lead": "Entra en un sueño violeta y rosa, entre hongos gigantes que brillan como farolillos. Un hada aterriza en tu mano, una galaxia te regala una palabra y un pulpo de luz te pasea por encima del bosque."
   },
   "mirrorDimension": {
    "slug": "meditacion-inmersiva-dimension-de-espejos",
    "seo": "Meditación inmersiva en la dimensión de los espejos",
-   "desc": "Flota en un espacio quieto de espejos infinitos y suave luz blanca, una meditación sobre la conciencia misma. Meditación inmersiva de 20 minutos, gratis.",
-   "h1": "La dimensión de los espejos: meditación inmersiva"
+   "desc": "Flota en un espacio quieto de espejos infinitos y suave luz blanca, una meditación sobre la conciencia misma. Meditación inmersiva de 16 minutos, gratis.",
+   "h1": "La dimensión de los espejos: meditación inmersiva",
+   "lead": "Flota en una luz blanca donde los espejos se multiplican sin fin. Un animal guía sale de uno de ellos y te lleva por mundos imposibles, hasta un espejo antiguo que guarda lo que sueltas."
   },
   "wolfForest": {
    "slug": "meditacion-inmersiva-espiritus-lobo",
-   "seo": "Meditación inmersiva con espíritus lobo",
-   "desc": "Camina por un pinar nevado bajo las auroras boreales, acompañado por dulces espíritus lobo. Meditación inmersiva de 20 minutos sobre protección e instinto.",
-   "h1": "El bosque de los espíritus lobo: meditación inmersiva"
+   "seo": "Meditación inmersiva con espíritus lobo en la nieve",
+   "desc": "Camina por un pinar nevado bajo una luna gigantesca y corre con una manada de espíritus lobo hasta un puente de aurora. Meditación de 15 minutos, gratis.",
+   "h1": "El bosque de los espíritus lobo: meditación inmersiva",
+   "lead": "Bajo una luna gigantesca, un lobo transparente donde giran estrellas abre para ti un camino en el bosque nevado. Con su manada corres sin esfuerzo y, después de aullar a la luna, subes por un puente de aurora hasta un planeta lejano."
   }
  },
  "teams": {
