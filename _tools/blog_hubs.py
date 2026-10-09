@@ -219,7 +219,7 @@ def render(bb, lang, g, act, by):
              {'@type': 'ListItem', 'position': i + 1, 'url': f"{BASE}/{lang}/blog/{x['slug']}.html", 'name': x['title']}
              for i, (_, _, x) in enumerate(arts)]}},
         {'@type': 'BreadcrumbList', 'itemListElement': [
-            {'@type': 'ListItem', 'position': 1, 'name': 'Awakening Minds', 'item': f'{BASE}/{lang}/'},
+            {'@type': 'ListItem', 'position': 1, 'name': 'MeditaDream', 'item': f'{BASE}/{lang}/'},
             {'@type': 'ListItem', 'position': 2, 'name': L['blog'], 'item': f'{BASE}/{lang}/blog/'},
             {'@type': 'ListItem', 'position': 3, 'name': H['h1']}]}]}
     ld_tag = '<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False).replace('<', '\\u003c') + '</script>'
@@ -228,7 +228,7 @@ def render(bb, lang, g, act, by):
     h = bb.head(lang, H['seo'], H['desc'], path_of, path_of(lang), img, ld_tag, img_alt=H['h1'], og_type='website',
                 langs=langs if langs != ['fr', 'en', 'es'] else None)
     h += bb.header_html(lang, lambda x: f'../../{x}/blog/{HUBS[x][g]["slug"]}.html' if x in langs else f'../../{x}/blog/')
-    h += (f'<main class="wrap"><nav class="crumbs"><a href="../">Awakening Minds</a><span>›</span>'
+    h += (f'<main class="wrap"><nav class="crumbs"><a href="../">MeditaDream</a><span>›</span>'
           f'<a href="./">{E(L["blog"])}</a></nav><h1>{E(H["h1"])}</h1>'
           f'<p class="lead">{E(H["intro"])}</p><p class="meta">{len(arts)} {E(L["n"])}</p><ul class="alist">')
     for _, _, x in arts:

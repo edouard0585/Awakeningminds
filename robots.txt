@@ -3,5 +3,5 @@ Allow: /
 Disallow: /_queue/
 Disallow: /_tools/
 
-Sitemap: https://awakeningminds.app/sitemap.xml
-Sitemap: https://awakeningminds.app/sitemap-blog.xml
+Sitemap: https://meditadream.com/sitemap.xml
+Sitemap: https://meditadream.com/sitemap-blog.xml

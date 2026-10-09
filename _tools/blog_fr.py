@@ -219,11 +219,11 @@ def render_article(bb, a0, arts, lang='fr'):
          'datePublished': a['published'], 'dateModified': a.get('modified', a['published']), 'inLanguage': lang,
          'keywords': a.get('kw', ''), 'articleSection': GL.get(a['group'], 'Meditation'),
          'mainEntityOfPage': BASE + url, 'wordCount': bb.words(body),
-         'author': {'@type': 'Organization', 'name': 'Awakening Minds', 'url': BASE + '/'},
-         'publisher': {'@type': 'Organization', 'name': 'Awakening Minds',
+         'author': {'@type': 'Organization', 'name': 'MeditaDream', 'url': BASE + '/'},
+         'publisher': {'@type': 'Organization', 'name': 'MeditaDream',
                        'logo': {'@type': 'ImageObject', 'url': f'{BASE}/assets/brand/logo.png'}}},
         {'@type': 'BreadcrumbList', 'itemListElement': [
-            {'@type': 'ListItem', 'position': 1, 'name': 'Awakening Minds', 'item': f'{BASE}/{lang}/'},
+            {'@type': 'ListItem', 'position': 1, 'name': 'MeditaDream', 'item': f'{BASE}/{lang}/'},
             {'@type': 'ListItem', 'position': 2, 'name': t['blog'], 'item': f'{BASE}/{lang}/blog/'},
             {'@type': 'ListItem', 'position': 3, 'name': a['seo_title']}]},
     ] + ([{'@type': 'FAQPage', 'mainEntity': [
@@ -237,7 +237,7 @@ def render_article(bb, a0, arts, lang='fr'):
     import blog_hubs as hubs
     hl = hubs.group_link(lang, a['group'], getattr(bb, 'HUB_ACT', {}))
     h += bb.PROGRESS_JS
-    h += (f'<main class="wrap post-main"><article class="post"><div class="post-head"><nav class="crumbs"><a href="../">Awakening Minds</a>'
+    h += (f'<main class="wrap post-main"><article class="post"><div class="post-head"><nav class="crumbs"><a href="../">MeditaDream</a>'
           f'<span>›</span><a href="./">{E(t["blog"])}</a>'
           + (f'<span>›</span><a href="{hl}">{E(hubs.HUBS[lang][a["group"]]["h1"])}</a>' if hl else '')
           + '</nav>'

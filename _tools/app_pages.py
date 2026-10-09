@@ -25,29 +25,29 @@ CAT_GROUP = {'learningBasics': 'bases', 'fourMin': 'bases', 'calm': 'sommeil', '
              'thirdEye': 'energie', 'cosmic': 'astral', 'trance': 'transe', 'tranceTechniques': 'transe',
              'astralMicroDetach': 'astral', 'astralJourneys': 'astral'}
 L = {
- 'fr': dict(home='Awakening Minds', med='Méditations', worlds='Mondes immersifs', blog='Blog', sessions='séances', min='min',
+ 'fr': dict(home='MeditaDream', med='Méditations', worlds='Mondes immersifs', blog='Blog', sessions='séances', min='min',
             to='à', level={'beginner': 'débutant', 'intermediate': 'intermédiaire', 'advanced': 'avancé'},
             list='Les séances', faq='Questions fréquentes', other='Autres catégories', otherw='Autres mondes',
             read='Pour aller plus loin', cta_t='Pratiquer gratuitement',
-            cta_p="Toutes ces séances sont dans l'application Awakening Minds : gratuite, sans abonnement, sans publicité ni compte, et utilisable hors ligne.",
+            cta_p="Toutes ces séances sont dans l'application MeditaDream : gratuite, sans abonnement, sans publicité ni compte, et utilisable hors ligne.",
             cta_b="Découvrir l'application", scene='La scène', goal='L’intention', inter='Ce que vous y faites', sound='L’ambiance sonore',
             visual='Les couleurs du monde', end='Au moment de partir', duration='Durée', moods='Ambiance', practice='Pratiquer avec l’application',
             teams='Méditation en entreprise', form_t='Parlons de votre projet', name='Votre nom', company='Entreprise', email='Votre email',
             msg='Votre projet (taille de l’équipe, objectifs, sur site ou à distance…)', send='Envoyer', sent='Merci, votre message est bien reçu. Nous vous répondons rapidement.',
-            err='Envoi impossible pour le moment. Écrivez-nous : edouard@awakeningminds.app'),
- 'en': dict(home='Awakening Minds', med='Meditations', worlds='Immersive worlds', blog='Blog', sessions='sessions', min='min',
+            err='Envoi impossible pour le moment. Écrivez-nous : edouard@meditadream.com'),
+ 'en': dict(home='MeditaDream', med='Meditations', worlds='Immersive worlds', blog='Blog', sessions='sessions', min='min',
             to='to', level={'beginner': 'beginner', 'intermediate': 'intermediate', 'advanced': 'advanced'},
             list='The sessions', faq='Frequently asked questions', other='Other categories', otherw='Other worlds',
             read='Read more', cta_t='Practice for free',
-            cta_p='Every session is in the Awakening Minds app: free, no subscription, no ads, no account, and it works offline.',
+            cta_p='Every session is in the MeditaDream app: free, no subscription, no ads, no account, and it works offline.',
             cta_b='Discover the app', scene='The scene', goal='The intention', inter='What you do there', sound='The soundscape',
             visual='The colors of this world', end='As you leave', duration='Length', moods='Mood', practice='Practice with the app',
             teams='For teams', form_t='', name='', company='', email='', msg='', send='', sent='', err=''),
- 'es': dict(home='Awakening Minds', med='Meditaciones', worlds='Mundos inmersivos', blog='Blog', sessions='sesiones', min='min',
+ 'es': dict(home='MeditaDream', med='Meditaciones', worlds='Mundos inmersivos', blog='Blog', sessions='sesiones', min='min',
             to='a', level={'beginner': 'principiante', 'intermediate': 'intermedio', 'advanced': 'avanzado'},
             list='Las sesiones', faq='Preguntas frecuentes', other='Otras categorías', otherw='Otros mundos',
             read='Para profundizar', cta_t='Practica gratis',
-            cta_p='Todas estas sesiones están en la app Awakening Minds: gratis, sin suscripción, sin anuncios ni cuenta, y funciona sin conexión.',
+            cta_p='Todas estas sesiones están en la app MeditaDream: gratis, sin suscripción, sin anuncios ni cuenta, y funciona sin conexión.',
             cta_b='Descubre la app', scene='La escena', goal='La intención', inter='Lo que haces allí', sound='El paisaje sonoro',
             visual='Los colores de este mundo', end='Al despedirte', duration='Duración', moods='Ambiente', practice='Practica con la app',
             teams='Para equipos', form_t='', name='', company='', email='', msg='', send='', sent='', err=''),
@@ -277,7 +277,7 @@ def build(bb):
                     f'<p role="status" id="f-st"></p><button type="submit">{E(t["send"])}</button></form>'
                     """<script>(function(){var f=document.getElementById('contact');f.addEventListener('submit',function(e){e.preventDefault();
 var st=document.getElementById('f-st'),d=new FormData(f),co=d.get('company');d.set('lang','fr');d.set('topic','Méditation en entreprise'+(co?' — '+co:''));
-d.set('page',location.href);fetch('https://espace.awakeningminds.app/contact',{method:'POST',body:d,headers:{'Accept':'application/json'}})
+d.set('page',location.href);fetch('https://espace.meditadream.com/contact',{method:'POST',body:d,headers:{'Accept':'application/json'}})
 .then(function(r){return r.json()}).then(function(j){st.textContent=j.ok?f.dataset.ok:(j.message||f.dataset.err);if(j.ok){f.reset();if(window.gtag)gtag('event','generate_lead',{form_id:'entreprise'})}})
 .catch(function(){st.textContent=f.dataset.err})});})();</script>""")
         bc = [(t['home'], f'/{lang}/'), (s['h1'], None)]

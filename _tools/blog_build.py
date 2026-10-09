@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Générateur du blog Awakening Minds — autonome (stdlib uniquement).
+"""Générateur du blog MeditaDream — autonome (stdlib uniquement).
 
 Lit `_queue/articles.json` + `_queue/sections/{lang}/*.html` et produit :
   {fr,en,es}/blog/<slug>.html   (articles publiés uniquement)
@@ -16,7 +16,7 @@ import app_pages
 from datetime import date
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-BASE = 'https://awakeningminds.app'
+BASE = 'https://meditadream.com'
 LANGS = ['fr', 'en', 'es']
 E = html.escape
 # Réglages partagés avec le générateur de l'accueil (nombre de méditations, magasins).
@@ -48,26 +48,26 @@ def webp_size(path):
     return None
 
 T = {
- 'fr': dict(blog='Le blog', back='← Awakening Minds', idx_title="Le blog — apprendre à méditer",
-   idx_seo="Apprendre à méditer : guides gratuits · Awakening Minds",
-   idx_desc="Guides gratuits pour apprendre à méditer : posture, respiration, pensées, techniques, avec schémas. Par Awakening Minds, l'app 100 % gratuite en français.",
+ 'fr': dict(blog='Le blog', back='← MeditaDream', idx_title="Le blog — apprendre à méditer",
+   idx_seo="Apprendre à méditer : guides gratuits · MeditaDream",
+   idx_desc="Guides gratuits pour apprendre à méditer : posture, respiration, pensées, techniques, avec schémas. Par MeditaDream, l'app 100 % gratuite en français.",
    read='min de lecture', published_on='Publié le', soon="De nouveaux articles arrivent chaque semaine.",
    cta_t="Envie de pratiquer plutôt que de lire ?",
-   cta_p="Tout ce que décrit cet article se pratique dans Awakening Minds, application de méditation gratuite : {total} méditations guidées en français — sommeil, respiration guidée, mondes immersifs — sans abonnement, sans publicité, sans compte, et tout fonctionne hors ligne.",
+   cta_p="Tout ce que décrit cet article se pratique dans MeditaDream, application de méditation gratuite : {total} méditations guidées en français — sommeil, respiration guidée, mondes immersifs — sans abonnement, sans publicité, sans compte, et tout fonctionne hors ligne.",
    cta_b="Découvrir l'application gratuite", other="À lire ensuite"),
- 'en': dict(blog='The blog', back='← Awakening Minds', idx_title="The blog — learning to meditate",
-   idx_seo="How to Meditate: Free Guides & Diagrams · Awakening Minds",
-   idx_desc="Free guides on how to meditate: posture, breathing, dealing with thoughts, techniques — with diagrams, from the completely free Awakening Minds app.",
+ 'en': dict(blog='The blog', back='← MeditaDream', idx_title="The blog — learning to meditate",
+   idx_seo="How to Meditate: Free Guides & Diagrams · MeditaDream",
+   idx_desc="Free guides on how to meditate: posture, breathing, dealing with thoughts, techniques — with diagrams, from the completely free MeditaDream app.",
    read='min read', published_on='Published', soon="More articles are coming — one every week.",
    cta_t="Rather practice than read?",
-   cta_p="Everything in this article can be practiced in Awakening Minds, a free meditation app: {total} guided meditations — sleep, breathing, immersive worlds — no subscription, no ads, no account, and fully offline.",
+   cta_p="Everything in this article can be practiced in MeditaDream, a free meditation app: {total} guided meditations — sleep, breathing, immersive worlds — no subscription, no ads, no account, and fully offline.",
    cta_b="Discover the free app", other="Read next"),
- 'es': dict(blog='El blog', back='← Awakening Minds', idx_title="El blog — aprender a meditar",
-   idx_seo="Cómo meditar: guías gratis en español · Awakening Minds",
-   idx_desc="Guías gratis para aprender a meditar: postura, respiración, pensamientos, técnicas — con esquemas, de la app 100 % gratis Awakening Minds.",
+ 'es': dict(blog='El blog', back='← MeditaDream', idx_title="El blog — aprender a meditar",
+   idx_seo="Cómo meditar: guías gratis en español · MeditaDream",
+   idx_desc="Guías gratis para aprender a meditar: postura, respiración, pensamientos, técnicas — con esquemas, de la app 100 % gratis MeditaDream.",
    read='min de lectura', published_on='Publicado el', soon="Llegan más artículos — uno por semana.",
    cta_t="¿Prefieres practicar antes que leer?",
-   cta_p="Todo lo que describe este artículo se practica en Awakening Minds, una app de meditación gratis: {total} meditaciones guiadas en español — dormir, respiración guiada, mundos inmersivos — sin suscripción, sin anuncios, sin cuenta y sin conexión.",
+   cta_p="Todo lo que describe este artículo se practica en MeditaDream, una app de meditación gratis: {total} meditaciones guiadas en español — dormir, respiración guiada, mundos inmersivos — sin suscripción, sin anuncios, sin cuenta y sin conexión.",
    cta_b="Descubre la app gratis", other="Sigue leyendo"),
 }
 for _l in T: T[_l]['cta_p'] = T[_l]['cta_p'].replace('{total}', str(TOTAL))
@@ -420,14 +420,14 @@ def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_a
 <title>{E(title)}</title><meta name="description" content="{E(desc)}">
 <link rel="canonical" href="{BASE}{canonical}">{alts}
 <meta name="robots" content="index,follow,max-image-preview:large"><meta name="theme-color" content="#0A0A14">{kw_tag}
-<meta property="og:type" content="{og_type}"><meta property="og:site_name" content="Awakening Minds">
+<meta property="og:type" content="{og_type}"><meta property="og:site_name" content="MeditaDream">
 <meta property="og:url" content="{BASE}{canonical}"><meta property="og:title" content="{E(title)}">
 <meta property="og:description" content="{E(desc)}"><meta property="og:image" content="{BASE}{image}">{img_dim}{alt_tag}
 <meta property="og:locale" content="{OG_LOCALE[lang]}">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{E(title)}"><meta name="twitter:description" content="{E(desc)}"><meta name="twitter:image" content="{BASE}{image}">
 {extra_ld}
 {HEAD_ICONES}{BANNIERE}
-<link rel="alternate" type="application/rss+xml" title="Awakening Minds" href="{BASE}/{lang}/blog/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="MeditaDream" href="{BASE}/{lang}/blog/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap"></noscript>
 <style>{CSS}{POST_CSS}</style></head><body>"""
 
@@ -438,7 +438,7 @@ def header_html(lang, blog_path_of):
 
 def footer_html(lang):
     villes = '<a href="/fr/formation-meditation/">Formations par ville</a>' if lang == 'fr' else ''
-    return f'<footer><div class="wrap"><span>Awakening Minds</span><a href="../">awakeningminds.app/{lang}</a><a href="./">{E(T[lang]["blog"])}</a>{villes}</div></footer>'
+    return f'<footer><div class="wrap"><span>MeditaDream</span><a href="../">meditadream.com/{lang}</a><a href="./">{E(T[lang]["blog"])}</a>{villes}</div></footer>'
 
 def render_article(a, lang, arts):
     t = T[lang]
@@ -452,12 +452,12 @@ def render_article(a, lang, arts):
              'image': BASE + img, 'datePublished': a['published'], 'dateModified': a.get('modified', a['published']), 'inLanguage': lang,
              'keywords': a.get('kw', {}).get(lang, ''), 'articleSection': SECTION_LABEL[lang],
              'mainEntityOfPage': f'{BASE}/{lang}/blog/{a["slug"][lang]}.html',
-             'author': {'@type': 'Organization', 'name': 'Awakening Minds', 'url': BASE + '/'},
-             'publisher': {'@type': 'Organization', 'name': 'Awakening Minds',
+             'author': {'@type': 'Organization', 'name': 'MeditaDream', 'url': BASE + '/'},
+             'publisher': {'@type': 'Organization', 'name': 'MeditaDream',
                            'logo': {'@type': 'ImageObject', 'url': f'{BASE}/assets/brand/logo.png'}}},
-            {'@type': 'WebSite', 'name': 'Awakening Minds', 'url': BASE + '/', 'inLanguage': lang},
+            {'@type': 'WebSite', 'name': 'MeditaDream', 'url': BASE + '/', 'inLanguage': lang},
             {'@type': 'BreadcrumbList', 'itemListElement': [
-                {'@type': 'ListItem', 'position': 1, 'name': 'Awakening Minds', 'item': f'{BASE}/{lang}/'},
+                {'@type': 'ListItem', 'position': 1, 'name': 'MeditaDream', 'item': f'{BASE}/{lang}/'},
                 {'@type': 'ListItem', 'position': 2, 'name': T[lang]['blog'], 'item': f'{BASE}/{lang}/blog/'},
                 {'@type': 'ListItem', 'position': 3, 'name': a['title'][lang]}]},
         ] + ([{'@type': 'FAQPage', 'mainEntity': [
@@ -473,7 +473,7 @@ def render_article(a, lang, arts):
     h += header_html(lang, lambda x: f'../../{x}/blog/{a["slug"][x]}.html')
     g = blog_hubs.SERIES_GROUP.get(a['id'], 'bases'); hl = blog_hubs.group_link(lang, g, HUB_ACT)
     h += PROGRESS_JS
-    h += (f'<main class="wrap post-main"><article class="post"><div class="post-head"><nav class="crumbs"><a href="../">Awakening Minds</a>'
+    h += (f'<main class="wrap post-main"><article class="post"><div class="post-head"><nav class="crumbs"><a href="../">MeditaDream</a>'
           f'<span>›</span><a href="./">{E(T[lang]["blog"])}</a>'
           + (f'<span>›</span><a href="{hl}">{E(blog_hubs.HUBS[lang][g]["h1"])}</a>' if hl else '')
           + f'</nav><h1>{E(a["title"][lang])}</h1>')
@@ -531,15 +531,15 @@ def render_index(lang, arts):
     path_of = lambda x: f'/{x}/blog/'
     ld = {'@context': 'https://schema.org', '@graph': [
         {'@type': 'Blog', 'name': t['idx_title'], 'description': t['idx_desc'], 'url': f'{BASE}/{lang}/blog/',
-         'inLanguage': lang, 'publisher': {'@type': 'Organization', 'name': 'Awakening Minds', 'url': BASE + '/'},
+         'inLanguage': lang, 'publisher': {'@type': 'Organization', 'name': 'MeditaDream', 'url': BASE + '/'},
          'blogPost': [{'@type': 'BlogPosting', 'headline': a['title'][lang], 'url': f'{BASE}/{lang}/blog/{a["slug"][lang]}.html',
                        'datePublished': a['published'], 'description': a['desc'][lang]} for a in reversed(pub)]},
         {'@type': 'BreadcrumbList', 'itemListElement': [
-            {'@type': 'ListItem', 'position': 1, 'name': 'Awakening Minds', 'item': f'{BASE}/{lang}/'},
+            {'@type': 'ListItem', 'position': 1, 'name': 'MeditaDream', 'item': f'{BASE}/{lang}/'},
             {'@type': 'ListItem', 'position': 2, 'name': t['blog']}]}]}
     ld_tag = '<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False).replace('<', '\\u003c') + '</script>'
     h = head(lang, t['idx_seo'], t['idx_desc'], path_of, path_of(lang), '/assets/brand/og-image.jpg',
-             ld_tag, kw=SITE_KW[lang], img_alt='Awakening Minds', og_type='website')
+             ld_tag, kw=SITE_KW[lang], img_alt='MeditaDream', og_type='website')
     h += header_html(lang, lambda x: f'../../{x}/blog/')
     h += f'<main class="wrap bidx"><h1>{E(t["idx_title"])}</h1><p class="lead">{E(t["idx_desc"])}</p>'
     nav = blog_hubs.themes_nav(lang, HUB_ACT)

@@ -11,9 +11,9 @@ discrètes : un lien en pied de page et un lien sur la page « Méditation en en
 """
 import json, os
 
-APP = ["Pour apprendre à méditer {a} sans attendre, l’application Awakening Minds est gratuite : sans abonnement, sans publicité, sans compte. Elle propose un parcours pour débutants, des séances de 4 minutes et plus de cent méditations guidées en français, et fonctionne hors ligne.",
-       "Pas besoin d’attendre un atelier pour commencer : l’application Awakening Minds est gratuite, sans abonnement ni compte. On y trouve un parcours pour débutants, des séances de 4 minutes pour une pause, et plus de cent méditations guidées en français, à écouter même hors ligne.",
-       "Entre deux séances, ou pour débuter seul {a}, l’application Awakening Minds accompagne chacun gratuitement : aucun abonnement, aucune publicité, aucun compte à créer. Parcours pour débutants, séances de 4 minutes, plus de cent méditations guidées en français, utilisables hors ligne."]
+APP = ["Pour apprendre à méditer {a} sans attendre, l’application MeditaDream est gratuite : sans abonnement, sans publicité, sans compte. Elle propose un parcours pour débutants, des séances de 4 minutes et plus de cent méditations guidées en français, et fonctionne hors ligne.",
+       "Pas besoin d’attendre un atelier pour commencer : l’application MeditaDream est gratuite, sans abonnement ni compte. On y trouve un parcours pour débutants, des séances de 4 minutes pour une pause, et plus de cent méditations guidées en français, à écouter même hors ligne.",
+       "Entre deux séances, ou pour débuter seul {a}, l’application MeditaDream accompagne chacun gratuitement : aucun abonnement, aucune publicité, aucun compte à créer. Parcours pour débutants, séances de 4 minutes, plus de cent méditations guidées en français, utilisables hors ligne."]
 DEROULE = ["Tout commence par un échange sur vos attentes : taille de l’équipe, horaires, lieu. Nous vous adressons ensuite une proposition sur mesure. Entre deux séances, chacun continue librement avec l’application.",
            "Un premier échange permet de comprendre votre contexte : nombre de participants, moments possibles dans la journée, salle ou visioconférence. Vous recevez ensuite une proposition écrite, puis les séances démarrent à la date qui vous convient.",
            "Vous nous décrivez votre équipe et vos contraintes ; nous proposons un format, un rythme et un nombre de séances. Rien n’est imposé : on commence souvent par une séance de découverte, et l’on décide de la suite ensemble."]
@@ -48,7 +48,7 @@ def form(ap, sujet):
             f'<p role="status" id="f-st"></p><button type="submit">{E(t["send"])}</button></form>'
             """<script>(function(){var f=document.getElementById('contact');f.addEventListener('submit',function(e){e.preventDefault();
 var st=document.getElementById('f-st'),d=new FormData(f),co=d.get('company');d.set('lang','fr');d.set('topic',f.dataset.sujet+(co?' — '+co:''));
-d.set('page',location.href);fetch('https://espace.awakeningminds.app/contact',{method:'POST',body:d,headers:{'Accept':'application/json'}})
+d.set('page',location.href);fetch('https://espace.meditadream.com/contact',{method:'POST',body:d,headers:{'Accept':'application/json'}})
 .then(function(r){return r.json()}).then(function(j){st.textContent=j.ok?f.dataset.ok:(j.message||f.dataset.err);if(j.ok){f.reset();if(window.gtag)gtag('event','generate_lead',{form_id:'formation'})}})
 .catch(function(){st.textContent=f.dataset.err})});})();</script>""")
 
@@ -66,7 +66,7 @@ def build(bb, ap):
     teams = P['fr']['teams']
     img = ap.img_cat('calm')
     written = []
-    org = {'@type': 'Organization', 'name': 'Awakening Minds', 'url': bb.BASE + '/'}
+    org = {'@type': 'Organization', 'name': 'MeditaDream', 'url': bb.BASE + '/'}
     cats = P['fr']['categories']
     app_links = ''.join(f'<li><a href="{ap.u("fr", "med", cats[k]["slug"])}">{E(cat["categories"][k]["name"]["fr"])}</a></li>' for k in ('learningBasics', 'fourMin', 'calm') if k in cats)
     app_links += f'<li><a href="{ap.u("fr", "med")}">Toutes les méditations</a></li>'

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reporte sur le site les modifications faites dans l'espace privé (https://espace.awakeningminds.app/admin/).
+"""Reporte sur le site les modifications faites dans l'espace privé (https://espace.meditadream.com/admin/).
 
 Lit /am/edits.json : {"items": {"fr:<num>": {...}, "en:<num>": {...}, "q:<id>:<lang>": {...}}}
   fr/en : title, seo_title, desc, body (HTML), et pour fr : publish_at, hold
@@ -8,9 +8,9 @@ Idempotent : réappliquer les mêmes valeurs ne change rien. Reconstruit le blog
 """
 import json, os, re, sys, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-URL = 'https://espace.awakeningminds.app/edits.json'
+URL = 'https://espace.meditadream.com/edits.json'
 try:
-    req = urllib.request.Request(URL, headers={'User-Agent': 'AwakeningMinds-blog-sync/1.0 (+https://awakeningminds.app)', 'Accept': 'application/json'})
+    req = urllib.request.Request(URL, headers={'User-Agent': 'MeditaDream-blog-sync/1.0 (+https://meditadream.com)', 'Accept': 'application/json'})
     E = json.load(urllib.request.urlopen(req, timeout=20)).get('items') or {}
     if not isinstance(E, dict): E = {}
 except Exception as e:
@@ -19,7 +19,7 @@ FRQ = f'{ROOT}/_queue/articles_fr.json'; Q3 = f'{ROOT}/_queue/articles.json'
 fr = json.load(open(FRQ, encoding='utf-8')); q3 = json.load(open(Q3, encoding='utf-8'))
 by = {str(a['num']): a for a in fr}; byq = {a['id']: a for a in q3}
 changed = []
-MEDIA = 'https://espace.awakeningminds.app/media/'
+MEDIA = 'https://espace.meditadream.com/media/'
 UP = f'{ROOT}/assets/blog/up'
 def fetch_media(url):
     """Copie dans assets/blog/up/ une photo ou vidéo envoyée depuis l'éditeur ; renvoie son chemin relatif."""
@@ -28,7 +28,7 @@ def fetch_media(url):
     os.makedirs(UP, exist_ok=True)
     dst = f'{UP}/{name}'
     if not os.path.exists(dst):
-        req = urllib.request.Request(MEDIA + name, headers={'User-Agent': 'AwakeningMinds-blog-sync/1.0'})
+        req = urllib.request.Request(MEDIA + name, headers={'User-Agent': 'MeditaDream-blog-sync/1.0'})
         data = urllib.request.urlopen(req, timeout=120).read()
         open(dst, 'wb').write(data); changed.append(f'média {name}')
     return f'up/{name}'
@@ -37,7 +37,7 @@ def localize(body):
         rel = fetch_media(m.group(1))
         return f'../../assets/blog/{rel}' if rel else m.group(0)
     body = re.sub(re.escape(MEDIA) + r'([A-Za-z0-9._-]+)', lambda m: sub(m), body)
-    return body.replace('https://awakeningminds.app/assets/blog/', '../../assets/blog/')
+    return body.replace('https://meditadream.com/assets/blog/', '../../assets/blog/')
 def put(obj, k, v, label):
     if obj.get(k) != v: obj[k] = v; changed.append(label)
 for key, e in E.items():

@@ -12,7 +12,7 @@ import glob, json, os, re, sys, urllib.request
 from datetime import date
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-HOST = 'awakeningminds.app'
+HOST = 'meditadream.com'
 BASE = f'https://{HOST}'
 ENDPOINTS = ['https://api.indexnow.org/indexnow', 'https://www.bing.com/indexnow', 'https://yandex.com/indexnow']
 

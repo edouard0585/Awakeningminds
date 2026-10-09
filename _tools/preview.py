@@ -21,7 +21,7 @@ if len(sys.argv) > 2 and os.path.exists(sys.argv[2]):
 p = key.split(':')
 bb.SCHEMA_FILES = {int(k): v for k, v in bb._load_schema_files().items()}
 bb._scan_hero_alts()
-MEDIA = 'https://espace.awakeningminds.app/media/'
+MEDIA = 'https://espace.meditadream.com/media/'
 
 if p[0] in ('fr', 'en'):
     arts = blog_fr.load()
@@ -59,6 +59,6 @@ else:
     html = bb.render_article(a, lang, arts)
 
 # les chemins relatifs (../../assets, ../, article.html) doivent viser le site en ligne
-html = html.replace('<head>', f'<head><base href="https://awakeningminds.app/{lang}/blog/">', 1)
+html = html.replace('<head>', f'<head><base href="https://meditadream.com/{lang}/blog/">', 1)
 html = html.replace('../../assets/blog/' + MEDIA, MEDIA)  # médias envoyés depuis l'espace privé
 sys.stdout.write(html)

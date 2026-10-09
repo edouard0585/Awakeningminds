@@ -1,54 +1,54 @@
 {
- "https://awakeningminds.app/": {
+ "https://meditadream.com/": {
   "date": "2026-10-09",
-  "sha1": "3b887dcbeae7ad57f94e53ab91df52c7630976a2"
+  "sha1": "d1cd9d89ada480a6f4d8a3bf91331cd9a888eee8"
  },
- "https://awakeningminds.app/en/": {
-  "date": "2026-10-01",
-  "sha1": "83b752eee916823279dbb861095c4299ddf954ee"
- },
- "https://awakeningminds.app/en/privacy.html": {
+ "https://meditadream.com/en/": {
   "date": "2026-10-09",
-  "sha1": "89a126286afdc23fa07176c9369b73eb659cd983"
+  "sha1": "58092b678f4c0b3fd2c103cb42e69751e5e6026e"
  },
- "https://awakeningminds.app/en/support.html": {
+ "https://meditadream.com/en/privacy.html": {
   "date": "2026-10-09",
-  "sha1": "d689c2fe959596983c46eb89fb536378478870e3"
+  "sha1": "474f688d0e5e8c7e2a6a105f6500f0787073cfc7"
  },
- "https://awakeningminds.app/en/terms.html": {
+ "https://meditadream.com/en/support.html": {
   "date": "2026-10-09",
-  "sha1": "194339aeafb6083fd084c1cf1e7ee17610c89f0a"
+  "sha1": "f4fa9ffefe5e154a4f9fed4cf7c0cf7cc1d78dd1"
  },
- "https://awakeningminds.app/es/": {
-  "date": "2026-10-01",
-  "sha1": "6040b3e11ff7eb59b5ba26acaeca89bdf5be6266"
- },
- "https://awakeningminds.app/es/privacy.html": {
+ "https://meditadream.com/en/terms.html": {
   "date": "2026-10-09",
-  "sha1": "c86986f9c0e44f339b66bb398646045160056528"
+  "sha1": "b48df98c1e672a68490c6f7d58e56c3e94b63bd4"
  },
- "https://awakeningminds.app/es/support.html": {
+ "https://meditadream.com/es/": {
   "date": "2026-10-09",
-  "sha1": "2105628e30e603e9b38966afa3fc76cab99cd635"
+  "sha1": "e549485e0cd442778b6e373a282b81c40f86bcbf"
  },
- "https://awakeningminds.app/es/terms.html": {
+ "https://meditadream.com/es/privacy.html": {
   "date": "2026-10-09",
-  "sha1": "615d556bcac98163dc4c18103f4f9b6af26557a7"
+  "sha1": "e761bb48f4fbb0c84f7161cfb90bc2a051a65d94"
  },
- "https://awakeningminds.app/fr/": {
+ "https://meditadream.com/es/support.html": {
   "date": "2026-10-09",
-  "sha1": "21e37895afa32d7c8acfa95adc40e62345aaa79e"
+  "sha1": "af450767f9837395c0654b2d837fa1fd6b414198"
  },
- "https://awakeningminds.app/fr/privacy.html": {
+ "https://meditadream.com/es/terms.html": {
   "date": "2026-10-09",
-  "sha1": "def5497c8f0267649b886a76a16bfbebb468821e"
+  "sha1": "c3eb051e8eb3e8ef22ffdf7354b5bf8c6d504961"
  },
- "https://awakeningminds.app/fr/support.html": {
+ "https://meditadream.com/fr/": {
   "date": "2026-10-09",
-  "sha1": "7d6bb14662f2b4a46c354f43b39017613469447c"
+  "sha1": "3ab8a3cacb96ce1803a347167df286b93426afba"
  },
- "https://awakeningminds.app/fr/terms.html": {
+ "https://meditadream.com/fr/privacy.html": {
   "date": "2026-10-09",
-  "sha1": "9fb75191dcaf418452a6838f507b7edc9c018697"
+  "sha1": "636b2173674e08499ccaf4d160214bb2b62a91f1"
+ },
+ "https://meditadream.com/fr/support.html": {
+  "date": "2026-10-09",
+  "sha1": "65168af37c9c88fbbbc87720b3193074fa67d465"
+ },
+ "https://meditadream.com/fr/terms.html": {
+  "date": "2026-10-09",
+  "sha1": "47d02dbca6666b0b8db4aca3ac5086e1a8165deb"
  }
 }
