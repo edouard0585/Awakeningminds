@@ -276,9 +276,11 @@ def build(bb):
                     f'<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px">'
                     f'<p role="status" id="f-st"></p><button type="submit">{E(t["send"])}</button></form>'
                     """<script>(function(){var f=document.getElementById('contact');f.addEventListener('submit',function(e){e.preventDefault();
-var st=document.getElementById('f-st'),d=new FormData(f),co=d.get('company');d.set('lang','fr');d.set('topic','Méditation en entreprise'+(co?' — '+co:''));
-d.set('page',location.href);fetch('https://espace.awakeningminds.app/contact',{method:'POST',body:d,headers:{'Accept':'application/json'}})
-.then(function(r){return r.json()}).then(function(j){st.textContent=j.ok?f.dataset.ok:(j.message||f.dataset.err);if(j.ok){f.reset();if(window.gtag)gtag('event','generate_lead',{form_id:'entreprise'})}})
+var st=document.getElementById('f-st'),d=new FormData(f),co=d.get('company')||'',sujet='Méditation en entreprise'+(co?' — '+co:'');
+if(d.get('website')){st.textContent=f.dataset.ok;f.reset();return}
+var o={name:d.get('name')||'',company:co,email:d.get('email'),message:d.get('message'),topic:sujet,lang:'fr',page:location.href,_subject:'MeditaDream — '+sujet,_template:'table',_captcha:'false',_replyto:d.get('email')};
+fetch('https://formsubmit.co/ajax/edouard@meditadream.com',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(o)})
+.then(function(r){return r.json()}).then(function(j){var ok=j&&String(j.success)==='true';st.textContent=ok?f.dataset.ok:f.dataset.err;if(ok){f.reset();if(window.gtag)gtag('event','generate_lead',{form_id:'entreprise'})}})
 .catch(function(){st.textContent=f.dataset.err})});})();</script>""")
         bc = [(t['home'], f'/{lang}/'), (s['h1'], None)]
         villes = '<p class="more"><a href="formation-meditation/">Formations à la méditation par ville : France, Belgique, Suisse, Luxembourg →</a></p>' if lang == 'fr' and os.path.exists(f'{T}/formations_fr.json') else ''

@@ -54,7 +54,7 @@
 
     <h2>O rellena este formulario</h2>
     <div class="card">
-      <form id="contact" action="https://formsubmit.co/edouard@awakeningminds.app" method="POST" enctype="multipart/form-data" data-ok="¡Gracias! Hemos recibido tu mensaje. Respondemos en un plazo de 3 días hábiles." data-sending="Enviando…">
+      <form id="contact" action="https://formsubmit.co/edouard@meditadream.com" method="POST" enctype="multipart/form-data" data-ok="¡Gracias! Hemos recibido tu mensaje. Respondemos en un plazo de 3 días hábiles." data-sending="Enviando…">
         <input type="hidden" name="_subject" value="MeditaDream — formulario de soporte (ES)">
         <input type="hidden" name="_captcha" value="true">
         <input type="hidden" name="_template" value="table">
@@ -72,10 +72,12 @@
         <button type="submit" class="btn">Enviar mensaje</button>
       </form><script>(function(){var f=document.getElementById('contact');if(!f||!window.fetch)return;
 f.addEventListener('submit',function(e){e.preventDefault();var st=document.getElementById('cf-status'),b=f.querySelector('button');
-b.disabled=true;st.textContent=f.dataset.sending;var d=new FormData(f);d.append('page',location.href);
-fetch('https://espace.awakeningminds.app/contact',{method:'POST',body:d,headers:{'Accept':'application/json'}})
-.then(function(r){return r.json().then(function(j){return {r:r,j:j}})})
-.then(function(x){if(x.j&&x.j.ok){st.textContent=x.j.message||f.dataset.ok;f.reset();b.disabled=false}else if(x.r.status>=400&&x.r.status<500&&x.j&&x.j.message&&x.r.status!==403&&x.r.status!==404&&x.r.status!==405){st.textContent=x.j.message;b.disabled=false}else{throw 0}})
+var d=new FormData(f);if(d.get('website')){st.textContent=f.dataset.ok;f.reset();return}
+b.disabled=true;st.textContent=f.dataset.sending;
+var o={name:d.get('name')||'',email:d.get('email'),topic:d.get('topic')||'',message:d.get('message'),lang:d.get('lang')||'',page:location.href,
+_subject:(d.get('_subject')||'MeditaDream')+(d.get('topic')?' — '+d.get('topic'):''),_template:'table',_captcha:'false',_replyto:d.get('email')};
+fetch('https://formsubmit.co/ajax/edouard@meditadream.com',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(o)})
+.then(function(r){return r.json()}).then(function(j){if(j&&String(j.success)==='true'){st.textContent=f.dataset.ok;f.reset();b.disabled=false;if(window.gtag)gtag('event','generate_lead',{form_id:'assistance'})}else{throw 0}})
 .catch(function(){f.submit()});});})();</script>
     </div>
 
