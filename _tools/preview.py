@@ -21,7 +21,7 @@ if len(sys.argv) > 2 and os.path.exists(sys.argv[2]):
 p = key.split(':')
 bb.SCHEMA_FILES = {int(k): v for k, v in bb._load_schema_files().items()}
 bb._scan_hero_alts()
-MEDIA = 'https://espace.meditadream.com/media/'
+MEDIA = 'https://espace.awakeningminds.app/media/'
 
 if p[0] in ('fr', 'en'):
     arts = blog_fr.load()

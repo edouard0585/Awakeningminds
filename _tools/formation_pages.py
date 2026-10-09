@@ -48,7 +48,7 @@ def form(ap, sujet):
             f'<p role="status" id="f-st"></p><button type="submit">{E(t["send"])}</button></form>'
             """<script>(function(){var f=document.getElementById('contact');f.addEventListener('submit',function(e){e.preventDefault();
 var st=document.getElementById('f-st'),d=new FormData(f),co=d.get('company');d.set('lang','fr');d.set('topic',f.dataset.sujet+(co?' — '+co:''));
-d.set('page',location.href);fetch('https://espace.meditadream.com/contact',{method:'POST',body:d,headers:{'Accept':'application/json'}})
+d.set('page',location.href);fetch('https://espace.awakeningminds.app/contact',{method:'POST',body:d,headers:{'Accept':'application/json'}})
 .then(function(r){return r.json()}).then(function(j){st.textContent=j.ok?f.dataset.ok:(j.message||f.dataset.err);if(j.ok){f.reset();if(window.gtag)gtag('event','generate_lead',{form_id:'formation'})}})
 .catch(function(){st.textContent=f.dataset.err})});})();</script>""")
 

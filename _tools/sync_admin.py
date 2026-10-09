@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reporte sur le site les modifications faites dans l'espace privé (https://espace.meditadream.com/admin/).
+"""Reporte sur le site les modifications faites dans l'espace privé (https://espace.awakeningminds.app/admin/).
 
 Lit /am/edits.json : {"items": {"fr:<num>": {...}, "en:<num>": {...}, "q:<id>:<lang>": {...}}}
   fr/en : title, seo_title, desc, body (HTML), et pour fr : publish_at, hold
@@ -8,7 +8,7 @@ Idempotent : réappliquer les mêmes valeurs ne change rien. Reconstruit le blog
 """
 import json, os, re, sys, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-URL = 'https://espace.meditadream.com/edits.json'
+URL = 'https://espace.awakeningminds.app/edits.json'
 try:
     req = urllib.request.Request(URL, headers={'User-Agent': 'MeditaDream-blog-sync/1.0 (+https://meditadream.com)', 'Accept': 'application/json'})
     E = json.load(urllib.request.urlopen(req, timeout=20)).get('items') or {}
@@ -19,7 +19,7 @@ FRQ = f'{ROOT}/_queue/articles_fr.json'; Q3 = f'{ROOT}/_queue/articles.json'
 fr = json.load(open(FRQ, encoding='utf-8')); q3 = json.load(open(Q3, encoding='utf-8'))
 by = {str(a['num']): a for a in fr}; byq = {a['id']: a for a in q3}
 changed = []
-MEDIA = 'https://espace.meditadream.com/media/'
+MEDIA = 'https://espace.awakeningminds.app/media/'
 UP = f'{ROOT}/assets/blog/up'
 def fetch_media(url):
     """Copie dans assets/blog/up/ une photo ou vidéo envoyée depuis l'éditeur ; renvoie son chemin relatif."""
