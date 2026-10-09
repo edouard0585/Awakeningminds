@@ -5,3 +5,5 @@ Disallow: /_tools/
 
 Sitemap: https://meditadream.com/sitemap.xml
 Sitemap: https://meditadream.com/sitemap-blog.xml
+Sitemap: https://meditadream.com/sitemap-images.xml
+Sitemap: https://meditadream.com/sitemap-videos.xml

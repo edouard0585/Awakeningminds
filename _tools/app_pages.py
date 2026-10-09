@@ -99,6 +99,40 @@ def u(lang, kind, slug=None):
     return f'/{lang}/{d}/' + (f'{slug}.html' if slug else '')
 
 
+# Texte alternatif, titre et nom de fichier de chaque image, PAR LANGUE (fabriqué par scripts/site/medias_data.py ;
+# copies WebP nommées dans la langue de la page : assets/o/<langue>/<nom>-<largeur>.webp, faites par build_site.py)
+try:
+    MEDIAS = json.load(open(os.path.join(T, 'medias.json'), encoding='utf-8'))
+except FileNotFoundError:
+    MEDIAS = {}
+
+
+def media(key, lang, largeur):
+    """(chemin de la copie nommée dans la langue, alt, title) ; chemin None si la copie n'existe pas encore."""
+    m = MEDIAS.get(key, {}).get(lang)
+    if not m: return None, '', ''
+    p = f'assets/o/{lang}/{m["slug"]}-{largeur}.webp'
+    return ('/' + p if os.path.exists(os.path.join(ROOT, p)) else None), m['alt'], m['title']
+
+
+def cat_key(cid):
+    return f'assets/cats/catart-{cid}.png' if f'assets/cats/catart-{cid}.png' in MEDIAS else f'assets/cats/icon-{cid}.png'
+
+
+def img_tag(key, lang, largeur, fallback, depth, extra=''):
+    """Balise <img> complète : copie nommée dans la langue si elle existe, sinon l'image d'origine ; alt + title toujours."""
+    p, alt, title = media(key, lang, largeur)
+    src = p or fallback
+    t = f' title="{E(title)}"' if title else ''
+    return f'<img src="{rel(src, depth)}" alt="{E(alt)}"{t}{dims(src)}{extra}>'
+
+
+HERO_CAT = lambda cid, lang: img_tag(cat_key(cid), lang, 260, img_cat(cid), 2, ' fetchpriority="high" decoding="async"')
+VIG_CAT = lambda k, lang: img_tag(cat_key(k), lang, 260, img_cat(k), 2, ' class="sq" loading="lazy" decoding="async"')
+HERO_MONDE = lambda wid, lang: img_tag(f'assets/worlds/{wid}.jpg', lang, 960, img_world(wid), 2, ' class="hero" fetchpriority="high" decoding="async"')
+VIG_MONDE = lambda k, lang: img_tag(f'assets/worlds/{k}.jpg', lang, 480, img_world(k), 2, ' loading="lazy" decoding="async"')
+
+
 def img_cat(cid):
     for p in (f'assets/o/cats/catart-{cid}.webp', f'assets/cats/catart-{cid}.png', f'assets/o/cats/icon-{cid}.webp', f'assets/cats/icon-{cid}.png'):
         if os.path.exists(os.path.join(ROOT, p)): return '/' + p
@@ -212,7 +246,7 @@ def build(bb):
             sib = [k for k in cats if k != cid and CAT_GROUP.get(k) == g][:3] or [k for k in cats if k != cid][:3]
             others = ''.join(f'<li><a href="{u(lang, "med", p["categories"][k]["slug"])}">{E(cats[k]["name"][lang])}</a></li>' for k in sib)
             bc = [(t['home'], f'/{lang}/'), (t['med'], u(lang, 'med')), (cats[cid]['name'][lang], None)]
-            body = (crumbs(lang, bc) + f'<article><div class="ap-hero"><img src="{rel(img_cat(cid), 2)}" alt=""{dims(img_cat(cid))}>'
+            body = (crumbs(lang, bc) + f'<article><div class="ap-hero">{HERO_CAT(cid, lang)}'
                     f'<div><h1>{E(s["h1"])}</h1>{meta}</div></div>'
                     + ''.join(f'<p class="lead">{E(x)}</p>' if i == 0 else f'<p class="intro">{E(x)}</p>' for i, x in enumerate(s['intro']))
                     + f'<h2>{E(t["list"])}</h2><ol class="ap-list">{items}</ol>' + cta(lang) + read
@@ -226,7 +260,7 @@ def build(bb):
             written.append((path, alts))
         # --- index des catégories ---
         s = p['meditations_index']; path = u(lang, 'med'); alts = {x: u(x, 'med') for x in P}
-        cards = ''.join(f'<li><a href="{p["categories"][k]["slug"]}.html"><img class="sq" src="{rel(img_cat(k), 2)}" alt=""{dims(img_cat(k))} loading="lazy">'
+        cards = ''.join(f'<li><a href="{p["categories"][k]["slug"]}.html">{VIG_CAT(k, lang)}'
                         f'<b>{E(c["name"][lang])}</b><span>{c["count"]} {E(t["sessions"])} · {c["min"]}–{c["max"]} {E(t["min"])}</span></a></li>' for k, c in cats.items())
         bc = [(t['home'], f'/{lang}/'), (t['med'], None)]
         body = (crumbs(lang, bc) + f'<h1>{E(s["h1"])}</h1><p class="lead">{E(s["intro"])}</p><ul class="ap-grid">{cards}</ul>'
@@ -245,7 +279,7 @@ def build(bb):
             others = ''.join(f'<li><a href="{u(lang, "world", p["worlds"][k]["slug"])}">{E(ws[k]["name"][lang])}</a></li>' for k in list(ws)[:0] or [k for k in ws if k != wid][:6] if k in p['worlds'])
             bc = [(t['home'], f'/{lang}/'), (t['worlds'], u(lang, 'world')), (w['name'][lang], None)]
             body = (crumbs(lang, bc) + f'<article class="ap-world"><h1>{E(s["h1"])}</h1><p class="lead">{E(w["tagline"][lang])}</p>'
-                    f'<img class="hero" src="{rel(img_world(wid), 2)}" alt="{E(w["name"][lang])}"{dims(img_world(wid))} fetchpriority="high">'
+                    f'{HERO_MONDE(wid, lang)}'
                     f'<p class="intro">{E(w["description"][lang])}</p><h2>{E(t["scene"])}</h2><p class="ap-scene">{E(w["openingScene"][lang])}</p>'
                     f'<dl class="ap-dl">{dl}</dl><h2>{E(t["end"])}</h2><p class="intro">{E(w["endingNote"][lang])}</p>' + cta(lang)
                     + f'<h2>{E(t["otherw"])}</h2><ul class="ap-links">{others}</ul></article>')
@@ -255,7 +289,7 @@ def build(bb):
             written.append((path, alts))
         # --- index des mondes ---
         s = p['worlds_index']; path = u(lang, 'world'); alts = {x: u(x, 'world') for x in P}
-        cards = ''.join(f'<li><a href="{p["worlds"][k]["slug"]}.html"><img src="{rel(img_world(k), 2)}" alt=""{dims(img_world(k))} loading="lazy">'
+        cards = ''.join(f'<li><a href="{p["worlds"][k]["slug"]}.html">{VIG_MONDE(k, lang)}'
                         f'<b>{E(w["name"][lang])}</b><span>{E(w["tagline"][lang])}</span></a></li>' for k, w in ws.items() if k in p['worlds'])
         bc = [(t['home'], f'/{lang}/'), (t['worlds'], None)]
         body = crumbs(lang, bc) + f'<h1>{E(s["h1"])}</h1><p class="lead">{E(s["intro"])}</p><ul class="ap-grid">{cards}</ul>' + cta(lang)
