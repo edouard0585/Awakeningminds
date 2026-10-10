@@ -2324,44 +2324,44 @@
     "es": "El Templo Antiguo"
    },
    "tagline": {
-    "en": "A sacred temple hidden high in misty mountains.",
-    "fr": "Un temple sacré caché haut dans les montagnes brumeuses.",
-    "es": "Un templo sagrado oculto en lo alto de montañas brumosas."
+    "en": "A temple hidden high up, in the mist of the mountains.",
+    "fr": "Un temple caché tout là-haut, dans la brume des montagnes.",
+    "es": "Un templo escondido en lo alto, entre la niebla de las montañas."
    },
    "description": {
-    "en": "Climb through the rain and mountain fog to a candlelit temple that has waited, in silence, for a thousand years. Sit among giant stone Buddhas and let the stillness hold you.",
-    "fr": "Monte à travers la pluie et la brume des montagnes vers un temple éclairé de bougies qui attend, en silence, depuis mille ans. Assieds-toi parmi de géants Bouddhas de pierre et laisse l’immobilité te porter.",
-    "es": "Asciende entre la lluvia y la niebla de la montaña hasta un templo iluminado por velas que espera, en silencio, desde hace mil años. Siéntate entre budas gigantes de piedra y deja que la quietud te sostenga."
+    "en": "Climb through the rain and the mountain mist to a hidden temple, with a white fox as your guide. Inside, hundreds of candles keep watch over great stone Buddhas.",
+    "fr": "Monte jusqu’à un temple caché, sous la pluie et dans la brume. Une renarde blanche te guide. Dans le temple, des centaines de bougies veillent sur de grands bouddhas de pierre.",
+    "es": "Sube bajo la lluvia y entre la niebla hasta un templo escondido en la montaña. Una zorra blanca te guía por el sendero. Dentro, cientos de velas brillan ante grandes budas de piedra."
    },
    "openingScene": {
-    "en": "Rain falls softly on ancient stone. Hundreds of candles breathe in the dark, and golden incense smoke drifts upward through bars of soft orange light.",
-    "fr": "La pluie tombe doucement sur la pierre ancienne. Des centaines de bougies respirent dans l’obscurité, et la fumée d’encens dorée s’élève à travers des rais de douce lumière orange.",
-    "es": "La lluvia cae suave sobre la piedra antigua. Cientos de velas respiran en la oscuridad, y el humo dorado del incienso asciende entre haces de tenue luz naranja."
+    "en": "Worn stone steps climb into the mist. A soft rain is falling, and the air smells of pine and wet cedar. Below, the valley disappears beneath the clouds.",
+    "fr": "Des marches de pierre usée montent dans la brume. Il pleut doucement, et l’air sent le pin et le cèdre mouillé. En bas, la vallée disparaît sous les nuages.",
+    "es": "Unos escalones de piedra gastada suben hacia la niebla. Llueve con suavidad, y el aire huele a pino y a cedro mojado. Abajo, el valle desaparece bajo las nubes."
    },
    "objective": {
-    "en": "To feel safe, grounded, and held — to set down what you carried up the mountain and rest in timeless, sacred stillness.",
-    "fr": "Se sentir en sécurité, ancré et porté — déposer ce que tu as porté jusqu’au sommet et te reposer dans une immobilité sacrée et hors du temps.",
-    "es": "Sentirte seguro, arraigado y sostenido — dejar en el suelo lo que cargaste montaña arriba y descansar en una quietud sagrada, fuera del tiempo."
+    "en": "To find safe shelter, hand what weighs on you to a candle, then rest in a sacred and timeless calm.",
+    "fr": "Trouver un abri sûr, confier ce qui pèse à une bougie, puis goûter un calme sacré, hors du temps.",
+    "es": "Encontrar un refugio seguro, confiar a una vela lo que pesa y descansar en una calma sagrada, fuera del tiempo."
    },
    "interactions": {
-    "en": "Light a candle for something you wish to release · Bow to a stone Buddha · Set a burden down on the cool stone floor",
-    "fr": "Allumer une bougie pour ce que tu souhaites libérer · S’incliner devant un Bouddha de pierre · Déposer un fardeau sur le sol de pierre frais",
-    "es": "Encender una vela por aquello que deseas soltar · Inclinarte ante un buda de piedra · Depositar una carga sobre el fresco suelo de piedra"
+    "en": "Rest your palm on the giant door · Give a weight to a candle that rises away · Bow before a statue · Open the small red door",
+    "fr": "Poser la paume sur la porte géante · Confier un poids à une bougie qui s’envole · S’incliner devant une statue · Ouvrir la petite porte rouge",
+    "es": "Apoyar la palma en la puerta gigante · Confiar un peso a una vela que se eleva · Inclinarte ante una estatua · Abrir la pequeña puerta roja"
    },
    "soundDesign": {
-    "en": "Steady gentle rain · a distant ancient bell sounding once · the soft flutter of candle flames · low temple drone.",
-    "fr": "Pluie douce et régulière · une cloche ancienne au loin qui résonne une fois · le doux frémissement des flammes · un bourdon grave de temple.",
-    "es": "Lluvia suave y constante · una campana antigua que resuena una vez a lo lejos · el leve temblor de las llamas de las velas · un bordón grave de templo."
+    "en": "Rain on the stone · an old bell that rings only once · the low note of the mountain · a bird at dawn · Khoomei throat singing.",
+    "fr": "La pluie sur la pierre · une vieille cloche qui sonne un seul coup · la note grave de la montagne · un oiseau à l’aube · le chant de gorge Khöömei.",
+    "es": "La lluvia sobre la piedra · una vieja campana que suena una sola vez · la nota grave de la montaña · un pájaro al alba · el canto de garganta Khöömei."
    },
    "visualAtmosphere": {
-    "en": "Gold, warm orange, dark wood brown, deep red, incense grey. Giant Buddhas half-lit in gold, red and gold fabrics swaying, lotus flowers in shallow water.",
-    "fr": "Or, orange chaud, brun de bois sombre, rouge profond, gris d’encens. De géants Bouddhas à demi éclairés d’or, des tissus rouge et or qui ondulent, des fleurs de lotus dans l’eau peu profonde.",
-    "es": "Oro, naranja cálido, marrón de madera oscura, rojo profundo, gris de incienso. Budas gigantes semiiluminados de oro, telas rojas y doradas que ondulan, flores de loto en aguas someras."
+    "en": "Gold, red, dark wood, pale mist. Red and gold ribbons, thousands of floating candles, great stone Buddhas and lotus flowers on the water.",
+    "fr": "Or, rouge, bois sombre, gris de brume. Des rubans rouge et or, des milliers de bougies, de grands bouddhas de pierre, des lotus sur l’eau.",
+    "es": "Oro, rojo, madera oscura y gris de niebla. Cintas rojas y doradas y miles de velas que flotan en el aire. Grandes budas de piedra y unos lotos sobre el agua."
    },
    "endingNote": {
-    "en": "Soft orange sunrise light fills the temple as the candles fade into morning gold.",
-    "fr": "Une douce lumière orange d’aurore emplit le temple tandis que les bougies se fondent dans l’or du matin.",
-    "es": "Una suave luz naranja de amanecer inunda el templo mientras las velas se funden en el oro de la mañana."
+    "en": "Dawn turns the stone Buddhas gold, the rain stops, and a bird begins to sing.",
+    "fr": "L’aube dore les bouddhas de pierre, la pluie cesse, et un oiseau se met à chanter.",
+    "es": "El alba tiñe de oro los budas de piedra, la lluvia para y, abajo, un pájaro empieza a cantar."
    },
    "moods": {
     "en": [
@@ -2396,44 +2396,44 @@
     "es": "El Templo Cósmico"
    },
    "tagline": {
-    "en": "A divine temple floating beyond reality, above the stars.",
-    "fr": "Un temple divin flottant au-delà du réel, au-dessus des étoiles.",
-    "es": "Un templo divino que flota más allá de lo real, sobre las estrellas."
+    "en": "A white marble temple, suspended at the heart of the cosmos.",
+    "fr": "Un temple de marbre blanc, suspendu au cœur du cosmos.",
+    "es": "Un templo de mármol blanco que flota en el corazón del cosmos."
    },
    "description": {
-    "en": "Rise to a temple of glowing white marble suspended in the cosmos. Climb floating staircases past rivers of golden light to a great meditation circle at the center of everything.",
-    "fr": "Élève-toi vers un temple de marbre blanc lumineux suspendu dans le cosmos. Gravis des escaliers flottants au-delà des rivières de lumière dorée jusqu’à un grand cercle de méditation au centre de tout.",
-    "es": "Elévate hacia un templo de mármol blanco resplandeciente suspendido en el cosmos. Sube por escaleras flotantes, más allá de ríos de luz dorada, hasta un gran círculo de meditación en el centro de todo."
+    "en": "Rise into the warm, violet night of the cosmos. A celestial whale carries you on her back to a white marble temple. There, a star is born beneath you.",
+    "fr": "Élève-toi dans la nuit violette du cosmos. Sur le dos d’une baleine céleste, rejoins un temple de marbre blanc, où naît une étoile.",
+    "es": "Elévate en la noche violeta del cosmos. A lomos de una ballena celeste, llega a un templo de mármol blanco donde nace una estrella."
    },
    "openingScene": {
-    "en": "Stars drift far beneath your feet. Giant marble pillars rise into golden cosmic fog, and crystal orbs hang weightless in the violet dark.",
-    "fr": "Les étoiles dérivent loin sous tes pieds. De géants piliers de marbre s’élèvent dans une brume cosmique dorée, et des orbes de cristal flottent, sans poids, dans l’obscurité violette.",
-    "es": "Las estrellas derivan lejos, bajo tus pies. Pilares gigantes de mármol se alzan en una niebla cósmica dorada, y orbes de cristal penden ingrávidos en la oscuridad violeta."
+    "en": "You rise, weightless, as the rooftops grow small beneath you. All around, the dark is violet, warm and alive. A low, gentle note is singing.",
+    "fr": "Tu t’élèves sans poids, et les toits rapetissent sous toi. Autour, l’obscurité est violette, chaude et vivante. Une note grave et douce chante.",
+    "es": "Te elevas sin peso, y los tejados se hacen pequeños bajo ti. A tu alrededor, la oscuridad es violeta, cálida y viva. Suena una nota grave y suave."
    },
    "objective": {
-    "en": "To touch a vast, divine calm — to expand beyond the small self and rest in spacious, transcendent awareness.",
-    "fr": "Toucher un calme vaste et divin — s’étendre au-delà du petit moi et se reposer dans une conscience spacieuse et transcendante.",
-    "es": "Rozar una calma vasta y divina — expandirte más allá del pequeño yo y descansar en una conciencia amplia y trascendente."
+    "en": "To feel as vast as the cosmos, and find an immense calm that returns whenever you close your eyes.",
+    "fr": "Se sentir aussi vaste que le cosmos, et goûter un calme immense, à retrouver les yeux fermés.",
+    "es": "Sentirte tan vasto como el cosmos y descansar en una calma inmensa, que encuentras al cerrar los ojos."
    },
    "interactions": {
-    "en": "Step onto a floating staircase · Hold a glowing crystal orb · Enter the meditation circle at the center · Send a question into the stars",
-    "fr": "Monter sur un escalier flottant · Tenir un orbe de cristal lumineux · Entrer dans le cercle de méditation au centre · Envoyer une question dans les étoiles",
-    "es": "Subir a una escalera flotante · Sostener un orbe de cristal luminoso · Entrar en el círculo de meditación del centro · Enviar una pregunta a las estrellas"
+    "en": "Climb onto the back of a celestial whale · Receive a sphere with a galaxy turning inside · Turn the clock of the ages · Watch a star being born",
+    "fr": "Monter sur le dos d’une baleine céleste · Recevoir une sphère où tourne une galaxie · Faire tourner l’horloge des âges · Voir naître une étoile",
+    "es": "Subir al lomo de una ballena celeste · Recibir una esfera donde gira una galaxia · Girar la aguja del reloj de las edades · Ver nacer una estrella"
    },
    "soundDesign": {
-    "en": "A deep cosmic drone · soft chimes from the crystal orbs · the distant hush of stars · a slow rising swell at the center.",
-    "fr": "Un bourdon cosmique profond · de doux carillons des orbes de cristal · le murmure lointain des étoiles · une lente montée au centre.",
-    "es": "Un bordón cósmico profundo · suaves campanillas de los orbes de cristal · el murmullo lejano de las estrellas · una lenta oleada que crece en el centro."
+    "en": "The low note of the cosmos · the song of a celestial whale · tiny stars that chime like glass · the Nebula soundscape.",
+    "fr": "La note grave du cosmos · le chant d’une baleine céleste · des étoiles qui tintent comme du verre · la nappe Nébuleuse.",
+    "es": "La nota grave del cosmos · el canto de una ballena celeste · unas estrellas que tintinean como el cristal · la suave textura Nebulosa."
    },
    "visualAtmosphere": {
-    "en": "White marble, gold, violet, cosmic blue. Floating staircases, sacred energy rivers, an endless horizon of stars, a galaxy turning slowly overhead.",
-    "fr": "Marbre blanc, or, violet, bleu cosmique. Escaliers flottants, rivières d’énergie sacrée, un horizon infini d’étoiles, une galaxie tournant lentement au-dessus.",
-    "es": "Mármol blanco, oro, violeta, azul cósmico. Escaleras flotantes, ríos de energía sagrada, un horizonte infinito de estrellas, una galaxia girando lentamente en lo alto."
+    "en": "White marble, gold and violet. A whale that shines with stars, rivers of gold, and a floor as clear as water above the galaxies.",
+    "fr": "Marbre blanc, or, violet. Une baleine qui brille d’étoiles, des rivières d’or, un sol clair comme l’eau, au-dessus des galaxies.",
+    "es": "Mármol blanco, oro y violeta. Ríos de oro y una ballena que brilla de estrellas. Un suelo claro como el agua, por encima de galaxias que giran."
    },
    "endingNote": {
-    "en": "The temple slowly dims to a single point of golden light, which you carry back inside you.",
-    "fr": "Le temple s’estompe lentement jusqu’à un seul point de lumière dorée, que tu rapportes en toi.",
-    "es": "El templo se atenúa despacio hasta un único punto de luz dorada, que llevas de vuelta dentro de ti."
+    "en": "The temple fades to a point of golden light, which you keep inside you with your little galaxy.",
+    "fr": "Le temple s’efface jusqu’à un point de lumière dorée, que tu gardes en toi avec ta petite galaxie.",
+    "es": "El templo se desvanece y solo queda tu esfera, un punto de luz dorada que guardas con su pequeña galaxia."
    },
    "moods": {
     "en": [
@@ -2473,39 +2473,39 @@
     "es": "Un mundo de cristal luminoso y sin fin, en las profundidades de la tierra."
    },
    "description": {
-    "en": "Descend into a vast cavern of glowing crystals, mirror-still pools, and slow rainbow light. Let the gentle resonance of the crystals wash through you and carry away what no longer serves.",
-    "fr": "Descends dans une vaste caverne de cristaux lumineux, de bassins immobiles comme des miroirs, et de lente lumière arc-en-ciel. Laisse la douce résonance des cristaux te traverser et emporter ce qui ne te sert plus.",
-    "es": "Desciende a una vasta caverna de cristales luminosos, estanques quietos como espejos y lenta luz irisada. Deja que la suave resonancia de los cristales te atraviese y se lleve lo que ya no te sirve."
+    "en": "Slip through a tiny crack in the rock and discover a cave of giant crystals. A crystal butterfly leads you to a mermaid, a little dragon and a tiny city of light.",
+    "fr": "Passe une fissure dans la roche et découvre une grotte de cristaux géants. Un papillon de cristal t’emmène jusqu’à une sirène, un petit dragon et une ville minuscule.",
+    "es": "Cruza una grieta en la roca y descubre una caverna de cristales gigantes que brillan por dentro. Una mariposa de cristal te guía hasta una sirena, un pequeño dragón y una ciudad diminuta."
    },
    "openingScene": {
-    "en": "Gigantic crystals glow from within — cyan, turquoise, violet — their light reflected in still pools and rippling across the cave walls.",
-    "fr": "De gigantesques cristaux brillent de l’intérieur — cyan, turquoise, violet — leur lumière se reflétant dans des bassins immobiles et ondulant sur les parois de la grotte.",
-    "es": "Cristales gigantescos brillan desde dentro — cian, turquesa, violeta —, y su luz se refleja en estanques inmóviles y ondula por las paredes de la gruta."
+    "en": "A gently sloping path leads down beneath the earth. The air is cool and clean. At the end, a crack in the rock lets a blue glow through.",
+    "fr": "Un chemin en pente douce descend sous la terre. L’air est frais et pur. Au bout, une fissure dans la roche laisse passer une lueur bleue.",
+    "es": "Un camino en suave pendiente desciende bajo la tierra. El aire es fresco y puro. Al final, por una grieta en la roca, asoma un resplandor azul."
    },
    "objective": {
-    "en": "To find clarity and emotional cleansing — to let the crystal light dissolve heaviness and leave you clear, light, and whole.",
-    "fr": "Trouver la clarté et un nettoyage émotionnel — laisser la lumière des cristaux dissoudre la lourdeur et te laisser clair, léger et entier.",
-    "es": "Encontrar claridad y limpieza emocional — dejar que la luz de los cristales disuelva la pesadez y te deje claro, ligero y entero."
+    "en": "To let the crystal light carry away what weighs on you, and find again the clarity that was already there.",
+    "fr": "Laisser la lumière des cristaux emporter ce qui pèse, et retrouver la clarté qui était déjà là.",
+    "es": "Dejar que la luz de los cristales se lleve lo que pesa y encontrar la claridad que ya estaba ahí."
    },
    "interactions": {
-    "en": "Place a hand on a glowing crystal · Cross a crystal bridge · Look into a still pool · Let a color flow through you",
-    "fr": "Poser une main sur un cristal lumineux · Traverser un pont de cristal · Regarder dans un bassin immobile · Laisser une couleur te traverser",
-    "es": "Posar una mano sobre un cristal luminoso · Cruzar un puente de cristal · Mirar en un estanque inmóvil · Dejar que un color te recorra"
+    "en": "Slip through the crack on an out-breath · Hear a mermaid’s note · Make a crystal sing under your hand · Wake a small crystal dragon",
+    "fr": "Passer la fissure en expirant · Écouter la note d’une sirène · Faire chanter un cristal sous ta main · Réveiller un petit dragon de cristal",
+    "es": "Cruzar la grieta al exhalar · Escuchar la nota de una sirena · Hacer cantar un cristal bajo tu mano · Despertar a un pequeño dragón de cristal"
    },
    "soundDesign": {
-    "en": "Pure crystalline tones · soft dripping water echoing · a gentle pulsing resonance · a deep calm hum beneath it all.",
-    "fr": "Des tons cristallins purs · l’écho doux de gouttes d’eau · une douce résonance pulsée · un bourdon calme et profond sous tout cela.",
-    "es": "Tonos cristalinos puros · el eco suave de gotas de agua · una resonancia dulce y pulsante · un bordón calmo y profundo bajo todo ello."
+    "en": "Echoing drops of water · a mermaid’s clear note · crystals that sing · crystals tinkling like wind chimes · the Nebula soundscape.",
+    "fr": "Des gouttes d’eau en écho · la note claire d’une sirène · des cristaux qui chantent · un carillon de cristal · la nappe Nébuleuse.",
+    "es": "Gotas de agua que resuenan · la nota clara de una sirena · cristales que cantan · un carillón de cristal · la textura Nebulosa."
    },
    "visualAtmosphere": {
-    "en": "Cyan, turquoise, violet, soft pink reflections. Light beams through crystal arches, particles floating slowly, rainbow light rippling on still water.",
-    "fr": "Cyan, turquoise, violet, doux reflets roses. Des rayons de lumière à travers des arches de cristal, des particules qui flottent lentement, une lumière arc-en-ciel ondulant sur l’eau immobile.",
-    "es": "Cian, turquesa, violeta, suaves reflejos rosados. Haces de luz entre arcos de cristal, partículas flotando despacio, luz irisada ondulando sobre el agua quieta."
+    "en": "Blue, violet and rainbow reflections. Giant crystals, still pools like mirrors, and fish of light swimming slowly through the air.",
+    "fr": "Bleu, violet, reflets d’arc-en-ciel. Des cristaux géants, des bassins comme des miroirs, des poissons de lumière qui nagent dans l’air.",
+    "es": "Azul, violeta y reflejos de arcoíris. Cristales gigantes, estanques como espejos, un río de plata y unos peces de luz que nadan por el aire."
    },
    "endingNote": {
-    "en": "The crystals dim to a soft glow, leaving a deep, clear stillness behind.",
-    "fr": "Les cristaux s’estompent jusqu’à une douce lueur, laissant derrière eux une immobilité profonde et claire.",
-    "es": "Los cristales se apagan hasta un tenue resplandor, dejando tras de sí una quietud honda y clara."
+    "en": "The little dragon walks you back to the crack. You climb gently up again, with this clarity inside you.",
+    "fr": "Le petit dragon te raccompagne jusqu’à la fissure. Tu remontes doucement, avec cette clarté en toi.",
+    "es": "El pequeño dragón te acompaña hasta la grieta. Subes despacio, con esta claridad dentro de ti."
    },
    "moods": {
     "en": [
@@ -2540,44 +2540,44 @@
     "es": "Viaje a Través de la Galaxia"
    },
    "tagline": {
-    "en": "Float peacefully through deep cosmic space.",
-    "fr": "Flotte paisiblement à travers l’espace cosmique profond.",
-    "es": "Flota en paz por el espacio cósmico profundo."
+    "en": "A train of light carries you across the galaxy.",
+    "fr": "Un train de lumière t’emmène à travers la galaxie.",
+    "es": "Un tren de luz te lleva a través de la galaxia."
    },
    "description": {
-    "en": "Drift weightless among slowly turning galaxies, glowing nebulae, and rivers of starlight. A vast, gentle journey to release what you hold and rest in cosmic peace.",
-    "fr": "Dérive sans poids parmi des galaxies qui tournent lentement, des nébuleuses lumineuses et des rivières de lumière stellaire. Un voyage vaste et doux pour libérer ce que tu portes et te reposer dans la paix cosmique.",
-    "es": "Deriva ingrávido entre galaxias que giran despacio, nebulosas luminosas y ríos de luz estelar. Un viaje vasto y amable para soltar lo que cargas y descansar en la paz cósmica."
+    "en": "Board a train of light, with a guide at your side. Pass through the rings of Saturn and a shower of shooting stars, then stop on an asteroid.",
+    "fr": "Monte à bord d’un train de lumière, un guide à tes côtés. Passe entre les anneaux de Saturne, sous une pluie d’étoiles filantes, puis fais halte sur un astéroïde.",
+    "es": "Sube a un tren de luz, con un guía a tu lado. Pasa entre los anillos de Saturno, bajo una lluvia de estrellas fugaces, y haz una parada en un asteroide."
    },
    "openingScene": {
-    "en": "You float in the deep dark of space. Galaxies turn slowly around you, and clouds of blue and violet light drift past in perfect silence.",
-    "fr": "Tu flottes dans l’obscurité profonde de l’espace. Des galaxies tournent lentement autour de toi, et des nuages de lumière bleue et violette dérivent dans un silence parfait.",
-    "es": "Flotas en la oscuridad profunda del espacio. Las galaxias giran lentamente a tu alrededor, y nubes de luz azul y violeta pasan a la deriva en un silencio perfecto."
+    "en": "Your body grows light and floats free. The dark is deep blue and violet, full of silver specks. Far away, a golden light glides between the stars.",
+    "fr": "Ton corps devient léger et flotte. L’obscurité est bleue et violette, pleine de grains d’argent. Au loin, une lumière dorée glisse entre les étoiles.",
+    "es": "Tu cuerpo se vuelve ligero y flota. La oscuridad es azul y violeta, llena de granos de plata. A lo lejos, una luz dorada se desliza entre las estrellas."
    },
    "objective": {
-    "en": "To feel the wonder of infinity, release emotional weight into the vastness, and rest in deep cosmic peace.",
-    "fr": "Ressentir l’émerveillement de l’infini, libérer le poids émotionnel dans l’immensité, et se reposer dans une paix cosmique profonde.",
-    "es": "Sentir el asombro del infinito, soltar el peso emocional en la inmensidad y descansar en una paz cósmica profunda."
+    "en": "To find your wonder at the stars again, let a weight go, and rest, gently rocked by the train.",
+    "fr": "Retrouver l’émerveillement devant les étoiles, laisser partir un poids, et se reposer, bercé par le train.",
+    "es": "Recuperar el asombro ante el cielo estrellado, dejar ir un peso y descansar, mecido por el tren de luz."
    },
    "interactions": {
-    "en": "Drift toward a glowing nebula · Let an old weight float away into the dark · Pass through a celestial portal",
-    "fr": "Dériver vers une nébuleuse lumineuse · Laisser un vieux poids s’envoler dans l’obscurité · Traverser un portail céleste",
-    "es": "Derivar hacia una nebulosa luminosa · Dejar que un viejo peso se aleje flotando en la oscuridad · Atravesar un portal celeste"
+    "en": "Watch a whale of light swim beside the train · Receive a tiny planet in a vial from a merchant · Let a weight pass through the glass · Cross the ring of light",
+    "fr": "Voir une baleine de lumière longer le train · Recevoir d’un marchand une petite planète en fiole · Faire passer un poids à travers la vitre · Franchir l’anneau de lumière",
+    "es": "Contemplar una ballena de luz · Recibir de un vendedor un planeta en un frasco · Dejar salir un peso por la ventanilla · Cruzar el anillo de luz"
    },
    "soundDesign": {
-    "en": "A deep cosmic drone · soft shimmering tones · the distant hush of stars · a slow swell as portals pass.",
-    "fr": "Un bourdon cosmique profond · de doux tons scintillants · le murmure lointain des étoiles · une lente montée au passage des portails.",
-    "es": "Un bordón cósmico profundo · suaves tonos centelleantes · el murmullo lejano de las estrellas · una lenta oleada al cruzar los portales."
+    "en": "The low hum of the train · the song of a whale of light · ice tapping the glass like pearls · a distant bell · the Nebula soundscape.",
+    "fr": "Le bourdonnement grave du train · le chant d’une baleine de lumière · un bruit de perles contre la vitre · une cloche au loin · la nappe Nébuleuse.",
+    "es": "El murmullo grave del tren · el canto de una ballena de luz · un sonido de perlas contra el cristal · una campana a lo lejos · la textura Nebulosa."
    },
    "visualAtmosphere": {
-    "en": "Deep blue, purple, black, silver, neon cyan. Rotating galaxies, drifting nebula clouds, cosmic dust, distant planets, aurora-like waves of light.",
-    "fr": "Bleu profond, violet, noir, argent, cyan néon. Galaxies en rotation, nuages de nébuleuse à la dérive, poussière cosmique, planètes lointaines, vagues de lumière façon aurore.",
-    "es": "Azul profundo, púrpura, negro, plata, cian de neón. Galaxias en rotación, nubes de nebulosa a la deriva, polvo cósmico, planetas lejanos, ondas de luz como auroras."
+    "en": "Deep blue, violet, silver and gold. A train with golden windows, the rings of Saturn, galaxies like wheels, and a rose and blue-green cloud.",
+    "fr": "Bleu profond, violet, argent, or. Un train aux fenêtres dorées, les anneaux de Saturne, des galaxies comme des roues, un nuage rose et bleu-vert.",
+    "es": "Azul profundo, violeta, plata y oro. Un tren de ventanillas doradas, los anillos de Saturno, galaxias como ruedas y una nube rosa y azul verdosa."
    },
    "endingNote": {
-    "en": "The stars draw close and gentle, carrying you softly back toward your breath.",
-    "fr": "Les étoiles se rapprochent, douces, te ramenant délicatement vers ton souffle.",
-    "es": "Las estrellas se acercan, dulces, y te devuelven suavemente hacia tu respiración."
+    "en": "The train leaves you where it found you, and you step into the calm night with the vial.",
+    "fr": "Le train te dépose là où il t’avait pris. Tu repars dans la nuit calme, la fiole au creux de la main.",
+    "es": "El tren te deja donde te recogió, y bajas a la noche tranquila con el frasco en la mano."
    },
    "moods": {
     "en": [
@@ -2617,39 +2617,39 @@
     "es": "Un mundo oculto en lo más profundo de la Tierra."
    },
    "description": {
-    "en": "Descend through glowing crystal caverns and slow rivers of warm light to the grounding heart of the planet. A primal, ancient place to feel rooted and held.",
-    "fr": "Descends à travers des cavernes de cristal lumineuses et de lentes rivières de lumière chaude jusqu’au cœur ancrant de la planète. Un lieu primal et ancien pour se sentir enraciné et porté.",
-    "es": "Desciende por cavernas de cristal luminosas y lentos ríos de luz cálida hasta el corazón enraizante del planeta. Un lugar primario y antiguo para sentirte arraigado y sostenido."
+    "en": "Go down through glowing caverns and rivers of warm light, all the way to a hidden world. Beneath an immense tree, an amber egg is about to hatch.",
+    "fr": "Descends par des cavernes lumineuses et des rivières de lumière chaude, jusqu’à un monde caché. Sous un arbre immense, un œuf d’ambre s’apprête à éclore.",
+    "es": "Desciende por cavernas luminosas y ríos de luz cálida hasta un mundo oculto en el corazón de la Tierra. Bajo un árbol inmenso, un huevo de ámbar está a punto de abrirse."
    },
    "openingScene": {
-    "en": "Vast underground caverns open before you, lit by glowing minerals and slow rivers of warm orange light far below.",
-    "fr": "De vastes cavernes souterraines s’ouvrent devant toi, éclairées par des minéraux lumineux et de lentes rivières de lumière orange chaude, loin en contrebas.",
-    "es": "Vastas cavernas subterráneas se abren ante ti, iluminadas por minerales resplandecientes y lentos ríos de cálida luz naranja, allá abajo."
+    "en": "You go down, far below the surface. Ahead, an opening in the rock breathes out warm air, slow and even, like a very old breath.",
+    "fr": "Tu descends loin sous la surface. Devant toi, une ouverture dans la roche souffle un air chaud, lent et régulier, comme une très vieille respiration.",
+    "es": "Desciendes muy por debajo de la superficie. Ante ti, una abertura en la roca deja salir un aire cálido, lento y parejo, como una respiración muy antigua."
    },
    "objective": {
-    "en": "To feel deeply grounded — connected to the ancient, steady, primal energy at the core of the Earth.",
-    "fr": "Se sentir profondément ancré — connecté à l’énergie ancienne, stable et primale au cœur de la Terre.",
-    "es": "Sentirte profundamente arraigado — conectado a la energía antigua, firme y primaria del núcleo de la Tierra."
+    "en": "To feel steady and rooted, carried by the Earth, and set down what weighs on you in the warm sand.",
+    "fr": "Se sentir stable et enraciné, porté par la Terre, et poser ce qui pèse sur le sable chaud.",
+    "es": "Sentirte estable y arraigado, sostenido por la Tierra, y dejar lo que pesa sobre la arena tibia."
    },
    "interactions": {
-    "en": "Rest a hand on a glowing crystal wall · Follow a warm river of light · Sit among the great descending roots",
-    "fr": "Poser une main sur une paroi de cristal lumineuse · Suivre une rivière de lumière chaude · S’asseoir parmi les grandes racines descendantes",
-    "es": "Apoyar una mano en una pared de cristal luminosa · Seguir un río de luz cálida · Sentarte entre las grandes raíces descendentes"
+    "en": "Rest your hand on a wall that lights up · Follow a river of orange light · Feel an amber egg beat · Receive a message from the people of the heart of the Earth",
+    "fr": "Poser la main sur une paroi qui s’éclaire · Suivre une rivière de lumière orange · Sentir battre un œuf d’ambre · Recevoir un message du peuple de la Terre",
+    "es": "Tocar una pared que se ilumina · Seguir un río de luz naranja · Sentir latir un huevo de ámbar · Recibir un mensaje del pueblo de la Tierra"
    },
    "soundDesign": {
-    "en": "A deep earthy hum · distant dripping water · the slow flow of warm light · echoes in vast chambers.",
-    "fr": "Un bourdon terreux profond · des gouttes d’eau au loin · le lent écoulement de la lumière chaude · des échos dans de vastes chambres.",
-    "es": "Un bordón terroso y profundo · gotas de agua a lo lejos · el lento fluir de la luz cálida · ecos en cámaras inmensas."
+    "en": "The Earth’s deep hum · running water · birds you do not know · a slow beat inside the egg · the Nebula soundscape.",
+    "fr": "Le bourdonnement profond de la Terre · de l’eau qui coule · des oiseaux inconnus · un battement lent dans l’œuf · la nappe Nébuleuse.",
+    "es": "El zumbido profundo de la Tierra · agua que corre · pájaros desconocidos · un latido lento en el huevo · la textura Nebulosa."
    },
    "visualAtmosphere": {
-    "en": "Dark stone grey, lava orange, crystal blue, emerald green. Glowing mineral walls, magma rivers, bioluminescent plants, giant roots descending from above.",
-    "fr": "Gris de pierre sombre, orange de lave, bleu cristal, vert émeraude. Parois minérales lumineuses, rivières de magma, plantes bioluminescentes, racines géantes descendant d’en haut.",
-    "es": "Gris de piedra oscura, naranja de lava, azul cristal, verde esmeralda. Paredes minerales luminosas, ríos de magma, plantas bioluminiscentes, raíces gigantes que descienden desde lo alto."
+    "en": "Dark stone, orange, blue, emerald green and honey. Glowing stones, rivers of light, giant ferns, and a gentle sun at the heart of the Earth.",
+    "fr": "Pierre sombre, orange, bleu, vert émeraude, miel. Des pierres qui brillent, des rivières de lumière, des fougères géantes et un soleil au centre de la Terre.",
+    "es": "Piedra oscura, naranja, azul, verde esmeralda y ámbar. Piedras que brillan, ríos de luz naranja y helechos altos como casas. En el centro de la Tierra, un sol color miel."
    },
    "endingNote": {
-    "en": "You rise gently back toward the surface, carrying the Earth’s steadiness in your bones.",
-    "fr": "Tu remontes doucement vers la surface, en portant la stabilité de la Terre dans tes os.",
-    "es": "Asciendes suavemente de vuelta hacia la superficie, llevando la firmeza de la Tierra en los huesos."
+    "en": "A column of light lifts you back up, with a little steadiness, like a pebble in your pocket.",
+    "fr": "Une colonne de lumière te ramène à la surface, avec un peu de stabilité, comme un galet en poche.",
+    "es": "Una columna de luz te sube a la superficie, con un poco de firmeza, como un guijarro en el bolsillo."
    },
    "moods": {
     "en": [
@@ -2684,29 +2684,29 @@
     "es": "El Santuario Helado"
    },
    "tagline": {
-    "en": "An ancient alien sanctuary beneath the Antarctic ice.",
-    "fr": "Un ancien sanctuaire extraterrestre sous la glace antarctique.",
-    "es": "Un antiguo santuario alienígena bajo el hielo antártico."
+    "en": "A very ancient sanctuary, hidden beneath the Antarctic ice.",
+    "fr": "Un sanctuaire très ancien, caché sous la glace de l’Antarctique.",
+    "es": "Un santuario muy antiguo, oculto bajo el hielo de la Antártida."
    },
    "description": {
-    "en": "Step into a vast, silent meditation chamber frozen beneath the polar ice — glowing crystal cores, soft holographic light, and a stillness older than memory.",
-    "fr": "Entre dans une vaste chambre de méditation silencieuse, gelée sous la glace polaire — des cœurs de cristal lumineux, une douce lumière holographique, et une immobilité plus ancienne que la mémoire.",
-    "es": "Entra en una vasta cámara de meditación silenciosa, congelada bajo el hielo polar — núcleos de cristal luminosos, suave luz holográfica y una quietud más antigua que la memoria."
+    "en": "Sink slowly beneath thousands of winters of ice. A polar fox guides you to a great crystal heart, then out into the open air, under the aurora.",
+    "fr": "Descends sous des milliers d’hivers de glace. Un renard polaire te guide jusqu’à un grand cœur de cristal, puis dehors, sous l’aurore.",
+    "es": "Desciende a través de miles de inviernos de hielo. Un zorro polar te guía hasta un gran corazón de cristal y luego sales al aire libre, bajo una aurora."
    },
    "openingScene": {
-    "en": "Great ice tunnels glow with soft alien light. Frozen geometric structures rise in silence, and holographic symbols drift slowly through the cold air.",
-    "fr": "De grands tunnels de glace brillent d’une douce lumière extraterrestre. Des structures géométriques gelées s’élèvent en silence, et des symboles holographiques dérivent lentement dans l’air froid.",
-    "es": "Grandes túneles de hielo brillan con una suave luz de otro mundo. Estructuras geométricas heladas se alzan en silencio, y símbolos holográficos derivan despacio en el aire frío."
+    "en": "You sink beneath miles of ice. Each of its layers was once a single winter’s snow. Around you, very old stars caught in the ice begin to shine.",
+    "fr": "Tu descends sous des kilomètres de glace. Chaque couche a été, autrefois, la neige d’un hiver. Dans la glace, de petites étoiles très anciennes s’allument.",
+    "es": "Desciendes bajo kilómetros de hielo. Cada capa fue, hace mucho tiempo, la nieve de un solo invierno. En el hielo se encienden pequeñas estrellas muy antiguas."
    },
    "objective": {
-    "en": "To find profound silence and stillness — a deep, isolated calm that empties the mind and opens it to transcendence.",
-    "fr": "Trouver un silence et une immobilité profonds — un calme profond et isolé qui vide l’esprit et l’ouvre à la transcendance.",
-    "es": "Encontrar un silencio y una quietud profundos — una calma honda y aislada que vacía la mente y la abre a la trascendencia."
+    "en": "To find a deep, peaceful silence, and let your mind become as wide and clear as the white expanse.",
+    "fr": "Trouver un silence profond, et laisser l’esprit devenir vaste et clair comme l’étendue blanche.",
+    "es": "Encontrar un silencio profundo y dejar que la mente se vuelva amplia y clara, como esta gran llanura blanca."
    },
    "interactions": {
-    "en": "Walk a glowing ice tunnel · Rest before a white crystal core · Read a holographic symbol with your awareness",
-    "fr": "Parcourir un tunnel de glace lumineux · Se reposer devant un cœur de cristal blanc · Lire un symbole holographique avec ta conscience",
-    "es": "Recorrer un túnel de hielo luminoso · Descansar ante un núcleo de cristal blanco · Leer un símbolo holográfico con tu conciencia"
+    "en": "Follow a polar fox through a blue tunnel · Breathe with a crystal heart · Free a book held in the ice · Fly over the snow with a feather in your hand",
+    "fr": "Suivre un renard polaire dans un tunnel bleu · Respirer avec un cœur de cristal · Libérer un livre pris dans la glace · Survoler la neige, une plume à la main",
+    "es": "Seguir a un zorro polar por un túnel azul · Respirar con un corazón de cristal · Liberar un libro del hielo · Volar sobre la nieve con una pluma"
    },
    "soundDesign": {
     "en": "A vast cold hum · the muffled wind of a far storm · soft crystalline chimes · deep, empty silence.",
@@ -2714,14 +2714,14 @@
     "es": "Un vasto bordón frío · el viento amortiguado de una tormenta lejana · suaves campanillas cristalinas · un silencio hondo y vacío."
    },
    "visualAtmosphere": {
-    "en": "Icy blue, white, silver, holographic cyan. Massive ice tunnels, glowing crystal cores, frozen ancient structures, floating geometric energy patterns.",
-    "fr": "Bleu glacé, blanc, argent, cyan holographique. Immenses tunnels de glace, cœurs de cristal lumineux, structures anciennes gelées, motifs d’énergie géométriques flottants.",
-    "es": "Azul glacial, blanco, plata, cian holográfico. Inmensos túneles de hielo, núcleos de cristal luminosos, estructuras antiguas congeladas, patrones geométricos de energía flotando."
+    "en": "Icy blue, white, silver, aurora green and pink. An ice tunnel, floating blue symbols, a garden of frost and a great crystal heart.",
+    "fr": "Bleu glacé, blanc, argent, vert et rose d’aurore. Un tunnel de glace, des symboles bleus qui flottent, un jardin de givre et un grand cœur de cristal.",
+    "es": "Azul glacial, blanco, plata, verde y rosa de aurora. Un túnel de hielo, símbolos azules que flotan, un jardín de escarcha y un gran corazón de cristal que late."
    },
    "endingNote": {
-    "en": "The silence settles into you as you rise gently back to the warmth of your body.",
-    "fr": "Le silence se dépose en toi tandis que tu remontes doucement vers la chaleur de ton corps.",
-    "es": "El silencio se asienta en ti mientras asciendes suavemente hacia el calor de tu cuerpo."
+    "en": "A feather carries you over the snow, then you return to the warmth of your body.",
+    "fr": "Une plume te porte au-dessus de la neige, puis tu reviens vers la chaleur de ton corps.",
+    "es": "Una pluma te lleva por encima de la nieve, y luego vuelves al calor de tu cuerpo."
    },
    "moods": {
     "en": [
@@ -2756,44 +2756,44 @@
     "es": "La Isla Flotante"
    },
    "tagline": {
-    "en": "A peaceful tropical island floating above the clouds.",
-    "fr": "Une île tropicale paisible flottant au-dessus des nuages.",
-    "es": "Una isla tropical apacible que flota sobre las nubes."
+    "en": "A small green island floating above the clouds.",
+    "fr": "Une petite île verte qui flotte au-dessus des nuages.",
+    "es": "Una pequeña isla verde que flota sobre las nubes."
    },
    "description": {
-    "en": "Your own private sanctuary in the sky — a green island with floating waterfalls, a giant ancient tree, and a warm sunset. A place that is entirely safe, and entirely yours.",
-    "fr": "Ton propre sanctuaire privé dans le ciel — une île verte avec des cascades flottantes, un arbre ancien géant, et un coucher de soleil chaud. Un lieu entièrement sûr, et entièrement à toi.",
-    "es": "Tu propio santuario privado en el cielo — una isla verde con cascadas flotantes, un árbol gigante y milenario, y un cálido atardecer. Un lugar del todo seguro, y del todo tuyo."
+    "en": "A bridge of clouds leads you to your island, with its waterfalls and great tree. A winged white stag watches over it. Here, you are at home.",
+    "fr": "Un pont de nuages te mène à ton île, avec ses cascades et son grand arbre. Un cerf blanc ailé y veille. Ici, tu es chez toi.",
+    "es": "Un puente de nubes te lleva a tu isla, con sus cascadas y su gran árbol. Un ciervo blanco con alas la cuida. Aquí estás en casa."
    },
    "openingScene": {
-    "en": "A green island floats gently among soft clouds, its waterfalls spilling over the edges into the sky. A warm sunset glows on the horizon.",
-    "fr": "Une île verte flotte doucement parmi de doux nuages, ses cascades se déversant par-dessus les bords dans le ciel. Un coucher de soleil chaud rayonne à l’horizon.",
-    "es": "Una isla verde flota dulcemente entre nubes suaves, y sus cascadas se derraman por los bordes hacia el cielo. Un cálido atardecer resplandece en el horizonte."
+    "en": "A small green island floats among the clouds. A bridge of clouds stretches out to it, soft as wool, pink and gold beneath your steps.",
+    "fr": "Une petite île verte flotte parmi les nuages. Un pont de nuages s’étire jusqu’à elle, moelleux comme la laine, rose et doré sous tes pas.",
+    "es": "Una pequeña isla verde flota entre las nubes. Un puente de nubes se despliega hasta ella, mullido como la lana, rosa y dorado bajo tus pasos."
    },
    "objective": {
-    "en": "To feel free, safe, and at home — to rest in a personal sanctuary where nothing can reach you.",
-    "fr": "Se sentir libre, en sécurité, et chez soi — se reposer dans un sanctuaire personnel où rien ne peut t’atteindre.",
-    "es": "Sentirte libre, a salvo y en casa — descansar en un santuario personal donde nada puede alcanzarte."
+    "en": "To feel free, safe and at home, on an island of your own, far from the noise of the world.",
+    "fr": "Être libre, en sécurité et chez toi, sur une île qui est la tienne, loin du bruit du monde.",
+    "es": "Sentirte libre, a salvo y en casa, en una isla que es tuya, lejos del ruido del mundo."
    },
    "interactions": {
-    "en": "Sit on the wooden platform · Rest against the great tree · Watch the waterfalls fall into the clouds",
-    "fr": "S’asseoir sur la plateforme de bois · Se reposer contre le grand arbre · Regarder les cascades tomber dans les nuages",
-    "es": "Sentarte en la plataforma de madera · Recostarte contra el gran árbol · Mirar las cascadas caer hacia las nubes"
+    "en": "Sit at the edge, your feet in the sky · Fly on a great white bird · Receive a seed from the white stag · Help a tiny island to be born",
+    "fr": "S’asseoir au bord, les pieds dans le ciel · Voler sur un grand oiseau blanc · Recevoir une graine du cerf blanc · Faire naître une petite île",
+    "es": "Sentarte al borde, con los pies en el cielo · Volar en un gran pájaro · Recibir una semilla del ciervo · Hacer nacer una isla"
    },
    "soundDesign": {
-    "en": "Soft falling water · gentle wind · distant birdsong · a warm, calm air tone.",
-    "fr": "Eau qui tombe doucement · vent léger · chant d’oiseaux au loin · un ton d’air chaud et calme.",
-    "es": "Agua cayendo con suavidad · viento ligero · canto de pájaros a lo lejos · un tono de aire cálido y sereno."
+    "en": "Wind in the grass · birds calling to one another · water falling from the island · a whale’s song · the Northwoods forest.",
+    "fr": "Le vent dans les herbes · des oiseaux qui s’appellent · l’eau des cascades · le chant d’une baleine · la forêt de Grands Bois.",
+    "es": "El viento en la hierba · pájaros que se llaman · el agua que cae · el canto de una ballena · el ambiente Gran bosque."
    },
    "visualAtmosphere": {
-    "en": "Sky blue, tropical green, sunset orange, soft gold. Floating waterfalls, a giant ancient tree, hanging lanterns, fireflies, soft clouds drifting below.",
-    "fr": "Bleu ciel, vert tropical, orange de coucher de soleil, or doux. Cascades flottantes, un arbre ancien géant, lanternes suspendues, lucioles, doux nuages dérivant en dessous.",
-    "es": "Azul cielo, verde tropical, naranja de atardecer, oro suave. Cascadas flotantes, un árbol gigante y milenario, farolillos colgantes, luciérnagas, nubes suaves derivando abajo."
+    "en": "Green, gold and the orange of sunset. Waterfalls plunging into the sky, a great ancient tree, lanterns, fireflies and shooting stars.",
+    "fr": "Vert, or et orange du couchant. Des cascades qui plongent dans le ciel, un grand arbre ancien, des lanternes, des lucioles et des étoiles filantes.",
+    "es": "Verde, oro y naranja de atardecer. Cascadas que se lanzan al cielo, un gran árbol muy antiguo, farolillos, luciérnagas y una lluvia de estrellas fugaces."
    },
    "endingNote": {
-    "en": "Lanterns glow as evening falls, and you drift gently back, carrying the island’s peace with you.",
-    "fr": "Les lanternes s’illuminent à la tombée du soir, et tu dérives doucement en arrière, en emportant la paix de l’île avec toi.",
-    "es": "Los farolillos se encienden al caer la tarde, y regresas flotando dulcemente, llevando contigo la paz de la isla."
+    "en": "A tiny island has just been born. You walk back over the bridge of clouds, and your island glows behind you.",
+    "fr": "Une petite île vient de naître. Tu repars sur le pont de nuages, et ton île brille derrière toi.",
+    "es": "Acaba de nacer una pequeña isla. Vuelves por el puente de nubes, y tu isla brilla a lo lejos, detrás de ti."
    },
    "moods": {
     "en": [
@@ -2833,39 +2833,39 @@
     "es": "Un jardín japonés tradicional de calma perfecta."
    },
    "description": {
-    "en": "Walk slow stone paths beneath falling cherry blossoms, past koi ponds and raked sand, in a place built for nothing but peace, balance, and elegant calm.",
-    "fr": "Parcours de lents chemins de pierre sous des cerisiers en fleurs, près de bassins à carpes et de sable ratissé, dans un lieu fait pour rien d’autre que la paix, l’équilibre et un calme élégant.",
-    "es": "Recorre lentos senderos de piedra bajo cerezos en flor, junto a estanques de carpas y arena rastrillada, en un lugar hecho solo para la paz, el equilibrio y una calma elegante."
+    "en": "Walk a stone path beneath a cherry tree in full bloom. Feed the koi, then drink tea with an old gardener, beside the raked white sand.",
+    "fr": "Avance sur un chemin de pierre, sous un cerisier en fleurs. Nourris les carpes, puis bois un thé avec un vieux jardinier, près du sable ratissé.",
+    "es": "Avanza por un camino de piedra, bajo un cerezo en flor. Da de comer a las carpas y luego toma un té con un viejo jardinero, junto a la arena rastrillada."
    },
    "openingScene": {
-    "en": "Cherry blossom petals drift down slowly through soft light. A koi pond rests still, and a gentle rain has just passed.",
-    "fr": "Des pétales de cerisier descendent lentement dans une lumière douce. Un bassin à carpes repose, immobile, et une douce pluie vient de passer.",
-    "es": "Pétalos de cerezo descienden despacio en una luz suave. Un estanque de carpas descansa inmóvil, y una lluvia ligera acaba de pasar."
+    "en": "A gentle rain has just passed. A simple wooden gate opens onto a green, quiet garden that smells of moss and cedar.",
+    "fr": "Une pluie douce vient de passer. Un simple portail de bois s’ouvre sur un jardin vert et silencieux, qui sent la mousse et le cèdre.",
+    "es": "Acaba de pasar una lluvia suave. Una sencilla puerta de madera se abre a un jardín verde y silencioso, que huele a musgo y a cedro."
    },
    "objective": {
-    "en": "To find balance and elegant calm — to slow down completely and let the mind settle like still water.",
-    "fr": "Trouver l’équilibre et un calme élégant — ralentir complètement et laisser l’esprit se poser comme une eau immobile.",
-    "es": "Encontrar equilibrio y una calma elegante — bajar el ritmo por completo y dejar que la mente se asiente como agua quieta."
+    "en": "To find balance, slow down, and let your mind grow as clear as the water in the pond.",
+    "fr": "Trouver l’équilibre, ralentir, et laisser l’esprit devenir clair comme l’eau du bassin.",
+    "es": "Encontrar el equilibrio, ir más despacio y dejar que la mente se aclare como el agua del estanque."
    },
    "interactions": {
-    "en": "Cross a wooden bridge · Watch the koi move slowly · Trace a line in the raked sand with your eyes",
-    "fr": "Traverser un pont de bois · Regarder les carpes se déplacer lentement · Suivre des yeux une ligne dans le sable ratissé",
-    "es": "Cruzar un puente de madera · Observar a las carpas moverse despacio · Seguir con la mirada una línea en la arena rastrillada"
+    "en": "Walk through a rain of petals · Feed the koi from a wooden bridge · Drink tea with the old gardener · Follow the evening lanterns",
+    "fr": "Marcher sous une pluie de pétales · Nourrir les carpes depuis un pont de bois · Boire un thé avec le vieux jardinier · Suivre les lanternes du soir",
+    "es": "Caminar bajo una lluvia de pétalos · Dar de comer a las carpas · Tomar un té con el viejo jardinero · Seguir los faroles de la tarde"
    },
    "soundDesign": {
-    "en": "A soft bamboo water fountain · gentle rain fading · rustling bamboo · a single distant temple bell.",
-    "fr": "Une douce fontaine de bambou · une pluie légère qui s’éloigne · le bruissement du bambou · une seule cloche de temple lointaine.",
-    "es": "Una suave fuente de bambú · una lluvia ligera que se aleja · el susurro del bambú · una única campana de templo, lejana."
+    "en": "A distant temple bell · the bamboo fountain keeping time · the wind making the bamboo sing · the Chinese Flute in the background.",
+    "fr": "Une cloche de temple au loin · la fontaine de bambou qui bat la mesure · le vent qui fait chanter les bambous · la flûte chinoise en fond.",
+    "es": "Una campana de templo a lo lejos · la fuente de bambú que marca el compás · el viento que hace cantar al bambú · la flauta china de fondo."
    },
    "visualAtmosphere": {
-    "en": "Soft pink, bamboo green, warm wood brown, sunset orange. Falling sakura petals, koi ponds, stone paths, wooden bridges, lantern light, raked sand.",
-    "fr": "Rose doux, vert de bambou, brun de bois chaud, orange de coucher de soleil. Pétales de sakura qui tombent, bassins à carpes, chemins de pierre, ponts de bois, lumière de lanterne, sable ratissé.",
-    "es": "Rosa suave, verde bambú, marrón de madera cálida, naranja de atardecer. Pétalos de sakura cayendo, estanques de carpas, senderos de piedra, puentes de madera, luz de farolillos, arena rastrillada."
+    "en": "Pink, bamboo green, warm wood and evening orange. Falling petals, a golden koi, raked white sand, stone lanterns and fireflies.",
+    "fr": "Rose, vert de bambou, bois chaud, orange du soir. Des pétales qui tombent, une carpe d’or, du sable ratissé, des lanternes de pierre et des lucioles.",
+    "es": "Rosa, verde bambú, madera cálida y naranja de atardecer. Pétalos que caen despacio, una carpa dorada, arena rastrillada, faroles de piedra y luciérnagas entre los bambúes."
    },
    "endingNote": {
-    "en": "A lantern glows as you leave the garden, its calm balance settled deep within you.",
-    "fr": "Une lanterne brille tandis que tu quittes le jardin, son équilibre calme déposé profondément en toi.",
-    "es": "Un farolillo brilla mientras dejas el jardín, con su sereno equilibrio asentado en lo hondo de ti."
+    "en": "The lanterns light the path back to the gate, and you leave with the calm of the garden.",
+    "fr": "Les lanternes éclairent le chemin jusqu’au portail, et tu repars avec le calme du jardin.",
+    "es": "Los faroles iluminan el camino hasta la puerta de madera, y te vas con la calma del jardín."
    },
    "moods": {
     "en": [
@@ -2900,44 +2900,44 @@
     "es": "La Atlántida Sumergida"
    },
    "tagline": {
-    "en": "A lost underwater civilization of deep serenity.",
-    "fr": "Une civilisation sous-marine perdue d’une sérénité profonde.",
-    "es": "Una civilización submarina perdida, de serenidad profunda."
+    "en": "A mother-of-pearl and coral city, deep in a warm sea.",
+    "fr": "Une cité de nacre et de corail, au fond d’une mer chaude.",
+    "es": "Una ciudad de nácar y coral, en el fondo de un mar cálido."
    },
    "description": {
-    "en": "Sink slowly into warm, glowing waters to a lost city of temples and coral. Move with the slow currents, held in flow, in the deep emotional calm of the sea.",
-    "fr": "Coule lentement dans des eaux chaudes et lumineuses jusqu’à une cité perdue de temples et de coraux. Bouge avec les lents courants, porté par le flux, dans le calme émotionnel profond de la mer.",
-    "es": "Húndete despacio en aguas cálidas y luminosas hasta una ciudad perdida de templos y coral. Muévete con las corrientes lentas, sostenido por el flujo, en la honda calma emocional del mar."
+    "en": "Sink into a warm sea, where you breathe with ease. A golden seahorse carries you between the temples, to the mother-of-pearl castle of an ancient city.",
+    "fr": "Descends dans une mer chaude, où tu respires sans effort. Un hippocampe doré te porte entre les temples, jusqu’au château de nacre d’une cité ancienne.",
+    "es": "Desciende a un mar cálido, donde respiras sin esfuerzo. Un caballito de mar dorado te lleva entre los templos, hasta el castillo de nácar de una ciudad antigua."
    },
    "openingScene": {
-    "en": "Soft blue light filters down through the water onto ancient temples below. Jellyfish drift past, glowing, and a whale sings somewhere far away.",
-    "fr": "Une douce lumière bleue filtre à travers l’eau sur d’anciens temples en contrebas. Des méduses passent, lumineuses, et une baleine chante quelque part au loin.",
-    "es": "Una suave luz azul se filtra a través del agua sobre templos antiguos, allá abajo. Medusas luminosas pasan a la deriva, y una ballena canta en algún lugar lejano."
+    "en": "You float on a warm, calm sea, then sink down. Above you, the surface shines like a silver ceiling. Little by little, you find you can breathe under the sea.",
+    "fr": "Tu flottes sur une mer chaude et calme, puis tu descends. La surface brille au-dessus de toi comme un plafond d’argent. Peu à peu, tu découvres que tu respires sous la mer.",
+    "es": "Flotas en un mar cálido y tranquilo, y luego desciendes. La superficie brilla sobre ti como un techo de plata. Poco a poco, descubres que respiras bajo el mar."
    },
    "objective": {
-    "en": "To enter a state of flow and emotional depth — to let feelings move freely and settle into serenity.",
-    "fr": "Entrer dans un état de flux et de profondeur émotionnelle — laisser les émotions circuler librement et se déposer dans la sérénité.",
-    "es": "Entrar en un estado de flujo y profundidad emocional — dejar que los sentimientos circulen libres y se asienten en la serenidad."
+    "en": "To let yourself be carried, let a feeling move through you, then feel it settle like sand in clear water.",
+    "fr": "Se laisser porter, laisser passer une émotion, puis la sentir se déposer comme du sable dans l’eau claire.",
+    "es": "Dejarte llevar por el mar y dejar pasar una emoción. Luego, sentir cómo se posa, como la arena en el agua clara."
    },
    "interactions": {
-    "en": "Drift past a glowing temple · Rest on a coral platform · Let the slow current carry you",
-    "fr": "Dériver près d’un temple lumineux · Se reposer sur une plateforme de corail · Se laisser porter par le lent courant",
-    "es": "Derivar junto a un templo luminoso · Descansar sobre una plataforma de coral · Dejarte llevar por la corriente lenta"
+    "en": "Ride a giant golden seahorse · Share a golden bubble with your hosts · Find a pearl that keeps a memory · Watch the whole city light up",
+    "fr": "Monter sur un hippocampe géant et doré · Boire une bulle dorée chez deux habitants · Trouver une perle qui garde un souvenir · Voir la cité s’illuminer",
+    "es": "Montar un caballito de mar dorado · Probar una burbuja dorada · Recibir una perla con un recuerdo · Ver cómo se ilumina la ciudad"
    },
    "soundDesign": {
-    "en": "Deep underwater ambience · distant whale song · soft bubbling currents · a slow, low resonance.",
-    "fr": "Une ambiance sous-marine profonde · le chant lointain d’une baleine · de doux courants à bulles · une résonance lente et grave.",
-    "es": "Un ambiente submarino profundo · el canto lejano de una ballena · suaves corrientes de burbujas · una resonancia lenta y grave."
+    "en": "The low hum of the sea · the long song of a whale · Ocean Waves in the background.",
+    "fr": "Le bourdonnement grave de la mer · le long chant d’une baleine · les vagues de l’océan en fond.",
+    "es": "El zumbido hondo del agua · el lejano canto de una ballena · tu respiración · las olas del océano, de fondo."
    },
    "visualAtmosphere": {
-    "en": "Deep ocean blue, aqua, turquoise, glowing cyan. Giant underwater temples, glowing sea plants, floating jellyfish, light rays, coral platforms, slow currents.",
-    "fr": "Bleu océan profond, aqua, turquoise, cyan lumineux. Temples sous-marins géants, plantes marines lumineuses, méduses flottantes, rayons de lumière, plateformes de corail, courants lents.",
-    "es": "Azul océano profundo, aguamarina, turquesa, cian luminoso. Templos submarinos gigantes, plantas marinas resplandecientes, medusas flotantes, rayos de luz, plataformas de coral, corrientes lentas."
+    "en": "Deep blue, pink and silver pearl, coral and gold. Mother-of-pearl towers, glowing jellyfish, a golden seahorse, and a city that shines like a starry sky.",
+    "fr": "Bleu profond, nacre rose et argent, corail, or. Des tours de nacre, des méduses qui s’allument, un hippocampe doré, une cité qui brille comme un ciel étoilé.",
+    "es": "Azul profundo, nácar rosa y plata, coral y oro. Torres de nácar, medusas que se encienden y un caballito de mar dorado. Una ciudad que brilla como un cielo estrellado."
    },
    "endingNote": {
-    "en": "The slow current lifts you gently upward, back toward the surface and your breath.",
-    "fr": "Le lent courant te soulève doucement vers le haut, vers la surface et ton souffle.",
-    "es": "La corriente lenta te eleva con dulzura, de vuelta hacia la superficie y tu respiración."
+    "en": "The slow current lifts you toward the surface and your breath, the pearl still in your hand.",
+    "fr": "Le lent courant te soulève doucement vers la surface et ton souffle, la perle au creux de la main.",
+    "es": "La corriente lenta te sube despacio hacia la superficie y tu respiración, con la perla en la mano."
    },
    "moods": {
     "en": [
@@ -2972,24 +2972,24 @@
     "es": "El Monasterio al Amanecer"
    },
    "tagline": {
-    "en": "A sacred monastery high in the mountains at dawn.",
-    "fr": "Un monastère sacré haut dans les montagnes, à l’aube.",
-    "es": "Un monasterio sagrado en lo alto de las montañas, al alba."
+    "en": "An old monastery in the mountains, just before dawn.",
+    "fr": "Un vieux monastère dans la montagne, juste avant l’aube.",
+    "es": "Un viejo monasterio en la montaña, justo antes del alba."
    },
    "description": {
-    "en": "Stand among snow peaks as the first golden light breaks over the world. Prayer flags move in the cold wind, and a deep clarity rises with the sun.",
-    "fr": "Tiens-toi parmi les sommets enneigés tandis que la première lumière dorée se lève sur le monde. Les drapeaux de prière s’agitent dans le vent froid, et une clarté profonde s’élève avec le soleil.",
-    "es": "Permanece entre cumbres nevadas mientras la primera luz dorada rompe sobre el mundo. Las banderas de oración ondean en el viento frío, y una claridad profunda se alza con el sol."
+    "en": "An old monk welcomes you just before dawn. Turn the prayer wheels, then watch the sun rise with a bowl of steaming tea in your hands.",
+    "fr": "Un vieux moine t’accueille avant l’aube. Fais tourner les moulins à prières, puis regarde le soleil se lever, un bol de thé à la main.",
+    "es": "Un viejo monje te recibe antes del alba. Haz girar las ruedas de oración. Después, con un cuenco de té en las manos, mira salir el sol sobre las cumbres."
    },
    "openingScene": {
-    "en": "Snow-covered peaks glow gold in the first light of dawn. Prayer flags ripple in a cold, clean wind, and incense rises from an ancient stone monastery.",
-    "fr": "Des sommets enneigés rougeoient d’or dans la première lumière de l’aube. Des drapeaux de prière ondulent dans un vent froid et pur, et l’encens s’élève d’un ancien monastère de pierre.",
-    "es": "Las cumbres nevadas resplandecen de oro en la primera luz del alba. Las banderas de oración ondean en un viento frío y puro, y el incienso asciende desde un antiguo monasterio de piedra."
+    "en": "You stand at the gate of an old monastery, just before dawn. The sky is still deep blue, and the last stars shine above the peaks.",
+    "fr": "Tu es devant le portail d’un vieux monastère, juste avant l’aube. Le ciel est d’un bleu profond, et les dernières étoiles brillent sur les sommets.",
+    "es": "Estás ante la puerta de un viejo monasterio de montaña, justo antes del alba. El cielo es de un azul profundo, y las últimas estrellas brillan sobre las cumbres."
    },
    "objective": {
-    "en": "To find clarity, wisdom, and a sense of spiritual awakening as the new day begins.",
-    "fr": "Trouver la clarté, la sagesse, et un sentiment d’éveil spirituel tandis que le jour nouveau commence.",
-    "es": "Encontrar claridad, sabiduría y una sensación de despertar espiritual mientras comienza el nuevo día."
+    "en": "To find clarity and a little wisdom, as you welcome the light of the rising day.",
+    "fr": "Trouver la clarté et un peu de sagesse, en accueillant la lumière du jour qui se lève.",
+    "es": "Encontrar claridad y un poco de sabiduría, mientras recibes la luz del día que empieza."
    },
    "interactions": {
     "en": "Watch the sunrise from a wooden balcony · Stand among the prayer flags · Sit in silence as the light grows",
@@ -2997,19 +2997,19 @@
     "es": "Contemplar el amanecer desde un balcón de madera · Permanecer entre las banderas de oración · Sentarte en silencio mientras crece la luz"
    },
    "soundDesign": {
-    "en": "High mountain wind · prayer flags fluttering · a distant deep horn · soft chanting far below.",
-    "fr": "Le vent de haute montagne · les drapeaux de prière qui claquent · une corne grave au loin · un doux chant, loin en contrebas.",
-    "es": "Viento de alta montaña · banderas de oración ondeando · un cuerno grave a lo lejos · un canto suave, muy abajo en el valle."
+    "en": "The cold wind · the little bells of the prayer wheels · a long, deep horn · the dry rustle of the prayer flags · a low chant from Khoomei.",
+    "fr": "Le vent froid · les clochettes des moulins à prières · une longue corne grave · les drapeaux qui claquent · un chant grave, celui de Khöömei.",
+    "es": "El viento frío · las campanillas de las ruedas de oración · un cuerno largo · el chasquido de las banderas · un canto grave, el de Khöömei."
    },
    "visualAtmosphere": {
-    "en": "Gold sunrise, snow white, mountain blue, warm wood. Snow peaks, prayer flags, glowing dawn clouds, incense smoke, wooden balconies over deep valleys.",
-    "fr": "Or de l’aurore, blanc de neige, bleu de montagne, bois chaud. Sommets enneigés, drapeaux de prière, nuages d’aube rougeoyants, fumée d’encens, balcons de bois au-dessus de vallées profondes.",
-    "es": "Oro del alba, blanco de nieve, azul de montaña, madera cálida. Cumbres nevadas, banderas de oración, nubes de amanecer encendidas, humo de incienso, balcones de madera sobre valles profundos."
+    "en": "Night blue, gold, and snow turning pink, then amber. Prayer flags, a painted wooden front, a sea of clouds and blue poppies opening.",
+    "fr": "Bleu de nuit, or, neige rose puis ambre. Des drapeaux de prière, une façade de bois peinte, une mer de nuages et des pavots bleus qui s’ouvrent.",
+    "es": "Azul de noche, oro, nieve rosa y luego ámbar. Banderas de oración y una fachada de madera pintada. Un mar de nubes encendido y amapolas azules que por fin se abren."
    },
    "endingNote": {
     "en": "The full warmth of the sun fills the valley as you carry its clarity back with you.",
-    "fr": "La pleine chaleur du soleil emplit la vallée tandis que tu en rapportes la clarté avec toi.",
-    "es": "El pleno calor del sol inunda el valle mientras llevas contigo su claridad de regreso."
+    "fr": "La pleine chaleur du soleil emplit la vallée, et tu emportes cette clarté avec toi.",
+    "es": "El pleno calor del sol llena todo el valle, y te llevas contigo esta claridad."
    },
    "moods": {
     "en": [
@@ -3044,44 +3044,44 @@
     "es": "La Biblioteca Celeste"
    },
    "tagline": {
-    "en": "An infinite library floating beyond reality.",
-    "fr": "Une bibliothèque infinie flottant au-delà du réel.",
-    "es": "Una biblioteca infinita que flota más allá de lo real."
+    "en": "An endless library that floats beyond the world.",
+    "fr": "Une bibliothèque sans fin, qui flotte au-delà du monde.",
+    "es": "Una biblioteca sin fin, que flota más allá del mundo."
    },
    "description": {
-    "en": "Wander an endless library of glowing books and spiral staircases beneath moving constellations. A quiet place for introspection and calm, curious wisdom.",
-    "fr": "Erre dans une bibliothèque sans fin de livres lumineux et d’escaliers en spirale, sous des constellations en mouvement. Un lieu tranquille pour l’introspection et une sagesse calme et curieuse.",
-    "es": "Vaga por una biblioteca sin fin de libros luminosos y escaleras de caracol, bajo constelaciones en movimiento. Un lugar tranquilo para la introspección y una sabiduría serena y curiosa."
+    "en": "Step through an ancient door. Here, books fly on their own to their readers, and a candle leads you to the gallery of vanished worlds.",
+    "fr": "Passe le seuil d’une porte ancienne. Ici, les livres volent seuls jusqu’à leurs lecteurs, et une bougie t’ouvre la galerie des mondes disparus.",
+    "es": "Cruza el umbral de una puerta antigua. Aquí los libros vuelan solos hasta sus lectores. Una vela te abre el camino hasta la galería de los mundos desaparecidos."
    },
    "openingScene": {
-    "en": "Endless bookshelves rise into the dark, lit by floating candles. Glowing books drift slowly past, and constellations turn across the great domed ceiling.",
-    "fr": "Des étagères sans fin s’élèvent dans l’obscurité, éclairées par des bougies flottantes. Des livres lumineux dérivent lentement, et des constellations tournent sur la grande coupole.",
-    "es": "Estanterías interminables se alzan en la oscuridad, iluminadas por velas flotantes. Libros luminosos pasan despacio a la deriva, y las constelaciones giran por la gran cúpula."
+    "en": "A tall door of old wood, warm beneath your palm, swings open without a sound. Beyond it, candles float in the dark between the shelves.",
+    "fr": "Une haute porte de bois ancien, tiède sous ta paume, s’ouvre sans un bruit. Au-delà, des bougies flottent dans l’obscurité, entre des étagères.",
+    "es": "Una alta puerta de madera vieja, tibia bajo tu palma, se abre sin un solo ruido. Más allá, unas velas flotan en la oscuridad, entre las altas estanterías."
    },
    "objective": {
-    "en": "To settle into quiet introspection and calm curiosity — to receive insight without effort.",
-    "fr": "S’installer dans une introspection tranquille et une curiosité calme — recevoir des réflexions sans effort.",
-    "es": "Asentarte en una introspección tranquila y una curiosidad serena — recibir comprensión sin esfuerzo."
+    "en": "To rest with something that matters to you, and welcome whatever comes, without effort.",
+    "fr": "Se poser avec une question qui compte, et accueillir ce qui vient, sans effort.",
+    "es": "Detenerte en una parte de tu vida que te importa y acoger lo que llegue, sin esfuerzo."
    },
    "interactions": {
-    "en": "Let a glowing book drift into your hands · Climb a spiral staircase · Watch the constellations move",
-    "fr": "Laisser un livre lumineux dériver dans tes mains · Gravir un escalier en spirale · Regarder les constellations bouger",
-    "es": "Dejar que un libro luminoso llegue flotando a tus manos · Subir una escalera de caracol · Contemplar el movimiento de las constelaciones"
+    "en": "Climb a spiral staircase · Open a silver book about a vanished world · Receive a book whose pages have no words · Keep a small golden key",
+    "fr": "Gravir un escalier en spirale · Ouvrir un livre d’argent sur un monde disparu · Recevoir un livre aux pages sans mots · Garder une petite clé d’or",
+    "es": "Subir una escalera de caracol · Abrir un libro de plata de un mundo desaparecido · Recibir un libro sin palabras · Guardar una llave de oro"
    },
    "soundDesign": {
-    "en": "A deep quiet hush · the soft turning of distant pages · a faint cosmic tone · the slow tick of an ancient clock.",
-    "fr": "Un calme profond et feutré · le doux tournement de pages lointaines · un faible ton cosmique · le lent tic-tac d’une horloge ancienne.",
-    "es": "Un silencio hondo y acogedor · el suave pasar de páginas lejanas · un tenue tono cósmico · el lento tictac de un reloj antiguo."
+    "en": "Pages turning far away · the ticking of an old clock · a very deep note from above · fairy-tale melodies from Fairy Tale.",
+    "fr": "Des pages qui tournent au loin · le tic-tac d’une vieille horloge · une note très grave venue d’en haut · des airs de conte, avec Féerie.",
+    "es": "Páginas que pasan a lo lejos · el tictac de un reloj antiguo · una nota muy grave que baja desde arriba · temas de cuento con Ensueño."
    },
    "visualAtmosphere": {
-    "en": "Dark navy, gold, candle orange, cosmic purple. Endless floating bookshelves, glowing books, floating candles, spiral staircases, moving constellations above.",
-    "fr": "Bleu marine sombre, or, orange de bougie, violet cosmique. Étagères flottantes sans fin, livres lumineux, bougies flottantes, escaliers en spirale, constellations en mouvement au-dessus.",
-    "es": "Azul marino oscuro, oro, naranja de vela, púrpura cósmico. Estanterías flotantes sin fin, libros luminosos, velas flotantes, escaleras de caracol, constelaciones moviéndose en lo alto."
+    "en": "Deep blue, gold and the glow of candles. Endless shelves, books that fly, spiral staircases, and silver stars turning slowly overhead.",
+    "fr": "Bleu profond, or, lueur des bougies. Des étagères sans fin, des livres qui volent, des escaliers en spirale et des étoiles d’argent qui tournent.",
+    "es": "Azul profundo, oro y luz de velas. Estanterías sin fin, libros que vuelan y escaleras de caracol. Estrellas de plata que giran en la cúpula y una salamandra dorada."
    },
    "endingNote": {
-    "en": "You close the book gently and drift back, carrying one quiet insight with you.",
-    "fr": "Tu fermes le livre doucement et dérives en arrière, en emportant une réflexion tranquille avec toi.",
-    "es": "Cierras el libro con suavidad y regresas flotando, llevando contigo una comprensión serena."
+    "en": "The salamander leaves you a golden key, and you go back through the door with this calm.",
+    "fr": "La salamandre te laisse une petite clé d’or. Tu repasses la grande porte, avec un peu de ce calme.",
+    "es": "La salamandra te deja una llave de oro. Vuelves a cruzar la gran puerta, con un poco de esta calma."
    },
    "moods": {
     "en": [
@@ -3116,44 +3116,44 @@
     "es": "El Oasis del Desierto"
    },
    "tagline": {
-    "en": "A mystical oasis beneath a star-filled desert sky.",
-    "fr": "Une oasis mystique sous un ciel de désert rempli d’étoiles.",
-    "es": "Un oasis místico bajo un cielo del desierto colmado de estrellas."
+    "en": "An oasis hidden in the dunes, under a sky full of stars.",
+    "fr": "Une oasis cachée dans les dunes, sous un ciel plein d’étoiles.",
+    "es": "Un oasis escondido entre las dunas, bajo un cielo lleno de estrellas."
    },
    "description": {
-    "en": "Sit by glowing water beneath an immense moon and a sky thick with stars. A place of stillness and solitude for deep, gentle emotional reflection.",
-    "fr": "Assieds-toi près d’une eau lumineuse sous une lune immense et un ciel chargé d’étoiles. Un lieu d’immobilité et de solitude pour une réflexion émotionnelle profonde et douce.",
-    "es": "Siéntate junto a un agua luminosa bajo una luna inmensa y un cielo cargado de estrellas. Un lugar de quietud y soledad para una reflexión emocional honda y amable."
+    "en": "A white camel carries you across the dunes to an oasis. A night market, a lamp full of butterflies and a pool of stars await you there.",
+    "fr": "Un chameau blanc te porte à travers les dunes jusqu’à une oasis. Un marché de nuit, une lampe pleine de papillons et un bassin d’étoiles t’y attendent.",
+    "es": "Un camello blanco te lleva por las dunas hasta un oasis. Allí te esperan un mercado nocturno, una lámpara llena de mariposas y un estanque de estrellas."
    },
    "openingScene": {
-    "en": "Moonlit dunes roll away into the dark. A still pool of water glows softly, reflecting the stars, and torch flames flicker by a quiet campfire.",
-    "fr": "Des dunes éclairées par la lune s’étendent dans l’obscurité. Un bassin d’eau immobile rougeoie doucement, reflétant les étoiles, et des flammes de torche vacillent près d’un feu de camp tranquille.",
-    "es": "Dunas iluminadas por la luna se pierden en la oscuridad. Un estanque de agua inmóvil resplandece suavemente, reflejando las estrellas, y las llamas de las antorchas titilan junto a una hoguera tranquila."
+    "en": "A wide desert at sunset. You walk slowly over the dunes, still warm from the day, toward an oasis that you cannot see yet.",
+    "fr": "Un grand désert, au coucher du soleil. Tu marches sur les dunes encore chaudes, vers une oasis que tu ne vois pas encore.",
+    "es": "Un gran desierto, al atardecer. Caminas por las dunas, todavía calientes del día, hacia un oasis que aún no ves."
    },
    "objective": {
-    "en": "To find stillness and solitude — a calm, safe space for honest emotional reflection.",
-    "fr": "Trouver l’immobilité et la solitude — un espace calme et sûr pour une réflexion émotionnelle honnête.",
-    "es": "Encontrar quietud y soledad — un espacio sereno y seguro para una reflexión emocional honesta."
+    "en": "To find calm and solitude, and let a feeling come without having to name it.",
+    "fr": "Trouver le calme et la solitude, et laisser venir une émotion sans avoir à la nommer.",
+    "es": "Encontrar calma y soledad, y dejar que llegue una emoción sin tener que ponerle nombre."
    },
    "interactions": {
-    "en": "Sit by the campfire · Look into the still water · Speak a feeling softly to the night",
-    "fr": "S’asseoir près du feu de camp · Regarder dans l’eau immobile · Confier doucement une émotion à la nuit",
-    "es": "Sentarte junto a la hoguera · Mirar en el agua inmóvil · Confiar en voz baja un sentimiento a la noche"
+    "en": "Ride a white camel across the dunes · Free butterflies from an old lamp · Go down beneath the pool · Tell the night one true thing",
+    "fr": "Voyager à dos de chameau blanc · Libérer des papillons d’une lampe · Descendre sous le bassin · Dire à la nuit une phrase vraie",
+    "es": "Ir en camello · Liberar mariposas de una lámpara · Descender bajo el estanque · Decir a la noche una frase verdadera"
    },
    "soundDesign": {
-    "en": "A soft desert wind · the gentle crackle of a fire · palm leaves rustling · deep night silence.",
-    "fr": "Un doux vent du désert · le léger crépitement d’un feu · le bruissement des feuilles de palmier · le silence profond de la nuit.",
-    "es": "Un suave viento del desierto · el leve crepitar de un fuego · el susurro de las hojas de palmera · el silencio profundo de la noche."
+    "en": "A soft wind over the dunes · the quiet voices of the market · a singing spring · the crackling fire · the Chinese Flute in the background.",
+    "fr": "Un vent doux sur les dunes · les voix basses du marché · une source qui chante · le feu qui crépite · la flûte chinoise en fond.",
+    "es": "Un viento suave sobre las dunas · las voces bajas del mercado · un manantial que canta · el fuego que crepita · la flauta china de fondo."
    },
    "visualAtmosphere": {
-    "en": "Deep blue night, gold sand, silver moonlight. Moonlit dunes, a glowing oasis pool, fire torches, palm trees, a giant moon, stars reflected in water.",
-    "fr": "Nuit bleu profond, sable doré, clair de lune argenté. Dunes au clair de lune, un bassin d’oasis lumineux, torches enflammées, palmiers, une lune géante, étoiles reflétées dans l’eau.",
-    "es": "Noche azul profundo, arena dorada, luz de luna plateada. Dunas a la luz de la luna, un estanque de oasis luminoso, antorchas encendidas, palmeras, una luna gigante, estrellas reflejadas en el agua."
+    "en": "Golden dunes, evening mauve, silver moonlight. Lanterns in the palm trees, glowing butterflies, blue lotus flowers and an enormous moon.",
+    "fr": "Or des dunes, mauve du soir, argent de la lune. Des lanternes dans les palmiers, des papillons qui brillent, des lotus bleus et une lune énorme.",
+    "es": "Oro de las dunas, malva de la tarde, plata de la luna. Faroles en las palmeras, mariposas que brillan, lotos azules y una luna enorme."
    },
    "endingNote": {
-    "en": "The fire glows low and warm as you carry the desert’s deep stillness back with you.",
-    "fr": "Le feu rougeoie, bas et chaud, tandis que tu rapportes l’immobilité profonde du désert avec toi.",
-    "es": "El fuego arde bajo y cálido mientras llevas contigo la quietud profunda del desierto."
+    "en": "The butterflies return to the lamp, the fire glows red, and you leave with the desert’s calm.",
+    "fr": "Les papillons rentrent dans la lampe. Le feu rougeoie, et tu repars avec le calme du désert.",
+    "es": "Las mariposas vuelven a la lámpara. El fuego brilla, rojo, y te vas con la calma del desierto."
    },
    "moods": {
     "en": [
@@ -3193,39 +3193,39 @@
     "es": "Un árbol sagrado inmenso, unido a toda la vida."
    },
    "description": {
-    "en": "Sit within the roots of a colossal glowing tree whose branches hold the stars and whose roots reach through all living things. A journey of connection, life energy, and renewal.",
-    "fr": "Assieds-toi parmi les racines d’un arbre colossal et lumineux dont les branches portent les étoiles et dont les racines traversent tout ce qui vit. Un voyage de connexion, d’énergie vitale et de renouveau.",
-    "es": "Siéntate entre las raíces de un árbol colosal y luminoso cuyas ramas sostienen las estrellas y cuyas raíces atraviesan todo lo que vive. Un viaje de conexión, energía vital y renovación."
+    "en": "A colossal tree waits for you at the heart of a glowing forest. Its guardian shows you how all lives are connected, then leads you up into its branches.",
+    "fr": "Un arbre colossal t’attend au cœur d’une forêt lumineuse. Son gardien te montre comment toutes les vies sont reliées, puis te fait monter dans ses branches.",
+    "es": "Un árbol colosal te espera en el corazón de un bosque luminoso. Su guardián te muestra cómo todas las vidas están unidas, y después te hace subir hasta sus ramas."
    },
    "openingScene": {
-    "en": "A colossal tree rises before you, glowing softly, its roots spreading endlessly and its leaves drifting like sparks of light into the dark.",
-    "fr": "Un arbre colossal se dresse devant toi, rayonnant doucement, ses racines s’étendant à l’infini et ses feuilles dérivant comme des étincelles de lumière dans l’obscurité.",
-    "es": "Un árbol colosal se alza ante ti, resplandeciendo con suavidad, sus raíces extendiéndose sin fin y sus hojas derivando como chispas de luz en la oscuridad."
+    "en": "A soft, glowing forest at night. The air is cool and green. Far ahead, between the trunks, something glows with the warm light of honey.",
+    "fr": "Une forêt douce et lumineuse, la nuit. L’air est frais et vert. Loin devant, entre les troncs, quelque chose brille couleur de miel.",
+    "es": "Un bosque suave y luminoso, en plena noche. El aire es fresco y verde. A lo lejos, entre los troncos, algo brilla del color de la miel."
    },
    "objective": {
-    "en": "To feel deeply connected to all of life, and to let renewing life-energy flow through you.",
-    "fr": "Se sentir profondément relié à toute la vie, et laisser une énergie vitale régénérante circuler à travers toi.",
-    "es": "Sentirte profundamente unido a toda la vida, y dejar que una energía vital renovadora fluya a través de ti."
+    "en": "To feel that everything alive is connected, and let a soft warmth rise in you, like sap.",
+    "fr": "Sentir que tout ce qui vit est relié, et laisser une chaleur douce monter en soi, comme la sève.",
+    "es": "Sentir que todo lo que vive está unido y dejar que un calor suave suba en ti, como la savia."
    },
    "interactions": {
-    "en": "Rest your back against the great trunk · Place your hands on a glowing root · Let life-energy flow up through you",
-    "fr": "Reposer ton dos contre le grand tronc · Poser tes mains sur une racine lumineuse · Laisser l’énergie vitale monter à travers toi",
-    "es": "Recostar tu espalda contra el gran tronco · Posar las manos sobre una raíz luminosa · Dejar que la energía vital ascienda a través de ti"
+    "en": "Feel the bark beating under your hand · Follow the guardian up a staircase of roots · Discover a world inside a leaf · Rest your back against the trunk",
+    "fr": "Sentir battre l’écorce sous ta main · Suivre le gardien par un escalier de racines · Découvrir un monde dans une feuille · Reposer ton dos contre le tronc",
+    "es": "Sentir latir la corteza bajo tu mano · Seguir al guardián por una escalera de raíces · Descubrir un mundo en una hoja · Apoyar la espalda en el tronco"
    },
    "soundDesign": {
-    "en": "A warm living hum · soft rustling leaves · a gentle flowing river · the slow pulse of energy.",
-    "fr": "Un bourdon vivant et chaud · le doux bruissement des feuilles · une rivière qui coule doucement · la lente pulsation de l’énergie.",
-    "es": "Un bordón cálido y vivo · el suave susurro de las hojas · un río que fluye dulcemente · el lento pulso de la energía."
+    "en": "A warm, low hum · leaves rustling high above · water running nearby · the slow heartbeat of the tree · Woodland birdsong.",
+    "fr": "Un bourdonnement chaud et grave · le bruissement des feuilles · de l’eau qui coule · le battement lent de l’arbre · les oiseaux de Sous-bois.",
+    "es": "Un zumbido cálido y grave · el susurro de las hojas · agua que corre · el latido lento del árbol · los pájaros de Sotobosque."
    },
    "visualAtmosphere": {
-    "en": "Emerald green, gold, glowing cyan. A colossal glowing tree, floating leaves, energy flowing through branches, bioluminescent forest, magical rivers.",
-    "fr": "Vert émeraude, or, cyan lumineux. Un arbre colossal lumineux, des feuilles flottantes, de l’énergie circulant dans les branches, une forêt bioluminescente, des rivières magiques.",
-    "es": "Verde esmeralda, oro, cian luminoso. Un árbol colosal resplandeciente, hojas flotantes, energía fluyendo por las ramas, un bosque bioluminiscente, ríos mágicos."
+    "en": "Green, gold and honey. Leaves of light, veins of gold beneath the bark, roots that shine like threads, and stars among the branches.",
+    "fr": "Vert, or et miel. Des feuilles de lumière, des veines d’or sous l’écorce, des racines lumineuses et des étoiles dans les branches.",
+    "es": "Verde, oro y miel. Hojas de luz que caen despacio y venas doradas bajo la corteza. Raíces que brillan como hilos y estrellas entre las ramas."
    },
    "endingNote": {
-    "en": "The tree’s warm energy stays glowing in your chest as you gently return.",
-    "fr": "L’énergie chaude de l’arbre reste rayonnante dans ta poitrine tandis que tu reviens doucement.",
-    "es": "La cálida energía del árbol sigue brillando en tu pecho mientras regresas con suavidad."
+    "en": "You thank the tree and its guardian, then return, the leaf against your heart.",
+    "fr": "Tu remercies l’arbre et son gardien, puis tu reviens doucement, la feuille contre ton cœur.",
+    "es": "Das las gracias al árbol y a su guardián, y vuelves despacio, con la hoja contra tu corazón."
    },
    "moods": {
     "en": [
@@ -3262,22 +3262,22 @@
    "tagline": {
     "en": "An ancient lost city reclaimed by the jungle.",
     "fr": "Une ancienne cité perdue, reprise par la jungle.",
-    "es": "Una antigua ciudad perdida, reclamada por la selva."
+    "es": "Una antigua ciudad perdida que la selva ha recuperado."
    },
    "description": {
-    "en": "Explore a quiet, overgrown temple deep in the jungle, where waterfalls pour through old stone and glowing symbols wait in the green half-light. A place of mystery and primal calm.",
-    "fr": "Explore un temple silencieux et envahi par la végétation, au cœur de la jungle, où des cascades coulent à travers la vieille pierre et où des symboles lumineux attendent dans la pénombre verte. Un lieu de mystère et de calme primal.",
-    "es": "Explora un templo silencioso y cubierto de vegetación en lo hondo de la selva, donde las cascadas fluyen a través de la piedra vieja y símbolos luminosos aguardan en la penumbra verde. Un lugar de misterio y calma primaria."
+    "en": "Enter a city asleep beneath the jungle, where waterfalls run over old stone. A little monkey of light guides you to a hidden ocean, where an older city sleeps.",
+    "fr": "Entre dans une cité endormie sous la jungle, où des cascades coulent sur la vieille pierre. Un petit singe de lumière te guide jusqu’à un océan caché, où dort une cité plus ancienne.",
+    "es": "Entra en una ciudad dormida bajo la selva, donde una cascada cae entre la piedra vieja. Un pequeño mono hecho de luz te guía hasta un océano escondido, donde duerme una ciudad aún más antigua."
    },
    "openingScene": {
-    "en": "Vines cover ancient temple walls. Soft mist hangs in the warm air, waterfalls pour gently through the stone, and glowing insects drift in the green light.",
-    "fr": "Des lianes recouvrent d’anciennes parois de temple. Une douce brume flotte dans l’air chaud, des cascades coulent doucement à travers la pierre, et des insectes lumineux dérivent dans la lumière verte.",
-    "es": "Las lianas cubren antiguos muros de templo. Una bruma suave flota en el aire cálido, las cascadas se derraman dulcemente entre la piedra, e insectos luminosos derivan en la luz verde."
+    "en": "A warm green jungle. Beneath the vines stand the walls of a forgotten temple. Somewhere, water is falling, and mist drifts between the trunks.",
+    "fr": "Une jungle verte et chaude. Sous les lianes, les murs d’un temple oublié. De l’eau tombe quelque part, et la brume flotte entre les troncs.",
+    "es": "Una selva verde y cálida. Delante de ti, bajo las lianas, los muros de un templo olvidado. En algún lugar cae agua, y la bruma flota lenta entre los troncos."
    },
    "objective": {
-    "en": "To feel a calm sense of mystery and exploration — to slow down and become quietly curious and present.",
-    "fr": "Ressentir un calme sentiment de mystère et d’exploration — ralentir et devenir tranquillement curieux et présent.",
-    "es": "Sentir una serena sensación de misterio y exploración — bajar el ritmo y volverte tranquilamente curioso y presente."
+    "en": "To explore without any hurry, and enjoy a quiet mystery that leaves you calm and curious.",
+    "fr": "Explorer sans hâte, et goûter un mystère tranquille qui rend calme et curieux.",
+    "es": "Explorar sin prisa y disfrutar de un misterio tranquilo que despierta calma y curiosidad."
    },
    "interactions": {
     "en": "Walk an overgrown staircase · Rest a hand on a glowing carved symbol · Sit by a waterfall in the ruins",
@@ -3285,19 +3285,19 @@
     "es": "Subir una escalinata cubierta de vegetación · Posar una mano sobre un símbolo tallado y luminoso · Sentarte junto a una cascada entre las ruinas"
    },
    "soundDesign": {
-    "en": "Falling water · soft jungle insects · distant gentle thunder · a warm, humid hush.",
-    "fr": "L’eau qui tombe · de doux insectes de jungle · un tonnerre doux et lointain · un calme chaud et humide.",
-    "es": "Agua que cae · suaves insectos de la selva · un trueno dulce y lejano · una calma cálida y húmeda."
+    "en": "Falling water · humming insects · distant thunder · the deep song of great creatures under the water · the rain of After Rain.",
+    "fr": "L’eau qui tombe · le bourdonnement des insectes · un tonnerre lointain · le chant grave de créatures sous l’eau · la pluie d’Après l’averse.",
+    "es": "Agua que cae · insectos que zumban · un trueno lejano · criaturas que cantan bajo el agua · el ambiente Tras la lluvia."
    },
    "visualAtmosphere": {
-    "en": "Deep jungle green, moss, ancient stone grey. Overgrown temples, vines, waterfalls through ruins, glowing insects, fog, broken statues, mysterious symbols.",
-    "fr": "Vert profond de jungle, mousse, gris de pierre ancienne. Temples envahis, lianes, cascades à travers les ruines, insectes lumineux, brume, statues brisées, symboles mystérieux.",
-    "es": "Verde profundo de selva, musgo, gris de piedra antigua. Templos cubiertos de vegetación, lianas, cascadas entre las ruinas, insectos luminosos, niebla, estatuas rotas, símbolos misteriosos."
+    "en": "Deep green, moss, old stone and water blue. Vines, a pyramid covered in flowers, glowing insects, carved spirals and a mother-of-pearl palace.",
+    "fr": "Vert profond, mousse, pierre grise, bleu de l’eau. Des lianes, une pyramide fleurie, des insectes lumineux, des spirales gravées, un palais de nacre.",
+    "es": "Verde profundo, musgo, piedra gris y azul del agua. Lianas, una pirámide cubierta de flores, insectos luminosos, espirales talladas en la piedra y un palacio de nácar."
    },
    "endingNote": {
-    "en": "A soft rain begins to fall as you leave the ruins, calm and quietly curious.",
-    "fr": "Une douce pluie commence à tomber tandis que tu quittes les ruines, calme et tranquillement curieux.",
-    "es": "Una lluvia suave comienza a caer mientras dejas las ruinas, sereno y tranquilamente curioso."
+    "en": "A soft rain begins to fall as you leave the ruins, calm and curious.",
+    "fr": "Une douce pluie se met à tomber, et tu quittes les ruines, calme et curieux.",
+    "es": "Empieza a caer una lluvia suave y tibia, y dejas las ruinas en calma, con curiosidad."
    },
    "moods": {
     "en": [
@@ -3334,42 +3334,42 @@
    "tagline": {
     "en": "A surreal, glowing forest of dreams.",
     "fr": "Une forêt onirique et lumineuse.",
-    "es": "Un bosque de sueños, surreal y luminoso."
+    "es": "Un bosque onírico, suave y luminoso."
    },
    "description": {
-    "en": "Wander a soft, glowing forest of giant mushrooms, drifting spores, and rivers of light. A gentle, dreamlike escape for wonder and free imagination.",
-    "fr": "Erre dans une forêt douce et lumineuse de champignons géants, de spores flottantes, et de rivières de lumière. Une échappée douce et onirique pour l’émerveillement et l’imagination libre.",
-    "es": "Vaga por un bosque suave y resplandeciente de setas gigantes, esporas a la deriva y ríos de luz. Una escapada dulce y onírica hacia el asombro y la imaginación libre."
+    "en": "Step into a dream forest of violet and pink. Pick a little galaxy, follow a river of light, then fly over the forest with an octopus of light.",
+    "fr": "Entre dans une forêt de rêve, violette et rose. Cueille une petite galaxie, suis une rivière de lumière, puis survole les arbres avec une pieuvre de lumière.",
+    "es": "Entra en un bosque de sueño, violeta y rosa. Toma una pequeña galaxia en tus manos y sigue un río de luz. Luego, sobrevuela los árboles con un pulpo de luz."
    },
    "openingScene": {
-    "en": "Giant mushrooms glow softly in purple mist. Tiny spores of light drift up through the air, and a glowing river winds quietly through the dreamlike trees.",
-    "fr": "De géants champignons brillent doucement dans une brume violette. De minuscules spores de lumière s’élèvent dans l’air, et une rivière lumineuse serpente tranquillement parmi les arbres oniriques.",
-    "es": "Setas gigantes brillan suavemente en una bruma violeta. Diminutas esporas de luz ascienden por el aire, y un río luminoso serpentea en silencio entre los árboles de ensueño."
+    "en": "A strange and gentle forest glows with violet and pink light. Beneath you, warm moss still holds the day’s light. You are already here.",
+    "fr": "Une forêt étrange et douce brille de violet et de rose. Sous toi, une mousse tiède a gardé la lumière du jour. Tu es déjà là.",
+    "es": "Un bosque extraño y suave brilla de violeta y rosa. Bajo ti, un musgo tibio ha guardado la luz del día. Ya estás aquí."
    },
    "objective": {
-    "en": "To soften the mind into wonder and imagination — a gentle, playful emotional escape.",
-    "fr": "Adoucir l’esprit vers l’émerveillement et l’imagination — une échappée émotionnelle douce et ludique.",
-    "es": "Ablandar la mente hacia el asombro y la imaginación — una escapada emocional dulce y juguetona."
+    "en": "To see again with a child’s eyes, soft and curious, and let wonder come.",
+    "fr": "Retrouver un regard d’enfant, doux et curieux, et laisser venir l’émerveillement.",
+    "es": "Volver a mirar como un niño, con dulzura y curiosidad, y dejar que llegue el asombro."
    },
    "interactions": {
-    "en": "Walk a softly glowing path · Watch the floating spores · Follow the river of light",
-    "fr": "Parcourir un sentier doucement lumineux · Regarder les spores flottantes · Suivre la rivière de lumière",
-    "es": "Recorrer un sendero suavemente luminoso · Observar las esporas flotantes · Seguir el río de luz"
+    "en": "Pick a little galaxy · Follow a river of light · See an image of yourself, happy · Fly over the forest on an octopus of light",
+    "fr": "Cueillir une galaxie · Suivre une rivière de lumière · Voir une image de toi, heureux · Survoler la forêt sur une pieuvre de lumière",
+    "es": "Tomar una galaxia entre las manos · Seguir un río de luz · Verte feliz en una imagen · Volar en un pulpo de luz"
    },
    "soundDesign": {
-    "en": "Soft dreamy chimes · a gentle low drone · faint trickling light-water · a warm, hazy hush.",
-    "fr": "De doux carillons oniriques · un bourdon grave et doux · le faible ruissellement d’une eau de lumière · un calme chaud et brumeux.",
-    "es": "Suaves campanillas de ensueño · un bordón grave y dulce · el tenue murmullo de un agua de luz · una calma cálida y brumosa."
+    "en": "The low, warm hum of the forest · one small chime · a river of light that rings like little bells · Woodland birdsong.",
+    "fr": "Le fredonnement grave de la forêt · un petit carillon · une rivière qui tinte comme des clochettes · les oiseaux de Sous-bois.",
+    "es": "El tarareo grave del bosque · una campanilla pequeña · un río que suena como campanitas · los pájaros de Sotobosque."
    },
    "visualAtmosphere": {
-    "en": "Purple, pink, blue, glowing neon gradients. Giant glowing mushrooms, purple mist, floating spores, bioluminescent plants, glowing rivers, drifting dream-creatures.",
-    "fr": "Violet, rose, bleu, dégradés néon lumineux. Champignons géants lumineux, brume violette, spores flottantes, plantes bioluminescentes, rivières lumineuses, créatures oniriques à la dérive.",
-    "es": "Violeta, rosa, azul, degradados de neón luminosos. Setas gigantes resplandecientes, bruma violeta, esporas flotantes, plantas bioluminiscentes, ríos luminosos, criaturas de ensueño a la deriva."
+    "en": "Violet, pink, blue and silver. Mushrooms that glow like lanterns, trees heavy with galaxies, butterflies of light and deer with crystal antlers.",
+    "fr": "Violet, rose, bleu, argent. Des champignons comme des lanternes, des arbres chargés de galaxies, des papillons de lumière, des cerfs aux bois de cristal.",
+    "es": "Violeta, rosa, azul y plata. Hongos que brillan como farolillos, árboles cargados de galaxias y mariposas de luz. Ciervos con astas de cristal y un gran pulpo de luz rosada."
    },
    "endingNote": {
-    "en": "The colors soften and fade as you drift gently back, light and full of wonder.",
-    "fr": "Les couleurs s’adoucissent et s’estompent tandis que tu dérives doucement en arrière, léger et émerveillé.",
-    "es": "Los colores se suavizan y se desvanecen mientras regresas flotando dulcemente, ligero y lleno de asombro."
+    "en": "The colors soften and fade, and you drift gently back, with the word the galaxy gave you.",
+    "fr": "Les couleurs s’adoucissent et pâlissent, et tu reviens doucement, avec le mot que la galaxie t’a confié.",
+    "es": "Los colores se suavizan y se apagan, y vuelves despacio, con la palabra que te dio la galaxia."
    },
    "moods": {
     "en": [
@@ -3404,44 +3404,44 @@
     "es": "La Dimensión de los Espejos"
    },
    "tagline": {
-    "en": "A reflective realm of infinite awareness.",
-    "fr": "Un royaume réfléchissant de conscience infinie.",
-    "es": "Un reino de reflejos, de conciencia infinita."
+    "en": "A world of white light, with endless mirrors.",
+    "fr": "Un monde de lumière blanche et de miroirs sans fin.",
+    "es": "Un mundo de luz blanca y de espejos infinitos."
    },
    "description": {
-    "en": "Float in a still, luminous space of endless mirrors and soft white light. A meditation on awareness itself — for introspection, transcendence, and a gentle shift in perception.",
-    "fr": "Flotte dans un espace immobile et lumineux de miroirs infinis et de douce lumière blanche. Une méditation sur la conscience elle-même — pour l’introspection, la transcendance, et un doux changement de perception.",
-    "es": "Flota en un espacio quieto y luminoso de espejos infinitos y suave luz blanca. Una meditación sobre la conciencia misma — para la introspección, la trascendencia y un dulce giro en la percepción."
+    "en": "Float among endless mirrors. In one of them, your animal guide is waiting, and then it leads you on to other worlds. One question remains: who is looking?",
+    "fr": "Flotte parmi des miroirs sans fin. Dans l’un d’eux, ton animal-guide t’attend, puis t’emmène vers d’autres mondes. Reste une question : qui regarde ?",
+    "es": "Flota entre espejos sin fin, en una luz blanca y suave. En uno de ellos te espera tu animal guía, que te lleva a otros mundos. Al final queda una pregunta: ¿quién mira?"
    },
    "openingScene": {
-    "en": "Endless mirrors float in soft white light, reflecting one another into infinity. The space is perfectly still, calm, and quiet.",
-    "fr": "Des miroirs sans fin flottent dans une douce lumière blanche, se reflétant les uns les autres jusqu’à l’infini. L’espace est parfaitement immobile, calme, et silencieux.",
-    "es": "Espejos sin fin flotan en una suave luz blanca, reflejándose unos a otros hasta el infinito. El espacio está perfectamente inmóvil, sereno y silencioso."
+    "en": "White light surrounds you, soft as the inside of a cloud. You float without weight, and a pure tone sounds far away.",
+    "fr": "Une lumière blanche t’entoure, douce comme l’intérieur d’un nuage. Tu flottes sans poids, et une note pure résonne au loin.",
+    "es": "Una luz blanca te rodea, suave como el interior de una nube. Flotas sin peso, y a lo lejos suena un tono puro, como una copa que canta."
    },
    "objective": {
-    "en": "To turn awareness gently inward — to rest as the calm witness behind all thought, and feel a soft shift in perception.",
-    "fr": "Tourner doucement la conscience vers l’intérieur — se reposer en tant que témoin calme derrière toute pensée, et ressentir un doux changement de perception.",
-    "es": "Volver la conciencia dulcemente hacia dentro — descansar como el testigo sereno tras todo pensamiento, y sentir un suave giro en la percepción."
+    "en": "To turn your gaze gently inward, and rest in the calm, quiet awareness that simply watches everything.",
+    "fr": "Tourner le regard vers l’intérieur, et se reposer dans la conscience calme qui observe simplement.",
+    "es": "Volver la mirada hacia dentro y descansar en la conciencia tranquila que simplemente observa."
    },
    "interactions": {
-    "en": "Float between two mirrors · Meet your own calm reflection · Rest as the awareness watching it all",
-    "fr": "Flotter entre deux miroirs · Rencontrer ton propre reflet calme · Se reposer en tant que conscience qui observe tout",
-    "es": "Flotar entre dos espejos · Encontrar tu propio reflejo sereno · Descansar como la conciencia que lo observa todo"
+    "en": "Glide between two mirrors · Follow your animal guide from mirror to mirror · Give a difficult moment to the round mirror · Find your own face again",
+    "fr": "Glisser entre deux miroirs · Suivre ton animal-guide de miroir en miroir · Confier un moment difficile au miroir rond · Retrouver ton propre visage",
+    "es": "Flotar entre dos espejos · Seguir a tu animal guía · Dar un momento difícil al espejo redondo · Volver a ver tu propio rostro"
    },
    "soundDesign": {
-    "en": "A pure high tone · soft glassy resonance · long, smooth swells of light · deep stillness.",
-    "fr": "Un ton aigu et pur · une douce résonance cristalline · de longues et lisses montées de lumière · une immobilité profonde.",
-    "es": "Un tono agudo y puro · una suave resonancia de cristal · largas y tersas oleadas de luz · una quietud profunda."
+    "en": "A pure, high tone, like a glass that sings · a crystal chime that lingers · raindrops chiming as they rise · the Nebula soundscape.",
+    "fr": "Une note pure et aiguë, comme un verre qui chante · un son de cristal qui dure · des gouttes qui tintent en montant · la nappe Nébuleuse.",
+    "es": "Un tono puro, como el de una copa que canta · un largo sonido de cristal · gotas que tintinean al subir · la textura Nebulosa."
    },
    "visualAtmosphere": {
-    "en": "Silver, white, black, holographic reflections. Endless floating mirrors, soft white light, gentle distorted reflections, infinite corridors, light waves across surfaces.",
-    "fr": "Argent, blanc, noir, reflets holographiques. Miroirs flottants sans fin, douce lumière blanche, doux reflets déformés, couloirs infinis, vagues de lumière sur les surfaces.",
-    "es": "Plata, blanco, negro, reflejos holográficos. Espejos flotantes sin fin, suave luz blanca, reflejos dulcemente distorsionados, corredores infinitos, ondas de luz sobre las superficies."
+    "en": "White, silver and the gold of honey. Endless mirrors, a corridor of reflections, rain that falls upward, and golden bubbles full of tiny worlds.",
+    "fr": "Blanc, argent, or de miel. Des miroirs sans fin, un couloir de reflets, une pluie qui monte, des bulles d’or pleines de petits mondes.",
+    "es": "Blanco, plata y oro de miel. Espejos sin fin, un pasillo de reflejos, una lluvia que sube y burbujas de oro llenas de pequeños mundos."
    },
    "endingNote": {
-    "en": "The mirrors fade softly into light as you return, quietly changed.",
-    "fr": "Les miroirs se fondent doucement dans la lumière tandis que tu reviens, tranquillement transformé.",
-    "es": "Los espejos se funden suavemente en la luz mientras regresas, serenamente transformado."
+    "en": "The mirrors melt into light, and you return with this calm and a small light in your chest.",
+    "fr": "Les miroirs se fondent dans la lumière, et tu reviens avec ce calme, une petite lumière dans la poitrine.",
+    "es": "Los espejos se funden en la luz, y vuelves con esta calma y una pequeña luz encendida en el pecho."
    },
    "moods": {
     "en": [
@@ -3481,14 +3481,14 @@
     "es": "Un bosque a la luz de la luna, guardado por antiguos espíritus lobo."
    },
    "description": {
-    "en": "Walk a snowy pine forest under the northern lights, watched over by gentle wolf spirits. A journey of protection, instinct, and quiet emotional strength.",
-    "fr": "Parcours une forêt de pins enneigée sous les aurores boréales, veillé par de doux esprits loups. Un voyage de protection, d’instinct, et de force émotionnelle tranquille.",
-    "es": "Camina por un pinar nevado bajo las auroras boreales, velado por dulces espíritus lobo. Un viaje de protección, instinto y serena fuerza emocional."
+    "en": "Step into a snowy pine forest at night. A wolf full of stars leads you to its pack, and you run with them, beneath an immense moon.",
+    "fr": "Entre la nuit dans une forêt de pins enneigée. Un loup plein d’étoiles te guide jusqu’à sa meute, et tu cours avec eux sous une lune immense.",
+    "es": "Entra de noche en un pinar nevado. Un lobo lleno de estrellas te guía hasta su manada, y corres con ellos bajo una luna inmensa."
    },
    "openingScene": {
-    "en": "Moonlight falls through tall pines onto fresh snow. Blue spirit-lights drift between the trees, and far off, calm glowing eyes watch over you.",
-    "fr": "Le clair de lune tombe à travers de grands pins sur la neige fraîche. Des lumières-esprits bleues dérivent entre les arbres, et au loin, des yeux lumineux et calmes veillent sur toi.",
-    "es": "La luz de la luna cae entre altos pinos sobre la nieve recién caída. Luces-espíritu azules derivan entre los árboles, y a lo lejos, unos ojos luminosos y serenos velan por ti."
+    "en": "It is night, at the edge of a deep blue pine forest. The snow is fresh, and the full moon shines, enormous, above the trees.",
+    "fr": "La nuit, au bord d’une forêt de pins d’un bleu profond. La neige est fraîche, et la pleine lune brille au-dessus des arbres.",
+    "es": "De noche, al borde de un bosque de pinos de un azul profundo. La nieve es fresca, y la luna llena brilla sobre los árboles."
    },
    "objective": {
     "en": "To feel protected and guided — to reconnect with your instinct and quiet inner strength.",
@@ -3496,24 +3496,24 @@
     "es": "Sentirte protegido y guiado — reconectar con tu instinto y tu serena fuerza interior."
    },
    "interactions": {
-    "en": "Walk the moonlit path · Sit by a sacred campfire · Let a wolf spirit walk beside you",
-    "fr": "Parcourir le sentier au clair de lune · S’asseoir près d’un feu sacré · Laisser un esprit loup marcher à tes côtés",
-    "es": "Recorrer el sendero a la luz de la luna · Sentarte junto a un fuego sagrado · Dejar que un espíritu lobo camine a tu lado"
+    "en": "Follow a wolf full of stars along the path · Run with the pack until you become a wolf · Howl at the moon together · Sit by a sacred fire",
+    "fr": "Suivre un loup plein d’étoiles sur le sentier · Courir avec la meute, jusqu’à devenir loup · Chanter vers la lune · S’asseoir près d’un feu sacré",
+    "es": "Seguir a un lobo de estrellas por el sendero · Correr con la manada hasta ser lobo · Aullar a la luna · Sentarte junto a un fuego sagrado"
    },
    "soundDesign": {
-    "en": "A soft cold wind through pines · a crackling campfire · a distant gentle howl · deep snowy silence.",
-    "fr": "Un doux vent froid à travers les pins · un feu de camp crépitant · un hurlement doux et lointain · le silence profond de la neige.",
-    "es": "Un suave viento frío entre los pinos · una hoguera crepitante · un aullido dulce y lejano · el silencio profundo de la nieve."
+    "en": "Wind high in the pines · snow crunching underfoot · the pack’s song rising to the moon · the crackling fire · the Northwoods forest.",
+    "fr": "Le vent en haut des pins · la neige qui crisse · le chant de la meute vers la lune · le feu qui crépite · la forêt de Grands Bois.",
+    "es": "El viento en lo alto de los pinos · la nieve que cruje · el canto de la manada a la luna · el fuego que crepita · el ambiente Gran bosque."
    },
    "visualAtmosphere": {
-    "en": "Moonlight blue, forest green, silver, icy cyan. A moonlit pine forest, glowing wolf eyes, drifting blue spirit particles, ancient totems, northern lights above.",
-    "fr": "Bleu de lune, vert de forêt, argent, cyan glacé. Une forêt de pins au clair de lune, des yeux de loup lumineux, des particules-esprits bleues à la dérive, d’anciens totems, des aurores boréales au-dessus.",
-    "es": "Azul de luna, verde de bosque, plata, cian helado. Un pinar a la luz de la luna, ojos de lobo luminosos, partículas-espíritu azules a la deriva, tótems antiguos, auroras boreales en lo alto."
+    "en": "Moonlight blue and silver, with the green and blue of the aurora. Snowy pines, old carved totems, snowdrops that light up, and wolves full of stars.",
+    "fr": "Bleu de lune, argent, vert et bleu d’aurore. Des pins enneigés, de vieux totems, des perce-neige qui s’allument, des loups pleins d’étoiles.",
+    "es": "Azul de luna, plata, verde y azul de aurora. Pinos nevados, viejos tótems, campanillas de invierno que se encienden y lobos llenos de estrellas."
    },
    "endingNote": {
-    "en": "The wolves watch quietly as you go, their steady strength now part of you.",
-    "fr": "Les loups veillent en silence tandis que tu pars, leur force tranquille faisant désormais partie de toi.",
-    "es": "Los lobos velan en silencio mientras te alejas, con su fuerza serena formando ya parte de ti."
+    "en": "You thank the pack and your wolf guide, and leave with their song in your chest.",
+    "fr": "Tu remercies la meute et le loup qui t’a guidé, et tu repars avec leur chant dans la poitrine.",
+    "es": "Das las gracias a la manada y al lobo que te guió. Luego te vas, con su canto en el pecho."
    },
    "moods": {
     "en": [
