@@ -2,9 +2,9 @@
  "meditations_index": {
   "slug": "meditations-guidees",
   "seo": "Méditations guidées gratuites en français",
-  "desc": "146 méditations guidées gratuites, sans abonnement ni compte : sommeil, débutants, 4 minutes, voyage astral. Hors ligne sur iPhone et Android.",
+  "desc": "129 méditations guidées gratuites, sans abonnement ni compte : sommeil, débutants, 4 minutes, voyage astral. Hors ligne sur iPhone et Android.",
   "h1": "Méditations guidées gratuites",
-  "intro": "MeditaDream réunit 146 méditations guidées en français, réparties en 19 catégories : des premières séances pour débutants aux pauses de 4 minutes, des relaxations pour s’endormir aux méditations bouddhistes, chamaniques ou au voyage astral. L’application est entièrement gratuite, sans abonnement, sans publicité et sans compte à créer. Une fois les séances téléchargées, elles fonctionnent hors ligne, et tes données de pratique restent sur ton téléphone. Choisis une catégorie ci-dessous pour découvrir les séances, leur durée et leur niveau, puis lance-toi à ton rythme, sur iPhone comme sur Android."
+  "intro": "MeditaDream réunit 129 méditations guidées en français, réparties en 19 catégories : des premières séances pour débutants aux pauses de 4 minutes, des relaxations pour s’endormir aux méditations bouddhistes, chamaniques ou au voyage astral. L’application est entièrement gratuite, sans abonnement, sans publicité et sans compte à créer. Une fois les séances téléchargées, elles fonctionnent hors ligne, et tes données de pratique restent sur ton téléphone. Choisis une catégorie ci-dessous pour découvrir les séances, leur durée et leur niveau, puis lance-toi à ton rythme, sur iPhone comme sur Android."
  },
  "categories": {
   "learningBasics": {
@@ -138,10 +138,10 @@
   "guides": {
    "slug": "meditation-guides-spirituels",
    "seo": "Méditation guidée : rencontrer ses guides spirituels",
-   "desc": "5 méditations guidées pour rencontrer tes guides spirituels, de 16 à 27 minutes : guide de lumière, conseil des guides, gratitude. Gratuites, hors ligne.",
+   "desc": "5 méditations guidées pour rencontrer tes guides spirituels, de 16 à 26 minutes : guide de lumière, conseil des guides, gratitude. Gratuites, hors ligne.",
    "h1": "Méditations des guides spirituels",
    "intro": [
-    "Cinq séances de 16 à 27 minutes pour rencontrer les voix qui t’accompagnent. Tu peux recevoir la chaleur d’un guide de lumière et la garder quand il se retire, consulter un conseil de cinq guides sur une question avant de prendre toi-même la sixième place, ou remercier une à une les personnes qui ont compté. Une séance te donne un nom et un signe pour retrouver cet état intérieur, une autre descend dix marches vers une eau calme.",
+    "Cinq séances de 16 à 26 minutes pour rencontrer les voix qui t’accompagnent. Tu peux recevoir la chaleur d’un guide de lumière et la garder quand il se retire, consulter un conseil de cinq guides sur une question avant de prendre toi-même la sixième place, ou remercier une à une les personnes qui ont compté. Une séance te donne un nom et un signe pour retrouver cet état intérieur, une autre descend dix marches vers une eau calme.",
     "Ces séances sont de niveau intermédiaire. Elles laissent chacun libre d’interpréter ce qu’il rencontre : un guide peut être vu comme une présence, une figure symbolique ou une part de soi. L’essentiel est ce que tu vis pendant la séance."
    ],
    "faq": [
@@ -258,10 +258,10 @@
   "miniAdventures": {
    "slug": "meditation-voyage-imaginaire",
    "seo": "Méditation voyage imaginaire : 4 aventures",
-   "desc": "4 méditations guidées de 26 à 34 minutes, comme un voyage imaginaire : Versailles en 1700, Kyoto en 1600, une planète inconnue, le train des souvenirs.",
+   "desc": "4 méditations guidées de 17 à 34 minutes, comme un voyage imaginaire : Versailles en 1700, Kyoto en 1600, une planète inconnue, le train des souvenirs.",
    "h1": "Mini-aventures : méditations voyage imaginaire",
    "intro": [
-    "Chaque mini-aventure est un voyage complet en une séance de 26 à 34 minutes : un lieu, une époque, une histoire. Tu passes une journée entière à Versailles en 1700, au milieu des salutations et des regards de la cour, ou marches vers Kyoto en 1600, sans savoir ce qui t’attend au prochain virage. Tu explores aussi une planète inconnue et montes dans le train des souvenirs, qui fait défiler les habitudes et les décisions d’une vie.",
+    "Chaque mini-aventure est un voyage complet en une séance de 17 à 34 minutes : un lieu, une époque, une histoire. Tu passes une journée entière à Versailles en 1700, au milieu des salutations et des regards de la cour, ou marches vers Kyoto en 1600, sans savoir ce qui t’attend au prochain virage. Tu explores aussi une planète inconnue et montes dans le train des souvenirs, qui fait défiler les habitudes et les décisions d’une vie.",
     "Ces séances de niveau intermédiaire mêlent détente et récit. Elles conviennent quand tu as une demi-heure devant toi et l’envie de t’évader, assis confortablement ou allongé. Laisse les images venir à leur façon : le récit te guide, mais chaque voyage reste le tien."
    ],
    "faq": [
@@ -271,7 +271,7 @@
     ],
     [
      "Combien de temps faut-il prévoir ?",
-     "Entre 26 et 34 minutes selon le voyage. La journée à Versailles est la plus longue, la planète inconnue la plus courte. Prévois quelques minutes de plus pour revenir tranquillement avant de reprendre tes activités."
+     "Entre 17 et 34 minutes selon le voyage. La route de Kyoto est la plus longue, la planète inconnue la plus courte. Prévois quelques minutes de plus pour revenir tranquillement avant de reprendre tes activités."
     ]
    ]
   },
@@ -318,10 +318,10 @@
   "trance": {
    "slug": "meditation-reve-eveille-transe",
    "seo": "Rêve éveillé dirigé et méditation de transe",
-   "desc": "7 méditations guidées de 20 à 33 minutes : rêve éveillé dirigé, spirale aux 33 niveaux, bibliothèque infinie, corps endormi et esprit éveillé.",
+   "desc": "7 méditations guidées de 20 à 32 minutes : rêve éveillé dirigé, spirale aux 33 niveaux, bibliothèque infinie, corps endormi et esprit éveillé.",
    "h1": "Conscience et transe : le rêve éveillé dirigé",
    "intro": [
-    "Sept séances de 20 à 33 minutes pour explorer d’autres états de conscience, tout en gardant le fil du corps. Tu descends une spirale de 33 niveaux au rythme du compte, tu te perds dans une bibliothèque sans fin, ou observes le seuil du sommeil : le corps s’endort, l’attention reste là. Le rêve éveillé dirigé laisse les images spontanées changer l’histoire, et d’autres séances visitent un grenier aux objets oubliés, le vide entre deux pensées ou ton soi du futur.",
+    "Sept séances de 20 à 32 minutes pour explorer d’autres états de conscience, tout en gardant le fil du corps. Tu descends une spirale de 33 niveaux au rythme du compte, tu te perds dans une bibliothèque sans fin, ou observes le seuil du sommeil : le corps s’endort, l’attention reste là. Le rêve éveillé dirigé laisse les images spontanées changer l’histoire, et d’autres séances visitent un grenier aux objets oubliés, le vide entre deux pensées ou ton soi du futur.",
     "Ces séances sont de niveau intermédiaire. Elles conviennent si tu as déjà l’habitude de méditer et souhaites aller vers des expériences plus imaginatives. Tu restes libre à chaque instant : ouvrir ou non une porte, suivre ou non une image."
    ],
    "faq": [
@@ -543,7 +543,7 @@
     "h2": "Une application offerte à vos équipes",
     "p": "MeditaDream est une application de méditation guidée entièrement gratuite : sans abonnement, sans publicité, sans compte. Elle ne collecte aucune donnée personnelle, et les données de pratique restent sur le téléphone de chacun. Il n’y a ni compte, ni licence, ni accès à administrer.",
     "bullets": [
-     "146 méditations guidées, 19 catégories et 17 mondes immersifs",
+     "129 méditations guidées, 19 catégories et 17 mondes immersifs",
      "En français, en anglais et en espagnol, sur iPhone et Android",
      "Utilisable hors ligne une fois les séances téléchargées",
      "Des séances de 4 minutes pour une pause au bureau"

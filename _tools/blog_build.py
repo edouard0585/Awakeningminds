@@ -55,24 +55,26 @@ T = {
    idx_desc="Guides gratuits pour apprendre à méditer : posture, respiration, pensées, techniques, avec schémas. Par MeditaDream, l'app 100 % gratuite en français.",
    read='min de lecture', published_on='Publié le', soon="De nouveaux articles arrivent chaque semaine.",
    cta_t="Envie de pratiquer plutôt que de lire ?",
-   cta_p="Tout ce que décrit cet article se pratique dans MeditaDream, application de méditation gratuite : {total} méditations guidées en français — sommeil, respiration guidée, mondes immersifs — sans abonnement, sans publicité, sans compte, et tout fonctionne hors ligne.",
+   cta_p="Tout ce que décrit cet article se pratique dans MeditaDream, application de méditation gratuite : {meds} méditations guidées et {worlds} mondes immersifs en français, sans abonnement, sans publicité, sans compte, et tout fonctionne hors ligne.",
    cta_b="Découvrir l'application gratuite", other="À lire ensuite"),
  'en': dict(blog='The blog', back='← MeditaDream', idx_title="The blog — learning to meditate",
    idx_seo="How to Meditate: Free Guides & Diagrams · MeditaDream",
    idx_desc="Free guides on how to meditate: posture, breathing, dealing with thoughts, techniques — with diagrams, from the completely free MeditaDream app.",
    read='min read', published_on='Published', soon="More articles are coming — one every week.",
    cta_t="Rather practice than read?",
-   cta_p="Everything in this article can be practiced in MeditaDream, a free meditation app: {total} guided meditations — sleep, breathing, immersive worlds — no subscription, no ads, no account, and fully offline.",
+   cta_p="Everything in this article can be practiced in MeditaDream, a free meditation app: {meds} guided meditations and {worlds} immersive worlds, with no subscription, no ads, no account, and fully offline.",
    cta_b="Discover the free app", other="Read next"),
  'es': dict(blog='El blog', back='← MeditaDream', idx_title="El blog — aprender a meditar",
    idx_seo="Cómo meditar: guías gratis en español · MeditaDream",
    idx_desc="Guías gratis para aprender a meditar: postura, respiración, pensamientos, técnicas — con esquemas, de la app 100 % gratis MeditaDream.",
    read='min de lectura', published_on='Publicado el', soon="Llegan más artículos — uno por semana.",
    cta_t="¿Prefieres practicar antes que leer?",
-   cta_p="Todo lo que describe este artículo se practica en MeditaDream, una app de meditación gratis: {total} meditaciones guiadas en español — dormir, respiración guiada, mundos inmersivos — sin suscripción, sin anuncios, sin cuenta y sin conexión.",
+   cta_p="Todo lo que describe este artículo se practica en MeditaDream, una app de meditación gratis: {meds} meditaciones guiadas y {worlds} mundos inmersivos en español, sin suscripción, sin anuncios, sin cuenta y sin conexión.",
    cta_b="Descubre la app gratis", other="Sigue leyendo"),
 }
-for _l in T: T[_l]['cta_p'] = T[_l]['cta_p'].replace('{total}', str(TOTAL))
+WORLDS = SITE_CFG.get('worlds', 17)
+MEDS = SITE_CFG.get('meds', TOTAL - WORLDS)   # comme dans l'app : « 129 méditations guidées et 17 mondes »
+for _l in T: T[_l]['cta_p'] = T[_l]['cta_p'].replace('{total}', str(TOTAL)).replace('{meds}', str(MEDS)).replace('{worlds}', str(WORLDS))
 SITE_KW = {
  'fr': "méditation gratuite, application méditation gratuite, méditation guidée, méditation sans abonnement, méditation hors ligne, méditation pour dormir, respiration guidée, méditation débutant, pleine conscience, relaxation profonde",
  'en': "free meditation app, guided meditation, meditation app no subscription, offline meditation app, meditation without ads, guided sleep meditation, breathing exercises, meditation for beginners, mindfulness, deep relaxation",
