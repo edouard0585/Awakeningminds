@@ -2,385 +2,247 @@
  "fr": [
   {
    "f": "fr-01-accueil.webp",
-   "alt": "Écran d'accueil : progression spirituelle, méditation du jour recommandée par le coach et dragon compagnon",
-   "cap": "L'accueil : ta progression spirituelle, la méditation du jour et ton dragon compagnon.",
+   "titre": "L’accueil",
+   "cap": "Ta progression, la méditation que l’Oracle te recommande et ton dragon compagnon.",
+   "alt": "Écran d’accueil de MeditaDream : progression spirituelle, méditation recommandée par l’Oracle et dragon compagnon",
    "w": 640,
-   "h": 1295
+   "h": 1326
   },
   {
-   "f": "fr-02-passeport-zen.webp",
-   "alt": "Le Passeport Zen : carnet de voyage intérieur où chaque méditation terminée laisse sa trace",
-   "cap": "Le Passeport Zen : chaque méditation terminée laisse sa trace.",
+   "f": "fr-02-bibliotheque.webp",
+   "titre": "La bibliothèque",
+   "cap": "{meds} méditations guidées en {cats} catégories : sommeil, émotions, lieux sacrés, transe…",
+   "alt": "Bibliothèque de méditations guidées rangées en catégories illustrées",
    "w": 640,
-   "h": 1291
+   "h": 1326
   },
   {
-   "f": "fr-03-seance-du-jour.webp",
-   "alt": "Séance du jour et mondes de méditation téléchargeables pour méditer hors ligne",
-   "cap": "La séance du jour et les mondes, disponibles hors ligne.",
+   "f": "fr-03-oracle.webp",
+   "titre": "L’Oracle",
+   "cap": "Dis-lui comment tu te sens : il te conseille des méditations pour aujourd’hui.",
+   "alt": "L’Oracle de MeditaDream : écrire comment on se sent et recevoir des conseils de méditation",
    "w": 640,
-   "h": 1278
+   "h": 1326
   },
   {
-   "f": "fr-04-voyage-astral.webp",
-   "alt": "La catégorie Trance & Voyage Astral et le guide interactif de la bibliothèque de méditations",
-   "cap": "Trance & Voyage Astral, et le guide interactif de la bibliothèque.",
+   "f": "fr-04-mondes.webp",
+   "titre": "Les mondes de méditation",
+   "cap": "{worlds} voyages immersifs à télécharger et à emporter partout.",
+   "alt": "Mondes de méditation : voyages immersifs comme L’Île Flottante, disponibles hors ligne une fois téléchargés",
    "w": 640,
-   "h": 1285
+   "h": 1326
   },
   {
-   "f": "fr-05-bibliotheque.webp",
-   "alt": "La bibliothèque de méditations guidées en français, classée en 16 catégories illustrées",
-   "cap": "La bibliothèque : les méditations guidées, classées par catégories.",
+   "f": "fr-05-apprendre-posture.webp",
+   "titre": "Apprendre à méditer",
+   "cap": "Une bibliothèque illustrée : posture, souffle, pensées, pas à pas.",
+   "alt": "Apprendre à méditer : la posture « digne et détendu » expliquée avec un schéma",
    "w": 640,
-   "h": 1270
+   "h": 1326
   },
   {
-   "f": "fr-06-minuteur-favoris.webp",
-   "alt": "Minuteur de méditation, favoris, alarme et activité récente",
-   "cap": "Minuteur, favoris, alarme — et ton activité récente.",
+   "f": "fr-06-journaux.webp",
+   "titre": "Tes journaux",
+   "cap": "Rêves, gratitude, émotions, signes : tout reste sur ton téléphone.",
+   "alt": "Journaux personnels : journal des rêves, gratitude et croissance, journal émotionnel, signes et synchronicités",
    "w": 640,
-   "h": 1255
+   "h": 1326
   },
   {
-   "f": "fr-07-sanctuaire.webp",
-   "alt": "Ton sanctuaire : créer un lieu intérieur où revenir méditer",
-   "cap": "Le sanctuaire : crée tes lieux intérieurs, et reviens y méditer.",
+   "f": "fr-07-mes-meditations.webp",
+   "titre": "Tes propres méditations",
+   "cap": "Écris tes textes : une voix de ton téléphone te les lit, même hors ligne.",
+   "alt": "Mes méditations : écrire ses propres méditations, lues hors ligne par une voix du téléphone",
    "w": 640,
-   "h": 1275
+   "h": 1326
   },
   {
-   "f": "fr-08-guides-spirituels.webp",
-   "alt": "Tes guides spirituels et les présents qu'ils apportent",
-   "cap": "Tes guides spirituels, et leurs présents.",
+   "f": "fr-08-historique.webp",
+   "titre": "Ton historique",
+   "cap": "Chaque séance terminée, avec les impressions que tu as notées.",
+   "alt": "Historique des méditations terminées avec la date, la durée et les impressions",
    "w": 640,
-   "h": 1278
+   "h": 1326
   },
   {
-   "f": "fr-09-apprendre-posture.webp",
-   "alt": "Leçon pour apprendre à méditer : la posture, dos droit et corps relâché",
-   "cap": "Apprendre à méditer : ici, la leçon sur la posture.",
+   "f": "fr-09-monde-coeur-de-la-terre.webp",
+   "titre": "Avant d’entrer dans un monde",
+   "cap": "À quoi il sert, ce que tu vas y faire, ses sons et son atmosphère.",
+   "alt": "Fiche du monde Le Cœur de la Terre : à quoi il sert, ce qu’on peut y faire, design sonore et atmosphère",
    "w": 640,
-   "h": 1278
+   "h": 1326
   },
   {
-   "f": "fr-10-journaux.webp",
-   "alt": "Les journaux : rêves, gratitude, émotions, signes et synchronicités",
-   "cap": "Quatre journaux : rêves, gratitude, émotions, synchronicités.",
+   "f": "fr-10-parametres-voix.webp",
+   "titre": "Ta voix, ton rythme",
+   "cap": "Choisis la langue, la voix de chaque langue et la vitesse de lecture.",
+   "alt": "Paramètres : langue, voix anglaise, française et espagnole, vitesse de la voix et rappel quotidien",
    "w": 640,
-   "h": 1276
-  },
-  {
-   "f": "fr-11-points.webp",
-   "alt": "L'historique d'apprentissage : chaque entrée écrite donne un point qui débloque des méditations",
-   "cap": "Chaque entrée écrite = 1 point, qui débloque des méditations.",
-   "w": 640,
-   "h": 1278
-  },
-  {
-   "f": "fr-12-monde-temple-cosmique.webp",
-   "alt": "Le monde immersif du Temple Cosmique, méditation guidée d'une vingtaine de minutes",
-   "cap": "Un monde immersif : le Temple Cosmique — une vingtaine de minutes.",
-   "w": 640,
-   "h": 1273
-  },
-  {
-   "f": "fr-13-micro-detachement.webp",
-   "alt": "La catégorie Trance & Voyage Astral : exercices de micro-détachement",
-   "cap": "Micro-détachement : huit gestes de préparation au voyage astral.",
-   "w": 640,
-   "h": 1317
-  },
-  {
-   "f": "fr-14-meditations-a-debloquer.webp",
-   "alt": "Liste de méditations d'une catégorie, certaines à débloquer avec des points",
-   "cap": "Les méditations d'une catégorie — certaines se débloquent avec tes points.",
-   "w": 640,
-   "h": 1131
-  },
-  {
-   "f": "fr-15-fiche-meditation.webp",
-   "alt": "Fiche d'une méditation guidée : durée, voix et niveau",
-   "cap": "Chaque méditation : sa durée, sa voix, son niveau.",
-   "w": 640,
-   "h": 1319
-  },
-  {
-   "f": "fr-16-minuteur.webp",
-   "alt": "Le minuteur : méditation silencieuse avec bol de départ et de fin",
-   "cap": "Méditation silencieuse au minuteur, avec bol d'appel optionnel.",
-   "w": 640,
-   "h": 1251
-  },
-  {
-   "f": "fr-17-alarme.webp",
-   "alt": "L'alarme de méditation : un rappel quotidien à l'heure choisie",
-   "cap": "L'alarme : un doux rappel quotidien pour revenir à toi.",
-   "w": 640,
-   "h": 1251
-  },
-  {
-   "f": "fr-18-historique.webp",
-   "alt": "L'historique de toutes les méditations terminées",
-   "cap": "L'historique garde chaque méditation terminée.",
-   "w": 640,
-   "h": 1318
-  },
-  {
-   "f": "fr-19-impressions.webp",
-   "alt": "Les impressions après séance : état émotionnel, sensations corporelles, prises de conscience",
-   "cap": "Après la séance : écris tes impressions et prises de conscience.",
-   "w": 640,
-   "h": 1315
+   "h": 1326
   }
  ],
  "en": [
   {
    "f": "en-01-home.webp",
-   "alt": "Home screen: spiritual progress, coach-recommended meditation and your dragon companion",
-   "cap": "Home: your spiritual progress, today's meditation and your dragon companion.",
+   "titre": "Home",
+   "cap": "Your progress, the meditation the Oracle picked for you, and your dragon companion.",
+   "alt": "MeditaDream home screen: spiritual progress, a meditation recommended by the Oracle and a dragon companion",
    "w": 640,
-   "h": 1291
+   "h": 1326
   },
   {
-   "f": "en-02-zen-passport.webp",
-   "alt": "Zen Passport, today's session and downloadable meditation worlds for offline practice",
-   "cap": "The Zen Passport, today's session and the worlds — fully offline.",
+   "f": "en-02-library.webp",
+   "titre": "The library",
+   "cap": "{meds} guided meditations in {cats} categories: sleep, emotions, sacred places, trance…",
+   "alt": "Library of guided meditations sorted into illustrated categories",
    "w": 640,
-   "h": 1271
+   "h": 1326
   },
   {
-   "f": "en-03-library.webp",
-   "alt": "The library of free guided meditations, organized in 16 illustrated categories",
-   "cap": "The library: guided meditations, organized by category.",
+   "f": "en-03-oracle.webp",
+   "titre": "The Oracle",
+   "cap": "Tell it how you feel and it suggests meditations for today.",
+   "alt": "The MeditaDream Oracle: type how you feel and get meditation suggestions",
    "w": 640,
-   "h": 1280
+   "h": 1326
   },
   {
-   "f": "en-04-sanctuary.webp",
-   "alt": "Your sanctuary: build an inner place to return to and meditate",
-   "cap": "The sanctuary: build inner places, and come back to meditate.",
+   "f": "en-04-worlds.webp",
+   "titre": "Meditation worlds",
+   "cap": "{worlds} immersive journeys to download and take anywhere.",
+   "alt": "Meditation worlds: immersive journeys like The Heart of the Earth, available offline once downloaded",
    "w": 640,
-   "h": 1279
+   "h": 1326
   },
   {
-   "f": "en-05-create-sanctuary.webp",
-   "alt": "Creating a sanctuary: environment, atmosphere, sounds and protective symbols",
-   "cap": "Creating a sanctuary: environment, atmosphere, protective symbols.",
+   "f": "en-05-learn-posture.webp",
+   "titre": "Learn to meditate",
+   "cap": "An illustrated library: posture, breath, thoughts, step by step.",
+   "alt": "Learning to meditate: the “dignified and relaxed” posture explained with a diagram",
    "w": 640,
-   "h": 1314
+   "h": 1326
   },
   {
-   "f": "en-06-spirit-guides.webp",
-   "alt": "Your spirit guides and the gifts they bring",
-   "cap": "Your spirit guides, and the gifts they bring.",
+   "f": "en-06-journals.webp",
+   "titre": "Your journals",
+   "cap": "Dreams, gratitude, emotions, signs — all kept on your phone.",
+   "alt": "Private journals: dream journal, gratitude and growth, emotional journal, signs and synchronicities",
    "w": 640,
-   "h": 1298
+   "h": 1326
   },
   {
-   "f": "en-07-learn-posture.webp",
-   "alt": "Lesson on how to meditate: choosing your sitting position",
-   "cap": "Learning to meditate: here, the posture lesson.",
+   "f": "en-07-my-meditations.webp",
+   "titre": "Your own meditations",
+   "cap": "Write your own texts and a voice on your phone reads them, even offline.",
+   "alt": "My meditations: write your own meditations, read offline by a voice on your phone",
    "w": 640,
-   "h": 1275
+   "h": 1326
   },
   {
-   "f": "en-08-journals.webp",
-   "alt": "The journals: dreams, gratitude, emotions, signs and synchronicities",
-   "cap": "Four journals: dreams, gratitude, emotions, synchronicities.",
+   "f": "en-08-history.webp",
+   "titre": "Your history",
+   "cap": "Every session you finish, with the reflections you wrote.",
+   "alt": "History of completed meditations with date, length and reflections",
    "w": 640,
-   "h": 1297
+   "h": 1326
   },
   {
-   "f": "en-09-settings-voices.webp",
-   "alt": "Settings: interface language and two natural voices per language",
-   "cap": "Two natural voices per language, and adjustable voice speed.",
+   "f": "en-09-world-heart-of-the-earth.webp",
+   "titre": "Before you enter a world",
+   "cap": "What it’s for, what you’ll do there, and how it sounds and looks.",
+   "alt": "The Heart of the Earth world page: what it’s for, what you can do, sound design and atmosphere",
    "w": 640,
-   "h": 1283
+   "h": 1326
   },
   {
-   "f": "en-10-settings-sounds.webp",
-   "alt": "Settings: daily reminder, background sounds and coach reset",
-   "cap": "Daily reminder, and soft background sounds.",
+   "f": "en-10-settings-voices.webp",
+   "titre": "Your voice, your pace",
+   "cap": "Choose the language, a voice for each language and the reading speed.",
+   "alt": "Settings: language, English, French and Spanish voices, voice speed and daily reminder",
    "w": 640,
-   "h": 1282
-  },
-  {
-   "f": "en-11-world-cosmic-temple.webp",
-   "alt": "The Cosmic Temple immersive world, a guided meditation of about twenty minutes",
-   "cap": "An immersive world: the Cosmic Temple — about twenty minutes.",
-   "w": 640,
-   "h": 1281
-  },
-  {
-   "f": "en-12-world-heart-of-earth.webp",
-   "alt": "Inside the Heart of the Earth world: purpose, sound design and atmosphere",
-   "cap": "Inside a world: its purpose, sound design and atmosphere.",
-   "w": 640,
-   "h": 1312
-  },
-  {
-   "f": "en-13-learning-basics.webp",
-   "alt": "Learning Basics category: short sessions on posture, breathing and attention",
-   "cap": "Learning Basics: short sessions — posture, breathing, attention.",
-   "w": 640,
-   "h": 1317
-  },
-  {
-   "f": "en-14-meditation-detail.webp",
-   "alt": "A meditation page: duration, voice and level, downloadable for offline listening",
-   "cap": "Each meditation: duration, voice, level — downloadable for offline.",
-   "w": 640,
-   "h": 1318
-  },
-  {
-   "f": "en-15-timer.webp",
-   "alt": "The timer: silent meditation with an optional interval bell",
-   "cap": "Silent meditation on the timer, with an optional bell.",
-   "w": 640,
-   "h": 1300
-  },
-  {
-   "f": "en-16-history.webp",
-   "alt": "The history of every completed meditation",
-   "cap": "The history keeps every completed meditation.",
-   "w": 640,
-   "h": 1314
-  },
-  {
-   "f": "en-17-impressions.webp",
-   "alt": "Session impressions: emotional state, body sensations, realizations",
-   "cap": "After the session: write your impressions and realizations.",
-   "w": 640,
-   "h": 1317
-  },
-  {
-   "f": "en-18-meditation-alarm.webp",
-   "alt": "The meditation alarm: a gentle daily reminder at your chosen time",
-   "cap": "The alarm: a gentle daily reminder to come back to yourself.",
-   "w": 640,
-   "h": 1300
+   "h": 1326
   }
  ],
  "es": [
   {
    "f": "es-01-inicio.webp",
-   "alt": "Pantalla de inicio: progresión espiritual, meditación recomendada por el coach y tu dragón compañero",
-   "cap": "El inicio: tu progresión, la meditación del día y tu dragón compañero.",
-   "w": 640,
-   "h": 1290
-  },
-  {
-   "f": "es-02-tu-coach.webp",
-   "alt": "Tu coach: consejos personalizados que evolucionan con tu práctica de meditación",
-   "cap": "Tu coach: consejos que evolucionan con tu práctica.",
-   "w": 640,
-   "h": 1288
-  },
-  {
-   "f": "es-03-mundo-corazon-tierra.webp",
-   "alt": "El mundo inmersivo del Corazón de la Tierra, para meditar sin conexión",
-   "cap": "Un mundo inmersivo: el Corazón de la Tierra, sin conexión.",
-   "w": 640,
-   "h": 1271
-  },
-  {
-   "f": "es-04-biblioteca.webp",
-   "alt": "La biblioteca de meditaciones guiadas en español, en 16 categorías ilustradas",
-   "cap": "La biblioteca: meditaciones guiadas en español, por categorías.",
-   "w": 640,
-   "h": 1269
-  },
-  {
-   "f": "es-05-santuario.webp",
-   "alt": "Tu santuario: crear un lugar interior al que volver a meditar",
-   "cap": "El santuario: crea tus lugares interiores y vuelve a meditar.",
+   "titre": "Inicio",
+   "cap": "Tu progreso, la meditación que te recomienda el Oráculo y tu dragón compañero.",
+   "alt": "Pantalla de inicio de MeditaDream: progreso espiritual, meditación recomendada por el Oráculo y dragón compañero",
    "w": 640,
    "h": 1326
   },
   {
-   "f": "es-06-crear-santuario.webp",
-   "alt": "Crear un santuario: entorno, atmósfera, sonidos y símbolos protectores",
-   "cap": "Crear un santuario: entorno, atmósfera, símbolos protectores.",
+   "f": "es-02-biblioteca.webp",
+   "titre": "La biblioteca",
+   "cap": "{meds} meditaciones guiadas en {cats} categorías: sueño, emociones, lugares sagrados, trance…",
+   "alt": "Biblioteca de meditaciones guiadas ordenadas en categorías ilustradas",
    "w": 640,
-   "h": 1311
+   "h": 1326
   },
   {
-   "f": "es-07-guias-espirituales.webp",
-   "alt": "Tus guías espirituales y los regalos que traen",
-   "cap": "Tus guías espirituales, y los regalos que traen.",
+   "f": "es-03-oraculo.webp",
+   "titre": "El Oráculo",
+   "cap": "Cuéntale cómo te sientes y te aconseja meditaciones para hoy.",
+   "alt": "El Oráculo de MeditaDream: escribe cómo te sientes y recibe consejos de meditación",
    "w": 640,
-   "h": 1300
+   "h": 1326
   },
   {
-   "f": "es-08-aprender-postura.webp",
-   "alt": "Lección para aprender a meditar: la postura, espalda erguida y cuerpo suelto",
-   "cap": "Aprender a meditar: aquí, la lección de la postura.",
+   "f": "es-04-mundos.webp",
+   "titre": "Los mundos de meditación",
+   "cap": "{worlds} viajes inmersivos para descargar y llevar contigo.",
+   "alt": "Mundos de meditación: viajes inmersivos como El Corazón de la Tierra, disponibles sin conexión una vez descargados",
    "w": 640,
-   "h": 1300
+   "h": 1326
   },
   {
-   "f": "es-09-diarios.webp",
-   "alt": "Los diarios: sueños, gratitud, emociones, signos y sincronías",
-   "cap": "Cuatro diarios: sueños, gratitud, emociones, sincronías.",
+   "f": "es-05-aprender-postura.webp",
+   "titre": "Aprender a meditar",
+   "cap": "Una biblioteca ilustrada: postura, respiración, pensamientos, paso a paso.",
+   "alt": "Aprender a meditar: la postura «digna y relajada» explicada con un esquema",
    "w": 640,
-   "h": 1311
+   "h": 1326
+  },
+  {
+   "f": "es-06-diarios.webp",
+   "titre": "Tus diarios",
+   "cap": "Sueños, gratitud, emociones, señales: todo se queda en tu teléfono.",
+   "alt": "Diarios personales: diario de sueños, gratitud y crecimiento, diario emocional, signos y sincronías",
+   "w": 640,
+   "h": 1326
+  },
+  {
+   "f": "es-07-mis-meditaciones.webp",
+   "titre": "Tus propias meditaciones",
+   "cap": "Escribe tus textos y una voz de tu teléfono te los lee, incluso sin conexión.",
+   "alt": "Mis meditaciones: escribe tus propias meditaciones, leídas sin conexión por una voz del teléfono",
+   "w": 640,
+   "h": 1326
+  },
+  {
+   "f": "es-08-historial.webp",
+   "titre": "Tu historial",
+   "cap": "Cada sesión terminada, con las impresiones que escribiste.",
+   "alt": "Historial de meditaciones terminadas con fecha, duración e impresiones",
+   "w": 640,
+   "h": 1326
+  },
+  {
+   "f": "es-09-mundo-isla-flotante.webp",
+   "titre": "Cada mundo, a tu manera",
+   "cap": "Elige su sonido de fondo y descárgalo para escucharlo sin conexión.",
+   "alt": "Ficha del mundo La Isla Flotante: diseño sonoro, atmósfera, duración y elección del sonido ambiental",
+   "w": 640,
+   "h": 1326
   },
   {
    "f": "es-10-ajustes-voces.webp",
-   "alt": "Ajustes: idioma y dos voces naturales en español, con velocidad regulable",
-   "cap": "Dos voces naturales en español, con velocidad regulable.",
-   "w": 640,
-   "h": 1300
-  },
-  {
-   "f": "es-11-ajustes-sonidos.webp",
-   "alt": "Ajustes: recordatorio diario y sonidos ambientales suaves",
-   "cap": "Recordatorio diario, y sonidos ambientales suaves.",
-   "w": 640,
-   "h": 1300
-  },
-  {
-   "f": "es-12-conciencia-trance.webp",
-   "alt": "La categoría Conciencia & Trance: tercer ojo, proyección astral y mundos simbólicos",
-   "cap": "Conciencia & Trance: tercer ojo, astral, mundos simbólicos.",
-   "w": 640,
-   "h": 1300
-  },
-  {
-   "f": "es-13-conversacion-vocal.webp",
-   "alt": "Ficha de meditación con conversación vocal en directo con tu voz elegida",
-   "cap": "Algunas meditaciones responden en directo, con tu voz elegida.",
+   "titre": "Tu voz, tu ritmo",
+   "cap": "Elige el idioma, una voz para cada idioma y la velocidad de lectura.",
+   "alt": "Ajustes: idioma, voces en inglés, francés y español, velocidad de la voz y recordatorio diario",
    "w": 640,
    "h": 1326
-  },
-  {
-   "f": "es-14-temporizador.webp",
-   "alt": "El temporizador: meditación silenciosa con cuenco de llamada opcional",
-   "cap": "Meditación silenciosa con temporizador, y cuenco opcional.",
-   "w": 640,
-   "h": 1243
-  },
-  {
-   "f": "es-15-historial.webp",
-   "alt": "El historial de todas las meditaciones completadas",
-   "cap": "El historial guarda cada meditación completada.",
-   "w": 640,
-   "h": 1300
-  },
-  {
-   "f": "es-16-impresiones.webp",
-   "alt": "Las impresiones tras la sesión: estado emocional, sensaciones, tomas de conciencia",
-   "cap": "Tras la sesión: escribe tus impresiones y tomas de conciencia.",
-   "w": 640,
-   "h": 1300
-  },
-  {
-   "f": "es-17-alarma.webp",
-   "alt": "La alarma de meditación: un suave recordatorio diario",
-   "cap": "La alarma: un suave recordatorio diario para volver a ti.",
-   "w": 640,
-   "h": 1318
   }
  ]
 }
