@@ -167,7 +167,12 @@ def img_tag(key, lang, largeur, fallback, depth, extra=''):
 
 HERO_CAT = lambda cid, lang: img_tag(cat_key(cid), lang, 260, img_cat(cid), 2, ' fetchpriority="high" decoding="async"')
 VIG_CAT = lambda k, lang: img_tag(cat_key(k), lang, 260, img_cat(k), 2, ' class="sq" loading="lazy" decoding="async"')
-HERO_MONDE = lambda wid, lang: img_tag(f'assets/worlds/{wid}.jpg', lang, 960, img_world(wid), 2, ' class="hero" fetchpriority="high" decoding="async"')
+def HERO_MONDE(wid, lang):
+    # 15-10 : srcset 480/960 — sur téléphone l'image de 960 px était chargée pour une place de ~370 px (LCP 3,9 s)
+    k = f'assets/worlds/{wid}.jpg'
+    p480, p960 = media(k, lang, 480)[0], media(k, lang, 960)[0]
+    ss = f' srcset="{rel(p480, 2)} 480w, {rel(p960, 2)} 960w" sizes="(max-width: 600px) 92vw, 533px"' if p480 and p960 else ''
+    return img_tag(k, lang, 960, img_world(wid), 2, ss + ' class="hero" fetchpriority="high" decoding="async"')
 VIG_MONDE = lambda k, lang: img_tag(f'assets/worlds/{k}.jpg', lang, 480, img_world(k), 2, ' loading="lazy" decoding="async"')
 
 
@@ -308,7 +313,10 @@ def build(bb):
             body = (crumbs(lang, bc) + f'<article><div class="ap-hero">{HERO_CAT(cid, lang)}'
                     f'<div><h1>{E(s["h1"])}</h1>{meta}</div></div>'
                     + ''.join(f'<p class="lead">{E(x)}</p>' if i == 0 else f'<p class="intro">{E(x)}</p>' for i, x in enumerate(s['intro']))
-                    + f'<h2>{E(t["list"])}</h2><ol class="ap-list">{items}</ol>' + cta(lang) + read
+                    + f'<h2>{E(t["list"])}</h2><ol class="ap-list">{items}</ol>'
+                    # 15-10 : guide propre à chaque langue (pages qui visent une requête « comment faire »)
+                    + ''.join(f'<h2>{E(g["h2"])}</h2>' + ''.join(f'<p>{E(x)}</p>' for x in g['p']) for g in s.get('guide', []))
+                    + cta(lang) + read
                     + f'<h2>{E(t["other"])}</h2><ul class="ap-links">{others}</ul>' + faq_html(lang, s.get('faq')) + '</article>')
             ld = ld_tag({'@context': 'https://schema.org', '@graph': [
                 {'@type': 'CollectionPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang,
@@ -345,7 +353,7 @@ def build(bb):
             ok = wid in VALIDES
             dl = ''.join(f'<dt>{E(t[k])}</dt><dd>{E(w[f][lang])}</dd>' for k, f in (('goal', 'objective'), ('inter', 'interactions'), ('sound', 'soundDesign'), ('visual', 'visualAtmosphere')) if ok and w.get(f, {}).get(lang))
             dl += f'<dt>{E(t["duration"])}</dt><dd>{w["minutes"][lang]} {E(t["min"])}</dd><dt>{E(t["moods"])}</dt><dd>{E(", ".join(w["moods"][lang]))}</dd>'
-            others = ''.join(f'<li><a href="{u(lang, "world", p["worlds"][k]["slug"])}">{E(ws[k]["name"][lang])}</a></li>' for k in list(ws)[:0] or [k for k in ws if k != wid][:6] if k in p['worlds'])
+            others = ''.join(f'<li><a href="{u(lang, "world", p["worlds"][k]["slug"])}">{E(ws[k]["name"][lang])}</a></li>' for k in [k for k in ws if k != wid] if k in p['worlds'])   # 15-10 : tous les autres mondes (maillage)
             bc = [(t['home'], f'/{lang}/'), (t['worlds'], u(lang, 'world')), (w['name'][lang], None)]
             lead = s.get('lead') or (w['tagline'][lang] if ok else s['desc'])
             body = (crumbs(lang, bc) + f'<article class="ap-world"><h1>{E(s["h1"])}</h1><p class="lead">{E(lead)}</p>'

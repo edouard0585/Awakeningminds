@@ -54,7 +54,7 @@
   function lienPied() {
     var f = document.querySelector('footer'); if (!f || f.querySelector('[data-consent]')) return;
     var a = document.createElement('a'); a.href = '#'; a.setAttribute('data-consent', ''); a.textContent = T.lien;
-    a.style.cssText = 'display:inline-block;margin:8px 0;color:inherit;opacity:.75;font-size:13px';
+    a.style.cssText = 'display:inline-block;margin:8px 0;color:inherit;opacity:.92;font-size:13px';
     var p = document.createElement('p'); p.style.cssText = 'margin:0;text-align:center'; p.appendChild(a);
     f.appendChild(p);
   }
