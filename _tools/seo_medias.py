@@ -18,6 +18,8 @@
     python3 _tools/seo_medias.py      (appelé par build_site.py et blog_build.build())
 """
 import glob, html, json, os, re
+import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import reseaux   # liens vers les comptes MeditaDream (pied de page + sameAs)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = 'https://meditadream.com'
@@ -232,6 +234,7 @@ def main():
     for f, r in pages():
         s = open(f, encoding='utf-8').read(); l = langue(r, s)
         s2, n = corrige(s, l, alts)
+        s2 = reseaux.ajoute(s2, l, racine=(r == 'index.html'))
         loc = canonique(s2)
         if loc and indexable(s2): s2 = image_ld(s2, l, loc)
         if s2 != s: open(f, 'w', encoding='utf-8').write(s2); total += n
