@@ -184,12 +184,14 @@ def items(bb, lang):
         img = None
         if a.get('image') is not None:
             img = f"{bb.SCHEMA_FILES[a['image']][lang]}-{lang}.webp"
-        by[g].append((a['published'], '', dict(slug=a['slug'][lang], title=a['title'][lang], desc=a['desc'][lang], img=img)))
+        alt = bb.HERO_ALTS.get((a.get('image'), lang), a['title'][lang]) if img else ''
+        by[g].append((a['published'], '', dict(slug=a['slug'][lang], title=a['title'][lang], desc=a['desc'][lang], img=img, alt=alt)))
     if lang in ('fr', 'en', 'es'):
         for a0 in blog_fr.published(blog_fr.load(), lang):
             a = blog_fr.V(a0, lang)
             by[a0['group']].append((a['published'], a0.get('publish_at', ''),
-                                    dict(slug=a['slug'], title=a['seo_title'], desc=a['desc'], img=a['photo']['src_s'])))
+                                    dict(slug=a['slug'], title=a['seo_title'], desc=a['desc'], img=a['photo']['src_s'],
+                                         alt=a['photo'].get('alt', ''))))
     for g in by: by[g].sort(key=lambda x: (x[0], x[1]), reverse=True)
     return by
 
@@ -223,16 +225,17 @@ def render(bb, lang, g, act, by):
             {'@type': 'ListItem', 'position': 2, 'name': L['blog'], 'item': f'{BASE}/{lang}/blog/'},
             {'@type': 'ListItem', 'position': 3, 'name': H['h1']}]}]}
     ld_tag = '<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False).replace('<', '\\u003c') + '</script>'
-    first_img = next((x['img'] for _, _, x in arts if x['img']), None)
-    img = f'/assets/blog/{first_img}' if first_img else '/assets/brand/og-image.jpg'
-    h = bb.head(lang, H['seo'], H['desc'], path_of, path_of(lang), img, ld_tag, img_alt=H['h1'], og_type='website',
+    first = next((x for _, _, x in arts if x['img']), None)
+    img = f'/assets/blog/{first["img"]}' if first else '/assets/brand/og-image.jpg'
+    og_alt = (H['h1'] + (' : ' if lang == 'fr' else ': ') + first['alt']) if first and first.get('alt') else H['h1']
+    h = bb.head(lang, H['seo'], H['desc'], path_of, path_of(lang), img, ld_tag, img_alt=og_alt, og_type='website',
                 langs=langs if langs != ['fr', 'en', 'es'] else None)
     h += bb.header_html(lang, lambda x: f'../../{x}/blog/{HUBS[x][g]["slug"]}.html' if x in langs else f'../../{x}/blog/')
     h += (f'<main class="wrap"><nav class="crumbs"><a href="../">MeditaDream</a><span>›</span>'
           f'<a href="./">{E(L["blog"])}</a></nav><h1>{E(H["h1"])}</h1>'
           f'<p class="lead">{E(H["intro"])}</p><p class="meta">{len(arts)} {E(L["n"])}</p><ul class="alist">')
     for _, _, x in arts:
-        th = (f'<span class="th"><img src="../../assets/blog/{x["img"]}" alt="" loading="lazy" width="88" height="88"></span>'
+        th = (f'<span class="th"><img src="../../assets/blog/{x["img"]}" alt="{E(x.get("alt", ""))}" loading="lazy" width="88" height="88"></span>'
               if x['img'] else '<span class="th n">✦</span>')
         h += (f'<li><a href="{x["slug"]}.html">{th}<span class="tw"><h2>{E(x["title"])}</h2>'
               f'<p>{E(x["desc"])}</p></span></a></li>')

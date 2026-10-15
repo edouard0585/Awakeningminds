@@ -11,7 +11,7 @@
 Données : _tools/app_catalog.json (exporté de l'application) + _tools/pages_{fr,en,es}.json (textes SEO
 écrits pour chaque langue). Même charte que le blog. Appelé par blog_build.build(). Stdlib uniquement.
 """
-import json, os, html
+import json, os, html, re
 E = html.escape
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 T = os.path.join(ROOT, '_tools')
@@ -211,7 +211,24 @@ def header(lang, here, alt_of):
             f'<div class="lg">{lg}</div></div></header>')
 
 
+def media_key(img):
+    """Clé de medias.json d'une image du site (copie optimisée ou originale)."""
+    p = img.lstrip('/')
+    m = re.match(r'assets/o/(cats|worlds)/(.+)\.webp$', p)
+    if m: p = f'assets/{m.group(1)}/{m.group(2)}' + ('.png' if m.group(1) == 'cats' else '.jpg')
+    return p if p in MEDIAS else None
+
+
+def og_alt(img, lang, libelle):
+    """Texte alternatif de l'image de partage : le libellé de la page (mot-clé) suivi de la description de l'image."""
+    k = media_key(img)
+    d = MEDIAS.get(k, {}).get(lang, {}).get('alt') if k else ''
+    if not d or d in libelle: return libelle
+    return f'{libelle}{" : " if lang == "fr" else ": "}{d}'
+
+
 def page(bb, lang, title, desc, path, alt_paths, img, ld, body, img_alt):
+    img_alt = og_alt(img, lang, img_alt)
     langs = [x for x in LANGS if x in alt_paths]
     h = bb.head(lang, title, desc, lambda x: alt_paths[x], path, img, ld, img_alt=img_alt, og_type='website',
                 langs=langs if langs != LANGS else None)

@@ -40,14 +40,41 @@ def webp_size(path):
     """Largeur et hauteur d'un WebP lues dans son en-tête (stdlib seulement, pour GitHub Actions)."""
     try:
         b = open(path, 'rb').read(30)
-        if b[:4] != b'RIFF' or b[8:12] != b'WEBP': return None
+        if b[:4] != b'RIFF' or b[8:12] != b'WEBP': return img_size(path)
         c = b[12:16]
         if c == b'VP8X': return 1 + int.from_bytes(b[24:27], 'little'), 1 + int.from_bytes(b[27:30], 'little')
         if c == b'VP8L':
             v = int.from_bytes(b[21:25], 'little'); return (v & 0x3FFF) + 1, ((v >> 14) & 0x3FFF) + 1
         if c == b'VP8 ': return int.from_bytes(b[26:28], 'little') & 0x3FFF, int.from_bytes(b[28:30], 'little') & 0x3FFF
     except Exception: pass
+    return img_size(path)
+
+
+def img_size(path):
+    """Largeur et hauteur d'un PNG ou d'un JPEG lues dans l'en-tête (stdlib seulement)."""
+    try:
+        with open(path, 'rb') as f:
+            b = f.read(26)
+            if b[:8] == b'\x89PNG\r\n\x1a\n': return int.from_bytes(b[16:20], 'big'), int.from_bytes(b[20:24], 'big')
+            if b[:2] != b'\xff\xd8': return None
+            f.seek(2)
+            while True:
+                m = f.read(4)
+                if len(m) < 4 or m[0] != 0xFF: return None
+                n = int.from_bytes(m[2:4], 'big')
+                if m[1] in (0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF):
+                    d = f.read(5); return int.from_bytes(d[3:5], 'big'), int.from_bytes(d[1:3], 'big')
+                f.seek(n - 2, 1)
+    except Exception: pass
     return None
+
+
+# Texte alternatif de l'image de partage par défaut (assets/brand/og-image.jpg), propre à chaque langue
+OG_IMAGE_ALT = {
+    'fr': "Temple en bois dans un jardin de méditation, avec Ganesh, un tigre et des lotus : MeditaDream, l'application de méditation guidée gratuite",
+    'en': "Wooden temple in a meditation garden with Ganesha, a tiger and lotus flowers: MeditaDream, the free guided meditation app",
+    'es': "Templo de madera en un jardín de meditación, con Ganesha, un tigre y lotos: MeditaDream, la app de meditación guiada gratis",
+}
 
 T = {
  'fr': dict(blog='Le blog', back='← MeditaDream', idx_title="Le blog — apprendre à méditer",
@@ -413,6 +440,7 @@ def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_a
     if not langs or 'en' in langs:  # article en français seul : pas de x-default vers l'anglais
         alts += f'<link rel="alternate" hreflang="x-default" href="{BASE}{path_of("en")}">'
     kw_tag = f'<meta name="keywords" content="{E(kw)}">' if kw else ''
+    if image == '/assets/brand/og-image.jpg' and (not img_alt or img_alt == 'MeditaDream'): img_alt = OG_IMAGE_ALT[lang]
     if img_wh is None and image.startswith('/assets/'):
         img_wh = webp_size(ROOT + image)
     mime = {'webp': 'image/webp', 'jpg': 'image/jpeg', 'jpeg': 'image/jpeg', 'png': 'image/png'}.get(image.rsplit('.', 1)[-1].lower())
