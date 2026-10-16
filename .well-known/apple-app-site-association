@@ -1,0 +1,13 @@
+{
+ "applinks": {
+  "apps": [],
+  "details": [
+   {
+    "appID": "T2YQ54F5MY.com.edouardrichemond.mindexploreroffline",
+    "paths": [
+     "/ouvrir/*"
+    ]
+   }
+  ]
+ }
+}
