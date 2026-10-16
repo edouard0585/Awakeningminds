@@ -78,7 +78,26 @@
     [
      "¿Cuál elegir si es mi primera vez?",
      "«Relajarse muy rápido» es un buen comienzo: recorre el cuerpo de la frente a los pies en unos minutos. «El refugio instantáneo» también es muy sencilla. Después, elige según el momento: falta de motivación, confianza antes de una prueba, discusión o mala noticia."
+    ],
+    [
+     "¿Sirve una meditación de 5 minutos?",
+     "Sí, sobre todo si la haces cada día. Es más fácil mantener una pausa corta que una sesión larga. Estas sesiones duran de tres a cuatro minutos."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Meditación corta de 5 minutos, donde estés",
+     "p": [
+      "Cada sesión dura tres o cuatro minutos. Sirve en el trabajo, en el metro o antes de una reunión, con los ojos abiertos o cerrados.",
+      "Si tienes diez minutos, encadena dos o tres."
+     ]
+    },
+    {
+     "h2": "Una pausa para cada situación",
+     "p": [
+      "Antes de una prueba, «Recuperar la confianza antes de una prueba». Después de una discusión, «Calmarse después de una discusión». Cuando falta energía, «Cuando te falta motivación»."
+     ]
+    }
    ]
   },
   "calm": {
@@ -102,7 +121,33 @@
     [
      "¿Son adecuadas para principiantes?",
      "Son de nivel intermedio: duran entre 13 y 30 minutos y piden algo más de atención. Si estás empezando, prueba antes la categoría Aprendizaje o las meditaciones de 4 minutos y después vuelve aquí. Nada te impide, de todos modos, probar una sesión para dormir desde el primer día."
+    ],
+    [
+     "¿Qué meditación escuchar para dormir profundamente?",
+     "Prueba «Deslizamiento hacia el sueño», de dieciséis minutos, pensada para dormirte. Si prefieres una relajación más larga, «Viaje hacia el sueño» dura veintisiete minutos."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Cómo usar la meditación para dormir profundamente",
+     "p": [
+      "Ponla ya acostado, con la luz apagada. Deja el teléfono a tu lado y simplemente escucha.",
+      "Si te duermes antes del final, perfecto: para eso está."
+     ]
+    },
+    {
+     "h2": "Qué sesión elegir esta noche",
+     "p": [
+      "Para dormirte rápido, «Deslizamiento hacia el sueño», dieciséis minutos muy suaves. Para relajarte más tiempo, «Viaje hacia el sueño», veintisiete minutos.",
+      "Si el cuerpo sigue tenso, empieza por «Respirar con todo el cuerpo»."
+     ]
+    },
+    {
+     "h2": "Sin internet y con sonidos",
+     "p": [
+      "Cada sesión se descarga una vez y funciona sin conexión. Algunas noches quizá prefieras solo sonidos: la app incluye lluvia y olas con un temporizador que baja el volumen poco a poco."
+     ]
+    }
    ]
   },
   "emotionalGrowth": {

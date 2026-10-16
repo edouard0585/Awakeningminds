@@ -75,7 +75,27 @@
     [
      "Peut-on les écouter au travail ou dans les transports ?",
      "Oui. Certaines se pratiquent les yeux ouverts, comme celle prévue pour les moments où tout va trop vite. Une fois téléchargées, les séances fonctionnent sans connexion, ce qui permet de les lancer n’importe où avec des écouteurs."
+    ],
+    [
+     "Peut-on méditer seulement 5 minutes par jour ?",
+     "Oui. Une courte pause chaque jour est plus facile à tenir qu’une longue séance de temps en temps. Ces séances durent trois ou quatre minutes."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Une méditation de 5 minutes, n’importe où",
+     "p": [
+      "Chaque séance dure trois ou quatre minutes. Tu peux la faire au bureau, dans le train ou avant une réunion, les yeux ouverts ou fermés.",
+      "Pour une vraie pause de dix minutes, enchaîne deux ou trois séances."
+     ]
+    },
+    {
+     "h2": "Une séance pour chaque moment",
+     "p": [
+      "Avant une épreuve, prends « Retrouver confiance avant une épreuve ». Après une dispute, « Se calmer après une dispute ». Quand tout s’accélère, « Quand tout va trop vite ».",
+      "Et pour finir la journée sur une note douce, « La gratitude précise » ne prend que trois minutes."
+     ]
+    }
    ]
   },
   "calm": {
@@ -99,7 +119,33 @@
     [
      "Faut-il connaître les chakras ?",
      "Non. La première séance sur les chakras est une carte du corps : elle t’apprend à localiser chacun des sept centres avant toute couleur ou interprétation. Tu peux la suivre sans aucune connaissance préalable."
+    ],
+    [
+     "Quelle est la meilleure méditation pour dormir ?",
+     "Celle que tu as envie d’écouter le soir. Pour t’endormir vite, « Glissement vers le sommeil » dure seize minutes. Pour une détente plus longue, « Voyage du sommeil » dure vingt-sept minutes."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Méditer le soir pour mieux t’endormir",
+     "p": [
+      "Lance la séance une fois au lit, lumière éteinte. Pose le téléphone à côté de toi, écran retourné. Tu n’as rien à faire, seulement écouter.",
+      "Si tu t’endors avant la fin, c’est parfait. La séance a fait son travail."
+     ]
+    },
+    {
+     "h2": "Quelle séance choisir ce soir",
+     "p": [
+      "Pour t’endormir vite, prends « Glissement vers le sommeil », seize minutes très douces. Pour un long moment de détente, choisis « Voyage du sommeil ».",
+      "Si ton corps reste tendu, commence par « Respirer avec tout le corps ». Et si tu aimes rêver, « Préparation au rêve lucide » t’accompagne jusqu’au sommeil."
+     ]
+    },
+    {
+     "h2": "Avec ou sans voix",
+     "p": [
+      "Certains soirs, tu préfères te passer de voix. L’application propose aussi des sons seuls, comme la pluie ou les vagues, avec un minuteur qui baisse doucement le volume."
+     ]
+    }
    ]
   },
   "emotionalGrowth": {

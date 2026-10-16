@@ -78,7 +78,27 @@
     [
      "Do I need to be experienced?",
      "No. All eleven sessions are designed for beginners and guide you step by step. You can keep your eyes open for some of them, which makes them easy to use almost anywhere."
+    ],
+    [
+     "Is a 5 minute meditation enough?",
+     "For a daily habit, yes. A short session you actually do every day is easier to keep than a long one you postpone. These sessions last three to four minutes, and you can chain them."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "5 minute meditation or 10 minutes: build your own",
+     "p": [
+      "Each session lasts three or four minutes. Play one for a five-minute break. Chain two or three for a ten-minute practice.",
+      "They work with your eyes open, at your desk, on a bus or just before a meeting."
+     ]
+    },
+    {
+     "h2": "Pick the one that matches the moment",
+     "p": [
+      "Before a challenge, try Finding Your Confidence Before a Challenge. After an argument, Calming Down After an Argument. When the day speeds up, When Everything Moves Too Fast.",
+      "To end the day well, Precise Gratitude takes only three minutes."
+     ]
+    }
    ]
   },
   "calm": {
@@ -102,7 +122,33 @@
     [
      "Are these sessions suitable for beginners?",
      "They are marked as intermediate and last 13 to 30 minutes. If you are new to meditation, you can start with the Learning Basics category or the four-minute sessions, then come back to these longer relaxations."
+    ],
+    [
+     "What is the best free sleep meditation?",
+     "Start with Drifting into Sleep, a 16-minute session made for falling asleep. It is free, like everything in MeditaDream, with no account and no ads, and it plays offline."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "A simple bedtime routine",
+     "p": [
+      "Get into bed, dim the lights and start a session. Put the phone face down beside you. There is nothing to do except listen.",
+      "Falling asleep before the end is fine. That is what the session is for."
+     ]
+    },
+    {
+     "h2": "Which sleep meditation to pick tonight",
+     "p": [
+      "To drift off quickly, try Drifting into Sleep, a gentle 16-minute session. For a longer wind-down, choose Sleep Journey, 27 minutes.",
+      "If your body still feels tense, start with Breathing with the Whole Body. If you like to dream, Lucid Dream Preparation takes you all the way to sleep."
+     ]
+    },
+    {
+     "h2": "Works offline, in bed",
+     "p": [
+      "Download a session once and it plays without a connection, so you can switch your phone to airplane mode. On quieter nights, the app also has sleep sounds such as rain or ocean waves, with a fade-out timer."
+     ]
+    }
    ]
   },
   "emotionalGrowth": {

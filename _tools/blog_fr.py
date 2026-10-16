@@ -256,6 +256,12 @@ def render_article(bb, a0, arts, lang='fr'):
         h += f'<section class="afaq"><h2>{E(bb.FAQ_LABEL[lang])}</h2>{qa}</section>'
     if a.get('sources'):
         h += f'<aside class="sources"><b>{LBL[lang]["src"]}</b><ul>' + ''.join(f'<li>{s}</li>' for s in a['sources']) + '</ul></aside>'
+    # 15-10 : renvoi vers les catégories de séances du thème de l'article (maillage blog → pages de l'app)
+    try:
+        import app_pages as _ap
+        h += _ap.practice_links(lang, a0.get('groupe') or 'bases')
+    except Exception:
+        pass
     h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="../#download">✦ {E(t["cta_b"])}</a></div>'
     rel = related(a0, arts, lang)
     if rel:

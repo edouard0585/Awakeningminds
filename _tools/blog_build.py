@@ -537,6 +537,11 @@ def render_article(a, lang, arts):
     if a.get('faq'):
         qa = ''.join(f'<details><summary>{E(q)}</summary><p>{E(r)}</p></details>' for q, r in a['faq'][lang])
         h += f'<section class="afaq"><h2>{E(FAQ_LABEL[lang])}</h2>{qa}</section>'
+    # 15-10 : chaque article renvoie vers les catégories de séances de son thème (maillage blog → pages de l'app)
+    try:
+        h += app_pages.practice_links(lang, blog_hubs.SERIES_GROUP.get(a['id'], 'bases'))
+    except Exception:
+        pass
     h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="../#download">✦ {E(t["cta_b"])}</a></div>'
     by_id = {o['id']: o for o in arts}
     others = [by_id[r] for r in RELATED.get(a['id'], []) if by_id.get(r, {}).get('published')]
