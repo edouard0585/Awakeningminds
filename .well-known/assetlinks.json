@@ -1,0 +1,15 @@
+[
+ {
+  "relation": [
+   "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+   "namespace": "android_app",
+   "package_name": "com.edouardrichemond.mindexploreroffline",
+   "sha256_cert_fingerprints": [
+    "2D:4A:6D:12:4C:A0:98:31:05:DE:79:56:F7:40:32:C5:19:ED:2C:FC:9B:F8:15:B5:05:3A:30:99:4E:09:BB:E0",
+    "34:E8:1A:2F:CE:CC:EA:48:73:F3:2D:0A:40:A1:F1:92:C8:01:54:01:8F:65:1B:ED:34:64:9B:F1:78:E2:FF:35"
+   ]
+  }
+ }
+]
