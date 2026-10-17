@@ -204,7 +204,26 @@
     [
      "Comment pratiquer le ho’oponopono ?",
      "La séance Ho’oponopono du Cœur te guide pendant 15 minutes : tu répètes les quatre phrases de cette pratique au rythme du souffle, sans forcer. Aucune connaissance préalable n’est nécessaire, la voix t’accompagne du début à la fin."
+    ],
+    [
+     "Le travail de l’ombre, c’est quoi ?",
+     "C’est accueillir les parts de toi que tu caches ou rejettes, avec douceur. Les séances guidées t’y accompagnent pas à pas, à ton rythme."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Le travail de l’ombre, en douceur",
+     "p": [
+      "L’ombre, c’est ce que tu préfères ne pas voir en toi : une peur, une colère, une vieille blessure. La méditation t’aide à la regarder avec bienveillance, à ton rythme.",
+      "Tu restes toujours libre de t’arrêter. Rien ne t’oblige à aller plus loin que ce qui te semble juste."
+     ]
+    },
+    {
+     "h2": "Par où commencer",
+     "p": [
+      "Les séances sur les peurs sont courtes, de sept à treize minutes : « La peur du jugement », « La peur de l’échec ». Pour aller plus loin, « Travail de l’Ombre » et « Se Pardonner à Soi-Même »."
+     ]
+    }
    ]
   },
   "sacred": {
@@ -224,7 +243,26 @@
     [
      "Combien de temps durent les séances ?",
      "Entre 13 et 17 minutes. C’est une durée confortable pour entrer dans le paysage, s’y installer, puis revenir tranquillement, en fin de séance, à la pièce où tu te trouves."
+    ],
+    [
+     "Faut-il connaître ces lieux pour méditer ?",
+     "Non. La voix décrit chaque lieu en détail. Tu n’as qu’à te laisser guider."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Méditer dans les lieux sacrés du monde",
+     "p": [
+      "Chaque séance t’emmène, en imagination, dans un lieu où l’on médite depuis longtemps : sous l’arbre de la Bodhi, au centre de Stonehenge, dans un sanctuaire taoïste.",
+      "Tu y poses ton attention, tu écoutes, tu respires avec le lieu."
+     ]
+    },
+    {
+     "h2": "Pour un premier voyage",
+     "p": [
+      "« Au centre de Stonehenge » et « La falaise écossaise face à l’océan » durent treize minutes : une belle porte d’entrée."
+     ]
+    }
    ]
   },
   "guides": {
@@ -284,6 +322,21 @@
      "La séance sur un animal disparu convient-elle juste après une perte ?",
      "Elle propose de retrouver le lien à travers les souvenirs du quotidien, avec douceur. Écoute-toi : si le moment te semble trop proche, tu peux attendre ou interrompre la séance. Elle ne remplace pas un accompagnement si tu en ressens le besoin."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Les annales akashiques, une bibliothèque intérieure",
+     "p": [
+      "Selon certaines traditions, les annales akashiques gardent la mémoire de chaque âme. Ici, tu les explores comme une bibliothèque intérieure, avec un gardien qui t’accueille.",
+      "Vis-le comme un voyage symbolique, sans attente ni promesse."
+     ]
+    },
+    {
+     "h2": "Des retrouvailles en douceur",
+     "p": [
+      "« Le jardin des retrouvailles » et « Mon animal parti » t’offrent un moment de tendresse avec un être aimé, dans un cadre doux et paisible."
+     ]
+    }
    ]
   },
   "shamanic": {
@@ -459,7 +512,26 @@
     [
      "Combien de temps faut-il prévoir ?",
      "Entre 17 et 34 minutes selon le voyage. La route de Kyoto est la plus longue, la planète inconnue la plus courte. Prévois quelques minutes de plus pour revenir tranquillement avant de reprendre tes activités."
+    ],
+    [
+     "Est-ce encore de la méditation ?",
+     "Oui : tu restes attentif, détendu et présent à ce que tu imagines. C’est une façon douce de méditer, idéale si tu as envie de t’évader."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Un voyage imaginaire en une séance",
+     "p": [
+      "Ici, la méditation devient une aventure : une journée à Versailles en 1700, la route de Kyoto en 1600, une planète inconnue.",
+      "Tu n’as rien à apprendre. Tu te laisses porter, comme dans un beau rêve éveillé."
+     ]
+    },
+    {
+     "h2": "Combien de temps",
+     "p": [
+      "« La planète inconnue » dure dix-sept minutes. Les voyages dans le temps, plus riches, vont jusqu’à trente-quatre minutes."
+     ]
+    }
    ]
   },
   "thirdEye": {
@@ -519,6 +591,21 @@
      "Faut-il de l’expérience ?",
      "De préférence, oui. Ces séances durent 28 et 31 minutes et demandent une attention stable. Si tu débutes, commence par la catégorie Apprentissage, puis reviens ici quand les séances plus courtes te sembleront faciles."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "La conscience non-duelle",
+     "p": [
+      "Dans la conscience non-duelle, la frontière entre toi et le reste s’adoucit. Il reste la présence, simple et ouverte.",
+      "Ces séances sont avancées et longues, presque une demi-heure. Mieux vaut avoir déjà un peu de pratique."
+     ]
+    },
+    {
+     "h2": "Deux voyages",
+     "p": [
+      "« Conscience non-duelle » t’invite à reposer dans l’espace. « Expansion du corps de lumière » te fait sentir ton corps s’agrandir jusqu’aux étoiles."
+     ]
+    }
    ]
   },
   "trance": {
@@ -538,7 +625,26 @@
     [
      "Reste-t-on conscient pendant la transe ?",
      "Oui. Ces séances visent un état de détente profonde où l’attention reste présente. Dans Corps endormi, esprit éveillé, par exemple, le but est justement d’observer le corps s’endormir sans perdre le fil de la conscience."
+    ],
+    [
+     "Qu’est-ce qu’une méditation de transe ?",
+     "Un état de détente profonde où l’esprit reste éveillé et l’imagination très libre. La voix te guide à l’entrée comme à la sortie."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Le rêve éveillé dirigé",
+     "p": [
+      "Ton corps se détend profondément, ton esprit reste éveillé. Dans cet état, les images viennent facilement : une bibliothèque infinie, une spirale, un grenier oublié.",
+      "C’est l’état que les séances de transe t’aident à trouver."
+     ]
+    },
+    {
+     "h2": "Par où commencer",
+     "p": [
+      "« Le rêve éveillé dirigé » et « Le grenier aux objets oubliés » durent vingt minutes. « Corps endormi, esprit éveillé » t’apprend l’état de base."
+     ]
+    }
    ]
   },
   "tranceTechniques": {
@@ -558,7 +664,26 @@
     [
      "Peut-on écouter ces séances n’importe où ?",
      "Non. Écoute-les assis ou allongé, dans un endroit calme, jamais en conduisant ni pendant une activité qui demande ta vigilance. Prévois quelques minutes après la séance pour revenir tranquillement avant de reprendre tes activités."
+    ],
+    [
+     "Ces voyages sont-ils pour débutants ?",
+     "Non, ils sont avancés. Commence par « Corps endormi, esprit éveillé » dans la catégorie transe, puis reviens ici."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Des voyages plus profonds",
+     "p": [
+      "Ces techniques sont avancées. Elles t’emmènent dans le monde d’en bas, le monde d’en haut ou un couloir aux mille portes.",
+      "Prends le temps de pratiquer d’abord les séances de transe plus simples."
+     ]
+    },
+    {
+     "h2": "Pour commencer",
+     "p": [
+      "« Les talents oubliés » est la plus courte, seize minutes. « Descente en transe progressive » t’apprend à descendre étape par étape."
+     ]
+    }
    ]
   },
   "astralMicroDetach": {
@@ -578,7 +703,26 @@
     [
      "Combien de fois pratiquer avant de passer au voyage astral ?",
      "Il n’y a pas de règle. Tu peux passer à la suite quand un ou deux micro-gestes te semblent familiers. Rien n’oblige à suivre un ordre strict : reviens aux exercices qui te parlent le plus."
+    ],
+    [
+     "Comment se préparer au voyage astral ?",
+     "Avec de petits exercices de détachement, plus courts que les protocoles complets. Ils t’apprennent à reconnaître les premières sensations."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Préparer le voyage astral",
+     "p": [
+      "Le micro-détachement, ce sont de petits gestes intérieurs avant toute sortie : sentir un léger décalage, un point derrière la tête, une attraction vers le plafond.",
+      "Ces séances courtes préparent les sensations des protocoles plus longs."
+     ]
+    },
+    {
+     "h2": "Un bon ordre",
+     "p": [
+      "Commence par « Le point derrière la tête » ou « Le toboggan », seize minutes. Puis « L’aimant au plafond » et « S’asseoir fantôme »."
+     ]
+    }
    ]
   },
   "astralJourneys": {

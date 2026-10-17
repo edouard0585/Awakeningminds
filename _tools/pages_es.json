@@ -215,6 +215,21 @@
      "¿Y si una sesión me remueve demasiado?",
      "Puedes detenerla en cualquier momento. Estas meditaciones sirven para la exploración interior y no sustituyen el acompañamiento de un profesional. Si lo necesitas, vuelve a una práctica más ligera, como las meditaciones de 4 minutos, y retoma esta categoría más adelante."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Trabajo con la sombra, con amabilidad",
+     "p": [
+      "La sombra es lo que prefieres no ver de ti: un miedo, un enfado, una herida antigua. La meditación te ayuda a mirarla con amabilidad, a tu ritmo.",
+      "Siempre puedes parar. Ve solo hasta donde te parezca bien."
+     ]
+    },
+    {
+     "h2": "Por dónde empezar",
+     "p": [
+      "Las sesiones sobre los miedos son cortas, de siete a trece minutos: «El Miedo al Juicio», «El Miedo al Fracaso». Para ir más lejos, «Trabajo con la Sombra» y «Serenidad del Niño Interior»."
+     ]
+    }
    ]
   },
   "sacred": {
@@ -238,7 +253,26 @@
     [
      "¿Qué sesión elegir para empezar?",
      "«Bajo el árbol Bodhi» es una buena puerta de entrada: te sientas, sientes las raíces debajo de ti y dejas que la atención se abra como las hojas al viento. Si prefieres el agua y el silencio, prueba «La antigua pagoda entre los lotos»."
+    ],
+    [
+     "¿Necesito conocer estos lugares?",
+     "No. La voz describe cada lugar con detalle. Solo tienes que dejarte guiar."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Meditar en lugares sagrados",
+     "p": [
+      "Cada sesión te lleva, con la imaginación, a un lugar donde se medita desde hace siglos: bajo el árbol Bodhi, en Stonehenge, en un santuario taoísta.",
+      "Te instalas, escuchas y respiras con el lugar."
+     ]
+    },
+    {
+     "h2": "Un primer viaje",
+     "p": [
+      "«En el centro de Stonehenge» y «El acantilado escocés frente al océano» duran trece minutos."
+     ]
+    }
    ]
   },
   "guides": {
@@ -306,6 +340,21 @@
      "¿Cuánto duran estas meditaciones?",
      "Entre 24 y 25 minutos. Son sesiones largas de nivel intermedio, así que es mejor hacerlas en un momento en que nadie te interrumpa, sentado o tumbado con comodidad y sin tener que mirar el reloj."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Meditación de registros akáshicos",
+     "p": [
+      "Según algunas tradiciones, los registros akáshicos guardan la memoria de cada alma. Aquí los exploras como una biblioteca interior, con un guardián que te recibe.",
+      "Vívelo como un viaje simbólico, sin expectativas."
+     ]
+    },
+    {
+     "h2": "Reencuentros suaves",
+     "p": [
+      "«El jardín del reencuentro» y «Mi animal que ya no está» te regalan un momento de ternura con un ser querido, en un entorno tranquilo."
+     ]
+    }
    ]
   },
   "shamanic": {
@@ -501,7 +550,26 @@
     [
      "¿Sirven para dormir?",
      "Están pensadas para vivirlas despierto, siguiendo la historia. Para dormir, la categoría Cuerpo, calma y sueño ofrece sesiones dedicadas, como «Deslizamiento hacia el sueño», que termina sin despertar."
+    ],
+    [
+     "¿Esto también es meditar?",
+     "Sí: estás relajado y atento a lo que imaginas. Es una forma suave de meditar cuando quieres evadirte."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Un viaje imaginario en una sola sesión",
+     "p": [
+      "Aquí la meditación es una aventura: un día en Versalles en 1700, el camino a Kioto en 1600, un planeta desconocido.",
+      "No hay nada que aprender. Te dejas llevar por la historia."
+     ]
+    },
+    {
+     "h2": "Duración",
+     "p": [
+      "«El planeta desconocido» dura diecisiete minutos. Los viajes en el tiempo llegan a treinta y cuatro."
+     ]
+    }
    ]
   },
   "thirdEye": {
@@ -568,7 +636,26 @@
     [
      "¿Qué es el cuerpo de luz?",
      "En esta sesión es una imagen: partes del calor que sientes en el cuerpo y dejas que se convierta en una luz que se extiende más allá de la piel. No hace falta ninguna creencia para practicarla, solo imaginación y tiempo."
+    ],
+    [
+     "¿Qué es la meditación no dual?",
+     "Una práctica en la que dejas de separar a quien observa de lo observado y descansas en la presencia."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "La conciencia no dual",
+     "p": [
+      "En la conciencia no dual, la frontera entre tú y lo demás se suaviza. Queda la presencia, sencilla y abierta.",
+      "Son sesiones largas y avanzadas, de casi media hora."
+     ]
+    },
+    {
+     "h2": "Dos viajes",
+     "p": [
+      "«Conciencia no dual» te invita a descansar en el espacio. «Expansión del cuerpo de luz» te hace sentir tu cuerpo crecer hasta las estrellas."
+     ]
+    }
    ]
   },
   "trance": {
@@ -592,7 +679,26 @@
     [
      "¿Qué diferencia hay con Trances y técnicas?",
      "Conciencia y trance es de nivel intermedio y explora estados de atención entre la vigilia y el sueño. Trances y técnicas, de nivel avanzado, propone viajes más estructurados: descenso progresivo, mundos de abajo y de arriba o el linaje familiar."
+    ],
+    [
+     "¿Qué es una meditación de trance?",
+     "Un estado de relajación profunda con la mente despierta y la imaginación libre. La voz te guía al entrar y al salir."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Trance guiado: cuerpo dormido, mente despierta",
+     "p": [
+      "El cuerpo se relaja a fondo y la mente sigue despierta. En ese estado las imágenes llegan solas: una biblioteca infinita, una espiral, un desván olvidado.",
+      "Es el estado que estas sesiones te ayudan a encontrar."
+     ]
+    },
+    {
+     "h2": "Por dónde empezar",
+     "p": [
+      "«El sueño despierto dirigido» y «El desván de los objetos olvidados» duran veinte minutos. «Cuerpo dormido, mente despierta» enseña el estado básico."
+     ]
+    }
    ]
   },
   "tranceTechniques": {
@@ -616,7 +722,26 @@
     [
      "¿Necesito experiencia previa?",
      "Sí, es recomendable. Estas sesiones son de nivel avanzado y piden mantener la atención durante viajes largos. Antes, prueba Conciencia y trance, de nivel intermedio, y empieza aquí por el descenso progresivo al trance."
+    ],
+    [
+     "¿Son para principiantes?",
+     "No, son avanzadas. Empieza por «Cuerpo dormido, mente despierta» en la categoría de trance."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Viajes de trance más profundos",
+     "p": [
+      "Estas técnicas son avanzadas: el mundo de abajo, el mundo de arriba, el pasillo de las mil puertas.",
+      "Practica antes las sesiones de trance más sencillas."
+     ]
+    },
+    {
+     "h2": "Para empezar",
+     "p": [
+      "«Los talentos olvidados» es la más corta, dieciséis minutos. «Descenso progresivo al trance» te enseña a bajar paso a paso."
+     ]
+    }
    ]
   },
   "astralMicroDetach": {
@@ -640,7 +765,26 @@
     [
      "¿Con qué frecuencia conviene practicar?",
      "No hay una regla fija. Puedes repetir el mismo ejercicio varios días seguidos hasta que la sensación te resulte familiar y luego pasar al siguiente. Lo importante es la regularidad y no forzar el resultado."
+    ],
+    [
+     "¿Cómo prepararse para el desdoblamiento astral?",
+     "Con ejercicios cortos de desprendimiento, antes de los protocolos completos. Te enseñan a reconocer las primeras sensaciones."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Ejercicios antes del desdoblamiento",
+     "p": [
+      "El microdesprendimiento son pequeños gestos interiores antes de cualquier salida: un ligero desplazamiento, un punto detrás de la cabeza, una atracción hacia el techo.",
+      "Estas sesiones cortas preparan las sensaciones de los protocolos largos."
+     ]
+    },
+    {
+     "h2": "Un buen orden",
+     "p": [
+      "Empieza por «El punto detrás de la cabeza» o «El tobogán», dieciséis minutos. Después, «El imán del techo» y «Sentarse como un fantasma»."
+     ]
+    }
    ]
   },
   "astralJourneys": {
