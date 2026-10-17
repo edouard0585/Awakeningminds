@@ -165,7 +165,26 @@
     [
      "Faut-il avoir pardonné pour suivre la séance sur le pardon ?",
      "Non. La séance explore ce que pardonner pourrait vouloir dire, puis te laisse décider toi-même : déposer ou garder, en conservant ce que tu as appris. Rien ne t’est imposé, et tu avances à ton rythme."
+    ],
+    [
+     "Quelle méditation pour la confiance en soi ?",
+     "Commence par « Développer l’amour de soi », puis « Se libérer de la comparaison ». Pratiquées régulièrement, elles t’aident à te regarder avec plus de douceur."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Méditer pour l’amour de soi et la confiance en soi",
+     "p": [
+      "Ces séances t’aident à te parler avec plus de douceur. Tu apprends à accueillir une émotion, à te comparer moins, à reconnaître ce qui va bien.",
+      "La confiance grandit souvent de là : quand tu cesses de te juger sans cesse."
+     ]
+    },
+    {
+     "h2": "Une séance pour chaque besoin",
+     "p": [
+      "Pour commencer, « Développer l’amour de soi », quinze minutes. Pour une émotion qui pèse, « Accueillir une émotion difficile ». Et si tu as peu de temps, la « Méditation de compassion » dure sept minutes."
+     ]
+    }
    ]
   },
   "shadow": {
@@ -225,7 +244,26 @@
     [
      "Par quelle séance commencer ?",
      "La séance Le nom et le signe, de 16 minutes, est la plus courte : elle te donne un nom et un objet pour retrouver facilement cet état intérieur. La séance Le guide de lumière, de 24 minutes, en est une bonne suite."
+    ],
+    [
+     "Comment rencontrer son guide spirituel en méditation ?",
+     "Détends-toi, imagine un lieu paisible et laisse une présence venir à toi. La séance « Le nom et le signe » te guide pas à pas en seize minutes."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Rencontrer son guide spirituel, pas à pas",
+     "p": [
+      "Tu commences par te détendre et créer un lieu intérieur paisible. Puis une présence vient à ta rencontre : une lumière, une silhouette, un animal ou une simple sensation.",
+      "Il n’y a pas de bonne forme. Accueille ce qui se présente, sans forcer."
+     ]
+    },
+    {
+     "h2": "Par quelle séance commencer",
+     "p": [
+      "« Le nom et le signe » est la plus courte, seize minutes : tu demandes un nom ou un signe pour retrouver ton guide. Ensuite, « Le guide de lumière » et « Le conseil des guides » approfondissent la rencontre."
+     ]
+    }
    ]
   },
   "higherKnowledge": {
@@ -265,7 +303,26 @@
     [
      "Faut-il un tambour ou un matériel particulier ?",
      "Non, rien à préparer. Il suffit d’écouter la séance avec des écouteurs, assis ou allongé, dans un endroit calme. Si tu souhaites le son du tambour, le voyage au monde d’en bas de la catégorie Transes & Techniques l’utilise."
+    ],
+    [
+     "Faut-il un tambour pour un voyage chamanique ?",
+     "Non. La séance guidée te donne le rythme et les étapes. Tu as seulement besoin d’un moment calme, allongé ou assis."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Le voyage chamanique guidé",
+     "p": [
+      "Dans les traditions chamaniques, le tambour accompagne un voyage intérieur. Tu traverses un paysage, tu rencontres des présences et tu reviens avec quelque chose : une image, un objet, une réponse.",
+      "Ici, la voix te guide à l’aller comme au retour."
+     ]
+    },
+    {
+     "h2": "Par où commencer",
+     "p": [
+      "« Le cercle de protection », vingt-trois minutes, pose un cadre rassurant. Ensuite, « Le feu des anciens » et « La quête de vision » vont plus loin."
+     ]
+    }
    ]
   },
   "buddhist": {
@@ -285,7 +342,26 @@
     [
      "Qu’est-ce qu’un bodhisattva ?",
      "Dans le bouddhisme mahāyāna, un bodhisattva est un être qui chemine vers l’éveil en faisant le vœu d’aider tous les êtres. Avalokiteśvara incarne la compassion, Mañjuśrī la sagesse, Samantabhadra la pratique et les vœux."
+    ],
+    [
+     "Faut-il être bouddhiste pour suivre ces méditations ?",
+     "Non. Les bodhisattvas servent de support à l’imagination et à la bienveillance. Chacun peut les vivre à sa façon."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Méditer avec les bodhisattvas",
+     "p": [
+      "Dans la tradition bouddhiste, les bodhisattvas incarnent des qualités : la compassion d’Avalokiteśvara, la clarté de Mañjuśrī, la protection de Tārā.",
+      "Chaque séance te fait rencontrer l’un d’eux pour cultiver cette qualité en toi. Aucune croyance n’est demandée."
+     ]
+    },
+    {
+     "h2": "Bienveillance et compassion",
+     "p": [
+      "« Les onze visages d’Avalokiteśvara » ouvre le cœur à la compassion. « Le jardin de Maitreya » t’invite à rencontrer la personne que tu deviens."
+     ]
+    }
    ]
   },
   "qigong": {
@@ -305,7 +381,26 @@
     [
      "Faut-il savoir faire du Qi Gong ?",
      "Non. Les trois premières séances t’apprennent à sentir avant de bouger : la chaleur des mains, la petite circulation, la posture de l’arbre. La quatrième, La danse du Qi, introduit des mouvements lents que tu suis à ton rythme."
+    ],
+    [
+     "Le Qi Gong, c’est de la méditation ?",
+     "C’est une méditation en mouvement, ou en sensations. Ces séances guidées te font sentir l’énergie dans ton corps, sans connaissances préalables."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Le Qi Gong, assis ou debout",
+     "p": [
+      "Le Qi Gong est une pratique chinoise qui relie souffle, attention et mouvements lents. Ici, tu le vis surtout de l’intérieur : chaleur, picotements, sensation d’énergie qui circule.",
+      "Tu peux pratiquer assis, debout ou même allongé, selon la séance."
+     ]
+    },
+    {
+     "h2": "Sentir le Qi pour la première fois",
+     "p": [
+      "Commence par « Les mains qui chauffent » : une balle imaginaire entre tes paumes, et une douce chaleur apparaît. Puis passe à « L’arbre immobile », debout et enraciné."
+     ]
+    }
    ]
   },
   "visualisation": {
@@ -325,7 +420,26 @@
     [
      "Combien de temps durent les séances ?",
      "Les séances consacrées à un seul sens durent de 16 à 18 minutes. Celles qui réunissent les trois sens, ainsi que La pièce que tu connais, durent de 27 à 29 minutes."
+    ],
+    [
+     "Je ne vois pas d’images, est-ce grave ?",
+     "Non, c’est très courant. Commence par l’ouïe et le toucher, souvent plus faciles. Les images viennent avec la pratique."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Entraîner ton œil intérieur",
+     "p": [
+      "Visualiser, ce n’est pas forcément voir des images nettes. C’est aussi entendre, toucher, sentir en imagination. Chaque séance travaille un sens à la fois.",
+      "Avec un peu de pratique, les images deviennent plus vives et plus stables."
+     ]
+    },
+    {
+     "h2": "Un ordre simple",
+     "p": [
+      "Commence par « Entendre — Le bol chantant lointain », puis « Toucher — La clé dans la main ». Quand ces sens sont faciles, les séances « Les trois sens réunis » t’emmènent au sommet d’un volcan ou dans la galaxie."
+     ]
+    }
    ]
   },
   "miniAdventures": {
@@ -365,7 +479,26 @@
     [
      "Peut-on commencer par cette catégorie ?",
      "C’est possible, mais elle est classée au niveau avancé. Si tu débutes, les catégories Apprentissage et Visualisation te donneront les bases : stabiliser l’attention, puis voir, entendre et toucher en imagination."
+    ],
+    [
+     "Comment méditer sur le troisième œil ?",
+     "Assieds-toi, pose doucement ton attention entre les sourcils et laisse venir ce qui apparaît. La séance « L’œil intérieur s’éveille » t’accompagne pas à pas."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Méditer sur le troisième œil",
+     "p": [
+      "Le troisième œil, ou ajna, désigne le point entre les sourcils dans la tradition du yoga. En y posant ton attention, tu laisses venir des images intérieures, sans les chercher.",
+      "Ces séances sont avancées : mieux vaut être à l’aise avec la visualisation."
+     ]
+    },
+    {
+     "h2": "Une progression possible",
+     "p": [
+      "Commence par « L’œil intérieur s’éveille ». Puis essaie « L’image qui apparaît seule » et « Le mandala qui se construit seul », où tu observes sans rien diriger."
+     ]
+    }
    ]
   },
   "cosmic": {

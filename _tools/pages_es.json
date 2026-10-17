@@ -171,7 +171,26 @@
     [
      "¿Cuánto tiempo necesito?",
      "Las sesiones duran entre 7 y 17 minutos. Puedes hacer una sola cuando la necesites o seguirlas en orden durante varios días. Como son de nivel intermedio, ayuda haber probado antes algunas meditaciones de la categoría Aprendizaje."
+    ],
+    [
+     "¿Qué meditación de amor propio hacer primero?",
+     "Empieza por «Desarrollar el amor propio», de quince minutos. Cuando te sientas cómodo, sigue con «Liberarse de la comparación»."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Meditación de amor propio para cada día",
+     "p": [
+      "Estas sesiones te ayudan a hablarte con más amabilidad. Aprendes a acoger una emoción, a compararte menos y a ver lo que ya está bien.",
+      "El amor propio se construye poco a poco, con pequeñas pausas."
+     ]
+    },
+    {
+     "h2": "Elige según lo que necesitas",
+     "p": [
+      "Para empezar, «Desarrollar el amor propio», quince minutos. Para soltar algo que pesa, «Perdonar sin olvidar». Si tienes poco tiempo, «Meditación de compasión» dura siete minutos."
+     ]
+    }
    ]
   },
   "shadow": {
@@ -243,7 +262,26 @@
     [
      "¿Cuánto duran estas meditaciones?",
      "Entre 16 y 26 minutos. La más larga es «El consejo de los guías», que deja tiempo para escuchar a cinco guías sobre un problema concreto. Conviene elegir un momento en el que nadie te interrumpa."
+    ],
+    [
+     "¿Cómo se conecta con un guía espiritual meditando?",
+     "Relájate, imagina un lugar en calma y deja que una presencia llegue a ti. La sesión «El nombre y la señal» te acompaña paso a paso."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Cómo conectar con tu guía espiritual",
+     "p": [
+      "Primero te relajas y creas un lugar interior tranquilo. Después una presencia viene a tu encuentro: una luz, una figura, un animal o una sensación.",
+      "No hay una forma correcta. Acoge lo que aparezca."
+     ]
+    },
+    {
+     "h2": "Por dónde empezar",
+     "p": [
+      "«El nombre y la señal» es la más corta, dieciséis minutos: pides un nombre o una señal para reconocer a tu guía. Luego, «El guía de luz» y «El consejo de los guías» profundizan el encuentro."
+     ]
+    }
    ]
   },
   "higherKnowledge": {
@@ -291,7 +329,26 @@
     [
      "¿Dónde están los viajes con tambor?",
      "Los viajes al mundo de abajo y al mundo de arriba están en la categoría Trances y técnicas, de nivel avanzado. El viaje al mundo de abajo se hace al son del tambor, siguiendo a un animal con la imaginación y moviéndote como él."
+    ],
+    [
+     "¿Hace falta un tambor para el viaje chamánico?",
+     "No. La sesión guiada marca el ritmo y los pasos. Solo necesitas un momento tranquilo, acostado o sentado."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "El viaje chamánico guiado",
+     "p": [
+      "En las tradiciones chamánicas, el tambor acompaña un viaje interior. Recorres un paisaje, encuentras presencias y vuelves con algo: una imagen, un objeto, una respuesta.",
+      "La voz te guía en la ida y en la vuelta."
+     ]
+    },
+    {
+     "h2": "Por dónde empezar",
+     "p": [
+      "«El círculo de protección», veintitrés minutos, crea un marco seguro. Luego, «El fuego de los antiguos» y «La búsqueda de visión» van más lejos."
+     ]
+    }
    ]
   },
   "buddhist": {
@@ -315,7 +372,26 @@
     [
      "¿Cuánto duran las meditaciones budistas?",
      "Entre 20 y 30 minutos. La más larga es «El viaje de Sudhana», de 30 minutos. Son de nivel intermedio, así que conviene haber practicado antes algunas meditaciones más cortas, por ejemplo en la categoría Aprendizaje."
+    ],
+    [
+     "¿Necesito ser budista para estas meditaciones?",
+     "No. Los bodhisattvas son un apoyo para la imaginación y la bondad. Cada persona los vive a su manera."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Meditación budista de compasión",
+     "p": [
+      "En el budismo, cada bodhisattva encarna una cualidad: la compasión de Avalokiteśvara, la claridad de Mañjuśrī, la protección de Tārā.",
+      "Cada sesión te invita a encontrarte con uno de ellos para cultivar esa cualidad. No hace falta ser budista."
+     ]
+    },
+    {
+     "h2": "Qué sesión elegir",
+     "p": [
+      "Para la compasión, «Los once rostros de Avalokiteśvara». Para ver con claridad, «La espada de Mañjuśrī». Para mirar hacia quien estás llegando a ser, «El jardín de Maitreya»."
+     ]
+    }
    ]
   },
   "qigong": {
@@ -339,7 +415,26 @@
     [
      "¿Necesito saber qigong?",
      "No. Las sesiones son de nivel intermedio, pero la voz explica cada gesto paso a paso, despacio. Lo importante es sentir antes que producir, sin forzar nada ni buscar un resultado concreto desde la primera vez."
+    ],
+    [
+     "¿El qigong es meditación?",
+     "Es una meditación en movimiento o en sensaciones. Estas sesiones guiadas te ayudan a sentir la energía del cuerpo sin experiencia previa."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Qué es el qigong y cómo practicarlo en casa",
+     "p": [
+      "El qigong es una práctica china que une respiración, atención y movimientos lentos. En estas sesiones lo vives desde dentro: calor, cosquilleo, sensación de energía.",
+      "Puedes practicar sentado o de pie, en cualquier rincón tranquilo."
+     ]
+    },
+    {
+     "h2": "Tu primera sesión",
+     "p": [
+      "Empieza con «Las manos que se calientan»: una bola imaginaria entre las palmas y un calor suave. Después, «El árbol inmóvil», de pie y enraizado."
+     ]
+    }
    ]
   },
   "visualisation": {
@@ -363,7 +458,26 @@
     [
      "¿Cuánto duran estas meditaciones?",
      "Entre 16 y 29 minutos. Las sesiones de un solo sentido duran de 16 a 18 minutos; las escenas completas, de 27 a 29 minutos. Elige según el tiempo del que dispongas ese día."
+    ],
+    [
+     "¿Y si no consigo ver imágenes?",
+     "Es muy normal. Empieza por el oído y el tacto, que suelen ser más fáciles. Las imágenes llegan con la práctica."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Visualización guiada paso a paso",
+     "p": [
+      "Visualizar no es solo ver imágenes nítidas. También es oír, tocar y sentir con la imaginación. Cada sesión entrena un sentido.",
+      "Con la práctica, las imágenes se vuelven más claras."
+     ]
+    },
+    {
+     "h2": "De un sentido a los tres",
+     "p": [
+      "Empieza con «Oír — El cuenco cantor lejano» y «Tocar — La llave en la mano». Después, las sesiones de «Los tres sentidos reunidos» te llevan a un volcán o a explorar la galaxia."
+     ]
+    }
    ]
   },
   "miniAdventures": {
@@ -411,7 +525,26 @@
     [
      "¿Y si no aparece ninguna imagen?",
      "Es normal. Las sesiones no exigen ver nada: «La imagen que aparece sola» consiste justamente en esperar sin construir. Lo que cuenta es la calidad de la atención, no el resultado, y cada práctica es distinta."
+    ],
+    [
+     "¿Cómo se medita en el tercer ojo?",
+     "Siéntate, lleva la atención entre las cejas y deja que aparezcan imágenes por sí solas. «El ojo interior despierta» te guía paso a paso, sin promesas."
     ]
+   ],
+   "guide": [
+    {
+     "h2": "Cómo meditar con el tercer ojo",
+     "p": [
+      "El tercer ojo, o ajna, es el punto entre las cejas en la tradición del yoga. Llevas allí la atención y dejas que lleguen imágenes interiores, sin buscarlas.",
+      "Son sesiones avanzadas: ayuda tener algo de práctica con la visualización."
+     ]
+    },
+    {
+     "h2": "Una progresión posible",
+     "p": [
+      "Empieza con «El ojo interior despierta». Después prueba «La imagen que aparece sola» y «El mandala que se construye solo»."
+     ]
+    }
    ]
   },
   "cosmic": {
