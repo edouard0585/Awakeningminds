@@ -84,7 +84,7 @@ def build(bb, ap):
         q = [v['faq'],
              ['Combien coûte une formation ?', 'Chaque proposition est construite sur mesure, selon le format, la durée et le nombre de participants. L’application, elle, est gratuite pour tous, sans abonnement ni version payante.'],
              ['Quelles données sont collectées sur les participants ?', 'Aucune. L’application ne demande pas de compte et ne collecte aucune donnée personnelle : les données de pratique restent sur le téléphone de chacun.']]
-        autres = [x for x in villes if x['pays'] == v['pays'] and x is not v] or [x for x in villes if x is not v][:6]
+        autres = [x for x in villes if x['pays'] == v['pays'] and x is not v] + [x for x in villes if x['pays'] != v['pays']]   # 17-10 : toutes les villes (Luxembourg, Genève, Lausanne n'avaient que 1-2 liens entrants)
         liens = ''.join(f'<li><a href="{x["slug"]}.html">{E(x["nom"])}</a></li>' for x in autres)
         liens += f'<li><a href="./">Toutes les villes</a></li><li><a href="../{teams["slug"]}.html">{E(t["teams"])}</a></li>'
         body = (ap.crumbs('fr', bc) + f'<article><h1>{E(h1)}</h1><p class="lead">{E(d)}</p>'
