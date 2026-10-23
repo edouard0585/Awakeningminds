@@ -619,7 +619,7 @@ def render_sitemap(arts):
             continue
         pa = lambda y, a=a: f'/{y}/blog/{a["slug"][y]}.html'
         for x in LANGS:
-            urls.append(f'<url><loc>{BASE}{pa(x)}</loc><lastmod>{a["published"]}</lastmod>{block(pa)}</url>')
+            urls.append(f'<url><loc>{BASE}{pa(x)}</loc><lastmod>{a.get("modified", a["published"])}</lastmod>{block(pa)}</url>')  # 23-10 : date de mise à jour
     urls += blog_fr.sitemap_urls(sys.modules[__name__], fr_seuls)
     urls += blog_hubs.sitemap_urls(sys.modules[__name__], HUB_ACT)
     urls += app_pages.sitemap_urls(sys.modules[__name__], APP_WRITTEN)
