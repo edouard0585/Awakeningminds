@@ -1,0 +1,2137 @@
+{
+ "mondes": {
+  "slug": "",
+  "seo": "Méditation immersive : 17 mondes pour un voyage intérieur",
+  "desc": "17 méditations immersives guidées : temple dans la brume, Atlantide, forêt des esprits loups. Un voyage intérieur de 13 à 20 minutes, gratuit et hors ligne.",
+  "h1": "Mondes immersifs : la méditation comme un voyage intérieur",
+  "eyebrow": "Guide complet",
+  "lead": "La méditation immersive t’emmène dans un lieu imaginaire complet, du premier pas jusqu’au retour. MeditaDream propose 17 mondes, de 13 à 20 minutes : un temple dans la brume, une cité engloutie, une forêt gardée par des loups.",
+  "def": "La **méditation immersive** est une visualisation guidée qui te plonge tout entier dans un lieu imaginaire. Une voix te guide pas à pas : une scène d’ouverture, des sons, une intention, quelques gestes en imagination, puis un retour doux. Ton attention se pose dans ce décor, et le reste de la journée s’éloigne un moment.",
+  "kw": "méditation immersive, mondes immersifs, voyage intérieur, méditation guidée, méditation guidée voyage, voyage imaginaire, visualisation guidée, méditation guidée gratuite, méditation du soir, histoire pour dormir adulte",
+  "sections": [
+   {
+    "id": "c-est-quoi",
+    "h2": "Qu’est-ce qu’une méditation immersive ?",
+    "p": [
+     "Une méditation immersive ressemble à un voyage intérieur dont tu serais le seul témoin. Les yeux fermés, une voix te guide dans un lieu, parmi ses lumières, ses odeurs et ses bruits. Peu à peu, ce lieu prend toute la place.",
+     "Dans MeditaDream, ces voyages s’appellent des **mondes immersifs**. Chacun suit le même fil : une scène d’ouverture, une intention, quelques rencontres, puis un retour. En chemin, tu fais des gestes simples en imagination. Des sons d’ambiance accompagnent tout le trajet : la pluie, le vent, une cloche, un chant lointain.",
+     "Ce n’est pas un exercice de concentration sévère. Tu n’as rien à réussir. Il suffit de te laisser porter, et de revenir au récit quand ton esprit s’égare."
+    ]
+   },
+   {
+    "id": "pourquoi",
+    "h2": "Pourquoi l’imagination apaise-t-elle ?",
+    "p": [
+     "Les psychologues appellent **absorption** cette capacité à se laisser prendre tout entier par une expérience. C’est ce qui t’arrive devant un beau film, ou avec un livre que tu ne lâches plus. Une méditation immersive utilise ce même élan, mais vers le calme.",
+     "Quand ton attention habite un décor imaginaire, il lui reste moins de place pour les pensées qui tournent en boucle. Beaucoup de pratiquants sentent alors leur souffle ralentir de lui-même. Ce n’est pas une promesse, c’est une expérience fréquente.",
+     "L’imagination ne remplace ni le sommeil ni le soutien de tes proches. Elle t’offre une pause, un endroit où poser ton esprit quelques minutes. Pour beaucoup, c’est déjà précieux."
+    ]
+   },
+   {
+    "id": "choisir",
+    "h2": "Comment choisir un monde selon ton intention ?",
+    "p": [
+     "Chaque monde porte une intention. Certains t’ancrent, d’autres t’ouvrent à l’émerveillement ou au regard intérieur. Choisis selon ce dont tu as besoin aujourd’hui, pas selon le décor le plus spectaculaire.",
+     "Si tu te sens dispersé, descends dans [Le Cœur de la Terre](/fr/mondes/meditation-ancrage-coeur-terre.html), vers ce qui ne bouge pas. Si tu veux te sentir protégé, entre dans [La Forêt des Esprits Loups](/fr/mondes/meditation-foret-esprits-loups.html), où une meute veille sur toi. Pour une question intérieure, [La Dimension des Miroirs](/fr/mondes/meditation-dimension-des-miroirs.html) t’invite à te demander qui regarde."
+    ],
+    "table": {
+     "head": [
+      "Ton intention",
+      "Mondes conseillés"
+     ],
+     "rows": [
+      [
+       "Ancrage et sécurité",
+       "Le Cœur de la Terre (15 min), Le Temple Ancien (20 min)"
+      ],
+      [
+       "Refuge et protection",
+       "L’Île Flottante (20 min), La Forêt des Esprits Loups (15 min)"
+      ],
+      [
+       "Émerveillement",
+       "Voyage à Travers la Galaxie (19 min), La Forêt des Rêves (17 min), Le Temple Cosmique (13 min)"
+      ],
+      [
+       "Regard intérieur",
+       "La Dimension des Miroirs (15 min), La Bibliothèque Céleste (14 min), L’Oasis du Désert (13 min)"
+      ],
+      [
+       "Silence et clarté",
+       "Le Sanctuaire Gelé (16 min), La Grotte de Cristal Infinie (17 min), Le Monastère à l’Aube (18 min)"
+      ],
+      [
+       "Équilibre et lâcher-prise",
+       "Le Jardin Zen (18 min), L’Atlantide Sous-Marine (18 min)"
+      ],
+      [
+       "Lien et curiosité",
+       "L’Arbre de Conscience (18 min), Les Ruines Oubliées (19 min)"
+      ]
+     ]
+    },
+    "visual": true
+   },
+   {
+    "id": "deroulement",
+    "h2": "Comment se déroule un monde, du seuil au retour ?",
+    "p": [
+     "Chaque monde est une méditation guidée de voyage intérieur, avec un début, un milieu et une fin. Les étapes reviennent toujours dans le même ordre. Ce rythme connu aide ton esprit à se poser plus vite."
+    ],
+    "steps": [
+     [
+      "Entrer",
+      "Tu choisis un monde sur l’écran « Mondes de Méditation », puis tu touches « Entrer dans ce monde ». La séance se télécharge une fois, puis elle fonctionne hors ligne."
+     ],
+     [
+      "La scène d’ouverture",
+      "Le décor se met en place. Au Temple Ancien, ce sont des marches de pierre sous la pluie, dans la brume de la montagne."
+     ],
+     [
+      "L’intention",
+      "Chaque monde a un but simple : déposer un poids, retrouver de la clarté, te sentir relié. Tu le découvres en chemin."
+     ],
+     [
+      "Les gestes en imagination",
+      "Tu poses la paume sur une porte, tu nourris des carpes, tu reçois une graine. Ces petits gestes gardent ton attention vivante."
+     ],
+     [
+      "Le retour",
+      "Le monde se referme doucement. Au Jardin Zen, les lanternes éclairent le chemin jusqu’au portail. Puis tu retrouves ton souffle et ton corps."
+     ],
+     [
+      "La trace",
+      "À la fin, « Capturer ceci » te permet de noter ce que tu as vécu, avec un titre, des notes et des étiquettes."
+     ]
+    ]
+   },
+   {
+    "id": "differences",
+    "h2": "Méditation immersive, méditation guidée classique et voyage imaginaire",
+    "p": [
+     "Une méditation guidée classique te garde ici et maintenant. Tu observes ton souffle, tes sensations, tes pensées. C’est le cœur de la catégorie [Apprentissage](/fr/meditations/meditation-guidee-debutant.html), avec le balayage corporel ou l’attention au souffle. En France, Christophe André a fait connaître cette pleine conscience à un très large public.",
+     "Une méditation immersive t’emmène ailleurs, dans un lieu qui n’existe pas. Elle s’appuie sur ta capacité à imaginer, comme une [visualisation guidée](/fr/visualisation.html) très complète. Le but reste proche : une attention posée, un esprit plus calme.",
+     "Le voyage imaginaire, enfin, raconte une histoire. Les [Mini-aventures](/fr/meditations/meditation-voyage-imaginaire.html) proposent par exemple « Versailles — Une journée en 1700 » (30 min). Elles t’emmènent aussi dans « Japon — Sur la route de Kyoto en 1600 » (34 min). Les mondes, eux, sont des lieux à habiter plus qu’une intrigue à suivre."
+    ],
+    "cards": [
+     [
+      "Méditation guidée classique",
+      "Rester présent : le souffle, le corps, les pensées qui passent."
+     ],
+     [
+      "Méditation immersive",
+      "Habiter un lieu imaginaire, avec une intention, puis revenir doucement."
+     ],
+     [
+      "Voyage imaginaire",
+      "Suivre une histoire, dans un lieu ou une époque lointaine."
+     ]
+    ]
+   },
+   {
+    "id": "soir",
+    "h2": "Méditation du soir : quand écouter un monde ?",
+    "p": [
+     "Beaucoup de mondes se prêtent bien à une méditation du soir. Le Temple Ancien est un abri pour les soirs où tu portes trop de choses. L’Oasis du Désert s’écoute après le coucher du soleil, quand la maison devient calme.",
+     "D’autres préfèrent la lumière du jour. Le Monastère à l’Aube est fait pour les matins. Les Ruines Oubliées conviennent bien à un après-midi tranquille ou à un soir de pluie.",
+     "Un point honnête : les mondes ne sont pas des histoires pour t’endormir. Ils se terminent par un retour doux, qui te ramène présent et éveillé. Pour le sommeil, choisis plutôt la catégorie [Corps, calme & sommeil](/fr/meditations/meditation-guidee-pour-dormir.html). « Glissement vers le sommeil » (16 min) s’y termine sans aucun réveil. Tu peux aussi laisser tourner des [sons pour dormir](/fr/sons-pour-dormir.html)."
+    ]
+   },
+   {
+    "id": "conseils",
+    "h2": "Conseils pour bien vivre ton voyage intérieur",
+    "p": [
+     "Quelques détails changent beaucoup l’expérience. Rien n’est obligatoire : garde ce qui te convient."
+    ],
+    "ul": [
+     "Mets un casque ou des écouteurs : les sons d’ambiance prennent alors toute leur place.",
+     "Assieds-toi ou allonge-toi selon le monde. Allonge-toi pour L’Atlantide Sous-Marine, assieds-toi le dos droit pour Le Monastère à l’Aube.",
+     "Baisse la lumière et coupe les notifications. Une fois le monde téléchargé, le mode avion ne gêne rien.",
+     "Ne force pas les images. Si rien ne se dessine, garde une sensation, un son, une température.",
+     "Choisis un moment sans hâte. La fin laisse souvent quelques respirations en silence."
+    ],
+    "tip": "Pour prolonger un monde, lance l’Ambiance minutée avec un son proche : Vagues après L’Atlantide Sous-Marine, Grands Bois après La Forêt des Esprits Loups."
+   },
+   {
+    "id": "noter",
+    "h2": "Garder une trace de ton voyage avec « Capturer ceci »",
+    "p": [
+     "Un voyage intérieur laisse souvent une image, un mot, une sensation. Cette trace s’efface vite si tu ne la notes pas. À la fin de chaque monde, « Capturer ceci » t’invite à l’écrire, avec un titre, des notes et des étiquettes.",
+     "Relis ces notes de temps en temps. Tu verras peut-être revenir un animal, une couleur, un lieu. Le « Passeport zen », lui, reçoit un tampon pour chaque monde visité.",
+     "Tout reste sur ton téléphone. Il n’y a ni compte à créer, ni abonnement, ni publicité."
+    ]
+   }
+  ],
+  "visual": {
+   "title": "Les 17 mondes de MeditaDream",
+   "caption": "Dix-sept lieux imaginaires, de 13 à 20 minutes chacun, à explorer les yeux fermés."
+  },
+  "app": {
+   "h2": "Les mondes immersifs dans MeditaDream",
+   "intro": [
+    "L’écran « Mondes de Méditation » réunit les 17 mondes, de 13 à 20 minutes. Chacun a son décor, ses sons et son intention. Pour commencer, essaie « Le Temple Ancien » (20 min) ou « L’Île Flottante » (20 min), deux refuges très doux."
+   ],
+   "features": [
+    [
+     "Mondes de Méditation",
+     "Les 17 mondes réunis sur un seul écran. Tu touches « Entrer dans ce monde », et le voyage commence."
+    ],
+    [
+     "Capturer ceci",
+     "À la fin d’un monde, tu notes ce que tu as vécu : un titre, des notes et des étiquettes."
+    ],
+    [
+     "Passeport zen",
+     "Un tampon pour chaque monde visité, et pour chaque catégorie pratiquée."
+    ],
+    [
+     "Ambiance minutée",
+     "Un son d’ambiance seul, de 5 à 60 minutes, avec un fondu à la fin, pour prolonger le voyage."
+    ]
+   ]
+  },
+  "faq": [
+   [
+    "Qu’est-ce qu’une méditation immersive ?",
+    "Une méditation immersive est une visualisation guidée qui te plonge dans un lieu imaginaire complet. Une voix te guide à travers le décor, les sons et les rencontres. Tu fais quelques gestes en imagination, puis tu reviens doucement. Dans MeditaDream, ces voyages s’appellent des mondes : il y en a 17, de 13 à 20 minutes."
+   ],
+   [
+    "Combien de temps dure un monde ?",
+    "Les 17 mondes durent de 13 à 20 minutes. Les plus courts sont Le Temple Cosmique et L’Oasis du Désert, avec 13 minutes chacun. Les plus longs sont Le Temple Ancien et L’Île Flottante, avec 20 minutes. Prévois quelques minutes de plus pour t’installer, puis pour noter ton voyage à la fin."
+   ],
+   [
+    "Les mondes sont-ils des histoires pour dormir pour adultes ?",
+    "Pas vraiment. Les mondes se terminent par un retour doux, qui te ramène présent et éveillé. Ils conviennent très bien au soir, mais ils ne sont pas faits pour t’endormir. Pour cela, choisis la catégorie « Corps, calme & sommeil ». « Glissement vers le sommeil » s’y termine sans aucun réveil. Les sons d’ambiance avec minuteur sont une autre option."
+   ],
+   [
+    "Faut-il savoir visualiser pour profiter d’un monde ?",
+    "Non. Beaucoup de gens ne voient pas d’images nettes, et c’est tout à fait normal. Tu peux vivre un monde par les sons, par une sensation de chaleur ou de fraîcheur, ou simplement en suivant l’histoire. Si une image ne vient pas, garde ce que tu ressens. L’attention compte plus que la netteté des images."
+   ],
+   [
+    "Quel monde choisir pour une méditation du soir ?",
+    "Pour un soir chargé, Le Temple Ancien offre un abri, sous la pluie et à la lueur des bougies. L’Oasis du Désert convient après le coucher du soleil, pour être seul avec toi-même. La Forêt des Esprits Loups se passe de nuit, pour retrouver une force tranquille. Garde plutôt Le Monastère à l’Aube pour le matin."
+   ],
+   [
+    "Les mondes sont-ils une méditation guidée gratuite ?",
+    "Oui. MeditaDream est gratuite, sans abonnement, sans publicité et sans achat intégré. Tu n’as aucun compte à créer. Chaque monde se télécharge une fois, puis il fonctionne hors ligne, même en mode avion. L’application est pensée pour iPhone et Android, en français, en anglais et en espagnol."
+   ],
+   [
+    "Quelle différence entre un monde et un voyage imaginaire ?",
+    "Un monde est un lieu à habiter, avec une intention : t’ancrer, t’émerveiller, te sentir protégé. Un voyage imaginaire raconte plutôt une histoire. Dans MeditaDream, les Mini-aventures t’emmènent par exemple à Versailles en 1700, ou sur la route de Kyoto en 1600. Les deux s’appuient sur l’imagination, mais leur rythme diffère."
+   ]
+  ],
+  "blog": {
+   "h2": "Les mondes immersifs sur le blog",
+   "intro": "Des articles pour aller plus loin : choisir ton monde, préparer ton voyage intérieur et prolonger le calme après la séance."
+  }
+ },
+ "astral": {
+  "slug": "voyage-astral",
+  "seo": "Voyage astral : définition, techniques et méditation guidée",
+  "desc": "Voyage astral, projection astrale, sortie hors du corps : définition, techniques connues, précautions et méditations guidées gratuites pour t’y préparer.",
+  "h1": "Voyage astral : comprendre la projection astrale et s'y préparer",
+  "eyebrow": "Guide complet",
+  "lead": "Le voyage astral fascine depuis plus d’un siècle. Voici ce que recouvrent les mots et ce que la science a observé. Tu trouveras aussi les techniques connues, et une façon douce de t’y préparer.",
+  "def": "Le **voyage astral** est l’impression de quitter son corps physique et de percevoir le monde depuis un autre point de vue, souvent au-dessus de soi. Les traditions ésotériques y voient un « corps astral » qui se détache. La science parle d’expérience de sortie de corps, sans se prononcer sur un second corps.",
+  "kw": "voyage astral, projection astrale, rêve astral, sortie hors du corps, sortie astrale, décorporation, corps astral, plan astral, comment faire un voyage astral, voyage astral c’est quoi, voyage astral danger, voyage astral débutant, voyage astral et rêve lucide, expérience de sortie de corps, voyage astral involontaire",
+  "sections": [
+   {
+    "id": "c-est-quoi",
+    "h2": "Voyage astral, c’est quoi ? Les mots à connaître",
+    "p": [
+     "Le voyage astral désigne une expérience précise : tu as l’impression d’être hors de ton corps, tout en restant conscient. Certains se voient allongés sur leur lit. D’autres flottent près du plafond, ou se sentent ailleurs.",
+     "Plusieurs mots circulent, et ils ne disent pas tout à fait la même chose. Les voici, du plus courant au plus imagé."
+    ],
+    "cards": [
+     [
+      "Projection astrale",
+      "Synonyme courant du voyage astral. Le mot insiste sur l’idée de « projeter » sa conscience hors du corps."
+     ],
+     [
+      "Sortie hors du corps",
+      "Expression plus neutre, proche de l’anglais « out-of-body experience ». On dit aussi sortie astrale ou sortie de corps."
+     ],
+     [
+      "Décorporation",
+      "Le moment de la séparation elle-même, quand tu te sens quitter ton corps."
+     ],
+     [
+      "Corps astral",
+      "Dans l’ésotérisme, un corps subtil qui voyagerait pendant le sommeil ou la méditation."
+     ],
+     [
+      "Plan astral",
+      "Le « lieu » où ce corps se déplacerait, selon la théosophie. Ce n’est pas un lieu physique."
+     ],
+     [
+      "Rêve astral",
+      "Expression populaire pour un rêve où tu voles, ou bien où tu te vois d’en haut. La frontière avec le rêve lucide reste floue."
+     ]
+    ]
+   },
+   {
+    "id": "origines",
+    "h2": "D’où viennent les notions de corps astral et de plan astral ?",
+    "p": [
+     "Le mot « astral » vient du latin astralis, « qui concerne les astres ». L’idée d’une âme capable de voyager hors du corps existe dans bien des cultures, sous des formes très diverses. Le [voyage chamanique](/fr/transe-chamanique.html) en est un autre exemple.",
+     "Le vocabulaire moderne vient surtout de l’ésotérisme du XIXe siècle. En France, l’occultiste Éliphas Lévi parle de « lumière astrale ». Puis la Société théosophique naît à New York en 1875. Elle décrit un corps astral et un plan astral, entre le monde physique et des plans plus subtils.",
+     "En 1971, l’Américain Robert Monroe raconte ses propres expériences dans « Journeys Out of the Body ». Ce livre fait connaître ces récits à un très large public, et donne au voyage astral un vocabulaire plus neutre."
+    ]
+   },
+   {
+    "id": "science",
+    "h2": "Projection astrale : ce que la science a observé",
+    "p": [
+     "Les chercheurs parlent d’**expérience de sortie de corps**. Ils ne cherchent pas à savoir si un corps astral existe. Ils étudient ce que vivent les gens, et ce qui se passe alors dans le cerveau.",
+     "Ces expériences arrivent souvent de façon spontanée : au bord du sommeil, dans une grande fatigue ou pendant une relaxation profonde. De nombreuses personnes racontent en avoir vécu une sans l’avoir cherchée.",
+     "En 2002, l’équipe d’Olaf Blanke a décrit dans la revue Nature une sensation de sortie de corps provoquée par une stimulation électrique du gyrus angulaire. Cette région du cerveau participe à l’intégration des sensations du corps. L’expérience vécue est donc bien réelle, et le cerveau y prend part.",
+     "En revanche, aucune étude n’a montré qu’une conscience quitte vraiment le corps. Les traditions l’affirment, la science ne le confirme pas. Tu peux vivre l’exercice et rester libre de ton interprétation."
+    ]
+   },
+   {
+    "id": "ressenti",
+    "h2": "Ce que l’on ressent pendant une sortie astrale",
+    "p": [
+     "Les récits se ressemblent d’une personne à l’autre. Personne ne vit tout cela, et il n’existe aucun passage obligé. Voici ce que les pratiquants décrivent le plus souvent."
+    ],
+    "tip": "Si la paralysie du sommeil survient, respire lentement et bouge doucement un doigt. Elle vient du sommeil paradoxal, et elle passe d’elle-même.",
+    "ul": [
+     "Des vibrations ou un bourdonnement qui parcourent le corps, parfois très forts.",
+     "Une sensation de lourdeur, puis de légèreté, comme si le corps devenait vaporeux.",
+     "L’impression de flotter, de se redresser ou de glisser hors de soi.",
+     "Une vue de la pièce depuis un autre point, souvent près du plafond.",
+     "Au réveil, parfois, un court moment où le corps ne bouge pas encore : la paralysie du sommeil."
+    ]
+   },
+   {
+    "id": "techniques",
+    "h2": "Comment faire un voyage astral ? Les techniques connues",
+    "p": [
+     "Aucune technique ne garantit une sortie. Toutes partent pourtant de la même base : un corps très détendu, et un esprit qui reste éveillé. En voyage astral, un débutant gagne à commencer par la relaxation, puis à essayer une seule technique pendant plusieurs jours."
+    ],
+    "steps": [
+     [
+      "La relaxation profonde",
+      "Allongé, tu relâches le corps zone par zone. Le souffle ralentit. Tu restes attentif, sans t’endormir."
+     ],
+     [
+      "La corde",
+      "Tu imagines une corde qui pend au-dessus de toi. Tu la saisis en pensée, une main après l’autre, et tu te sens tiré vers le haut."
+     ],
+     [
+      "Le rouleau",
+      "Tu imagines que tu roules sur le côté, hors de ton corps immobile, sans bouger un seul muscle."
+     ],
+     [
+      "La chute imaginaire",
+      "Tu te laisses tomber intérieurement, en arrière ou vers le bas. La sensation de chute sert de déclic."
+     ],
+     [
+      "La cible",
+      "Tu choisis un lieu ou un objet familier. Tu y portes ton attention, détail après détail, jusqu’à t’y sentir présent."
+     ],
+     [
+      "Le retour",
+      "Tu reviens dans ton corps, tu bouges les doigts, tu respires plus fort. Puis tu notes ce que tu as perçu."
+     ]
+    ],
+    "tip": "Choisis un moment où tu es reposé. Beaucoup de pratiquants préfèrent le petit matin, après quelques heures de sommeil. Le soir, la fatigue endort souvent trop vite."
+   },
+   {
+    "id": "reve-lucide",
+    "h2": "Voyage astral et rêve lucide : quelle différence ?",
+    "p": [
+     "Les deux expériences se ressemblent, et beaucoup de chercheurs les jugent proches. Elles diffèrent surtout par le point de départ et par le décor. Notre page sur le [rêve lucide](/fr/reve-lucide.html) détaille les techniques propres au rêve.",
+     "Certains pratiquants passent de l’un à l’autre au cours d’une même nuit. Peu importe le nom : l’essentiel est de rester calme et attentif."
+    ],
+    "table": {
+     "head": [
+      "",
+      "Voyage astral",
+      "Rêve lucide"
+     ],
+     "rows": [
+      [
+       "Définition",
+       "L’impression d’être hors de ton corps",
+       "Savoir que tu rêves, pendant le rêve"
+      ],
+      [
+       "Moment",
+       "Au bord du sommeil, ou en relaxation profonde",
+       "Pendant le sommeil, surtout le sommeil paradoxal"
+      ],
+      [
+       "Décor",
+       "Souvent ta chambre, vue d’en haut",
+       "Le monde du rêve, très libre"
+      ],
+      [
+       "Point de vue",
+       "Tu vois parfois ton corps de l’extérieur",
+       "Tu es dans le rêve, sans voir ton corps endormi"
+      ],
+      [
+       "Science",
+       "Étudié comme expérience de sortie de corps",
+       "Montré en laboratoire dès 1975"
+      ],
+      [
+       "Interprétation",
+       "Un corps astral qui voyage, selon les traditions",
+       "Une activité du cerveau qui rêve"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "precautions",
+    "h2": "Voyage astral : danger ou pratique sans danger ?",
+    "p": [
+     "Pratiqué comme un exercice d’imagination et de détente, le voyage astral reste une pratique douce. Le principal inconfort vient de la peur : vibrations soudaines, paralysie du sommeil, impression d’une présence.",
+     "Ces sensations sont fréquentes au bord du sommeil, et elles passent d’elles-mêmes. Respire lentement. Rappelle-toi que tu es en sécurité, dans ton lit.",
+     "Après chaque séance, prends le temps de t’ancrer. Sens le poids de ton corps, le sol, la température de la pièce. Le monde [Le Cœur de la Terre](/fr/mondes/meditation-ancrage-coeur-terre.html) est une belle façon de revenir vers ce qui est stable."
+    ],
+    "warn": "Évite de pratiquer quand tu manques de sommeil ou que tu traverses une période fragile. Si cela te pèse ou revient souvent, demande conseil à un professionnel."
+   },
+   {
+    "id": "involontaire",
+    "h2": "Voyage astral involontaire : pourquoi cela arrive ?",
+    "p": [
+     "Beaucoup de gens vivent une sortie de corps sans l’avoir cherchée. Elle survient souvent à l’endormissement ou au réveil, parfois après une nuit écourtée. Le corps dort déjà en partie, alors que l’esprit reste éveillé.",
+     "Cette expérience surprend, mais elle est connue et largement partagée. Si elle t’arrive, observe calmement ce qui se passe. Note-la ensuite dans le carnet « Expériences Spirituelles » du « Journal »."
+    ]
+   },
+   {
+    "id": "parcours",
+    "h2": "Apprendre le voyage astral pas à pas",
+    "p": [
+     "Dans MeditaDream, le voyage astral s’apprend par étapes, sur l’écran « Transe & Voyage astral ». Son onglet « Astral » propose trois rubriques, de la plus douce à la plus avancée.",
+     "Tu commences par les [exercices de micro-détachement](/fr/meditations/exercices-de-decorporation.html), puis tu essaies les grandes techniques, et enfin tu explores. Certaines séances s’ouvrent au fil de ta pratique, grâce aux points gagnés en méditant. Rien ne presse : chaque étape prépare la suivante."
+    ],
+    "visual": true
+   }
+  ],
+  "visual": {
+   "title": "Le parcours dans l’application",
+   "caption": "Trois rubriques, de la plus douce à la plus avancée, avec les séances de chacune.",
+   "steps": [
+    [
+     "Micro-Détachement",
+     "Cinq petits gestes de séparation, comme l’aimant au plafond ou le point derrière la tête, pour apprivoiser les sensations."
+    ],
+    [
+     "Techniques de séparation",
+     "Six grandes techniques : le flottement vers le plafond, le redressement, les membres intérieurs, la corde, la chute imaginaire et la cible."
+    ],
+    [
+     "Exercices dans le Plan Astral",
+     "Cinq exercices pour explorer : la cible à vérifier, le protocole de rencontre, le déplacement, la vision et la visualisation du double."
+    ]
+   ]
+  },
+  "app": {
+   "h2": "Le voyage astral dans MeditaDream",
+   "intro": [
+    "L’écran « Transe & Voyage astral », sous-titré « États Non-Ordinaires », réunit tout le parcours. Commence par « L’aimant au plafond » (17 min), puis essaie « Astral · La Corde » (29 min). La catégorie [Voyage Astral](/fr/meditations/meditation-voyage-astral-guidee.html) compte 11 séances, de 16 à 41 minutes."
+   ],
+   "features": [
+    [
+     "Transe & Voyage astral",
+     "Un écran à deux onglets, « Transes » et « Astral ». L’onglet Astral suit trois rubriques, du micro-détachement à l’exploration."
+    ],
+    [
+     "L’Oracle",
+     "Tu touches la proposition « Voyage astral », et il tire trois cartes, chacune une méditation adaptée."
+    ],
+    [
+     "Journal",
+     "Le carnet « Expériences Spirituelles » garde la trace de ce que tu as vécu. Tout reste sur ton téléphone."
+    ],
+    [
+     "Historique des méditations",
+     "Après chaque séance, tu notes tes impressions, par exemple dans « Sensations corporelles » ou « Images & symboles »."
+    ]
+   ]
+  },
+  "faq": [
+   [
+    "Comment faire un voyage astral facilement ?",
+    "Il n’existe pas de méthode rapide, mais il existe une méthode simple. Allonge-toi, détends ton corps zone par zone, et garde ton esprit éveillé. Choisis ensuite une seule technique, comme la corde ou la chute imaginaire. Pratique-la plusieurs jours de suite. Les petits exercices de micro-détachement aident beaucoup à débuter."
+   ],
+   [
+    "La projection astrale est-elle réelle ?",
+    "L’expérience est réelle : beaucoup de gens la vivent, et des chercheurs l’ont même provoquée en stimulant une zone du cerveau. En revanche, aucune étude n’a établi qu’une conscience quitte vraiment le corps. Les traditions y voient un corps astral, la plupart des chercheurs une construction du cerveau. Tu peux pratiquer sans trancher."
+   ],
+   [
+    "Comment apprendre le voyage astral quand on débute ?",
+    "Commence par la relaxation profonde et par des micro-détachements : sentir une légère attraction vers le plafond, décaler le contour du corps de quelques centimètres. Ces exercices courts t’habituent aux sensations. Passe ensuite aux techniques de séparation. Dans MeditaDream, la rubrique « Micro-Détachement » propose cinq séances de 16 à 20 minutes."
+   ],
+   [
+    "Le voyage astral est-il dangereux ?",
+    "Pratiqué comme un exercice de détente et d’imagination, le voyage astral est une pratique douce. Les sensations du seuil du sommeil peuvent faire peur : vibrations, paralysie passagère, impression de présence. Elles passent d’elles-mêmes. Ancre-toi après chaque séance. Si cela te pèse ou revient souvent, demande conseil à un professionnel."
+   ],
+   [
+    "Quelle différence entre voyage astral et rêve lucide ?",
+    "Dans le rêve lucide, tu dors et tu sais que tu rêves : le décor est celui du rêve. Dans le voyage astral, tu as l’impression d’être hors de ton corps, souvent dans ta chambre. Les deux surviennent près du sommeil, et beaucoup de chercheurs les jugent proches. Certains pratiquants passent de l’un à l’autre."
+   ],
+   [
+    "Que ressent-on pendant un voyage astral ?",
+    "Les pratiquants décrivent souvent des vibrations ou un bourdonnement, puis une sensation de légèreté. Certains ont l’impression de flotter ou de se redresser hors d’eux-mêmes. D’autres voient la pièce depuis le plafond. Au réveil, une courte paralysie du sommeil peut survenir. Rien de tout cela n’est obligatoire, et chaque expérience est différente."
+   ],
+   [
+    "Pourquoi fait-on un voyage astral involontaire ?",
+    "Une sortie de corps spontanée arrive souvent au moment de s’endormir ou de se réveiller. Le corps est alors en partie endormi, alors que l’esprit reste conscient. La fatigue et les nuits écourtées semblent la favoriser. C’est une expérience connue, que beaucoup de gens partagent. Si elle t’arrive, respire calmement, puis note-la."
+   ]
+  ],
+  "blog": {
+   "h2": "Le voyage astral sur le blog",
+   "intro": "Des articles pour approfondir les techniques, comprendre les sensations du seuil du sommeil et pratiquer en confiance."
+  }
+ },
+ "chakras": {
+  "slug": "meditation-chakras",
+  "seo": "Les 7 chakras : signification, couleurs et méditation",
+  "desc": "Les 7 chakras expliqués simplement : rôle, couleur et place de chaque chakra, de la racine à la couronne, puis une méditation chakras guidée et gratuite.",
+  "h1": "Les 7 chakras : signification, couleurs et méditation guidée",
+  "eyebrow": "Guide complet",
+  "lead": "Les 7 chakras forment une carte du corps venue de l’Inde. Découvre le sens de chaque chakra, sa place et ses couleurs. Tu verras aussi comment le méditer, en séparant clairement la tradition de ce que mesure la science.",
+  "def": "Les **chakras** sont, dans les traditions tantriques et le yoga, des centres d’énergie subtile placés le long de la colonne vertébrale. Le mot sanskrit cakra signifie « roue ». Le système le plus connu en compte sept, de la base du dos au sommet du crâne. Chacun est associé à un thème et, aujourd’hui, à une couleur.",
+  "kw": "chakras, les 7 chakras, les 7 chakras signification, les chakras et leurs rôles, chakra racine, chakra sacré, chakra du plexus solaire, chakra du cœur, chakra de la gorge, troisième œil, chakra couronne, couleur des chakras et signification, méditation chakras, ouvrir ses chakras, équilibrer ses chakras, chakras bloqués, kundalini",
+  "sections": [
+   {
+    "id": "signification",
+    "h2": "Que signifie chakra ?",
+    "p": [
+     "Le mot **chakra** vient du sanskrit cakra, qui signifie « roue » ou « cercle ». Dans les textes indiens, il désigne un centre où se croisent des canaux subtils, les nadis. On l’imagine comme une roue qui tourne, ou comme un lotus ouvert.",
+     "La notion vient des traditions tantriques de l’Inde, hindoues et bouddhistes. Elle est passée ensuite dans le hatha yoga. Le nombre de chakras varie selon les textes : quatre dans certains textes bouddhistes, six ou sept dans d’autres.",
+     "Le modèle à sept chakras s’est imposé en Occident, notamment grâce à un texte. Le traité « Ṣaṭ-cakra-nirūpaṇa », écrit en 1577, a été traduit en anglais par Arthur Avalon, nom de plume de John Woodroffe. Sa traduction paraît en 1919 dans « The Serpent Power ».",
+     "Le titre sanskrit signifie « description des six centres ». Le septième, le lotus aux mille pétales, couronne l’ensemble au sommet du crâne."
+    ]
+   },
+   {
+    "id": "les-7-chakras",
+    "h2": "Les 7 chakras : signification et rôle de chacun",
+    "p": [
+     "Voici les 7 chakras, de la base vers le sommet. Pour chacun, tu trouves le sens de son nom sanskrit, sa place, puis le thème qu’on lui associe aujourd’hui.",
+     "Ces thèmes viennent en partie de lectures occidentales modernes. Prends-les comme des repères pour l’attention, pas comme des vérités."
+    ],
+    "cards": [
+     [
+      "Chakra racine — Muladhara",
+      "« Racine » et « support ». À la base de la colonne. Lotus à quatre pétales, élément terre. Thème : ancrage et sécurité."
+     ],
+     [
+      "Chakra sacré — Svadhisthana",
+      "« Sa propre demeure ». Dans le bas-ventre. Six pétales, élément eau. Thème : plaisir, créativité, émotions."
+     ],
+     [
+      "Chakra du plexus solaire — Manipura",
+      "« Cité des joyaux ». Vers le nombril. Dix pétales, élément feu. Thème : volonté et confiance en soi."
+     ],
+     [
+      "Chakra du cœur — Anahata",
+      "« Non frappé », comme un son qui naît sans aucun choc. Au centre de la poitrine. Douze pétales, élément air. Thème : amour et compassion."
+     ],
+     [
+      "Chakra de la gorge — Vishuddha",
+      "« Très pur ». Dans la gorge. Seize pétales, élément espace. Thème : expression et parole vraie."
+     ],
+     [
+      "Troisième œil — Ajna",
+      "« Commandement » ou « autorité ». Entre les sourcils. Deux pétales. Thème : intuition et vision intérieure."
+     ],
+     [
+      "Chakra couronne — Sahasrara",
+      "« Aux mille pétales ». Au sommet du crâne. On dit aussi chakra coronal. Thème : unité et conscience."
+     ]
+    ],
+    "visual": true
+   },
+   {
+    "id": "couleurs",
+    "h2": "Couleur des chakras et signification : d’où viennent les couleurs ?",
+    "p": [
+     "Aujourd’hui, chaque chakra a sa couleur : rouge, orange, jaune, vert, bleu, indigo, puis violet ou blanc. Cette gamme suit l’arc-en-ciel, de la base au sommet.",
+     "Cette association s’est pourtant répandue en Occident au XXe siècle seulement. Les textes anciens décrivent d’autres couleurs, liées aux éléments, aux lettres et aux divinités de chaque lotus.",
+     "Faut-il s’en passer ? Pas du tout. Une couleur est un support simple pour l’attention. Dans une méditation chakras, elle t’aide à poser ton esprit au bon endroit. Tu peux aussi choisir la tienne."
+    ],
+    "table": {
+     "head": [
+      "Chakra",
+      "Couleur moderne",
+      "Élément",
+      "Syllabe-germe"
+     ],
+     "rows": [
+      [
+       "Racine",
+       "Rouge",
+       "Terre",
+       "LAM"
+      ],
+      [
+       "Sacré",
+       "Orange",
+       "Eau",
+       "VAM"
+      ],
+      [
+       "Plexus solaire",
+       "Jaune",
+       "Feu",
+       "RAM"
+      ],
+      [
+       "Cœur",
+       "Vert",
+       "Air",
+       "YAM"
+      ],
+      [
+       "Gorge",
+       "Bleu",
+       "Espace",
+       "HAM"
+      ],
+      [
+       "Troisième œil",
+       "Indigo",
+       "—",
+       "OM"
+      ],
+      [
+       "Couronne",
+       "Violet ou blanc",
+       "—",
+       "—"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "bloques",
+    "h2": "Chakras bloqués, ouverts, équilibrés : que veulent dire ces images ?",
+    "p": [
+     "On entend souvent parler de chakra bloqué. Dans le langage des traditions, un chakra « fermé » ou « bloqué » est un centre où l’énergie circulerait mal. C’est une image, pas une mesure.",
+     "Ouvrir ses chakras, dans cette même image, c’est laisser l’énergie circuler plus librement. Équilibrer ses chakras, c’est chercher une harmonie entre eux, sans qu’un centre prenne toute la place.",
+     "En méditation, ces mots deviennent des gestes simples. Tu poses ton attention sur une zone, tu y respires, tu y imagines une lumière ou un son. Puis tu observes ce qui change, ou ce qui ne change pas.",
+     "Personne ne peut te promettre qu’un chakra s’ouvre. Ce que tu peux vivre, en revanche, c’est un moment d’attention précise et douce envers ton corps."
+    ]
+   },
+   {
+    "id": "kundalini",
+    "h2": "C’est quoi la kundalini ?",
+    "p": [
+     "Dans le yoga tantrique, la **kundalini** est une énergie représentée par un serpent enroulé, endormi à la base de la colonne. Son nom signifie « celle qui est enroulée ». Éveillée, elle monterait de chakra en chakra jusqu’à la couronne.",
+     "Les traditions décrivent cet éveil comme puissant, parfois déroutant. Elles le confient à un enseignant, dans un cadre précis, avec des pratiques de souffle et de posture.",
+     "MeditaDream ne propose aucune pratique d’éveil de la kundalini. Ses séances restent des méditations d’attention et d’imagination, douces et progressives."
+    ],
+    "warn": "Les pratiques intenses de souffle peuvent produire des sensations fortes. Si cela te pèse ou revient souvent, demande conseil à un professionnel."
+   },
+   {
+    "id": "science",
+    "h2": "Que dit la science sur les chakras ?",
+    "p": [
+     "Aucun organe ni aucune structure du corps ne correspond aux chakras. Certains auteurs les rapprochent des grands plexus nerveux, mais ce n’est qu’une analogie. Les chakras appartiennent à une carte symbolique, pas à l’anatomie.",
+     "Ce que la science étudie, en revanche, c’est l’attention portée au corps. Les chercheurs parlent d’intéroception : la perception de ce qui se passe à l’intérieur de soi. Des pratiques comme le [balayage corporel](/fr/meditations/meditation-guidee-debutant.html) l’entraînent, et elles font l’objet de nombreuses études.",
+     "Tu peux donc méditer sur les chakras sans y croire. Ils deviennent des repères pour visiter ton corps, étage après étage. « Activation du corps énergétique » (27 min) part de là : remarquer les sensations subtiles, sans exiger qu’elles apparaissent.",
+     "La tradition chinoise décrit elle aussi des centres du corps, les dantian. Tu les retrouves dans le [qi gong](/fr/qi-gong.html)."
+    ]
+   },
+   {
+    "id": "pratiquer",
+    "h2": "Comment faire une méditation chakras ?",
+    "p": [
+     "Voici une méditation chakras simple, de quinze à vingt minutes. Tu peux la faire assis ou allongé, le dos bien soutenu. Pour être guidé pas à pas, choisis les séances de la catégorie [Corps, calme & sommeil](/fr/meditations/meditation-guidee-pour-dormir.html)."
+    ],
+    "steps": [
+     [
+      "S’installer",
+      "Assieds-toi, le dos droit sans raideur. Ferme les yeux et laisse ton souffle trouver son rythme."
+     ],
+     [
+      "Commencer par la racine",
+      "Pose ton attention à la base de ta colonne. Sens le contact avec le sol ou le siège. Reste là quelques respirations."
+     ],
+     [
+      "Monter centre après centre",
+      "Passe au bas-ventre, puis au nombril, au cœur, à la gorge, entre les sourcils et au sommet du crâne. Reste environ une minute sur chacun."
+     ],
+     [
+      "Ajouter un support",
+      "Imagine la couleur du centre, ou répète tout bas sa syllabe-germe. Garde ce qui t’aide, laisse le reste."
+     ],
+     [
+      "Sentir l’axe entier",
+      "Ressens les sept centres sur une même ligne, de la base au sommet. Respire dans toute cette colonne."
+     ],
+     [
+      "Redescendre et t’ancrer",
+      "Reviens vers la racine, sens le poids de ton corps, puis ouvre les yeux. Note ce que tu as remarqué."
+     ]
+    ],
+    "tip": "Si tu ne sens rien, c’est normal. Remarquer l’absence de sensation fait aussi partie de l’attention."
+   },
+   {
+    "id": "troisieme-oeil",
+    "h2": "Le troisième œil, pour aller plus loin",
+    "p": [
+     "Le sixième chakra, Ajna, est souvent appelé troisième œil. Placé entre les sourcils, il est lié dans la tradition à l’intuition et à la vision intérieure.",
+     "La catégorie [Troisième œil](/fr/meditations/meditation-troisieme-oeil.html) lui consacre cinq séances avancées, de 22 à 26 minutes. Dans « La porte d’ajna » (23 min), tu franchis une porte et tu explores le lieu qui se trouve derrière. Dans « L’image qui apparaît seule » (23 min), tu attends qu’une image vienne d’elle-même.",
+     "Ces séances demandent de tenir une image, puis de la lâcher. Si tu débutes, commence par les chakras du corps. La [visualisation](/fr/visualisation.html) t’y prépare aussi très bien."
+    ]
+   }
+  ],
+  "visual": {
+   "title": "Les 7 chakras, de la racine à la couronne",
+   "caption": "Leur place et leur thème selon la tradition, du bas de la colonne au sommet du crâne.",
+   "items": [
+    {
+     "name": "Chakra racine",
+     "sk": "Muladhara",
+     "place": "base de la colonne vertébrale",
+     "theme": "ancrage, sécurité"
+    },
+    {
+     "name": "Chakra sacré",
+     "sk": "Svadhisthana",
+     "place": "bas-ventre, sous le nombril",
+     "theme": "plaisir, créativité"
+    },
+    {
+     "name": "Chakra du plexus solaire",
+     "sk": "Manipura",
+     "place": "plexus solaire, vers le nombril",
+     "theme": "volonté, confiance"
+    },
+    {
+     "name": "Chakra du cœur",
+     "sk": "Anahata",
+     "place": "centre de la poitrine",
+     "theme": "amour, compassion"
+    },
+    {
+     "name": "Chakra de la gorge",
+     "sk": "Vishuddha",
+     "place": "gorge",
+     "theme": "expression, parole vraie"
+    },
+    {
+     "name": "Troisième œil",
+     "sk": "Ajna",
+     "place": "entre les sourcils",
+     "theme": "intuition, vision intérieure"
+    },
+    {
+     "name": "Chakra couronne",
+     "sk": "Sahasrara",
+     "place": "sommet du crâne",
+     "theme": "unité, conscience"
+    }
+   ]
+  },
+  "app": {
+   "h2": "La méditation chakras dans MeditaDream",
+   "intro": [
+    "Commence par « La reconnaissance des sept chakras » (27 min) : tu apprends à situer chaque centre, avant toute couleur ou interprétation. Continue avec « L’alignement des sept chakras » (30 min), qui place les sept centres sur une seule ligne. « Réinitialisation des Chakras » (18 min) avance plus lentement, avec de longues pauses."
+   ],
+   "features": [
+    [
+     "Historique des méditations",
+     "Après chaque séance, note ce que tu as senti dans « Sensations corporelles » ou « Images & symboles »."
+    ],
+    [
+     "Minuteur",
+     "Une méditation silencieuse avec cloche d’intervalle. Règle la cloche pour passer d’un chakra au suivant, à ton rythme."
+    ],
+    [
+     "Ambiance minutée",
+     "Un son d’ambiance seul, comme un bol chantant, de 5 à 60 minutes, avec un fondu à la fin."
+    ],
+    [
+     "L’Oracle",
+     "Écris comment tu te sens : il tire trois cartes, chacune une méditation adaptée."
+    ]
+   ]
+  },
+  "faq": [
+   [
+    "Combien y a-t-il de chakras ?",
+    "Le système le plus connu compte 7 chakras, de la base de la colonne au sommet du crâne. Mais ce nombre varie selon les textes et les écoles : certains textes bouddhistes en décrivent quatre, d’autres davantage. Le modèle à sept s’est imposé en Occident au XXe siècle, notamment grâce à « The Serpent Power » d’Arthur Avalon, en 1919."
+   ],
+   [
+    "Quels sont les chakras et leurs rôles ?",
+    "Il y en a sept, du bas vers le haut. Le chakra racine parle d’ancrage, le chakra sacré de créativité. Le chakra du plexus solaire touche à la volonté, le chakra du cœur à l’amour. Le chakra de la gorge concerne l’expression, le troisième œil l’intuition. Le chakra couronne, enfin, évoque l’unité. Ces rôles sont des repères symboliques, en partie modernes."
+   ],
+   [
+    "Quelle couleur pour chaque chakra ?",
+    "Selon l’usage moderne, la racine est rouge et le sacré orange. Le plexus solaire est jaune, le cœur vert et la gorge bleue. Le troisième œil est indigo, la couronne violette ou blanche. Cette gamme arc-en-ciel est une association occidentale du XXe siècle. Les textes anciens donnent d’autres couleurs."
+   ],
+   [
+    "Comment ouvrir ses chakras ?",
+    "Les traditions parlent d’ouvrir ses chakras par le souffle, la posture, le son et la concentration. En méditation, cela revient à poser ton attention sur chaque centre, à y respirer et à y imaginer une lumière. Personne ne peut te promettre un résultat. Tu peux en revanche vivre un vrai moment d’attention douce envers ton corps."
+   ],
+   [
+    "Ouvrir ses chakras, est-ce dangereux ?",
+    "Une méditation chakras faite d’attention et d’imagination reste une pratique douce. Les traditions mettent surtout en garde contre les techniques intenses liées à la kundalini, comme certaines rétentions du souffle. Elles les réservent à un cadre guidé par un enseignant. Si des sensations fortes te pèsent ou reviennent souvent, demande conseil à un professionnel."
+   ],
+   [
+    "Comment équilibrer ses chakras ?",
+    "Équilibrer ses chakras, dans l’image traditionnelle, c’est chercher une harmonie entre les sept centres. En pratique, parcours-les un à un, du bas vers le haut, en passant le même temps sur chacun. Termine en sentant l’axe entier, puis redescends vers la racine pour t’ancrer. La régularité compte plus que la durée."
+   ],
+   [
+    "C’est quoi la kundalini ?",
+    "Dans le yoga tantrique, la kundalini est une énergie représentée par un serpent enroulé à la base de la colonne. Son nom signifie « celle qui est enroulée ». Selon la tradition, en s’éveillant, elle monte de chakra en chakra jusqu’à la couronne. Cet éveil est décrit comme puissant : les traditions le confient à un enseignant."
+   ]
+  ],
+  "blog": {
+   "h2": "Les chakras sur le blog",
+   "intro": "Des articles pour explorer chaque chakra, ses symboles et des façons simples de le méditer au quotidien."
+  }
+ },
+ "qigong": {
+  "slug": "qi-gong",
+  "seo": "Qi gong : bienfaits, exercices et séances guidées",
+  "desc": "Qi gong (chi kung) : origine, bienfaits, différence avec le tai chi et exercices simples pour débuter, avec des séances guidées gratuites, même hors ligne.",
+  "h1": "Qi gong : définition, bienfaits et premiers exercices",
+  "eyebrow": "Guide complet",
+  "lead": "Le qi gong est une gymnastique douce venue de Chine, faite de postures, de souffle et d’attention. Découvre son origine, ses grandes familles et ce que la recherche observe. Puis essaie trois exercices simples pour débuter.",
+  "def": "Le **qi gong** (ou chi kung) est un ensemble de pratiques chinoises qui associent mouvements lents, postures, respiration et concentration. Son nom réunit qi, le souffle ou l’énergie vitale, et gong, le travail ou la maîtrise acquise par l’entraînement. Il se pratique debout, assis ou en marchant, à tout âge.",
+  "kw": "qi gong, chi kung, chi gong, qi gong c’est quoi, qi gong bienfaits, qi gong débutant, exercices qi gong, tai chi qi gong, qi gong du matin, les 8 pièces de brocart, ba duan jin, qi gong des 5 animaux, énergie chi, méditation qi gong, qi gong assis, qi gong en ligne gratuit",
+  "sections": [
+   {
+    "id": "c-est-quoi",
+    "h2": "Qi gong, c’est quoi ?",
+    "p": [
+     "Le **qi gong** est un art chinois du mouvement et du souffle. Tu y enchaînes des gestes lents, tu tiens des postures immobiles, tu respires calmement. L’attention accompagne chaque geste.",
+     "Le mot réunit deux caractères. Qi désigne le souffle, la vapeur, et par extension l’énergie qui anime le vivant. Gong désigne le travail, ou l’habileté gagnée avec le temps, comme dans kung-fu.",
+     "Tu croiseras plusieurs orthographes : qi gong, qigong, chi kung ou chi gong. Elles désignent la même pratique. Qigong suit le pinyin, la transcription officielle en Chine. Chi kung vient d’un ancien système de transcription.",
+     "L’énergie chi, ou le qi, circule selon la pensée chinoise par des canaux appelés méridiens. La science ne mesure pas le qi. Tu peux pourtant le vivre comme une sensation : chaleur, picotements, densité entre les mains."
+    ]
+   },
+   {
+    "id": "histoire",
+    "h2": "Origine du qi gong : des daoyin à aujourd’hui",
+    "p": [
+     "Les racines du qi gong sont très anciennes. La Chine connaît depuis l’Antiquité les daoyin, des exercices pour « guider et étirer » le souffle et le corps. Un tableau de soie retrouvé à Mawangdui, du IIe siècle avant notre ère, montre déjà des dizaines de personnages en mouvement.",
+     "Au fil des siècles, lettrés, moines taoïstes et bouddhistes, maîtres d’arts martiaux ont créé leurs propres enchaînements. Le Ba Duan Jin, par exemple, est attesté depuis la dynastie Song.",
+     "Le mot « qigong » lui-même a été popularisé en Chine dans les années 1950. Il a permis de rassembler sous un seul nom des pratiques jusque-là très diverses."
+    ]
+   },
+   {
+    "id": "regulations",
+    "h2": "Les trois régulations du qi gong",
+    "p": [
+     "La plupart des écoles s’accordent sur un point. Le qi gong ajuste à la fois le corps, le souffle et l’esprit. Les textes chinois parlent de « régulation », tiáo.",
+     "Le corps se place sans raideur. Le souffle devient lent, régulier, souvent abdominal. L’esprit se calme et suit le geste. Quand les trois s’accordent, la pratique devient une méditation en mouvement.",
+     "Beaucoup de maîtres ajoutent une image mentale au geste : une balle entre les mains, une racine sous les pieds. Ce travail rejoint celui de la [visualisation](/fr/visualisation.html)."
+    ],
+    "visual": true
+   },
+   {
+    "id": "familles",
+    "h2": "Les grandes familles et les enchaînements connus",
+    "p": [
+     "Le qi gong se divise d’abord entre pratiques immobiles et pratiques en mouvement. On distingue aussi trois intentions : l’entretien du corps, l’art martial et la méditation. On rattache la première au yangsheng, l’art chinois de « nourrir la vie »."
+    ],
+    "cards": [
+     [
+      "Les 8 pièces de brocart (Ba Duan Jin)",
+      "Huit mouvements simples, attestés depuis la dynastie Song. Le brocart est une soie précieuse : chaque geste est vu comme un trésor. Le premier consiste à « soutenir le ciel » des deux mains."
+     ],
+     [
+      "Le qi gong des 5 animaux",
+      "Le tigre, le cerf, l’ours, le singe et l’oiseau. La tradition l’attribue à Hua Tuo, sous la dynastie Han. Chaque animal apporte sa qualité, de la force du tigre à la légèreté de l’oiseau."
+     ],
+     [
+      "Les 18 mouvements",
+      "Un enchaînement plus récent, inspiré du tai chi, connu sous le nom de Shibashi. Les gestes s’enchaînent lentement, sans à-coups."
+     ],
+     [
+      "La posture de l’arbre (zhan zhuang)",
+      "Debout et immobile, les bras arrondis comme autour d’un tronc. Zhan zhuang signifie « se tenir comme un pieu ». C’est l’une des pratiques les plus simples, et les plus profondes."
+     ]
+    ]
+   },
+   {
+    "id": "tai-chi",
+    "h2": "Qi gong et tai chi : quelle différence ?",
+    "p": [
+     "On les confond souvent, et on les pratique parfois ensemble : beaucoup de cours s’appellent « tai chi qi gong ». Les deux viennent de Chine et partagent la lenteur, le souffle et l’attention. Leur but et leur forme diffèrent pourtant.",
+     "Le tai chi peut d’ailleurs être vu comme un qi gong en mouvement, très élaboré. Si tu débutes, le qi gong est souvent plus simple : un seul geste suffit pour commencer."
+    ],
+    "table": {
+     "head": [
+      "",
+      "Qi gong",
+      "Tai chi"
+     ],
+     "rows": [
+      [
+       "Nature",
+       "Une grande famille de pratiques de souffle et d’énergie",
+       "Un art martial interne, le taiji quan"
+      ],
+      [
+       "Forme",
+       "Des gestes courts et répétés, ou des postures immobiles",
+       "Un long enchaînement de figures, appelé forme"
+      ],
+      [
+       "Apprentissage",
+       "Quelques gestes suffisent pour commencer",
+       "Il faut du temps pour retenir une forme entière"
+      ],
+      [
+       "Intention",
+       "Entretien du corps, souffle, méditation",
+       "Équilibre, enracinement et, à l’origine, le combat"
+      ],
+      [
+       "Position",
+       "Debout, assis ou même allongé",
+       "Debout, en se déplaçant"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "bienfaits",
+    "h2": "Qi gong bienfaits : ce que dit la recherche",
+    "p": [
+     "Le qi gong et le tai chi ont fait l’objet de nombreuses études. Les chercheurs y observent souvent un meilleur équilibre, plus de souplesse, de la détente et une attention plus stable.",
+     "Ces résultats restent à nuancer. Les études portent souvent sur de petits groupes, et elles ne mesurent pas le qi lui-même. Elles décrivent l’effet de mouvements lents, d’un souffle calme et d’une attention soutenue.",
+     "Le qi gong n’est donc pas une promesse, mais une pratique de bien-être. Beaucoup de pratiquants disent s’y sentir plus calmes et plus présents à leur corps. C’est déjà une belle raison d’essayer. Pour d’autres façons d’apaiser le corps, la catégorie [Corps, calme & sommeil](/fr/meditations/meditation-guidee-pour-dormir.html) propose par exemple « Respirer avec tout le corps » (13 min)."
+    ]
+   },
+   {
+    "id": "debuter",
+    "h2": "Qi gong débutant : trois exercices simples",
+    "p": [
+     "Ces trois exercices de qi gong demandent quelques minutes et aucun matériel. Tu peux les faire debout, ou en qi gong assis, sur une chaise, le dos libre."
+    ],
+    "steps": [
+     [
+      "La posture de l’arbre",
+      "Debout, pieds écartés de la largeur des épaules, genoux souples. Arrondis les bras devant toi, comme autour d’un tronc. Relâche les épaules, respire, et tiens deux à cinq minutes."
+     ],
+     [
+      "Les mains qui chauffent",
+      "Frotte doucement tes paumes l’une contre l’autre. Puis écarte-les de quelques centimètres, comme autour d’une balle. Remarque la chaleur, les picotements, la densité de l’air entre elles."
+     ],
+     [
+      "La respiration abdominale",
+      "Pose une main sous le nombril, sur le dantian inférieur, le « champ de cinabre ». Inspire par le nez en laissant le ventre se gonfler. Expire lentement, une dizaine de fois."
+     ]
+    ],
+    "warn": "Bouge toujours sans douleur, dans une amplitude confortable. Si une gêne revient souvent, demande conseil à un professionnel."
+   },
+   {
+    "id": "matin",
+    "h2": "Qi gong du matin : une routine de dix minutes",
+    "p": [
+     "Le matin, le qi gong réveille le corps sans le brusquer. Une routine courte suffit, si tu la fais chaque jour.",
+     "Pour garder le rythme, le « Minuteur » de MeditaDream fait sonner une cloche d’intervalle à chaque changement. Tu restes concentré, sans regarder l’heure. Ensuite, « Le sanctuaire taoïste dans les montagnes » (15 min), dans la catégorie [Lieux Sacrés](/fr/meditations/meditation-lieux-sacres.html), prolonge ce calme au lever du jour."
+    ],
+    "ul": [
+     "Deux minutes : secoue doucement les mains, les bras, puis tout le corps.",
+     "Deux minutes : tapote tes bras, tes jambes et ton ventre du plat de la main.",
+     "Trois minutes : soutiens le ciel des deux mains, premier mouvement des 8 pièces de brocart, au rythme de ton souffle.",
+     "Trois minutes : tiens la posture de l’arbre, les yeux mi-clos."
+    ]
+   },
+   {
+    "id": "guide",
+    "h2": "Méditation qi gong et qi gong en ligne gratuit",
+    "p": [
+     "Le qi gong s’apprend idéalement avec un enseignant, qui corrige ta posture. Une méditation qi gong guidée t’aide pourtant à pratiquer chez toi, entre deux cours ou sans cours du tout.",
+     "Dans MeditaDream, la catégorie [Sensations & Qi Gong](/fr/meditations/meditation-qi-gong-guidee.html) propose quatre séances, de 20 à 25 minutes. Une voix te guide, et tu n’as rien à regarder : tu peux fermer les yeux. « La petite circulation » (22 min) suit une perle qui descend depuis le ventre, remonte par le dos, et boucle.",
+     "L’application est gratuite, sans abonnement ni publicité. Chaque séance fonctionne hors ligne une fois téléchargée. Si tu aimes sentir les centres du corps, la page sur les [chakras](/fr/meditation-chakras.html) t’ouvre une autre carte, venue de l’Inde."
+    ]
+   }
+  ],
+  "visual": {
+   "title": "Les trois régulations du qi gong",
+   "caption": "Le corps, le souffle et l’esprit s’ajustent ensemble : c’est le cœur de toute pratique.",
+   "items": [
+    [
+     "Le corps",
+     "tiáo shēn",
+     "Placer le corps sans raideur : pieds ancrés, genoux souples, colonne droite, épaules relâchées."
+    ],
+    [
+     "Le souffle",
+     "tiáo xī",
+     "Laisser la respiration devenir lente, régulière et silencieuse, souvent par le ventre."
+    ],
+    [
+     "L’esprit",
+     "tiáo xīn",
+     "Apaiser le mental et garder l’attention dans le geste, sans effort."
+    ]
+   ]
+  },
+  "app": {
+   "h2": "Le qi gong dans MeditaDream",
+   "intro": [
+    "La catégorie « Sensations & Qi Gong » réunit quatre séances guidées. « Les mains qui chauffent » (20 min) t’apprend à sentir avant de produire. « L’arbre immobile » (23 min) te fait tenir debout, enraciné, sans forcer. « La danse du Qi — Qi Gong en mouvement » (25 min) laisse peu à peu le corps danser seul."
+   ],
+   "features": [
+    [
+     "Minuteur",
+     "Une méditation silencieuse avec cloche d’intervalle, pour tenir la posture de l’arbre ou rythmer ta routine du matin."
+    ],
+    [
+     "Ambiance minutée",
+     "Un son d’ambiance seul, comme la Flûte chinoise, de 5 à 60 minutes, avec un fondu à la fin."
+    ],
+    [
+     "Historique des méditations",
+     "Après chaque séance, note ce que tu as senti dans « Sensations corporelles »."
+    ],
+    [
+     "Dragon",
+     "Un compagnon qui grandit avec tes minutes de méditation, pour t’encourager à pratiquer chaque jour."
+    ]
+   ]
+  },
+  "faq": [
+   [
+    "Qi gong, c’est quoi exactement ?",
+    "Le qi gong est un art chinois qui associe mouvements lents, postures, respiration et attention. Son nom réunit qi, le souffle ou l’énergie, et gong, le travail régulier. Il se pratique debout, assis ou en marchant. On l’écrit aussi chi kung ou chi gong : c’est la même pratique, avec une autre transcription."
+   ],
+   [
+    "Quels sont les bienfaits du qi gong ?",
+    "Les études sur le qi gong et le tai chi observent souvent un meilleur équilibre et plus de souplesse. Elles notent aussi de la détente et une attention plus stable. Elles portent souvent sur de petits groupes, et leurs résultats restent à confirmer. Le qi gong ne promet donc rien : c’est une pratique de bien-être, douce et accessible."
+   ],
+   [
+    "Quelle différence entre qi gong et tai chi ?",
+    "Le tai chi, ou taiji quan, est un art martial interne : on y apprend un long enchaînement de figures. Le qi gong est une famille plus large de pratiques de souffle et d’énergie. Il se compose souvent de gestes courts et répétés, ou de postures immobiles. Les deux partagent la lenteur et l’attention. Pour débuter, le qi gong est souvent plus simple."
+   ],
+   [
+    "Peut-on faire du qi gong quand on débute ?",
+    "Oui, c’est même l’une des pratiques les plus accessibles. Commence par un seul exercice : la posture de l’arbre, les mains qui chauffent ou la respiration abdominale. Cinq à dix minutes par jour suffisent pour commencer. Bouge toujours sans douleur. Un enseignant pourra ensuite affiner ta posture."
+   ],
+   [
+    "Qu’est-ce que les 8 pièces de brocart ?",
+    "Les 8 pièces de brocart, ou Ba Duan Jin, sont un enchaînement de huit mouvements, attesté depuis la dynastie Song. Le brocart est une soie précieuse : chaque geste est vu comme un trésor. Le premier mouvement consiste à soutenir le ciel des deux mains. C’est un enchaînement très répandu, simple à apprendre."
+   ],
+   [
+    "Peut-on pratiquer le qi gong assis ?",
+    "Oui. Beaucoup d’exercices se font assis sur une chaise, les pieds à plat et le dos libre. La respiration abdominale, les mains qui chauffent ou la petite circulation s’y prêtent très bien. Le qi gong assis convient quand la station debout fatigue, ou au bureau, entre deux tâches."
+   ],
+   [
+    "Peut-on apprendre le qi gong gratuitement ?",
+    "Oui. MeditaDream propose quatre séances guidées de qi gong, de 20 à 25 minutes, gratuites, sans abonnement ni publicité. Elles fonctionnent hors ligne une fois téléchargées. Pour corriger ta posture, rien ne remplace un enseignant. Les séances guidées complètent très bien un cours, ou t’aident à pratiquer entre deux."
+   ]
+  ],
+  "blog": {
+   "h2": "Le qi gong sur le blog",
+   "intro": "Des articles pour approfondir les postures, le souffle et les enchaînements, et pratiquer le qi gong au quotidien."
+  }
+ },
+ "reve": {
+  "slug": "reve-lucide",
+  "seo": "Rêve lucide : définition, techniques et méditation guidée",
+  "desc": "Rêve lucide : définition, techniques reconnues (MILD, WBTB), journal des rêves, lien avec la paralysie du sommeil, et une méditation guidée gratuite.",
+  "h1": "Rêve lucide : savoir que l'on rêve, et apprendre à le faire",
+  "eyebrow": "Guide complet",
+  "lead": "Le rêve lucide, c’est ce moment où tu comprends, en plein rêve, que tu rêves. Voici ce que la science en sait, le meilleur moment de la nuit et les techniques reconnues. Tu verras aussi comment traverser calmement une paralysie du sommeil.",
+  "def": "Le **rêve lucide** est un rêve pendant lequel tu sais que tu rêves. Le rêve continue, mais une part de ton esprit reste consciente. Tu peux alors observer le décor, parfois agir dessus. Il survient surtout pendant le sommeil paradoxal, et des chercheurs l’ont démontré en laboratoire dès 1975.",
+  "kw": "rêve lucide, rêves lucides, comment faire un rêve lucide, comment faire des rêves lucides, rêve lucide c’est quoi, rêve conscient, rêve lucide dangereux, journal des rêves, se souvenir de ses rêves, contrôler ses rêves, paralysie du sommeil, rêve éveillé, rêve éveillé dirigé, rêve lucide et voyage astral, technique rêve lucide, méditation rêve lucide",
+  "sections": [
+   {
+    "id": "c-est-quoi",
+    "h2": "Rêve lucide, c’est quoi ?",
+    "p": [
+     "Dans un rêve ordinaire, tu crois à tout, même à l’impossible. Dans un **rêve lucide**, un déclic se produit : tu comprends que tu rêves. Le rêve, lui, continue autour de toi.",
+     "On parle aussi de rêve conscient. La lucidité peut être brève ou durer longtemps. Elle peut rester légère, ou devenir très claire. Certains rêveurs se contentent d’observer, d’autres changent le décor ou se mettent à voler.",
+     "Contrôler ses rêves n’est pas le but premier. La lucidité ne donne pas toujours le contrôle, et le rêve garde souvent sa propre volonté. Beaucoup de pratiquants préfèrent simplement regarder, avec curiosité."
+    ]
+   },
+   {
+    "id": "science",
+    "h2": "Rêves lucides : ce que la science a montré",
+    "p": [
+     "L’expression « rêve lucide » vient de l’écrivain néerlandais Frederik van Eeden, en 1913. En France, le marquis d’Hervey de Saint-Denys avait déjà publié en 1867 « Les Rêves et les moyens de les diriger ».",
+     "Restait à prouver que ces rêves existaient vraiment. En 1975, le chercheur britannique Keith Hearne enregistre le premier signal envoyé par un rêveur lucide : des mouvements des yeux convenus à l’avance. Pendant le sommeil paradoxal, les yeux bougent encore, alors que le reste du corps est au repos.",
+     "Dans les années 1980, Stephen LaBerge mène des expériences comparables à Stanford. Il met au point la technique MILD, encore très utilisée. Grâce à ces signaux oculaires, on sait que les rêves lucides se produisent surtout pendant le sommeil paradoxal."
+    ]
+   },
+   {
+    "id": "cycle",
+    "h2": "Le meilleur moment de la nuit pour un rêve lucide",
+    "p": [
+     "Une nuit se compose de plusieurs cycles d’environ 90 minutes. Chacun passe par le sommeil lent, puis par le sommeil paradoxal, la phase des rêves les plus vivants.",
+     "Au fil de la nuit, les phases de sommeil paradoxal s’allongent. Les plus longues arrivent donc en fin de nuit, au petit matin. C’est là que les rêves lucides ont le plus de chances de survenir.",
+     "D’où l’idée de te réveiller vers la cinquième heure de sommeil, puis de te rendormir avec une intention claire. C’est le principe de la technique WBTB, décrite plus bas."
+    ],
+    "visual": true
+   },
+   {
+    "id": "techniques",
+    "h2": "Comment faire un rêve lucide : les techniques reconnues",
+    "p": [
+     "Aucune technique ne garantit un rêve lucide cette nuit. Elles augmentent surtout tes chances, avec de la régularité. Commence par la première, puis ajoute les autres peu à peu.",
+     "MILD désigne, en anglais, une induction du rêve lucide par la mémoire. WBTB veut dire « se réveiller, puis retourner au lit ». WILD désigne un rêve lucide qui commence depuis l’éveil. Les études qui comparent ces techniques trouvent souvent les meilleurs résultats en associant WBTB et MILD."
+    ],
+    "steps": [
+     [
+      "Le journal des rêves",
+      "Au réveil, note tout ce dont tu te souviens, même un détail. Avec le temps, tu repères tes thèmes récurrents. Ils deviendront des signaux pour reconnaître que tu rêves."
+     ],
+     [
+      "Les tests de réalité",
+      "Dans la journée, demande-toi souvent : « Est-ce que je rêve ? » Puis vérifie : relis un texte, regarde tes mains. C’est une habitude personnelle, et l’application n’en propose pas."
+     ],
+     [
+      "MILD",
+      "Au réveil d’un rêve, rappelle-toi ce rêve. Répète une intention : « La prochaine fois que je rêve, je me souviendrai que je rêve. » Imagine-toi devenir lucide dans ce même rêve, puis rendors-toi."
+     ],
+     [
+      "WBTB",
+      "Réveille-toi environ cinq heures après t’être endormi. Reste éveillé un court moment, de quelques minutes à une demi-heure selon les méthodes. Puis recouche-toi en pratiquant MILD."
+     ],
+     [
+      "WILD, avec prudence",
+      "Garde ta conscience éveillée pendant que ton corps s’endort. Tu peux traverser des images, des sons, parfois une paralysie du sommeil. Réserve-la aux moments où tu es calme et reposé."
+     ]
+    ],
+    "tip": "Pour une technique de rêve lucide simple, commence ce soir par le journal des rêves. Il prépare tout le reste."
+   },
+   {
+    "id": "souvenir",
+    "h2": "Comment se souvenir de ses rêves ?",
+    "p": [
+     "Tout le monde rêve chaque nuit, même sans s’en souvenir. Le souvenir d’un rêve s’efface en quelques minutes après le réveil. Quelques gestes simples aident à le retenir.",
+     "Le « Journal des Rêves » de MeditaDream t’aide à garder cette trace. Il propose trois rubriques : « Description du rêve », « Symbolisme & interprétation » et « Rêves récurrents ». Tout reste sur ton téléphone."
+    ],
+    "ul": [
+     "Avant de dormir, dis-toi calmement que tu te souviendras de tes rêves.",
+     "Au réveil, ne bouge pas tout de suite. Garde les yeux fermés et laisse le rêve revenir.",
+     "Note-le aussitôt, même en trois mots : un lieu, une personne, une émotion.",
+     "Dors assez longtemps. Les rêves les plus longs arrivent en fin de nuit."
+    ]
+   },
+   {
+    "id": "paralysie",
+    "h2": "Paralysie du sommeil : c’est quoi, et comment en sortir ?",
+    "p": [
+     "La **paralysie du sommeil** est un moment où tu es conscient, mais incapable de bouger. Elle survient à l’endormissement ou au réveil. Elle vient du sommeil paradoxal : pendant cette phase, les muscles sont mis au repos, pour que ton corps ne vive pas tes rêves.",
+     "Parfois, la conscience s’éveille avant que ce repos des muscles ne cesse. Tu te retrouves alors immobile, les yeux ouverts, encore à moitié dans le rêve. Certaines personnes perçoivent une présence, un poids sur la poitrine, des sons étranges.",
+     "C’est très impressionnant, mais cela passe de lui-même, en général en quelques secondes ou quelques minutes. Beaucoup de gens en vivent au moins une dans leur vie."
+    ],
+    "steps": [
+     [
+      "Reconnaître",
+      "Dis-toi : « C’est une paralysie du sommeil. Elle va passer. »"
+     ],
+     [
+      "Respirer",
+      "Respire lentement, sans lutter. La lutte rend souvent le moment plus pénible."
+     ],
+     [
+      "Bouger un tout petit peu",
+      "Concentre-toi sur un doigt, un orteil ou tes yeux. Un tout petit mouvement suffit souvent à rompre l’état."
+     ],
+     [
+      "Revenir",
+      "Une fois libéré, assieds-toi un instant. Allume une lumière douce si tu en as besoin."
+     ]
+    ],
+    "warn": "Si la paralysie du sommeil te pèse ou revient souvent, demande conseil à un professionnel."
+   },
+   {
+    "id": "danger",
+    "h2": "Le rêve lucide est-il dangereux ?",
+    "p": [
+     "Pour la plupart des gens, le rêve lucide est une expérience sans danger, et souvent joyeuse. Le rêve reste un rêve : tu finis toujours par te réveiller.",
+     "Deux points méritent pourtant ton attention. Les réveils programmés, comme le WBTB, coupent ta nuit : ne les pratique pas tous les jours si tu te sens fatigué. La technique WILD, elle, peut mener à une paralysie du sommeil, qui impressionne la première fois.",
+     "Garde aussi une frontière nette entre le rêve et le jour. Si cela te pèse ou revient souvent, demande conseil à un professionnel."
+    ]
+   },
+   {
+    "id": "differences",
+    "h2": "Rêve lucide, rêve éveillé dirigé et voyage astral",
+    "p": [
+     "Ces trois expériences se ressemblent, mais elles ne se vivent pas dans le même état. Le rêve éveillé, lui, se vit sans dormir, les yeux fermés.",
+     "Rêve lucide et voyage astral sont souvent rapprochés par les chercheurs. Pour les différences en détail, lis notre page sur le [voyage astral](/fr/voyage-astral.html). Pour goûter au rêve éveillé, « Le rêve éveillé dirigé » (20 min) se trouve dans la catégorie [Conscience & Transe](/fr/meditations/meditation-reve-eveille-transe.html). Le monde [La Forêt des Rêves](/fr/mondes/meditation-foret-des-reves.html) t’offre aussi un décor onirique, à vivre éveillé."
+    ],
+    "cards": [
+     [
+      "Rêve lucide",
+      "Tu dors, et tu sais que tu rêves. Le décor est celui du rêve, souvent très libre."
+     ],
+     [
+      "Rêve éveillé dirigé",
+      "Tu restes éveillé, les yeux fermés, et tu suis un fil d’images guidé. En France, Robert Desoille a développé cette méthode au XXe siècle."
+     ],
+     [
+      "Voyage astral",
+      "Au bord du sommeil, tu as l’impression de quitter ton corps, souvent dans ta propre chambre."
+     ]
+    ]
+   },
+   {
+    "id": "meditation",
+    "h2": "Méditation pour le rêve lucide : te préparer le soir",
+    "p": [
+     "Une méditation guidée le soir aide à poser l’intention du rêve lucide. Le corps se détend, l’esprit reste attentif, et l’intention s’installe juste avant le sommeil.",
+     "Dans MeditaDream, « Corps endormi, esprit éveillé » (24 min) t’apprend à observer le seuil du sommeil : le corps s’endort, l’attention reste là. Elle rejoint l’esprit de la technique WILD, en douceur.",
+     "Pour simplement t’endormir, « Glissement vers le sommeil » (16 min) se termine sans aucun réveil. La catégorie [Corps, calme & sommeil](/fr/meditations/meditation-guidee-pour-dormir.html) réunit ces séances du soir. Tu peux aussi t’endormir avec des [sons pour dormir](/fr/sons-pour-dormir.html), réglés de 5 à 60 minutes."
+    ]
+   }
+  ],
+  "visual": {
+   "title": "Une nuit de sommeil, cycle après cycle",
+   "caption": "Cinq cycles d’environ 90 minutes : le sommeil paradoxal s’allonge au fil de la nuit.",
+   "deep": "Sommeil lent",
+   "rem": "Sommeil paradoxal",
+   "hour": "h",
+   "wbtb": "Réveil WBTB"
+  },
+  "app": {
+   "h2": "Le rêve lucide dans MeditaDream",
+   "intro": [
+    "Commence par « Préparation au rêve lucide » (23 min), à écouter au lit : elle entraîne ton esprit à reconnaître qu’il rêve. Les soirs où tu veux seulement dormir, choisis « Voyage du sommeil » (27 min), pour te laisser glisser sans rien retenir. Les deux font partie de la catégorie « Corps, calme & sommeil »."
+   ],
+   "features": [
+    [
+     "Journal des Rêves",
+     "Trois rubriques pour chaque rêve : « Description du rêve », « Symbolisme & interprétation » et « Rêves récurrents »."
+    ],
+    [
+     "Ambiance minutée",
+     "Un son d’ambiance seul, comme la pluie ou les vagues, de 5 à 60 minutes, avec un fondu à la fin."
+    ],
+    [
+     "Historique des méditations",
+     "Après chaque séance, note tes impressions, par exemple dans « Images & symboles »."
+    ],
+    [
+     "L’Oracle",
+     "Écris comment tu te sens ce soir : il tire trois cartes, chacune une méditation adaptée."
+    ]
+   ]
+  },
+  "faq": [
+   [
+    "Comment faire un rêve lucide facilement ?",
+    "Commence par tenir un journal des rêves pendant une ou deux semaines. Ajoute ensuite des tests de réalité dans la journée. Puis essaie MILD au réveil d’un rêve, ou associe-la au WBTB vers la cinquième heure de sommeil. Rien n’est garanti, mais la régularité augmente tes chances. Sois constant, et bienveillant avec toi-même."
+   ],
+   [
+    "Peut-on faire un rêve lucide dès cette nuit ?",
+    "C’est possible, mais personne ne peut te le garantir. Certains y arrivent dès les premières nuits, d’autres après plusieurs semaines. Pour mettre toutes les chances de ton côté ce soir, pose une intention claire avant de dormir, et note tes rêves au réveil. Le journal des rêves reste la base de toutes les techniques."
+   ],
+   [
+    "Comment faire des rêves lucides et les contrôler ?",
+    "La lucidité ne donne pas toujours le contrôle. Quand tu deviens lucide, reste calme : regarde un détail, touche un objet, respire. Une émotion trop forte peut te réveiller. Choisis ensuite une seule intention simple, comme voler ou poser une question. Le contrôle vient avec l’habitude, et beaucoup préfèrent simplement observer."
+   ],
+   [
+    "Le rêve lucide est-il dangereux ?",
+    "Pour la plupart des gens, non : c’est une expérience sans danger, souvent joyeuse. Les réveils au milieu de la nuit peuvent toutefois fatiguer s’ils sont trop fréquents. La technique WILD peut aussi mener à une paralysie du sommeil, impressionnante mais passagère. Si cela te pèse ou revient souvent, demande conseil à un professionnel."
+   ],
+   [
+    "Combien de temps dure une paralysie du sommeil ?",
+    "En général, de quelques secondes à quelques minutes. Le temps paraît souvent plus long, car l’expérience est intense. Pour en sortir, respire lentement et rappelle-toi qu’elle va passer. Concentre-toi ensuite sur un tout petit mouvement, comme bouger un doigt ou un orteil. Lutter de toutes tes forces rend souvent le moment plus pénible."
+   ],
+   [
+    "Qu’est-ce que le rêve éveillé dirigé ?",
+    "Le rêve éveillé dirigé est une méthode d’imagination guidée : tu restes éveillé, les yeux fermés, et tu suis un fil d’images. En France, Robert Desoille l’a développée au XXe siècle. Contrairement au rêve lucide, tu ne dors pas. Dans MeditaDream, la séance « Le rêve éveillé dirigé » (20 min) t’en donne une expérience simple."
+   ],
+   [
+    "Quelle différence entre rêve lucide et voyage astral ?",
+    "Dans le rêve lucide, tu dors et tu sais que tu rêves, dans un décor de rêve. Dans le voyage astral, tu as l’impression de quitter ton corps, souvent au bord du sommeil et dans ta chambre. Les traditions y voient deux choses distinctes. Beaucoup de chercheurs, eux, les jugent très proches."
+   ]
+  ],
+  "blog": {
+   "h2": "Le rêve lucide sur le blog",
+   "intro": "Des articles pour mieux te souvenir de tes rêves, essayer les techniques une à une et comprendre ce qui se passe la nuit."
+  }
+ },
+ "transe": {
+  "slug": "transe-chamanique",
+  "seo": "Transe chamanique : chamanisme, tambour et voyage guidé",
+  "desc": "Transe chamanique : ce qu’est le chamanisme, le rôle du tambour, les trois mondes, l’animal de pouvoir, et des voyages chamaniques guidés gratuits.",
+  "h1": "Transe chamanique : le voyage du chamane, expliqué",
+  "eyebrow": "Guide complet",
+  "lead": "La transe chamanique est au cœur de nombreuses traditions du monde. Découvre d’où vient le mot chamane, le rôle du tambour, les trois mondes et l’animal de pouvoir. Puis vois comment t’en inspirer, avec respect, en méditation guidée.",
+  "def": "La **transe chamanique** est un état modifié de conscience que recherchent les chamanes, souvent au son d’un tambour rapide et régulier. L’attention se détourne du monde ordinaire et s’absorbe dans un voyage intérieur. Selon les traditions, le chamane y rencontre des esprits, des ancêtres ou des animaux alliés.",
+  "kw": "transe chamanique, chamanisme, chamane, chaman, chamanique, voyage chamanique, tambour chamanique, état de transe, animal totem, animal de pouvoir, méditation chamanique, soin chamanique, rituel chamanique, transe cognitive, origine du chamanisme, les trois mondes du chamanisme",
+  "sections": [
+   {
+    "id": "chamane",
+    "h2": "C’est quoi un chamane ? Le mot et ses origines",
+    "p": [
+     "Le mot **chamane** vient de la langue evenk, aussi appelée toungouse, parlée en Sibérie. Il est passé dans les langues d’Europe par le russe. On écrit chamane ou chaman : les deux formes sont correctes.",
+     "Dans les sociétés sibériennes, le chamane est une personne reconnue par sa communauté. Il entre en relation avec le monde des esprits pour aider les siens : obtenir un bon gibier, accompagner un défunt, rétablir un équilibre.",
+     "Par extension, on parle de chamanisme pour des traditions très différentes : en Mongolie, dans l’Arctique, en Amazonie, en Amérique du Nord. Ce mot commode cache une grande diversité. Chaque peuple a ses propres mots, ses rites et sa vision du monde.",
+     "L’origine du chamanisme reste mystérieuse. Le préhistorien français Jean Clottes et David Lewis-Williams ont proposé d’y relier certaines grottes ornées, dans « Les Chamanes de la préhistoire », en 1996. Cette hypothèse reste discutée."
+    ]
+   },
+   {
+    "id": "occident",
+    "h2": "Eliade, Harner et le chamanisme en Occident",
+    "p": [
+     "En 1951, l’historien des religions Mircea Eliade publie « Le chamanisme et les techniques archaïques de l’extase ». Il y décrit le chamane comme un spécialiste de l’extase, capable de voyager vers le ciel ou sous la terre. Ce livre a profondément marqué le regard occidental.",
+     "En 1980, l’anthropologue américain Michael Harner publie « The Way of the Shaman ». Il y propose un « core shamanism » : des éléments communs à de nombreuses traditions, détachés de leur culture d’origine. Le voyage au son du tambour en est le cœur.",
+     "Ces approches ont rendu le voyage chamanique accessible à beaucoup. Elles posent aussi une question de respect, car les peuples dont viennent ces pratiques n’ont pas toujours été consultés. L’anthropologue française Roberte Hamayon, spécialiste de la Sibérie, invite d’ailleurs à se méfier des généralisations.",
+     "Les méditations de MeditaDream s’inspirent de ces traditions. Ce sont des voyages intérieurs guidés, pas une initiation. Elles ne prétendent pas faire de toi un chamane."
+    ]
+   },
+   {
+    "id": "etat-de-transe",
+    "h2": "Transe chamanique : qu’est-ce qu’un état de transe ?",
+    "p": [
+     "Un état de transe est un état modifié de conscience. L’attention se resserre sur une seule chose : un rythme, une image ou un chant. Le monde ordinaire passe alors au second plan. Tu restes pourtant conscient, et tu te souviens souvent de ce que tu as vécu.",
+     "La transe n’a rien d’exotique. Tu en connais déjà des formes douces : te perdre dans la musique, oublier le temps en marchant, rêvasser devant un feu. La transe chamanique pousse plus loin cette absorption, dans un cadre précis et avec une intention.",
+     "Pour t’en approcher pas à pas, essaie « La spirale aux 33 niveaux » (24 min). Tu y descends une spirale, porté par le rythme du compte. Elle fait partie de la catégorie [Conscience & Transe](/fr/meditations/meditation-reve-eveille-transe.html)."
+    ]
+   },
+   {
+    "id": "tambour",
+    "h2": "À quoi sert le tambour chamanique ?",
+    "p": [
+     "Le tambour chamanique bat un rythme rapide, régulier, presque sans variation. Cette répétition aide l’attention à se fixer, puis à se détacher du quotidien. Beaucoup de pratiquants disent se sentir portés par le son.",
+     "Dans plusieurs traditions sibériennes, le tambour est vu comme la monture du chamane, qui l’emporte vers les autres mondes. Il est fabriqué avec soin, souvent orné, parfois considéré comme vivant.",
+     "Le rythme seul ne fait pas tout. L’intention, le lieu et le retour comptent autant. C’est pourquoi un voyage guidé commence par une intention claire, et se termine par un retour soigné."
+    ]
+   },
+   {
+    "id": "trois-mondes",
+    "h2": "Les trois mondes du chamanisme",
+    "p": [
+     "Beaucoup de traditions chamaniques décrivent un univers en trois étages. Un arbre, une montagne ou un pilier les relie : Mircea Eliade parle d’axe du monde.",
+     "Dans le voyage chamanique moderne, le monde d’en bas n’a rien d’un enfer. C’est un monde de nature, de forêts et d’animaux. Le monde d’en haut, lui, est lié au ciel, à la lumière et aux guides.",
+     "Dans MeditaDream, « Voyage au monde d’en bas » (30 min) te fait suivre un animal au son du tambour. « Voyage au monde d’en haut » (25 min) t’élève dans le vent et la lumière. Tu les trouves dans la catégorie [Transes & Techniques](/fr/meditations/techniques-de-transe-guidee.html)."
+    ],
+    "visual": true
+   },
+   {
+    "id": "animal",
+    "h2": "Animal de pouvoir et animal totem : quelle différence ?",
+    "p": [
+     "Le mot **totem** vient de l’ojibwé, une langue algonquienne d’Amérique du Nord. À l’origine, le totem est l’emblème d’un clan : un animal auquel tout un groupe se sent apparenté. C’est une notion collective.",
+     "L’**animal de pouvoir** est une notion personnelle, popularisée par Michael Harner. C’est un esprit animal qui accompagne une personne, la protège et la conseille. On le rencontre pendant un voyage, souvent dans le monde d’en bas.",
+     "Aujourd’hui, on dit souvent animal totem pour parler de cet animal personnel. Le sens a glissé, et ce n’est pas grave, tant que tu te souviens d’où vient le mot. Pour aller plus loin, lis notre page sur les [guides spirituels](/fr/guides-spirituels.html).",
+     "Comment le trouver ? Ne le choisis pas d’avance. En voyage, laisse venir l’animal qui se présente, même s’il te surprend. Le monde [La Forêt des Esprits Loups](/fr/mondes/meditation-foret-esprits-loups.html) t’offre une belle première rencontre, avec une meute qui veille sur toi."
+    ]
+   },
+   {
+    "id": "transe-cognitive",
+    "h2": "La transe cognitive, de Corine Sombrun aux neurosciences",
+    "p": [
+     "La Française Corine Sombrun a été formée à la transe par des chamanes de Mongolie, au début des années 2000. Elle a ensuite appris à entrer en transe sans tambour, par sa seule volonté.",
+     "Elle a travaillé avec des chercheurs pour étudier cet état, qu’elle appelle « transe cognitive auto-induite ». Des équipes de neurosciences, notamment à l’université de Liège, en Belgique, s’y intéressent aujourd’hui.",
+     "Ces recherches sont encore jeunes, et leurs conclusions restent prudentes. Elles invitent surtout à regarder la transe comme une capacité de l’esprit, que la science commence à peine à décrire."
+    ]
+   },
+   {
+    "id": "voyage",
+    "h2": "Comment se déroule un voyage chamanique guidé ?",
+    "p": [
+     "Une méditation chamanique guidée suit souvent les mêmes étapes. Elle se vit allongé ou assis, les yeux fermés ou couverts d’un tissu.",
+     "Dans MeditaDream, « Le feu des anciens » (26 min) t’invite à t’asseoir près d’un feu. Tu y regardes les figures qui se rassemblent, sans leur imposer de message. « Le retour avec un objet de pouvoir » (30 min) t’apprend à rapporter un objet de ton voyage."
+    ],
+    "steps": [
+     [
+      "Poser l’intention",
+      "Tu formules une question simple, ou une rencontre que tu souhaites faire."
+     ],
+     [
+      "Ouvrir l’espace",
+      "Tu traces en imagination un cercle de protection. C’est le rituel chamanique le plus simple : marquer le début du voyage."
+     ],
+     [
+      "Partir au son du tambour",
+      "Le rythme t’accompagne. Tu trouves une entrée : une racine, une grotte, la cime d’un arbre."
+     ],
+     [
+      "Rencontrer",
+      "Tu observes ce qui vient, un animal, un guide, un paysage, sans rien forcer ni juger."
+     ],
+     [
+      "Revenir",
+      "Tu reprends le même chemin, en sens inverse. Dans la pratique classique, un rythme différent annonce ce retour."
+     ],
+     [
+      "Remercier et noter",
+      "Tu remercies ce que tu as rencontré. Puis tu écris ton voyage avant qu’il ne s’efface."
+     ]
+    ]
+   },
+   {
+    "id": "precautions",
+    "h2": "La transe chamanique est-elle dangereuse ? Précautions et retour",
+    "p": [
+     "Une méditation chamanique guidée, faite d’imagination et de son, reste une pratique douce. Elle peut pourtant remuer des émotions fortes, ou laisser une sensation d’étrangeté au retour.",
+     "Prends toujours le temps de revenir. Bouge les mains et les pieds, bois un verre d’eau, regarde autour de toi. Les voyages proposés ici n’utilisent que le son et l’imagination.",
+     "On parle aussi de soin chamanique, pour des rituels inspirés de ces traditions. MeditaDream n’en propose pas, et aucune méditation ne remplace un avis professionnel."
+    ],
+    "warn": "Évite la transe si tu traverses une période fragile. Si cela te pèse ou revient souvent, demande conseil à un professionnel."
+   }
+  ],
+  "visual": {
+   "title": "Les trois mondes",
+   "caption": "Un axe, souvent un arbre, relie les trois étages de l’univers chamanique.",
+   "items": [
+    [
+     "Monde d’en haut",
+     "Le ciel, la lumière et les guides. On y monte par la cime d’un arbre, la fumée ou une échelle."
+    ],
+    [
+     "Monde du milieu",
+     "Notre monde, vu dans sa dimension cachée : les esprits des lieux, des plantes et des rivières."
+    ],
+    [
+     "Monde d’en bas",
+     "Un monde de nature et d’animaux, pas un enfer. On y entre par une racine, une grotte ou une source."
+    ]
+   ]
+  },
+  "app": {
+   "h2": "La transe chamanique dans MeditaDream",
+   "intro": [
+    "La catégorie [Transe Chamanique](/fr/meditations/meditation-chamanique-guidee.html) propose quatre voyages, de 23 à 30 minutes. « La quête de vision » (30 min) te fait marcher, attendre, et laisser venir ce qui doit être vu. « Le cercle de protection » (23 min) t’apprend à tracer un cercle à partir d’un élément : la terre, l’eau, le feu ou l’air."
+   ],
+   "features": [
+    [
+     "Transe & Voyage astral",
+     "L’onglet « Transes » réunit les voyages en transe, dont « Voyage au monde d’en bas » et « Voyage au monde d’en haut »."
+    ],
+    [
+     "Tes Guides",
+     "Garde la trace de ton animal de pouvoir avec le type « Animal totem » : son apparence, ses symboles, ses messages."
+    ],
+    [
+     "Journal",
+     "Le carnet « Expériences Spirituelles » accueille le récit de tes voyages. Tout reste sur ton téléphone."
+    ],
+    [
+     "Historique des méditations",
+     "Après chaque voyage, note tes impressions, par exemple dans « Images & symboles » ou « Prises de conscience »."
+    ]
+   ]
+  },
+  "faq": [
+   [
+    "Qu’est-ce qu’une transe chamanique ?",
+    "C’est un état modifié de conscience que recherchent les chamanes, souvent au son d’un tambour rapide et régulier. L’attention quitte le monde ordinaire et s’absorbe dans un voyage intérieur. Selon les traditions, le chamane y rencontre des esprits, des ancêtres ou des animaux alliés. Il revient ensuite avec un message pour les siens."
+   ],
+   [
+    "Comment entrer en transe ?",
+    "Dans les traditions, on entre en transe par un rythme répété : tambour, hochet, chant ou danse. Commence allongé, les yeux couverts, avec une intention simple. Laisse le rythme porter ton attention vers une image d’entrée, comme une racine ou une grotte. Ne force rien. Une transe légère suffit pour vivre un vrai voyage intérieur."
+   ],
+   [
+    "À quoi sert le tambour chamanique ?",
+    "Le tambour donne un rythme rapide et régulier. Il aide l’attention à se fixer, puis à se détacher du quotidien. Dans plusieurs traditions sibériennes, il est vu comme la monture du chamane, qui l’emporte vers les autres mondes. Dans la pratique classique, un changement de rythme annonce le retour."
+   ],
+   [
+    "Comment trouver son animal de pouvoir ?",
+    "Ne le choisis pas à l’avance. Pendant un voyage guidé, souvent vers le monde d’en bas, laisse venir l’animal qui se présente, même s’il te surprend. S’il revient plusieurs fois, c’est souvent lui. Note ensuite son apparence et ce qu’il t’a montré. Dans MeditaDream, tu peux le garder dans « Tes Guides », avec le type « Animal totem »."
+   ],
+   [
+    "Quelle différence entre animal totem et animal de pouvoir ?",
+    "Le totem, mot venu de l’ojibwé, est à l’origine l’emblème d’un clan : un animal auquel tout un groupe se sent apparenté. L’animal de pouvoir est personnel : c’est un esprit animal qui accompagne une seule personne. Aujourd’hui, on dit souvent animal totem pour les deux. Le sens a glissé, mais l’idée d’un allié reste la même."
+   ],
+   [
+    "La transe chamanique est-elle dangereuse ?",
+    "Une méditation chamanique guidée, faite de son et d’imagination, reste une pratique douce. Elle peut toutefois remuer des émotions fortes. Prends toujours le temps de revenir : bouge, bois de l’eau, regarde autour de toi. Évite de pratiquer dans une période fragile. Si cela te pèse ou revient souvent, demande conseil à un professionnel."
+   ],
+   [
+    "Qu’est-ce que la transe cognitive ?",
+    "La transe cognitive auto-induite est le nom donné par Corine Sombrun à une transe déclenchée par la seule volonté, sans tambour. Elle a appris à l’atteindre après s’être formée auprès de chamanes de Mongolie. Des chercheurs en neurosciences, notamment à l’université de Liège, étudient cet état. Leurs conclusions restent prudentes."
+   ]
+  ],
+  "blog": {
+   "h2": "La transe chamanique sur le blog",
+   "intro": "Des articles pour découvrir les traditions chamaniques, le tambour et les animaux de pouvoir, avec respect et curiosité."
+  }
+ },
+ "visualisation": {
+  "slug": "visualisation",
+  "seo": "Visualisation : techniques, exercices et méditation guidée",
+  "desc": "Visualisation positive ou créatrice : définition, techniques d’imagerie mentale, exercices pour débuter et méditations de visualisation guidées gratuites.",
+  "h1": "Visualisation : entraîner ton imagination, sens après sens",
+  "eyebrow": "Guide complet",
+  "lead": "La visualisation, c’est l’art de former volontairement des images, des sons et des sensations dans ton esprit. Découvre ce qu’en dit la recherche, des exercices pour débuter et une progression simple, sens après sens.",
+  "def": "La **visualisation** est la création volontaire d’images mentales, mais aussi de sons, de sensations et d’odeurs imaginés. Les chercheurs parlent d’imagerie mentale. On l’utilise pour se détendre, se préparer à une épreuve ou méditer. Elle s’entraîne avec le temps, et ne demande pas de voir des images nettes.",
+  "kw": "visualisation, visualisation positive, visualisation créatrice, technique de visualisation, techniques de visualisation, imagerie mentale, visualisation mentale, exercice de visualisation, méditation visualisation, visualisation guidée, le pouvoir de la visualisation, loi de l’attraction, imagerie mentale sport",
+  "sections": [
+   {
+    "id": "c-est-quoi",
+    "h2": "Qu’est-ce que la visualisation ?",
+    "p": [
+     "Visualiser, c’est faire exister quelque chose dans ton esprit, sans qu’il soit devant toi. Tu peux imaginer le visage d’un ami, le bruit de la pluie, le poids d’une clé dans ta main. Les chercheurs parlent d’**imagerie mentale**, ou de visualisation mentale.",
+     "Le mot laisse croire qu’il s’agit seulement de voir. En réalité, une bonne visualisation mobilise tous les sens : la vue, l’ouïe, le toucher, parfois l’odorat et le goût. Plus les sens se mêlent, plus la scène paraît réelle.",
+     "Comme toute forme d’attention, la visualisation s’entraîne. Au début, les images sont floues ou fugaces. Avec la pratique, elles deviennent plus stables, et tu apprends à les tenir.",
+     "Visualiser, ce n’est pas confondre l’imaginaire et le réel. Tu sais toujours que la scène est imaginée. C’est justement ce qui la rend sûre : tu peux l’arrêter à tout moment, en ouvrant les yeux."
+    ]
+   },
+   {
+    "id": "types",
+    "h2": "Visualisation positive, créatrice ou guidée : quelles différences ?",
+    "p": [
+     "Ces trois expressions se croisent souvent. Elles ne désignent pourtant pas la même intention.",
+     "Une [méditation immersive](/fr/mondes/) est, par exemple, une visualisation guidée très complète : un lieu entier, avec ses sons et ses rencontres."
+    ],
+    "cards": [
+     [
+      "Visualisation positive",
+      "Tu imagines une scène agréable ou un résultat souhaité, pour te sentir mieux ou te donner du courage. C’est la forme la plus répandue."
+     ],
+     [
+      "Visualisation créatrice",
+      "L’expression vient du livre de Shakti Gawain, « Creative Visualization », paru en 1978. Tu imagines ce que tu veux faire naître dans ta vie, souvent avec des affirmations."
+     ],
+     [
+      "Visualisation guidée",
+      "Une voix te guide d’image en image, et tu n’as qu’à suivre. C’est la forme la plus simple pour débuter, et celle des séances de MeditaDream."
+     ]
+    ]
+   },
+   {
+    "id": "recherche",
+    "h2": "Le pouvoir de la visualisation : ce que montre la recherche",
+    "p": [
+     "Le neuroscientifique français Marc Jeannerod a beaucoup étudié l’imagerie motrice, c’est-à-dire le fait d’imaginer un geste. Ses travaux et ceux d’autres équipes montrent qu’imaginer un mouvement mobilise une partie des régions du cerveau qui servent à le faire.",
+     "C’est pourquoi l’imagerie mentale a pris sa place dans le sport. Beaucoup d’athlètes répètent en pensée un saut, un service, un parcours. Cette préparation mentale complète l’entraînement physique, sans le remplacer.",
+     "L’imagerie sert aussi à la détente. Imaginer un lieu calme, avec ses sons et sa température, compte parmi les exercices de relaxation les plus répandus.",
+     "La recherche invite pourtant à la prudence. Imaginer seulement la réussite peut même freiner l’effort. La psychologue Gabriele Oettingen conseille d’imaginer aussi les obstacles, et ta façon d’y répondre."
+    ]
+   },
+   {
+    "id": "aphantasie",
+    "h2": "Et si tu ne « vois » rien ? L’aphantasie",
+    "p": [
+     "Certaines personnes ne forment aucune image mentale visuelle. En 2015, le chercheur britannique Adam Zeman a donné un nom à cette particularité : l’aphantasie.",
+     "Si c’est ton cas, tu n’es pas seul, et tu peux tout à fait pratiquer. Beaucoup de personnes visualisent mieux par le toucher, le son ou le mouvement. D’autres « savent » simplement la scène, sans la voir, et cela suffit. À l’inverse, certaines personnes voient des images presque aussi nettes que la réalité. Entre les deux, chacun a sa propre façon d’imaginer.",
+     "Les images vives ne sont pas un but en soi. Ce qui compte, c’est l’attention que tu poses sur la scène. C’est pourquoi la catégorie [Visualisation](/fr/meditations/visualisation-guidee.html) de MeditaDream travaille un sens à la fois."
+    ]
+   },
+   {
+    "id": "exercices",
+    "h2": "Exercices de visualisation pour débuter",
+    "p": [
+     "Ces cinq exercices de visualisation se font assis, les yeux fermés, en cinq minutes chacun. Fais-les dans l’ordre, sur plusieurs jours."
+    ],
+    "steps": [
+     [
+      "Un objet familier",
+      "Regarde une tasse ou une pomme pendant une minute. Ferme les yeux et reconstruis-la : sa forme, sa couleur, un reflet. Rouvre les yeux pour comparer."
+     ],
+     [
+      "Une pièce que tu connais",
+      "Imagine ta cuisine ou ta chambre. Promène-toi en pensée d’un meuble à l’autre. Remarque où tombe la lumière."
+     ],
+     [
+      "Ajouter les sons",
+      "Dans cette même pièce, fais naître un son : une horloge, la pluie contre la vitre, un oiseau au loin. Écoute-le s’approcher ou s’éloigner."
+     ],
+     [
+      "Ajouter le toucher",
+      "Pose la main, en imagination, sur une surface : le bois de la table, un tissu, une pierre froide. Sens sa texture et sa température."
+     ],
+     [
+      "Tout réunir",
+      "Reviens dans ta pièce et fais vivre les trois sens ensemble : la lumière, le son, la texture. Reste deux minutes dans cette scène complète, puis ouvre doucement les yeux."
+     ]
+    ],
+    "tip": "Si l’image s’échappe, ne t’agace pas. Reviens simplement au détail le plus facile, puis reconstruis le reste autour."
+   },
+   {
+    "id": "sens",
+    "h2": "Une technique de visualisation sens après sens",
+    "p": [
+     "La catégorie Visualisation de MeditaDream suit une progression claire. Chaque séance entraîne un sens, puis les sens se réunissent dans des paysages entiers.",
+     "Tu commences par la vue avec « Film — Un papillon vole à côté de toi » (18 min). Tu passes au toucher avec « Toucher — La clé dans la main » (17 min). Puis vient l’ouïe, avec « Entendre — Le bol chantant lointain » (16 min).",
+     "Les trois sens se rejoignent ensuite. Au sommet d’un volcan éteint, tu construis un paysage complet. Dans le cockpit d’un vaisseau, tu regardes glisser le champ d’étoiles, et tu retrouves le même triangle d’un bord à l’autre de la baie. Enfin, « La pièce que tu connais » (27 min) te fait reconstruire un lieu familier, puis y faire tomber la lumière du soir."
+    ],
+    "visual": true
+   },
+   {
+    "id": "loi-attraction",
+    "h2": "La loi de l’attraction, c’est quoi ? Une réponse honnête",
+    "p": [
+     "La loi de l’attraction affirme que tes pensées attirent les événements qui leur ressemblent. Elle vient d’un courant spirituel américain du XIXe siècle, le New Thought. Le livre et le film « The Secret », en 2006, l’ont rendue très populaire.",
+     "Aucune étude n’a montré que penser à une chose suffit à la faire arriver. La visualisation ne fait apparaître ni les objets ni les rencontres.",
+     "Elle peut en revanche t’aider à clarifier ce que tu veux, à te motiver et à te préparer. Imagine ton but, puis le premier pas concret, puis l’obstacle probable. C’est moins magique, mais beaucoup plus utile."
+    ]
+   },
+   {
+    "id": "sanctuaire",
+    "h2": "Méditation de visualisation : construire ton lieu sûr",
+    "p": [
+     "Un exercice classique consiste à créer un lieu sûr intérieur. C’est un endroit imaginaire où tu te sens calme et protégé. Tu peux y revenir en quelques respirations, quand la journée s’emballe.",
+     "Dans MeditaDream, « Ton Sanctuaire » t’aide à le décrire. Tu choisis un environnement : Forêt, Océan, Temple, Caverne, Montagne, Ciel, Vide ou Personnalisé. Puis tu précises les couleurs, les sons, les objets et les symboles protecteurs.",
+     "Tu ajoutes un rituel d’entrée et une phrase de retour. Tu peux même y inviter un guide, comme le décrit notre page sur les [guides spirituels](/fr/guides-spirituels.html). Pour une version express, essaie « Le refuge instantané » (4 min), dans la catégorie [4 Minutes](/fr/meditations/meditation-courte-4-minutes.html). Tu y déposes tes soucis dans un petit lieu à toi."
+    ]
+   },
+   {
+    "id": "plus-loin",
+    "h2": "Aller plus loin : le troisième œil et les mondes immersifs",
+    "p": [
+     "Quand la visualisation guidée devient facile, essaie de laisser les images venir seules. La catégorie [Troisième œil](/fr/meditations/meditation-troisieme-oeil.html) propose cinq séances avancées, comme « Le mandala qui se construit seul » (26 min).",
+     "Les mondes immersifs, eux, t’emmènent dans des lieux complets, de 13 à 20 minutes. Tu y trouves une grotte de cristal, une île au-dessus des nuages, un jardin zen. C’est la visualisation à son plus haut degré d’immersion."
+    ]
+   }
+  ],
+  "visual": {
+   "title": "Visualiser sens après sens",
+   "caption": "La progression de la catégorie Visualisation : un sens à la fois, puis les trois ensemble.",
+   "items": [
+    [
+     "La vue",
+     "Suivre un papillon des yeux, en imagination : sa trajectoire, ses détours, la rafale qui le déporte."
+    ],
+    [
+     "Le toucher",
+     "Sentir une clé posée dans la main : son poids, son froid, la petite traction quand tu la soulèves."
+    ],
+    [
+     "L’ouïe",
+     "Entendre un bol chantant qui s’approche de loin, et suivre à la fois sa distance et sa direction."
+    ],
+    [
+     "Les trois sens réunis",
+     "Construire un paysage entier, au sommet d’un volcan ou dans un vaisseau qui explore la galaxie."
+    ]
+   ]
+  },
+  "app": {
+   "h2": "La visualisation dans MeditaDream",
+   "intro": [
+    "La catégorie « Visualisation » réunit six séances, de 16 à 29 minutes. Commence par « Film — Un papillon vole à côté de toi » (18 min). Essaie ensuite « Les trois sens réunis — Sommet d’un volcan » (29 min). La vue, l’ouïe et le toucher y construisent ensemble un paysage entier."
+   ],
+   "features": [
+    [
+     "Ton Sanctuaire",
+     "Décris ton lieu sûr intérieur : son environnement, ses couleurs, ses sons, ses symboles protecteurs, ton rituel d’entrée et ta phrase de retour."
+    ],
+    [
+     "Mondes de Méditation",
+     "17 mondes immersifs, de 13 à 20 minutes, pour vivre une visualisation guidée complète."
+    ],
+    [
+     "Historique des méditations",
+     "Après chaque séance, note ce qui est venu dans « Images & symboles »."
+    ],
+    [
+     "L’Oracle",
+     "Écris comment tu te sens : il tire trois cartes, chacune une méditation adaptée."
+    ]
+   ]
+  },
+  "faq": [
+   [
+    "Qu’est-ce que la visualisation ?",
+    "La visualisation est la création volontaire d’images mentales, mais aussi de sons et de sensations imaginés. Les chercheurs parlent d’imagerie mentale. Elle sert à se détendre, à se préparer à une épreuve ou à méditer. Elle ne demande pas de voir des images nettes : l’attention portée à la scène compte davantage."
+   ],
+   [
+    "Comment faire de la visualisation quand on débute ?",
+    "Commence petit : un objet familier, regardé une minute, puis reconstruit les yeux fermés. Passe ensuite à une pièce que tu connais, puis ajoute un son et une texture. Cinq minutes par jour suffisent. Écouter une séance est aussi une très bonne façon de débuter sans effort : une voix te guide, et tu n’as qu’à suivre."
+   ],
+   [
+    "La visualisation positive fonctionne-t-elle ?",
+    "Elle peut t’aider à te détendre et à te motiver. La recherche apporte pourtant une nuance : imaginer seulement la réussite peut freiner l’effort. La psychologue Gabriele Oettingen conseille d’imaginer aussi les obstacles, et ta réponse à chacun. La visualisation positive marche donc mieux quand elle reste reliée à des gestes concrets."
+   ],
+   [
+    "Qu’est-ce que la visualisation créatrice ?",
+    "L’expression vient du livre de Shakti Gawain, « Creative Visualization », paru en 1978. Elle consiste à imaginer ce que tu veux faire naître dans ta vie, souvent avec des affirmations. C’est une pratique de motivation et de clarté. Elle ne garantit aucun résultat, mais elle t’aide à savoir ce que tu veux vraiment."
+   ],
+   [
+    "La loi de l’attraction, c’est quoi ?",
+    "C’est l’idée que tes pensées attirent les événements qui leur ressemblent. Elle vient d’un courant spirituel américain du XIXe siècle, et « The Secret », en 2006, l’a rendue très populaire. Aucune étude n’a montré qu’elle fonctionne ainsi. La visualisation aide surtout à clarifier un but et à t’y préparer."
+   ],
+   [
+    "L’imagerie mentale aide-t-elle dans le sport ?",
+    "Beaucoup d’athlètes s’en servent pour répéter un geste ou un parcours. Les travaux sur l’imagerie motrice, notamment ceux du Français Marc Jeannerod, vont dans ce sens. Imaginer un mouvement mobilise une partie des régions du cerveau qui servent à le faire. Cette préparation complète l’entraînement physique. Elle ne le remplace jamais."
+   ],
+   [
+    "Je ne vois aucune image : est-ce que je peux visualiser ?",
+    "Oui. Certaines personnes ne forment aucune image visuelle : c’est l’aphantasie, décrite par Adam Zeman en 2015. Tu peux visualiser par le toucher, le son, le mouvement, ou simplement en sachant où se trouvent les choses. Les séances de MeditaDream travaillent un sens à la fois, pour que chacun trouve sa porte d’entrée."
+   ]
+  ],
+  "blog": {
+   "h2": "La visualisation sur le blog",
+   "intro": "Des articles pour t’entraîner à visualiser, comprendre l’imagerie mentale et t’en servir avec bon sens au quotidien."
+  }
+ },
+ "guides": {
+  "slug": "guides-spirituels",
+  "seo": "Guides spirituels : qui sont-ils, comment les rencontrer",
+  "desc": "Guides spirituels, ange gardien, animal spirituel, maîtres ascensionnés : ce que disent les traditions, les signes évoqués et des méditations guidées.",
+  "h1": "Guides spirituels : qui sont-ils et comment entrer en contact",
+  "eyebrow": "Guide complet",
+  "lead": "Ange gardien, animal spirituel, ancêtre, maître ou guide intérieur : les guides spirituels prennent bien des visages. Voici ce qu’en disent les traditions, une lecture psychologique possible et une façon douce d’entrer en contact en méditation.",
+  "def": "Les **guides spirituels** sont des présences bienveillantes qui, selon de nombreuses traditions, accompagnent une personne sur son chemin. Ce peut être un ange gardien, un animal, un ancêtre, un sage ou une part plus profonde de soi. En méditation, on les rencontre par l’imagination, pour recevoir un conseil, un réconfort ou une direction.",
+  "kw": "guides spirituels, guide spirituel, ange gardien, animal spirituel, animal totem, maîtres ascensionnés, contacter ses guides spirituels, signes des guides spirituels, moi supérieur, guide intérieur, méditation guides spirituels, les guides spirituels existent-ils, ange gardien date de naissance, guidance spirituelle",
+  "sections": [
+   {
+    "id": "c-est-quoi",
+    "h2": "Qu’est-ce qu’un guide spirituel ?",
+    "p": [
+     "Un **guide spirituel** est une figure qui t’accompagne, te protège ou t’éclaire. Selon certaines traditions, il vient d’ailleurs : du ciel, de la nature, des ancêtres. Selon d’autres lectures, il vient du plus profond de toi.",
+     "Le mot recouvre donc des réalités très diverses. Dans le langage courant, il désigne aussi une personne qui enseigne une voie. Ici, nous parlons des guides que l’on rencontre en méditation, par l’imagination et le cœur.",
+     "On parle aussi de guidance spirituelle pour désigner ce que ces guides apportent : un conseil, une direction, le sentiment d’être accompagné."
+    ]
+   },
+   {
+    "id": "traditions",
+    "h2": "Les guides spirituels selon les traditions",
+    "p": [
+     "Chaque tradition a ses guides. Voici les plus connus, sans hiérarchie entre eux.",
+     "Pour l’animal de pouvoir et les voyages chamaniques, lis notre page sur la [transe chamanique](/fr/transe-chamanique.html). Le chemin de Sudhana se vit dans la catégorie [Méditations bouddhistes](/fr/meditations/meditation-bouddhiste-guidee.html), avec « Le voyage de Sudhana — Les maîtres du chemin » (30 min)."
+    ],
+    "cards": [
+     [
+      "L’ange gardien",
+      "Dans le christianisme, chaque personne serait accompagnée par un ange protecteur. L’Évangile de Matthieu évoque les anges des « petits », et l’Église catholique les fête le 2 octobre."
+     ],
+     [
+      "L’animal de pouvoir",
+      "Dans le chamanisme, un esprit animal accompagne et protège. On le rencontre en voyage, souvent dans le monde d’en bas. On dit aussi animal spirituel ou animal totem."
+     ],
+     [
+      "Les ancêtres",
+      "Dans de nombreuses cultures, en Afrique, en Asie et ailleurs, les ancêtres veillent sur les vivants. On les honore, et on leur demande conseil."
+     ],
+     [
+      "Les maîtres ascensionnés",
+      "L’idée de maîtres de sagesse vient de la théosophie, à la fin du XIXe siècle. L’expression « maîtres ascensionnés » s’est répandue au XXe siècle, dans des mouvements qui en sont issus."
+     ],
+     [
+      "Les amis de bien",
+      "Dans le bouddhisme, le kalyāṇamitra est un « ami de bien », qui aide à avancer sur la voie. Le jeune pèlerin Sudhana en rencontre beaucoup, de maître en maître."
+     ],
+     [
+      "Le moi supérieur et le guide intérieur",
+      "Pour d’autres, le guide est une part plus sage de soi : le moi supérieur, ou guide intérieur. Il ne vient pas d’ailleurs, il se découvre."
+     ]
+    ]
+   },
+   {
+    "id": "ange-gardien",
+    "h2": "Ange gardien et date de naissance : d’où vient cette idée ?",
+    "p": [
+     "On lit souvent que ton ange gardien dépend de ta date de naissance. Cette idée vient d’une tradition ésotérique populaire, inspirée de la kabbale.",
+     "La kabbale tire 72 noms divins de trois versets de l’Exode. Des auteurs plus tardifs en ont fait 72 anges, puis les ont répartis sur les jours de l’année. Chacun recevrait ainsi l’ange de sa période de naissance.",
+     "Cette correspondance ne fait partie d’aucune doctrine religieuse officielle. Prends-la comme un jeu symbolique, si elle te parle. En méditation, tu peux aussi laisser ton ange se présenter sans nom, et lui en donner un plus tard."
+    ]
+   },
+   {
+    "id": "existent",
+    "h2": "Les guides spirituels existent-ils ?",
+    "p": [
+     "Personne ne peut le prouver, ni prouver le contraire. Les traditions affirment leur existence. La science, elle, ne sait pas les mesurer.",
+     "Une lecture psychologique est possible. Carl Gustav Jung dialoguait avec des figures intérieures, dont un vieux sage qu’il appelait Philémon. Il nommait cette méthode l’imagination active. Pour lui, ces figures portaient une sagesse que la conscience ordinaire ignore.",
+     "Tu n’as pas à trancher. Que ton guide vienne d’ailleurs ou de toi, la rencontre peut t’apporter du calme et de la clarté. MeditaDream laisse cette question ouverte, et respecte ta réponse."
+    ]
+   },
+   {
+    "id": "signes",
+    "h2": "Les signes des guides spirituels : comment les reconnaître ?",
+    "p": [
+     "Les gens décrivent souvent les mêmes signes : une coïncidence frappante, un rêve très net, une intuition soudaine, un animal qui revient. Jung appelait synchronicité ces coïncidences qui semblent avoir un sens.",
+     "Garde pourtant ton esprit critique. Quand tu attends un signe, tu remarques davantage ce qui y ressemble. Note les faits tels qu’ils sont, sans les forcer à dire quelque chose.",
+     "Le carnet « Signes & Synchronicités » du « Journal » sert à cela. Tu y notes ce qui t’a frappé, puis tu relis avec du recul. Un vrai motif se dessine avec le temps."
+    ]
+   },
+   {
+    "id": "contact",
+    "h2": "Comment contacter ses guides spirituels en méditation ?",
+    "p": [
+     "Voici une méditation simple pour rencontrer ton guide. Elle dure quinze à vingt minutes. Fais-la dans un moment calme, sans attente précise."
+    ],
+    "steps": [
+     [
+      "Rejoindre ton lieu sûr",
+      "Ferme les yeux et rejoins un lieu où tu te sens protégé : une forêt, une plage, un temple. Prends le temps de le sentir."
+     ],
+     [
+      "Poser une intention",
+      "Dis intérieurement : « J’accueille un guide bienveillant. » Puis laisse tomber toute attente."
+     ],
+     [
+      "Accueillir",
+      "Laisse venir une présence. Ce peut être une personne, un animal, une lumière, ou seulement une chaleur. Ne la choisis pas : accueille-la."
+     ],
+     [
+      "Poser une question simple",
+      "Demande une seule chose, courte et sincère. La réponse peut être un mot, une image, une sensation, ou un silence."
+     ],
+     [
+      "Remercier",
+      "Remercie ton guide, même si rien de clair n’est venu. La gratitude referme la rencontre en douceur."
+     ],
+     [
+      "Revenir et noter",
+      "Reviens dans ton lieu sûr, puis dans ton corps. Ouvre les yeux, et note ce que tu as reçu."
+     ]
+    ],
+    "tip": "Tu peux construire ce lieu sûr à l’avance dans « Ton Sanctuaire ». Tu y décris son environnement, ses couleurs, ses sons, et même la présence d’un guide.",
+    "warn": "Si une présence te met mal à l’aise, remercie-la, puis reviens doucement. Si cela te pèse ou revient souvent, demande conseil à un professionnel."
+   },
+   {
+    "id": "types",
+    "h2": "Les types de guides spirituels dans MeditaDream",
+    "p": [
+     "Le créateur de guide de l’application propose plusieurs types : Sage, Animal totem, Ancêtre, Ange, Ombre, Archétype, Extraterrestre ou Autre. Chacun ouvre une porte différente.",
+     "Le type Ombre peut surprendre. Il désigne une part de toi que tu as mise de côté, et qui a parfois beaucoup à t’apprendre. Notre page sur la [gestion des émotions](/fr/gestion-des-emotions.html) en parle plus longuement."
+    ],
+    "visual": true
+   },
+   {
+    "id": "carnet",
+    "h2": "Tenir un carnet de rencontres avec « Tes Guides »",
+    "p": [
+     "Une rencontre s’oublie vite. Dans « Tes Guides », tu crées une fiche pour chaque guide avec « Nouveau guide ». Tu y notes son nom, son type, son apparence, son rôle et ses symboles. Tu peux même ajouter une photo.",
+     "Tu y gardes aussi les messages reçus et les questions posées. À chaque retour, tu ajoutes une entrée dans « Réapparitions ». Les cadeaux reçus en méditation trouvent leur place dans « Présents & objets ».",
+     "Rien n’y est écrit à ta place : c’est ton carnet personnel. Il reste sur ton téléphone, sans compte."
+    ]
+   },
+   {
+    "id": "seances",
+    "h2": "Méditation avec tes guides spirituels : par où commencer ?",
+    "p": [
+     "La catégorie [Guides Spirituels](/fr/meditations/meditation-guides-spirituels.html) propose cinq séances, de 16 à 26 minutes. « Le guide de lumière » (24 min) te fait recevoir la chaleur d’un guide, puis la garder quand il se retire. « Le nom et le signe » (16 min) t’offre un nom et un objet, pour retrouver facilement cet état.",
+     "« Le conseil des guides » (26 min) te fait consulter cinq guides sur un problème. Puis tu prends toi-même la sixième place. « Les dix marches du temple de lumière » (21 min) te fait descendre dix marches. En bas, une eau se calme en même temps que ton esprit.",
+     "Dans les mondes, des guides t’attendent aussi : une renarde blanche au Temple Ancien, un renard polaire au Sanctuaire Gelé. Dans [La Dimension des Miroirs](/fr/mondes/meditation-dimension-des-miroirs.html), c’est ton animal-guide qui sort d’un miroir."
+    ]
+   }
+  ],
+  "visual": {
+   "title": "Les types de guides",
+   "caption": "Six des types proposés par le créateur de guide de MeditaDream, pour nommer ce que tu rencontres.",
+   "items": [
+    [
+     "Sage",
+     "Un vieux moine, une grand-mère, un maître : une présence calme qui éclaire tes choix."
+    ],
+    [
+     "Animal totem",
+     "Un animal allié qui te protège et te guide, comme l’animal de pouvoir des chamanes."
+    ],
+    [
+     "Ancêtre",
+     "Un aïeul connu ou inconnu, qui relie ton chemin à celui de ta lignée."
+    ],
+    [
+     "Ange",
+     "Une présence lumineuse et protectrice, comme l’ange gardien de la tradition chrétienne."
+    ],
+    [
+     "Archétype",
+     "Une grande figure universelle, comme le héros ou la grande mère, selon le vocabulaire de Jung."
+    ],
+    [
+     "Ombre",
+     "Une part de toi mise de côté, qui revient pour être comprise et accueillie."
+    ]
+   ]
+  },
+  "app": {
+   "h2": "Les guides spirituels dans MeditaDream",
+   "intro": [
+    "Commence par « Gratitude aux guides » (23 min). Tu y remercies une à une les personnes qui ont compté, même celles que tu n’as jamais rencontrées. Essaie ensuite « Le guide de lumière » (24 min). Dans « L’Oracle », la proposition « Parler à mes guides » t’ouvre trois méditations choisies pour toi."
+   ],
+   "features": [
+    [
+     "Tes Guides",
+     "Ton carnet de rencontres : une fiche par guide, ses « Réapparitions » et ses « Présents & objets »."
+    ],
+    [
+     "Ton Sanctuaire",
+     "Le lieu sûr où retrouver ton guide : environnement, couleurs, sons, présence d’un guide et rituel d’entrée."
+    ],
+    [
+     "L’Oracle",
+     "Touche « Parler à mes guides » : il tire trois cartes, chacune une méditation adaptée."
+    ],
+    [
+     "Journal",
+     "Le carnet « Signes & Synchronicités » garde les coïncidences qui t’ont frappé."
+    ]
+   ]
+  },
+  "faq": [
+   [
+    "Qu’est-ce qu’un guide spirituel ?",
+    "Un guide spirituel est une présence bienveillante qui t’accompagne, te protège ou t’éclaire. Selon les traditions, ce peut être un ange gardien, un animal de pouvoir, un ancêtre ou un maître de sagesse. Selon une lecture psychologique, c’est une part plus sage de toi. En méditation, tu le rencontres par l’imagination."
+   ],
+   [
+    "Les guides spirituels existent-ils ?",
+    "Personne ne peut le prouver, ni prouver le contraire. Les traditions affirment leur existence, la science ne sait pas les mesurer. Jung voyait dans ces figures des parts profondes de la psyché, avec lesquelles on peut dialoguer. Tu n’as pas à trancher : dans les deux cas, la rencontre peut t’apporter du calme et de la clarté."
+   ],
+   [
+    "Comment contacter ses guides spirituels ?",
+    "Installe-toi au calme et rejoins en imagination un lieu où tu te sens protégé. Pose une intention simple, puis laisse venir une présence, sans la choisir. Pose-lui une seule question. Accueille la réponse, même si c’est un silence. Remercie, reviens doucement, puis note ce que tu as reçu. La régularité compte plus que l’intensité."
+   ],
+   [
+    "Quels sont les signes des guides spirituels ?",
+    "Les gens évoquent souvent des coïncidences frappantes, des rêves très nets, des intuitions soudaines ou un animal qui revient. Jung appelait synchronicités ces coïncidences qui semblent avoir un sens. Garde pourtant ton esprit critique : quand tu attends un signe, tu le vois partout. Note les faits, puis relis-les avec du recul."
+   ],
+   [
+    "Comment connaître son ange gardien selon sa date de naissance ?",
+    "Cette idée vient d’une tradition ésotérique populaire, inspirée de la kabbale. Elle tire 72 noms d’anges de trois versets de l’Exode, puis les répartit sur les jours de l’année. Elle ne fait partie d’aucune doctrine religieuse officielle. Tu peux la prendre comme un jeu symbolique, ou laisser ton ange se présenter en méditation."
+   ],
+   [
+    "Qu’est-ce qu’un maître ascensionné ?",
+    "Dans certains courants spirituels, un maître ascensionné est un sage qui aurait achevé son chemin sur terre, et qui continuerait d’aider les vivants. L’idée de maîtres de sagesse vient de la théosophie, à la fin du XIXe siècle. L’expression « maîtres ascensionnés » s’est répandue au XXe siècle, dans des mouvements qui en sont issus."
+   ],
+   [
+    "Qu’est-ce qu’un animal spirituel ?",
+    "Un animal spirituel t’accompagne en esprit, comme un allié. Dans le chamanisme, on parle d’animal de pouvoir. Dans le langage courant, on dit souvent animal totem. Tu le rencontres en méditation, en voyage intérieur ou en rêve. Dans MeditaDream, tu peux garder sa trace dans « Tes Guides », avec le type « Animal totem »."
+   ],
+   [
+    "Qu’est-ce que le moi supérieur ?",
+    "Le moi supérieur désigne, dans plusieurs courants spirituels, une part plus vaste et plus sage de toi. On parle aussi de guide intérieur. Contrairement à un ange ou à un ancêtre, il ne vient pas d’ailleurs : il se découvre. En méditation, tu peux le rencontrer comme une figure lumineuse, ou comme une présence calme au fond de toi."
+   ]
+  ],
+  "blog": {
+   "h2": "Les guides spirituels sur le blog",
+   "intro": "Des articles pour découvrir les guides des traditions, reconnaître les signes avec discernement et préparer tes rencontres en méditation."
+  }
+ },
+ "emotions": {
+  "slug": "gestion-des-emotions",
+  "seo": "Gestion des émotions : roue des émotions et méditations",
+  "desc": "Gestion des émotions : roue des émotions, intelligence émotionnelle, amour de soi et auto-compassion, avec des méditations guidées et un journal gratuits.",
+  "h1": "Croissance émotionnelle : accueillir et gérer ses émotions",
+  "eyebrow": "Guide complet",
+  "lead": "La gestion des émotions ne consiste pas à les faire taire, mais à les accueillir et à les comprendre. Découvre la roue des émotions, l’intelligence émotionnelle et l’auto-compassion, avec des méditations et un journal pour avancer à ton rythme.",
+  "def": "La **gestion des émotions** est l’art d’accueillir ce que tu ressens, de le nommer, puis de choisir ta réponse. Il ne s’agit pas de supprimer une émotion, mais de la comprendre. Cette compétence s’apprend à tout âge. Elle est au cœur de l’intelligence émotionnelle et de la croissance personnelle.",
+  "kw": "gestion des émotions, gérer ses émotions, croissance émotionnelle, roue des émotions, intelligence émotionnelle, amour de soi, auto-compassion, croissance personnelle, développement personnel, exprimer ses émotions, identifier ses émotions, réguler ses émotions, gérer sa colère, gestion du stress, journal émotionnel, gratitude",
+  "sections": [
+   {
+    "id": "croissance",
+    "h2": "Gestion des émotions : qu’est-ce que la croissance émotionnelle ?",
+    "p": [
+     "La **croissance émotionnelle**, c’est apprendre peu à peu à vivre avec tes émotions plutôt que contre elles. Elle passe par quatre gestes simples : accueillir, nommer, comprendre, puis choisir.",
+     "Accueillir, c’est laisser l’émotion être là, sans la fuir. Nommer, c’est lui donner un mot juste. Comprendre, c’est voir ce qu’elle signale. Choisir, enfin, c’est décider de ta réponse, au lieu de réagir dans l’instant.",
+     "Ce chemin fait partie du développement personnel, mais il n’a rien d’une performance. Une émotion n’est ni bonne ni mauvaise. Elle t’apporte une information, puis elle finit par changer."
+    ]
+   },
+   {
+    "id": "roue",
+    "h2": "La roue des émotions de Plutchik pour identifier ses émotions",
+    "p": [
+     "En 1980, le psychologue américain Robert Plutchik propose une roue des émotions. Il y place huit émotions de base, rangées par paires opposées. La joie fait face à la tristesse, la confiance au dégoût. La peur fait face à la colère, la surprise à l’anticipation.",
+     "Chaque émotion existe en plusieurs intensités. La sérénité devient joie, puis extase. La contrariété devient colère, puis rage. Plus tu t’approches du centre de la roue, plus l’émotion est forte.",
+     "Les émotions voisines se mélangent aussi. Pour Plutchik, la joie et la confiance donnent l’amour. L’anticipation et la joie donnent l’optimisme.",
+     "Pour identifier ses émotions, la roue est très utile. Quand tu te sens « mal », cherche le mot exact : est-ce de l’appréhension, de la tristesse, de l’ennui ? Ce simple tri change déjà ta façon de vivre ce moment. « Distinguer sensation, émotion et pensée — Les trois couches de l’expérience » (14 min), dans la catégorie [Apprentissage](/fr/meditations/meditation-guidee-debutant.html), t’entraîne à ce tri."
+    ],
+    "visual": true
+   },
+   {
+    "id": "nommer",
+    "h2": "Nommer pour apaiser : exprimer ses émotions avec des mots",
+    "p": [
+     "Mettre un mot sur une émotion n’est pas un détail. Le chercheur Matthew Lieberman, à l’université de Californie à Los Angeles, a étudié ce geste, que l’on appelle « affect labeling ».",
+     "Ses études suggèrent que nommer une émotion en adoucit souvent la réaction dans le cerveau. Dire « je suis en colère » crée déjà une petite distance avec la colère.",
+     "Exprimer ses émotions ne veut donc pas dire tout dire à tout le monde. Cela commence par te le dire à toi-même, avec précision. Ensuite, tu choisis à qui en parler, et comment."
+    ]
+   },
+   {
+    "id": "intelligence",
+    "h2": "L’intelligence émotionnelle selon Daniel Goleman",
+    "p": [
+     "L’idée d’intelligence émotionnelle est proposée en 1990 par deux chercheurs américains, Peter Salovey et John Mayer. Le journaliste scientifique Daniel Goleman la rend célèbre en 1995, avec son livre « Emotional Intelligence ». Il paraît en français sous le titre « L’Intelligence émotionnelle ».",
+     "Goleman décrit cinq grandes compétences. Elles s’entraînent toutes, et la méditation en travaille plusieurs à la fois : elle t’apprend à remarquer, à attendre un instant, puis à répondre."
+    ],
+    "cards": [
+     [
+      "La conscience de soi",
+      "Reconnaître ce que tu ressens, au moment où tu le ressens."
+     ],
+     [
+      "La maîtrise de soi",
+      "Réguler ses émotions : ne pas les nier, mais choisir ce que tu en fais."
+     ],
+     [
+      "La motivation",
+      "Garder un cap, même quand l’humeur varie."
+     ],
+     [
+      "L’empathie",
+      "Percevoir ce que vivent les autres, sans t’y perdre."
+     ],
+     [
+      "Les relations",
+      "Exprimer, écouter, apaiser un conflit, coopérer."
+     ]
+    ]
+   },
+   {
+    "id": "accueillir",
+    "h2": "Gestion des émotions difficiles : une méthode en quatre temps",
+    "p": [
+     "Quand une émotion difficile monte, tu peux l’accueillir en méditation. Assieds-toi, ferme les yeux, et suis ces quatre temps, sans te presser.",
+     "Si les mots ne viennent pas, le monde [L’Atlantide Sous-Marine](/fr/mondes/meditation-atlantide-sous-marine.html) laisse passer une émotion sans t’obliger à la nommer."
+    ],
+    "steps": [
+     [
+      "Reconnaître",
+      "Remarque simplement : « Quelque chose est là. » Puis donne-lui un nom, même approximatif."
+     ],
+     [
+      "Laisser être",
+      "N’essaie pas de la chasser. Dis-lui intérieurement : « Tu peux rester un moment. »"
+     ],
+     [
+      "Explorer avec douceur",
+      "Où la sens-tu dans ton corps ? La gorge, le ventre, la poitrine ? Observe sa forme, sa température, son mouvement."
+     ],
+     [
+      "Prendre du recul",
+      "Rappelle-toi que tu n’es pas cette émotion. Tu es l’espace où elle passe. Respire, et remarque qu’elle change déjà."
+     ]
+    ],
+    "tip": "« Accueillir une émotion difficile » (17 min) te guide pas à pas sur ce chemin. Tu y observes l’émotion comme un scientifique bienveillant, et tu vois qu’elle n’est jamais tout à fait fixe."
+   },
+   {
+    "id": "colere-stress",
+    "h2": "Gérer sa colère, et la gestion du stress au quotidien",
+    "p": [
+     "La colère signale souvent une limite franchie ou un besoin négligé. Elle n’est pas un défaut. Le défi, c’est de ne pas la laisser décider à ta place.",
+     "Quand elle monte, fais une pause avant de répondre. Expire lentement, plus longtemps que tu n’inspires. Sens tes pieds sur le sol. Puis nomme ce qui se passe, et ce dont tu as besoin.",
+     "Pour la gestion du stress, les petites pauses comptent plus que les grandes résolutions. La catégorie [4 Minutes](/fr/meditations/meditation-courte-4-minutes.html) en propose onze. « Se calmer après une dispute » (3 min) desserre ce qui s’est crispé. « Quand tout va trop vite » (4 min) te ramène au sol et au souffle."
+    ],
+    "warn": "Si la colère ou le stress te pèsent ou reviennent souvent, demande conseil à un professionnel."
+   },
+   {
+    "id": "amour-de-soi",
+    "h2": "Amour de soi et auto-compassion",
+    "p": [
+     "L’amour de soi n’est pas de l’égoïsme. C’est la capacité à te parler comme tu parlerais à un ami cher, surtout quand tu échoues.",
+     "La psychologue américaine Kristin Neff décrit l’**auto-compassion** en trois composantes. D’abord la bienveillance envers soi, plutôt que la critique. Puis l’humanité commune : tout le monde souffre et se trompe, tu n’es pas seul. Enfin la pleine conscience : voir ta peine clairement, sans la grossir ni la nier.",
+     "En France, Christophe André a beaucoup écrit sur l’estime de soi, notamment dans « Imparfaits, libres et heureux ». Le titre résume bien l’idée : s’accepter imparfait rend plus libre.",
+     "Dans MeditaDream, « Développer l’amour de soi » (15 min) t’invite à chercher en toi une qualité réelle, une persévérance ou une curiosité. Puis tu lui accordes un peu d’amour."
+    ]
+   },
+   {
+    "id": "gratitude-pardon",
+    "h2": "Gratitude, pardon et travail de l’ombre",
+    "p": [
+     "La gratitude oriente l’attention vers ce qui va bien, sans nier le reste. « Gratitude quotidienne » (14 min) la fait vivre d’abord dans le corps : les jambes qui t’ont porté, le souffle qui n’a rien demandé. Pour en faire une habitude, lis notre page sur le [journal de gratitude](/fr/journal-de-gratitude.html).",
+     "Le pardon, lui, ne veut pas dire oublier. « Pardonner sans oublier » (15 min) t’aide à explorer ce que pardonner pourrait signifier pour toi. Puis tu décides toi-même : déposer, ou garder, sans perdre ce que tu as appris.",
+     "Le travail de l’ombre, enfin, consiste à rencontrer les parts de toi que tu as mises de côté. Cette notion d’ombre vient de Jung. La catégorie [Ombre & Bien-être](/fr/meditations/meditation-travail-ombre.html) propose dix séances, de 7 à 21 minutes, comme « Travail de l’Ombre » (17 min)."
+    ]
+   },
+   {
+    "id": "journal",
+    "h2": "Tenir un journal émotionnel",
+    "p": [
+     "Écrire aide à démêler ce que tu ressens. Un journal émotionnel n’a pas besoin d’être long : trois lignes suffisent, si tu les écris souvent.",
+     "Dans le « Journal » de MeditaDream, le carnet « Journal Émotionnel » te propose une rubrique « Émotion du jour ». Tu y notes aussi pourquoi elle est là, et comment tu choisis de la vivre. Le carnet « Gratitude & Croissance » garde la trace de ce qui t’a nourri.",
+     "Après chaque méditation, ton « Historique des méditations » t’offre aussi une rubrique « État émotionnel ». En relisant, tu verras tes émotions évoluer de semaine en semaine. Tout reste sur ton téléphone."
+    ]
+   }
+  ],
+  "visual": {
+   "title": "La roue des émotions de Plutchik",
+   "caption": "Huit émotions de base, chacune avec sa forme douce et sa forme intense.",
+   "items": [
+    [
+     "Joie",
+     "Sérénité",
+     "Extase"
+    ],
+    [
+     "Confiance",
+     "Acceptation",
+     "Admiration"
+    ],
+    [
+     "Peur",
+     "Appréhension",
+     "Terreur"
+    ],
+    [
+     "Surprise",
+     "Distraction",
+     "Stupéfaction"
+    ],
+    [
+     "Tristesse",
+     "Songerie",
+     "Chagrin"
+    ],
+    [
+     "Dégoût",
+     "Ennui",
+     "Aversion"
+    ],
+    [
+     "Colère",
+     "Contrariété",
+     "Rage"
+    ],
+    [
+     "Anticipation",
+     "Intérêt",
+     "Vigilance"
+    ]
+   ]
+  },
+  "app": {
+   "h2": "La croissance émotionnelle dans MeditaDream",
+   "intro": [
+    "La catégorie [Croissance émotionnelle](/fr/meditations/meditation-amour-de-soi-gratitude.html) réunit huit séances, de 7 à 17 minutes. Commence par « Accueillir une émotion difficile » (17 min), puis essaie « Se libérer de la comparaison » (13 min). Les jours chargés, « Méditation de compassion » (7 min) t’offre une pause courte et douce."
+   ],
+   "features": [
+    [
+     "Journal",
+     "Les carnets « Journal Émotionnel » et « Gratitude & Croissance », pour noter ton émotion du jour et ce qui t’a nourri."
+    ],
+    [
+     "Historique des méditations",
+     "Après chaque séance, la rubrique « État émotionnel » garde la trace de ce que tu ressens."
+    ],
+    [
+     "L’Oracle",
+     "Écris comment tu te sens : il tire trois cartes, chacune une méditation adaptée à ton humeur du moment."
+    ],
+    [
+     "Passeport zen",
+     "Un tampon pour chaque catégorie pratiquée, pour voir ton chemin se dessiner."
+    ]
+   ]
+  },
+  "faq": [
+   [
+    "Comment gérer ses émotions ?",
+    "La gestion des émotions commence par l’accueil : ne chasse pas ce que tu ressens. Nomme-le ensuite avec un mot précis : la roue des émotions t’y aidera. Cherche ce que l’émotion signale, puis choisis ta réponse au lieu de réagir tout de suite. Quelques respirations lentes ou trois lignes dans un journal suffisent souvent pour commencer."
+   ],
+   [
+    "Qu’est-ce que la roue des émotions ?",
+    "La roue des émotions est un schéma proposé en 1980 par le psychologue Robert Plutchik. Elle range huit émotions de base par paires opposées : joie et tristesse, confiance et dégoût, peur et colère, surprise et anticipation. Chaque émotion existe en trois intensités, comme sérénité, joie et extase. Elle aide à trouver le mot juste."
+   ],
+   [
+    "Qu’est-ce que l’intelligence émotionnelle ?",
+    "C’est la capacité à reconnaître, comprendre et réguler ses émotions, et à percevoir celles des autres. L’idée vient des chercheurs Peter Salovey et John Mayer, en 1990. Daniel Goleman l’a rendue célèbre en 1995. Il en décrit cinq composantes : conscience de soi, maîtrise de soi, motivation, empathie et relations. Elle s’entraîne à tout âge."
+   ],
+   [
+    "Quelle différence entre amour de soi et auto-compassion ?",
+    "L’amour de soi est une attitude générale : t’accorder de la valeur et du respect. L’auto-compassion est plus précise, et elle s’exerce surtout dans les moments difficiles. Kristin Neff la décrit en trois parts : la bienveillance envers soi, l’humanité commune et la pleine conscience. Les deux se cultivent, notamment en méditation."
+   ],
+   [
+    "Comment gérer sa colère rapidement ?",
+    "Fais une pause avant de répondre. Expire lentement, plus longtemps que tu n’inspires, et sens tes pieds sur le sol. Nomme ce qui se passe : « Je suis en colère parce que… » Puis demande-toi de quoi tu as besoin. Dans MeditaDream, « Se calmer après une dispute » dure 3 minutes et t’aide à prendre du recul."
+   ],
+   [
+    "La méditation aide-t-elle la gestion du stress ?",
+    "Beaucoup de pratiquants disent s’y sentir plus calmes et plus présents. La méditation t’apprend à remarquer le stress plus tôt, puis à respirer avant de réagir. Elle ne fait pas disparaître ses causes, mais elle peut changer ta façon de les vivre. Si le stress te pèse ou revient souvent, demande conseil à un professionnel."
+   ],
+   [
+    "Comment identifier ses émotions ?",
+    "Arrête-toi un instant et observe ton corps : une gorge serrée, un ventre noué, une chaleur dans la poitrine. Cherche ensuite un mot, puis affine-le avec la roue des émotions. Est-ce de la colère ou de la contrariété ? De la tristesse ou de la songerie ? Plus le mot est juste, plus l’émotion devient lisible."
+   ]
+  ],
+  "blog": {
+   "h2": "La gestion des émotions sur le blog",
+   "intro": "Des articles pour mieux comprendre tes émotions, cultiver l’amour de soi et la gratitude, et traverser les moments difficiles avec douceur."
+  }
+ }
+}

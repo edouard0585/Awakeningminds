@@ -11,7 +11,8 @@
 Données : _tools/app_catalog.json (exporté de l'application) + _tools/pages_{fr,en,es}.json (textes SEO
 écrits pour chaque langue). Même charte que le blog. Appelé par blog_build.build(). Stdlib uniquement.
 """
-import json, os, html, re
+import json, os, html, re, sys
+import piliers   # 23-10 : pages piliers (mondes, voyage astral, chakras, qi gong, rêve lucide, transe, visualisation, guides, émotions)
 E = html.escape
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 T = os.path.join(ROOT, '_tools')
@@ -68,7 +69,9 @@ XL = {  # libellés des blocs ajoutés le 09-10 (mondes étoffés, pages thémat
 }
 # Pages thématiques (mots-clés des recherches réelles, 09-10) : textes dans _tools/themes_<langue>.json ;
 # séances et sons ajoutés ici depuis les données de l'app (jamais recopiés à la main).
-THEMES = ('sons', 'reve', 'chakras', 'gratitude')
+THEMES = ('sons', 'gratitude')   # 23-10 : « reve » et « chakras » sont devenues des pages piliers (_tools/piliers.py), mêmes adresses
+THEME_PILIERS = {'sons': ['reve', 'mondes', 'chakras'], 'gratitude': ['emotions', 'guides', 'visualisation']}
+PILIERS_T = {'fr': 'Les guides par thème', 'en': 'Guides by theme', 'es': 'Guías por tema'}
 THEME_IMG = {'sons': 'assets/worlds/mushroomForest.jpg', 'reve': 'assets/cats/catart-trance.png',
              'chakras': 'assets/cats/catart-calm.png', 'gratitude': 'assets/cats/catart-emotionalGrowth.png'}
 THEME_SEANCES = {'reve': ['reves01', 'reves02', 'corpsc03', 'consci02', 'consci05'],
@@ -302,7 +305,9 @@ def build(bb):
             items = ''.join(f'<li><h3>{E(m["title"][lang])}</h3><div class="d">{m["dur"]} {E(t["min"])} · {E(t["level"].get(m["level"], m["level"]))}</div>'
                             f'<p>{E(m["desc"][lang])}</p></li>' for m in c['meds'] if m['title'][lang])
             g = CAT_GROUP.get(cid); hl = blog_hubs.group_link(lang, g, act) if g else None
-            read = (f'<h2>{E(t["read"])}</h2><ul class="ap-links"><li><a href="/{lang}/blog/{hl}">{E(blog_hubs.HUBS[lang][g]["h1"])}</a></li></ul>') if hl else ''
+            lp = piliers.links_li(sys.modules[__name__], lang, piliers.cat_piliers(cid))   # 23-10 : guides complets du thème
+            lh = f'<li><a href="/{lang}/blog/{hl}">{E(blog_hubs.HUBS[lang][g]["h1"])}</a></li>' if hl else ''
+            read = f'<h2>{E(t["read"])}</h2><ul class="ap-links">{lp}{lh}</ul>' if (lp or lh) else ''
             # pages thématiques liées à cette catégorie (sons pour dormir, rêve lucide, chakras, gratitude)
             TH = charge('themes', lang) or {}
             lt = ''.join(f'<li><a href="/{lang}/{TH[k]["slug"]}.html">{E(TH[k]["h1"])}</a></li>' for k in THEMES if k in TH and cid in THEME_CATS.get(k, []))
@@ -330,7 +335,9 @@ def build(bb):
         cards = ''.join(f'<li><a href="{p["categories"][k]["slug"]}.html">{VIG_CAT(k, lang)}'
                         f'<b>{E(c["name"][lang])}</b><span>{c["count"]} {E(t["sessions"])} · {c["min"]}–{c["max"]} {E(t["min"])}</span></a></li>' for k, c in cats.items())
         bc = [(t['home'], f'/{lang}/'), (t['med'], None)]
+        gp = piliers.links_li(sys.modules[__name__], lang, piliers.ORDRE)   # 23-10 : les guides complets par thème
         body = (crumbs(lang, bc) + f'<h1>{E(s["h1"])}</h1><p class="lead">{E(s["intro"])}</p><ul class="ap-grid">{cards}</ul>'
+                + (f'<h2>{E(PILIERS_T[lang])}</h2><ul class="ap-links">{gp}</ul>' if gp else '')
                 + f'<ul class="ap-links"><li><a href="{u(lang, "world")}">{E(t["worlds"])}</a></li><li><a href="/{lang}/{p["teams"]["slug"]}.html">{E(p["teams"]["h1"])}</a></li></ul>' + cta(lang))
         ld = ld_tag({'@context': 'https://schema.org', '@graph': [{'@type': 'CollectionPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang}, bc_ld(bb, bc)]})
         _write(path + 'index.html', page(bb, lang, s['seo'], s['desc'], path, alts, img_cat('calm'), ld, body, s['h1']))
@@ -367,16 +374,18 @@ def build(bb):
                          + ([{'@type': 'FAQPage', 'mainEntity': [{'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': r}} for q, r in wfaq]}] if wfaq else [])})
             _write(path, page(bb, lang, s['seo'], s['desc'], path, alts, img_world(wid), ld, body, w['name'][lang]))
             written.append((path, alts))
-        # --- index des mondes ---
+        # --- index des mondes (23-10 : remplacé par la page pilier « mondes » de piliers.py quand elle existe) ---
         s = p['worlds_index']; path = u(lang, 'world'); alts = {x: u(x, 'world') for x in P}
-        carte = lambda k, w: w['tagline'][lang] if k in VALIDES else f'{w["minutes"][lang]} {t["min"]} · ' + ', '.join(w['moods'][lang][:2])
-        cards = ''.join(f'<li><a href="{p["worlds"][k]["slug"]}.html">{VIG_MONDE(k, lang)}'
-                        f'<b>{E(w["name"][lang])}</b><span>{E(carte(k, w))}</span></a></li>' for k, w in ws.items() if k in p['worlds'])
-        bc = [(t['home'], f'/{lang}/'), (t['worlds'], None)]
-        body = crumbs(lang, bc) + f'<h1>{E(s["h1"])}</h1><p class="lead">{E(s["intro"])}</p><ul class="ap-grid">{cards}</ul>' + cta(lang)
-        ld = ld_tag({'@context': 'https://schema.org', '@graph': [{'@type': 'CollectionPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang}, bc_ld(bb, bc)]})
-        _write(path + 'index.html', page(bb, lang, s['seo'], s['desc'], path, alts, img_world('zenGarden'), ld, body, s['h1']))
-        written.append((path, alts))
+        if 'mondes' in piliers.charge(lang): s = None
+        carte =lambda k, w: w['tagline'][lang] if k in VALIDES else f'{w["minutes"][lang]} {t["min"]} · ' + ', '.join(w['moods'][lang][:2])
+        if s is not None:
+            cards = ''.join(f'<li><a href="{p["worlds"][k]["slug"]}.html">{VIG_MONDE(k, lang)}'
+                            f'<b>{E(w["name"][lang])}</b><span>{E(carte(k, w))}</span></a></li>' for k, w in ws.items() if k in p['worlds'])
+            bc = [(t['home'], f'/{lang}/'), (t['worlds'], None)]
+            body = crumbs(lang, bc) + f'<h1>{E(s["h1"])}</h1><p class="lead">{E(s["intro"])}</p><ul class="ap-grid">{cards}</ul>' + cta(lang)
+            ld = ld_tag({'@context': 'https://schema.org', '@graph': [{'@type': 'CollectionPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang}, bc_ld(bb, bc)]})
+            _write(path + 'index.html', page(bb, lang, s['seo'], s['desc'], path, alts, img_world('zenGarden'), ld, body, s['h1']))
+            written.append((path, alts))
         # --- équipes / entreprise ---
         s = p['teams']; path = f'/{lang}/{s["slug"]}.html'; alts = {x: f'/{x}/{P[x]["teams"]["slug"]}.html' for x in P}
         secs = ''.join(f'<h2>{E(x["h2"])}</h2>' + (f'<p>{E(x["p"])}</p>' if x.get('p') else '')
@@ -405,7 +414,8 @@ fetch('https://formsubmit.co/ajax/edouard@meditadream.com',{method:'POST',header
         _write(path, page(bb, lang, s['seo'], s['desc'], path, alts, img_cat('calm'), ld, body, s['h1']))
         written.append((path, alts))
     written += themes(bb, cat, P)
-    import sys, formation_pages  # formations par ville (fr), liées depuis le pied de page
+    written += piliers.build(sys.modules[__name__], bb, cat, P)   # 23-10 : pages piliers (guides complets par thème)
+    import formation_pages  # formations par ville (fr), liées depuis le pied de page
     written += formation_pages.build(bb, sys.modules[__name__])
     json.dump(_LM, open(LASTMOD_F, 'w', encoding='utf-8'), indent=0, sort_keys=True)
     return written
@@ -451,6 +461,7 @@ def themes(bb, cat, P):
                     for cid, m in ms) + '</ol>')
             liens = ''.join(f'<li><a href="{u(lang, "med", p["categories"][c]["slug"])}">{E(cat["categories"][c]["name"][lang])}</a></li>' for c in THEME_CATS.get(key, []))
             liens += ''.join(f'<li><a href="{theme_path(lang, k)}">{E(D[k]["h1"])}</a></li>' for k in THEMES if k != key and k in D)
+            liens += piliers.links_li(sys.modules[__name__], lang, THEME_PILIERS.get(key, []))
             bc = [(t['home'], f'/{lang}/'), (s['h1'], None)]
             faq = [tuple(q) for q in s.get('faq', [])]
             body = (crumbs(lang, bc) + f'<article class="ap-theme"><h1>{E(s["h1"])}</h1><p class="lead">{E(s["lead"])}</p>{hero}{secs}{bloc}'
@@ -480,8 +491,9 @@ def practice_links(lang, group):
         return ''
     if lang not in P: return ''
     ks = [k for k, g in CAT_GROUP.items() if g == group][:3]
-    if not ks: return ''
-    li = ''.join(f'<li><a href="{u(lang, "med", P[lang]["categories"][k]["slug"])}">{E(cat["categories"][k]["name"][lang])}</a></li>' for k in ks)
+    pl = piliers.links_li(sys.modules[__name__], lang, piliers.GROUP_PILIERS.get(group, []))   # 23-10 : guide complet du thème
+    if not ks and not pl: return ''
+    li = pl + ''.join(f'<li><a href="{u(lang, "med", P[lang]["categories"][k]["slug"])}">{E(cat["categories"][k]["name"][lang])}</a></li>' for k in ks)
     return f'<h2>{E(L[lang]["practice"])}</h2><ul class="ap-links">{li}</ul>'
 
 
