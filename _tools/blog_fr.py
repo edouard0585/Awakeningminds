@@ -259,7 +259,9 @@ def render_article(bb, a0, arts, lang='fr'):
     # 15-10 : renvoi vers les catégories de séances du thème de l'article (maillage blog → pages de l'app)
     try:
         import app_pages as _ap
-        h += _ap.practice_links(lang, a0.get('groupe') or 'bases')
+        # 23-10 : le champ s'appelle « group » (« groupe » n'existait pas : tous les articles renvoyaient vers les bases)
+        g = a0.get('groupe') or a0.get('group') or 'bases'
+        h += _ap.practice_links(lang, 'bases' if g == 'vie' else g)
     except Exception:
         pass
     h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="../#download">✦ {E(t["cta_b"])}</a></div>'
