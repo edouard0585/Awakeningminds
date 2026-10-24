@@ -11,12 +11,12 @@
    "es": "como-empezar-a-meditar-guia-principiantes"
   },
   "title": {
-   "fr": "Apprendre à méditer : le guide du débutant pour commencer",
+   "fr": "Comment méditer : le guide du débutant pour commencer",
    "en": "How to start meditating: a beginner’s guide",
-   "es": "Cómo empezar a meditar: guía para principiantes"
+   "es": "Qué es meditar y cómo empezar: guía para principiantes"
   },
   "desc": {
-   "fr": "Apprendre à méditer en partant de zéro : ce qu'est la méditation, comment commencer et les 5 idées reçues qui bloquent les débutants. Un guide gratuit.",
+   "fr": "Comment méditer en partant de zéro ? Un guide gratuit pour apprendre à méditer : ce qu'est la méditation, comment commencer et les 5 idées reçues à éviter.",
    "en": "How to start meditating: what meditation actually is, why it's worth it and the 5 myths that block beginners. A simple, free guide to your first session.",
    "es": "Cómo empezar a meditar desde cero: qué es meditar, por qué hacerlo y las 5 ideas falsas que frenan a los principiantes. Una guía sencilla y gratis."
   },
@@ -28,15 +28,15 @@
    "es": "¿Quieres aprender a meditar pero no sabes por dónde empezar? Esta guía para principiantes empieza desde cero: qué es realmente la meditación, qué aporta una práctica diaria y las ideas falsas que hacen abandonar. Sin material y sin gastar nada — solo tu atención y unos minutos al día."
   },
   "kw": {
-   "fr": "apprendre à méditer, méditation débutant, commencer la méditation, méditation guidée gratuite, commencer à méditer, comment méditer, comment commencer à méditer",
-   "en": "how to meditate, meditation for beginners, start meditating, free guided meditation, how to start meditating, how to meditate for beginners, how to start meditation",
-   "es": "cómo meditar, meditación para principiantes, empezar a meditar, meditación guiada gratis, cómo empezar a meditar, iniciación a la meditación, cómo meditar por primera vez, cómo iniciarse en la meditación, cómo empezar a meditar desde cero"
+   "fr": "apprendre à méditer, méditation débutant, commencer la méditation, méditation guidée gratuite, commencer à méditer, comment méditer, comment commencer à méditer, qu'est-ce que la méditation",
+   "en": "how to meditate, meditation for beginners, start meditating, free guided meditation, how to start meditating, how to meditate for beginners, how to start meditation, what is meditation, how do i start meditating",
+   "es": "cómo meditar, meditación para principiantes, empezar a meditar, meditación guiada gratis, cómo empezar a meditar, iniciación a la meditación, cómo meditar por primera vez, cómo iniciarse en la meditación, cómo empezar a meditar desde cero, qué es meditar, qué es la meditación"
   },
   "photos": [
    "p02",
    "p41"
   ],
-  "modified": "2026-10-23"
+  "modified": "2026-10-24"
  },
  {
   "id": "dormir",
@@ -51,14 +51,14 @@
    "es": "meditacion-para-dormir"
   },
   "title": {
-   "fr": "Méditation pour dormir : t’endormir plus facilement",
-   "en": "Guided sleep meditation: fall asleep more easily",
-   "es": "Meditación para dormir: concilia el sueño más fácil"
+   "fr": "S’endormir rapidement : méditation pour dormir sans forcer",
+   "en": "How to fall asleep fast with a guided sleep meditation",
+   "es": "Cómo dormir rápido con meditación y respiración 4-7-8"
   },
   "desc": {
-   "fr": "Pourquoi le sommeil fuit quand on le poursuit, et comment agit une méditation pour dormir : posture du soir, respiration 4-7-8, réveil de 3 h du matin.",
-   "en": "How meditation helps you fall asleep: why sleep runs away when you chase it, the evening posture, 4-7-8 breathing and how a guided sleep meditation works.",
-   "es": "Por qué el sueño huye cuando lo persigues, la postura nocturna, la respiración 4-7-8 y cómo actúa de verdad una meditación para dormir."
+   "fr": "S’endormir rapidement, c’est d’abord cesser de poursuivre le sommeil. Méditation pour dormir, posture du soir, respiration 4-7-8, réveil de 3 h du matin.",
+   "en": "How to fall asleep fast with meditation: why sleep runs away when you chase it, the evening posture, 4-7-8 breathing and how guided sleep meditation works.",
+   "es": "Cómo dormir rápido sin perseguir el sueño: la postura nocturna, la respiración 4-7-8 y cómo actúa de verdad una meditación para dormir."
   },
   "intro": {
    "fr": "Une méditation pour dormir ne cherche pas à t'endormir de force : elle occupe doucement l'esprit jusqu'à ce qu'il lâche prise tout seul. Posture allongée, respiration 4-7-8, scan corporel du soir, réveil de 3 h du matin : voici comment t'endormir plus facilement, ce soir.",
@@ -66,9 +66,9 @@
    "es": "Una meditación para dormir no te fuerza a dormir: ocupa suavemente la mente hasta que suelta por sí sola. Postura tumbada, respiración 4-7-8, escaneo corporal nocturno, el despertar de las 3: así puedes dormirte más fácil, esta misma noche."
   },
   "kw": {
-   "fr": "méditation pour dormir, méditation guidée pour dormir, s'endormir facilement, respiration 4-7-8 sommeil, scan corporel du soir, sommeil profond, méditation et sommeil, méditation pour s'endormir, se réveiller à 3 h du matin",
-   "en": "guided sleep meditation, meditation for sleep, fall asleep faster, 4-7-8 breathing sleep, evening body scan, deep sleep, meditation to fall asleep, 4-7-8 breathing for sleep, body scan for sleep",
-   "es": "meditación para dormir, meditación guiada para dormir, conciliar el sueño, respiración 4-7-8 para dormir, escaneo corporal nocturno, sueño profundo, escaneo corporal para dormir, me despierto a las 3 de la mañana"
+   "fr": "méditation pour dormir, méditation guidée pour dormir, s'endormir facilement, respiration 4-7-8 sommeil, scan corporel du soir, sommeil profond, méditation et sommeil, méditation pour s'endormir, se réveiller à 3 h du matin, s'endormir rapidement, comment s'endormir vite, comment s'endormir plus facilement",
+   "en": "guided sleep meditation, meditation for sleep, fall asleep faster, 4-7-8 breathing sleep, evening body scan, deep sleep, meditation to fall asleep, 4-7-8 breathing for sleep, body scan for sleep, how to fall asleep fast, how to fall back asleep",
+   "es": "meditación para dormir, meditación guiada para dormir, conciliar el sueño, respiración 4-7-8 para dormir, escaneo corporal nocturno, sueño profundo, escaneo corporal para dormir, me despierto a las 3 de la mañana, cómo dormir rápido, cómo conciliar el sueño, respiración 4-7-8, relajación para dormir"
   },
   "faq": {
    "fr": [
@@ -139,7 +139,7 @@
    "p01",
    "p24"
   ],
-  "modified": "2026-10-23"
+  "modified": "2026-10-24"
  },
  {
   "id": "posture",
@@ -155,12 +155,12 @@
   "title": {
    "fr": "Position de méditation : 4 choix et 7 points de posture",
    "en": "Meditation positions: 4 postures that actually work",
-   "es": "Posturas de meditación: 4 posiciones válidas para meditar"
+   "es": "Posturas para meditar: 4 posiciones válidas"
   },
   "desc": {
    "fr": "Quelle position de méditation choisir ? Chaise, tailleur, seiza ou allongé : les 4 options en schémas, et les 7 points d’une posture digne et détendue.",
    "en": "Chair, cross-legged, seiza or lying down: the 4 meditation positions with diagrams, and the 7 points of a dignified, relaxed posture.",
-   "es": "Las 4 posturas para meditar, con esquemas: silla, piernas cruzadas, seiza o tumbado. Además, los 7 puntos de una postura digna y relajada."
+   "es": "Las 4 posturas para meditar, con esquemas: silla, piernas cruzadas, seiza o tumbado. Además, los 7 puntos de una postura de meditación digna y relajada."
   },
   "published": "2026-08-31",
   "intro": {
@@ -233,7 +233,7 @@
    ]
   },
   "kw": {
-   "fr": "posture méditation, position pour méditer, méditer sur une chaise, posture dos droit, position de méditation, position seiza, comment s'asseoir pour méditer, pose méditation",
+   "fr": "posture méditation, position pour méditer, méditer sur une chaise, posture dos droit, position de méditation, position seiza, comment s'asseoir pour méditer, pose méditation, position méditation, position du lotus",
    "en": "meditation posture, meditation positions, meditate on a chair, sitting position meditation, meditation pose, posture for meditation, best meditation position, how to sit for meditation",
    "es": "postura de meditación, posiciones para meditar, meditar en silla, postura espalda recta, posturas para meditar, posturas de meditación, posiciones para meditar acostado, posición para meditar"
   },
@@ -241,7 +241,7 @@
    "p12",
    "p36"
   ],
-  "modified": "2026-10-23"
+  "modified": "2026-10-24"
  },
  {
   "id": "respiration",
@@ -255,13 +255,13 @@
    "es": "tecnicas-de-respiracion-para-meditar"
   },
   "title": {
-   "fr": "Respiration en méditation : 4 techniques pour s’apaiser",
-   "en": "4 breathing techniques for meditation and calm",
-   "es": "4 técnicas de respiración para meditar y calmarte"
+   "fr": "Respiration abdominale et 3 autres techniques pour s’apaiser",
+   "en": "Meditation breathing: 4 techniques for calm and focus",
+   "es": "Técnicas de respiración: 4 para meditar y calmarte"
   },
   "desc": {
-   "fr": "Les 4 techniques de respiration en méditation : abdominale, cohérence cardiaque, carrée et 4-7-8, avec leurs schémas et leurs précautions.",
-   "en": "Four breathing techniques for meditation: belly, coherent, box and 4-7-8 breathing. When to use each, with diagrams and precautions.",
+   "fr": "Respiration abdominale, cohérence cardiaque, respiration carrée et 4-7-8 : les 4 techniques de respiration en méditation, avec schémas et précautions.",
+   "en": "Meditation breathing, explained: four breathing techniques for meditation (belly, coherent, box, 4-7-8), when to use each, with diagrams and precautions.",
    "es": "Respiración abdominal, coherente, cuadrada y 4-7-8: las 4 técnicas de respiración para meditar, cuándo usar cada una, con esquemas y precauciones."
   },
   "published": "2026-09-07",
@@ -335,15 +335,15 @@
    ]
   },
   "kw": {
-   "fr": "respiration méditation, cohérence cardiaque, respiration 4-7-8, respiration carrée, respiration guidée, respiration abdominale, respirer dans la méditation",
-   "en": "meditation breathing, coherent breathing, 4-7-8 breathing, box breathing, breathing exercises, breathing techniques for meditation, meditative breaths, how to breathe during meditation, box breathing vs 4-7-8 breathing",
-   "es": "respiración meditación, respiración coherente, respiración 4-7-8, respiración cuadrada, respiración guiada, respiración para meditar, técnicas de respiración para meditar, respiración consciente, respiración abdominal"
+   "fr": "respiration méditation, cohérence cardiaque, respiration 4-7-8, respiration carrée, respiration guidée, respiration abdominale, respirer dans la méditation, respiration ventrale",
+   "en": "meditation breathing, coherent breathing, 4-7-8 breathing, box breathing, breathing exercises, breathing techniques for meditation, meditative breaths, how to breathe during meditation, box breathing vs 4-7-8 breathing, how to breathe when meditating",
+   "es": "respiración meditación, respiración coherente, respiración 4-7-8, respiración cuadrada, respiración guiada, respiración para meditar, técnicas de respiración para meditar, respiración consciente, respiración abdominal, técnicas de respiración"
   },
   "photos": [
    "p22",
    "p40"
   ],
-  "modified": "2026-10-23"
+  "modified": "2026-10-24"
  },
  {
   "id": "scan",
@@ -358,14 +358,14 @@
    "es": "escaneo-corporal-meditacion"
   },
   "title": {
-   "fr": "Le scan corporel : la méditation qui détend le corps",
+   "fr": "Scan corporel (body scan) : méditer pour détendre le corps",
    "en": "Body scan meditation: relax the body, calm the mind",
-   "es": "El escaneo corporal: la meditación que suelta el cuerpo"
+   "es": "Body scan: meditación de escaneo corporal, paso a paso"
   },
   "desc": {
    "fr": "Le scan corporel expliqué pas à pas, avec son schéma : le trajet des pieds à la tête, quoi faire quand on ne sent rien, et ses trois usages.",
    "en": "Body scan meditation explained step by step, with its diagram: the feet-to-head route, what to do when you feel nothing, and its three uses.",
-   "es": "El escaneo corporal explicado paso a paso, con su esquema: el recorrido de pies a cabeza, qué hacer cuando no sientes nada y sus tres usos."
+   "es": "El body scan, o escaneo corporal, explicado paso a paso con su esquema: el recorrido de pies a cabeza, qué hacer si no sientes nada y sus tres usos."
   },
   "intro": {
    "fr": "Le scan corporel est la technique de méditation la plus accessible : promener l'attention à travers le corps et sentir ce qui est là, sans rien changer. Détente profonde, endormissement, tensions du quotidien — voici le trajet complet, pas à pas.",
@@ -373,8 +373,8 @@
    "es": "El escaneo corporal es la técnica de meditación más accesible: pasear la atención por el cuerpo y sentir lo que hay, sin cambiar nada. Relajación profunda, dormirse, tensiones del día — aquí tienes el recorrido completo, paso a paso."
   },
   "kw": {
-   "fr": "scan corporel, méditation scan corporel, body scan, relaxation profonde, détendre le corps, body scan méditation, scan corporel pour dormir",
-   "en": "body scan meditation, body scan, deep relaxation, progressive relaxation, relax the body, how to do a body scan meditation, body scan meditation for sleep, body scan meditation technique step by step",
+   "fr": "scan corporel, méditation scan corporel, body scan, relaxation profonde, détendre le corps, body scan méditation, scan corporel pour dormir, scan corporel guidé",
+   "en": "body scan meditation, body scan, deep relaxation, progressive relaxation, relax the body, how to do a body scan meditation, body scan meditation for sleep, body scan meditation technique step by step, body scan technique",
    "es": "escaneo corporal, meditación escaneo corporal, body scan, relajación profunda, relajar el cuerpo, meditación escaneo del cuerpo, meditación escáner corporal, escaneo del cuerpo, escaneo corporal guiado"
   },
   "faq": {
@@ -446,7 +446,7 @@
    "p09",
    "p49"
   ],
-  "modified": "2026-10-23"
+  "modified": "2026-10-24"
  },
  {
   "id": "pensees",
@@ -460,18 +460,18 @@
    "es": "gestionar-los-pensamientos-al-meditar"
   },
   "title": {
-   "fr": "« Je n’arrive pas à arrêter de penser » : gérer ses pensées",
-   "en": "How to stop thinking during meditation (you don’t have to)",
-   "es": "No puedo dejar de pensar: ¿hay que poner la mente en blanco?"
+   "fr": "Arrêter de penser pour méditer ? Non, gérer ses pensées",
+   "en": "How to clear your mind in meditation (you don’t have to)",
+   "es": "Cómo poner la mente en blanco: ¿de verdad hace falta?"
   },
   "desc": {
-   "fr": "Comment gérer ses pensées en méditation ? Le cycle de l’attention, 3 outils concrets, les 5 obstacles classiques et le moment-clé qui muscle l’attention.",
-   "en": "Wondering how to stop thinking during meditation? The attention cycle, 3 tools for busy thoughts, 5 classic obstacles and the moment that trains attention.",
-   "es": "¿Cómo poner la mente en blanco? No hace falta. Descubre el ciclo de la atención, 3 herramientas frente a los pensamientos y los 5 obstáculos clásicos."
+   "fr": "Pas besoin d’arrêter de penser pour méditer. Gérer ses pensées s’apprend : le cycle de l’attention, 3 outils concrets et les 5 obstacles classiques.",
+   "en": "Wondering how to clear your mind or stop thinking during meditation? The attention cycle, 3 tools for busy thoughts and 5 classic obstacles.",
+   "es": "¿Cómo poner la mente en blanco si no puedo dejar de pensar? No hace falta. El ciclo de la atención, 3 herramientas y los 5 obstáculos clásicos."
   },
   "published": "2026-09-21",
   "intro": {
-   "fr": "« Je pense trop pour méditer » est l'idée reçue n° 1 chez les débutants. Bonne nouvelle : remarquer que ton esprit s'échappe n'est pas un échec, c'est l'exercice lui-même. Voici le cycle de l'attention, trois outils concrets face aux pensées, et les cinq obstacles classiques de la méditation.",
+   "fr": "« Pour méditer, il faut arrêter de penser » est l'idée reçue n° 1 chez les débutants. Bonne nouvelle : remarquer que ton esprit s'échappe n'est pas un échec, c'est l'exercice lui-même. Voici le cycle de l'attention, trois outils concrets face aux pensées, et les cinq obstacles classiques de la méditation.",
    "en": "“I think too much to meditate” is the number-one beginner myth. Good news: noticing your mind has wandered isn't failure — it IS the exercise. Here's the attention cycle, three concrete tools for busy thoughts, and the five classic obstacles of meditation.",
    "es": "«Pienso demasiado para meditar» es la idea falsa n.º 1 entre principiantes. Buena noticia: darte cuenta de que tu mente se escapó no es un fracaso — es el ejercicio en sí. Aquí tienes el ciclo de la atención, tres herramientas concretas frente a los pensamientos y los cinco obstáculos clásicos."
   },
@@ -540,15 +540,15 @@
    ]
   },
   "kw": {
-   "fr": "arrêter de penser méditation, gérer ses pensées, pleine conscience, obstacles méditation, faire le vide dans sa tête, arrêter de trop penser",
-   "en": "can't stop thinking meditation, dealing with thoughts, mindfulness, meditation obstacles, how to stop thinking during meditation, mind wandering during meditation, meditation for a busy mind",
-   "es": "no puedo dejar de pensar, gestionar pensamientos, atención plena, obstáculos meditación, cómo poner la mente en blanco, cómo dejar la mente en blanco para meditar, cómo dejar de pensar"
+   "fr": "arrêter de penser méditation, gérer ses pensées, pleine conscience, obstacles méditation, faire le vide dans sa tête, arrêter de trop penser, arrêter de penser, pensées parasites",
+   "en": "can't stop thinking meditation, dealing with thoughts, mindfulness, meditation obstacles, how to stop thinking during meditation, mind wandering during meditation, meditation for a busy mind, how to clear your mind",
+   "es": "no puedo dejar de pensar, gestionar pensamientos, atención plena, obstáculos meditación, cómo poner la mente en blanco, cómo dejar la mente en blanco para meditar, cómo dejar de pensar, cómo dejar la mente en blanco"
   },
   "photos": [
    "p31",
    "p44"
   ],
-  "modified": "2026-10-23"
+  "modified": "2026-10-24"
  },
  {
   "id": "pleineconscience",
@@ -563,24 +563,24 @@
    "es": "que-es-la-atencion-plena"
   },
   "title": {
-   "fr": "Pratiquer la pleine conscience : définition et geste clé",
-   "en": "What is mindfulness in simple terms? Definition and practice",
-   "es": "Qué es la atención plena: definición y práctica"
+   "fr": "Mindfulness ou pleine conscience : définition et geste clé",
+   "en": "Mindfulness in simple terms: what it is, how to practice it",
+   "es": "Mindfulness: qué es la atención plena y cómo practicarla"
   },
   "desc": {
-   "fr": "Comprendre et pratiquer la pleine conscience : sa définition en une phrase, les quatre malentendus tenaces et le geste que la méditation entraîne vraiment.",
+   "fr": "Comprendre et pratiquer la pleine conscience, ou mindfulness : sa définition en une phrase, quatre malentendus et le geste que la méditation entraîne.",
    "en": "What is mindfulness in simple terms? A one-sentence definition, four stubborn misunderstandings and the core move that meditation actually trains.",
-   "es": "La atención plena explicada con sencillez: su definición en una frase, cuatro malentendidos tenaces y el gesto que la meditación entrena de verdad."
+   "es": "El mindfulness, o atención plena, explicado con sencillez: su definición en una frase, cuatro malentendidos tenaces y el gesto que la meditación entrena."
   },
   "intro": {
-   "fr": "« Pleine conscience » est partout, et rarement définie. C'est pourtant simple : porter son attention sur l'instant présent, délibérément, sans juger. Voici ce que ça veut dire concrètement, ce que ce n'est pas, et comment la pratiquer — en méditation guidée comme dans la vraie vie.",
+   "fr": "« Pleine conscience », ou mindfulness, est partout, et rarement définie. C'est pourtant simple : porter son attention sur l'instant présent, délibérément, sans juger. Voici ce que ça veut dire concrètement, ce que ce n'est pas, et comment la pratiquer — en méditation guidée comme dans la vraie vie.",
    "en": "“Mindfulness” is everywhere and rarely defined. Yet it's simple: paying attention to the present moment, on purpose, without judging. Here's what that means concretely, what it is not, and how to practise it — in guided meditation and in real life.",
    "es": "«Atención plena» está en todas partes y rara vez se define. Y es sencillo: poner la atención en el momento presente, a propósito, sin juzgar. Esto es lo que significa en concreto, lo que no es, y cómo practicarla — en meditación guiada y en la vida real."
   },
   "kw": {
    "fr": "pleine conscience, mindfulness, définition pleine conscience, méditation pleine conscience, instant présent, pratiquer la pleine conscience, pleine conscience définition, exercice de pleine conscience",
    "en": "mindfulness, what is mindfulness, mindfulness definition, mindfulness meditation, present moment, what is mindfulness in simple terms, how to practice mindfulness",
-   "es": "atención plena, mindfulness, qué es la atención plena, meditación de atención plena, momento presente, ejercicios de atención plena, plena conciencia"
+   "es": "atención plena, mindfulness, qué es la atención plena, meditación de atención plena, momento presente, ejercicios de atención plena, plena conciencia, mindfulness qué es"
   },
   "faq": {
    "fr": [
@@ -651,7 +651,7 @@
    "p26",
    "p06"
   ],
-  "modified": "2026-10-23"
+  "modified": "2026-10-24"
  },
  {
   "id": "cinqminutes",
@@ -666,14 +666,14 @@
    "es": "meditacion-de-5-minutos"
   },
   "title": {
-   "fr": "La méditation de 5 minutes : courte, mais réelle",
+   "fr": "Méditation de 5 minutes : courte, mais réelle",
    "en": "5-minute meditation: 3 short formats that work",
-   "es": "La meditación de 5 minutos: corta, pero real"
+   "es": "Meditación de 5 minutos: corta, pero real"
   },
   "desc": {
-   "fr": "Cohérence cardiaque, scan express, ancrage 5-4-3-2-1 : trois méditations de 5 minutes qui marchent, et où les placer dans la journée.",
+   "fr": "Méditation de 5 minutes : cohérence cardiaque, scan express ou ancrage 5-4-3-2-1, trois formats qui marchent et où les placer dans la journée.",
    "en": "Three 5-minute meditation formats that work (coherent breathing, express body scan, 5-4-3-2-1 grounding) and where to place them in your day.",
-   "es": "Tres formatos de meditación de 5 minutos que funcionan: respiración coherente, escaneo exprés y anclaje 5-4-3-2-1. Descubre dónde colocarlos en tu día."
+   "es": "Tres formatos de meditación de 5 minutos que funcionan: respiración coherente, escaneo exprés y la técnica 5-4-3-2-1. Descubre dónde colocarlos en tu día."
   },
   "intro": {
    "fr": "Pas le temps de méditer ? Cinq minutes suffisent — pas comme version au rabais, mais comme un outil à part entière : la pause courte interrompt l'emballement de la journée et construit l'habitude. Trois formats express, et les meilleurs moments pour les placer.",
@@ -681,9 +681,9 @@
    "es": "¿Sin tiempo para meditar? Cinco minutos bastan — no como versión rebajada, sino como herramienta propia: la pausa corta interrumpe un día desbocado y construye el hábito. Tres formatos exprés, y los mejores momentos para colocarlos."
   },
   "kw": {
-   "fr": "méditation 5 minutes, méditation courte, cohérence cardiaque, pause méditation travail, méditation rapide, 5 minutes meditation, méditation guidée 5 minutes, technique d'ancrage 5 4 3 2 1",
-   "en": "5 minute meditation, short meditation, coherent breathing, quick meditation break, meditation at work, 5 minute guided meditation, 5 minute breathing exercise, 5 minute body scan meditation",
-   "es": "meditación 5 minutos, meditación corta, respiración coherente, pausa de meditación, meditación rápida, 5 minutos de meditación, meditación guiada de 5 minutos"
+   "fr": "méditation 5 minutes, méditation courte, cohérence cardiaque, pause méditation travail, méditation rapide, 5 minutes meditation, méditation guidée 5 minutes, technique d'ancrage 5 4 3 2 1, 5 min meditation",
+   "en": "5 minute meditation, short meditation, coherent breathing, quick meditation break, meditation at work, 5 minute guided meditation, 5 minute breathing exercise, 5 minute body scan meditation, 5 min meditation",
+   "es": "meditación 5 minutos, meditación corta, respiración coherente, pausa de meditación, meditación rápida, 5 minutos de meditación, meditación guiada de 5 minutos, técnica 5 4 3 2 1"
   },
   "faq": {
    "fr": [
@@ -754,7 +754,7 @@
    "p04",
    "p45"
   ],
-  "modified": "2026-10-23"
+  "modified": "2026-10-24"
  },
  {
   "id": "matin",
@@ -785,8 +785,8 @@
   },
   "kw": {
    "fr": "méditation du matin, méditer le matin, routine matinale, respiration abdominale, rituel du matin, méditation guidée du matin, méditation du matin 10 minutes",
-   "en": "morning meditation, meditate in the morning, morning routine, belly breathing, morning ritual, 10 minute morning meditation, how to meditate in the morning, morning meditation routine",
-   "es": "meditación de la mañana, meditar por la mañana, rutina matinal, respiración abdominal, ritual matinal, meditación matutina, meditación para empezar el día, meditación guiada de la mañana"
+   "en": "morning meditation, meditate in the morning, morning routine, belly breathing, morning ritual, 10 minute morning meditation, how to meditate in the morning, morning meditation routine, guided morning meditation",
+   "es": "meditación de la mañana, meditar por la mañana, rutina matinal, respiración abdominal, ritual matinal, meditación matutina, meditación para empezar el día, meditación guiada de la mañana, rutina matutina"
   },
   "faq": {
    "fr": [
@@ -857,7 +857,7 @@
    "p35",
    "p14"
   ],
-  "modified": "2026-10-23"
+  "modified": "2026-10-24"
  },
  {
   "id": "programme",
@@ -873,13 +873,13 @@
   },
   "title": {
    "fr": "Programme de méditation gratuit pour débutants en 4 semaines",
-   "en": "A 4-week meditation program for beginners",
-   "es": "Cómo meditar paso a paso: programa para principiantes"
+   "en": "Meditation course for beginners: a 4-week program",
+   "es": "Aprender a meditar paso a paso: programa para principiantes"
   },
   "desc": {
    "fr": "Un programme de méditation gratuit et progressif de 4 semaines pour installer l’habitude, plus les erreurs fréquentes des débutants et comment les éviter.",
-   "en": "A progressive 4-week meditation program for beginners to build a lasting habit, plus the most common mistakes and how to avoid them.",
-   "es": "Cómo meditar paso a paso: un plan progresivo de 4 semanas para crear el hábito, con los errores frecuentes de los principiantes y cómo evitarlos."
+   "en": "A free meditation course for beginners: a progressive 4-week program to build a lasting habit, plus the most common mistakes and how to avoid them.",
+   "es": "Aprender a meditar paso a paso: un plan progresivo de 4 semanas para crear el hábito, con los errores frecuentes de los principiantes y cómo evitarlos."
   },
   "published": "2026-10-19",
   "hero": 0,
@@ -889,15 +889,15 @@
    "es": "Meditar se aprende como se aprende a nadar: de forma progresiva y con una estructura sencilla. Este programa de meditación para principiantes dura cuatro semanas — postura y respiración, luego atención, luego autonomía — unos minutos al día, con los errores más comunes a evitar."
   },
   "kw": {
-   "fr": "programme méditation débutant, méditation 4 semaines, apprendre à méditer pas à pas, habitude méditation, programme de méditation gratuit, commencer à méditer, méditation débutant",
-   "en": "beginner meditation program, 4 week meditation, learn to meditate step by step, meditation habit, meditation program for beginners, how to meditate step by step, meditation schedule for beginners, learn to meditate",
-   "es": "programa meditación principiantes, meditación 4 semanas, aprender a meditar paso a paso, hábito de meditación, cómo meditar paso a paso, meditación para principiantes"
+   "fr": "programme méditation débutant, méditation 4 semaines, apprendre à méditer pas à pas, habitude méditation, programme de méditation gratuit, commencer à méditer, méditation débutant, programme de méditation, cours de méditation gratuit, programme méditation 4 semaines",
+   "en": "beginner meditation program, 4 week meditation, learn to meditate step by step, meditation habit, meditation program for beginners, how to meditate step by step, meditation schedule for beginners, learn to meditate, meditation course for beginners, free meditation course",
+   "es": "programa meditación principiantes, meditación 4 semanas, aprender a meditar paso a paso, hábito de meditación, cómo meditar paso a paso, meditación para principiantes, aprender a meditar, plan de meditación, curso de meditación gratis"
   },
   "photos": [
    "p16",
    "p52"
   ],
-  "modified": "2026-10-23"
+  "modified": "2026-10-24"
  },
  {
   "id": "techniques",
@@ -911,8 +911,8 @@
    "es": "tipos-de-meditacion"
   },
   "title": {
-   "fr": "Les techniques de méditation, expliquées une à une",
-   "en": "Meditation techniques, explained one by one",
+   "fr": "Techniques de méditation expliquées une à une",
+   "en": "Meditation techniques: the main types, explained one by one",
    "es": "Tipos de meditación: las técnicas explicadas una a una"
   },
   "desc": {
@@ -927,9 +927,9 @@
    "es": "Escaneo corporal, meditación caminando, bondad amorosa, visualización, método RAIN… La palabra «meditación» reúne técnicas muy distintas, cada una con su fuerza. Esta guía las explica una a una: cómo practicarlas, cuándo elegirlas y a quién le convienen."
   },
   "kw": {
-   "fr": "techniques de méditation, scan corporel, méditation marchée, méditation bienveillance, méthode RAIN, types de méditation, quelle méditation choisir, méthode de méditation",
-   "en": "meditation techniques, body scan, walking meditation, loving-kindness meditation, RAIN method, types of meditation, meditation techniques for beginners, RAIN meditation technique",
-   "es": "técnicas de meditación, escaneo corporal, meditación caminando, bondad amorosa, método RAIN, tipos de meditación, técnicas de meditación para principiantes"
+   "fr": "techniques de méditation, scan corporel, méditation marchée, méditation bienveillance, méthode RAIN, types de méditation, quelle méditation choisir, méthode de méditation, méthodes de méditation",
+   "en": "meditation techniques, body scan, walking meditation, loving-kindness meditation, RAIN method, types of meditation, meditation techniques for beginners, RAIN meditation technique, different types of meditation",
+   "es": "técnicas de meditación, escaneo corporal, meditación caminando, bondad amorosa, método RAIN, tipos de meditación, técnicas de meditación para principiantes, cuántos tipos de meditación hay"
   },
   "photos": [
    "p08",
@@ -949,12 +949,12 @@
    "es": "meditacion-caminando"
   },
   "title": {
-   "fr": "La méditation en marchant : méditer sans s’asseoir",
+   "fr": "Méditation en marchant : la marche méditative, pas à pas",
    "en": "Walking meditation: meditate without sitting still",
    "es": "Meditación caminando: meditar sin sentarse"
   },
   "desc": {
-   "fr": "Les trois phases du pas, le parcours à suivre et trois façons de pratiquer la méditation en marchant, idéale quand l'immobilité ne passe pas.",
+   "fr": "La méditation en marchant, idéale quand l'immobilité ne passe pas : les trois phases du pas, le parcours à suivre et trois façons de la pratiquer.",
    "en": "Walking meditation explained: the three phases of a step, the route to walk and three ways to practice it on days when stillness won't work.",
    "es": "Las tres fases del paso, el recorrido a seguir y tres formas de practicar la meditación caminando — ideal cuando la quietud no funciona."
   },
@@ -964,9 +964,9 @@
    "es": "Cuando sentarse es imposible — cuerpo inquieto, espalda que protesta, mente que gira demasiado rápido —, la meditación caminando toma el relevo. El movimiento absorbe la agitación en vez de luchar contra ella, y los pies en el suelo anclan la atención mejor que la respiración."
   },
   "kw": {
-   "fr": "méditation en marchant, méditation marchée, marche méditative, marche en pleine conscience",
-   "en": "walking meditation, mindful walking, meditation while walking, walking mindfulness, how to do walking meditation, walking meditation instructions, walking meditation for beginners",
-   "es": "meditación caminando, meditación andando, caminata consciente, marcha meditativa, meditación al caminar, cómo meditar caminando, caminata meditativa"
+   "fr": "méditation en marchant, méditation marchée, marche méditative, marche en pleine conscience, kinhin",
+   "en": "walking meditation, mindful walking, meditation while walking, walking mindfulness, how to do walking meditation, walking meditation instructions, walking meditation for beginners, what is walking meditation",
+   "es": "meditación caminando, meditación andando, caminata consciente, marcha meditativa, meditación al caminar, cómo meditar caminando, caminata meditativa, kinhin, meditación en movimiento"
   },
   "faq": {
    "fr": [
@@ -1051,13 +1051,13 @@
    "es": "meditacion-metta-bondad-amorosa"
   },
   "title": {
-   "fr": "La méditation de bienveillance (metta), pas à pas",
-   "en": "Metta meditation: how to practice loving-kindness",
-   "es": "Meditación metta o de bondad amorosa, paso a paso"
+   "fr": "Metta : la méditation de bienveillance, pas à pas",
+   "en": "Loving-kindness meditation: how to practice metta",
+   "es": "Metta: la meditación de bondad amorosa, paso a paso"
   },
   "desc": {
-   "fr": "Les cinq cercles de la méditation de bienveillance, les phrases à répéter, et quoi faire quand ça résiste — pour soi comme pour les autres.",
-   "en": "Metta meditation step by step, for yourself and others: the five circles of loving-kindness, the phrases to repeat and what to do when it resists.",
+   "fr": "Metta, la méditation de bienveillance : les cinq cercles, les phrases à répéter et quoi faire quand ça résiste — pour soi comme pour les autres.",
+   "en": "Loving-kindness meditation step by step, for yourself and others: the five circles of metta, the phrases to repeat and what to do when it resists.",
    "es": "La meditación metta, paso a paso: los cinco círculos, las frases que se repiten y qué hacer cuando el corazón se resiste. Para ti y para los demás."
   },
   "intro": {
@@ -1066,8 +1066,8 @@
    "es": "La mayoría de las meditaciones entrenan la atención; la meditación metta entrena la disposición del corazón. Cinco círculos, de ti a todos los seres, cuatro frases repetidas despacio — y una regla que sorprende: se empieza por uno mismo, porque no se da lo que uno no se concede."
   },
   "kw": {
-   "fr": "méditation de bienveillance, metta, amour bienveillant, méditation compassion, bienveillance envers soi, méditation metta, méditation de l'amour bienveillant, méditation bienveillance envers soi",
-   "en": "loving-kindness meditation, metta meditation, compassion meditation, self-compassion, loving-kindness meditation phrases, how to practice loving-kindness meditation",
+   "fr": "méditation de bienveillance, metta, amour bienveillant, méditation compassion, bienveillance envers soi, méditation metta, méditation de l'amour bienveillant, méditation bienveillance envers soi, metta bhavana",
+   "en": "loving-kindness meditation, metta meditation, compassion meditation, self-compassion, loving-kindness meditation phrases, how to practice loving-kindness meditation, loving kindness meditation script, metta meditation phrases",
    "es": "meditación de bondad amorosa, metta, meditación de compasión, autocompasión, meditación metta, metta bhavana"
   },
   "faq": {
@@ -1148,18 +1148,18 @@
   "image": null,
   "slug": {
    "fr": "mediter-tous-les-jours",
-   "en": "how-to-meditate-every-day",
-   "es": "como-meditar-todos-los-dias"
+   "en": "daily-meditation-habit",
+   "es": "rutina-de-meditacion"
   },
   "title": {
    "fr": "Méditer tous les jours : installer une pratique qui dure",
-   "en": "How to meditate daily and make the habit stick",
-   "es": "Cómo meditar todos los días (y mantenerlo)"
+   "en": "Daily meditation: how to make the habit stick",
+   "es": "Rutina de meditación: cómo meditar todos los días"
   },
   "desc": {
    "fr": "Méditer tous les jours sans forcer : trouver le bon moment, relier la méditation à une habitude existante, et quoi faire les jours sans motivation.",
-   "en": "How to meditate daily without forcing it: find the right time, anchor meditation to an existing habit and know what to do on unmotivated days.",
-   "es": "Cómo meditar todos los días: encontrar el momento, unir la meditación a un hábito que ya tienes y qué hacer los días sin ganas. Una práctica que dura."
+   "en": "Daily meditation without forcing it: how to meditate daily, choose the right time, anchor it to an existing habit and handle unmotivated days.",
+   "es": "Cómo crear una rutina de meditación que dure: elegir el momento, unirla a un hábito que ya tienes y saber qué hacer los días sin ganas."
   },
   "published": null,
   "intro": {
@@ -1232,9 +1232,9 @@
    ]
   },
   "kw": {
-   "fr": "méditer tous les jours, habitude méditation, méditation quotidienne, méditation guidée pour dormir, méditation au quotidien",
-   "en": "meditate every day, daily meditation habit, guided sleep meditation, how to meditate daily, how to meditate every day, daily meditation, how to make meditation a habit",
-   "es": "meditar todos los días, hábito diario de meditación, meditación guiada para dormir, cómo meditar todos los días, meditación diaria"
+   "fr": "méditer tous les jours, habitude méditation, méditation quotidienne, méditation guidée pour dormir, méditation au quotidien, routine méditation, méditer chaque jour",
+   "en": "meditate every day, daily meditation habit, guided sleep meditation, how to meditate daily, how to meditate every day, daily meditation, how to make meditation a habit, meditation motivation",
+   "es": "meditar todos los días, hábito diario de meditación, meditación guiada para dormir, cómo meditar todos los días, meditación diaria, rutina de meditación, hábito de meditación"
   },
   "photos": [
    "p18",
@@ -1249,17 +1249,17 @@
   "image": 14,
   "slug": {
    "fr": "bienfaits-de-la-meditation-science",
-   "en": "science-of-meditation",
+   "en": "meditation-benefits-science",
    "es": "beneficios-de-la-meditacion-segun-la-ciencia"
   },
   "title": {
    "fr": "Bienfaits de la méditation : ce que dit vraiment la science",
-   "en": "The science of meditation: what happens inside",
+   "en": "Meditation benefits: what the science really shows",
    "es": "Beneficios de la meditación según la ciencia, y sus límites"
   },
   "desc": {
    "fr": "Les bienfaits de la méditation sur le cerveau, le souffle et l'attention : ce que la pratique régulière change vraiment, et ce que la science ne dit pas.",
-   "en": "The science of meditation, explained simply: what regular practice really changes in the brain, breath and attention, and what research does not say.",
+   "en": "The science of meditation benefits, explained simply: what regular practice changes in the brain, breath and attention, and what research does not say.",
    "es": "Los beneficios de la meditación según la ciencia: qué cambia de verdad en el cerebro, la respiración y la atención, y lo que la ciencia no dice."
   },
   "published": null,
@@ -1334,8 +1334,8 @@
   },
   "kw": {
    "fr": "science méditation, effets de la méditation, cerveau méditation, bienfaits méditation, méditation science, méditation études scientifiques, effets de la méditation sur le cerveau, bienfaits de la méditation",
-   "en": "science of meditation, meditation effects, meditation brain, benefits of meditation, what happens when you meditate, meditation effects on the brain, does meditation actually work",
-   "es": "ciencia de la meditación, efectos de la meditación, cerebro meditación, beneficios de meditar, beneficios de la meditación según la ciencia, beneficios de la meditación, estudios científicos sobre la meditación"
+   "en": "science of meditation, meditation effects, meditation brain, benefits of meditation, what happens when you meditate, meditation effects on the brain, does meditation actually work, meditation benefits, does meditation work",
+   "es": "ciencia de la meditación, efectos de la meditación, cerebro meditación, beneficios de meditar, beneficios de la meditación según la ciencia, beneficios de la meditación, estudios científicos sobre la meditación, para qué sirve meditar"
   },
   "photos": [
    "p25",
@@ -1351,17 +1351,17 @@
   "slug": {
    "fr": "histoire-de-la-meditation",
    "en": "history-of-meditation",
-   "es": "historia-de-la-meditacion"
+   "es": "historia-del-mindfulness-y-la-meditacion"
   },
   "title": {
    "fr": "Histoire de la méditation : 3 500 ans de traditions",
    "en": "History of meditation: 3,500 years at a glance",
-   "es": "Breve historia de la meditación: 3500 años de práctica"
+   "es": "Historia del mindfulness: 3500 años de meditación"
   },
   "desc": {
    "fr": "L’histoire de la méditation, de l’Inde védique au zen japonais et aux applications mobiles : d’où viennent les pratiques d’aujourd’hui.",
-   "en": "A short history of meditation, from Vedic India to Japanese Zen to mobile apps: where today’s practices actually come from.",
-   "es": "La historia de la meditación, de la India védica al zen japonés y a las apps móviles: de dónde vienen las prácticas que usamos hoy."
+   "en": "A short history of meditation, from its origins in Vedic India to Japanese Zen and mobile apps: where today’s practices actually come from.",
+   "es": "La historia del mindfulness y de la meditación, de la India védica al zen japonés y a las apps móviles: de dónde vienen las prácticas que usamos hoy."
   },
   "published": null,
   "intro": {
@@ -1434,7 +1434,7 @@
    ]
   },
   "kw": {
-   "fr": "histoire de la méditation, origine méditation, traditions méditation, histoire pleine conscience, origine de la méditation, d’où vient la méditation",
+   "fr": "histoire de la méditation, origine méditation, traditions méditation, histoire pleine conscience, origine de la méditation, d’où vient la méditation, méditation védique",
    "en": "history of meditation, origin of meditation, meditation traditions, mindfulness history, where did meditation originate, who invented meditation",
    "es": "historia de la meditación, origen de la meditación, tradiciones de meditación, historia atención plena, historia del mindfulness"
   },
@@ -1456,24 +1456,24 @@
   },
   "title": {
    "fr": "États modifiés de conscience et transe méditative",
-   "en": "Altered states of consciousness, explained",
-   "es": "Estados modificados de conciencia: entender el trance"
+   "en": "Altered states of consciousness, explained with examples",
+   "es": "Estados de conciencia: de la ensoñación al trance meditativo"
   },
   "desc": {
-   "fr": "Le spectre des états de conscience, la transe méditative et les pratiques profondes : un guide clair, honnête et sans mystification.",
-   "en": "Altered states of consciousness explained: the spectrum of conscious states, meditative trance and deep practices. A clear, honest guide, without the hype.",
-   "es": "Los estados modificados de conciencia, de la ensoñación al trance meditativo, y las prácticas profundas que llevan a ellos: una guía clara y honesta."
+   "fr": "Le spectre des états modifiés de conscience, la transe méditative et les pratiques profondes : un guide clair, honnête et sans mystification.",
+   "en": "What are altered states of consciousness? Examples, the spectrum they form, meditative trance and deep practices: a clear, honest guide without the hype.",
+   "es": "Los estados de conciencia forman un espectro, de la ensoñación al trance. Qué son los estados modificados y cómo la meditación profunda lleva a ellos."
   },
   "published": null,
   "intro": {
    "fr": "Rêverie, flow, hypnose, transe méditative : la conscience n'est pas un interrupteur mais un spectre d'états. Ce guide clarifie ce que sont les états modifiés de conscience, comment la méditation profonde y conduit naturellement, et comment les explorer sans mystification.",
-   "en": "Daydreaming, flow, hypnosis, meditative trance: consciousness isn't a switch but a spectrum of states. This guide clarifies what altered states of consciousness are, how deep meditation leads there naturally, and how to explore them without the hype.",
+   "en": "Daydreaming, flow, hypnosis, meditative trance: these altered states of consciousness show that consciousness isn't a switch but a spectrum of states. This guide clarifies what they are, how deep meditation leads there naturally, and how to explore them without the hype.",
    "es": "Ensoñación, flow, hipnosis, trance meditativo: la conciencia no es un interruptor sino un espectro de estados. Esta guía aclara qué son los estados modificados de conciencia, cómo la meditación profunda conduce a ellos de forma natural y cómo explorarlos sin misticismo barato."
   },
   "kw": {
-   "fr": "états modifiés de conscience, transe méditative, conscience profonde, relaxation profonde, état de transe, méditation état modifié de conscience",
-   "en": "altered states of consciousness, meditative trance, deep consciousness, deep relaxation, what is an altered state of consciousness, types of altered states of consciousness",
-   "es": "estados modificados de conciencia, trance meditativo, conciencia profunda, relajación profunda, tipos de estados de conciencia, estados alterados de conciencia, meditación profunda"
+   "fr": "états modifiés de conscience, transe méditative, conscience profonde, relaxation profonde, état de transe, méditation état modifié de conscience, méditation profonde, état modifié de conscience définition",
+   "en": "altered states of consciousness, meditative trance, deep consciousness, deep relaxation, what is an altered state of consciousness, types of altered states of consciousness, altered consciousness, altered state of consciousness examples, what are altered states of consciousness",
+   "es": "estados modificados de conciencia, trance meditativo, conciencia profunda, relajación profunda, tipos de estados de conciencia, estados alterados de conciencia, meditación profunda, estados de conciencia, niveles de conciencia"
   },
   "photos": [
    "p23",
@@ -1487,24 +1487,24 @@
   ],
   "image": 17,
   "slug": {
-   "fr": "7-chakras-expliques-simplement",
-   "en": "7-chakras-explained",
-   "es": "mapa-de-los-7-chakras"
+   "fr": "chakras-et-leurs-roles",
+   "en": "chakra-locations-explained",
+   "es": "chakras-del-cuerpo"
   },
   "title": {
-   "fr": "Les 7 chakras : la carte utilisée en méditation",
-   "en": "The 7 chakras explained: the map used in meditation",
-   "es": "Los 7 chakras: el mapa que usa la meditación"
+   "fr": "Les chakras et leurs rôles : la carte utilisée en méditation",
+   "en": "Chakra locations: the 7 chakras explained as a body map",
+   "es": "Chakras del cuerpo: un mapa de 7 zonas para meditar"
   },
   "desc": {
-   "fr": "Les 7 chakras expliqués simplement : une carte symbolique du corps pour guider l’attention pendant la méditation, sans dogme.",
-   "en": "The 7 chakras explained simply, with no dogma: a symbolic body map used to guide attention in meditation, and how to meditate on them.",
-   "es": "Los 7 chakras explicados con sencillez: un mapa simbólico del cuerpo para guiar la atención al meditar, sin dogmas."
+   "fr": "Les chakras et leurs rôles expliqués simplement : les 7 chakras, leurs couleurs et une carte symbolique pour guider l’attention en méditation, sans dogme.",
+   "en": "The 7 chakra locations explained simply, with no dogma: a symbolic body map used to guide attention in meditation, and how to meditate on them.",
+   "es": "Los 7 chakras del cuerpo, explicados sin dogmas: un mapa simbólico para guiar la atención al meditar, de la base de la columna a la coronilla."
   },
   "published": null,
   "intro": {
    "fr": "Les sept chakras forment une carte symbolique du corps utilisée depuis des siècles par la méditation : sept zones où poser l'attention, de la base de la colonne au sommet du crâne. Voici cette carte expliquée simplement, et comment l'utiliser dans une méditation guidée des chakras.",
-   "en": "The seven chakras form a symbolic body map that meditation has used for centuries: seven regions to rest your attention on, from the base of the spine to the crown. Here's that map explained simply, and how to use it in a guided chakra meditation.",
+   "en": "The seven chakras form a symbolic body map that meditation has used for centuries: seven chakra locations to rest your attention on, in order from the base of the spine to the crown. Here's that map explained simply, and how to use it in a guided chakra meditation.",
    "es": "Los siete chakras forman un mapa simbólico del cuerpo que la meditación usa desde hace siglos: siete zonas donde posar la atención, de la base de la columna a la coronilla. Aquí tienes ese mapa explicado con sencillez, y cómo usarlo en una meditación guiada de los chakras."
   },
   "faq": {
@@ -1572,9 +1572,9 @@
    ]
   },
   "kw": {
-   "fr": "chakras, méditation chakras, 7 chakras, équilibrer les chakras, chakras significations, c'est quoi les chakras, les 7 chakras",
-   "en": "chakras, chakra meditation, 7 chakras, balance chakras, chakras explained, what are the 7 chakras, chakras for beginners, how to meditate on chakras",
-   "es": "chakras, meditación de chakras, 7 chakras, equilibrar chakras, los 7 chakras, qué son los chakras, los 7 chakras y su significado"
+   "fr": "chakras, méditation chakras, 7 chakras, équilibrer les chakras, chakras significations, c'est quoi les chakras, les 7 chakras, les chakras et leurs rôles, couleur des chakras, symbolique des chakras",
+   "en": "chakras, chakra meditation, 7 chakras, balance chakras, chakras explained, what are the 7 chakras, chakras for beginners, how to meditate on chakras, chakra locations, chakra system, chakra order",
+   "es": "chakras, meditación de chakras, 7 chakras, equilibrar chakras, los 7 chakras, qué son los chakras, los 7 chakras y su significado, chakras del cuerpo, cuerpo sutil, chakras energía"
   },
   "photos": [
    "p50",
@@ -1590,21 +1590,21 @@
   "slug": {
    "fr": "reve-lucide-sommeil-conscient",
    "en": "lucid-dreaming-conscious-sleep",
-   "es": "sueno-lucido-dormir-consciente"
+   "es": "diario-de-suenos-sueno-lucido"
   },
   "title": {
-   "fr": "Rêve lucide et sommeil conscient : par où commencer",
+   "fr": "Rêve conscient et rêve lucide : par où commencer",
    "en": "How to lucid dream: a beginner’s guide to conscious sleep",
-   "es": "Dormir consciente y sueño lúcido: por dónde empezar"
+   "es": "Diario de sueños y dormir consciente: hacia el sueño lúcido"
   },
   "desc": {
-   "fr": "Journal de rêves, tests de réalité, méditations du soir : les premières étapes concrètes vers le rêve lucide et un sommeil conscient, expliquées calmement.",
+   "fr": "Rêve conscient : journal de rêves, tests de réalité et méditations du soir, les premières étapes concrètes vers le rêve lucide et un sommeil conscient.",
    "en": "How to lucid dream as a beginner: a dream journal, reality checks and evening meditations, the first concrete steps toward more conscious sleep.",
    "es": "Diario de sueños, pruebas de realidad, meditaciones nocturnas: los primeros pasos concretos hacia el sueño lúcido y el dormir consciente."
   },
   "published": null,
   "intro": {
-   "fr": "Le rêve lucide — savoir que l'on rêve pendant le rêve — s'apprend, et la méditation est l'un de ses meilleurs entraînements. Journal de rêves, tests de réalité, méditations du soir : les premières étapes concrètes vers un sommeil plus conscient.",
+   "fr": "Le rêve conscient, ou rêve lucide, consiste à savoir que l'on rêve pendant le rêve. Il s'apprend, et la méditation est l'un de ses meilleurs entraînements. Journal de rêves, tests de réalité, méditations du soir : les premières étapes concrètes vers un sommeil plus conscient.",
    "en": "Lucid dreaming — knowing you're dreaming while you dream — can be learned, and meditation is one of its best training grounds. Dream journal, reality checks, evening meditations: the first concrete steps toward more conscious sleep.",
    "es": "El sueño lúcido — saber que sueñas mientras sueñas — se aprende, y la meditación es uno de sus mejores entrenamientos. Diario de sueños, pruebas de realidad, meditaciones nocturnas: los primeros pasos concretos hacia un dormir más consciente."
   },
@@ -1673,9 +1673,9 @@
    ]
   },
   "kw": {
-   "fr": "rêve lucide, comment faire un rêve lucide, journal de rêves, sommeil conscient, rêve conscient, méditation rêve lucide, rêves lucides",
-   "en": "lucid dreaming, how to lucid dream, dream journal, conscious sleep, how to lucid dream for beginners, lucid dreaming for beginners, dream journal for lucid dreaming",
-   "es": "sueño lúcido, cómo tener un sueño lúcido, diario de sueños, dormir consciente, qué es un sueño lúcido"
+   "fr": "rêve lucide, comment faire un rêve lucide, journal de rêves, sommeil conscient, rêve conscient, méditation rêve lucide, rêves lucides, s'éveiller en rêvant",
+   "en": "lucid dreaming, how to lucid dream, dream journal, conscious sleep, how to lucid dream for beginners, lucid dreaming for beginners, dream journal for lucid dreaming, how to have a lucid dream",
+   "es": "sueño lúcido, cómo tener un sueño lúcido, diario de sueños, dormir consciente, qué es un sueño lúcido, pruebas de realidad, cómo hacer un diario de sueños"
   },
   "photos": [
    "p38",
@@ -1689,19 +1689,19 @@
   ],
   "image": 13,
   "slug": {
-   "fr": "travail-de-l-ombre-meditation",
+   "fr": "accueillir-ses-emotions-et-son-ombre",
    "en": "how-to-do-shadow-work",
-   "es": "trabajo-de-sombra-y-meditacion"
+   "es": "sombra-interior-y-meditacion"
   },
   "title": {
-   "fr": "Travailler sur son ombre : se réconcilier avec soi",
+   "fr": "Accueillir ses émotions : se réconcilier avec son ombre",
    "en": "How to do shadow work: making peace with yourself",
-   "es": "Trabajar con tu sombra: reconciliarte contigo"
+   "es": "Sombra interior: cómo reconciliarte contigo mismo"
   },
   "desc": {
-   "fr": "Travailler sur son ombre en méditation, c'est accueillir ce qu'on préfère ne pas voir, pas à pas, avec des pratiques douces et des limites claires.",
+   "fr": "Accueillir ses émotions, même celles qu'on préfère ne pas voir : travailler sur son ombre en méditation, pas à pas, avec douceur et des limites claires.",
    "en": "How to do shadow work in meditation, step by step: meeting what you'd rather not see, with gentle practices and clear boundaries.",
-   "es": "Trabajar con tu sombra es acoger lo que prefieres no ver. El trabajo de sombra en meditación, paso a paso, con prácticas suaves y límites claros."
+   "es": "Trabajar con tu sombra interior es acoger lo que prefieres no ver. El trabajo de sombra en meditación, paso a paso, con prácticas suaves y límites claros."
   },
   "published": null,
   "hero": 13,
@@ -1711,9 +1711,9 @@
    "es": "Todos llevamos partes que preferimos no mirar: rabia, celos, miedos. El trabajo de sombra consiste en acogerlas en vez de combatirlas — con suavidad, método y límites claros. Una práctica de reconciliación interior, paso a paso."
   },
   "kw": {
-   "fr": "travail de l'ombre, ombre intérieure, réconciliation intérieure, accueillir ses émotions, travailler sur son ombre, se réconcilier avec soi-même",
-   "en": "shadow work, inner shadow, self reconciliation, welcoming emotions, how to do shadow work, shadow work for beginners, shadow work step by step, shadow work meditation",
-   "es": "trabajo de sombra, sombra interior, reconciliación interior, acoger emociones, trabajar con tu sombra, reconciliarte contigo mismo"
+   "fr": "travail de l'ombre, ombre intérieure, réconciliation intérieure, accueillir ses émotions, travailler sur son ombre, se réconcilier avec soi-même, émotions refoulées",
+   "en": "shadow work, inner shadow, self reconciliation, welcoming emotions, how to do shadow work, shadow work for beginners, shadow work step by step, shadow work meditation, how to start shadow work",
+   "es": "trabajo de sombra, sombra interior, reconciliación interior, acoger emociones, trabajar con tu sombra, reconciliarte contigo mismo, ejercicios para trabajar la sombra, integrar tu sombra"
   },
   "photos": [
    "p20",
@@ -1732,14 +1732,14 @@
    "es": "simbolos-arquetipos-mundos-interiores"
   },
   "title": {
-   "fr": "Symboles et archétypes : les mondes intérieurs",
-   "en": "Symbols in meditation: archetypes and inner worlds",
-   "es": "Mundos interiores: símbolos y arquetipos en la meditación"
+   "fr": "Archétypes et symboles en méditation : les mondes intérieurs",
+   "en": "Archetypes in meditation: symbols and inner worlds",
+   "es": "Arquetipos y símbolos en la meditación: mundos interiores"
   },
   "desc": {
-   "fr": "Symboles, archétypes et paysages intérieurs : pourquoi la méditation parle en images, et comment les utiliser dans ta pratique.",
+   "fr": "Archétypes, symboles et paysages intérieurs : pourquoi la méditation parle en images, et comment les utiliser dans ta pratique.",
    "en": "Why meditation speaks in images: symbols, archetypes and inner landscapes, and how to work with them in your practice.",
-   "es": "Por qué la meditación habla en imágenes: símbolos, arquetipos y mundos interiores, y cómo usarlos en tu práctica."
+   "es": "Qué son los arquetipos y los símbolos, por qué la meditación habla en imágenes y cómo usar estos mundos interiores en tu práctica."
   },
   "published": null,
   "intro": {
@@ -1748,9 +1748,9 @@
    "es": "¿Por qué las meditaciones guiadas hablan de templos, bosques, luz? Porque la mente profunda piensa en imágenes. Símbolos, arquetipos y paisajes interiores: entender este lenguaje hace cada visualización más viva — y más útil."
   },
   "kw": {
-   "fr": "symboles méditation, archétypes, visualisation guidée, mondes intérieurs, sanctuaire intérieur, symboles et archétypes, méditation visualisation, archétypes définition",
+   "fr": "symboles méditation, archétypes, visualisation guidée, mondes intérieurs, sanctuaire intérieur, symboles et archétypes, méditation visualisation, archétypes définition, archétypes de Jung",
    "en": "meditation symbols, archetypes, guided visualization, inner worlds, inner sanctuary, what are archetypes, visualization meditation, inner sanctuary meditation",
-   "es": "símbolos meditación, arquetipos, visualización guiada, mundos interiores, santuario interior, qué son los arquetipos, meditación de visualización"
+   "es": "símbolos meditación, arquetipos, visualización guiada, mundos interiores, santuario interior, qué son los arquetipos, meditación de visualización, símbolos de meditación"
   },
   "photos": [
    "p19",
@@ -1766,7 +1766,7 @@
   "slug": {
    "fr": "voyage-astral-progression",
    "en": "astral-projection-step-by-step",
-   "es": "viaje-astral-progresion"
+   "es": "como-hacer-un-viaje-astral"
   },
   "title": {
    "fr": "Comment faire un voyage astral, marche par marche",
@@ -1775,8 +1775,8 @@
   },
   "desc": {
    "fr": "Comment faire un voyage astral ? Une échelle de progression claire, de la détente profonde aux techniques de sortie, présentée sans sensationnalisme.",
-   "en": "Learn how to astral project step by step, from deep relaxation to exit techniques. A clear progression ladder, presented without sensationalism.",
-   "es": "Cómo hacer un viaje astral sin sensacionalismo: una escalera de progresión, de la relajación profunda a las técnicas de salida."
+   "en": "Learn how to astral project step by step, from deep relaxation to exit techniques. A clear ladder toward an out-of-body experience, without sensationalism.",
+   "es": "Cómo hacer un viaje astral sin sensacionalismo: una escalera de progresión, de la relajación profunda a las técnicas para salir del cuerpo."
   },
   "published": null,
   "intro": {
@@ -1785,9 +1785,9 @@
    "es": "El viaje astral fascina e inquieta a partes iguales. Aquí no hay sensacionalismo: una escalera de progresión clara, de la relajación profunda a las técnicas de salida, donde cada peldaño se practica a tu ritmo — y es, en sí mismo, una buena meditación."
   },
   "kw": {
-   "fr": "voyage astral, sortie hors du corps, projection astrale, techniques voyage astral, comment faire un voyage astral, voyage astral pour débutant, sortie astrale",
-   "en": "astral projection, out of body experience, astral travel techniques, how to astral project, astral projection techniques, astral projection step by step, astral projection exit techniques",
-   "es": "viaje astral, experiencia fuera del cuerpo, proyección astral, técnicas de viaje astral, cómo hacer un viaje astral, viaje astral paso a paso, viaje astral para principiantes"
+   "fr": "voyage astral, sortie hors du corps, projection astrale, techniques voyage astral, comment faire un voyage astral, voyage astral pour débutant, sortie astrale, comment sortir de son corps, voyage astral débutant, voyage astral méthode",
+   "en": "astral projection, out of body experience, astral travel techniques, how to astral project, astral projection techniques, astral projection step by step, astral projection exit techniques, how to astral travel, how to have an out of body experience",
+   "es": "viaje astral, experiencia fuera del cuerpo, proyección astral, técnicas de viaje astral, cómo hacer un viaje astral, viaje astral paso a paso, viaje astral para principiantes, cómo hacer una proyección astral, cómo salir del cuerpo"
   },
   "photos": [
    "p53",
@@ -1801,30 +1801,30 @@
   ],
   "image": null,
   "slug": {
-   "fr": "bien-vivre-une-meditation-guidee",
+   "fr": "seance-de-meditation-guidee",
    "en": "guided-meditation-tips",
-   "es": "aprovechar-una-meditacion-guiada"
+   "es": "como-hacer-una-meditacion-guiada"
   },
   "title": {
-   "fr": "Comment bien méditer en séance guidée",
+   "fr": "Séance de méditation guidée : comment bien méditer",
    "en": "Guided meditation tips: get the most from each session",
    "es": "Cómo hacer una meditación guiada y aprovecharla al máximo"
   },
   "desc": {
-   "fr": "Comment bien méditer en séance guidée ? Voix, pauses, impressions d’après-séance : tirer le meilleur d’une méditation guidée ou interactive.",
+   "fr": "Comment bien vivre une séance de méditation guidée ? Voix, pauses, impressions d’après-séance : tirer le meilleur d’une méditation guidée ou interactive.",
    "en": "Guided meditation tips, start to finish: how to choose your voice, honor the pauses and note your impressions after a guided or interactive session.",
    "es": "Cómo hacer una meditación guiada o interactiva y sacarle el máximo partido: la voz, las pausas y tus impresiones tras la sesión."
   },
   "published": null,
   "intro": {
-   "fr": "Une méditation guidée n'est pas un podcast : la voix, les silences et ce que tu en fais changent tout. Choisir sa voix, respecter les pauses, noter ses impressions après la séance : voici comment tirer le meilleur de chaque méditation guidée ou interactive.",
+   "fr": "Une séance de méditation guidée n'est pas un podcast : la voix, les silences et ce que tu en fais changent tout. Choisir sa voix, respecter les pauses, noter ses impressions après la séance : voici comment tirer le meilleur de chaque méditation guidée ou interactive.",
    "en": "A guided meditation isn't a podcast: the voice, the silences and what you do with them change everything. Choosing your voice, honoring the pauses, writing down impressions afterwards: here's how to get the most from every guided or interactive meditation.",
    "es": "Una meditación guiada no es un pódcast: la voz, los silencios y lo que haces con ellos lo cambian todo. Elegir tu voz, respetar las pausas, anotar tus impresiones después: así se aprovecha al máximo cada meditación guiada o interactiva."
   },
   "kw": {
-   "fr": "méditation guidée, bien méditer, voix de méditation, impressions après méditation, comment bien méditer, comment faire une méditation guidée, méditation interactive",
-   "en": "guided meditation tips, meditation voice, after-meditation reflection, how to do guided meditation, what to do after meditation, journaling after meditation",
-   "es": "consejos meditación guiada, voz de meditación, impresiones tras meditar, cómo hacer una meditación guiada, meditación guiada"
+   "fr": "méditation guidée, bien méditer, voix de méditation, impressions après méditation, comment bien méditer, comment faire une méditation guidée, méditation interactive, séance de méditation, séance de méditation guidée, méditation guidée en ligne",
+   "en": "guided meditation tips, meditation voice, after-meditation reflection, how to do guided meditation, what to do after meditation, journaling after meditation, how to use guided meditation, guided meditation voice",
+   "es": "consejos meditación guiada, voz de meditación, impresiones tras meditar, cómo hacer una meditación guiada, meditación guiada, voz para meditación guiada, cómo aprovechar una meditación guiada, consejos para meditación guiada"
   },
   "photos": [
    "p34",
