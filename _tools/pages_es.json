@@ -235,7 +235,7 @@
   "sacred": {
    "slug": "meditacion-lugares-sagrados",
    "seo": "Lugares sagrados del mundo: meditación guiada gratis",
-   "desc": "Medita en lugares sagrados con 7 sesiones guiadas: el árbol Bodhi, Stonehenge, una pagoda, un santuario taoísta y las auroras boreales. De 13 a 17 minutos.",
+   "desc": "Medita en lugares sagrados y en plena naturaleza con 7 sesiones guiadas de 13 a 17 minutos: el árbol Bodhi, Stonehenge, una pagoda y las auroras boreales.",
    "h1": "Lugares sagrados del mundo: meditación guiada",
    "intro": [
     "Lugares sagrados te lleva, con la imaginación, a siete sitios donde detenerte y respirar. Te sientas bajo el árbol Bodhi y sientes sus raíces, escuchas la lluvia junto a una antigua pagoda entre los lotos, ves el amanecer desde un santuario taoísta sobre un mar de nubes y esperas en el centro de Stonehenge a que la luz revele las piedras una a una.",
@@ -320,9 +320,9 @@
   },
   "higherKnowledge": {
    "slug": "meditacion-registros-akashicos",
-   "seo": "Meditación para conectar con un ser querido que se fue",
-   "desc": "Meditación para conectar con un ser querido que se fue: el jardín del reencuentro, un animal que partió y el guardián de los archivos. De 24 a 25 minutos.",
-   "h1": "Meditación para conectar con un ser querido que se fue y con los registros akáshicos",
+   "seo": "Meditación para el duelo: un reencuentro con quien se fue",
+   "desc": "Meditación para el duelo en 3 viajes de 24 a 25 minutos: el jardín del reencuentro, el duelo por una mascota y el guardián de los registros akáshicos.",
+   "h1": "Meditación para el duelo: conectar con un ser querido que se fue",
    "intro": [
     "Conocimientos superiores y más allá propone tres viajes largos hacia lo que nos trasciende. En «El guardián de los archivos», inspirado en la idea de los registros akáshicos, aprendes a distinguir lo que la mente inventa de lo que parece surgir solo. «El jardín del reencuentro» te invita a decir las palabras que quedaron pendientes y a sentir lo que pasa de una generación a otra.",
     "La tercera sesión, «Mi animal que ya no está», te acompaña para reencontrar el vínculo con un animal que se fue a través de los recuerdos cotidianos. Cada meditación dura 24 o 25 minutos y es de nivel intermedio: conviene reservarles un momento tranquilo, sin prisa."
@@ -445,9 +445,9 @@
   },
   "qigong": {
    "slug": "meditacion-qigong-guiada",
-   "seo": "Qi gong en casa: meditación guiada de energía y sensaciones",
-   "desc": "Qi gong en casa con 4 sesiones guiadas de 20 a 25 minutos: las manos que se calientan, la pequeña circulación, el árbol inmóvil y la danza del Qi. Gratis.",
-   "h1": "Qi gong en casa y meditación guiada de sensaciones",
+   "seo": "Chi kung en casa: qi gong guiado para sentir la energía",
+   "desc": "Chi kung en casa con 4 sesiones guiadas de 20 a 25 minutos: las manos que se calientan, la pequeña circulación, el árbol inmóvil y la danza del Qi.",
+   "h1": "Chi kung en casa: qi gong y meditación guiada de sensaciones",
    "intro": [
     "Sensaciones y qigong reúne cuatro sesiones guiadas, de 20 a 25 minutos, para sentir el cuerpo en movimiento interior. Empiezas con «Las manos que se calientan»: una bola imaginaria entre las palmas y un calor suave. Después sigues el trayecto de la pequeña circulación, como una perla que baja desde el vientre y sube por la espalda, y aprendes la postura del árbol inmóvil.",
     "La última sesión, «La danza del Qi», es un qigong en movimiento en el que pies, manos y torso se responden despacio, hasta que el cuerpo baila solo. Son de nivel intermedio y no necesitan material: solo un poco de espacio y ropa cómoda para las sesiones de pie."
@@ -617,9 +617,9 @@
   },
   "cosmic": {
    "slug": "meditacion-no-dual-guiada",
-   "seo": "Meditación no dual guiada: conciencia y cuerpo de luz",
-   "desc": "Meditación no dual en 2 sesiones guiadas avanzadas para viajar más allá: conciencia no dual y cuerpo de luz. De 28 y 31 minutos, gratis y sin conexión.",
-   "h1": "Meditación no dual guiada y cuerpo de luz",
+   "seo": "No dualidad: meditación guiada y expansión de conciencia",
+   "desc": "La no dualidad en 2 meditaciones guiadas avanzadas: conciencia no dual y expansión del cuerpo de luz. De 28 y 31 minutos, gratis y sin conexión.",
+   "h1": "No dualidad: meditación no dual guiada y cuerpo de luz",
    "intro": [
     "Cósmico y vacío te invita a viajar más allá, hacia la inmensidad interior. La categoría contiene dos meditaciones guiadas de nivel avanzado. En «Conciencia no dual», de 28 minutos, buscas dónde termina el dentro y empieza el fuera, y después te vuelves hacia quien percibe. Es una práctica de indagación tranquila y abierta, sin ninguna respuesta que memorizar ni idea que adoptar de antemano.",
     "«Expansión del cuerpo de luz», de 31 minutos, parte del calor del cuerpo y deja que se convierta en una luz que va más allá de la piel. Son sesiones largas: conviene hacerlas en un momento sin prisa, después de haber practicado otras categorías."
@@ -848,9 +848,9 @@
  "worlds": {
   "antiqueTemple": {
    "slug": "meditacion-inmersiva-templo-antiguo",
-   "seo": "Meditación en un templo antiguo, inmersiva y en español",
-   "desc": "Meditación en un templo antiguo: sube entre la lluvia y la niebla hasta un templo iluminado por velas y medita entre budas gigantes. 19 minutos, gratis.",
-   "h1": "Meditación en un templo antiguo, entre budas gigantes",
+   "seo": "Meditación con velas: un templo antiguo bajo la lluvia",
+   "desc": "Meditación con velas en un templo antiguo: sube entre la lluvia y la niebla hasta la luz de las velas y medita entre budas gigantes. 19 minutos, gratis.",
+   "h1": "Meditación con velas en un templo antiguo, entre budas gigantes",
    "lead": "Bajo la lluvia, una zorra de leyenda con nueve colas te guía hasta un templo escondido en la montaña. Dentro te esperan velas que flotan, un guardián de mil años y una pequeña puerta roja que da a tu propio paisaje interior."
   },
   "cosmicTemple": {
@@ -862,9 +862,9 @@
   },
   "crystalCave": {
    "slug": "meditacion-inmersiva-gruta-de-cristal",
-   "seo": "Meditación en una gruta de cristal: viaje inmersivo",
-   "desc": "Meditación en una gruta de cristal: baja entre cristales luminosos y estanques quietos como espejos, y deja que su resonancia te atraviese. 16 minutos.",
-   "h1": "Meditación en una gruta de cristal infinita",
+   "seo": "Meditación con cristales: la gruta de cristal infinita",
+   "desc": "Meditación con cristales en una gruta infinita: baja entre cristales luminosos y estanques quietos como espejos, y deja que su resonancia te atraviese.",
+   "h1": "Meditación con cristales en una gruta de cristal infinita",
    "lead": "Tras cruzar la roca con una exhalación, entras en una cueva de cristales gigantes donde te esperan una mariposa de cristal y una sirena. Luego, un pequeño dragón te acompaña hasta una ciudad en miniatura donde todos cantan contigo."
   },
   "galaxy": {
@@ -883,9 +883,9 @@
   },
   "antarcticBase": {
    "slug": "meditacion-inmersiva-santuario-helado",
-   "seo": "Meditación en la Antártida: viaje inmersivo bajo el hielo",
-   "desc": "Meditación en la Antártida: desciende bajo el hielo y sigue a un zorro polar luminoso hasta un corazón de cristal que late. 15 minutos, gratis.",
-   "h1": "Meditación en la Antártida: el santuario helado",
+   "seo": "Meditación de invierno: un santuario bajo el hielo",
+   "desc": "Meditación de invierno bajo el hielo de la Antártida: sigue a un zorro polar luminoso hasta un corazón de cristal que late. 15 minutos, gratis.",
+   "h1": "Meditación de invierno en la Antártida: el santuario helado",
    "lead": "Bajo kilómetros de hielo, un zorro polar luminoso te guía hasta un santuario que nadie ha pisado en miles de años. Allí late un corazón de cristal, y un libro helado te muestra la ciudad de quienes lo construyeron."
   },
   "skyIsland": {
@@ -904,9 +904,9 @@
   },
   "atlantis": {
    "slug": "meditacion-inmersiva-atlantida",
-   "seo": "Meditación en la Atlántida sumergida: viaje inmersivo",
-   "desc": "Meditación en la Atlántida: respira bajo el mar y recorre la ciudad a lomos de un caballito de mar dorado, entre templos y medusas. 18 minutos, gratis.",
-   "h1": "Meditación en la Atlántida: la ciudad sumergida",
+   "seo": "Meditación del mar: viaje inmersivo a la Atlántida",
+   "desc": "Meditación del mar en la Atlántida: respira bajo el agua y recorre la ciudad a lomos de un caballito de mar dorado, entre templos y medusas. 18 minutos.",
+   "h1": "Meditación del mar: la Atlántida, ciudad sumergida",
    "lead": "Descubre que puedes respirar bajo el mar y deja que un gran caballito de mar dorado te pasee por una ciudad antigua. Una perla guarda uno de tus recuerdos y, cuando cae la noche, la ciudad entera se enciende como un cielo de estrellas."
   },
   "himalayanMonastery": {
@@ -918,16 +918,16 @@
   },
   "celestialLibrary": {
    "slug": "meditacion-inmersiva-biblioteca-celeste",
-   "seo": "Meditación en una biblioteca celeste, inmersiva y gratis",
-   "desc": "Meditación en una biblioteca celeste sin fin, de libros luminosos y escaleras de caracol, bajo constelaciones en movimiento. 13 minutos, gratis.",
-   "h1": "Meditación en una biblioteca celeste, bajo las estrellas",
+   "seo": "Biblioteca akáshica: meditación inmersiva bajo las estrellas",
+   "desc": "Medita en una biblioteca akáshica sin fin, de libros luminosos y escaleras de caracol, bajo constelaciones en movimiento. 13 minutos, gratis.",
+   "h1": "La biblioteca akáshica: meditación en una biblioteca celeste",
    "lead": "Una gran puerta se abre a una biblioteca suspendida fuera del mundo, donde cada libro vuela hasta su lector sin equivocarse. Una salamandra de fuego te acompaña, y un libro dorado te deja asomarte a un futuro posible."
   },
   "desertOasis": {
    "slug": "meditacion-inmersiva-oasis-del-desierto",
-   "seo": "Meditación en el desierto: viaje inmersivo a un oasis",
-   "desc": "Meditación en el desierto: en un oasis, siéntate junto a un agua luminosa bajo una luna inmensa y un cielo de estrellas, en quietud. 13 minutos, gratis.",
-   "h1": "Meditación en el desierto: el oasis bajo la luna",
+   "seo": "Meditación de la luna en un oasis del desierto",
+   "desc": "Meditación de la luna en el desierto: en un oasis, siéntate junto a un agua luminosa bajo una luna inmensa y un cielo de estrellas. 13 minutos, gratis.",
+   "h1": "Meditación de la luna: el oasis del desierto bajo las estrellas",
    "lead": "Al caer la noche, un camello blanco te lleva entre las dunas hasta un oasis escondido. Allí te esperan un té de menta, una lámpara llena de mariposas de luz y un jardín secreto bajo el agua del estanque."
   },
   "treeOfConsciousness": {
@@ -953,8 +953,8 @@
   },
   "mirrorDimension": {
    "slug": "meditacion-inmersiva-dimension-de-espejos",
-   "seo": "Meditación de los espejos: una dimensión de luz blanca",
-   "desc": "Meditación de los espejos: flota entre espejos infinitos y una suave luz blanca, y observa la conciencia misma. Inmersiva, de 16 minutos y gratis.",
+   "seo": "Conciencia testigo: la meditación de los espejos",
+   "desc": "Conciencia testigo: flota entre espejos infinitos y una suave luz blanca, y observa la conciencia misma. Meditación inmersiva de 16 minutos, gratis.",
    "h1": "Meditación de los espejos y la conciencia testigo",
    "lead": "Flota en una luz blanca donde los espejos se multiplican sin fin. Un animal guía sale de uno de ellos y te lleva por mundos imposibles, hasta un espejo antiguo que guarda lo que sueltas."
   },
