@@ -1,7 +1,7 @@
 {
  "meditations_index": {
   "slug": "free-guided-meditations",
-  "seo": "Free Guided Meditations: 129 Sessions in 19 Categories",
+  "seo": "Guided Meditation: 129 Free Sessions in 19 Categories",
   "desc": "Browse 129 free guided meditations for sleep, calm, focus and inner exploration. No subscription, no ads, no account, and they work offline.",
   "h1": "Free guided meditations for every moment of your day",
   "intro": "MeditaDream brings together 129 guided meditations, organised into 19 categories so you can find the right session quickly. Start with the basics if you are new, take a four-minute pause between two tasks, unwind before sleep, or go further with visualization, qigong, Buddhist practice, trance and astral journeys. Every session is completely free, with no subscription, no ads and no account to create. Once downloaded, the meditations play offline on iPhone and Android, in English, French and Spanish. Pick a category below to see its sessions, their length and their level."
@@ -10,7 +10,7 @@
   "learningBasics": {
    "slug": "meditation-for-beginners",
    "seo": "Meditation for Beginners: 8 Free Guided Sessions",
-   "desc": "New to meditation? Eight free guided sessions of 5 to 19 minutes teach the basics: body scan, breath, thoughts, the five senses and silence.",
+   "desc": "Free meditation for beginners: eight guided sessions of 5 to 19 minutes teach the basics. Body scan, breath, thoughts, the five senses and silence.",
    "h1": "Guided meditation for beginners",
    "intro": [
     "This category is where to start if you have never meditated, or if you want to rebuild your practice on solid ground. Eight short sessions cover the essentials one step at a time: a body scan, steadying attention on the breath, telling sensations, emotions and thoughts apart, watching thoughts go by, mindful eating, opening the five senses and meditating with your eyes open. The last one is your first silent meditation.",
@@ -59,9 +59,9 @@
   },
   "fourMin": {
    "slug": "4-minute-meditation",
-   "seo": "4-Minute Meditation: 11 Short Guided Sessions",
-   "desc": "Eleven short guided meditations of 3 to 4 minutes to find calm when things move too fast, before a challenge or after an argument. Free, offline.",
-   "h1": "Short 4-minute guided meditations",
+   "seo": "3-Minute Meditation: 11 Short Sessions of 3 to 4 Minutes",
+   "desc": "Need a 3-minute meditation? Eleven short guided sessions of 3 to 4 minutes to find calm when things move too fast, before a challenge or after an argument.",
+   "h1": "3-minute meditation: short guided sessions of 3 to 4 minutes",
    "intro": [
     "Sometimes you only have a few minutes. These eleven short guided meditations are built for those moments: when everything moves too fast, after an argument, before a challenge, after hearing bad news, when motivation is missing or when you feel watched or judged. Others are simply there to help you relax very quickly, revisit a happy memory, practise gratitude for specific things or find a small refuge of your own.",
     "Each session lasts three to four minutes and is suitable for beginners, with no experience needed. They are easy to slip into a coffee break, a commute or the moment just before a meeting. Keep a few favourites close at hand: once downloaded, they work without a connection, wherever you happen to be."
@@ -103,8 +103,8 @@
   },
   "calm": {
    "slug": "guided-sleep-meditation",
-   "seo": "Guided Sleep Meditation: Deep Relaxation and Calm",
-   "desc": "Fourteen guided meditations for sleep and deep relaxation, from 13 to 30 minutes: whole-body breathing, chakras, drifting into sleep. Free app.",
+   "seo": "Sleep Meditation: Guided Deep Relaxation and Calm",
+   "desc": "Sleep meditation and deep relaxation in fourteen guided sessions of 13 to 30 minutes: whole-body breathing, chakras, drifting into sleep. Free app.",
    "h1": "Guided sleep meditation and deep relaxation",
    "intro": [
     "Body, Calm & Sleep gathers fourteen sessions to slow down and let go. Some are made for bedtime: Sleep Journey and Drifting into Sleep let you slide into sleep with no wake-up at the end. Others work with breath and the body, such as Breathing with the Whole Body, The Luminous Breath or The Body Under a Waterfall. You will also find chakra sessions, a session to prepare for lucid dreaming and a session to calm your mind before creative work.",
@@ -153,9 +153,9 @@
   },
   "emotionalGrowth": {
    "slug": "self-love-and-gratitude-meditation",
-   "seo": "Self-Love and Gratitude Meditation: Guided Sessions",
-   "desc": "Eight guided meditations on self-love, gratitude, compassion and forgiveness, from 7 to 17 minutes, to cultivate a kinder inner voice.",
-   "h1": "Guided meditation for self-love, gratitude and compassion",
+   "seo": "Self-Love Meditation: Guided Gratitude and Compassion",
+   "desc": "Self-love meditation, gratitude, compassion and forgiveness: eight guided sessions of 7 to 17 minutes to cultivate a kinder inner voice.",
+   "h1": "Guided self-love meditation with gratitude and compassion",
    "intro": [
     "Emotional Growth offers eight sessions to cultivate the heart. You can practise daily gratitude starting from the body, look for real reasons to love yourself, open your heart, explore what forgiving might mean without forgetting, and let go of comparison. Other sessions help you welcome a difficult emotion with curiosity, picture your growth along an old railway, or send wishes of peace and happiness to yourself and to others.",
     "Sessions last 7 to 17 minutes and are marked as intermediate. They suit anyone who wants to be a little kinder to themselves and to others, at their own pace. The shortest, Compassion Meditation, is an easy way in, while the longer sessions give you more time to stay with what you feel."
@@ -197,7 +197,7 @@
   "shadow": {
    "slug": "shadow-work-meditation",
    "seo": "Shadow Work Meditation: Gentle Guided Sessions",
-   "desc": "Ten guided meditations for shadow work, inner child and everyday fears, from 7 to 21 minutes, including Ho'oponopono. Free, gentle, at your pace.",
+   "desc": "Ten guided meditations for shadow work, inner child, self-forgiveness and everyday fears, from 7 to 21 minutes, including Ho'oponopono. Free, at your pace.",
    "h1": "Guided shadow work meditation",
    "intro": [
     "Shadow & Well-being invites you to meet, with care, what you usually turn away from. The Shadow Work session helps you understand what a difficult part of yourself is trying to protect. Others reconnect you with your inner child, guide you through forgiving yourself, or let you repeat the four Ho'oponopono phrases with your breath. Short sessions also look at common fears: abandonment, failure, judgment and the dark.",
@@ -239,9 +239,9 @@
   },
   "sacred": {
    "slug": "sacred-places-guided-meditation",
-   "seo": "Sacred Places Guided Meditation: Temples and Nature",
-   "desc": "Seven guided meditations in sacred places: the Bodhi tree, a Taoist sanctuary, Stonehenge, an ice cave and the northern lights. 13 to 17 minutes.",
-   "h1": "Guided meditation in sacred places",
+   "seo": "Nature Meditation in Sacred Places and Temples",
+   "desc": "Seven guided nature meditations in sacred places: the Bodhi tree, a Taoist sanctuary, Stonehenge, an ice cave and the northern lights. 13 to 17 minutes.",
+   "h1": "Guided nature meditation in sacred places",
    "intro": [
     "Sacred Places takes you to seven remarkable settings. Sit beneath the Bodhi tree, visit an ancient pagoda among the lotuses in the rain, watch the mist rise around a Taoist sanctuary at dawn, stand on a Scottish cliff above the ocean, wait for first light at the centre of Stonehenge, breathe the pure air of a blue ice cave, or rest under the northern lights inside a circle of crystals.",
     "Each session lasts 13 to 17 minutes and is marked as intermediate. They suit you if you love nature, travel and quiet places, and want the setting itself to steady your attention. The narration lingers on light, sound and texture, so each place becomes a calm space you can return to whenever you like."
@@ -283,8 +283,8 @@
   "guides": {
    "slug": "spirit-guide-meditation",
    "seo": "Spirit Guide Meditation: 5 Free Guided Journeys",
-   "desc": "Five guided meditations to meet your spirit guides: a council of guides, a guide of light, a temple of light. Sessions of 16 to 26 minutes.",
-   "h1": "Guided meditation to meet your spirit guides",
+   "desc": "Five spirit guide meditations to meet your guides: a council of guides, a guide of light and a temple of light. Guided sessions of 16 to 26 minutes.",
+   "h1": "Spirit guide meditation: guided journeys to meet your guides",
    "intro": [
     "Spirit Guides offers five inner journeys. Walk down ten steps to the Temple of Light, receive the warmth of a guide of light and keep it after the guide steps away, or consult a council of five guides about a problem before taking the sixth seat yourself. One session gives you a name and a sign to find this inner state again, and another invites you to thank the people who have mattered in your life.",
     "Sessions last 16 to 26 minutes and are marked as intermediate. They suit anyone curious about imaginative inner journeys, whatever their beliefs. Find a quiet moment, ideally with headphones, and let each image or feeling come in its own time, without trying to force a particular experience."
@@ -325,9 +325,9 @@
   },
   "higherKnowledge": {
    "slug": "akashic-records-meditation",
-   "seo": "Akashic Records Meditation and Inner Reunions",
-   "desc": "Three guided meditations of 24 to 25 minutes: the keeper of the archives, a garden of reunion and reconnecting with a departed animal.",
-   "h1": "Guided meditation: the archives, reunions and what lies beyond",
+   "seo": "Grief Meditation: Inner Reunions and the Akashic Records",
+   "desc": "Grief meditation and the Akashic Records in three guided journeys of 24 to 25 minutes: the archive keeper, a garden of reunion and a departed animal.",
+   "h1": "Guided grief meditation: the archives, reunions and what lies beyond",
    "intro": [
     "Higher Knowledge & Beyond contains three longer journeys. In The Keeper of the Archives, you learn to tell what the mind invents from what seems to arise on its own. The Garden of Reunion lets you say the words left unsaid and feel what passes from one generation to the next. My Departed Animal helps you reconnect with an animal who has passed, through everyday memories.",
     "Each session lasts 24 to 25 minutes and is marked as intermediate. They are best enjoyed when you have time and a quiet space, and they suit anyone drawn to memory, family ties and inner exploration. Emotions may come up along the way, so give yourself a calm moment afterwards before returning to your day."
@@ -368,9 +368,9 @@
   },
   "shamanic": {
    "slug": "shamanic-journey-meditation",
-   "seo": "Shamanic Journey Meditation: Guided Drum Trance",
-   "desc": "Four guided shamanic journeys of 23 to 30 minutes: vision quest, fire of the ancients, circle of protection and returning with a power object.",
-   "h1": "Guided shamanic journey meditation",
+   "seo": "Shamanic Meditation: Guided Journeys and Drum Trance",
+   "desc": "Shamanic meditation in 4 guided journeys of 23 to 30 minutes: vision quest, fire of the ancients, circle of protection and returning with a power object.",
+   "h1": "Guided shamanic meditation: the shamanic journey",
    "intro": [
     "Shamanic Trance offers four inner journeys inspired by shamanic traditions. The Vision Quest is about walking, waiting and letting what needs to be seen arrive. In The Fire of the Ancients, you watch the figures gathering by the fire without forcing a message. The Circle of Protection draws on the element that calls you, and the last journey brings you back with a power object to recognise and hold.",
     "Sessions last 23 to 30 minutes and are marked as intermediate. They suit you if you already have some experience with relaxation and want to explore deeper imaginative journeys. Lie down or sit comfortably, ideally with headphones, and let the voice lead you from the start of the journey all the way back."
@@ -411,9 +411,9 @@
   },
   "buddhist": {
    "slug": "buddhist-guided-meditation",
-   "seo": "Buddhist Guided Meditation: Bodhisattva Journeys",
-   "desc": "Eight Buddhist guided meditations of 20 to 30 minutes with Avalokiteshvara, Manjushri, Tara, Kshitigarbha, Samantabhadra and Maitreya.",
-   "h1": "Buddhist guided meditation in the footsteps of the bodhisattvas",
+   "seo": "Buddhist Meditation: Guided Bodhisattva Journeys",
+   "desc": "Eight guided Buddhist meditations of 20 to 30 minutes with Avalokiteshvara, Manjushri, Tara, Kshitigarbha, Samantabhadra and Maitreya. Free, no ads.",
+   "h1": "Guided Buddhist meditation in the footsteps of the bodhisattvas",
    "intro": [
     "Buddhist Meditations follows the great figures of the Mahayana tradition. Walk with Sudhana from teacher to teacher, meet the eleven faces of Avalokiteśvara, cut through looping thoughts with Mañjuśrī's sword, or go down with his lion into the valley of old fears. Carry Kṣitigarbha's light into the dark realms, revisit Samantabhadra's ten vows, climb up to Maitreya's garden and find a way out of eight dangers with Tārā.",
     "Sessions last 20 to 30 minutes and are marked as intermediate. They suit practitioners curious about Buddhism and anyone who enjoys meditations rich in imagery and meaning. No belief is required: each figure serves as a guide to explore a quality such as wisdom, compassion or clarity in your own life."
@@ -455,7 +455,7 @@
   "qigong": {
    "slug": "qigong-meditation",
    "seo": "Qigong Meditation: 4 Guided Sessions for Beginners",
-   "desc": "Four guided qigong meditations of 20 to 25 minutes: warming the hands, the small circulation, the still tree and qigong in motion.",
+   "desc": "Four guided qigong meditations of 20 to 25 minutes: warming the hands, the small circulation (microcosmic orbit), the still tree and qigong in motion.",
    "h1": "Guided qigong meditation",
    "intro": [
     "Sensations & Qigong turns your attention to the body in inner motion. Start by warming the hands around an imaginary ball, then follow the small circulation, a pearl descending from the belly and rising along the back. The Still Tree has you standing, arms around an imaginary ball, rooted without forcing. The last session, The Dance of Qi, brings qigong into motion until the body seems to move on its own.",
@@ -497,9 +497,9 @@
   },
   "visualisation": {
    "slug": "guided-visualization-meditation",
-   "seo": "Guided Visualization Meditation: Train Your Inner Eye",
-   "desc": "Six guided visualization meditations of 16 to 29 minutes to train your inner sight, hearing and touch, from a butterfly to a volcano summit.",
-   "h1": "Guided visualization to train your inner eye",
+   "seo": "Visualization Meditation: Train Your Inner Eye",
+   "desc": "Six guided visualization meditations of 16 to 29 minutes to train your inner sight, hearing and touch, from a butterfly to a volcano summit. Free, no ads.",
+   "h1": "Guided visualization meditation to train your inner eye",
    "intro": [
     "Visualization trains your imagination one sense at a time. Follow a butterfly's flight with your inner eye, feel the weight and coldness of a key in your open hand, or track a singing bowl approaching from afar with your inner ear. Then bring the senses together at the summit of an extinct volcano or in a spaceship cockpit, and finally rebuild a room you know by heart as the evening light falls into it.",
     "Sessions last 16 to 29 minutes and are marked as intermediate. They suit anyone who finds it hard to picture things, as well as those who want to prepare for deeper journeys. Working on one sense at a time makes progress easier, and the skills you build here carry over to the rest of the app."
@@ -540,9 +540,9 @@
   },
   "miniAdventures": {
    "slug": "guided-journey-meditation",
-   "seo": "Guided Journey Meditation: Time Travel Adventures",
-   "desc": "Four guided journey meditations of 17 to 34 minutes: Versailles in 1700, the road to Kyoto in 1600, an unknown planet and a train of memories.",
-   "h1": "Guided journey meditations: one place, one time, one story",
+   "seo": "Story Meditation: Guided Journeys and Time-Travel Adventures",
+   "desc": "Four guided story meditations of 17 to 34 minutes: Versailles in 1700, the road to Kyoto in 1600, an unknown planet and a train of memories.",
+   "h1": "Guided story meditation: one place, one time, one story",
    "intro": [
     "Mini Adventures offers a complete journey in a single session. Spend a whole day at the court of Versailles in 1700, walk the road to Kyoto in 1600 with your senses wide awake, or explore an unknown planet and notice how each question changes the way you look. The Train of Memories takes you station after station through the habits, tastes and decisions that shape a life.",
     "Sessions last 17 to 34 minutes and are marked as intermediate. They suit you if you enjoy stories, history and travel, and want a longer, immersive escape. Choose a quiet evening or a slow weekend morning, settle in comfortably, and let each scene unfold at its own calm and unhurried pace."
@@ -583,9 +583,9 @@
   },
   "thirdEye": {
    "slug": "third-eye-meditation",
-   "seo": "Third Eye Meditation: 5 Guided Sessions on Ajna",
-   "desc": "Five advanced guided third eye meditations of 22 to 26 minutes: the inner eye, the door of Ajna, spontaneous images and a self-building mandala.",
-   "h1": "Guided third eye meditation",
+   "seo": "Third Eye Chakra Meditation: 5 Guided Sessions on Ajna",
+   "desc": "Five advanced guided third eye chakra meditations of 22 to 26 minutes: the inner eye, the door of Ajna, spontaneous images and a self-building mandala.",
+   "h1": "Guided third eye chakra meditation",
    "intro": [
     "Third Eye focuses on the point between the brows. You start by feeling both physical eyes, then learn to shift from looking outward to looking inward. Other sessions let an image be born at the centre of the forehead and fade away, invite you to wait before the dark space until an image appears on its own, take you through the door of Ajna, or let a mandala keep building itself once you let go of control.",
     "Sessions last 22 to 26 minutes and are marked as advanced. They are best approached after some practice with relaxation and visualization. Start with The Third Eye and the Two Physical Eyes, which teaches the shift of attention that the other sessions build on, and take your time with each one."
@@ -626,9 +626,9 @@
   },
   "cosmic": {
    "slug": "non-dual-awareness-meditation",
-   "seo": "Non-Dual Awareness Meditation: Cosmic and Void",
-   "desc": "Two advanced guided meditations of 28 and 31 minutes: explore non-dual awareness and let your body's warmth expand into light.",
-   "h1": "Guided non-dual awareness meditation",
+   "seo": "Non-Dual Meditation and Awareness: Cosmic and Void",
+   "desc": "Non-dual meditation in two advanced guided sessions of 28 and 31 minutes: explore non-dual awareness and let your body's warmth expand into light.",
+   "h1": "Guided non-dual meditation and awareness",
    "intro": [
     "Cosmic & Void holds two advanced sessions for those who want to travel beyond the familiar. In Non-dual Awareness, you look for where inside ends and outside begins, then gently turn toward the one who perceives. In Light Body Expansion, you start from the simple warmth of your body and let it grow into a light that reaches beyond the skin and into the space around you.",
     "The sessions last 28 and 31 minutes and are marked as advanced. They suit experienced meditators looking for a sense of vastness and open awareness. Set aside a quiet half hour, sit or lie down comfortably, and let the questions do their work without trying to reach a particular state."
@@ -669,8 +669,8 @@
   },
   "trance": {
    "slug": "guided-trance-meditation",
-   "seo": "Guided Trance Meditation: Waking Dreams and Spirals",
-   "desc": "Seven guided trance meditations of 20 to 32 minutes: body asleep and mind awake, a 33-level spiral, a waking dream and your future self.",
+   "seo": "Trance Meditation: Guided Waking Dreams and Spirals",
+   "desc": "Seven guided trance meditations of 20 to 32 minutes: body asleep and mind awake, a 33-level spiral, a waking dream and your future self. Free, no ads.",
    "h1": "Guided trance meditation and altered states",
    "intro": [
     "Consciousness & Trance explores the borders of ordinary awareness. In Body Asleep, Mind Awake, you watch the threshold of sleep while staying aware. You can descend a 33-level spiral, wander an infinite library while staying connected to your body, or explore an attic of forgotten objects. Other sessions offer a directed waking dream, a rest in the space between two thoughts, and a meeting with your future self.",
@@ -712,8 +712,8 @@
   },
   "tranceTechniques": {
    "slug": "deep-trance-journey-techniques",
-   "seo": "Deep Trance Journeys: Guided Techniques",
-   "desc": "Advanced guided trance journeys of 16 to 30 minutes: progressive descent, lower and upper worlds, past lives, the soul contract and more.",
+   "seo": "Deep Trance Meditation: Guided Journeys and Techniques",
+   "desc": "Advanced guided deep trance journeys of 16 to 30 minutes: progressive descent, lower and upper worlds, past lives, the soul contract and more.",
    "h1": "Guided deep trance journeys and techniques",
    "intro": [
     "Trances & Techniques gathers advanced trance journeys. Learn to go down into trance in stages with brief returns to the surface, follow an animal to the lower world to the sound of the drum, or rise through wind and light to the upper world. Other sessions travel up your family line, reread your soul contract, open the corridor of a thousand doors onto other eras, and borrow a quality from a craftsperson of long ago.",
@@ -755,9 +755,9 @@
   },
   "astralMicroDetach": {
    "slug": "astral-projection-exercises",
-   "seo": "Astral Projection Exercises: 5 Guided Micro-Steps",
-   "desc": "Five guided astral projection exercises of 16 to 20 minutes to practise before a full exit: ceiling magnet, tiny shift, the slide and more.",
-   "h1": "Guided astral projection exercises: first steps in detachment",
+   "seo": "Astral Projection for Beginners: 5 Guided Exercises",
+   "desc": "Astral projection for beginners in 5 guided exercises of 16 to 20 minutes to practice before a full exit: ceiling magnet, tiny shift, the slide and more.",
+   "h1": "Astral projection for beginners: guided first steps in detachment",
    "intro": [
     "Micro-Detachment breaks astral projection down into five small gestures to practise before attempting a full exit. Feel the body's weight and a gentle pull toward the ceiling, shift the outline of your body by a few centimetres, move your point of view to just behind your head, slide down an imaginary slope, and rehearse sitting up in your mind until it feels almost real.",
     "Sessions last 16 to 20 minutes and are marked as advanced. Practise them before the Astral Projection category: each one trains a specific sensation you will meet again in the longer protocols. Short, regular practice usually works better than long sessions spaced far apart, so take them one at a time."
@@ -799,8 +799,8 @@
   "astralJourneys": {
    "slug": "guided-astral-projection-meditation",
    "seo": "Guided Astral Projection Meditation: 11 Techniques",
-   "desc": "Eleven guided astral projection meditations of 16 to 41 minutes: floating, rope technique, imaginary fall, target, encounter and the double.",
-   "h1": "Guided astral projection meditation",
+   "desc": "Eleven guided astral projection meditations of 16 to 41 minutes: floating, rope technique, imaginary fall, target, encounter and the double. Free, no ads.",
+   "h1": "Guided astral projection meditation and astral travel",
    "intro": [
     "Astral Projection brings together eleven exit protocols. Some work with lightness, like floating toward the ceiling or rising up by pivoting at the pelvis. Others use classic techniques such as the rope, the imaginary fall or inner limbs. You will also find sessions to move and see in the astral, visualize your double, approach a sensed presence and note what you perceive of a target before checking it.",
     "Sessions last 16 to 41 minutes and are marked as advanced. If you are just starting, practise the Micro-Detachment exercises first. Choose a time when your body is deeply relaxed and you will not be disturbed, and approach each protocol with curiosity rather than expectations about the result."
@@ -858,129 +858,129 @@
  "worlds": {
   "antiqueTemple": {
    "slug": "ancient-temple-guided-visualization",
-   "seo": "Ancient Temple Guided Visualization: Candles and Rain",
-   "desc": "Climb through mountain mist to a candlelit temple among giant stone Buddhas. An immersive guided meditation of 19 minutes to feel grounded.",
-   "h1": "The Ancient Temple: an immersive guided meditation",
+   "seo": "Temple Meditation: Guided Visualization, Candles and Rain",
+   "desc": "A temple meditation in the mountain mist: climb worn steps to candlelight and giant stone Buddhas. A 19-minute guided meditation to feel grounded.",
+   "h1": "The Ancient Temple: an immersive Buddhist temple meditation",
    "lead": "Climb a misty mountain path behind a nine-tailed white fox, all the way to a temple of candlelight and stone Buddhas. There, a masked guardian waits with a small candle, and a red door opens onto a landscape that belongs only to you."
   },
   "cosmicTemple": {
    "slug": "cosmic-temple-guided-meditation",
-   "seo": "Cosmic Temple Guided Meditation with a Celestial Whale",
-   "desc": "Rise to a white marble temple floating among the stars, past rivers of golden light. An immersive guided meditation of 13 minutes.",
-   "h1": "The Cosmic Temple: an immersive guided meditation",
+   "seo": "Cosmic Meditation: Guided Journey with a Celestial Whale",
+   "desc": "In this cosmic meditation, ride a celestial whale to a white marble temple among the stars, past rivers of golden light. Immersive and guided, 13 minutes.",
+   "h1": "The Cosmic Temple: an immersive cosmic meditation",
    "lead": "Ride on the back of a celestial whale to a white marble temple floating among the stars. Inside, you watch a distant world's story begin and a star being born right beneath your feet."
   },
   "crystalCave": {
    "slug": "crystal-cave-guided-visualization",
-   "seo": "Crystal Cave Guided Visualization: Light and Clarity",
-   "desc": "Descend into a cavern of glowing crystals and mirror-still pools for clarity and renewal. An immersive guided meditation of 17 minutes.",
-   "h1": "The Infinite Crystal Cave: an immersive guided meditation",
+   "seo": "Crystal Meditation: Guided Cave Visualization for Clarity",
+   "desc": "In this crystal meditation, descend into a cavern of glowing crystals and mirror-still pools for clarity and renewal. Immersive and guided, 17 minutes.",
+   "h1": "The Infinite Crystal Cave: an immersive crystal meditation",
    "lead": "Slip through a crack in the rock into a cavern of glowing crystals, where a crystal-winged butterfly shows you the way. A singing mermaid, a sleepy little dragon and a tiny glowing city wait deeper inside."
   },
   "galaxy": {
    "slug": "galaxy-guided-meditation",
-   "seo": "Galaxy Guided Meditation: A Train of Light to the Stars",
-   "desc": "Board a silent train of light past Saturn's icy rings, shooting stars and a night market. A free 19-minute guided meditation that works offline.",
-   "h1": "Journey Through the Galaxy: an immersive guided meditation",
+   "seo": "Space Meditation: A Train of Light Through the Galaxy",
+   "desc": "In this space meditation, board a silent train of light past Saturn's icy rings, shooting stars and a night market. Free, 19 minutes, works offline.",
+   "h1": "Journey Through the Galaxy: an immersive space meditation",
    "lead": "Climb aboard a silent train of light and travel through Saturn's icy rings, a shower of shooting stars and a night market on an asteroid. A guide rides beside you, out to the far edge of the galaxy."
   },
   "earthCore": {
    "slug": "grounding-earth-guided-visualization",
    "seo": "Grounding Meditation: Journey to the Earth's Core",
-   "desc": "Descend through crystal caverns and rivers of warm light to the heart of the planet. An immersive grounding meditation of 15 minutes.",
+   "desc": "In this grounding meditation, descend through crystal caverns and rivers of warm light to the heart of the planet. Immersive and guided, 15 minutes.",
    "h1": "The Heart of the Earth: an immersive grounding meditation",
    "lead": "Follow warm rivers of light deep underground, into a hollow land with a gentle sun of its own. There, among giant ferns and glowing flowers, an amber egg is waiting to hatch in your hands."
   },
   "antarcticBase": {
    "slug": "frozen-sanctuary-guided-meditation",
-   "seo": "Frozen Sanctuary: Silent Guided Meditation Under the Ice",
-   "desc": "Follow a glowing polar fox beneath the Antarctic ice to a crystal heart, frost flowers and the aurora. A free 15-minute guided meditation, offline.",
-   "h1": "The Frozen Sanctuary: an immersive guided meditation",
+   "seo": "Winter Meditation: A Silent Frozen Sanctuary Under the Ice",
+   "desc": "A winter meditation beneath the Antarctic ice: follow a glowing polar fox to a crystal heart, frost flowers and the aurora. Free, 15 minutes, offline.",
+   "h1": "The Frozen Sanctuary: an immersive guided winter meditation",
    "lead": "Sink through ancient layers of ice to a sanctuary older than memory, where a glowing polar fox shows you the way. Frost flowers, a beating crystal heart and an aurora await, before you step out under the open polar sky."
   },
   "skyIsland": {
    "slug": "floating-island-guided-visualization",
-   "seo": "Floating Island Guided Visualization Above the Clouds",
-   "desc": "Rest on your own island above the clouds, with floating waterfalls, an ancient tree and a warm sunset. An immersive guided meditation of 19 minutes.",
-   "h1": "The Floating Island: an immersive guided meditation",
+   "seo": "Floating Meditation: Island Visualization Above the Clouds",
+   "desc": "A guided floating meditation above the clouds: rest on your own island, with waterfalls in the sky, an ancient tree and a warm sunset. 19 minutes.",
+   "h1": "The Floating Island: a floating meditation above the clouds",
    "lead": "Cross a bridge of clouds to a green island that is yours alone, high above the world. Ride a great white bird, meet the winged stag who guards it, and send a shining seed into the night to start a tiny island."
   },
   "zenGarden": {
    "slug": "zen-garden-guided-meditation",
-   "seo": "Zen Garden Guided Meditation: Koi, Tea and Cherry Blossoms",
-   "desc": "Walk slow stone paths under cherry blossoms, past koi ponds and raked sand, in perfect calm. An immersive guided meditation of 18 minutes.",
-   "h1": "The Zen Garden: an immersive guided meditation",
+   "seo": "Zen Garden Meditation: Koi, Tea and Cherry Blossoms",
+   "desc": "Walk slow stone paths under cherry blossoms, past koi ponds and raked sand: a Zen garden meditation in perfect calm. Immersive and guided, 18 minutes.",
+   "h1": "Zen garden meditation: an immersive walk through a Japanese garden",
    "lead": "Enter a quiet Japanese garden still fresh from the rain, where a cherry tree bursts into bloom and koi glide under a wooden bridge. An old gardener shares his tea, and stone lanterns light your way back at dusk."
   },
   "atlantis": {
    "slug": "atlantis-underwater-guided-meditation",
-   "seo": "Underwater Atlantis Guided Meditation: Ride a Seahorse",
-   "desc": "Breathe underwater and ride a golden seahorse through a lost city of coral and pale temples. A free 17-minute guided meditation that works offline.",
-   "h1": "Underwater Atlantis: an immersive guided meditation",
+   "seo": "Underwater Meditation: A Guided Seahorse Ride to Atlantis",
+   "desc": "An underwater meditation in Atlantis: breathe freely and ride a golden seahorse through a lost city of coral and pale temples. Free, 17 minutes, offline.",
+   "h1": "Underwater Atlantis: an immersive underwater meditation",
    "lead": "Sink gently into a warm sea, breathe freely underwater and ride a golden seahorse through a lost city of coral towers. Kind hosts welcome you, and a pearl keeps one of your memories as the whole city lights up."
   },
   "himalayanMonastery": {
    "slug": "himalayan-monastery-sunrise-meditation",
-   "seo": "Himalayan Monastery Sunrise Meditation with Prayer Flags",
-   "desc": "Stand among snowy peaks as the first golden light breaks and prayer flags move in the wind. An immersive guided meditation of 18 minutes.",
-   "h1": "Monastery at Sunrise: an immersive guided meditation",
+   "seo": "Mountain Meditation: Himalayan Monastery at Sunrise",
+   "desc": "A mountain meditation at sunrise: stand among snowy peaks as the first golden light breaks and prayer flags move in the wind. Guided, 18 minutes.",
+   "h1": "Monastery at Sunrise: an immersive Himalayan mountain meditation",
    "lead": "Arrive at a mountain monastery before dawn, where an old monk lights the way with a butter lamp. Turn a prayer wheel, drink his tea on the balcony, then watch the sun rise over snowy peaks."
   },
   "celestialLibrary": {
    "slug": "celestial-library-guided-meditation",
-   "seo": "Celestial Library Guided Meditation Beneath the Stars",
-   "desc": "Wander an endless library of glowing books and spiral staircases beneath moving constellations. An immersive guided meditation of 13 minutes.",
-   "h1": "The Celestial Library: an immersive guided meditation",
+   "seo": "Akashic Library Guided Meditation Beneath the Stars",
+   "desc": "Wander an endless akashic library of glowing books and spiral staircases beneath moving constellations. An immersive guided meditation of 13 minutes.",
+   "h1": "The Celestial Library: an immersive akashic library meditation",
    "lead": "Step through a great wooden door into an endless library lit by floating candles, where books glide down to any reader who raises a hand. A salamander of golden light keeps you company as two books open for you."
   },
   "desertOasis": {
    "slug": "desert-oasis-guided-visualization",
-   "seo": "Desert Oasis Guided Visualization by Moonlight",
-   "desc": "Sit by glowing water under an immense moon and a sky full of stars, in stillness and solitude. An immersive guided meditation of 13 minutes.",
-   "h1": "The Desert Oasis: an immersive guided meditation",
+   "seo": "Oasis Meditation: Guided Desert Visualization by Moonlight",
+   "desc": "An oasis meditation by moonlight: sit by glowing water under an immense moon and a sky full of stars, in stillness and solitude. Guided, 13 minutes.",
+   "h1": "The Desert Oasis: an immersive oasis meditation",
    "lead": "Walk the dunes at sunset, then ride a white camel beside a spirit of golden sand. At the oasis, a night market, a lamp full of butterflies and a garden hidden beneath the pool are waiting for you."
   },
   "treeOfConsciousness": {
    "slug": "tree-of-life-guided-meditation",
-   "seo": "Tree of Life Guided Meditation in a Glowing Night Forest",
-   "desc": "Sit among the roots of a vast glowing tree whose branches hold the stars, and feel connected to all of life. An immersive meditation of 18 minutes.",
-   "h1": "The Tree of Consciousness: an immersive guided meditation",
+   "seo": "Tree of Life Meditation in a Glowing Night Forest",
+   "desc": "In this tree of life meditation, sit among the roots of a vast glowing tree whose branches hold the stars, and feel connected to all of life. 18 minutes.",
+   "h1": "The Tree of Consciousness: an immersive tree of life meditation",
    "lead": "Wander a forest that glows in the dark until you reach a vast tree joining the earth and the stars. Its guardian of wood and moss lets you feel every life beating, then a single leaf opens onto a gentle little world."
   },
   "jungleRuins": {
    "slug": "jungle-ruins-guided-visualization",
-   "seo": "Jungle Ruins Guided Visualization of a Lost City",
-   "desc": "Explore an overgrown temple in the jungle, where waterfalls pour through old stone and symbols glow. An immersive guided meditation of 18 minutes.",
-   "h1": "The Forgotten Ruins: an immersive guided meditation",
+   "seo": "Jungle Meditation: Guided Visualization of a Lost City",
+   "desc": "In this jungle meditation, explore an overgrown temple where waterfalls pour through old stone and symbols glow. Immersive and guided, 18 minutes.",
+   "h1": "The Forgotten Ruins: an immersive jungle meditation",
    "lead": "Watch the mist lift from a city lost beneath the jungle, then follow a little monkey of light through its ruins. You dive to an older city under the water and see a tree spring from the seed you plant."
   },
   "mushroomForest": {
    "slug": "enchanted-forest-guided-meditation",
-   "seo": "Enchanted Forest Guided Meditation with Glowing Mushrooms",
-   "desc": "Wander a soft, glowing forest of giant mushrooms, drifting spores and rivers of light. A dreamlike immersive guided meditation of 17 minutes.",
-   "h1": "The Dream Forest: an immersive guided meditation",
+   "seo": "Forest Meditation: An Enchanted Wood of Glowing Mushrooms",
+   "desc": "A dreamlike forest meditation: wander among giant glowing mushrooms, drifting spores and rivers of light. An immersive guided meditation of 17 minutes.",
+   "h1": "The Dream Forest: an immersive enchanted forest meditation",
    "lead": "Find yourself inside a dream, in a forest of giant mushrooms that glow like blue lamps. Pick a tiny galaxy from a silver tree, follow butterflies of light and float above it all on a gentle octopus."
   },
   "mirrorDimension": {
    "slug": "mirror-dimension-guided-meditation",
-   "seo": "Mirror Dimension: Guided Awareness Meditation",
-   "desc": "Float in a luminous space of endless mirrors and soft white light, and rest as the calm witness. An immersive guided meditation of 16 minutes.",
-   "h1": "The Mirror Dimension: an immersive guided meditation",
+   "seo": "Self-Awareness Meditation in the Mirror Dimension",
+   "desc": "A self-awareness meditation in a luminous space of endless mirrors and soft white light: rest as the calm witness. Immersive and guided, 16 minutes.",
+   "h1": "The Mirror Dimension: an immersive self-awareness meditation",
    "lead": "Drift weightless through white light and countless mirrors, until one of them shows an animal guide instead of your face. Together you pass through small dreamlike worlds, then come back to the quiet awareness behind every reflection."
   },
   "wolfForest": {
    "slug": "wolf-spirit-guided-meditation",
-   "seo": "Wolf Spirit Guided Meditation Under the Northern Lights",
-   "desc": "Walk a snowy pine forest under the northern lights, watched over by gentle wolf spirits. An immersive guided meditation of 15 minutes.",
-   "h1": "The Wolf Spirit Forest: an immersive guided meditation",
+   "seo": "Wolf Meditation: Wolf Spirits Under the Northern Lights",
+   "desc": "In this wolf meditation, walk a snowy pine forest under the northern lights, watched over by gentle wolf spirits. Immersive and guided, 15 minutes.",
+   "h1": "The Wolf Spirit Forest: an immersive guided wolf meditation",
    "lead": "Step into a moonlit pine forest where a wolf made of stars leads you to its pack. Run with them until you become a wolf yourself, howl at an enormous moon and cross a bridge of northern lights."
   }
  },
  "teams": {
   "slug": "meditation-app-for-teams",
-  "seo": "Meditation App for Teams: Free for the Workplace",
-  "desc": "Offer your team a free meditation app: no account, no data collected, works offline, in English, French and Spanish. Nothing to deploy or manage.",
-  "h1": "A free meditation app for your team and workplace",
+  "seo": "Workplace Meditation: A Free Meditation App for Teams",
+  "desc": "Offer your team workplace meditation with a free app: no account, no data collected, works offline, in English, French and Spanish. Nothing to deploy.",
+  "h1": "Workplace meditation: a free meditation app for your team",
   "sections": [
    {
     "h2": "A meditation app you can offer your whole team",

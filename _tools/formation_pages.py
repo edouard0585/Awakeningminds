@@ -31,10 +31,10 @@ def lieux(v):
 def desc(v):
     fin = 'Pour apprendre seul : une application gratuite, sans abonnement.'
     if v.get('local'):
-        return f"Formation et ateliers de méditation {v['a']}, dans vos locaux ou à distance. {fin}"
+        return f"Méditation {v['a']} : formation et ateliers, dans vos locaux ou à distance. {fin}"
     if v['pays'] == 'France':
-        return f"Formation et ateliers de méditation {v['a']}, en entreprise, à distance ou sur site. {fin}"
-    return f"Formation et ateliers de méditation {v['a']}, à distance ou sur site sur demande. {fin}"
+        return f"Méditation {v['a']} : formation et ateliers en entreprise, à distance ou sur site. {fin}"
+    return f"Méditation {v['a']} : formation et ateliers, à distance ou sur site sur demande. {fin}"
 
 
 def form(ap, sujet):
@@ -77,8 +77,9 @@ def build(bb, ap):
     # --- une page par ville
     for i, v in enumerate(villes):
         path = f'{base}{v["slug"]}.html'
-        titre = f'Formation méditation {v["nom"]} : ateliers et app gratuite'
-        h1 = f'Formation méditation {v["a"]} : ateliers en entreprise et pratique gratuite'
+        titre = f'Méditation {v["a"]} : formation, ateliers et app gratuite'
+        if len(titre) > 60: titre = f'Méditation {v["a"]} : formation, ateliers, app gratuite'
+        h1 = f'Méditation {v["a"]} : formation, ateliers en entreprise et pratique gratuite'
         d = desc(v)
         bc = [(t['home'], '/fr/'), ('Formations à la méditation', base), (v['nom'], None)]
         q = [v['faq'],
