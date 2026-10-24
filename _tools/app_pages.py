@@ -215,8 +215,9 @@ def header(lang, here, alt_of):
     t = L[lang]
     lg = ''.join(f'<a href="{alt_of(x)}" class="{"on" if x == lang else ""}">{x.upper()}</a>' for x in LANGS)
     return (f'<header><div class="wrap"><a href="/{lang}/" class="b">← {E(t["home"])}</a>'
-            f'<a href="{u(lang, "med")}">{E(t["med"])}</a><a href="/{lang}/blog/">{E(t["blog"])}</a>'
-            f'<div class="lg">{lg}</div></div></header>')
+            f'<a href="{u(lang, "med")}" class="hx">{E(t["med"])}</a><a href="/{lang}/blog/" class="hx">{E(t["blog"])}</a>'
+            + piliers.menu_html(lang, here, [(t['med'], u(lang, 'med')), (t['blog'], f'/{lang}/blog/')])   # 24-10 : les 9 pages piliers dans le menu principal
+            + f'<div class="lg">{lg}</div></div></header>' + piliers.MENU_JS)
 
 
 def media_key(img):

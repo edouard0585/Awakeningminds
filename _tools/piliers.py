@@ -487,10 +487,10 @@ def render(ap, bb, lang, key, D, cat, P):
     bc = [(t['home'], f'/{lang}/'), (t['worlds'] if key == 'mondes' else lb['short'][key], None)]
     faq = [tuple(q) for q in s.get('faq', [])]
     body = (f'<div class="pl" style="--acc-rgb:{c["acc"]}">' + ap.crumbs(lang, bc)
-            + f'<header class="pl-hero"><div class="pl-ht"><p class="pl-eye"><span aria-hidden="true">✦</span>{E(s.get("eyebrow", ""))}</p>'
+            + f'<div class="pl-hero"><div class="pl-ht"><p class="pl-eye"><span aria-hidden="true">✦</span>{E(s.get("eyebrow", ""))}</p>'
             f'<h1>{E(s["h1"])}</h1><p class="pl-lead">{rich(s.get("lead", ""))}</p><ul class="pl-facts">{facts(ap, lang, key, cat)}</ul>'
             f'<p class="pl-cta"><a class="b1" href="/{lang}/#download">✦ {E(lb["practice"])}</a><a class="b2" href="#definition">{E(lb["read_def"])} ↓</a></p></div>'
-            f'<figure class="pl-arch">{tag}</figure></header>'
+            f'<figure class="pl-arch">{tag}</figure></div>'
             f'<div class="pl-body"><nav class="pl-toc" aria-label="{E(lb["toc"])}"><b>{E(lb["toc"])}</b><ol>'
             + ''.join(f'<li><a href="#{E(i)}">{E(n)}</a></li>' for i, n in toc) + '</ol></nav>'
             f'<article class="pl-art"><section id="definition" class="pl-def"><h2>{E(lb["defl"])}</h2><p>{rich(s.get("def", ""))}</p></section>'
@@ -548,6 +548,59 @@ def links_li(ap, lang, keys):
     """<li> vers les pages piliers demandées (pour les autres pages du site)."""
     D = charge(lang)
     return ''.join(f'<li><a href="{path(ap, lang, k, D)}">{E(LBL[lang]["short"][k])}</a></li>' for k in keys if k in D)
+
+
+MENU_L = {'fr': ('Guides', 'Les guides complets'), 'en': ('Guides', 'In-depth guides'), 'es': ('Guías', 'Guías completas')}
+
+
+def menu_html(lang, current=None, extra=()):
+    """Entrée « Guides » du menu principal (24-10) : panneau des 9 pages piliers, même rendu sur tout le site.
+    extra = [(libellé, adresse)] : liens de l'en-tête repris dans le panneau sur téléphone (l'entrée s'appelle alors « Menu »)."""
+    D = charge(lang)
+    if not D: return ''
+    from types import SimpleNamespace
+    W = SimpleNamespace(u=lambda l, kind, slug=None: f'/{l}/' + {'fr': 'mondes', 'en': 'worlds', 'es': 'mundos'}[l] + '/')
+    li = ''
+    for k in ORDRE:
+        if k not in D: continue
+        h = path(W, lang, k, D)
+        cur = ' aria-current="page"' if current and current in (h, h + 'index.html') else ''
+        li += f'<li><a href="{h}" style="--acc-rgb:{CFG[k]["acc"]}"{cur}><i aria-hidden="true"></i>{E(LBL[lang]["short"][k])}</a></li>'
+    t, tt = MENU_L[lang]
+    x = ''.join(f'<li><a href="{h}">{E(n)}</a></li>' for n, h in extra)
+    lab = f'<span class="mnu-d">{E(t)}</span><span class="mnu-m">Menu</span>' if extra else E(t)
+    return (f'<details class="mnu"><summary>{lab}</summary><div class="mnu-p"><div class="mnu-in">'
+            + (f'<ul class="mnu-x">{x}</ul>' if x else '')
+            + f'<b class="mnu-t">{E(tt)}</b><ul>{li}</ul></div></div></details>')
+
+
+MENU_JS = ('<script>(function(){var d=document.querySelectorAll("details.mnu");if(!d.length)return;'
+           'document.addEventListener("click",function(e){d.forEach(function(x){if(x.open&&!x.contains(e.target))x.open=false})});'
+           'document.addEventListener("keydown",function(e){if(e.key==="Escape")d.forEach(function(x){x.open=false})})})();</script>')
+
+MENU_CSS = """
+details.mnu{border:0;border-radius:0;background:none;margin:0;padding:0}
+details.mnu>summary{padding:0;font-family:'Cormorant Garamond',Georgia,serif;font-size:17px;color:var(--ink)}
+@media(max-width:600px){details.mnu>summary{font-size:15px}}
+.mnu summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:7px;white-space:nowrap}
+.mnu summary::-webkit-details-marker{display:none}
+.mnu summary::after{content:"";width:6px;height:6px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:translateY(-2px) rotate(45deg);opacity:.7;transition:transform .2s}
+.mnu[open] summary{color:var(--gold)}.mnu[open] summary::after{transform:translateY(1px) rotate(-135deg)}
+.mnu summary:focus-visible{outline:2px solid var(--gold);outline-offset:4px;border-radius:4px}
+.mnu .mnu-p{position:absolute;left:0;right:0;top:100%;background:#0c0c18;border-bottom:1px solid var(--line);box-shadow:0 30px 60px -24px rgba(0,0,0,.85);padding:18px 20px 22px;z-index:60}
+.mnu .mnu-in{max-width:1100px;margin:0 auto}
+.mnu .mnu-t{display:block;font:600 11px/1 'Avenir Next','Segoe UI',system-ui,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin:0 0 10px 10px}
+.mnu .mnu-p ul{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:2px 18px}
+.mnu .mnu-p a{display:flex;align-items:center;gap:11px;padding:9px 10px;border-radius:12px;color:var(--ink);text-decoration:none;font:500 19px/1.2 'Cormorant Garamond',Georgia,serif;white-space:normal}
+.mnu .mnu-p a:hover,.mnu .mnu-p a:focus-visible{background:rgba(255,255,255,.05);color:#fff}
+.mnu .mnu-p a[aria-current]{color:var(--gold)}
+.mnu .mnu-p a i{flex:0 0 9px;width:9px;height:9px;border-radius:50%;background:rgb(var(--acc-rgb));box-shadow:0 0 10px rgba(var(--acc-rgb),.7)}
+@media(max-width:600px){.mnu .mnu-p ul{grid-template-columns:1fr 1fr}.mnu .mnu-p a{font-size:17px;padding:8px}}
+.mnu .mnu-m,.mnu .mnu-x{display:none}
+@media(max-width:600px){header .hx{display:none}.mnu .mnu-d{display:none}.mnu .mnu-m{display:inline}
+ .mnu .mnu-p ul.mnu-x{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 14px;padding:0 0 14px;border-bottom:1px solid var(--line)}
+ .mnu .mnu-p .mnu-x a{font:600 14px/1 'Avenir Next',sans-serif;border:1px solid var(--line);border-radius:99px;padding:9px 14px}}
+"""
 
 
 def cat_piliers(cid):

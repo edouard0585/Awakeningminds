@@ -239,6 +239,8 @@ footer .wrap{padding:22px 20px;color:var(--dim);font-size:14px;font-family:'Aven
 footer a{color:var(--muted)}
 """
 
+CSS += app_pages.piliers.MENU_CSS   # 24-10 : menu « Guides » (pages piliers), partagé par le blog et les pages de l’application
+
 # Mise en page éditoriale des articles (classe .post sur <article>) et de l'index (.bidx).
 # Portée limitée à ces classes : les pages de l'application et des formations ne changent pas.
 POST_CSS = """
@@ -466,7 +468,8 @@ def head(lang, title, desc, path_of, canonical, image, extra_ld='', kw='', img_a
 def header_html(lang, blog_path_of):
     t = T[lang]
     lg = ''.join(f'<a href="{blog_path_of(x)}" class="{"on" if x == lang else ""}">{x.upper()}</a>' for x in LANGS)
-    return f'<header><div class="wrap"><a href="../" class="b">{E(t["back"])}</a><a href="./">{E(t["blog"])}</a><div class="lg">{lg}</div></div></header>'
+    mnu = app_pages.piliers.menu_html(lang, extra=[(t['blog'], f'/{lang}/blog/')])   # 24-10 : les 9 pages piliers dans le menu principal
+    return f'<header><div class="wrap"><a href="../" class="b">{E(t["back"])}</a><a href="./" class="hx">{E(t["blog"])}</a>{mnu}<div class="lg">{lg}</div></div></header>' + app_pages.piliers.MENU_JS
 
 def footer_html(lang):
     villes = '<a href="/fr/formation-meditation/">Formations par ville</a>' if lang == 'fr' else ''
