@@ -1,4 +1,4 @@
-"""Liens vers les comptes MeditaDream sur les réseaux sociaux (liste validée par Edouard le 15-10-2026).
+"""Liens vers les comptes MeditaDream sur les réseaux sociaux (liste validée par Edouard le 15-10-2026 ; fiche Google ajoutée le 30-10-2026).
 Pages fr : comptes français ; pages en et es : comptes anglais (pas de comptes en espagnol).
 Appelé par seo_medias.py (passe finale de build_site.py et de blog_build.py) : icônes en bas de chaque page
 d'une langue et sameAs dans l'Organization du JSON-LD. Pictogrammes : Simple Icons (CC0)."""
@@ -10,7 +10,7 @@ RESEAUX = {
         ('Instagram', 'https://www.instagram.com/meditadream_france/'),
         ('TikTok', 'https://www.tiktok.com/@meditadream_france'),
         ('LinkedIn', 'https://www.linkedin.com/company/meditadream'),
-        ('Google', None),   # fiche Google de MeditaDream : lien à recevoir d'Edouard
+        ('Google', 'https://g.page/r/Cbus8rdQ2wVZEBM/'),   # fiche Google (Edouard, 30-10-2026)
     ],
     'en': [
         ('Facebook', 'https://www.facebook.com/profile.php?id=61594839658057'),
