@@ -140,7 +140,73 @@
      "The Oracle",
      "Describe how you feel right now; the Oracle suggests three meditations suited to that feeling."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "A Relaxing Bedtime Routine to Help You Fall Asleep Faster",
+    "intro": "Over three weeks, you build a night routine for better sleep, one small step at a time. It’s for anyone who lies awake with a busy mind, even if you’ve never meditated. You start with wind-downs of three or four minutes, learn to release your body and quiet your thoughts, then end with sleep meditations that don’t wake you. Plan 3 to 30 minutes each night.",
+    "duree": "21 days",
+    "rythme": "3 to 30 min each night",
+    "etapes": [
+     {
+      "periode": "Days 1 to 5",
+      "titre": "Give your evening a clear ending",
+      "texte": "A routine works through repetition, so begin with a simple cue that tells your body the day is over. Choose the voice and pace you like best, then play Precise Gratitude or Your Instant Refuge each evening. One ends your day on something you enjoyed, the other in a reassuring place. Short is fine: the cue is what counts.",
+      "seances": [
+       "4minut03",
+       "4minut01"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Every evening at the same time, dim the lights, sit on your bed and play one short session before lying down.",
+      "repere": "You’re ready when this little ritual feels natural and your evenings start to have a calm, clear ending."
+     },
+     {
+      "periode": "Days 6 to 10",
+      "titre": "Release the tension of the day",
+      "texte": "Now your routine moves into bed. Lights off, lying down, let Body Scan — Mapping the Body from Within guide your attention region by region. On the other nights, Breathing with the Whole Body lets each breath spread far beyond your lungs. You’re not trying to fall asleep yet. You’re learning to find tension, in the jaw, shoulders or belly, and let some of it go.",
+      "seances": [
+       "appren01",
+       "corps01"
+      ],
+      "fonctions": [
+       "Écoute hors ligne"
+      ],
+      "geste": "In bed, lights off, alternate the two sessions night after night, with the sessions downloaded and your phone in airplane mode.",
+      "repere": "You’re ready when you can spot a tight area in your body and soften it a little on your own."
+     },
+     {
+      "periode": "Days 11 to 15",
+      "titre": "Quiet a racing mind",
+      "texte": "Some nights your body is ready, but your mind keeps going. This stage gives your thoughts something gentle to follow. Hearing — the Distant Singing Bowl rests your attention on a single sound, and The Body Under a Waterfall turns letting go into a soothing image of water. If a worry won’t leave, write it down first: once it’s on paper, it can wait until morning.",
+      "seances": [
+       "visual04",
+       "corps05"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Before lights out, write one line in your Emotional Journal about what’s on your mind, then play one of this stage’s sessions.",
+      "repere": "You’re ready when a passing thought no longer carries you away, and coming back to the sound or the water feels easy."
+     },
+     {
+      "periode": "Days 16 to 21",
+      "titre": "Let sleep come on its own",
+      "texte": "Now put the pieces together: your short cue, a line in your journal, then a sleep meditation made for bed. Drifting into Sleep and Sleep Journey end with no wake-up, so there’s nothing to finish and no goal to reach. When you’d rather hear no voice, let sleep sounds fade out on the timer instead.",
+      "seances": [
+       "corpsc03",
+       "reves02"
+      ],
+      "fonctions": [
+       "Minuteur et fondu sonore",
+       "Sons d’ambiance"
+      ],
+      "geste": "Keep the same bedtime all week, weekends included: your cue first, then lights off and one sleep meditation or sleep sounds.",
+      "repere": "The routine is yours when it runs almost on its own, and some nights you no longer hear the end of the session."
+     }
+    ],
+    "apres": "Keep the steps that work for you as your sleep routine, and repeat the full 21 days after a hectic week. On calm evenings, visit The Dream Forest."
+   }
   },
   "02": {
    "slug": "stress-relief",
@@ -297,7 +363,70 @@
      "Alarm and reminders",
      "Set a reminder every day or on chosen days to help build a regular habit."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "A 4-Week Daily Meditation Plan for Stress Relief",
+    "intro": "This daily meditation plan is for busy people who feel stress building up through the day. Over four weeks, you move from 4-minute breaks to breathing exercises and slow qigong, one habit at a time. Plan 3 to 30 minutes a day. Short sessions count: coming back every day matters more than sitting for a long time.",
+    "duree": "4 weeks",
+    "rythme": "3 to 30 min a day",
+    "etapes": [
+     {
+      "periode": "Week 1",
+      "titre": "Take a 4-minute break every day",
+      "texte": "Start with the smallest habit that can work. Pick the moment your day usually speeds up and give it a few minutes. When Everything Moves Too Fast brings you back to one object, the ground and your breath, and Relax Very Quickly releases your body from forehead to feet. This week isn’t about deep calm. It’s about remembering to stop.",
+      "seances": [
+       "4minut05",
+       "4minut04"
+      ],
+      "fonctions": [
+       "Alarme et rappels"
+      ],
+      "geste": "Set a daily reminder for your busiest hour, like late morning, and take your break right where you are, eyes open.",
+      "repere": "You’re ready when you take your break even without the reminder, or notice stress rising before it peaks."
+     },
+     {
+      "periode": "Week 2",
+      "titre": "Train your attention to come back",
+      "texte": "A stressed mind races ahead to what might go wrong. This week, add one longer session each morning and keep your 4-minute break. Stabilizing Attention on the Breath — Ariadne’s Thread teaches you to come back each time you drift, and Observing Thoughts — Watching the Trains Go by helps you let worries pass instead of chasing them.",
+      "seances": [
+       "appren02",
+       "appren05"
+      ],
+      "fonctions": [],
+      "geste": "Each morning, before you check your phone, sit in the same chair for one 13- or 15-minute session.",
+      "repere": "You’re ready when you notice your mind spinning and can return to the breath without getting annoyed with yourself."
+     },
+     {
+      "periode": "Week 3",
+      "titre": "Breathe your way back to calm",
+      "texte": "With steadier attention, breathing exercises can take you deeper. Breathing with the Whole Body lets each breath spread like rings on water, and The Luminous Breath pairs every in-breath with a gentle light flowing down to your legs. Try them in the early evening to close the workday, over a soft ambient sound if you like.",
+      "seances": [
+       "corps01",
+       "corps04"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "After work, before dinner, take 13 minutes with headphones and a quiet ambient sound, such as ocean waves or a highland stream.",
+      "repere": "You’re ready when a few slow breaths are enough to loosen your shoulders, even in the middle of a busy day."
+     },
+     {
+      "periode": "Week 4",
+      "titre": "Let stress go through slow movement",
+      "texte": "Some stress needs to move before it can settle. This week, swap two or three sitting sessions for qigong. Warming the Hands starts with a gentle warmth between your palms, and The Dance of Qi — Qigong in Motion turns relaxation into slow, flowing movement. On days you’re unsure what you need, tell the Oracle how you feel and try one of its three suggestions.",
+      "seances": [
+       "chi01",
+       "chi04"
+      ],
+      "fonctions": [
+       "Oracle émotionnel"
+      ],
+      "geste": "Three evenings this week, clear a little space at home and follow one qigong session standing, in comfortable clothes.",
+      "repere": "You know what to reach for: a short break at work, a breathing session at home, slow movement when your body feels tight."
+     }
+    ],
+    "apres": "Keep a daily rhythm that fits your week: one short break plus one longer session. For a change of scene, explore The Floating Island or Underwater Atlantis."
+   }
   },
   "03": {
    "slug": "calm-anxiety",
@@ -477,7 +606,74 @@
      "Privacy first",
      "Use the app with no account; your journals and personal data stay on your phone."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "How to Start a Daily Meditation Practice to Calm Anxiety",
+    "intro": "If worry often takes over, this four-week path helps you build a gentle daily meditation for anxiety. You start with 4-minute anchors, then learn to watch anxious thoughts and make room for what you feel. Plan 4 to 20 minutes a day, and stop whenever you need. It supports your well-being and never replaces care from a health professional.",
+    "duree": "4 weeks",
+    "rythme": "4 to 20 min a day",
+    "etapes": [
+     {
+      "periode": "Week 1",
+      "titre": "Find an anchor you can trust",
+      "texte": "When anxiety rises, it helps to have something familiar to hold on to. So this week, practice your anchors while you feel fairly calm, to make them easier to reach on harder days. Your Instant Refuge gives worries a place to wait for a few breaths, and A Happy Memory Through Three Senses brings back a good moment in vivid detail.",
+      "seances": [
+       "4minut01",
+       "4minut02"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Each morning, sitting on the edge of your bed, play one anchor at a slower pace, eyes open if you prefer.",
+      "repere": "You’re ready when one of these places or memories comes to mind easily, even without the session."
+     },
+     {
+      "periode": "Week 2",
+      "titre": "Watch anxious thoughts without feeding them",
+      "texte": "Anxious thoughts feel urgent, but they aren’t orders. Stabilizing Attention on the Breath — Ariadne’s Thread gives you one steady place to come back to. Distinguishing Sensation, Emotion, and Thought — the Three Layers of Experience helps you sort what your body feels from what your mind adds. That small gap is often where calm can begin.",
+      "seances": [
+       "appren02",
+       "appren03"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "At the same time each day, sit for one session, then write a single word about how you feel in your history.",
+      "repere": "You’re ready when you can sometimes say “that’s just a thought” and gently come back to the breath."
+     },
+     {
+      "periode": "Week 3",
+      "titre": "Make room for what you feel",
+      "texte": "Fighting a feeling often makes it louder, so this week you practice letting it be there. The Body Under a Waterfall helps your body let go first, with the weight and sound of imagined water. Then Welcoming a Difficult Emotion invites you to observe your feelings like a kind scientist, instead of struggling with it. Open your eyes whenever you need, and stop if it feels like too much.",
+      "seances": [
+       "corps05",
+       "croiss01"
+      ],
+      "fonctions": [
+       "Journaux personnels",
+       "Respect de la vie privée"
+      ],
+      "geste": "Twice this week, in a quiet room, play one session, then name the emotion you met in your Emotional Journal, which stays private on your phone.",
+      "repere": "You’re ready when you can name an emotion, like fear or sadness, and stay with it a little without pushing it away."
+     },
+     {
+      "periode": "Week 4",
+      "titre": "Grow a kinder inner voice",
+      "texte": "Anxiety often comes with a harsh inner critic. This last week, you practice speaking to yourself as you would to a friend. Compassion Meditation sends wishes of peace to yourself first, then to others. Daily Gratitude begins with thanks to your own body, and Developing Self-love works gently on self-criticism. When you’re unsure which to choose, ask the Oracle.",
+      "seances": [
+       "cons06",
+       "croiss03",
+       "croiss02"
+      ],
+      "fonctions": [
+       "Oracle émotionnel"
+      ],
+      "geste": "Each evening, play one of the three sessions, then name one thing you handled well today, however small.",
+      "repere": "The practice is yours when you reach for an anchor or a kind word on your own, even on a hard day."
+     }
+    ],
+    "apres": "Keep one short anchor a day. When you feel ready, explore Releasing Fear. If anxiety lasts or weighs on daily life, please talk to a health professional."
+   }
   },
   "04": {
    "slug": "body-relaxation",
@@ -619,7 +815,73 @@
      "Learning library",
      "Read illustrated lessons on posture, breathing, attention and learning step by step."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "A 4-Week Meditation Routine for Body Relaxation",
+    "intro": "This meditation routine is for anyone whose body holds on to the day: a stiff neck, a tight back, a breath that stays high. Over four weeks, you move from a guided body scan to deep breathing and gentle qigong. Plan 10 to 30 minutes, five days a week. It’s about relaxation and listening to your body, with no health claims.",
+    "duree": "4 weeks",
+    "rythme": "10 to 30 min, 5 days a week",
+    "etapes": [
+     {
+      "periode": "Week 1",
+      "titre": "Notice your body, one area at a time",
+      "texte": "Relaxation starts with noticing. First, check the Learning library’s posture lesson to find a position you can hold without effort. Then let Body Scan — Mapping the Body from Within take you region by region, feeling before changing anything. On another day, Mindful Eating — Rediscovering a Single Bite brings the same attention to one mouthful of food, until an everyday gesture feels new.",
+      "seances": [
+       "appren01",
+       "appren06"
+      ],
+      "fonctions": [
+       "Bibliothèque pédagogique"
+      ],
+      "geste": "Five days this week, at the same hour, lie on your bed or a mat for one session, a blanket within reach.",
+      "repere": "You’re ready when you can tell where you hold tension, like your neck or your belly, without trying to fix it."
+     },
+     {
+      "periode": "Week 2",
+      "titre": "Let the breath soften tight spots",
+      "texte": "Now the breath joins in. Breathing with the Whole Body lets each breath spread far beyond your lungs. Breathing Around a Tender Spot shows you how to approach a sore or tense area gently: a neutral area first, then breathing around it. Never force, and stop anything that doesn’t feel right. If you’re in pain, talk to a health professional first.",
+      "seances": [
+       "corps01",
+       "corps02"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Lie or sit comfortably, one hand on your belly, and slow the voice to 0.75× if a gentler pace helps you let go.",
+      "repere": "You’re ready when your breath slows by itself once you settle, and tight spots soften a little."
+     },
+     {
+      "periode": "Week 3",
+      "titre": "Relax in slow motion with qigong",
+      "texte": "Some days, the body relaxes more easily when it moves. This week brings qigong, a Chinese practice that joins breath, posture and slow movement. Warming the Hands teaches you to feel before doing anything, and The Still Tree builds a rooted, relaxed standing posture. You only need a little space.",
+      "seances": [
+       "chi01",
+       "chi03"
+      ],
+      "fonctions": [
+       "Alarme et rappels"
+      ],
+      "geste": "Set the meditation alarm for your five practice days, and practice standing near an open window, barefoot if you like.",
+      "repere": "You’re ready when you can stand still for several minutes and feel both grounded and at ease."
+     },
+     {
+      "periode": "Week 4",
+      "titre": "Rest deeply in your whole body",
+      "texte": "The last week brings longer, deeper relaxation. The Small Circulation follows a traditional loop of attention through the body, one of qigong’s classic practices. Activating the Energy Body invites you to notice subtle sensations without forcing them to appear. Add a soft ambient sound, and look back through your history: what has changed since Week 1?",
+      "seances": [
+       "chi02",
+       "corpsc01"
+      ],
+      "fonctions": [
+       "Sons d’ambiance",
+       "Historique et réflexions"
+      ],
+      "geste": "Choose a quiet evening slot, add waves or forest sounds, and stay lying still for two minutes after each session ends.",
+      "repere": "Looking back at your history, you can see which sessions relax you most and when your body needs them."
+     }
+    ],
+    "apres": "Keep the body scan as your base two or three times a week. For a change of scene, explore The Heart of the Earth or The Frozen Sanctuary."
+   }
   },
   "05": {
    "slug": "emotional-balance",
@@ -772,7 +1034,74 @@
      "Alarm and reminders",
      "Set a reminder every day or on chosen days to help build a regular habit."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "How to Meditate Daily for Emotional Balance: A 4-Week Path",
+    "intro": "This four-week path is for anyone who wants to feel emotions fully while keeping their footing. Each day takes 3 to 20 minutes. You begin with quick resets and gratitude, then grow self-compassion and end with gentle shadow work. A private journal keeps track of what you discover, with no account needed.",
+    "duree": "4 weeks",
+    "rythme": "3 to 20 min a day",
+    "etapes": [
+     {
+      "periode": "Week 1",
+      "titre": "Pause before you react",
+      "texte": "Emotional balance starts with a pause between what happens and how you respond. This week, you practice two 3-minute sessions. Calming Down After an Argument helps you loosen what tightened and see the scene from a little distance. Precise Gratitude trains you to give your full attention to one thing you truly appreciate. Small steps count.",
+      "seances": [
+       "4minut06",
+       "4minut03"
+      ],
+      "fonctions": [
+       "Alarme et rappels"
+      ],
+      "geste": "Set a daily reminder for early evening, when tension often peaks, and play one 3-minute session wherever you are.",
+      "repere": "You’re ready when you catch yourself, even once, taking a breath before you react."
+     },
+     {
+      "periode": "Week 2",
+      "titre": "Train your eye for what’s good",
+      "texte": "Hard feelings are easier to face on steady ground, and gratitude helps build it. A Happy Memory Through Three Senses lets a good moment from the past warm the present. Daily Gratitude starts in the body: the legs that carried you, the breath that asked for nothing. Keep a simple gratitude journal in Gratitude & Growth.",
+      "seances": [
+       "4minut02",
+       "croiss03"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "With your morning coffee or tea, recall one specific moment from yesterday and jot it down in your Gratitude & Growth journal.",
+      "repere": "You’re ready when good moments start to stand out during the day, not only when you look for them."
+     },
+     {
+      "periode": "Week 3",
+      "titre": "Be kind to yourself when it’s hard",
+      "texte": "Self-compassion is a skill you can practice. Compassion Meditation grows warmth toward yourself in seven minutes. Releasing Comparison loosens the habit of comparing yourself to others, and Welcoming a Difficult Emotion invites you to let a hard feeling stay and watch it change. When you’re unsure which one you need, the Oracle can help you choose.",
+      "seances": [
+       "cons06",
+       "croiss06",
+       "croiss01"
+      ],
+      "fonctions": [
+       "Oracle émotionnel"
+      ],
+      "geste": "After each session, place a hand on your chest and say one kind sentence to yourself, the way you would to a friend.",
+      "repere": "You’re ready when your inner voice sounds a little gentler after a mistake, even if the criticism still comes."
+     },
+     {
+      "periode": "Week 4",
+      "titre": "Look gently at what you usually avoid",
+      "texte": "On steadier ground, you can go deeper. Shadow Work helps you meet a difficult part of yourself and understand what it’s trying to protect. Inner Child Serenity offers play and safety to the younger you. Your Emotional Journal can hold what comes up, privately on your phone.",
+      "seances": [
+       "ombre06",
+       "ombre05"
+      ],
+      "fonctions": [
+       "Journaux personnels",
+       "Respect de la vie privée"
+      ],
+      "geste": "Twice this week, on a calm evening with time ahead of you, play one session, then write freely for five minutes.",
+      "repere": "You’re on your way when strong emotions still come, but you find your footing sooner and judge yourself less."
+     }
+    ],
+    "apres": "Keep the short resets for daily life and one deeper session a week. When you feel ready, try Forgiving Yourself or The Garden of Reunion."
+   }
   },
   "06": {
    "slug": "spiritual-growth",
@@ -1033,7 +1362,85 @@
      "Meditation creator",
      "Write a session made just for you; your phone can read it aloud, even offline."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "A Free Meditation Course for Spiritual Growth and Awakening",
+    "intro": "This free meditation course is for curious minds drawn to spiritual awakening who want a clear path to follow. Over six weeks, you move from the chakras to your spirit guides and the third eye, one thread at a time. Plan 15 to 30 minutes, four days a week. You don’t need to believe in anything, just to be curious.",
+    "duree": "6 weeks",
+    "rythme": "15 to 30 min, 4 days a week",
+    "etapes": [
+     {
+      "periode": "Week 1",
+      "titre": "Find a quiet mind you can return to",
+      "texte": "Spiritual growth begins with a quiet mind you can find again. Beneath the Bodhi Tree has you sit at the roots of the tree linked with the Buddha’s awakening, letting attention open like its leaves. Then The Name and the Sign gives you a simple way back to that inner state. Note any image in your Spiritual Experiences journal.",
+      "seances": [
+       "lieux01",
+       "guides04"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Choose one spot at home and four fixed days, and sit there for each session with your phone on silent.",
+      "repere": "You’re ready when you can sit for 15 minutes in calm attention and look forward to your quiet spot."
+     },
+     {
+      "periode": "Week 2",
+      "titre": "Map your seven chakras",
+      "texte": "Now the body becomes your spiritual map. Recognizing the Seven Chakras helps you find each center in your body, from the root chakra at the base of the spine to the crown, before any color or meaning. Chakra Reset then travels through all seven slowly, with long, restful pauses. You don’t need to feel anything special: just notice.",
+      "seances": [
+       "chakra01",
+       "cons02"
+      ],
+      "fonctions": [],
+      "geste": "On your practice days, sit upright on a cushion or chair, and afterward write which chakra felt most alive.",
+      "repere": "You’re ready when the seven chakras feel familiar and you can move through them in your mind on your own."
+     },
+     {
+      "periode": "Week 3",
+      "titre": "Meet your spirit guides",
+      "texte": "Spirit guides, a higher self, inner wisdom: call it what feels right to you. The Guide of Light lets you receive a guide’s warmth and keep it once the guide steps away. The Council of Guides brings one question to a circle of five, then invites you to take the sixth seat yourself. Describe each guide in your guides notebook.",
+      "seances": [
+       "guides03",
+       "guides02"
+      ],
+      "fonctions": [
+       "Carnet des guides"
+      ],
+      "geste": "Right after each session, before you open your eyes fully, recall your guide’s face and message, then write them down.",
+      "repere": "You’re ready when a guide, an image or a word comes back from one session to the next."
+     },
+     {
+      "periode": "Week 4",
+      "titre": "Ask the big questions",
+      "texte": "With a guide at your side, bigger questions can come. The Keeper of the Archives explores the imagery of the akashic records and helps you tell what your mind invents from what seems to arise on its own. Maitreya’s Garden — Meeting the Person You Are Becoming leads you up a stairway, pavilion after pavilion. Begin and end both journeys in a personal sanctuary you create.",
+      "seances": [
+       "savoir01",
+       "buddhi07"
+      ],
+      "fonctions": [
+       "Sanctuaires personnels"
+      ],
+      "geste": "Before each session, write one question that matters to you; afterward, write the first answer that comes, without judging it.",
+      "repere": "You’re ready when your questions feel clearer, even if the answers are still taking shape."
+     },
+     {
+      "periode": "Weeks 5 and 6",
+      "titre": "Turn your attention inward to the third eye",
+      "texte": "The last stage is the most subtle. These are advanced sessions, so take your time. The Third Eye and the Two Physical Eyes moves you from looking outward to looking inward, through the point between the brows. The Door of Ajna lets you cross the threshold of the third eye, step by step, and Non-dual Awareness asks where inside ends and outside begins. Images may come or not: both are fine.",
+      "seances": [
+       "3emeoe01",
+       "3emeoe04",
+       "cosmiq01"
+      ],
+      "fonctions": [
+       "Passeport zen et progression"
+      ],
+      "geste": "Practice only when rested, sitting or lying down, and leave a few quiet minutes after each session before getting up.",
+      "repere": "Your zen passport shows each stage you’ve crossed, and reading back through your journal shows how your path has unfolded."
+     }
+    ],
+    "apres": "Follow the thread that spoke to you most, whether chakras, guides or the third eye, then explore The Celestial Library or The Forgotten Ruins."
+   }
   },
   "07": {
    "slug": "trance-shamanism-astral-travel",
@@ -1251,7 +1658,87 @@
      "Offline listening",
      "Download your sessions once, then use them with no connection and no network distractions."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Trance and Astral Projection Step by Step: A 6-Week Path",
+    "intro": "This path is for curious explorers drawn to astral projection, deep trance and the shamanic journey. Over six weeks, you build a safe inner base, explore the edge of sleep and train small shifts of perception before the classic techniques. Plan 15 to 30 minutes, three or four times a week, rested and undisturbed. Every journey stays an inner experience you lead.",
+    "duree": "6 weeks",
+    "rythme": "15 to 30 min, 3 or 4 times a week",
+    "etapes": [
+     {
+      "periode": "Week 1",
+      "titre": "Create a safe place to leave from",
+      "texte": "Every inner journey needs a safe place to leave from and come back to. The Circle of Protection has you build one from the element that calls you, then settle inside. Next, create a personal sanctuary in the app, with its own name and atmosphere. Each journey in this program starts and ends there.",
+      "seances": [
+       "shaman03"
+      ],
+      "fonctions": [
+       "Sanctuaires personnels"
+      ],
+      "geste": "Practice lying down in a quiet room, rested, at a time when no one will need you for half an hour.",
+      "repere": "You’re ready when you can call up your safe place in a few breaths, eyes closed, and feel settled there."
+     },
+     {
+      "periode": "Week 2",
+      "titre": "Explore the edge of sleep",
+      "texte": "Many astral techniques begin at the threshold of sleep. Body Asleep, Mind Awake trains you to stay aware while your body falls asleep, and The 33-level Spiral deepens the trance, carried by the rhythm of a count. Download both and switch to airplane mode, so no notification pulls you back.",
+      "seances": [
+       "consci02",
+       "consci03"
+      ],
+      "fonctions": [
+       "Écoute hors ligne"
+      ],
+      "geste": "Practice in the late afternoon or early evening, lying down, when you’re relaxed but not yet sleepy.",
+      "repere": "You’re ready when your body feels heavy and still while your mind stays clear for several minutes."
+     },
+     {
+      "periode": "Week 3",
+      "titre": "Train small shifts of perception",
+      "texte": "Before any full exit, you practice tiny ones. These micro-detachment sessions are short and advanced. The Point Behind Your Head moves your viewpoint a few inches back. The Ceiling Magnet adds a gentle upward pull, and The Phantom Sit-up has you rehearse sitting up in your mind while your body stays still. Sense, don’t force.",
+      "seances": [
+       "microd03",
+       "microd01",
+       "microd05"
+      ],
+      "fonctions": [],
+      "geste": "Three times this week, lie on your back, arms by your sides, and keep your body completely still for the whole session.",
+      "repere": "You’re ready when you can feel an imagined movement clearly while your physical body stays fully relaxed."
+     },
+     {
+      "periode": "Week 4",
+      "titre": "Go deeper with trance and shamanic journeys",
+      "texte": "Now you learn to go deeper. Progressive Descent into Trance goes down in stages, with brief returns toward the surface. Then come two shamanic journeys: Journey to the Lower World has you follow an animal to the sound of the drum, and Journey to the Upper World rises through wind and light. Note who you met in your guides notebook, and keep any object you found in your collection.",
+      "seances": [
+       "trance01",
+       "trance02",
+       "trance03"
+      ],
+      "fonctions": [
+       "Carnet des guides",
+       "Collection d’objets symboliques"
+      ],
+      "geste": "Start each journey from your sanctuary, and give yourself ten quiet minutes afterward before you stand up or look at a screen.",
+      "repere": "You’re ready when you can go deep and come back easily, and your guides notebook starts telling a story."
+     },
+     {
+      "periode": "Weeks 5 and 6",
+      "titre": "Try the classic astral projection techniques",
+      "texte": "Everything you’ve practiced comes together here. Astral · Inner Limbs has you move an imagined arm or leg, then bring it back precisely. Astral · Rope Technique has you climb away from the physical body, hand over hand, and Astral · Movement Techniques explores moving in imagination: walking, gliding, then changing place in an instant. Stay with each technique for a few sessions, over a deep, steady ambient sound.",
+      "seances": [
+       "astr03",
+       "cons03",
+       "astr06"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Practice after a good night’s sleep, ideally on a weekend morning, and write a few lines as soon as each session ends.",
+      "repere": "You know which technique suits you best, and you can describe what you felt in clear, honest detail."
+     }
+    ],
+    "apres": "Go back to the technique that worked best, or try Astral · The Target. Take breaks when you feel tired, and never listen while driving."
+   }
   },
   "08": {
    "slug": "learn-to-meditate",
@@ -1398,7 +1885,75 @@
      "Dragon companion and growing island",
      "Watch your dragon and its island grow as your practice becomes regular, with no competition."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Learn How to Meditate Step by Step: A 4-Week Beginner Course",
+    "intro": "Wondering how to meditate? This meditation course for beginners teaches one skill at a time over four weeks, free and with nothing locked. You start with sessions of three to five minutes, then learn to follow the breath, watch your thoughts and bring calm attention into daily life. Plan 3 to 20 minutes a day. No experience needed.",
+    "duree": "4 weeks",
+    "rythme": "3 to 20 min a day",
+    "etapes": [
+     {
+      "periode": "Week 1",
+      "titre": "Sit down, settle, arrive",
+      "texte": "The first week is simply about showing up. Read the Learning library’s short lesson on posture, then try three tiny sessions. Relax Very Quickly helps your body settle in three minutes, Your Instant Refuge offers a small place where worries can wait, and Your First Silent Meditation lets you taste real silence. Five minutes a day is a real start.",
+      "seances": [
+       "4minut05",
+       "4minut01",
+       "learnFirstSilence"
+      ],
+      "fonctions": [
+       "Bibliothèque pédagogique"
+      ],
+      "geste": "Pick a cue you already have, like your morning coffee, and meditate right after it, in the same chair each day.",
+      "repere": "You’re ready when sitting for five minutes feels easy and you rarely skip a day."
+     },
+     {
+      "periode": "Week 2",
+      "titre": "Learn to notice and come back",
+      "texte": "Now comes the heart of meditation: noticing that your mind has wandered, then coming back. Stabilizing Attention on the Breath — Ariadne’s Thread gives you a meeting point to return to, with no need to breathe perfectly. With Observing Thoughts — Watching the Trains Go by, you see a thought arrive, name it and let it leave. Wandering isn’t failing. Each return is one more repetition.",
+      "seances": [
+       "appren02",
+       "appren05"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Keep your daily time, and after each session write one line in your history: what pulled you away, and how you came back.",
+      "repere": "You’re ready when you notice drifting sooner and come back without scolding yourself."
+     },
+     {
+      "periode": "Week 3",
+      "titre": "Explore your body, senses and mind",
+      "texte": "Now you turn that attention to your experience. Body Scan — Mapping the Body from Within moves region by region. Distinguishing Sensation, Emotion, and Thought — the Three Layers of Experience helps you sort what you feel from what you think. Awareness of the Five Senses — Opening the Five Doors wakes up each sense in turn. Your dragon companion and its island grow as the practice becomes regular.",
+      "seances": [
+       "appren03",
+       "appren01",
+       "appren07"
+      ],
+      "fonctions": [
+       "Dragon compagnon et île évolutive"
+      ],
+      "geste": "Alternate the three sessions through the week, and on rest days take just three slow breaths at your usual time.",
+      "repere": "You’re ready when you can tell, in the moment, whether you’re noticing a sensation, an emotion or a thought."
+     },
+     {
+      "periode": "Week 4",
+      "titre": "Bring meditation into daily life",
+      "texte": "Meditation doesn’t stay on the cushion. Meditating with Your Eyes Open — Staying Present in the Midst of the World carries your practice into a room or a street. Mindful Eating — Rediscovering a Single Bite turns a meal into practice, and Hearing — the Distant Singing Bowl, your first step beyond the basics, trains your inner ear. Then browse the 19 categories and pick your own.",
+      "seances": [
+       "appren04",
+       "appren06",
+       "visual04"
+      ],
+      "fonctions": [
+       "Catalogue multithématique"
+      ],
+      "geste": "Once a day, practice during an ordinary moment, like a meal or a walk; on the weekend, pick one new session yourself.",
+      "repere": "You can sit down, settle and meditate without help, and you know which kinds of sessions you enjoy."
+     }
+    ],
+    "apres": "Keep your daily time, then explore one new category a week, from visualization to qigong. The Zen Garden is a lovely place to practice."
+   }
   },
   "09": {
    "slug": "buddhism-and-qigong",
@@ -1552,7 +2107,70 @@
      "Meditation creator",
      "Write a session made just for you; your phone can read it aloud, even offline."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "A 4-Week Daily Qigong Routine and First Steps in Buddhism",
+    "intro": "This qigong routine is for anyone curious about Chinese body practice and Buddhist wisdom, with no class or equipment needed. Each week brings one qigong session for most mornings and one Buddhist meditation for the other days. Plan 15 to 30 minutes a day. No religious commitment is asked of you, only a little space and curiosity.",
+    "duree": "4 weeks",
+    "rythme": "15 to 30 min a day",
+    "etapes": [
+     {
+      "periode": "Week 1",
+      "titre": "Wake up your hands, sit beneath the Bodhi tree",
+      "texte": "Qigong starts with the hands. Most mornings this week, Warming the Hands has you feel a gentle warmth growing between your palms. On the other days, Beneath the Bodhi Tree brings you to sit where the Buddha is said to have awakened, roots below and leaves above. Check the Learning library’s posture lesson first: a relaxed, upright back helps both.",
+      "seances": [
+       "chi01",
+       "lieux01"
+      ],
+      "fonctions": [
+       "Bibliothèque pédagogique"
+      ],
+      "geste": "Five mornings this week, stand by a window and practice Warming the Hands; on the other two days, sit for the Buddhist meditation.",
+      "repere": "You’re ready when warmth or tingling comes into your palms within a few minutes."
+     },
+     {
+      "periode": "Week 2",
+      "titre": "Stand like a tree, learn from many teachers",
+      "texte": "This week, qigong grounds you. The Still Tree has you stand with your arms around an imaginary ball, rooted but never stiff. On your Buddhist days, Sudhana’s Journey — The Teachers Along the Path follows a pilgrim on the road, learning to see one situation through many eyes. A mountain stream ambient sound can set the scene.",
+      "seances": [
+       "chi03",
+       "buddhi01"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Stand barefoot for each qigong session, knees soft, at the same morning time as last week.",
+      "repere": "You’re ready when you can hold the standing posture for the whole session, relaxed rather than stiff."
+     },
+     {
+      "periode": "Week 3",
+      "titre": "Move with the breath, open to compassion",
+      "texte": "Now qigong begins to move. The Dance of Qi — Qigong in Motion lets your feet, hands and torso answer one another, slowly, until your body seems to dance on its own. On your Buddhist days, The Eleven Faces of Avalokiteśvara explores compassion, and how to meet what comes with gentleness, firmness or silence. Body and heart start working together.",
+      "seances": [
+       "chi04",
+       "buddhi02"
+      ],
+      "fonctions": [],
+      "geste": "Practice qigong where you can move your arms freely, and follow the voice at its pace rather than rushing ahead.",
+      "repere": "You’re ready when the movements follow your breath without you having to think about each one."
+     },
+     {
+      "periode": "Week 4",
+      "titre": "Close the loop and widen your view",
+      "texte": "The last week goes deeper. The Small Circulation follows a classic qigong path: a pearl of attention that descends from the belly, rises along the back and closes the loop. On your Buddhist days, Non-dual Awareness, an advanced session, turns your attention toward the one who perceives. Then write a short session around a teaching you want to keep, and let your phone read it aloud.",
+      "seances": [
+       "chi02",
+       "cosmiq01"
+      ],
+      "fonctions": [
+       "Créateur de méditations"
+      ],
+      "geste": "Keep your morning slot; on Buddhist days, stay seated in silence for two more minutes after the session ends.",
+      "repere": "Your morning qigong feels like a ritual you miss when you skip it, and Buddhist ideas come back to you during the day."
+     }
+    ],
+    "apres": "Keep your daily qigong routine with the session you enjoy most, and meet a new figure of wisdom each week, like Tārā and the Eight Great Dangers."
+   }
   },
   "10": {
    "slug": "focus-and-creativity",
@@ -1689,7 +2307,74 @@
      "Immersive worlds",
      "Choose from 17 story-rich settings that spark imagination and escape."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "4 Weeks of Daily Mindfulness: Meditation for Focus and Creativity",
+    "intro": "This plan is for students, makers and anyone whose attention scatters easily. Over four weeks, daily mindfulness trains your focus, then guided visualizations stretch your imagination and free your ideas. Plan 10 to 30 minutes a day, ideally before work or study. It won’t do the work for you, but it can create calmer conditions for it.",
+    "duree": "4 weeks",
+    "rythme": "10 to 30 min a day",
+    "etapes": [
+     {
+      "periode": "Week 1",
+      "titre": "Train one point of focus",
+      "texte": "Focus is a skill you can train, a little each day. This week, you practice the core move of mindfulness: noticing that your attention has slipped, then bringing it back. Stabilizing Attention on the Breath — Ariadne’s Thread gives you one point to return to, and Observing Thoughts — Watching the Trains Go by helps you spot distractions as they arrive. Read the Learning library’s lesson on attention first.",
+      "seances": [
+       "appren02",
+       "appren05"
+      ],
+      "fonctions": [
+       "Bibliothèque pédagogique"
+      ],
+      "geste": "Before you open your email or your notes, sit at your desk for one session, with your phone face down and out of reach.",
+      "repere": "You’re ready when you notice drifting within a few breaths, instead of minutes later."
+     },
+     {
+      "periode": "Week 2",
+      "titre": "Stay present in the middle of noise",
+      "texte": "Real life is noisy, so this week you train attention with your eyes open. Meditating with Your Eyes Open — Staying Present in the Midst of the World trains a relaxed gaze in a busy place. Awareness of the Five Senses — Opening the Five Doors sharpens each of your senses in turn, then leaves them all open. Choose a voice and pace that keep you alert rather than sleepy.",
+      "seances": [
+       "appren04",
+       "appren07"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Once a day, practice in a real setting, like a park bench, a café or a bus ride, eyes open and relaxed.",
+      "repere": "You’re ready when you can stay with one task longer before reaching for your phone."
+     },
+     {
+      "periode": "Week 3",
+      "titre": "Sharpen your imagination, one sense at a time",
+      "texte": "Creative ideas often start as clear inner images. This week, three sessions from the Visualization category train one sense at a time. Hearing — the Distant Singing Bowl trains your inner ear. Touch — the Key in Your Hand works on what your hand can feel, and Film — a Butterfly Flies Beside You on your eye for movement. If images stay blurry at first, that’s normal: it often gets easier with practice.",
+      "seances": [
+       "visual04",
+       "visual03",
+       "visual02"
+      ],
+      "fonctions": [
+       "Catalogue multithématique"
+      ],
+      "geste": "Take one session a day in a quiet spot, then spend one minute recalling the scene in as much detail as you can.",
+      "repere": "You’re ready when you can hold an imagined sound, texture or image steady for a few breaths."
+     },
+     {
+      "periode": "Week 4",
+      "titre": "Put focus and imagination to work",
+      "texte": "Now everything you’ve trained works as one. Bringing the Three Senses Together — Summit of a Volcano builds a whole landscape with sight, hearing and touch at once. Creative Unblocking quiets your inner critic so ideas can come, even imperfect ones. Finally, The Inner Eye Awakens, an advanced session, trains you to hold and transform a mental image at will. Use these sessions before a creative task, not after it.",
+      "seances": [
+       "visual05",
+       "corpsc02",
+       "3emeoe02"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Before a creative task or a big study session, play one session, then list in your history every idea that comes, for a few minutes.",
+      "repere": "You’re there when you can bring your attention back at will, and ideas flow more easily after a session."
+     }
+    ],
+    "apres": "Keep one short focus session each morning, and when you need fresh ideas, explore The Frozen Sanctuary or The Mirror Dimension."
+   }
   },
   "11": {
    "slug": "self-confidence",
@@ -1840,7 +2525,73 @@
      "Meditation creator",
      "Write a session made just for you; your phone can read it aloud, even offline."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "A 30-Day Meditation Challenge for Self-Confidence",
+    "intro": "This 30-day meditation challenge is for anyone who doubts themselves, puts things off or dreads other people’s eyes. You begin with very short sessions that turn an intention into a first step, then quiet your fears, build self-love and picture who you’re becoming. Plan 3 to 25 minutes a day. Your dragon companion grows with you, with no competition.",
+    "duree": "30 days",
+    "rythme": "3 to 25 min a day",
+    "etapes": [
+     {
+      "periode": "Days 1 to 7",
+      "titre": "Start with one small step a day",
+      "texte": "Confidence grows from small actions you actually take, so keep the first week tiny. When You Lack Motivation helps you set the big project aside and keep only the first concrete step. Finding Your Confidence Before a Challenge reminds you of something you’ve already done well, right before a meeting, a call or an exam. Each day you practice, your dragon and its island grow a little.",
+      "seances": [
+       "4minut10",
+       "4minut07"
+      ],
+      "fonctions": [
+       "Dragon compagnon et île évolutive"
+      ],
+      "geste": "Each morning, play one short session, then write down one small action for the day, and do it before evening.",
+      "repere": "You’re ready when you’ve taken a handful of those small actions and can name each one."
+     },
+     {
+      "periode": "Days 8 to 14",
+      "titre": "Loosen the fear of failing and of being judged",
+      "texte": "A lot of self-doubt is fear in disguise. This week, you look at two common ones. Fear of Judgment loosens the feeling of being watched, with kindness toward yourself. Fear of Failure helps you separate “I failed” from “I am a failure.” After each session, write one line in your Emotional Journal: what you fear, and what you’d do anyway.",
+      "seances": [
+       "ombre09",
+       "ombre08"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Practice in the evening, sitting comfortably, and keep your journal note to a single honest sentence.",
+      "repere": "You’re ready when you can name a fear without letting it decide for you, at least once this week."
+     },
+     {
+      "periode": "Days 15 to 22",
+      "titre": "Be on your own side",
+      "texte": "Confidence is easier when your inner voice is on your side. Developing Self-love looks for something real in you, a perseverance or a curiosity, and gives it a little love. Releasing Comparison shows that what you admire in others isn’t foreign to your own life. Alternate them for the whole stretch.",
+      "seances": [
+       "croiss02",
+       "croiss06"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Every evening, note one piece of evidence in your history that you can do hard things, even something small.",
+      "repere": "You’re ready when finding evidence of your progress feels natural and comparisons sting a little less."
+     },
+     {
+      "periode": "Days 23 to 30",
+      "titre": "Picture the person you’re becoming",
+      "texte": "In the final days, you look ahead. Visualizing Your Growth follows an old railway through three realistic stations, with no idealized version of you. Future Self lets you try on the direction you want in imagination, then choose one concrete step. Forgotten Talents, an advanced session, brings back one quality from a craftsperson of long ago. Your zen passport marks the milestones.",
+      "seances": [
+       "croiss07",
+       "consci07",
+       "trance07"
+      ],
+      "fonctions": [
+       "Passeport zen et progression"
+      ],
+      "geste": "Each morning, play one session and write a single decision for the day; on day 30, reread all your evidence.",
+      "repere": "You finish with a list of real wins in your history and a clear idea of your next step."
+     }
+    ],
+    "apres": "Keep a 4-minute session for challenging moments and one deeper session a week. When doubt returns, try Forgiving Yourself or The Council of Guides."
+   }
   },
   "12": {
    "slug": "lucid-dreams",
@@ -1935,7 +2686,71 @@
      "Offline listening",
      "Download your sessions once, then use them with no connection and no network distractions."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "A 4-Week Sleep Routine for Lucid Dreaming and Dream Recall",
+    "intro": "This sleep routine is for anyone curious about lucid dreaming, the moment you realize you’re dreaming while the dream goes on. Over four weeks, you build dream recall with a dream journal, set the intention to become lucid, then explore the edge of sleep. Plan 15 to 30 minutes most nights. Lucidity can take time, so patience is part of the practice.",
+    "duree": "4 weeks",
+    "rythme": "15 to 30 min, most nights",
+    "etapes": [
+     {
+      "periode": "Week 1",
+      "titre": "Remember more of your dreams",
+      "texte": "Lucid dreaming starts with dream recall, so this first week is about remembering. Each night, play Drifting into Sleep or Sleep Journey in bed: both end with no wake-up, so nothing pulls you out of sleep. Just before the session, tell yourself, “Tonight, I’ll remember my dreams.” Keep your phone within reach, with your Dream Journal ready.",
+      "seances": [
+       "corpsc03",
+       "reves02"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "When you wake, stay still with your eyes closed for a minute, replay the dream, then write it down before getting up.",
+      "repere": "You’re ready when you can write down something, even a fragment, on several mornings a week."
+     },
+     {
+      "periode": "Week 2",
+      "titre": "Plant the intention to become lucid",
+      "texte": "Now you add a new intention: to notice, inside a dream, that you’re dreaming. Lucid Dream Preparation trains your mind to recognize the dream, to help you wake up inside it. Use it three or four nights this week, when you have time to explore, with a soft ambient sound if you like. On other nights, rest comes first.",
+      "seances": [
+       "reves01"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Three or four times a day, at a doorway or when you pick up your phone, pause and ask yourself: am I dreaming?",
+      "repere": "You’re ready when the question “am I dreaming?” starts popping up on its own, sometimes even at night."
+     },
+     {
+      "periode": "Week 3",
+      "titre": "Explore the threshold of sleep",
+      "texte": "Many lucid dreamers learn to stay aware as the body falls asleep. Body Asleep, Mind Awake lets you watch that threshold: the body sleeps, awareness stays. Directed Waking Dream follows a guided thread and lets spontaneous images change the story, a good rehearsal for steering a dream from within. Download them so they play in airplane mode, with nothing to interrupt you.",
+      "seances": [
+       "consci05",
+       "consci02"
+      ],
+      "fonctions": [
+       "Écoute hors ligne"
+      ],
+      "geste": "Twice this week, lie down in a dark room when you’re rested, then spend two minutes recalling the images before sleeping.",
+      "repere": "You’re ready when you can watch images appear at the edge of sleep while still knowing you’re in bed."
+     },
+     {
+      "periode": "Week 4",
+      "titre": "Deepen your focus and use your dream signs",
+      "texte": "The last week deepens your inner focus. The 33-level Spiral carries you down, step by step, to the rhythm of a count. The Image that Appears on its Own, an advanced session, has you wait before the dark and simply watch what rises, as in dreams. Then pick one place, person or symbol that keeps returning in your Dream Journal: that’s your dream sign.",
+      "seances": [
+       "consci03",
+       "3emeoe03"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Each night before sleep, picture your dream sign for one minute and tell yourself: next time I see it, I’ll know I’m dreaming.",
+      "repere": "You notice your dream signs more often, and you may have had a first moment of lucidity, however brief."
+     }
+    ],
+    "apres": "Lucidity often takes time, so keep your Dream Journal going and repeat Weeks 2 to 4. On tired nights, choose rest over exploration."
+   }
   },
   "13": {
    "slug": "grief-forgiveness-letting-go",
@@ -2056,7 +2871,75 @@
      "Privacy first",
      "Use the app with no account; your journals and personal data stay on your phone."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "A Gentle Meditation Routine for Grief, Forgiveness and Letting Go",
+    "intro": "Grief, forgiveness and letting go keep no schedule, so this path has no countdown. It offers a quiet space for anyone living through a loss, a breakup or a change they didn’t choose. Each stage waits for you as long as you need. Sessions last 7 to 25 minutes, on the days you choose, and you can pause or stop at any moment.",
+    "duree": "At your own pace",
+    "rythme": "7 to 25 min, when you feel ready",
+    "etapes": [
+     {
+      "periode": "At your own pace",
+      "titre": "A gentle place to begin",
+      "texte": "When you’re grieving, even sitting still can feel hard, so start small. Compassion Meditation offers seven minutes of warmth, first toward yourself. Welcoming a Difficult Emotion lets sadness or anger be there, without asking them to leave. You can also shape a personal sanctuary in the app, a place with its own name and atmosphere where each session can begin.",
+      "seances": [
+       "cons06",
+       "croiss01"
+      ],
+      "fonctions": [
+       "Sanctuaires personnels"
+      ],
+      "geste": "When you feel able, sit somewhere comfortable with a blanket or a warm drink and play one session; seven minutes is enough.",
+      "repere": "You may feel ready to go on when you can stay with what you feel for a few minutes, even through tears."
+     },
+     {
+      "periode": "When you feel ready",
+      "titre": "Make room for memories",
+      "texte": "Memories can hurt and comfort at the same time. The Attic of Forgotten Objects leaves you free to open each room, or to keep it closed. The Garden of Reunion invites you to say the words left unsaid, and My Departed Animal reconnects you with a pet who has passed. If words come afterward, your journals can hold them, privately on your phone.",
+      "seances": [
+       "consci04",
+       "savoir02",
+       "savoir03"
+      ],
+      "fonctions": [
+       "Journaux personnels",
+       "Respect de la vie privée"
+      ],
+      "geste": "Choose a time when no one will need you for an hour, play one session, then sit by a window for a while.",
+      "repere": "You may be ready for the next stage when remembering brings some warmth along with the pain."
+     },
+     {
+      "periode": "Later, if you wish",
+      "titre": "Explore forgiveness, without pressure",
+      "texte": "Forgiveness can’t be forced, and it never means excusing what happened. Forgiving Without Forgetting explores what it might mean for you, then lets you decide: set it down, or keep it. Forgiving Yourself works gently with guilt, the “if only” thoughts that so often follow a loss. A slower voice and pace can make both sessions feel gentler.",
+      "seances": [
+       "croiss05",
+       "ombre04"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Try these sessions only on a day you feel steady, and stop whenever it feels like too much.",
+      "repere": "You may be ready to go on when a memory brings less blame, toward someone else or toward yourself."
+     },
+     {
+      "periode": "Whenever it feels right",
+      "titre": "Let go, little by little",
+      "texte": "Letting go isn’t forgetting. It’s finding a way to carry what happened with a little more ease. Heart-Centered Ho’oponopono repeats four simple phrases with the rhythm of the breath. The Forest of Thorns has you stop fighting what snags you, and Gratitude to Your Guides gives thanks to the people who mattered. On uncertain days, the Oracle can suggest three meditations.",
+      "seances": [
+       "ombre01",
+       "ombre02",
+       "guides01"
+      ],
+      "fonctions": [
+       "Oracle émotionnel"
+      ],
+      "geste": "When it feels right, play one session a week, and return to any earlier stage whenever you need to.",
+      "repere": "You notice moments of peace, or even gratitude, alongside the sadness, and you know where to turn on hard days."
+     }
+    ],
+    "apres": "Return to any stage whenever you need it. If grief feels too heavy or lasts a long time, please reach out to a health professional or a support group."
+   }
   },
   "14": {
    "slug": "immersive-journeys",
@@ -2164,7 +3047,69 @@
      "Dragon companion and growing island",
      "Watch your dragon and its island grow as your practice becomes regular, with no competition."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Escape Into Immersive Worlds: 14 Days of Daily Guided Meditation",
+    "intro": "Two weeks to travel without leaving home. This daily guided meditation path is for anyone who needs a real break: each day, one guided visualization, from 13-minute worlds to a 34-minute walk to old Kyoto. Plan 13 to 34 minutes a day, ideally with headphones. Download your journeys once, and they play anywhere, even offline.",
+    "duree": "14 days",
+    "rythme": "13 to 34 min a day",
+    "etapes": [
+     {
+      "periode": "Days 1 to 4",
+      "titre": "Take short escapes",
+      "texte": "Start with short trips. On days one to three, visit one short world a day, such as The Desert Oasis or The Cosmic Temple, about 13 minutes each. On day four, The Unknown Planet sends you exploring, letting each question change the way you look. No effort needed: let the scenery come to you.",
+      "seances": [
+       "miniav02"
+      ],
+      "fonctions": [
+       "Mondes immersifs"
+      ],
+      "geste": "Pick a fixed escape time, like your lunch break or the end of the workday, and keep it for the whole two weeks.",
+      "repere": "You’re ready when you can sense a world’s colors and sounds without straining, even if the images stay soft."
+     },
+     {
+      "periode": "Days 5 to 8",
+      "titre": "Travel with all your senses",
+      "texte": "Now stay a little longer and use every sense. Choose worlds of water and sky, like Underwater Atlantis or The Floating Island, and add an ambient sound that matches the scene. On day eight, The Train of Memories turns the journey inward: station after station, you watch the habits, tastes and decisions that made a life.",
+      "seances": [
+       "miniav01"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Before each journey, close your eyes for three slow breaths and choose one sense to follow closely: sight, sound or touch.",
+      "repere": "You’re ready when you come back from a world with one vivid detail you could describe to a friend."
+     },
+     {
+      "periode": "Days 9 to 11",
+      "titre": "Travel back in time",
+      "texte": "Time for a longer escape. Versailles — a Day in 1700 takes you to the royal court for a whole day: the bows, the glances, a world revolving around one man. On the days before and after, revisit the world you liked most so far. Download the adventure first, so a weak signal never breaks the spell.",
+      "seances": [
+       "miniav03"
+      ],
+      "fonctions": [
+       "Écoute hors ligne"
+      ],
+      "geste": "Set aside a 30-minute window with nothing planned after it, sit or lie back comfortably, and let the story run to the end.",
+      "repere": "You’re ready when half an hour passes easily and you feel you’ve truly been somewhere else."
+     },
+     {
+      "periode": "Days 12 to 14",
+      "titre": "Take the long road and make a world your own",
+      "texte": "Your final journey is the longest: Japan — on the Road to Kyoto in 1600, a walk with your senses awake, never knowing what waits around the next bend. To close the two weeks, gather the details you loved most, a color, a sound, a light, into a personal sanctuary with its own name and atmosphere. Your dragon’s island has grown with your practice.",
+      "seances": [
+       "miniav04"
+      ],
+      "fonctions": [
+       "Sanctuaires personnels",
+       "Dragon compagnon et île évolutive"
+      ],
+      "geste": "Over the last three days, play the journey once; on the other two, revisit a favorite world, then shape your sanctuary from its details.",
+      "repere": "You have a favorite world, a sanctuary of your own, and an easy way to escape whenever your day needs it."
+     }
+    ],
+    "apres": "Keep one world a week as a mini getaway, and explore the ones you haven’t visited yet, like Journey Through the Galaxy or The Heart of the Earth."
+   }
   }
  }
 }

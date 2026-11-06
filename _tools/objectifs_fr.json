@@ -140,7 +140,71 @@
      "Oracle émotionnel",
      "Décrire son état du moment ; l’Oracle propose trois méditations adaptées à ce ressenti."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Routine du soir pour mieux dormir : 21 jours pas à pas",
+    "intro": "Tu repenses à ta journée une fois couché ? Ce programme t’aide à construire ta routine du soir pour bien dormir, en trois semaines. Chaque soir, au lit, tu écoutes une méditation pour dormir de 3 à 27 minutes : d’abord de courtes pauses, puis la relaxation du corps, enfin des séances qui t’accompagnent jusqu’au sommeil.",
+    "duree": "21 jours",
+    "rythme": "3 à 27 min chaque soir",
+    "etapes": [
+     {
+      "periode": "Soirs 1 à 5",
+      "titre": "Refermer ta journée en quelques minutes",
+      "texte": "Pendant cinq soirs, une séance de 3 ou 4 minutes suffit. « La gratitude précise » (3 min) pose ton attention sur une chose appréciée aujourd’hui. Les soirs moins faciles, « Le souvenir heureux en trois sens » (4 min) fait revenir un bon moment. Puis termine par une phrase positive toute simple, comme « merci pour cette journée ».",
+      "seances": [
+       "4minut03",
+       "4minut02"
+      ],
+      "fonctions": [],
+      "geste": "Chaque soir à la même heure, au lit et lumière éteinte, écoute ta séance de 3 ou 4 minutes, puis pose ton téléphone.",
+      "repere": "Quand tu attends ce petit rendez-vous et que ta journée se referme plus vite, passe à l’étape suivante."
+     },
+     {
+      "periode": "Soirs 6 à 10",
+      "titre": "Apprendre à relâcher ton corps",
+      "texte": "Place maintenant ton corps au centre. « Le balayage corporel — Cartographier le corps de l’intérieur » (17 min) est un body scan : tu explores ton corps zone après zone, sans chercher à rien changer. Les soirs plus chargés, choisis « Le corps sous une cascade » (15 min) : le poids et le bruit d’une eau imaginaire t’aident à lâcher les tensions.",
+      "seances": [
+       "appren01",
+       "corps05"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Allongé, juste avant d’éteindre, offre-toi 15 à 17 minutes. Si la voix te semble rapide, ralentis-la jusqu’à 0,75×.",
+      "repere": "Quand tu sens vite une zone serrée, comme la mâchoire ou les épaules, et qu’elle se relâche parfois seule, passe au souffle."
+     },
+     {
+      "periode": "Soirs 11 à 15",
+      "titre": "Faire du souffle ton appui du soir",
+      "texte": "Cette fois, le souffle prend le relais. « La respiration lumineuse » (13 min) associe chaque inspiration à une clarté qui descend du ventre vers les jambes. Si tes pensées tournent encore, « Entendre — Le bol chantant lointain » (16 min) donne à ton attention un son à suivre, qui s’approche de loin. Tu quittes peu à peu le flot de la journée.",
+      "seances": [
+       "corps04",
+       "visual04"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Ajoute les vagues ou un torrent en fond, très bas. Après la séance, laisse ton souffle aller seul pendant une minute.",
+      "repere": "Quand tu reviens au souffle sans effort, même si une pensée t’accroche, tu es prêt pour la dernière étape."
+     },
+     {
+      "periode": "Soirs 16 à 21",
+      "titre": "Te laisser glisser vers le sommeil",
+      "texte": "Ta routine est en place : il lui reste une fin douce. « Glissement vers le sommeil » (16 min) t’invite à relâcher tout effort, et s’achève sans te ramener à l’éveil. Les soirs où tu as besoin de plus de temps, « Voyage du sommeil » (27 min) te laisse glisser sans rien retenir ni vérifier. Les soirs sans voix, un son d’ambiance avec minuteur suffit.",
+      "seances": [
+       "corpsc03",
+       "reves02"
+      ],
+      "fonctions": [
+       "Minuteur et fondu sonore",
+       "Journaux personnels"
+      ],
+      "geste": "Lance ta séance au lit et laisse-la finir sans toi. Au réveil, note en une ligne, dans ton journal, comment tu as dormi.",
+      "repere": "Quand il t’arrive souvent de t’endormir pendant la séance, ta routine du soir tient seule : garde-la."
+     }
+    ],
+    "apres": "Garde la séance qui t’aide le plus comme rituel du soir, et reprends une étape quand tes nuits se compliquent. Tu peux aussi composer ta séance du soir dans le créateur de méditations."
+   }
   },
   "02": {
    "slug": "reduire-le-stress",
@@ -297,7 +361,72 @@
      "Alarme et rappels",
      "Programmer un rappel quotidien ou certains jours pour favoriser une habitude régulière."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Défi méditation de 14 jours pour réduire le stress",
+    "intro": "Des journées pleines, et seulement quelques minutes pour souffler ? Ce défi méditation de deux semaines est fait pour toi, de 3 à 25 minutes par jour. Tu commences par des pauses de moins de 5 minutes. Puis tu t’entraînes avec un exercice de respiration, tu découvres la relaxation du corps et tu traverses autrement les moments tendus, pour t’aider à réduire le stress.",
+    "duree": "14 jours",
+    "rythme": "3 à 25 min par jour",
+    "etapes": [
+     {
+      "periode": "Jours 1 à 3",
+      "titre": "Te déstresser en moins de 5 minutes",
+      "texte": "Trois jours pour prendre le réflexe de la pause. Le matin, « Se détendre très rapidement » (3 min) te fait relâcher chaque zone du corps, l’une après l’autre. Dans la journée, quand tout s’accélère, « Quand tout va trop vite » (4 min) t’ancre avec un objet, le sol et le souffle, sans fermer les yeux.",
+      "seances": [
+       "4minut05",
+       "4minut04"
+      ],
+      "fonctions": [
+       "Alarme et rappels"
+      ],
+      "geste": "Programme un rappel quotidien en milieu de journée. Quand il sonne, fais ta pause de 3 ou 4 minutes, là où tu es.",
+      "repere": "Quand tu penses à ta pause avant que le rappel sonne, passe à l’étape suivante."
+     },
+     {
+      "periode": "Jours 4 à 7",
+      "titre": "T’entraîner au souffle et aux pensées",
+      "texte": "Le soir, ajoute une séance plus longue, assis au calme. Commence par un exercice de respiration simple, en 13 minutes : tu laisses ton souffle faire, et tu y ramènes l’attention dès qu’elle s’égare. « Observer les pensées — Regarder passer les trains » (15 min) t’apprend ensuite à laisser repartir une pensée stressante, comme un train qui quitte la gare.",
+      "seances": [
+       "appren02",
+       "appren05"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Garde la même heure chaque soir, assis, les pieds au sol. Choisis la voix qui te calme le plus, à ta vitesse.",
+      "repere": "Quand tu remarques plus tôt qu’une pensée t’emporte, et que tu reviens sans te juger, passe à la suite."
+     },
+     {
+      "periode": "Jours 8 à 11",
+      "titre": "Relâcher le stress dans ton corps",
+      "texte": "Le stress se ressent aussi physiquement. « Le corps sous une cascade » (15 min) est une relaxation guidée : chaque filet d’eau imaginaire suit son chemin le long de ton corps. Les jours où tu as besoin de bouger, « La danse du Qi — Qi Gong en mouvement » (25 min) t’apprend à te détendre en bougeant lentement.",
+      "seances": [
+       "corps05",
+       "chi04"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "En fin de journée, avant le dîner, offre-toi 15 à 25 minutes, avec la forêt ou un torrent en fond sonore.",
+      "repere": "Quand tes épaules descendent pendant la séance et que ce relâchement dure un peu après, tu es prêt pour la fin du défi."
+     },
+     {
+      "periode": "Jours 12 à 14",
+      "titre": "Traverser les moments tendus avec douceur",
+      "texte": "Pour finir le défi, regarde le stress de plus près. « Accueillir une émotion difficile » (17 min) t’aide à laisser une tension être là, sans lutter contre elle. « Méditation de compassion » (7 min) adresse des souhaits de paix, de sécurité et de bonheur, à toi puis aux autres. Si tu hésites, l’Oracle t’aide à choisir.",
+      "seances": [
+       "croiss01",
+       "cons06"
+      ],
+      "fonctions": [
+       "Oracle émotionnel"
+      ],
+      "geste": "Chaque soir, prends 7 à 17 minutes pour revenir sur la tension du jour, assis au calme, avant d’éteindre les écrans.",
+      "repere": "Quand tu retrouves ton calme plus vite après un moment tendu, le réflexe est pris : garde-le après le défi."
+     }
+    ],
+    "apres": "Garde ta pause de 4 minutes et ton rappel quotidien. Une fois par semaine, essaie « L’arbre immobile » (23 min), un qi gong qui travaille la posture et l’ancrage."
+   }
   },
   "03": {
    "slug": "apaiser-anxiete",
@@ -477,7 +606,74 @@
      "Respect de la vie privée",
      "Utiliser l’application sans compte ; les journaux et données personnelles restent sur le téléphone."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Calmer son anxiété : 4 semaines de méditation quotidienne",
+    "intro": "Pour toi dont les inquiétudes tournent en boucle, ce parcours de méditation quotidienne dure quatre semaines, de 4 à 15 minutes par jour. Il commence par des appuis très courts, puis t’apprend à regarder tes pensées et tes peurs avec plus de recul, pour t’aider à calmer ton anxiété. Avance à ton rythme : une semaine peut en durer deux.",
+    "duree": "4 semaines",
+    "rythme": "4 à 15 min par jour",
+    "etapes": [
+     {
+      "periode": "Semaine 1",
+      "titre": "Trouver un appui en 4 minutes",
+      "texte": "Cette semaine, une seule pause par jour, de 4 minutes, dès que les scénarios se mettent à tourner. « Le refuge instantané » (4 min) te fait imaginer un endroit sûr, rien qu’à toi. « Quand tu te sens observé ou jugé » (4 min) fait le tri entre ce que tu sais vraiment et ce que tu imagines. Choisis celle qui te parle.",
+      "seances": [
+       "4minut01",
+       "4minut11"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Chaque jour, dès qu’une inquiétude grandit, trouve un coin calme et lance ta pause, avec la voix qui t’apaise le plus.",
+      "repere": "Quand tu penses à cette pause de toi-même, avant que l’inquiétude prenne toute la place, passe à la semaine 2."
+     },
+     {
+      "periode": "Semaine 2",
+      "titre": "Revenir au souffle, voir passer les pensées",
+      "texte": "Quand tu es plus calme, prends un quart d’heure pour t’entraîner. Quelle respiration choisir face à l’anxiété ? La plus simple : suivre ton souffle sans le modifier, et y revenir quand tu t’égares. L’exercice de respiration de 13 minutes t’y entraîne. Puis « Observer les pensées — Regarder passer les trains » (15 min) t’aide à regarder une inquiétude arriver, puis repartir.",
+      "seances": [
+       "appren02",
+       "appren05"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Garde le même moment chaque jour. Note dans l’historique ton inquiétude sur 10, avant et après la séance, sans rien juger.",
+      "repere": "Quand tu remarques une inquiétude plus tôt, et que tu peux la regarder un instant sans la suivre, avance d’une semaine."
+     },
+     {
+      "periode": "Semaine 3",
+      "titre": "Approcher une peur, sans forcer",
+      "texte": "Choisis la peur qui revient le plus souvent chez toi. « La peur du jugement » (7 min) desserre l’impression d’être observé. « La peur de l’échec » (10 min) distingue un résultat de ce que tu vaux. « La peur de l’abandon » (10 min) t’aide à garder un appui dans le corps, une main posée sur toi. Tu peux arrêter à tout moment.",
+      "seances": [
+       "ombre09",
+       "ombre08",
+       "ombre07"
+      ],
+      "fonctions": [
+       "Journaux personnels",
+       "Respect de la vie privée"
+      ],
+      "geste": "Chaque jour, prends 7 à 10 minutes pour ta peur, puis décris-la dans le Journal Émotionnel, qui reste sur ton téléphone.",
+      "repere": "Quand tu peux nommer ta peur sans qu’elle décide de ta journée, tu peux aborder la dernière semaine."
+     },
+     {
+      "periode": "Semaine 4",
+      "titre": "Adoucir les jours de déprime",
+      "texte": "Les jours où tout pèse, vise la douceur plutôt que l’effort. « Développer l’amour de soi » (15 min) t’invite à reconnaître une qualité bien réelle, comme ta persévérance. « Gratitude quotidienne » (14 min) part du corps : tes jambes qui t’ont porté, ton souffle qui n’a rien demandé. Si tu hésites, l’Oracle choisit avec toi.",
+      "seances": [
+       "croiss02",
+       "croiss03"
+      ],
+      "fonctions": [
+       "Oracle émotionnel"
+      ],
+      "geste": "Le soir, avant de dormir, écoute l’une des deux séances, puis écris une chose qui a été un peu plus douce aujourd’hui.",
+      "repere": "Quand tu trouves chaque soir un moment un peu plus doux, même petit, tu peux continuer seul, à ton rythme."
+     }
+    ],
+    "apres": "Reviens à ta pause de 4 minutes les jours difficiles, et reprends une semaine si besoin. Si l’anxiété prend trop de place ou s’installe, parles-en à un professionnel de santé."
+   }
   },
   "04": {
    "slug": "detente-du-corps",
@@ -619,7 +815,75 @@
      "Bibliothèque pédagogique",
      "Consulter des leçons illustrées sur posture, souffle, attention et apprentissage progressif."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Détente du corps : ta routine méditation en 3 semaines",
+    "intro": "Ton corps garde les tensions de la journée ? Cette routine méditation dure trois semaines, avec 3 à 25 minutes de pratique chaque jour. Le body scan ouvre la marche, pour faire connaissance avec tes sensations. Puis viennent la pleine conscience des gestes simples et la relaxation guidée, et enfin le qi gong. C’est une pratique de bien-être, à faire en douceur, sans forcer.",
+    "duree": "3 semaines",
+    "rythme": "3 à 25 min par jour",
+    "etapes": [
+     {
+      "periode": "Jours 1 à 5",
+      "titre": "Sentir ton corps avant de le changer",
+      "texte": "Le body scan, c’est une visite de ton corps, une zone après l’autre, sans rien corriger. « Le balayage corporel — Cartographier le corps de l’intérieur » (17 min) te guide pas à pas, allongé ou assis. Les jours pressés, « Se détendre très rapidement » (3 min) suffit pour garder le rendez-vous. Ce qui compte d’abord, c’est la régularité.",
+      "seances": [
+       "appren01",
+       "4minut05"
+      ],
+      "fonctions": [
+       "Bibliothèque pédagogique"
+      ],
+      "geste": "Chaque jour à la même heure, allonge-toi ou assieds-toi confortablement. Avant ton premier essai, lis la leçon sur la posture dans la Bibliothèque.",
+      "repere": "Quand tu sais dire où ton corps est tendu, et où il est à l’aise, passe à l’étape suivante."
+     },
+     {
+      "periode": "Jours 6 à 10",
+      "titre": "Ramener la pleine conscience dans tes gestes",
+      "texte": "Le bien-être du corps se joue aussi hors du tapis. « Manger en pleine conscience — Redécouvrir une bouchée » (13 min) te fait goûter une seule bouchée, lentement : sa texture, son odeur, son goût. « La conscience des cinq sens — Ouvrir les cinq portes » (19 min) réveille chaque sens, l’un après l’autre. Deux exercices de pleine conscience pour habiter ton corps au quotidien.",
+      "seances": [
+       "appren06",
+       "appren07"
+      ],
+      "fonctions": [
+       "Alarme et rappels"
+      ],
+      "geste": "Programme un rappel juste avant un repas. Ce jour-là, mange la première bouchée en silence, sans écran, pendant une minute.",
+      "repere": "Quand tu remarques tes sensations au fil de la journée, sans y penser exprès, tu es prêt pour la suite."
+     },
+     {
+      "periode": "Jours 11 à 15",
+      "titre": "Respirer et relâcher en profondeur",
+      "texte": "Passe à des séances de niveau intermédiaire. « Respirer avec tout le corps » (13 min) laisse le souffle se diffuser bien au-delà des poumons. « Le corps sous une cascade » (15 min) est une relaxation imagée, sous une eau qui coule. Si une zone te gêne, « Respirer autour d’une zone sensible » (15 min) l’approche en douceur, en partant d’une région neutre.",
+      "seances": [
+       "corps01",
+       "corps05",
+       "corps02"
+      ],
+      "fonctions": [
+       "Sons d’ambiance",
+       "Voix, langues et rythme"
+      ],
+      "geste": "Le soir, ajoute la forêt ou les vagues en fond sonore, et ralentis la voix si tu en as envie.",
+      "repere": "Quand ton souffle s’allonge de lui-même pendant la séance et que tes épaules restent basses après, passe au qi gong."
+     },
+     {
+      "periode": "Jours 16 à 21",
+      "titre": "Bouger lentement avec le qi gong",
+      "texte": "Termine par le qi gong, une pratique chinoise de gestes lents et d’attention au corps. « Les mains qui chauffent » (20 min) commence par une balle imaginaire entre tes paumes. « L’arbre immobile » (23 min) t’enracine, les bras autour d’un ballon imaginaire. « La danse du Qi — Qi Gong en mouvement » (25 min) fait répondre tes pieds, tes mains et ton torse.",
+      "seances": [
+       "chi01",
+       "chi03",
+       "chi04"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Pratique debout, dans une pièce aérée, pieds à largeur de hanches. Puis écris dans l’historique la sensation la plus nette, en un mot.",
+      "repere": "Quand tu retrouves la chaleur des paumes ou l’enracinement sans la séance, ta routine tient seule : garde-la."
+     }
+    ],
+    "apres": "Garde le body scan une fois par semaine et alterne relaxation et qi gong. Si une douleur dure ou t’inquiète, consulte un professionnel de santé."
+   }
   },
   "05": {
    "slug": "gerer-ses-emotions",
@@ -772,7 +1036,74 @@
      "Alarme et rappels",
      "Programmer un rappel quotidien ou certains jours pour favoriser une habitude régulière."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Méditer chaque jour pendant 4 semaines pour gérer ses émotions",
+    "intro": "Une émotion t’emporte parfois avant que tu la voies venir ? Ce programme te propose de méditer chaque jour pendant quatre semaines, de 3 à 20 minutes. Tu commences par des pauses courtes, à chaud. Puis tu apprends à accueillir une émotion, à cultiver la gratitude et à rencontrer ton enfant intérieur. Chaque jour, un petit pas dans la gestion des émotions.",
+    "duree": "4 semaines",
+    "rythme": "3 à 20 min par jour",
+    "etapes": [
+     {
+      "periode": "Semaine 1",
+      "titre": "Reprendre ton souffle à chaud",
+      "texte": "Cette semaine, tu t’entraînes sur les petits moments. Après un accrochage, « Se calmer après une dispute » (3 min) t’aide à revenir à ce qui t’entoure avant de répondre. Les jours plus gris, « Le souvenir heureux en trois sens » (4 min) réchauffe le présent avec un bon souvenir. Puis tu mets un mot sur ce que tu as ressenti.",
+      "seances": [
+       "4minut06",
+       "4minut02"
+      ],
+      "fonctions": [
+       "Alarme et rappels"
+      ],
+      "geste": "Programme un rappel le soir. Quand il sonne, donne un seul mot à l’émotion la plus forte de ta journée, sans la juger.",
+      "repere": "Quand tu sais nommer ce que tu ressens sur le moment, et pas seulement le soir, passe à la semaine 2."
+     },
+     {
+      "periode": "Semaine 2",
+      "titre": "Accueillir une émotion au lieu de lutter",
+      "texte": "Cette semaine, tu changes de réflexe : regarder l’émotion plutôt que la chasser. « Accueillir une émotion difficile » (17 min) t’apprend à l’observer comme un scientifique bienveillant, et à voir qu’elle bouge et se transforme. Les jours où tu as peu de temps, « Méditation de compassion » (7 min) t’offre une pause de bienveillance, pour toi et pour les autres.",
+      "seances": [
+       "croiss01",
+       "cons06"
+      ],
+      "fonctions": [
+       "Oracle émotionnel"
+      ],
+      "geste": "Quand une émotion te submerge, décris-la à l’Oracle, puis offre-toi la séance qui t’aide à l’accueillir.",
+      "repere": "Quand une émotion forte passe un peu plus vite, parce que tu ne la combats plus, tu peux avancer."
+     },
+     {
+      "periode": "Semaine 3",
+      "titre": "Cultiver la gratitude et la douceur envers toi",
+      "texte": "Place à ce qui nourrit. « Gratitude quotidienne » (14 min) t’apprend une gratitude concrète, qui commence dans le corps. « Développer l’amour de soi » (15 min) cherche en toi une force que tu peux prouver, puis lui accorde un peu d’amour. « Se libérer de la comparaison » (13 min) t’aide à voir que ce que tu envies n’est pas étranger à ta vie.",
+      "seances": [
+       "croiss03",
+       "croiss02",
+       "croiss06"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Chaque soir, tiens ton journal de gratitude : trois choses précises dans « Mes trois gratitudes du jour », du journal Gratitude & Croissance.",
+      "repere": "Quand trouver trois gratitudes te prend moins d’une minute, et que tu te parles avec plus de douceur, continue."
+     },
+     {
+      "periode": "Semaine 4",
+      "titre": "Rencontrer ton enfant intérieur et ton ombre",
+      "texte": "Pour finir, va plus loin, à ton rythme. « Sérénité de l’Enfant Intérieur » (19 min) te fait retrouver la part de toi qui a besoin de jeu et de sécurité. « Travail de l’Ombre » (17 min) te met face à une part difficile de toi, pour voir ce qu’elle défend. Si c’est trop fort, ouvre les yeux et reprends plus tard.",
+      "seances": [
+       "ombre05",
+       "ombre06"
+      ],
+      "fonctions": [
+       "Historique et réflexions",
+       "Respect de la vie privée"
+      ],
+      "geste": "Garde ces séances pour deux soirs calmes, sans rendez-vous juste après, et note dans l’historique ce qui s’est ouvert. Tout reste sur ton téléphone.",
+      "repere": "Quand tu reconnais une vieille réaction au moment où elle arrive, et que tu peux choisir ta réponse, le programme est accompli."
+     }
+    ],
+    "apres": "Garde ta pause de 3 minutes pour les moments vifs, et ton mot du soir. Ensuite, explore « Ho’oponopono du Cœur » (15 min) ou « Pardonner sans oublier » (15 min)."
+   }
   },
   "06": {
    "slug": "developpement-spirituel",
@@ -1033,7 +1364,90 @@
      "Créateur de méditations",
      "Écrire une séance sur mesure ; elle peut être lue à voix haute par le téléphone, même hors ligne."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Développement spirituel : un programme de méditation gratuit",
+    "intro": "Quelles sont les étapes de l’éveil spirituel ? Chaque chemin est différent. Pour toi qui cherches du sens, ce programme de six semaines en propose un, du plus simple au plus avancé : des lieux sacrés jusqu’au troisième œil. Compte 13 à 30 minutes par séance, cinq jours sur sept. Tu n’as rien à croire, seulement à explorer.",
+    "duree": "6 semaines",
+    "rythme": "13 à 30 min, 5 jours sur 7",
+    "etapes": [
+     {
+      "periode": "Semaine 1",
+      "titre": "Entrer dans le silence des lieux sacrés",
+      "texte": "Commence par des séances courtes et contemplatives. « Sous l’arbre de la Bodhi » (17 min) t’assoit là où la tradition situe l’éveil du Bouddha. « Au centre de Stonehenge » (13 min) te fait regarder la lumière révéler les pierres, une à une. « La grotte de glace bleue » (14 min) t’offre un air d’une pureté absolue et un grand silence.",
+      "seances": [
+       "lieux01",
+       "lieux05",
+       "lieux06"
+      ],
+      "fonctions": [
+       "Passeport zen et progression"
+      ],
+      "geste": "Cinq jours cette semaine, à heure fixe, assieds-toi au calme. Ton passeport zen garde la trace de chaque séance.",
+      "repere": "Quand le silence de la fin de séance te semble plein plutôt que vide, passe aux chakras."
+     },
+     {
+      "periode": "Semaine 2",
+      "titre": "Apprendre la carte des sept chakras",
+      "texte": "Quels sont les sept chakras, et où les sentir ? « La reconnaissance des sept chakras » (27 min) t’apprend d’abord à les situer dans ton corps, un par un. Quand la carte t’est familière, « L’alignement des sept chakras » (30 min) les relie sur une seule ligne, de la base à la couronne. Ces deux séances longues méritent un moment sans hâte.",
+      "seances": [
+       "chakra01",
+       "chakra02"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Après chaque séance, note dans le journal « Expériences Spirituelles » le centre que tu as senti le plus nettement.",
+      "repere": "Quand tu sais situer les sept centres sans être guidé, passe à la rencontre des guides."
+     },
+     {
+      "periode": "Semaines 3 et 4",
+      "titre": "Rencontrer tes guides intérieurs",
+      "texte": "Deux semaines pour les guides, ces figures de sagesse que tu fais vivre en toi. « Le guide de lumière » (24 min) t’offre sa chaleur, que tu gardes quand il se retire. « Le nom et le signe » (16 min) te confie un nom et un objet pour retrouver cet état. Puis « Le conseil des guides » (26 min) t’aide à regarder un problème sous plusieurs angles.",
+      "seances": [
+       "guides03",
+       "guides04",
+       "guides02"
+      ],
+      "fonctions": [
+       "Carnet des guides",
+       "Collection d’objets symboliques"
+      ],
+      "geste": "Garde trois minutes après chaque séance, les yeux encore mi-clos : décris ton guide et l’objet reçu tant que l’image est nette.",
+      "repere": "Quand un guide ou un signe revient d’une séance à l’autre, tu as trouvé tes repères : choisis ta tradition."
+     },
+     {
+      "periode": "Semaine 5",
+      "titre": "Suivre une grande tradition",
+      "texte": "Choisis la voie qui t’attire le plus. Côté bouddhisme, « Le jardin de Maitreya — Rencontrer celui que tu deviens » (20 min) te fait gravir un escalier, pavillon après pavillon. Côté chamanisme, « Le feu des anciens » (26 min) t’assoit près d’un feu, parmi des figures qui s’y rassemblent, sans leur imposer de message. Tu peux aussi alterner les deux.",
+      "seances": [
+       "buddhi07",
+       "shaman02"
+      ],
+      "fonctions": [
+       "Sanctuaires personnels"
+      ],
+      "geste": "Cette semaine, crée ton sanctuaire personnel, inspiré de la voie choisie, et commence chaque séance en t’y installant un instant.",
+      "repere": "Quand ta pratique te ressemble, avec ta voie, ton lieu et tes symboles, tu es prêt pour les séances avancées."
+     },
+     {
+      "periode": "Semaine 6",
+      "titre": "Aborder le troisième œil et relire ton chemin",
+      "texte": "Pour finir, trois séances de niveau avancé. « Le troisième œil et les deux yeux » (26 min) t’apprend à passer du regard tourné dehors au regard tourné dedans. « L’œil intérieur s’éveille » (22 min) fait naître une image au centre du front, puis la laisse partir. « Le contrat de mon âme » (19 min) relit ce que tu apprends et ce que tu offres.",
+      "seances": [
+       "3emeoe01",
+       "3emeoe02",
+       "trance05"
+      ],
+      "fonctions": [
+       "Mondes immersifs"
+      ],
+      "geste": "Garde un jour de repos entre deux séances avancées. Ce jour-là, préfère un monde immersif, comme Le Temple Cosmique (13 min).",
+      "repere": "Quand tu passes du dehors au dedans en quelques respirations, ton chemin peut continuer seul, à ton rythme."
+     }
+    ],
+    "apres": "Refais ce programme dans l’ordre qui t’appelle. Note tes coïncidences dans « Signes & Synchronicités », et explore « Conscience non-duelle » (28 min) quand tu te sens prêt."
+   }
   },
   "07": {
    "slug": "transe-chamanisme-voyage-astral",
@@ -1251,7 +1665,91 @@
      "Écoute hors ligne",
      "Télécharger les contenus une première fois, puis les utiliser sans connexion ni distraction réseau."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Transe chamanique et voyage astral : 30 jours de méditation",
+    "intro": "C’est quoi, entrer en transe ? Laisser ton attention s’absorber jusqu’à oublier le décor, tout en restant conscient. Si tu as déjà un peu médité, ces 30 jours de méditation t’y entraînent par paliers, du voyage chamanique au voyage astral. Compte 14 à 33 minutes par jour, allongé au calme, jamais en conduisant. Tout passe par ton attention et ton imagination, sans aucune substance.",
+    "duree": "30 jours",
+    "rythme": "14 à 33 min par jour",
+    "etapes": [
+     {
+      "periode": "Jours 1 à 6",
+      "titre": "Apprendre l’absorption, au seuil du sommeil",
+      "texte": "Commence par des séances de niveau intermédiaire. « La spirale aux 33 niveaux » (24 min) te fait descendre niveau après niveau, en comptant. « Corps endormi, esprit éveillé » (24 min) t’apprend à rester attentif pendant que ton corps s’endort. « Le double qui se lève » (14 min) prépare le voyage astral : un double imaginaire se lève et marche.",
+      "seances": [
+       "consci03",
+       "consci02",
+       "corps03"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Chaque jour, à heure fixe, allonge-toi dans une pièce sombre. Si la voix va trop vite pour toi, ralentis-la.",
+      "repere": "Quand tu perds la notion du temps pendant la séance tout en gardant le fil de la voix, passe au chamanisme."
+     },
+     {
+      "periode": "Jours 7 à 12",
+      "titre": "Faire tes premiers voyages chamaniques",
+      "texte": "Ici, le chamanisme s’explore par l’imagination. Ouvre chaque voyage avec « Le cercle de protection » (23 min), qui trace autour de toi un espace rassurant, à partir d’un élément qui t’appelle. Puis « Le retour avec un objet de pouvoir » (30 min) te ramène d’un voyage avec un objet imaginaire qui porte une intention.",
+      "seances": [
+       "shaman03",
+       "shaman04"
+      ],
+      "fonctions": [
+       "Collection d’objets symboliques",
+       "Sanctuaires personnels"
+      ],
+      "geste": "Dès ton retour, range l’objet de pouvoir dans ta collection, avec l’intention qu’il porte. Fais de ton cercle un sanctuaire personnel.",
+      "repere": "Quand ton cercle se dessine vite et que tu en sors calme, tu es prêt pour la transe guidée."
+     },
+     {
+      "periode": "Jours 13 à 18",
+      "titre": "Entrer en transe au son du tambour",
+      "texte": "Place aux séances avancées. « Descente en transe progressive » (29 min) te fait descendre par paliers, avec de courtes remontées. Puis, au son du tambour, « Voyage au monde d’en bas » (30 min) t’invite à suivre un animal et à bouger comme lui, à la manière des voyages vers l’animal totem. « Voyage au monde d’en haut » (25 min) t’élève dans le vent et la lumière.",
+      "seances": [
+       "trance01",
+       "trance02",
+       "trance03"
+      ],
+      "fonctions": [
+       "Carnet des guides"
+      ],
+      "geste": "Après chaque voyage, décris aussitôt dans le carnet des guides l’animal ou la présence rencontrés, avant que l’image s’efface.",
+      "repere": "Quand tu reviens de chaque voyage avec une image nette, un animal, un lieu ou un geste, tu peux aborder le voyage astral."
+     },
+     {
+      "periode": "Jours 19 à 24",
+      "titre": "Préparer le voyage astral par le micro-détachement",
+      "texte": "Comment se fait le voyage astral ? Ici, par petites étapes. « L’aimant au plafond » (17 min) te fait sentir le poids du corps, puis une légère attraction vers le plafond. « Le point derrière la tête » (16 min) déplace le point d’où tu observes. « S’asseoir fantôme » (20 min) répète en pensée le geste de te redresser, jusqu’à le sentir presque réel.",
+      "seances": [
+       "microd01",
+       "microd03",
+       "microd05"
+      ],
+      "fonctions": [
+       "Écoute hors ligne"
+      ],
+      "geste": "Télécharge tes séances d’avance : allongé, tu n’as plus rien à chercher. Garde la même position du début à la fin.",
+      "repere": "Quand une sensation de flottement ou de décalage apparaît, même brève, sans que tu la forces, passe aux protocoles."
+     },
+     {
+      "periode": "Jours 25 à 30",
+      "titre": "Explorer les protocoles de voyage astral",
+      "texte": "Dernière étape, les protocoles les plus longs. « Astral · Flottement vers le plafond » (33 min) efface peu à peu la pression du support, jusqu’à l’impression de flotter. « Astral · La Corde » (29 min) te fait grimper une corde imaginaire. Enfin, « Astral · Cible à vérifier » (19 min) t’invite à décrire une cible, puis à comparer honnêtement.",
+      "seances": [
+       "astr01",
+       "cons03",
+       "astr04"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Garde ces séances pour les jours reposés. Si le silence te gêne, glisse sous la voix un son très doux, comme Nébuleuse.",
+      "repere": "Quand tu sais décrire ce que tu as perçu sans l’embellir, ton entraînement est solide : continue à ton rythme."
+     }
+    ],
+    "apres": "Le voyage astral reste une expérience ressentie, pas un fait prouvé. Poursuis avec les autres protocoles de la catégorie Voyage Astral, et reviens au cercle de protection les jours fragiles."
+   }
   },
   "08": {
    "slug": "apprendre-a-mediter",
@@ -1398,7 +1896,90 @@
      "Dragon compagnon et île évolutive",
      "Voir évoluer le dragon et son île selon la régularité de la pratique, sans compétition."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Défi méditation de 30 jours pour apprendre à méditer",
+    "intro": "Comment méditer quand on débute ? Pas à pas, quelques minutes par jour. Pour toi qui n’as jamais médité, ou qui as déjà abandonné, ce défi méditation de 30 jours va d’une première méditation guidée de 5 minutes à des séances de 20 minutes. Chaque étape t’apprend une base, du souffle jusqu’aux gestes de tous les jours. Le but : méditer ensuite seul, à ta façon.",
+    "duree": "30 jours",
+    "rythme": "3 à 20 min par jour",
+    "etapes": [
+     {
+      "periode": "Jours 1 à 3",
+      "titre": "Faire ta toute première méditation",
+      "texte": "Le premier jour, une seule séance : « Première méditation silencieuse » (5 min). Tu y découvres que les silences ne sont pas des trous : ils sont la pratique elle-même. Les jours 2 et 3, essaie « Se détendre très rapidement » (3 min), puis « Le refuge instantané » (4 min). Une méditation de 5 minutes suffit pour commencer.",
+      "seances": [
+       "learnFirstSilence",
+       "4minut05",
+       "4minut01"
+      ],
+      "fonctions": [
+       "Dragon compagnon et île évolutive"
+      ],
+      "geste": "Choisis ton moment, le matin au réveil ou le soir avant de dormir, et garde-le pour les 30 jours.",
+      "repere": "Après tes 10 premières minutes, l’œuf de ton dragon éclot : c’est le signal pour passer au souffle."
+     },
+     {
+      "periode": "Jours 4 à 10",
+      "titre": "Apprendre à revenir au souffle",
+      "texte": "Une semaine pour la pratique de base. La séance du souffle, 13 minutes, fait de ta respiration un point de rendez-vous : tu y reviens chaque fois que l’attention s’éloigne. Puis « Observer les pensées — Regarder passer les trains » (15 min) te montre qu’une pensée peut arriver et repartir sans t’emporter. T’égarer fait partie du jeu.",
+      "seances": [
+       "appren02",
+       "appren05"
+      ],
+      "fonctions": [
+       "Bibliothèque pédagogique"
+      ],
+      "geste": "Avant ta séance, lis une leçon de la Bibliothèque sur la posture ou le souffle. Puis assieds-toi sur une chaise, les pieds bien à plat.",
+      "repere": "Quand tu remarques que tu t’es égaré et que tu reviens au souffle sans t’énerver, tu peux passer au corps et aux sens."
+     },
+     {
+      "periode": "Jours 11 à 17",
+      "titre": "Ouvrir ton attention au corps et aux sens",
+      "texte": "Ton attention sait revenir : élargis-la. « Le balayage corporel — Cartographier le corps de l’intérieur » (17 min) te fait visiter ton corps comme une carte. « La conscience des cinq sens — Ouvrir les cinq portes » (19 min) ouvre ensuite tes sens comme des fenêtres, une à une. « Distinguer sensation, émotion et pensée — Les trois couches de l’expérience » (14 min) t’aide à trier ce que tu vis.",
+      "seances": [
+       "appren01",
+       "appren07",
+       "appren03"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Après chaque séance, garde une minute les yeux fermés, puis note dans l’historique une sensation, une émotion ou une pensée.",
+      "repere": "Quand tu sais dire si ce que tu vis est une sensation, une émotion ou une pensée, passe à l’étape suivante."
+     },
+     {
+      "periode": "Jours 18 à 24",
+      "titre": "Méditer au milieu de ta vie de tous les jours",
+      "texte": "Comment pratiquer la méditation au quotidien ? En l’emportant hors de la séance. « Méditer avec les yeux ouverts — Rester présent au milieu du monde » (12 min) garde ton attention ouverte, le regard détendu, dans le mouvement de tes journées. « Manger en pleine conscience — Redécouvrir une bouchée » (13 min) fait d’une simple bouchée un exercice de pleine conscience.",
+      "seances": [
+       "appren04",
+       "appren06"
+      ],
+      "fonctions": [
+       "Alarme et rappels"
+      ],
+      "geste": "Programme un rappel au milieu de la journée. Quand il sonne, fais une minute de présence, les yeux ouverts, là où tu es.",
+      "repere": "Quand des moments de présence t’arrivent sans rappel, en marchant ou en mangeant, tu es prêt à choisir seul tes séances."
+     },
+     {
+      "periode": "Jours 25 à 30",
+      "titre": "Choisir tes séances et gagner en autonomie",
+      "texte": "Dernière étape, des séances de niveau intermédiaire. « Respirer avec tout le corps » (13 min) approfondit ton souffle. « Entendre — Le bol chantant lointain » (16 min) te fait découvrir l’imagination auditive. « Les mains qui chauffent » (20 min) t’initie au qi gong par les paumes. Puis, chaque jour, cherche toi-même la séance qui te tente.",
+      "seances": [
+       "corps01",
+       "visual04",
+       "chi01"
+      ],
+      "fonctions": [
+       "Recherche par mot-clé",
+       "Catalogue multithématique"
+      ],
+      "geste": "Chaque jour, tape un mot dans la recherche, comme « sommeil » ou « concentration », et choisis toi-même ta séance.",
+      "repere": "Quand tu sais quelle séance te convient selon ton humeur du jour, le défi est relevé : tu médites en autonomie."
+     }
+    ],
+    "apres": "Garde ton rendez-vous quotidien. Pour élargir ta pratique, essaie « Toucher — La clé dans la main » (17 min), une première visualisation par le toucher."
+   }
   },
   "09": {
    "slug": "bouddhisme-et-qi-gong",
@@ -1552,7 +2133,75 @@
      "Créateur de méditations",
      "Écrire une séance sur mesure ; elle peut être lue à voix haute par le téléphone, même hors ligne."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Bouddhisme et qi gong : 4 semaines de méditation au quotidien",
+    "intro": "Curieux de la sagesse bouddhiste et des gestes du qi gong ? Ce programme t’invite à une méditation au quotidien pendant quatre semaines, de 15 à 30 minutes par jour. Tu alternes : un jour le qi gong, pour bouger lentement et sentir ton corps, le lendemain une méditation bouddhiste guidée, auprès de Mañjuśrī, de Tārā ou d’Avalokiteśvara.",
+    "duree": "4 semaines",
+    "rythme": "15 à 30 min par jour",
+    "etapes": [
+     {
+      "periode": "Semaine 1",
+      "titre": "Poser l’attention dans des lieux de sagesse",
+      "texte": "Commence en douceur. « Sous l’arbre de la Bodhi » (17 min) t’assoit au pied de l’arbre de l’éveil, ses racines sous toi. « Le sanctuaire taoïste dans les montagnes » (15 min) t’emmène à l’aube, au-dessus d’une mer de nuages. Côté qi gong, « Les mains qui chauffent » (20 min) apprend à tes mains à sentir avant d’agir.",
+      "seances": [
+       "lieux01",
+       "lieux03",
+       "chi01"
+      ],
+      "fonctions": [
+       "Bibliothèque pédagogique"
+      ],
+      "geste": "Un jour sur deux, pratique le qi gong debout, près d’une fenêtre. Les autres jours, médite assis : la Bibliothèque t’explique la posture.",
+      "repere": "Quand une chaleur douce vient entre tes paumes, et que tu t’assois sans t’agiter, passe à la semaine 2."
+     },
+     {
+      "periode": "Semaine 2",
+      "titre": "Tenir debout comme un arbre, voir clair",
+      "texte": "« L’arbre immobile » (23 min) te fait tenir debout, enraciné, sans forcer. Côté bouddhisme, « L’épée de Mañjuśrī » (20 min) t’aide à repérer les pensées répétitives, puis à les laisser passer sans combat. Deux pratiques complémentaires, l’une pour l’ancrage du corps, l’autre pour la lucidité de l’esprit.",
+      "seances": [
+       "chi03",
+       "buddhi03"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Pour l’arbre, place-toi pieds à largeur de hanches. Sous la méditation du soir, essaie la flûte chinoise en son d’ambiance.",
+      "repere": "Quand tu tiens la posture sans te crisper, et que tu remarques plus vite une pensée en boucle, avance."
+     },
+     {
+      "periode": "Semaine 3",
+      "titre": "Faire circuler l’énergie, cultiver le courage",
+      "texte": "« La petite circulation » (22 min) te fait suivre une perle qui descend depuis le ventre, remonte par le dos et boucle. Puis viennent deux grandes figures du bouddhisme. « Tārā et les huit grands dangers » (24 min) t’emmène sur une ancienne route, face à tes peurs. « Les onze visages d’Avalokiteśvara » (22 min) t’apprend à choisir ta façon de répondre à ce qui arrive.",
+      "seances": [
+       "chi02",
+       "buddhi08",
+       "buddhi02"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Le soir, note dans tes journaux une situation du jour, et la réponse que tu choisirais : douceur, fermeté ou silence.",
+      "repere": "Quand tu choisis ta réponse face à une situation difficile, au lieu de réagir aussitôt, passe à la dernière semaine."
+     },
+     {
+      "periode": "Semaine 4",
+      "titre": "Bouger librement et élargir ton regard",
+      "texte": "« La danse du Qi — Qi Gong en mouvement » (25 min) enchaîne des gestes lents, jusqu’à ce que le corps danse seul. « Le voyage de Sudhana — Les maîtres du chemin » (30 min) t’apprend à regarder une même situation avec plusieurs regards. En fin de semaine, « Conscience non-duelle » (28 min) ouvre une contemplation plus avancée : où finit le dedans ?",
+      "seances": [
+       "chi04",
+       "buddhi01",
+       "cosmiq01"
+      ],
+      "fonctions": [
+       "Mondes immersifs"
+      ],
+      "geste": "Le dernier jour, offre-toi L’Arbre de Conscience (18 min), un monde où un gardien te montre comment toutes les vies sont reliées.",
+      "repere": "Quand le qi gong et la méditation bouddhiste trouvent leur place dans ta semaine sans effort, ta pratique est la tienne."
+     }
+    ],
+    "apres": "Garde l’alternance qui te convient. Explore ensuite « Le lion de Mañjuśrī » (20 min) ou « La lumière de Kṣitigarbha dans les mondes obscurs » (21 min)."
+   }
   },
   "10": {
    "slug": "concentration-et-creativite",
@@ -1689,7 +2338,74 @@
      "Mondes immersifs",
      "Choisir parmi 17 environnements narratifs qui favorisent l’imagination et l’évasion."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Concentration et créativité : la pleine conscience au quotidien",
+    "intro": "Ton attention part dans tous les sens ? Ce programme de quatre semaines t’entraîne à te concentrer, puis à nourrir ta créativité, de 12 à 26 minutes par jour. Le départ se fait par la pleine conscience au quotidien : le souffle, les pensées, les sens. Puis viennent la visualisation et des séances qui libèrent les idées. Pas de promesse, juste un vrai entraînement.",
+    "duree": "4 semaines",
+    "rythme": "12 à 26 min par jour",
+    "etapes": [
+     {
+      "periode": "Semaine 1",
+      "titre": "Revenir encore et encore au même point",
+      "texte": "La base de la concentration : choisir un point et y revenir. Treize minutes sur le souffle t’y entraînent, sans chercher à respirer parfaitement. Les autres jours, « Méditer avec les yeux ouverts — Rester présent au milieu du monde » (12 min) te fait garder cette attention au milieu du bruit. Chaque distraction remarquée devient un exercice.",
+      "seances": [
+       "appren02",
+       "appren04"
+      ],
+      "fonctions": [
+       "Bibliothèque pédagogique"
+      ],
+      "geste": "Chaque matin, avant d’ouvrir tes messages, médite 12 ou 13 minutes. Ton téléphone ne sert qu’à lancer la séance.",
+      "repere": "Quand tu remarques plus vite que ton esprit s’est échappé, sans t’agacer, passe à la semaine 2."
+     },
+     {
+      "periode": "Semaine 2",
+      "titre": "Repérer les distractions, affûter tes sens",
+      "texte": "Parmi les exercices de pleine conscience, deux t’aident à voir la distraction arriver. « Observer les pensées — Regarder passer les trains » (15 min) t’entraîne à nommer chaque pensée, puis à la laisser repartir. « La conscience des cinq sens — Ouvrir les cinq portes » (19 min) affine ton observation, de la vue jusqu’au goût, puis garde tout ouvert.",
+      "seances": [
+       "appren05",
+       "appren07"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Une fois par jour, fais une tâche simple en pleine conscience, cinq minutes. Puis note dans l’historique ce qui t’a distrait.",
+      "repere": "Quand tu tiens cinq minutes sur une tâche sans dériver vers ton téléphone, tu peux passer à la visualisation."
+     },
+     {
+      "periode": "Semaine 3",
+      "titre": "Entraîner ta visualisation sens par sens",
+      "texte": "Comment pratiquer la visualisation ? Un sens à la fois. « Toucher — La clé dans la main » (17 min) pose une clé imaginaire dans ta main : son poids, son froid. « Entendre — Le bol chantant lointain » (16 min) entraîne ton oreille intérieure. « Film — Un papillon vole à côté de toi » (18 min) te fait suivre un mouvement des yeux, en imagination.",
+      "seances": [
+       "visual03",
+       "visual04",
+       "visual02"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Garde l’après-midi pour ces séances, assis, les yeux fermés. Ralentis la voix si les images n’ont pas le temps de se former.",
+      "repere": "Quand une image imaginée tient quelques secondes, nette au toucher, à l’oreille ou au regard, passe à la créativité."
+     },
+     {
+      "periode": "Semaine 4",
+      "titre": "Libérer tes idées et ton œil intérieur",
+      "texte": "Place à la créativité. « Déblocage créatif » (26 min) met de côté ton juge intérieur, le temps de laisser venir des idées. « Le rêve éveillé dirigé » (20 min) suit un fil guidé où tes images spontanées prennent le relais. En fin de semaine, « L’œil intérieur s’éveille » (22 min), plus avancée, t’apprend à faire naître une image, puis à la transformer.",
+      "seances": [
+       "corpsc02",
+       "consci05",
+       "3emeoe02"
+      ],
+      "fonctions": [
+       "Créateur de méditations"
+      ],
+      "geste": "La veille d’un projet, écris dans le créateur une courte méditation sur ton sujet, et écoute-la avant de commencer.",
+      "repere": "Quand les idées te viennent plus librement et que tu les notes sans les juger, ton entraînement porte : continue."
+     }
+    ],
+    "apres": "Garde le souffle chaque matin et une visualisation par semaine. Pour aller plus loin, essaie « Les trois sens réunis — Le vaisseau qui explore la galaxie » (28 min)."
+   }
   },
   "11": {
    "slug": "confiance-en-soi",
@@ -1840,7 +2556,77 @@
      "Créateur de méditations",
      "Écrire une séance sur mesure ; elle peut être lue à voix haute par le téléphone, même hors ligne."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Défi méditation de 21 jours pour la confiance en soi",
+    "intro": "Comment acquérir de la confiance en soi ? Pas en un jour, mais par petits pas, en te parlant avec plus de douceur. Pour toi qui doutes souvent de toi, ce défi méditation de 21 jours propose de 3 à 22 minutes par jour, des premiers gestes concrets jusqu’à tes talents oubliés. Chaque jour compte, même le plus court.",
+    "duree": "21 jours",
+    "rythme": "3 à 22 min par jour",
+    "etapes": [
+     {
+      "periode": "Jours 1 à 5",
+      "titre": "Passer à l’action par un premier geste",
+      "texte": "Ces cinq jours, chaque matin commence par un tout petit pas. « Quand tu manques de motivation » (3 min) réduit ton projet à un premier geste concret. « Quand tu as envie de tout abandonner » (3 min) t’aide à ne pas décider dans la fatigue. Avant un rendez-vous important, « Retrouver confiance avant une épreuve » (4 min) te fait chercher un appui avant d’entrer.",
+      "seances": [
+       "4minut10",
+       "4minut09",
+       "4minut07"
+      ],
+      "fonctions": [
+       "Alarme et rappels"
+      ],
+      "geste": "Chaque matin, au rappel, choisis un seul geste de cinq minutes pour la journée, et fais-le avant midi.",
+      "repere": "Quand tu fais ton geste du jour sans attendre d’en avoir envie, passe à l’étape suivante."
+     },
+     {
+      "periode": "Jours 6 à 10",
+      "titre": "Desserrer le regard des autres",
+      "texte": "Un signe fréquent d’un manque de confiance en soi : se croire observé et jugé. « Quand tu te sens observé ou jugé » (4 min) te fait vérifier ce que tu sais vraiment des pensées des autres. « La peur du jugement » (7 min) t’apprend à être plus doux avec toi quand tu te sens regardé. « Se libérer de la comparaison » (13 min) regarde la comparaison en face.",
+      "seances": [
+       "4minut11",
+       "ombre09",
+       "croiss06"
+      ],
+      "fonctions": [
+       "Oracle émotionnel"
+      ],
+      "geste": "Les jours de doute, confie ton état à l’Oracle. Puis accorde-toi 4 à 13 minutes, assis, avant de reprendre ta journée.",
+      "repere": "Quand une remarque te touche moins longtemps et que tu te compares un peu moins, avance vers l’étape suivante."
+     },
+     {
+      "periode": "Jours 11 à 16",
+      "titre": "Distinguer tes erreurs de ta valeur",
+      "texte": "L’estime de soi soutient la confiance en soi. « La peur de l’échec » (10 min) distingue ce que tu as raté de ce que tu es. « Se Pardonner à Soi-Même » (17 min) t’aide à reconnaître une erreur, puis à cesser de te la reprocher. « Développer l’amour de soi » (15 min) part d’une curiosité ou d’une persévérance bien à toi.",
+      "seances": [
+       "ombre08",
+       "ombre04",
+       "croiss02"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Chaque soir, écris dans « Micro-victoires » une chose réussie aujourd’hui, même minuscule, et la qualité qu’elle montre.",
+      "repere": "Quand tu peux dire « j’ai raté » sans penser « je suis nul », passe à la dernière étape."
+     },
+     {
+      "periode": "Jours 17 à 21",
+      "titre": "Te projeter et retrouver tes ressources",
+      "texte": "Pour finir, regarde vers l’avant. « Visualiser sa croissance » (17 min) te fait voir trois étapes de ta route, six mois plus loin chacune, sans version idéalisée de toi. « Soi du futur » (22 min) relie la direction souhaitée à un premier pas concret. Enfin, « Les talents oubliés » (16 min), plus avancée, te fait rapporter la qualité d’un artisan d’autrefois.",
+      "seances": [
+       "croiss07",
+       "consci07",
+       "trance07"
+      ],
+      "fonctions": [
+       "Passeport zen et progression",
+       "Dragon compagnon et île évolutive"
+      ],
+      "geste": "Après chaque séance, fais dans l’heure le premier pas imaginé. Ton passeport zen et ton dragon gardent la trace de ta régularité.",
+      "repere": "Quand tu tiens tes petits engagements envers toi-même, jour après jour, ta confiance a une base concrète : continue."
+     }
+    ],
+    "apres": "Garde la pause de 4 minutes avant les épreuves. Pour aller plus loin, essaie « Le conseil des guides » (26 min) face à une décision."
+   }
   },
   "12": {
    "slug": "reves-lucides",
@@ -1935,7 +2721,71 @@
      "Écoute hors ligne",
      "Télécharger les contenus une première fois, puis les utiliser sans connexion ni distraction réseau."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Rêve lucide : ta routine avant de dormir en 4 semaines",
+    "intro": "Envie d’explorer tes nuits ? Ce programme t’aide à préparer le rêve lucide, avec une routine avant de dormir sur quatre semaines. Le soir, tu écoutes au lit une séance de 16 à 27 minutes. Le matin, tu notes tes rêves. Tu apprends d’abord à mieux t’en souvenir, puis à reconnaître que tu rêves. Sans pression : chaque rêve noté est déjà un pas.",
+    "duree": "4 semaines",
+    "rythme": "16 à 27 min au coucher",
+    "etapes": [
+     {
+      "periode": "Semaine 1",
+      "titre": "Te souvenir de tes rêves",
+      "texte": "Avant la lucidité vient le souvenir. Cette semaine, endors-toi avec « Glissement vers le sommeil » (16 min) ou « Voyage du sommeil » (27 min), deux séances faites pour s’endormir. Ton vrai travail se fait au réveil : retenir ce qui reste du rêve, une couleur, un décor, quelqu’un. Même un matin sans souvenir mérite une ligne.",
+      "seances": [
+       "corpsc03",
+       "reves02"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Pose ton téléphone près du lit, Journal des Rêves prêt. Au réveil, reste immobile dix secondes, puis écris.",
+      "repere": "Quand tu retrouves un fragment de rêve la plupart des matins, passe à l’étape suivante."
+     },
+     {
+      "periode": "Semaine 2",
+      "titre": "Installer l’intention de reconnaître le rêve",
+      "texte": "C’est le cœur du programme. Chaque soir, « Préparation au rêve lucide » (23 min) t’aide à t’endormir avec une seule intention : reconnaître que tu rêves. Choisis une voix douce et ralentis-la si besoin, pour que la séance t’accompagne vers le sommeil sans te tenir éveillé. Le matin, ton journal continue.",
+      "seances": [
+       "reves01"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Au lit, juste avant la séance, relis ton dernier rêve noté. Puis lance l’écoute et laisse-toi glisser.",
+      "repere": "Quand un rêve te semble plus net, ou que l’intention te revient au réveil, passe à la semaine 3."
+     },
+     {
+      "periode": "Semaine 3",
+      "titre": "Explorer le seuil entre veille et sommeil",
+      "texte": "Les soirs où tu as du temps, explore la frontière. « Corps endormi, esprit éveillé » (24 min) t’entraîne à rester présent au seuil, quand le corps lâche prise. « La spirale aux 33 niveaux » (24 min) te porte vers une absorption proche du sommeil, au rythme du compte. Les autres soirs, garde ta séance de préparation.",
+      "seances": [
+       "consci02",
+       "consci03"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Deux soirs cette semaine, quand tu n’as pas d’horaire le lendemain, écoute allongé sur le dos, un son d’ambiance doux en fond.",
+      "repere": "Quand tu remarques les premières images du sommeil sans t’endormir aussitôt, tu peux passer à la dernière semaine."
+     },
+     {
+      "periode": "Semaine 4",
+      "titre": "Apprivoiser les images et tes signes de rêve",
+      "texte": "Dernière étape : jouer avec les images. « Le rêve éveillé dirigé » (20 min) te fait suivre un récit qui se transforme au fil de tes images. « L’image qui apparaît seule » (23 min), plus avancée, t’apprend à attendre devant l’espace sombre. Puis relis ton mois de rêves : un lieu ou une situation qui revient peut devenir ton signal, la nuit.",
+      "seances": [
+       "consci05",
+       "3emeoe03"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Juste après la séance, écris dans l’historique les images venues seules. En fin de semaine, relis tes rêves récurrents dans ton journal.",
+      "repere": "Quand tu connais tes signes de rêve et que tu les reconnais parfois en rêvant, ton entraînement est en place."
+     }
+    ],
+    "apres": "Garde la séance du soir et le journal du matin aussi longtemps que tu veux. Note tes rêves lucides dans la rubrique « Rêves lucides » du Journal des Rêves."
+   }
   },
   "13": {
    "slug": "deuil-pardon-lacher-prise",
@@ -2056,7 +2906,74 @@
      "Respect de la vie privée",
      "Utiliser l’application sans compte ; les journaux et données personnelles restent sur le téléphone."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Lâcher prise : un programme de méditation doux, à ton rythme",
+    "intro": "Ce programme de méditation n’a pas de calendrier. Pour toi qui traverses une perte, une blessure ou un changement, il propose quatre temps, de l’accueil de ta peine jusqu’au lâcher-prise. Prends seulement ceux qui te parlent, dans l’ordre qui te convient, et reviens en arrière quand tu en as besoin. Chaque séance peut s’arrêter à tout moment.",
+    "duree": "À ton rythme",
+    "rythme": "7 à 25 min, quand tu le sens",
+    "etapes": [
+     {
+      "periode": "Quand la peine est vive",
+      "titre": "Accueillir ta peine sans la juger",
+      "texte": "Les jours où tout est lourd, sept minutes suffisent. « Méditation de compassion » (7 min) tourne vers toi un peu de douceur, avant de l’ouvrir aux autres. Quand tu retrouves un peu de force, « Accueillir une émotion difficile » (17 min) te propose de laisser l’émotion être là, en l’observant avec bienveillance. Ici, aucune séance n’attend de résultat.",
+      "seances": [
+       "cons06",
+       "croiss01"
+      ],
+      "fonctions": [
+       "Oracle émotionnel"
+      ],
+      "geste": "Les jours sans repère, décris ton état à l’Oracle avec tes mots, puis choisis parmi ses propositions la séance la plus douce.",
+      "repere": "Quand tu peux rester quelques minutes avec ta peine sans vouloir la fuir, le temps suivant t’attend, sans urgence."
+     },
+     {
+      "periode": "Quand tu te sens prêt",
+      "titre": "Dire au revoir à ta façon",
+      "texte": "Ce temps est pour la perte d’un être cher, humain ou animal. « Le jardin des retrouvailles » (25 min) t’offre un lieu pour dire enfin les mots gardés pour toi, puis sentir ce qui se transmet d’une génération à l’autre. « Mon animal parti » (25 min) fait revenir les petits moments partagés avec ton compagnon. Si ta perte est d’un autre ordre, passe au temps suivant.",
+      "seances": [
+       "savoir02",
+       "savoir03"
+      ],
+      "fonctions": [
+       "Sanctuaires personnels"
+      ],
+      "geste": "Choisis un moment où personne ne t’attend après. Garde un mouchoir près de toi, et finis dans ton sanctuaire favori.",
+      "repere": "Quand un souvenir t’apporte un peu de chaleur, même mêlée de tristesse, tu peux t’ouvrir au pardon, si tu le souhaites."
+     },
+     {
+      "periode": "Plus tard, si tu le souhaites",
+      "titre": "Explorer le pardon, sans obligation",
+      "texte": "Ici, rien ne t’oblige à pardonner. « Pardonner sans oublier » (15 min) t’invite à regarder ta rancune, puis à choisir toi-même ce que tu en fais. « Se Pardonner à Soi-Même » (17 min) se tourne vers tes propres erreurs, pour retrouver un peu de douceur envers toi. Tu avances à ton pas, sans te forcer.",
+      "seances": [
+       "croiss05",
+       "ombre04"
+      ],
+      "fonctions": [
+       "Journaux personnels",
+       "Respect de la vie privée"
+      ],
+      "geste": "Après la séance, écris dans « Pratique du pardon » ce que tu gardes et ce que tu poses. Rien ne quitte ton téléphone.",
+      "repere": "Quand une rancune ou un reproche pèse un peu moins, même certains jours seulement, le dernier temps peut venir."
+     },
+     {
+      "periode": "Quand tu veux avancer",
+      "titre": "Lâcher prise sur ce qui accroche",
+      "texte": "Ce dernier temps t’aide à desserrer la prise. « La Forêt des Ronces » (21 min) te fait avancer parmi les ronces, en cessant de tirer sur ce qui accroche. « Ho’oponopono du Cœur » (15 min) s’appuie sur quelques phrases répétées, souffle après souffle. « La lumière de Kṣitigarbha dans les mondes obscurs » (21 min) porte une lampe là où tout semble sombre.",
+      "seances": [
+       "ombre02",
+       "ombre01",
+       "buddhi05"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Quand tu te sens disponible, écoute une séance, puis garde dans l’historique un mot sur ce qui s’est desserré.",
+      "repere": "Quand tu repenses à ce qui te retenait avec un peu plus de calme, même si la tristesse reste, tu as avancé."
+     }
+    ],
+    "apres": "Reviens à n’importe quel temps, aussi souvent que tu veux. Si ta tristesse devient trop lourde, ou ne passe pas, confie-toi à un proche ou à un professionnel de santé."
+   }
   },
   "14": {
    "slug": "evasion-mondes-immersifs",
@@ -2164,7 +3081,68 @@
      "Dragon compagnon et île évolutive",
      "Voir évoluer le dragon et son île selon la régularité de la pratique, sans compétition."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Voyage intérieur : un défi méditation de 4 semaines pour t’évader",
+    "intro": "Envie de changer d’air sans quitter ton fauteuil ? Ce défi méditation t’emmène ailleurs pendant quatre semaines, à raison de trois voyages par semaine, de 13 à 34 minutes. Chaque semaine associe une mini-aventure et quelques mondes immersifs. C’est quoi, une visualisation ? Imaginer un lieu avec tous tes sens, guidé par une voix, les yeux fermés.",
+    "duree": "4 semaines",
+    "rythme": "13 à 34 min, 3 fois par semaine",
+    "etapes": [
+     {
+      "periode": "Semaine 1",
+      "titre": "Partir pour de courts voyages",
+      "texte": "Commence par des voyages courts. La Bibliothèque Céleste (14 min) t’ouvre une bibliothèque où les livres volent seuls jusqu’à leurs lecteurs. Le Temple Cosmique (13 min) t’élève dans la nuit violette, sur le dos d’une baleine céleste. En fin de semaine, « La planète inconnue » (17 min) te laisse explorer un monde où chaque question change ton regard.",
+      "seances": [
+       "miniav02"
+      ],
+      "fonctions": [
+       "Mondes immersifs"
+      ],
+      "geste": "Trois soirs cette semaine, après le dîner, éteins la grande lumière et pars pour un voyage, assis ou allongé.",
+      "repere": "Quand tu as hâte de retrouver un monde et que son décor te revient le lendemain, passe à la suite."
+     },
+     {
+      "periode": "Semaine 2",
+      "titre": "Voyager dans ta propre histoire",
+      "texte": "Cette semaine, le voyage passe par ta mémoire. « Le train des souvenirs » (23 min) te fait regarder défiler, gare après gare, les habitudes, les goûts et les décisions qui ont fait ta vie. Entre deux trains, glisse un monde plus onirique, comme La Forêt des Rêves (17 min), où tu suis une rivière de lumière avant de survoler les arbres.",
+      "seances": [
+       "miniav01"
+      ],
+      "fonctions": [
+       "Collection d’objets symboliques"
+      ],
+      "geste": "Le lendemain d’un voyage, prends deux minutes pour décrire un objet aperçu en route et l’ajouter à ta collection.",
+      "repere": "Quand des détails te reviennent avec précision, une couleur, un son, un objet, tu es prêt à remonter le temps."
+     },
+     {
+      "periode": "Semaine 3",
+      "titre": "Remonter le temps jusqu’à Versailles",
+      "texte": "Place à une immersion historique. « Versailles — Une journée en 1700 » (30 min) te fait vivre une journée entière à la cour, entre les salutations et les regards, autour d’un seul homme. Les autres soirs, alterne avec un monde d’aventure, comme Les Ruines Oubliées (19 min), où un petit singe de lumière te guide dans une cité reprise par la jungle.",
+      "seances": [
+       "miniav03"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Garde Versailles pour un soir sans contrainte. Règle la voix et sa vitesse pour qu’elle te porte pendant 30 minutes.",
+      "repere": "Quand tu restes dans le récit du début à la fin, sans décrocher, tu es prêt pour le grand voyage."
+     },
+     {
+      "periode": "Semaine 4",
+      "titre": "Marcher vers Kyoto, puis créer ton refuge",
+      "texte": "Pour finir le défi, voici le plus long voyage. « Japon — Sur la route de Kyoto en 1600 » (34 min) te fait marcher vers Kyoto, sans savoir ce qui t’attend au prochain virage. Puis donne-toi un refuge rien qu’à toi : un sanctuaire personnel qui mêle tes lieux préférés de ces quatre semaines, avec le nom que tu lui choisis.",
+      "seances": [
+       "miniav04"
+      ],
+      "fonctions": [
+       "Sanctuaires personnels"
+      ],
+      "geste": "Garde le voyage à Kyoto pour un week-end. Le lendemain, prends dix minutes pour créer ton sanctuaire et en faire ton favori.",
+      "repere": "Quand tu sais vers quel monde partir selon ta journée, et que ton sanctuaire t’attend, le défi est relevé."
+     }
+    ],
+    "apres": "Garde un voyage par semaine. Explore les mondes que tu n’as pas encore visités, comme Le Sanctuaire Gelé (16 min), et reviens à ton sanctuaire quand tu veux."
+   }
   }
  }
 }

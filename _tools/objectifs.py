@@ -45,7 +45,9 @@ OL = {
             h_mondes='{t} : les mondes immersifs', h_etapes='{t} : mode d’emploi en 4 étapes',
             t_pitch='Pourquoi MeditaDream', t_seances='Les séances', t_feat='Les fonctionnalités', t_mondes='Les mondes', t_etapes='Mode d’emploi',
             faq='Questions fréquentes', voir_cat='Voir la catégorie', voir='En savoir plus', autres='Les autres objectifs',
-            dans='dans cet objectif', hub_cta='Découvrir', hub_n='{a} séances · {b} mondes', h_hub='Choisis ton objectif'),
+            dans='dans cet objectif', hub_cta='Découvrir', hub_n='{a} séances · {b} mondes', h_hub='Choisis ton objectif',
+            prog_eye='Ton programme', t_prog='Le programme', see_prog='Voir le programme', geste='Ton geste', repere='Ton repère',
+            etapes_n='étapes', seances_cap='Séances de cette étape', prog_cta='Commencer le programme dans l’app', hub_prog='Programme'),
  'en': dict(crumb='Goals', eye='Goal {n} of {t}', eye_hub='{t} goals, one app', seances='sessions', seance='session',
             cats='categories', cat='category', mondes='immersive worlds', monde='immersive world', free='Free', noads='No ads', offline='Offline',
             dl='Download for free', see='See the sessions', toc='On this page', min='min',
@@ -53,7 +55,9 @@ OL = {
             h_mondes='{t}: the immersive worlds', h_etapes='{t}: how to use the app in 4 steps',
             t_pitch='Why MeditaDream', t_seances='Sessions', t_feat='Features', t_mondes='Worlds', t_etapes='How to use it',
             faq='Frequently asked questions', voir_cat='See the category', voir='Learn more', autres='Other goals',
-            dans='for this goal', hub_cta='Explore', hub_n='{a} sessions · {b} worlds', h_hub='Choose your goal'),
+            dans='for this goal', hub_cta='Explore', hub_n='{a} sessions · {b} worlds', h_hub='Choose your goal',
+            prog_eye='Your program', t_prog='The program', see_prog='See the program', geste='Your habit', repere='Sign of progress',
+            etapes_n='stages', seances_cap='Sessions for this stage', prog_cta='Start the program in the app', hub_prog='Program'),
  'es': dict(crumb='Objetivos', eye='Objetivo {n} de {t}', eye_hub='{t} objetivos, una sola app', seances='sesiones', seance='sesión',
             cats='categorías', cat='categoría', mondes='mundos inmersivos', monde='mundo inmersivo', free='Gratis', noads='Sin anuncios', offline='Sin conexión',
             dl='Descárgala gratis', see='Ver las sesiones', toc='En esta página', min='min',
@@ -61,7 +65,9 @@ OL = {
             h_mondes='{t}: los mundos inmersivos', h_etapes='{t}: cómo usar la app en 4 pasos',
             t_pitch='Por qué MeditaDream', t_seances='Las sesiones', t_feat='Las funciones', t_mondes='Los mundos', t_etapes='Cómo usarla',
             faq='Preguntas frecuentes', voir_cat='Ver la categoría', voir='Saber más', autres='Otros objetivos',
-            dans='para este objetivo', hub_cta='Descubrir', hub_n='{a} sesiones · {b} mundos', h_hub='Elige tu objetivo'),
+            dans='para este objetivo', hub_cta='Descubrir', hub_n='{a} sesiones · {b} mundos', h_hub='Elige tu objetivo',
+            prog_eye='Tu programa', t_prog='El programa', see_prog='Ver el programa', geste='Tu hábito', repere='Señal de progreso',
+            etapes_n='etapas', seances_cap='Sesiones de esta etapa', prog_cta='Empieza el programa en la app', hub_prog='Programa'),
 }
 
 CSS = """
@@ -107,6 +113,52 @@ CSS = """
 .ob-hubw{max-width:1180px;margin:0 auto;padding:0 20px}
 .ob-hubw>h2{font-size:clamp(28px,3.6vw,36px);color:#fff7e8;font-weight:500;margin:10px 0 18px;text-align:center}
 .ob-hubw .cta{max-width:760px;margin:10px auto 0}
+.ob-prog{position:relative;margin:34px 0 6px;padding:28px 30px 24px;border-radius:26px;border:1px solid rgba(var(--acc-rgb),.42);
+ background:radial-gradient(110% 70% at 100% 0%,rgba(var(--acc-rgb),.18),rgba(0,0,0,0) 60%),radial-gradient(80% 60% at 0% 100%,rgba(212,175,106,.10),rgba(0,0,0,0) 60%),#0f0e1c;
+ box-shadow:0 30px 80px -50px rgba(var(--acc-rgb),.75)}
+.ob-prog-eye{font:600 12px/1.2 'Avenir Next','Segoe UI',system-ui,sans-serif;letter-spacing:.18em;text-transform:uppercase;color:rgb(var(--acc-rgb));margin:0 0 8px}
+.pl-art .ob-prog h2{margin:0 0 12px}.pl-art .ob-prog h2::before{display:none}
+.pl-art .ob-prog .ob-prog-intro{font-size:17px;color:var(--muted);margin:0 0 16px}
+.ob-prog-facts{list-style:none;display:flex;flex-wrap:wrap;gap:8px;padding:0;margin:0 0 26px}
+.ob-prog-facts li{font:500 12.5px/1 'Avenir Next',sans-serif;color:var(--ink);border:1px solid rgba(var(--acc-rgb),.45);background:rgba(var(--acc-rgb),.10);border-radius:99px;padding:8px 13px;font-variant-numeric:tabular-nums}
+.ob-road{list-style:none;padding:0;margin:0 0 28px;display:grid;grid-auto-flow:column;grid-auto-columns:minmax(0,1fr)}
+.ob-road li{position:relative;padding:0 12px 0 0;min-width:0}
+.ob-road li::after{content:"";position:absolute;left:38px;right:8px;top:15px;height:2px;border-radius:2px;background:linear-gradient(90deg,rgba(var(--acc-rgb),.9),rgba(var(--acc-rgb),.2))}
+.ob-road li:last-child::after{display:none}
+.ob-road b{display:flex;width:32px;height:32px;box-sizing:border-box;border-radius:50%;align-items:center;justify-content:center;border:2px solid rgb(var(--acc-rgb));background:rgba(var(--acc-rgb),.16);font:600 14px/1 'Avenir Next','Segoe UI',system-ui,sans-serif;color:#fff7e8;margin:0 0 10px;font-variant-numeric:lining-nums}
+.ob-road span{display:block;font:600 10.5px/1.25 'Avenir Next','Segoe UI',system-ui,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:rgb(var(--acc-rgb))}
+.ob-road em{display:block;font:italic 500 17px/1.25 'Cormorant Garamond',Georgia,serif;color:var(--ink);margin-top:4px}
+.ob-tl{list-style:none;padding:0;margin:0;position:relative;counter-reset:tl}
+.ob-tl::before{content:"";position:absolute;left:21px;top:24px;bottom:34px;width:2px;border-radius:2px;background:linear-gradient(180deg,rgb(var(--acc-rgb)),rgba(var(--acc-rgb),.28) 72%,rgba(212,175,106,.65))}
+.ob-tl>li{position:relative;padding:0 0 16px 62px;counter-increment:tl}
+.ob-tl>li::before{content:counter(tl);position:absolute;left:0;top:2px;width:44px;height:44px;box-sizing:border-box;border-radius:50%;display:flex;align-items:center;justify-content:center;background:#0f0e1c;border:2px solid rgb(var(--acc-rgb));box-shadow:0 0 0 5px #0f0e1c,0 0 22px rgba(var(--acc-rgb),.55);font:600 17px/1 'Avenir Next','Segoe UI',system-ui,sans-serif;font-variant-numeric:lining-nums;color:#fff7e8}
+.ob-tl>li>div{border:1px solid var(--line);border-radius:18px;padding:16px 18px 14px;background:rgba(255,255,255,.025)}
+.pl-art .ob-tl .ob-tl-p{font:600 11.5px/1.2 'Avenir Next','Segoe UI',system-ui,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:rgb(var(--acc-rgb));margin:2px 0 6px}
+.pl-art .ob-tl h3{font:600 23px/1.2 'Cormorant Garamond',Georgia,serif;color:#fff7e8;margin:0 0 8px}
+.pl-art .ob-tl p{font-size:15.5px;line-height:1.65;margin:0 0 10px}
+.ob-tl-s,.ob-tl-f{list-style:none;padding:0;margin:2px 0 10px;display:flex;flex-wrap:wrap;gap:8px}
+.ob-tl-s a{display:flex;align-items:center;gap:9px;padding:4px 14px 4px 4px;border:1px solid rgba(var(--acc-rgb),.42);border-radius:99px;background:rgba(var(--acc-rgb),.08);text-decoration:none;color:var(--ink);font:500 13.5px/1.25 'Avenir Next','Segoe UI',system-ui,sans-serif}
+.ob-tl-s a:hover{border-color:rgba(var(--acc-rgb),.9);background:rgba(var(--acc-rgb),.16)}
+.pl-art .ob-tl-s img{width:34px;height:34px;flex:0 0 34px;margin:0;border:0;border-radius:50%;background:rgba(10,10,20,.45)}
+.ob-tl-s em{display:block;font:normal 11.5px/1.2 'Avenir Next',sans-serif;color:var(--dim);margin-top:2px}
+.ob-tl-f a,.ob-tl-f .nl{display:flex;align-items:center;gap:7px;padding:3px 12px 3px 3px;border:1px solid var(--line);border-radius:99px;color:var(--muted);text-decoration:none;font:500 12.5px/1.2 'Avenir Next','Segoe UI',system-ui,sans-serif}
+.ob-tl-f a:hover{color:var(--gold);border-color:rgba(212,175,106,.6)}
+.pl-art .ob-tl-f img{width:26px;height:26px;flex:0 0 26px;margin:0;border:0}
+.ob-tl-gr{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:6px 0 2px}
+.ob-tl-gr>div{border-radius:14px;padding:10px 13px;background:rgba(var(--acc-rgb),.07);border:1px solid rgba(var(--acc-rgb),.22)}
+.ob-tl-gr>div+div{background:rgba(212,175,106,.07);border-color:rgba(212,175,106,.28)}
+.ob-tl-gr b{display:block;font:600 10.5px/1.2 'Avenir Next',sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin:0 0 4px}
+.pl-art .ob-tl .ob-tl-gr p{margin:0;font-size:14px;line-height:1.5;color:var(--ink)}
+.pl-art .ob-prog .ob-prog-fin{display:flex;gap:10px;align-items:flex-start;margin:6px 0 16px 62px;font-size:15.5px;color:var(--ink)}
+.ob-prog-fin span{color:var(--gold)}
+.pl-art .ob-prog .ob-prog-cta{margin:0 0 0 62px}
+.pl-art .ob-prog-cta a{display:inline-block;font:600 15px/1 'Avenir Next','Segoe UI',system-ui,sans-serif;text-decoration:none;border-radius:99px;padding:13px 22px;background:linear-gradient(135deg,#D4AF6A,#b8934f);color:#161122}
+.pl-art .ob-prog-cta a:hover{filter:brightness(1.08)}
+.ob-hub-p{display:block;font:600 11.5px/1.3 'Avenir Next',sans-serif;letter-spacing:.06em;color:var(--gold);margin:0 0 6px}
+@media(max-width:700px){.ob-road{display:none}}
+@media(max-width:560px){.ob-prog{padding:22px 16px 18px;border-radius:20px}.ob-tl::before{left:17px}.ob-tl>li{padding-left:48px}
+ .ob-tl>li::before{width:36px;height:36px;font-size:16px}.ob-tl>li>div{padding:14px 14px 12px}.ob-tl-gr{grid-template-columns:1fr}
+ .pl-art .ob-prog .ob-prog-fin,.pl-art .ob-prog .ob-prog-cta{margin-left:0}}
 @media(max-width:560px){.ob-pitch{padding:20px 18px 8px}.ob-med a{grid-template-columns:52px minmax(0,1fr);gap:12px}.pl-art .ob-med img{width:52px;height:52px}
  .ob-hub a{grid-template-columns:60px minmax(0,1fr)}.ob-hub img{width:60px;height:60px}}
 """
@@ -225,6 +277,46 @@ def seances_visibles(o, meds):
     return out
 
 
+def programme_html(ap, lang, o, meds, P):
+    """06-11 (Edouard : « sur chacune des 14 pages objectif, ajoute un programme en plusieurs étapes pour réussir à cet objectif…
+    design super, optimisé par rapport aux statistiques des mots-clés ») : parcours en 3 à 5 étapes (période, but, séances
+    avec icône, fonctionnalités, geste du jour, repère de progrès), titre bâti sur les recherches réelles (défi méditation,
+    daily meditation, rutina para dormir…). Seules les séances du catalogue filtré (a_venir.json) sont montrées."""
+    pr = o.get('programme')
+    if not pr: return ''
+    ol = OL[lang]; I = charge('icones_site.json') or {}
+    noms = {f[0]: f[1] for f in o['fonctions']}
+    etapes, n_s = '', 0
+    for e in pr['etapes']:
+        ss = ''
+        for mid in e['seances']:
+            if mid not in meds: continue
+            cid, m = meds[mid]; n_s += 1
+            url = ap.u(lang, 'med', P[lang]['categories'][cid]['slug']) + '#' + mid
+            ss += (f'<li><a href="{url}">{icone_med(ap, lang, mid, m["title"][lang])}<span>{E(m["title"][lang])}'
+                   f'<em>{m["dur"]} {E(ol["min"])} · {E(ap.L[lang]["level"].get(m["level"], m["level"]))}</em></span></a></li>')
+        fs = ''
+        for nf in e.get('fonctions', []):
+            ic = (I.get('fonctions') or {}).get(nf) or {}
+            nom = noms.get(nf, nf)
+            h = lien_fonction(ap, lang, nf, P)
+            dedans = icone(ap, ic.get('src'), (ic.get('alt') or {}).get(lang, nom), nom) + f'<span>{E(ty(lang, nom))}</span>'
+            fs += '<li>' + (f'<a href="{h}">{dedans}</a>' if h else f'<span class="nl">{dedans}</span>') + '</li>'
+        etapes += (f'<li><div><p class="ob-tl-p">{E(ty(lang, e["periode"]))}</p><h3>{E(ty(lang, e["titre"]))}</h3><p>{E(ty(lang, e["texte"]))}</p>'
+                   + (f'<ul class="ob-tl-s" aria-label="{E(ol["seances_cap"])}">{ss}</ul>' if ss else '')
+                   + (f'<ul class="ob-tl-f">{fs}</ul>' if fs else '')
+                   + f'<div class="ob-tl-gr"><div><b>{E(ol["geste"])}</b><p>{E(ty(lang, e["geste"]))}</p></div>'
+                   f'<div><b>{E(ol["repere"])}</b><p>{E(ty(lang, e["repere"]))}</p></div></div></div></li>')
+    faits_p = ''.join(f'<li>{E(ty(lang, x))}</li>' for x in (pr['duree'], pr['rythme'])) + \
+        f'<li>{len(pr["etapes"])} {E(ol["etapes_n"])}</li><li data-calc>{n_s} {E(ol["seances"] if n_s > 1 else ol["seance"])}</li>'
+    return (f'<section id="programme" class="ob-prog"><p class="ob-prog-eye"><span aria-hidden="true">✦</span> {E(ol["prog_eye"])}</p>'
+            f'<h2>{E(ty(lang, pr["titre"]))}</h2><p class="ob-prog-intro">{E(ty(lang, pr["intro"]))}</p><ul class="ob-prog-facts">{faits_p}</ul>'
+            + '<ol class="ob-road" aria-hidden="true">' + ''.join(
+                f'<li><b>{i}</b><span>{E(ty(lang, e["periode"]))}</span><em>{E(ty(lang, e["titre"]))}</em></li>' for i, e in enumerate(pr['etapes'], 1)) + '</ol>'
+            f'<ol class="ob-tl">{etapes}</ol><p class="ob-prog-fin"><span aria-hidden="true">✦</span>{E(ty(lang, pr["apres"]))}</p>'
+            f'<p class="ob-prog-cta"><a href="/{lang}/#download">✦ {E(ol["prog_cta"])}</a></p></section>')
+
+
 def plus_loin(ap, bb, lang, num, sel):
     """Guides complets et pages de fonctionnalités du thème, puis les articles du blog de la catégorie principale de l'objectif."""
     import piliers
@@ -279,7 +371,8 @@ def render(ap, bb, lang, num, D, cat, P):
         f'<li><a href="{ap.u(lang, "world", P[lang]["worlds"][k]["slug"])}">{ap.VIG_MONDE(k, lang)}'
         f'<b>{E(cat["worlds"][k]["name"][lang])}</b><span>{cat["worlds"][k]["minutes"][lang]} {E(ol["min"])}</span></a></li>' for k in ws) + '</ul>') if ws else ''
     faq = [(ty(lang, q), ty(lang, r)) for q, r in o['faq']]
-    toc = [('pourquoi', ol['t_pitch']), ('seances', ol['t_seances']), ('fonctionnalites', ol['t_feat'])]
+    prog = programme_html(ap, lang, o, meds, P)
+    toc = [('pourquoi', ol['t_pitch'])] + ([('programme', ol['t_prog'])] if prog else []) + [('seances', ol['t_seances']), ('fonctionnalites', ol['t_feat'])]
     if bloc_mondes: toc.append(('mondes', ol['t_mondes']))
     toc += [('mode-d-emploi', ol['t_etapes']), ('faq', ol['faq'])]
     autres = ''.join(
@@ -291,11 +384,13 @@ def render(ap, bb, lang, num, D, cat, P):
     body = (f'<div class="pl ob" style="--acc-rgb:{ACC[num]}">' + ap.crumbs(lang, bc)
             + f'<div class="pl-hero"><div class="pl-ht"><p class="pl-eye"><span aria-hidden="true">✦</span>{E(ol["eye"].format(n=int(num), t=len(D["objectifs"])))}</p>'
             f'<h1>{E(ty(lang, o["h1"]))}</h1><p class="pl-lead">{E(ty(lang, o["accroche"]))}</p><ul class="pl-facts">{faits(lang, len(sel), nb_cats, len(ws))}</ul>'
-            f'<p class="pl-cta"><a class="b1" href="/{lang}/#download">✦ {E(ol["dl"])}</a><a class="b2" href="#seances">{E(ol["see"])} ↓</a></p></div>'
+            f'<p class="pl-cta"><a class="b1" href="/{lang}/#download">✦ {E(ol["dl"])}</a>'
+            + (f'<a class="b2" href="#programme">{E(ol["see_prog"])} ↓</a>' if prog else f'<a class="b2" href="#seances">{E(ol["see"])} ↓</a>') + '</p></div>'
             f'<figure class="pl-arch">{tag}</figure></div>'
             f'<div class="pl-body"><nav class="pl-toc" aria-label="{E(ol["toc"])}"><b>{E(ol["toc"])}</b><ol>'
             + ''.join(f'<li><a href="#{i}">{E(n)}</a></li>' for i, n in toc) + '</ol></nav><article class="pl-art">'
             + f'<section id="pourquoi" class="ob-pitch"><h2>{E(ol["h_pitch"].format(t=tc))}</h2>' + ''.join(f'<p>{E(ty(lang, x))}</p>' for x in o['pitch']) + '</section>'
+            + prog
             + f'<section id="seances"><h2>{E(ol["h_seances"].format(t=tc))}</h2>{bloc_seances}</section>'
             + f'<section id="fonctionnalites"><h2>{E(ol["h_feat"].format(t=tc))}</h2>{bloc_feat}</section>'
             + (f'<section id="mondes"><h2>{E(ol["h_mondes"].format(t=tc))}</h2>{bloc_mondes}</section>' if bloc_mondes else '')
@@ -315,8 +410,11 @@ def render(ap, bb, lang, num, D, cat, P):
              {'@type': 'ItemList', 'name': ol['h_seances'].format(t=o['titre_court']), 'numberOfItems': len(sel), 'itemListElement': [
                  {'@type': 'ListItem', 'position': i + 1, 'name': m['title'][lang],
                   'url': bb.BASE + ap.u(lang, 'med', P[lang]['categories'][cid]['slug']) + '#' + m['id']} for i, (cid, m, _) in enumerate(sel)]},
-             {'@type': 'HowTo', 'name': ol['h_etapes'].format(t=o['titre_court']), 'step': [
-                 {'@type': 'HowToStep', 'position': i + 1, 'text': x} for i, x in enumerate(o['etapes'])]},
+             ({'@type': 'HowTo', 'name': o['programme']['titre'], 'description': o['programme']['intro'], 'step': [
+                 {'@type': 'HowToStep', 'position': i + 1, 'name': e['titre'], 'text': e['texte']} for i, e in enumerate(o['programme']['etapes'])]}
+              if o.get('programme') else
+              {'@type': 'HowTo', 'name': ol['h_etapes'].format(t=o['titre_court']), 'step': [
+                 {'@type': 'HowToStep', 'position': i + 1, 'text': x} for i, x in enumerate(o['etapes'])]}),
              {'@type': 'FAQPage', 'mainEntity': [{'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': r}} for q, r in o['faq']]}]
     ld = ap.ld_tag({'@context': 'https://schema.org', '@graph': graph})
     return page(ap, bb, lang, o['seo'], o['desc'], me, alts, src, ld, body, img_alt)
@@ -335,7 +433,9 @@ def render_hub(ap, bb, lang, D, cat, P):
         ic = (I.get('objectifs') or {}).get(n) or {}
         nb = len(seances_visibles(o, meds)); nw = len([w for w in o['mondes'] if w in cat['worlds']])
         cartes += (f'<li><a href="{chemin(lang, n, D)}" style="--acc-rgb:{ACC[n]}">{icone(ap, ic.get("src"), (ic.get("alt") or {}).get(lang, o["titre_court"]), o["titre_court"])}'
-                   f'<div><h2>{E(ty(lang, o["titre_court"]))}</h2><p>{E(ty(lang, o["accroche"]))}</p><em data-calc>{E(ol["hub_n"].format(a=nb, b=nw))} →</em></div></a></li>')
+                   f'<div><h2>{E(ty(lang, o["titre_court"]))}</h2><p>{E(ty(lang, o["accroche"]))}</p>'
+                   + (f'<span class="ob-hub-p">✦ {E(ol["hub_prog"])} · {E(ty(lang, o["programme"]["duree"]))}</span>' if o.get('programme') else '')
+                   + f'<em data-calc>{E(ol["hub_n"].format(a=nb, b=nw))} →</em></div></a></li>')
     total = sum(len(c['meds']) for c in cat['categories'].values())
     bc = [(t['home'], f'/{lang}/'), (ol['crumb'], None)]
     body = (f'<div class="pl ob" style="--acc-rgb:{ACC["hub"]}">' + ap.crumbs(lang, bc)

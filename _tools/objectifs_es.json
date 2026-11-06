@@ -140,7 +140,59 @@
      "Oráculo emocional",
      "Describir tu estado del momento; el Oráculo te propone tres meditaciones adaptadas a lo que sientes."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Rutina para dormir mejor: 21 noches de meditación guiada",
+    "intro": "Esta rutina para dormir te acompaña durante tres semanas, de una gratitud de tres minutos a las sesiones que terminan sin despertarte. Está pensada para quien llega a la cama con el cuerpo cansado y la cabeza en marcha. Cada noche, entre 10 y 30 minutos ya en la cama, en español y sin conexión. Puedes empezar esta misma noche tu rutina antes de dormir.",
+    "duree": "21 noches",
+    "rythme": "10 a 30 min cada noche",
+    "etapes": [
+     {
+      "periode": "Noches 1 a 7",
+      "titre": "Cerrar el día con algo amable",
+      "texte": "Esta primera semana, el objetivo es crear la señal de la noche: la misma hora, la luz baja y una sesión corta. Empieza con «La gratitud precisa» y sigue, ya en la cama, con el «Escaneo corporal — Cartografiar el cuerpo desde dentro». No buscas dormirte. Solo notas dónde se queda la tensión del día.",
+      "seances": [
+       "4minut03",
+       "appren01"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Cada noche a la misma hora, deja las demás pantallas y apunta en la sección Gratitud diaria una cosa que salió bien.",
+      "repere": "Acostarte a la misma hora ya te resulta natural y reconoces dónde se acumula la tensión del día."
+     },
+     {
+      "periode": "Noches 8 a 14",
+      "titre": "Soltar el cuerpo con la respiración",
+      "texte": "La segunda semana alarga un poco la práctica. Alterna «Respirar con todo el cuerpo» y «El cuerpo bajo una cascada», dos meditaciones para dormir de 13 y 15 minutos. La primera lleva la atención a la respiración. La segunda te hace sentir el peso de un agua imaginaria. Si una frase llega demasiado rápido, prueba la otra voz o una velocidad más lenta.",
+      "seances": [
+       "corps01",
+       "corps05"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Con la luz ya apagada, alterna las dos sesiones, una cada noche, y deja el teléfono boca abajo al terminar.",
+      "repere": "Llegas al final de la sesión con la respiración más lenta, o te duermes antes de que termine."
+     },
+     {
+      "periode": "Noches 15 a 21",
+      "titre": "Dejar que el sueño llegue solo",
+      "texte": "Ahora pasas a las sesiones que acompañan hasta el sueño. «Deslizamiento hacia el sueño» te deja soltar todo esfuerzo y no te despierta al final. Las noches en que necesitas más compañía, elige «Viaje hacia el sueño», de 27 minutos. Si una noche prefieres no oír ninguna voz, pon un sonido de lluvia para dormir con el temporizador: se apaga solo, en fundido.",
+      "seances": [
+       "corpsc03",
+       "reves02"
+      ],
+      "fonctions": [
+       "Minuteur et fondu sonore",
+       "Sons d’ambiance"
+      ],
+      "geste": "Cada noche, elige una de las dos sesiones según tu cansancio y lánzala con la luz ya apagada.",
+      "repere": "A menudo te duermes antes del final, o al menos esperas este momento de la noche con calma."
+     }
+    ],
+    "apres": "Mantén tu hora fija y quédate con las sesiones que mejor te sientan. Cuando quieras variar, prueba «La habitación que conoces» o el mundo «El Bosque de los Sueños»."
+   }
   },
   "02": {
    "slug": "reducir-el-estres",
@@ -297,7 +349,59 @@
      "Alarma y recordatorios",
      "Programar un recordatorio diario, o solo algunos días, para crear un hábito regular."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Meditación diaria para reducir el estrés: plan de 14 días",
+    "intro": "Dos semanas de meditación diaria para reducir el estrés sin cambiar tu agenda. Empiezas con pausas de cuatro minutos, sigues con el mindfulness y terminas con ejercicios de respiración guiados. Es para quien vive con prisa y quiere un gesto sencillo que repetir. Bastan de 3 a 15 minutos al día, en español y sin anuncios.",
+    "duree": "14 días",
+    "rythme": "3 a 15 min al día",
+    "etapes": [
+     {
+      "periode": "Días 1 a 4",
+      "titre": "Aprender a parar cuatro minutos",
+      "texte": "Los primeros días, solo aprendes a parar. Elige un momento fijo, por ejemplo al volver a casa, y lanza «Cuando todo va demasiado deprisa», una pausa con los ojos abiertos. Otro día, prueba «Relajarse muy rápido», que suelta el cuerpo de la frente a los pies. Cuatro minutos bastan para empezar.",
+      "seances": [
+       "4minut04",
+       "4minut05"
+      ],
+      "fonctions": [
+       "Alarme et rappels"
+      ],
+      "geste": "Cuando suene tu alarma, haz la pausa de cuatro minutos allí donde estés, aunque sea de pie, con auriculares.",
+      "repere": "Notas antes cuándo se te acelera el ritmo y paras sin pensarlo, aunque sea un minuto."
+     },
+     {
+      "periode": "Días 5 a 9",
+      "titre": "Entrenar la atención con el mindfulness",
+      "texte": "Ahora alargas la práctica a unos 15 minutos. «Estabilizar la atención en la respiración — El hilo de ariadna» te enseña a volver a la respiración cada vez que te distraes. «Observar los pensamientos — Ver pasar los trenes» te enseña a dejarlos pasar sin subirte a ellos. Es la base del mindfulness: darte cuenta y volver.",
+      "seances": [
+       "appren02",
+       "appren05"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Una vez al día, siéntate en una silla con la espalda recta y alterna las dos sesiones, con un sonido de bosque muy bajo.",
+      "repere": "Te das cuenta más rápido de que te has distraído y vuelves a la respiración sin enfadarte contigo."
+     },
+     {
+      "periode": "Días 10 a 14",
+      "titre": "Unir la respiración y el cuerpo",
+      "texte": "La última etapa une la respiración y el cuerpo. Alterna «Respirar con todo el cuerpo» con «La respiración luminosa»: trece minutos de ejercicios de respiración guiados en los que solo acompañas cada inspiración y cada espiración. Cuando el día ha sido tenso con alguien, cierra con «Meditación de compasión», siete minutos de amabilidad hacia ti y hacia los demás.",
+      "seances": [
+       "corps01",
+       "corps04",
+       "cons06"
+      ],
+      "fonctions": [
+       "Oracle émotionnel"
+      ],
+      "geste": "Cada tarde, antes de cenar, dedica 13 minutos a una de las dos respiraciones y, si dudas, pregunta al Oráculo.",
+      "repere": "Sabes qué pausa elegir según el momento, y una respiración lenta ya te ayuda a bajar el ritmo."
+     }
+    ],
+    "apres": "Quédate con una pausa corta para los días con prisa y una sesión larga para el fin de semana. Si te apetece moverte, prueba «La danza del Qi — Qigong en movimiento»."
+   }
   },
   "03": {
    "slug": "calmar-la-ansiedad",
@@ -477,7 +581,72 @@
      "Respeto a la privacidad",
      "Usar la app sin cuenta; tus diarios y tus datos personales se quedan en el teléfono."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Meditación diaria guiada para la ansiedad: 21 días a tu ritmo",
+    "intro": "Tres semanas de meditación diaria guiada para mirar tus preocupaciones con más calma. Arrancas con pausas breves y te acercas poco a poco a tus miedos y a tu autocrítica. Es una ayuda para tu bienestar, sin promesas, y nunca reemplaza a un profesional. Bastan de 4 a 15 minutos al día, y puedes parar cuando quieras.",
+    "duree": "21 días",
+    "rythme": "4 a 15 min al día",
+    "etapes": [
+     {
+      "periode": "Días 1 a 5",
+      "titre": "Tener un refugio siempre a mano",
+      "texte": "Empieza por lo más breve. «El refugio instantáneo» te lleva a un lugar tranquilo, real o inventado, en cuatro minutos. «Después de recibir una mala noticia» te devuelve a lo que es verdad ahora, en lugar de a lo que podría pasar. Escúchalas en un momento tranquilo, para conocerlas antes de necesitarlas.",
+      "seances": [
+       "4minut01",
+       "4minut08"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Cada día, a la misma hora y en un sitio tranquilo, escucha una de las dos pausas con la voz que más te calme.",
+      "repere": "Puedes evocar tu refugio en unas pocas respiraciones, incluso sin el teléfono."
+     },
+     {
+      "periode": "Días 6 a 12",
+      "titre": "Ver pasar los pensamientos que dan vueltas",
+      "texte": "Ahora entrenas la distancia con lo que piensas. «Observar los pensamientos — Ver pasar los trenes» te enseña a ver llegar una idea, nombrarla y dejarla marchar. «Distinguir sensación, emoción y pensamiento — Las tres capas de la experiencia» separa lo que siente el cuerpo de lo que cuenta la mente. Si al cerrar los ojos la inquietud sube, ábrelos y nota el apoyo de tus pies.",
+      "seances": [
+       "appren05",
+       "appren03"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Después de cada sesión, deja en tu diario emocional una frase sobre lo que sentiste: dos minutos, sin corregir nada.",
+      "repere": "Notas antes cuándo un pensamiento empieza a dar vueltas y puedes nombrarlo sin seguirlo."
+     },
+     {
+      "periode": "Días 13 a 17",
+      "titre": "Mirar un miedo de cerca, sin forzar",
+      "texte": "Con esa base, puedes acercarte a un miedo concreto en sesiones cortas. «El Miedo al Juicio» (7 min) afloja la sensación de ser observado. «El Miedo al Fracaso» (10 min) separa un error de lo que vales. Elige solo una al día y detente cuando quieras: no tienes que aguantar nada. Si un día te pesa, vuelve a tu refugio.",
+      "seances": [
+       "ombre09",
+       "ombre08"
+      ],
+      "fonctions": [
+       "Oracle émotionnel"
+      ],
+      "geste": "En un momento tranquilo del día, escucha una de las dos sesiones. Si no sabes cuál elegir, pregunta al Oráculo.",
+      "repere": "Puedes pensar en ese miedo unos minutos sin que te arrastre, y sabes qué pausa te devuelve al presente."
+     },
+     {
+      "periode": "Días 18 a 21",
+      "titre": "Hablarte con más amabilidad",
+      "texte": "La última etapa suaviza la voz que te juzga. «Meditación de compasión» envía deseos de paz a ti y a los demás en siete minutos. «Desarrollar el amor propio» te pide mirar con cariño algo que ya haces bien. El último día, relee tus notas desde el principio.",
+      "seances": [
+       "cons06",
+       "croiss02"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Cada noche, después de tu sesión, escribe en tu historial una cosa que hiciste bien hoy, aunque sea pequeña.",
+      "repere": "Cuando algo sale mal, te hablas con algo más de suavidad, y tus notas lo reflejan."
+     }
+    ],
+    "apres": "Sigue con las pausas de cuatro minutos cuando las necesites. Si la inquietud se queda contigo durante semanas, o te asusta, pide ayuda a un profesional o a alguien cercano."
+   }
   },
   "04": {
    "slug": "relajacion-del-cuerpo",
@@ -619,7 +788,72 @@
      "Biblioteca de aprendizaje",
      "Consultar lecciones ilustradas sobre la postura, la respiración, la atención y el aprendizaje paso a paso."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Relajación del cuerpo: rutina de meditación en 4 semanas",
+    "intro": "Cuatro semanas para una relajación del cuerpo paso a paso: primero notas tus tensiones, luego las sueltas con la respiración y, al final, con los gestos lentos del qi gong. Es para quien acumula el día en los hombros o la mandíbula. Cuenta con 3 a 25 minutos, cinco días por semana, sin forzar nunca una postura.",
+    "duree": "4 semanas",
+    "rythme": "3 a 25 min, 5 días por semana",
+    "etapes": [
+     {
+      "periode": "Semana 1",
+      "titre": "Localizar tus tensiones con el body scan",
+      "texte": "Empieza por notar, sin cambiar nada. «Relajarse muy rápido» suelta el cuerpo zona por zona en tres minutos. Cuando tengas más tiempo, el «Escaneo corporal — Cartografiar el cuerpo desde dentro» es un body scan de 17 minutos, zona por zona. Antes de empezar, mira en la biblioteca de aprendizaje la lección sobre la postura.",
+      "seances": [
+       "4minut05",
+       "appren01"
+      ],
+      "fonctions": [
+       "Bibliothèque pédagogique"
+      ],
+      "geste": "Cinco días esta semana, a la misma hora, haz la pausa de tres minutos. Dos de esos días, añade el body scan.",
+      "repere": "Sabes nombrar las dos o tres zonas donde se acumula tu tensión, como los hombros o la mandíbula."
+     },
+     {
+      "periode": "Semana 2",
+      "titre": "Dejar que la respiración afloje el cuerpo",
+      "texte": "Esta semana, la respiración hace el trabajo. «Respirar con todo el cuerpo» te hace sentir cómo el aire va más allá de los pulmones, como círculos en un estanque. «El cuerpo bajo una cascada» te hace imaginar el peso del agua que resbala por cada zona. Son ejercicios de respiración sin esfuerzo: no tienes que respirar mejor, solo notar.",
+      "seances": [
+       "corps01",
+       "corps05"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Acuéstate o siéntate con comodidad, elige un sonido de olas o de torrente a volumen bajo y alterna las dos sesiones.",
+      "repere": "Al terminar, notas una diferencia entre el principio y el final: hombros más bajos o respiración más amplia."
+     },
+     {
+      "periode": "Semana 3",
+      "titre": "Moverte despacio con el qi gong",
+      "texte": "Ahora el cuerpo entra en juego, muy despacio. «Las manos que se calientan» lleva toda tu atención a las palmas, con un calor suave. «El árbol inmóvil» te enseña a quedarte de pie, con los pies bien enraizados, sosteniendo sin forzar. El qi gong se practica dentro de tu comodidad: si una postura molesta, siéntate y sigue con la imaginación.",
+      "seances": [
+       "chi01",
+       "chi03"
+      ],
+      "fonctions": [
+       "Alarme et rappels"
+      ],
+      "geste": "Programa un recordatorio cinco días por semana y alterna las dos sesiones, de pie y sin zapatos si puedes.",
+      "repere": "Puedes quedarte de pie varios minutos sin moverte, con los hombros sueltos y la respiración tranquila."
+     },
+     {
+      "periode": "Semana 4",
+      "titre": "Escuchar las zonas sensibles con suavidad",
+      "texte": "La última semana une todo lo aprendido. «Respirar alrededor de una zona sensible» se acerca a una molestia sin ir de inmediato: primero una región neutra, luego la respiración alrededor. «La danza del Qi — Qigong en movimiento» deja que el cuerpo se mueva solo, despacio. Si una molestia persiste o te inquieta, pide consejo a un profesional: esta práctica no lo reemplaza.",
+      "seances": [
+       "corps02",
+       "chi04"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Al final de la semana, dedica cinco minutos a releer tu historial y a comparar tus notas con las del principio.",
+      "repere": "Te acercas a una zona sensible sin tensarte, y eliges sin dudar la práctica que te sienta mejor."
+     }
+    ],
+    "apres": "Guarda un body scan a la semana y una pausa breve cuando el día pese. Para prolongar la calma, viaja a «El Corazón de la Tierra»."
+   }
   },
   "05": {
    "slug": "gestionar-las-emociones",
@@ -772,7 +1006,73 @@
      "Alarma y recordatorios",
      "Programar un recordatorio diario, o solo algunos días, para crear un hábito regular."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Gestionar las emociones: 4 semanas de meditación diaria",
+    "intro": "Un recorrido de cuatro semanas para gestionar las emociones sin dejar de sentirlas. Aprendes a poner nombre a lo que sientes, a hacer sitio a una emoción difícil y a cultivar el amor propio. Es para quien reacciona en caliente o se juzga con dureza. Cada día, de 3 a 20 minutos, con tu diario emocional siempre en el teléfono.",
+    "duree": "4 semanas",
+    "rythme": "3 a 20 min al día",
+    "etapes": [
+     {
+      "periode": "Semana 1",
+      "titre": "Poner nombre a lo que sientes",
+      "texte": "La gestión emocional empieza por algo sencillo: darte cuenta. Esta semana, cuando una emoción sube, para tres minutos con «Calmarse después de una discusión» y mira la escena con algo de distancia. Por la noche, «La gratitud precisa» te ayuda a quedarte también con lo que fue bien. Después, escribe una palabra para lo que sentiste.",
+      "seances": [
+       "4minut06",
+       "4minut03"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Cada noche, antes de dormir, escribe en tu diario emocional una palabra para la emoción más fuerte del día y dónde la sentiste.",
+      "repere": "Encuentras sin buscar mucho la palabra justa, como enfado, tristeza o miedo, y sabes en qué parte del cuerpo aparece."
+     },
+     {
+      "periode": "Semana 2",
+      "titre": "Hacer sitio a una emoción difícil",
+      "texte": "Ahora te quedas un poco más con lo que sientes. «Acoger una emoción difícil» te invita a observarla como un científico bondadoso, hasta ver que nunca es del todo fija. Los días en que no tienes fuerzas, «Meditación de compasión» basta: siete minutos de deseos de paz para ti y para los demás.",
+      "seances": [
+       "croiss01",
+       "cons06"
+      ],
+      "fonctions": [
+       "Oracle émotionnel"
+      ],
+      "geste": "Cada tarde, en un rincón tranquilo de casa, dedica 17 minutos a acoger la emoción del día. Si dudas, pregunta al Oráculo.",
+      "repere": "Una emoción fuerte ya no te obliga a reaccionar al instante: puedes esperar unos minutos antes de responder."
+     },
+     {
+      "periode": "Semana 3",
+      "titre": "Cultivar el amor propio",
+      "texte": "Esta semana miras cómo te hablas. «Desarrollar el amor propio» busca en ti algo demostrable, como una constancia o una curiosidad, y le concede un poco de cariño. «Liberarse de la comparación» te ayuda a mirar tu vida sin medirla con la de otros. Alterna las dos sesiones y nota qué frase de tu autocrítica vuelve más a menudo.",
+      "seances": [
+       "croiss02",
+       "croiss06"
+      ],
+      "fonctions": [
+       "Alarme et rappels"
+      ],
+      "geste": "Programa un recordatorio para la misma hora cada día y, tras la sesión, anota una cualidad tuya que hayas visto hoy.",
+      "repere": "Reconoces tu frase de autocrítica cuando aparece y puedes responderle con algo más amable."
+     },
+     {
+      "periode": "Semana 4",
+      "titre": "Mirar tu sombra y a tu niño interior",
+      "texte": "La última semana va más hondo. «Serenidad del Niño Interior» te ayuda a reencontrar al niño que fuiste, a través del juego y la seguridad. «Trabajo con la Sombra» busca una parte difícil de ti y lo que intenta proteger. Ve a tu ritmo: si algo te pesa demasiado, para y vuelve otro día. Todo lo que escribes se queda en tu teléfono.",
+      "seances": [
+       "ombre05",
+       "ombre06"
+      ],
+      "fonctions": [
+       "Historique et réflexions",
+       "Respect de la vie privée"
+      ],
+      "geste": "Dos o tres veces esta semana, en un momento sin prisa, escucha una sesión y anota después lo que apareció. Los demás días, vuelve a tus pausas cortas.",
+      "repere": "Entiendes mejor qué te hace reaccionar y lo ves en tus notas: tus respuestas cambian poco a poco."
+     }
+    ],
+    "apres": "Vuelve a «Acoger una emoción difícil» cada vez que lo necesites y sigue con tu diario emocional. Para explorar más, entra en «El Bosque de los Espíritus Lobo»."
+   }
   },
   "06": {
    "slug": "crecimiento-espiritual",
@@ -1033,7 +1333,87 @@
      "Creador de meditaciones",
      "Escribir una sesión a tu medida; el teléfono puede leerla en voz alta, incluso sin conexión."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Crecimiento espiritual: plan de meditación de 6 semanas",
+    "intro": "Seis semanas para un crecimiento espiritual a tu ritmo, puerta por puerta: los chakras, los guías espirituales y, al final, el tercer ojo. No hace falta creer en nada para empezar: basta con observar lo que vives. Cuenta con tres sesiones por semana, de 13 a 30 minutos, y con tus diarios para guardar lo vivido.",
+    "duree": "6 semanas",
+    "rythme": "13 a 30 min, 3 días por semana",
+    "etapes": [
+     {
+      "periode": "Semana 1",
+      "titre": "Empezar por los siete chakras",
+      "texte": "La primera semana pasa por el cuerpo. «La respiración luminosa» une la respiración y una luz que baja del vientre a las piernas. Después, «El reconocimiento de los siete chakras» dibuja el mapa de los siete centros, del chakra raíz a la coronilla. Aprendes a localizarlos antes de pensar en colores o en significados.",
+      "seances": [
+       "corps04",
+       "chakra01"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Tres veces esta semana, en un lugar tranquilo, practica con la espalda recta y anota después una sensación en tu diario espiritual.",
+      "repere": "Puedes situar los siete centros en tu cuerpo sin ayuda de la voz, del chakra raíz a la coronilla."
+     },
+     {
+      "periode": "Semana 2",
+      "titre": "Meditar en los lugares sagrados",
+      "texte": "Esta semana viajas sin moverte. «Bajo el árbol Bodhi» te sienta entre sus raíces y deja que la atención se abra como sus hojas al viento. «El santuario taoísta en las montañas» te lleva al amanecer, sobre un mar de nubes. Son contemplaciones tranquilas que preparan la atención para las semanas siguientes.",
+      "seances": [
+       "lieux01",
+       "lieux03"
+      ],
+      "fonctions": [
+       "Sanctuaires personnels"
+      ],
+      "geste": "Al final de la semana, dale forma a un santuario personal inspirado en lo que viste y ponle un nombre.",
+      "repere": "Vuelves a uno de estos lugares con la imaginación en pocos segundos, incluso sin escuchar la sesión."
+     },
+     {
+      "periode": "Semana 3",
+      "titre": "Conocer a tus guías espirituales",
+      "texte": "Ahora te acercas a los guías espirituales, vividos como símbolos que apoyan la atención. «El nombre y la señal» te da un nombre y un objeto para volver fácilmente a este estado. «El guía de luz» te deja recibir su calor y conservarlo cuando se retira. No hay nada que creer: observa lo que aparece en ti.",
+      "seances": [
+       "guides04",
+       "guides03"
+      ],
+      "fonctions": [
+       "Carnet des guides"
+      ],
+      "geste": "Cada vez, deja cinco minutos para el cuaderno de guías: anota el nombre, la señal y una frase que te quedó.",
+      "repere": "Tu guía tiene un nombre y una señal en tu cuaderno, y puedes evocarlo en unas pocas respiraciones."
+     },
+     {
+      "periode": "Semana 4",
+      "titre": "Registros akáshicos y silencio interior",
+      "texte": "Esta semana trabaja el discernimiento. «El guardián de los archivos» se inspira en los registros akáshicos y te enseña a distinguir lo que la mente inventa de lo que parece surgir solo. «El vacío fértil — Fuera del tiempo» te hace notar el espacio entre dos pensamientos y descansar en él. Dos prácticas para escuchar más que buscar.",
+      "seances": [
+       "savoir01",
+       "consci06"
+      ],
+      "fonctions": [
+       "Collection d’objets symboliques"
+      ],
+      "geste": "Al terminar, si apareció un objeto o un símbolo, guárdalo en tu colección con su significado, en dos minutos.",
+      "repere": "Notas cuándo una imagen la fabricas tú y cuándo parece llegar sola, y el silencio entre pensamientos ya no te inquieta."
+     },
+     {
+      "periode": "Semanas 5 y 6",
+      "titre": "Explorar el tercer ojo",
+      "texte": "Las últimas semanas abren las sesiones avanzadas del tercer ojo. «El tercer ojo y los dos ojos» pasa de los ojos al punto entre las cejas. «El ojo interior despierta» te enseña a sostener una imagen en el centro de la frente. Para cerrar, «Conciencia no dual» busca dónde termina el dentro y empieza el fuera: una puerta hacia el despertar espiritual.",
+      "seances": [
+       "3emeoe01",
+       "3emeoe02",
+       "cosmiq01"
+      ],
+      "fonctions": [
+       "Passeport zen et progression"
+      ],
+      "geste": "Tres veces por semana, siempre a la misma hora, elige una sesión avanzada y deja diez minutos después para escribir.",
+      "repere": "Al releer tus diarios desde la primera semana, reconoces tu propio camino y sabes qué puerta quieres abrir después."
+     }
+    ],
+    "apres": "Vuelve a la puerta que más te habló, o explora otras: «La búsqueda de visión», «El contrato de mi alma» o el mundo «El Templo Cósmico»."
+   }
   },
   "07": {
    "slug": "trance-chamanismo-viaje-astral",
@@ -1251,7 +1631,74 @@
      "Escucha sin conexión",
      "Descargar los contenidos una primera vez y luego usarlos sin conexión ni distracciones de la red."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Cómo hacer un viaje astral paso a paso: 6 semanas guiadas",
+    "intro": "Seis semanas para acercarte al viaje astral como una experiencia interior, sin promesas. Primero conoces el umbral del sueño, luego los ejercicios de micro-desapego y, al final, los protocolos astrales. Es un desdoblamiento astral paso a paso, pensado para quien ya medita un poco. Bastan tres sesiones por semana, en la cama y en modo avión.",
+    "duree": "6 semanas",
+    "rythme": "14 a 33 min, 3 días por semana",
+    "etapes": [
+     {
+      "periode": "Semana 1",
+      "titre": "Conocer el umbral del sueño",
+      "texte": "Antes de cualquier viaje astral, conoces el terreno. «Cuerpo dormido, mente despierta» te hace observar el momento en que el cuerpo se duerme y la atención se queda. «El doble que se levanta» fija primero la posición real de tu cuerpo y deja que un doble imaginario se levante. Practica a primera hora de la noche, cuando aún no tienes sueño.",
+      "seances": [
+       "consci02",
+       "corps03"
+      ],
+      "fonctions": [
+       "Écoute hors ligne"
+      ],
+      "geste": "Tres noches esta semana, acuéstate boca arriba con las sesiones ya descargadas y escucha una sin buscar ningún efecto.",
+      "repere": "Reconoces el momento en que el cuerpo se vuelve pesado mientras tu atención sigue despierta."
+     },
+     {
+      "periode": "Semanas 2 y 3",
+      "titre": "Preparar las sensaciones con el micro-desapego",
+      "texte": "Ahora entras en Micro-Desapego, con ejercicios breves. «El punto detrás de la cabeza» lleva tu punto de vista un poco hacia atrás. «El imán del techo» te hace sentir el peso del cuerpo y una ligera atracción hacia arriba. «El tobogán» juega con la sensación de deslizarte. Repite cada ejercicio varias veces antes de pasar al siguiente.",
+      "seances": [
+       "microd03",
+       "microd01",
+       "microd04"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Tres veces por semana, a la misma hora, haz un solo ejercicio, con la voz que prefieras, y repítelo hasta que te resulte familiar.",
+      "repere": "Las sensaciones de flotar o de deslizarte aparecen con más facilidad y ya no te sobresaltan cuando llegan."
+     },
+     {
+      "periode": "Semanas 4 y 5",
+      "titre": "Primeros protocolos de viaje astral",
+      "texte": "Con esa base, llegan los protocolos de Viaje Astral. «Astral · Flotar hacia el techo» borra poco a poco la presión del apoyo hasta la impresión de flotar. «Astral · El incorporarse» te hace incorporarte con la imaginación, sin mover un músculo. Son sesiones largas, de unos 30 minutos: elige noches sin prisa.",
+      "seances": [
+       "astr01",
+       "astr02"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Dos o tres noches por semana, añade el sonido Nebulosa a volumen muy bajo y no te muevas hasta el final de la sesión.",
+      "repere": "Puedes seguir una sesión larga sin dormirte ni moverte, y describir después lo que sentiste con detalle."
+     },
+     {
+      "periode": "Semana 6",
+      "titre": "Ir más lejos, sin buscar un resultado",
+      "texte": "La última semana pone a prueba tu percepción con honestidad. «Astral · La Cuerda» usa la imagen de una cuerda vertical para subir con la imaginación. «Astral · Objetivo para verificar» te pide anotar lo que percibes de un objetivo antes de comprobarlo, sin corregir nada después. Si aparece un guía o un objeto, guárdalo en la app. Lo que vivas es tuyo: ninguna experiencia vale más que otra.",
+      "seances": [
+       "cons03",
+       "astr04"
+      ],
+      "fonctions": [
+       "Carnet des guides",
+       "Collection d’objets symboliques"
+      ],
+      "geste": "Cada vez, deja diez minutos después de la sesión para escribir, con la luz baja, antes de mirar cualquier otra cosa.",
+      "repere": "Tus notas de seis semanas cuentan tu propio viaje, y sabes qué protocolo quieres repetir y cuál dejar."
+     }
+    ],
+    "apres": "Repite los protocolos que más te hablaron o explora el chamanismo con «La búsqueda de visión». En los días frágiles, deja los protocolos y vuelve a una sesión de calma."
+   }
   },
   "08": {
    "slug": "aprender-a-meditar",
@@ -1398,7 +1845,74 @@
      "Dragón compañero y su isla",
      "Ver crecer al dragón y su isla según la regularidad de tu práctica, sin competir con nadie."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Aprender a meditar paso a paso: 28 días para empezar de cero",
+    "intro": "¿Te preguntas cómo meditar paso a paso? Este curso de meditación gratis dura 28 días y empieza con cinco minutos de silencio. Cada semana añade una habilidad: volver a la respiración, observar los pensamientos y abrir los sentidos. Cada día, de 5 a 20 minutos de meditación para principiantes, sin anuncios y sin cuenta.",
+    "duree": "28 días",
+    "rythme": "5 a 20 min al día",
+    "etapes": [
+     {
+      "periode": "Días 1 a 7",
+      "titre": "Tus primeros minutos de silencio",
+      "texte": "La primera semana es corta a propósito. «Primera meditación silenciosa» te hace descubrir silencios de verdad: no son un vacío, son la práctica misma. Después, «Estabilizar la atención en la respiración — El hilo de ariadna» te enseña el gesto central: te distraes, te das cuenta y vuelves. Cada regreso cuenta como una repetición.",
+      "seances": [
+       "learnFirstSilence",
+       "appren02"
+      ],
+      "fonctions": [
+       "Bibliothèque pédagogique",
+       "Alarme et rappels"
+      ],
+      "geste": "Cada día a la misma hora, siéntate con la espalda recta y medita: cinco minutos al principio, trece cuando te apetezca.",
+      "repere": "Te sientas cada día sin tener que pensarlo y te das cuenta de algunas distracciones mientras ocurren."
+     },
+     {
+      "periode": "Días 8 a 14",
+      "titre": "Observar los pensamientos y el cuerpo",
+      "texte": "Ahora alargas un poco. «Observar los pensamientos — Ver pasar los trenes» te muestra que no hace falta frenar la mente: basta con ver pasar cada pensamiento. El «Escaneo corporal — Cartografiar el cuerpo desde dentro» es tu primer body scan, zona por zona. Alterna las dos sesiones durante la semana.",
+      "seances": [
+       "appren05",
+       "appren01"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Después de cada sesión, escribe en tu historial una sola línea: qué te distrajo más y cómo te sentiste.",
+      "repere": "Ves pasar un pensamiento sin seguirlo de inmediato y sientes con claridad varias zonas del cuerpo."
+     },
+     {
+      "periode": "Días 15 a 21",
+      "titre": "Meditar con los sentidos y los ojos abiertos",
+      "texte": "La tercera semana lleva la atención al mundo que te rodea. «La conciencia de los cinco sentidos — Abrir las cinco puertas» abre uno a uno tus sentidos y los deja todos abiertos. «Meditar con los ojos abiertos — Permanecer presente en medio del mundo» te enseña a seguir presente en una habitación o en la calle. Es mindfulness para la vida diaria.",
+      "seances": [
+       "appren07",
+       "appren04"
+      ],
+      "fonctions": [
+       "Dragon compagnon et île évolutive"
+      ],
+      "geste": "Una vez al día, medita con los ojos abiertos en un lugar cotidiano, como la cocina o el autobús, durante unos doce minutos.",
+      "repere": "Tu dragón ya ha salido del huevo y celebra tus días seguidos: la práctica forma parte de tu jornada."
+     },
+     {
+      "periode": "Días 22 a 28",
+      "titre": "Elegir tu propio camino",
+      "texte": "La última semana te abre el catálogo. Prueba tres puertas distintas: la respiración con «Respirar con todo el cuerpo», la imaginación con «Película — Una mariposa vuela a tu lado» y las sensaciones de las palmas con «Las manos que se calientan». Fíjate en la que te deja más presente: esa será tu base para seguir por tu cuenta, a tu ritmo.",
+      "seances": [
+       "corps01",
+       "visual02",
+       "chi01"
+      ],
+      "fonctions": [
+       "Catalogue multithématique"
+      ],
+      "geste": "Cada día, a tu hora fija, elige una de las tres sesiones según tu energía del momento.",
+      "repere": "Sabes qué tipo de práctica te sienta mejor y meditas sin necesitar el plan: ya tienes tu propia rutina de meditación."
+     }
+    ],
+    "apres": "Sigue a tu ritmo: el catálogo reúne 19 categorías, de las pausas cortas a los recorridos avanzados. Si un día te falta tiempo, vuelve a «Primera meditación silenciosa»."
+   }
   },
   "09": {
    "slug": "budismo-y-qi-gong",
@@ -1552,7 +2066,73 @@
      "Creador de meditaciones",
      "Escribir una sesión a tu medida; el teléfono puede leerla en voz alta, incluso sin conexión."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Budismo y qi gong: curso de meditación gratis en 4 semanas",
+    "intro": "Cuatro semanas para descubrir la meditación budista y el qi gong a la vez, sin conocimientos previos. Un día trabajas la mente con una figura de sabiduría, otro día el cuerpo con gestos lentos. Es para quien busca meditación zen, compasión y calma en movimiento. Cuenta con cuatro sesiones por semana, de 15 a 30 minutos.",
+    "duree": "4 semanas",
+    "rythme": "15 a 30 min, 4 días por semana",
+    "etapes": [
+     {
+      "periode": "Semana 1",
+      "titre": "Sentarte bajo el árbol Bodhi",
+      "texte": "Empiezas por lo esencial: sentarte y sentir. «Bajo el árbol Bodhi» te lleva al lugar asociado al despertar del Buda, con sus raíces bajo ti. «Las manos que se calientan» abre el qi gong con una bola imaginaria entre las palmas. Siéntate en una silla o en un cojín, como te resulte más cómodo.",
+      "seances": [
+       "lieux01",
+       "chi01"
+      ],
+      "fonctions": [
+       "Bibliothèque pédagogique"
+      ],
+      "geste": "Cuatro días esta semana, alterna las dos sesiones a la misma hora. El primer día, mira antes la lección ilustrada sobre la postura.",
+      "repere": "Te sientas con la espalda estable sin rigidez y notas alguna sensación en las palmas, como calor u hormigueo."
+     },
+     {
+      "periode": "Semana 2",
+      "titre": "Claridad de mente, cuerpo enraizado",
+      "texte": "Esta semana une lucidez y estabilidad. «La espada de Mañjuśrī» corta las frases que dan vueltas en tu cabeza: las lees, las ves y dejas de combatirlas. «El árbol inmóvil» te pone de pie, con los brazos alrededor de un balón imaginario, en una postura enraizada y sin forzar. Alterna mente y cuerpo, un día cada uno.",
+      "seances": [
+       "buddhi03",
+       "chi03"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Para el qi gong, elige el sonido Flauta china a volumen bajo y practica de pie, cerca de una ventana abierta.",
+      "repere": "Reconoces una frase que vuelve una y otra vez, y aguantas de pie unos minutos sin tensar los hombros."
+     },
+     {
+      "periode": "Semana 3",
+      "titre": "Compasión y movimiento",
+      "texte": "Ahora llega la compasión. «Los once rostros de Avalokiteśvara» te enseña a responder a lo que llega con dulzura, firmeza o silencio, según el momento. «La danza del Qi — Qigong en movimiento» deja que pies, manos y torso se respondan despacio, hasta que el cuerpo parece moverse solo. Muévete siempre dentro de tu comodidad.",
+      "seances": [
+       "buddhi02",
+       "chi04"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Cada noche, escribe en tu diario una situación del día y cómo te gustaría responder a ella la próxima vez.",
+      "repere": "Ante una situación difícil, eliges con más calma entre dulzura, firmeza o silencio, y los gestos lentos te salen solos."
+     },
+     {
+      "periode": "Semana 4",
+      "titre": "El camino de Sudhana y la pequeña circulación",
+      "texte": "La última semana trae las sesiones más largas. «El viaje de Sudhana — Los maestros del camino» te hace mirar una misma situación con varias miradas, de maestro en maestro. «La pequeña circulación» sigue una perla de atención que sube por la espalda y cierra el círculo. Si te sientes con ganas, termina con «Conciencia no dual», una sesión avanzada.",
+      "seances": [
+       "buddhi01",
+       "chi02",
+       "cosmiq01"
+      ],
+      "fonctions": [
+       "Mondes immersifs"
+      ],
+      "geste": "Un día de la semana, sustituye tu sesión por el mundo «El Jardín Zen»: una meditación zen de 18 minutos.",
+      "repere": "Puedes mirar un problema desde varios puntos de vista y seguir la pequeña circulación sin perder el hilo."
+     }
+    ],
+    "apres": "Sigue alternando mente y cuerpo: te quedan «Tārā y los ocho grandes peligros», «El león de Mañjuśrī» y el mundo «El Monasterio al Amanecer»."
+   }
   },
   "10": {
    "slug": "concentracion-y-creatividad",
@@ -1689,7 +2269,72 @@
      "Mundos inmersivos",
      "Elegir entre 17 entornos con su propia historia, que favorecen la imaginación y la evasión."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Mindfulness diario: 4 semanas de concentración y creatividad",
+    "intro": "Cuatro semanas de mindfulness diario para entrenar la concentración con pequeñas repeticiones y dar más espacio a la creatividad. Empiezas por la atención a la respiración, sigues con la visualización sentido por sentido y terminas con imágenes mentales más precisas. Es para quien se dispersa con facilidad o busca ideas. Cuenta con 13 a 30 minutos al día, sin promesas milagrosas.",
+    "duree": "4 semanas",
+    "rythme": "13 a 30 min al día",
+    "etapes": [
+     {
+      "periode": "Semana 1",
+      "titre": "Volver a un mismo punto de atención",
+      "texte": "La primera semana entrena el regreso. «Estabilizar la atención en la respiración — El hilo de ariadna» te pide regresar a un mismo punto, la respiración, una y otra vez. «Observar los pensamientos — Ver pasar los trenes» te ayuda a reconocer la distracción en cuanto aparece. No cuentas los fallos, cuentas los regresos.",
+      "seances": [
+       "appren02",
+       "appren05"
+      ],
+      "fonctions": [
+       "Bibliothèque pédagogique"
+      ],
+      "geste": "Cada mañana, antes de abrir el correo, siéntate trece minutos con la espalda recta. El primer día, lee antes la lección sobre la atención.",
+      "repere": "Notas una distracción a los pocos segundos de que empieza, en lugar de al cabo de varios minutos."
+     },
+     {
+      "periode": "Semana 2",
+      "titre": "Afinar la imaginación sentido por sentido",
+      "texte": "Ahora la atención alimenta la imaginación. «Tocar — La llave en la mano» te hace sentir el peso y el frío de una llave que no existe. «Oír — El cuenco cantor lejano» sigue un sonido que se acerca, solo con el oído interior. Un solo sentido cada vez: es la base de una buena visualización.",
+      "seances": [
+       "visual03",
+       "visual04"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Cada día, alterna las dos sesiones con los ojos cerrados y, si las imágenes van demasiado rápido, baja la voz a 0,75×.",
+      "repere": "Puedes evocar el peso de un objeto o un sonido lejano durante unos segundos sin que se borre."
+     },
+     {
+      "periode": "Semana 3",
+      "titre": "Unir los sentidos y dejar venir las ideas",
+      "texte": "Esta semana juntas lo aprendido. «Los tres sentidos reunidos — En la cima de un volcán» construye un paisaje completo con la vista, el oído y el tacto a la vez. «Desbloqueo creativo» silencia al juez interior y deja venir las ideas, aunque sean imperfectas. Son sesiones largas: guárdalas para un momento sin prisa. Los demás días, sigue con tu práctica de la mañana.",
+      "seances": [
+       "visual05",
+       "corpsc02"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "En los dos minutos que siguen a la sesión, escribe en tu historial tres ideas o imágenes, sin ordenarlas ni juzgarlas.",
+      "repere": "Al terminar, a menudo surge una idea que te sorprende, y tu juez interior tarda más en aparecer."
+     },
+     {
+      "periode": "Semana 4",
+      "titre": "Manejar imágenes mentales con precisión",
+      "texte": "La última semana pide más precisión. «Geometría sagrada» te hace construir formas sencillas para estabilizar la atención. Después, «El ojo interior despierta», una sesión avanzada, te enseña a crear una imagen, sostenerla y dejarla ir. Cuando domines el gesto, escribe tu propia visualización: el teléfono te la leerá en voz alta.",
+      "seances": [
+       "corpsc04",
+       "3emeoe02"
+      ],
+      "fonctions": [
+       "Créateur de méditations"
+      ],
+      "geste": "Haz una sesión distinta cada día y, el fin de semana, escribe en el creador de meditaciones una visualización de cinco frases.",
+      "repere": "Sostienes una imagen mental clara durante unos segundos y la cambias a voluntad, sin que se deshaga."
+     }
+    ],
+    "apres": "Mantén una sesión corta de atención cada mañana y una visualización a la semana. Para seguir explorando, entra en el mundo «La Biblioteca Celeste» o prueba «El planeta desconocido»."
+   }
   },
   "11": {
    "slug": "confianza-en-uno-mismo",
@@ -1840,7 +2485,72 @@
      "Creador de meditaciones",
      "Escribir una sesión a tu medida; el teléfono puede leerla en voz alta, incluso sin conexión."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Confianza en uno mismo: 30 días de meditación diaria",
+    "intro": "Treinta días de meditación diaria para cultivar la confianza en uno mismo con pequeños pasos. Empiezas con pausas de tres o cuatro minutos, aflojas el miedo al juicio y al fracaso, y terminas imaginando tu crecimiento con realismo. Es para quien duda de sí o se compara a menudo. Bastan de 3 a 20 minutos al día, y tu dragón crece contigo.",
+    "duree": "30 días",
+    "rythme": "3 a 20 min al día",
+    "etapes": [
+     {
+      "periode": "Días 1 a 7",
+      "titre": "Dar un primer paso cada día",
+      "texte": "Esta semana trabajas con pasos pequeños. «Cuando te falta motivación» deja de lado el proyecto entero y busca solo el primer paso posible. «Recuperar la confianza antes de una prueba» te hace recordar algo que ya lograste. Escúchalas cuando las necesites, y al menos una vez al día.",
+      "seances": [
+       "4minut10",
+       "4minut07"
+      ],
+      "fonctions": [
+       "Alarme et rappels"
+      ],
+      "geste": "Cada mañana, al sonar tu recordatorio, escucha una pausa y escribe en una frase el primer paso del día.",
+      "repere": "Cada día das un paso pequeño que habías decidido, aunque no tengas ganas."
+     },
+     {
+      "periode": "Días 8 a 15",
+      "titre": "Aflojar el miedo al juicio y al fracaso",
+      "texte": "Ahora miras dos miedos que frenan la confianza. «El Miedo al Juicio» te ayuda a soltar la impresión de que todos te miran. «El Miedo al Fracaso» distingue entre fallar y ser un fracaso. Son sesiones cortas, de siete y diez minutos. Alterna las dos y repite la que más te cueste.",
+      "seances": [
+       "ombre09",
+       "ombre08"
+      ],
+      "fonctions": [
+       "Journaux personnels"
+      ],
+      "geste": "Cada noche, anota en la sección Micro-victorias de tu diario de gratitud un pequeño logro del día.",
+      "repere": "Te equivocas sin juzgarte tanto, y la mirada de los demás pesa menos en tus decisiones."
+     },
+     {
+      "periode": "Días 16 a 23",
+      "titre": "Cultivar el amor propio y la autoestima",
+      "texte": "Esta etapa cuida la base: la manera en que te miras. «Desarrollar el amor propio» te invita a reconocer una cualidad real, como tu perseverancia. «Liberarse de la comparación» mira la comparación tal como aparece hoy, sin pelear con ella. El amor propio y la autoestima se refuerzan el uno al otro.",
+      "seances": [
+       "croiss02",
+       "croiss06"
+      ],
+      "fonctions": [
+       "Dragon compagnon et île évolutive"
+      ],
+      "geste": "Practica cada día a la misma hora y mira cómo crece tu dragón: su humor sigue tu constancia, no tu rendimiento.",
+      "repere": "Puedes nombrar tres cualidades tuyas sin dudar, y te comparas menos a menudo con los demás."
+     },
+     {
+      "periode": "Días 24 a 30",
+      "titre": "Imaginar a quien estás llegando a ser",
+      "texte": "La última semana mira hacia delante, con los pies en el suelo. «Visualizar tu crecimiento» recorre una vía férrea con tres estaciones, cada una seis meses más allá, sin una versión idealizada de ti. «Los talentos olvidados», una sesión avanzada, te pone en la piel de un artesano de otro tiempo para traer una cualidad a tu vida de hoy.",
+      "seances": [
+       "croiss07",
+       "trance07"
+      ],
+      "fonctions": [
+       "Passeport zen et progression"
+      ],
+      "geste": "Elige un día para cada sesión y, al terminar, escribe una decisión concreta para la semana que viene. Los otros días, haz una pausa corta.",
+      "repere": "Tu Pasaporte Zen marca tus etapas, y tus notas guardan pruebas reales de lo que has avanzado en un mes."
+     }
+    ],
+    "apres": "Vuelve a la pausa de cuatro minutos antes de cada reto y vuelve a «Desarrollar el amor propio» una vez por semana. Cuando quieras ir más lejos, prueba «Tu yo del futuro»."
+   }
   },
   "12": {
    "slug": "suenos-lucidos",
@@ -1935,7 +2645,71 @@
      "Escucha sin conexión",
      "Descargar los contenidos una primera vez y luego usarlos sin conexión ni distracciones de la red."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Sueños lúcidos: tu rutina antes de dormir durante 4 semanas",
+    "intro": "¿Te preguntas cómo tener sueños lúcidos? Este recorrido de cuatro semanas los prepara sin forzarlos: primero recuerdas tus sueños, luego plantas una intención y exploras el umbral del sueño. Es una rutina antes de dormir de 15 a 30 minutos cada noche, con el diario de sueños listo al despertar. Los resultados cambian mucho de una persona a otra.",
+    "duree": "4 semanas",
+    "rythme": "15 a 30 min cada noche",
+    "etapes": [
+     {
+      "periode": "Semana 1",
+      "titre": "Recordar tus sueños cada mañana",
+      "texte": "Antes de buscar la lucidez, aprendes a recordar. Esta semana te duermes con «Deslizamiento hacia el sueño», que termina sin despertarte. Lo importante llega al despertar: quédate sin moverte unos segundos y deja volver las imágenes de la noche. Después, escríbelas tal como lleguen. A menudo, anotar ayuda a recordar más.",
+      "seances": [
+       "corpsc03"
+      ],
+      "fonctions": [
+       "Journaux personnels",
+       "Écoute hors ligne"
+      ],
+      "geste": "Cada mañana, ponle un título a tu sueño en la sección Descripción del sueño, en menos de cinco minutos.",
+      "repere": "Recuerdas al menos un fragmento de sueño varias mañanas por semana y tu diario empieza a llenarse."
+     },
+     {
+      "periode": "Semana 2",
+      "titre": "Plantar la intención de darte cuenta",
+      "texte": "Ahora preparas la mente antes de dormir. «Preparación para el sueño lúcido» entrena a tu mente para darse cuenta de que sueña y despertar dentro del sueño. Escúchala tres o cuatro noches esta semana, cuando tengas tiempo. Las otras noches, vuelve a la sesión de la primera semana y sigue con tu diario cada mañana.",
+      "seances": [
+       "reves01"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Las noches de preparación, apaga la luz a la misma hora y escoge una voz suave, con una velocidad algo más lenta.",
+      "repere": "Al despertar, recuerdas a veces tu intención de la noche, o un momento del sueño en que algo te pareció extraño."
+     },
+     {
+      "periode": "Semana 3",
+      "titre": "Explorar el umbral entre vigilia y sueño",
+      "texte": "Esta semana exploras el umbral del sueño, el paso del día a la noche. «Cuerpo dormido, mente despierta» observa cómo el cuerpo se duerme mientras la atención se queda. «El sueño despierto dirigido» sigue un hilo guiado y deja que las imágenes cambien la historia. Practícalas temprano, antes de tener sueño.",
+      "seances": [
+       "consci02",
+       "consci05"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Dos noches esta semana, añade el sonido Ensueño a volumen muy bajo y deja el teléfono junto a la cama, con el diario de sueños abierto.",
+      "repere": "Notas las imágenes que aparecen justo antes de dormirte y puedes describirlas por la mañana."
+     },
+     {
+      "periode": "Semana 4",
+      "titre": "Observar las imágenes que llegan solas",
+      "texte": "La última semana afina la mirada interior. «La imagen que aparece sola» es una sesión avanzada: esperas ante el espacio oscuro sin construir nada. Alterna con «Viaje hacia el sueño» las noches en que solo quieras descansar. Al final de la semana, busca en la sección Sueños recurrentes los lugares o personas que se repiten.",
+      "seances": [
+       "reves02",
+       "3emeoe03"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Tras cada sesión avanzada, anota en tu historial qué imagen apareció primero y cuánto tiempo pudiste observarla.",
+      "repere": "Reconoces en tus sueños algunas señales que vuelven, y a veces te preguntas en pleno sueño si estás soñando."
+     }
+    ],
+    "apres": "Sigue con el diario cada mañana y guarda la preparación para las noches con tiempo. Para viajar antes de dormir, entra en «El Oasis del Desierto», bajo un cielo lleno de estrellas."
+   }
   },
   "13": {
    "slug": "duelo-perdon-soltar",
@@ -2056,7 +2830,73 @@
      "Respeto a la privacidad",
      "Usar la app sin cuenta; tus diarios y tus datos personales se quedan en el teléfono."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Aprender a soltar: un plan de meditación a tu ritmo",
+    "intro": "Un recorrido sin fechas ni prisa para aprender a soltar después de una pérdida, una ruptura o un cambio. Avanzas solo cuando te sientes con fuerzas: primero un lugar seguro, luego tus emociones y, si llega, el perdón. Cada sesión dura de 7 a 25 minutos. Es un espacio personal de reflexión: un profesional sigue siendo el apoyo adecuado cuando lo necesitas.",
+    "duree": "A tu ritmo",
+    "rythme": "7 a 25 min, cuando lo necesites",
+    "etapes": [
+     {
+      "periode": "Los días más difíciles",
+      "titre": "Encontrar un lugar donde estar a salvo",
+      "texte": "Al principio, basta con poco. «El Miedo al Abandono» te propone un apoyo en el cuerpo, con una mano sobre ti, cuando sientes que algo falta. «Meditación de compasión» te ofrece siete minutos de paz, empezando por ti. No tienes que sentir nada en concreto. Si algo se mueve demasiado dentro de ti, puedes parar cuando quieras y volver otro día.",
+      "seances": [
+       "ombre07",
+       "cons06"
+      ],
+      "fonctions": [
+       "Voix, langues et rythme"
+      ],
+      "geste": "Cuando lo necesites, siéntate o acuéstate con una mano sobre el pecho y escucha una de las dos, con la voz que te resulte más cercana.",
+      "repere": "Puedes escuchar una sesión hasta el final sin que te desborde, aunque la tristeza siga ahí."
+     },
+     {
+      "periode": "Cuando tengas algo de fuerza",
+      "titre": "Reconocer lo que sientes, sin juzgarlo",
+      "texte": "Cuando te sientas con un poco más de energía, puedes acercarte a tu pena. «Acoger una emoción difícil» deja que la tristeza o la ira estén ahí, sin pelear con ellas. «Ho’oponopono del Corazón» repite cuatro frases al ritmo de la respiración, sin forzar. Escribir después puede ayudarte a poner orden: tus diarios solo están en tu teléfono.",
+      "seances": [
+       "croiss01",
+       "ombre01"
+      ],
+      "fonctions": [
+       "Journaux personnels",
+       "Respect de la vie privée"
+      ],
+      "geste": "Después de cada sesión, escribe tres líneas en tu diario emocional: lo que sientes, dónde lo notas y lo que necesitarías.",
+      "repere": "Puedes nombrar lo que sientes con tus propias palabras, y escribirlo te alivia más de lo que te pesa."
+     },
+     {
+      "periode": "Cuando quieras despedirte",
+      "titre": "Decir lo que quedó sin decir",
+      "texte": "Hay palabras que se quedan dentro. «El jardín del reencuentro» te da un lugar para decirlas y sentir lo que pasa de una generación a otra. Para despedir a un animal querido, «Mi animal que ya no está» te ayuda a reencontrar el vínculo a través de los recuerdos cotidianos. Elige un día tranquilo: son sesiones largas y pueden removerte.",
+      "seances": [
+       "savoir02",
+       "savoir03"
+      ],
+      "fonctions": [
+       "Sanctuaires personnels"
+      ],
+      "geste": "Elige una tarde sin compromisos y, al terminar, dale a tu santuario personal un nombre que te recuerde ese vínculo.",
+      "repere": "Puedes pensar en esa persona o en ese animal con algo más de ternura que de dolor, al menos por momentos."
+     },
+     {
+      "periode": "Cuando llegue el momento",
+      "titre": "Mirar el perdón, sin obligarte a nada",
+      "texte": "Nadie te pide perdonar. «Perdonar sin olvidar» explora lo que perdonar podría significar para ti y te deja decidir: soltar o guardar, sin perder lo aprendido. «Perdonarte a Ti Mismo» mira un error de frente, repara lo que se pueda y te invita a dejar de castigarte. Vuelve a ellas tantas veces como quieras.",
+      "seances": [
+       "croiss05",
+       "ombre04"
+      ],
+      "fonctions": [
+       "Historique et réflexions"
+      ],
+      "geste": "Escucha una sesión cuando te sientas en calma, nunca en plena tormenta, y anota en tu historial una frase sobre lo que cambió.",
+      "repere": "Ese recuerdo sigue ahí, pero pesa un poco menos, y sabes a qué sesión volver cuando lo necesites."
+     }
+    ],
+    "apres": "Vuelve a cualquier etapa siempre que lo necesites: este camino no tiene final. Si la pena se vuelve demasiado pesada o dura mucho, busca el apoyo de un profesional o de alguien de confianza."
+   }
   },
   "14": {
    "slug": "viajes-interiores-mundos-inmersivos",
@@ -2164,7 +3004,70 @@
      "Dragón compañero y su isla",
      "Ver crecer al dragón y su isla según la regularidad de tu práctica, sin competir con nadie."
     ]
-   ]
+   ],
+   "programme": {
+    "titre": "Viaje interior en 4 semanas: tu rutina de meditación inmersiva",
+    "intro": "Cuatro semanas para hacer de cada viaje interior una pequeña costumbre. Alternas los mundos inmersivos, que duran menos de veinte minutos, con las Miniaventuras, más largas, que te llevan a otro planeta o a otra época. Es para quien quiere evadirse un rato sin salir de casa. Cuenta con tres o cuatro viajes por semana, con auriculares y sin conexión.",
+    "duree": "4 semanas",
+    "rythme": "13 a 34 min, 3 o 4 días por semana",
+    "etapes": [
+     {
+      "periode": "Semana 1",
+      "titre": "Tus primeros mundos y un planeta desconocido",
+      "texte": "La primera semana es suave. Dos días, entra en un mundo breve y tranquilo, como «El Oasis del Desierto» o «La Gruta de Cristal Infinita». Otro día, prueba la miniaventura «El planeta desconocido»: exploras un mundo imaginario y cada pregunta cambia tu mirada. Si las imágenes tardan, quédate con los sonidos del lugar.",
+      "seances": [
+       "miniav02"
+      ],
+      "fonctions": [
+       "Mondes immersifs",
+       "Écoute hors ligne"
+      ],
+      "geste": "Elige tres momentos fijos en la semana y ponte auriculares en un sitio tranquilo, con los mundos ya descargados.",
+      "repere": "Llegas al final de un mundo sin mirar el reloj y recuerdas al menos un detalle del paisaje."
+     },
+     {
+      "periode": "Semana 2",
+      "titre": "Viajar por tu propia historia",
+      "texte": "Esta semana el viaje mira hacia dentro. «El tren de los recuerdos» te lleva en un tren que pasa, estación tras estación, por los hábitos, los gustos y las decisiones que hicieron tu vida. Entre dos trayectos, alterna con un mundo que te llame, como «El Templo Antiguo» o «Viaje a Través de la Galaxia». Poco a poco, tu visualización gana detalles.",
+      "seances": [
+       "miniav01"
+      ],
+      "fonctions": [
+       "Sons d’ambiance"
+      ],
+      "geste": "Para los mundos, añade un sonido ambiental que encaje, como las olas o el sotobosque, a volumen bajo, por debajo de la voz.",
+      "repere": "Te acuerdas de una estación del tren o de un detalle de un mundo varios días después del viaje."
+     },
+     {
+      "periode": "Semana 3",
+      "titre": "Pasar un día en otra época",
+      "texte": "Ahora te quedas más tiempo en otro lugar. «Versalles — Un día en 1700» te hace vivir un día entero en la corte: los saludos, las miradas y el mundo que gira en torno a un solo hombre. Son 30 minutos: elige un momento en que nadie te necesite. Los otros días, vuelve a un mundo corto para descansar la mente.",
+      "seances": [
+       "miniav03"
+      ],
+      "fonctions": [
+       "Collection d’objets symboliques"
+      ],
+      "geste": "Reserva un momento del fin de semana para Versalles y, al volver, guarda en tu colección el objeto que más te llamó la atención.",
+      "repere": "Puedes seguir una sesión de media hora sin perder el hilo, y la escena sigue viva al abrir los ojos."
+     },
+     {
+      "periode": "Semana 4",
+      "titre": "El largo camino hacia Kioto",
+      "texte": "La última semana es el viaje más largo. «Japón — En el camino hacia Kioto en 1600» te hace caminar con los sentidos despiertos, sin saber qué espera en la próxima curva. Después, reúne en un santuario personal lo que más te gustó de estas semanas, con el decorado y el ambiente que elijas. Será tu lugar para volver.",
+      "seances": [
+       "miniav04"
+      ],
+      "fonctions": [
+       "Sanctuaires personnels",
+       "Dragon compagnon et île évolutive"
+      ],
+      "geste": "Reserva 34 minutos sin interrupciones, con auriculares y el teléfono en modo avión, y al final del mes mira cuánto ha crecido tu dragón.",
+      "repere": "Tienes un santuario propio al que volver y sabes qué mundo elegir según lo que necesitas cada día."
+     }
+    ],
+    "apres": "Sigue viajando a tu ritmo: te quedan muchos de los 17 mundos, como «La Atlántida Sumergida» o «El Santuario Helado». Vuelve a tu santuario cuando quieras."
+   }
   }
  }
 }
