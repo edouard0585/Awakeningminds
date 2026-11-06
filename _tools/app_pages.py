@@ -69,15 +69,49 @@ XL = {  # libellés des blocs ajoutés le 09-10 (mondes étoffés, pages thémat
 }
 # Pages thématiques (mots-clés des recherches réelles, 09-10) : textes dans _tools/themes_<langue>.json ;
 # séances et sons ajoutés ici depuis les données de l'app (jamais recopiés à la main).
-THEMES = ('sons', 'gratitude')   # 23-10 : « reve » et « chakras » sont devenues des pages piliers (_tools/piliers.py), mêmes adresses
-THEME_PILIERS = {'sons': ['reve', 'mondes', 'chakras'], 'gratitude': ['emotions', 'guides', 'visualisation']}
+THEMES = ('sons', 'gratitude', 'oracle', 'dragon', 'journaux', 'creer')   # 23-10 : « reve » et « chakras » sont devenues des pages piliers ; 06-11 : pages des fonctionnalités
+THEME_PILIERS = {'sons': ['reve', 'mondes', 'chakras'], 'gratitude': ['emotions', 'guides', 'visualisation'],
+                 'oracle': ['emotions', 'guides'], 'dragon': ['mondes'], 'journaux': ['reve', 'emotions', 'guides'], 'creer': ['visualisation', 'mondes']}
 PILIERS_T = {'fr': 'Les guides par thème', 'en': 'Guides by theme', 'es': 'Guías por tema'}
 THEME_IMG = {'sons': 'assets/worlds/mushroomForest.jpg', 'reve': 'assets/cats/catart-trance.png',
-             'chakras': 'assets/cats/catart-calm.png', 'gratitude': 'assets/cats/catart-emotionalGrowth.png'}
+             'chakras': 'assets/cats/catart-calm.png', 'gratitude': 'assets/cats/catart-emotionalGrowth.png',
+             'oracle': 'assets/worlds/celestialLibrary.jpg', 'dragon': 'assets/worlds/skyIsland.jpg',
+             'journaux': 'assets/worlds/desertOasis.jpg', 'creer': 'assets/worlds/zenGarden.jpg'}
 THEME_SEANCES = {'reve': ['reves01', 'reves02', 'corpsc03', 'consci02', 'consci05'],
                  'chakras': ['chakra01', 'chakra02', 'cons02', 'corpsc01'],
                  'gratitude': ['croiss03', '4minut03', 'guides01', 'croiss02', 'cons06']}
-THEME_CATS = {'sons': ['calm', 'fourMin'], 'reve': ['calm', 'trance'], 'chakras': ['calm', 'thirdEye', 'qigong'], 'gratitude': ['emotionalGrowth', 'fourMin']}
+THEME_CATS = {'sons': ['calm', 'fourMin'], 'reve': ['calm', 'trance'], 'chakras': ['calm', 'thirdEye', 'qigong'], 'gratitude': ['emotionalGrowth', 'fourMin'],
+              'oracle': ['fourMin', 'emotionalGrowth', 'calm'], 'dragon': ['learningBasics', 'fourMin'],
+              'journaux': ['calm', 'emotionalGrowth', 'shadow'], 'creer': ['learningBasics', 'visualisation']}
+# 06-11 : captures d'écran (assets/shots/manifest.json : alt et légende par langue) et stades du dragon dans les sections
+try:
+    SHOTS = {x['f']: x for l, xs in json.load(open(os.path.join(ROOT, 'assets', 'shots', 'manifest.json'), encoding='utf-8')).items() for x in xs}
+except Exception:
+    SHOTS = {}
+DRAGON_NOMS = {'fr': {'egg': 'Œuf de dragon', 'young': 'Jeune dragon', 'guardian': 'Dragon gardien', 'cosmic': 'Dragon cosmique'},
+               'en': {'egg': 'Dragon Egg', 'young': 'Young Dragon', 'guardian': 'Guardian Dragon', 'cosmic': 'Cosmic Dragon'},
+               'es': {'egg': 'Huevo de dragón', 'young': 'Dragón joven', 'guardian': 'Dragón guardián', 'cosmic': 'Dragón cósmico'}}
+
+
+def section_theme(x, lang):
+    """Une section de page thématique : h2, capture d'écran (shot), paragraphes, listes (ul, ol), stades du dragon."""
+    h = f'<h2>{E(x["h2"])}</h2>'
+    sh = SHOTS.get(x.get('shot') or '')
+    if sh:
+        h += (f'<figure class="ap-shot"><img src="/assets/shots/{sh["f"]}" alt="{E(sh["alt"])}" title="{E(sh["titre"])}" width="{sh["w"]}" height="{sh["h"]}" '
+              f'loading="lazy" decoding="async"><figcaption>{E(sh["cap"].replace("{meds}", "").replace("{cats}", "").replace("{worlds}", ""))}</figcaption></figure>')
+    h += ''.join(f'<p>{E(q)}</p>' for q in x.get('p', []))
+    if x.get('ul'): h += '<ul>' + ''.join(f'<li>{E(b)}</li>' for b in x['ul']) + '</ul>'
+    if x.get('ol'): h += '<ol class="ap-etapes">' + ''.join(f'<li>{E(b)}</li>' for b in x['ol']) + '</ol>'
+    if x.get('dragons'):
+        paresseux = ' loading="lazy" decoding="async"'
+        figs = []
+        for d in x['dragons']:
+            k = f'assets/dragon/dragon-{d}.png'
+            nom = E(DRAGON_NOMS.get(lang, {}).get(d, d))
+            figs.append(f'<figure>{img_tag(k, lang, 240, "/" + k, 1, paresseux)}<figcaption>{nom}</figcaption></figure>')
+        h += '<div class="ap-dstrip">' + ''.join(figs) + '</div>'
+    return h + '<div class="ap-clear"></div>'
 
 # 06-11 (Edouard : « pour les pages des guides, mets en bas de chaque page les articles publiés au fur et à mesure,
 # automatiquement, en lien avec ces sujets ») : articles du blog de chaque catégorie, choisis comme ceux des pages
@@ -170,6 +204,14 @@ CSS = """
 .ap-blog b{font-family:'Cormorant Garamond',Georgia,serif;font-size:19px;line-height:1.25;color:#fff7e8}.ap-blog span span{font-size:14px;line-height:1.5;opacity:.85}
 .ap-blog i{font-style:normal;font-size:13px;color:var(--gold);margin-top:auto}
 .ap-theme img.hero{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin:4px 0 22px}
+.ap-shot{float:right;width:min(40%,250px);margin:6px 0 18px 24px}.ap-shot img{width:100%;height:auto;border-radius:26px;border:1px solid rgba(255,255,255,.12);box-shadow:0 18px 40px -18px rgba(0,0,0,.8)}
+.ap-shot figcaption{font-size:13px;line-height:1.45;color:var(--muted);margin-top:8px;text-align:center}
+.ap-clear{clear:both}
+.ap-dstrip{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:14px 0 6px}.ap-dstrip figure{margin:0;text-align:center}
+.ap-dstrip img{width:100%;height:auto;max-width:150px}.ap-dstrip figcaption{font-size:13px;color:var(--muted);margin-top:4px}
+ol.ap-etapes{counter-reset:etape;list-style:none;padding:0;margin:12px 0 18px}ol.ap-etapes li{counter-increment:etape;position:relative;padding:4px 0 10px 46px}
+ol.ap-etapes li::before{content:counter(etape);position:absolute;left:0;top:2px;width:30px;height:30px;border-radius:50%;border:1px solid var(--gold);color:var(--gold);display:flex;align-items:center;justify-content:center;font-size:14px}
+@media(max-width:640px){.ap-shot{float:none;width:min(72%,250px);margin:10px auto 18px}.ap-dstrip{grid-template-columns:repeat(2,1fr)}}
 .ap-sons{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;margin:10px 0 24px}
 .ap-sons div{border:1px solid var(--line);border-radius:14px;padding:12px 16px;background:rgba(255,255,255,.02)}
 .ap-sons b{display:block;font-family:'Cormorant Garamond',Georgia,serif;font-size:19px;color:#fff7e8;margin-bottom:4px}
@@ -620,8 +662,7 @@ def themes(bb, cat, P):
             p_img, alt_img, titre_img = media(ik, lang, 960 if 'worlds' in ik else 640)
             src = p_img or (img_world(ik.split('/')[-1][:-4]) if 'worlds' in ik else img_cat(ik.split('catart-')[-1][:-4]))
             hero = f'<img class="hero" src="{rel(src, 1)}" alt="{E(alt_img)}" title="{E(titre_img)}"{dims(src)} fetchpriority="high" decoding="async">'
-            secs = ''.join(f'<h2>{E(x["h2"])}</h2>' + ''.join(f'<p>{E(q)}</p>' for q in x.get('p', []))
-                           + (('<ul>' + ''.join(f'<li>{E(b)}</li>' for b in x['ul']) + '</ul>') if x.get('ul') else '') for x in s['sections'])
+            secs = ''.join(section_theme(x, lang) for x in s['sections'])   # 06-11 : captures, étapes, stades du dragon
             bloc = ''
             items = []
             if key == 'sons' and I18N_SONS:

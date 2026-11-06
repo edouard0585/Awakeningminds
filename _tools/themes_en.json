@@ -170,5 +170,260 @@
     "The journal is for writing, while the meditations are guided listening sessions. You can pair them: a short meditation first, then a few lines in the journal."
    ]
   ]
+ },
+ "oracle": {
+  "slug": "meditation-oracle",
+  "seo": "The Oracle: Three Guided Meditations for How You Feel",
+  "desc": "Type how you feel and the Oracle turns over three cards: three guided meditations for this moment, plus daily tips. Free, no ads, works offline.",
+  "h1": "The MeditaDream Oracle: three meditations for how you feel",
+  "lead": "Not sure which meditation to pick? Tell the Oracle how you feel, in your own words. It shuffles the deck and turns over three cards: three guided meditations chosen for this exact moment.",
+  "sections": [
+   {
+    "h2": "How does the Oracle work?",
+    "shot": "en-03-oracle.webp",
+    "p": [
+     "The screen asks one question: “How are you feeling?” You answer the way you would talk to a friend: “I feel anxious before a big meeting”, “I can’t sleep, my mind is racing”, “I feel lonely tonight”.",
+     "The Oracle replies with a sentence, written letter by letter, then three cards appear. Tap a card to see the meditation and its length, and start the session."
+    ],
+    "ul": [
+     "“Surprise me” draws three meditations at random.",
+     "Ask again as many times as you like.",
+     "Everything happens on your phone: nothing you write is sent anywhere."
+    ]
+   },
+   {
+    "h2": "Examples: what the Oracle suggests",
+    "p": [
+     "“I feel anxious before a big meeting”: “I can feel everything rushing. Here are three ways to slow down, right now.” Then When Everything Moves Too Fast (4 min), Finding Your Confidence Before a Challenge (4 min) and Breathing with the Whole Body (13 min).",
+     "“I can’t sleep, my mind is racing”: “Sleep comes more easily when you stop chasing it. Let yourself be carried.” Then Drifting into Sleep (16 min), Sleep Journey (27 min) and Body Asleep, Mind Awake (24 min).",
+     "“I want to explore the stars”: “Craving somewhere else? Close your eyes, the journey starts here.” Then The Unknown Planet (17 min) and two longer journeys through the galaxy and the northern lights.",
+     "Suggestions can change from one day to the next, so you keep discovering new sessions."
+    ]
+   },
+   {
+    "h2": "Daily tips that sound like you",
+    "p": [
+     "Below the cards, the Oracle offers tips for the day. The more you use the app, the more personal they get: they draw on your journals, the reflections you note after sessions, your guides and your favorites, sometimes in your own words.",
+     "At first, when it barely knows you, it picks from nearly a hundred tips across fourteen themes: breath, sleep, gratitude, body awareness and more."
+    ]
+   },
+   {
+    "h2": "Why an oracle for meditation?",
+    "p": [
+     "Often the hardest part is not meditating, it is choosing. Faced with so many sessions, you scroll, hesitate, then put the phone down. The Oracle turns that choice into one simple question and three answers.",
+     "It is not fortune-telling: the Oracle matches your words to meditations. Drawing cards is simply a gentle way to welcome whatever comes up."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Is the Oracle free?",
+    "Yes, like the whole app: no subscription, no ads, no account."
+   ],
+   [
+    "Do I need an internet connection?",
+    "Not for the cards or the tips, which are worked out on your phone. You only need a connection to download a session the first time."
+   ],
+   [
+    "What happens to what I write?",
+    "It stays on your phone. Nothing is sent or shared."
+   ],
+   [
+    "Does the Oracle replace a professional?",
+    "No. It suggests wellbeing meditations. If you are going through a hard time, talk to someone close to you or to a professional."
+   ]
+  ]
+ },
+ "dragon": {
+  "slug": "meditation-dragon-companion",
+  "seo": "Dragon Companion: A Meditation Pet That Grows With You",
+  "desc": "Start with an egg, end with a cosmic dragon: your companion grows with every minute you meditate, across eleven stages on its own island. Free, no ads.",
+  "h1": "Your dragon companion grows as you meditate",
+  "lead": "In MeditaDream, every minute of meditation helps a companion grow: a dragon that hatches from an egg, moves to a new island as it matures, flies across a sky that follows your time of day, and talks to you with a dry sense of humor.",
+  "sections": [
+   {
+    "h2": "How does your dragon grow?",
+    "shot": "en-01-home.webp",
+    "p": [
+     "It grows with your total minutes of meditation, across eleven stages. The egg hatches after 10 minutes, the young dragon arrives after one hour of practice, the explorer at 300 minutes, the guardian at 1,000, and the cosmic dragon, the final stage, at 4,000 minutes."
+    ],
+    "ul": [
+     "Dragon Egg: from the start",
+     "Hatchling Dragon: 10 minutes",
+     "Young Dragon: 60 minutes",
+     "Apprentice Dragon: 150 minutes",
+     "Adolescent Dragon: 225 minutes",
+     "Explorer Dragon: 300 minutes",
+     "Wayfarer Dragon: 500 minutes",
+     "Guardian Dragon: 1,000 minutes",
+     "Ancient Dragon: 2,000 minutes",
+     "Sage Dragon: 3,000 minutes",
+     "Cosmic Dragon: 4,000 minutes"
+    ],
+    "dragons": [
+     "egg",
+     "young",
+     "guardian",
+     "cosmic"
+    ]
+   },
+   {
+    "h2": "Its island changes with it",
+    "p": [
+     "Your dragon lives on an island floating in the sky, and the island evolves with it: a rock, a meadow, a sapling, a great tree, a waterfall, crystals, a temple, then a cosmic island.",
+     "It lands, moves around, meditates on the ground, then takes off for a flight. The sky follows your clock: daylight, sunset, a starry night with planets, an aurora on some nights, and visitors crossing the sky."
+    ]
+   },
+   {
+    "h2": "Its moods follow your consistency",
+    "p": [
+     "Meditate three days in a row and it is happy; seven days and it gets excited; fourteen and it turns wise. If it does not see you for three days it gets bored, and after a week it feels lonely. It celebrates every new stage and every stamp in your passport.",
+     "It talks to you too. On your first meeting: “Hello. I’m your spiritual dragon. I was supposed to be a tiger. There was an administrative issue.” After thirty days: “Thirty days. I may need to revise my theories about humans.”"
+    ]
+   },
+   {
+    "h2": "Accessories to unlock",
+    "p": [
+     "As it grows, it earns items: a tiny lantern and a meditation cushion at the apprentice stage, an explorer’s hat, a compass and a passport bag at the explorer stage, a golden crown for the guardian, a halo for the sage, and a stardust cape for the cosmic dragon."
+    ]
+   },
+   {
+    "h2": "Why a dragon for meditation?",
+    "p": [
+     "Because consistency matters more than length, and it feeds on small joys. Watching your dragon hatch, then grow, makes you want to come back tomorrow, even for five minutes."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Does the dragon grow with short meditations?",
+    "Yes: it counts every minute, from 3-minute breaks to 40-minute journeys."
+   ],
+   [
+    "What happens if I stop for a few days?",
+    "It never shrinks and you lose nothing: it gets a little bored, then it is delighted when you come back."
+   ],
+   [
+    "Does the dragon cost anything?",
+    "No. Like the whole app, it is free, with no ads and no account."
+   ]
+  ]
+ },
+ "journaux": {
+  "slug": "dream-journal-app",
+  "seo": "Dream Journal and 4 More Private Journals, Free",
+  "desc": "A free dream journal, plus gratitude, emotion, signs and spiritual journals, all private and on your phone, inside a meditation app with no ads.",
+  "h1": "A dream journal and four more: your private meditation journals",
+  "lead": "MeditaDream does not stop when the session ends. Five journals help you keep track of what you live through: your dreams, your gratitude, your emotions, the signs you notice and your spiritual experiences.",
+  "sections": [
+   {
+    "h2": "Which journals are in the app?",
+    "shot": "en-06-journals.webp",
+    "ul": [
+     "The dream journal, to write down dreams when you wake: their places, their characters, how they made you feel, and the ones that keep coming back.",
+     "The gratitude journal, to keep what did you good each day and what you take from it.",
+     "The emotion journal, to name what you feel, look for why, and watch how it changes.",
+     "The signs journal, for the coincidences that strike you, what you made of them at the time, and later on.",
+     "The spiritual journal, to record your inner experiences and the insights they leave behind."
+    ]
+   },
+   {
+    "h2": "How to keep a dream journal",
+    "ol": [
+     "Keep your phone by the bed and open the dream journal as soon as you wake, before getting up.",
+     "Write down what remains, even a fragment: an image, a place, a feeling. Do not try to tell the whole story.",
+     "Add a word about how the dream made you feel.",
+     "Read your notes back every week: recurring dreams and insistent symbols show up on their own. It is also the first step toward lucid dreaming."
+    ]
+   },
+   {
+    "h2": "Your session history",
+    "shot": "en-08-history.webp",
+    "p": [
+     "Every meditation you finish goes into your history, with its date and length. You can note your reflections there, across eight themes, and read them later to see how far you have come."
+    ]
+   },
+   {
+    "h2": "Your writing stays yours",
+    "p": [
+     "Everything stays on your phone: no account, no cloud, nothing is sent. Every entry earns you a point, just like every meditation, and the Oracle reads your journals right on your device to offer tips that sound like you."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Are the journals private?",
+    "Yes. They stay on your phone, with no account and nothing sent."
+   ],
+   [
+    "How much do the journals cost?",
+    "Nothing. The journals, the meditations and the Oracle are free, with no subscription and no ads."
+   ],
+   [
+    "Can I keep a gratitude journal?",
+    "Yes, it is one of the five journals. The gratitude journal page explains how to keep it simple."
+   ]
+  ]
+ },
+ "creer": {
+  "slug": "write-your-own-meditation",
+  "seo": "Write Your Own Guided Meditation, Free and Offline",
+  "desc": "Write your own guided meditation and hear it read aloud by a voice on your phone, pauses included, even offline. Free, no subscription, no ads.",
+  "h1": "My Meditations: write your own guided meditation",
+  "lead": "A line that helps you, a morning ritual, a visualization of your own: in My Meditations you write your own scripts, and the app reads them aloud, with the silences you choose.",
+  "sections": [
+   {
+    "h2": "How do you create your meditation?",
+    "shot": "en-07-my-meditations.webp",
+    "ol": [
+     "Give it a title, pick the language (English, French or Spanish) and the category to file it under.",
+     "Write your script, one sentence per line. The preview shows how many sentences you have and the estimated length.",
+     "Add silences: a line “3 sec” on its own between two sentences, or [10] for ten seconds. An empty line also lets the script breathe.",
+     "Press play: a voice on your phone reads your meditation, even offline."
+    ]
+   },
+   {
+    "h2": "An example to copy, then make your own",
+    "p": [
+     "Here is a short morning meditation, written the way the app expects, one sentence per line:"
+    ],
+    "ul": [
+     "Settle in, back straight, shoulders soft.",
+     "3 sec",
+     "Feel the cool air coming in through your nose.",
+     "And the warmer air going out.",
+     "5 sec",
+     "Set one simple intention for today.",
+     "[10]",
+     "When you are ready, gently open your eyes."
+    ]
+   },
+   {
+    "h2": "For a more natural voice",
+    "p": [
+     "Playback uses the voices installed on your phone. The “enhanced” or “premium” voices sound far more natural: the app shows you how to download them, on iPhone and Android, and they then appear in the list."
+    ]
+   },
+   {
+    "h2": "Sort and find your meditations",
+    "p": [
+     "Your meditations are filed by category, just like the app’s own. You can edit or delete them at any time, and every session you play counts in your history and your points."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Do I need a connection to play my meditation?",
+    "No: playback happens on your phone, even in airplane mode."
+   ],
+   [
+    "Can I write in French or Spanish?",
+    "Yes: choose the language of each meditation and the voice follows."
+   ],
+   [
+    "Are my scripts shared?",
+    "No. They stay on your phone."
+   ]
+  ]
  }
 }

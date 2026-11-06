@@ -157,5 +157,260 @@
     "Las dos opciones valen. Por la noche repasas el día; por la mañana orientas la atención hacia lo bueno desde el principio. Elige el momento que puedas mantener."
    ]
   ]
+ },
+ "oracle": {
+  "slug": "oraculo-meditacion",
+  "seo": "El Oráculo: tres meditaciones guiadas según cómo te sientes",
+  "desc": "Escribe cómo te sientes y el Oráculo da la vuelta a tres cartas: tres meditaciones guiadas para este momento y consejos del día. Gratis y sin anuncios.",
+  "h1": "El Oráculo de MeditaDream: tres meditaciones para lo que sientes",
+  "lead": "¿No sabes qué meditación elegir? Cuéntale al Oráculo cómo te sientes, con tus propias palabras. Baraja las cartas y da la vuelta a tres: tres meditaciones guiadas elegidas para este momento.",
+  "sections": [
+   {
+    "h2": "¿Cómo funciona el Oráculo?",
+    "shot": "es-03-oraculo.webp",
+    "p": [
+     "En la pantalla hay una sola pregunta: «¿Cómo te sientes?». Respondes como le hablarías a un amigo: «estoy agobiado por el trabajo», «no puedo dormir», «me siento triste y sola».",
+     "El Oráculo te contesta con una frase, escrita letra a letra, y aparecen tres cartas. Toca una carta para ver la meditación y su duración, y empezar la sesión."
+    ],
+    "ul": [
+     "El botón «Sorpréndeme» saca tres meditaciones al azar.",
+     "Puedes volver a preguntar todas las veces que quieras.",
+     "Todo ocurre en tu teléfono: nada de lo que escribes se envía."
+    ]
+   },
+   {
+    "h2": "Ejemplos: lo que te propone el Oráculo",
+    "p": [
+     "«Estoy agobiado por el trabajo»: «Siento que todo va demasiado rápido. Aquí tienes tres maneras de frenar, ahora mismo.» Y luego Cuando todo va demasiado deprisa (4 min), Estabilizar la atención en la respiración (13 min) y Respirar con todo el cuerpo (13 min).",
+     "«No puedo dormir»: «El sueño llega mejor cuando dejas de buscarlo. Déjate llevar.» Y luego Deslizamiento hacia el sueño (16 min), Viaje hacia el sueño (27 min) y El cuerpo bajo una cascada (15 min).",
+     "«Me siento triste y sola»: «Está bien sentirte así. Acojamos lo que hay, con suavidad.» Y luego Acoger una emoción difícil (17 min), Desarrollar el amor propio (15 min) y una pausa de 4 minutos.",
+     "Las propuestas pueden cambiar de un día a otro, para que descubras otras sesiones."
+    ]
+   },
+   {
+    "h2": "Consejos del día que se parecen a ti",
+    "p": [
+     "Debajo de las cartas, el Oráculo te ofrece consejos para el día. Cuanto más usas la app, más se parecen a ti: se basan en tus diarios, en las impresiones que anotas tras las sesiones, en tus guías y tus favoritos, y a veces retoman tus propias palabras.",
+     "Al principio, cuando aún te conoce poco, elige entre casi un centenar de consejos sobre catorce temas: respiración, sueño, gratitud, atención al cuerpo…"
+    ]
+   },
+   {
+    "h2": "¿Por qué un oráculo para meditar?",
+    "p": [
+     "Muchas veces lo difícil no es meditar, sino elegir. Ante tantas sesiones, dudas, deslizas y acabas dejando el teléfono. El Oráculo convierte esa elección en una pregunta sencilla y tres respuestas.",
+     "No es adivinación: el Oráculo une tus palabras con meditaciones. Sacar cartas es solo una forma suave de acoger lo que llega."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "¿El Oráculo es gratis?",
+    "Sí, como toda la app: sin suscripción, sin anuncios y sin cuenta."
+   ],
+   [
+    "¿Hace falta conexión?",
+    "No para las cartas ni los consejos, que se calculan en tu teléfono. Solo necesitas conexión para descargar una sesión la primera vez."
+   ],
+   [
+    "¿Qué pasa con lo que escribo?",
+    "Se queda en tu teléfono. No se envía ni se comparte."
+   ],
+   [
+    "¿El Oráculo sustituye a un profesional?",
+    "No. Propone meditaciones de bienestar. Si estás pasando por un momento difícil, habla con alguien cercano o con un profesional."
+   ]
+  ]
+ },
+ "dragon": {
+  "slug": "dragon-companero-meditacion",
+  "seo": "Dragón compañero: crece contigo cada vez que meditas",
+  "desc": "Empieza con un huevo y termina con un dragón cósmico: tu compañero crece con cada minuto de meditación, en once etapas y en su propia isla. Gratis.",
+  "h1": "Tu dragón compañero crece con tu meditación",
+  "lead": "En MeditaDream, cada minuto de meditación hace crecer a un compañero: un dragón que nace de un huevo, cambia de isla a medida que madura, vuela por un cielo que sigue la hora de tu día y te habla con un humor muy suyo.",
+  "sections": [
+   {
+    "h2": "¿Cómo crece tu dragón?",
+    "shot": "es-01-inicio.webp",
+    "p": [
+     "Crece con el total de tus minutos de meditación, en once etapas. El huevo eclosiona a los 10 minutos, el dragón joven llega tras una hora de práctica, el explorador a los 300 minutos, el guardián a los 1000 y el dragón cósmico, la última etapa, a los 4000 minutos."
+    ],
+    "ul": [
+     "Huevo de dragón: desde el principio",
+     "Dragón bebé: 10 minutos",
+     "Dragón joven: 60 minutos",
+     "Dragón aprendiz: 150 minutos",
+     "Dragón adolescente: 225 minutos",
+     "Dragón explorador: 300 minutos",
+     "Dragón viajero: 500 minutos",
+     "Dragón guardián: 1000 minutos",
+     "Dragón antiguo: 2000 minutos",
+     "Dragón sabio: 3000 minutos",
+     "Dragón cósmico: 4000 minutos"
+    ],
+    "dragons": [
+     "egg",
+     "young",
+     "guardian",
+     "cosmic"
+    ]
+   },
+   {
+    "h2": "Su isla cambia con él",
+    "p": [
+     "Tu dragón vive en una isla suspendida en el cielo, que evoluciona con él: una roca, una pradera, un arbolito, un gran árbol, una cascada, cristales, un templo y, al final, una isla cósmica.",
+     "Se posa, cambia de sitio, medita en el suelo y luego sale a volar. El cielo sigue tu hora: día, atardecer, noche estrellada con sus planetas, una aurora algunas noches y visitantes que cruzan el cielo."
+    ]
+   },
+   {
+    "h2": "Su humor sigue tu constancia",
+    "p": [
+     "Medita tres días seguidos y estará contento; siete días, entusiasmado; catorce, sabio. Si no te ve durante tres días, se aburre; al cabo de una semana, se siente solo. Celebra cada nueva etapa y cada sello de tu pasaporte.",
+     "También te habla, con humor. En vuestro primer encuentro: «Hola. Soy tu dragón espiritual. Se suponía que iba a ser un tigre. Hubo un problema administrativo.» Después de treinta días: «Treinta días. Voy a tener que revisar mi teoría sobre los humanos.»"
+    ]
+   },
+   {
+    "h2": "Accesorios por desbloquear",
+    "p": [
+     "A medida que crece, gana objetos: una pequeña linterna y un cojín de meditación en la etapa de aprendiz, un sombrero de explorador, una brújula y una bolsa para tu pasaporte en la de explorador, una corona dorada para el guardián, un halo para el sabio y una capa de polvo de estrellas para el dragón cósmico."
+    ]
+   },
+   {
+    "h2": "¿Por qué un dragón para meditar?",
+    "p": [
+     "Porque la constancia cuenta más que la duración, y se alimenta de pequeñas alegrías. Ver a tu dragón eclosionar y crecer te da ganas de volver mañana, aunque sea cinco minutos."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "¿El dragón crece con las meditaciones cortas?",
+    "Sí: cuenta todos tus minutos, los de las pausas de 3 minutos y los de los viajes de 40 minutos."
+   ],
+   [
+    "¿Qué pasa si dejo de meditar unos días?",
+    "No encoge ni pierde nada: se aburre un poco y luego se alegra de tu vuelta."
+   ],
+   [
+    "¿El dragón es de pago?",
+    "No. Como toda la app, es gratis, sin anuncios y sin cuenta."
+   ]
+  ]
+ },
+ "journaux": {
+  "slug": "diario-de-suenos-y-diarios",
+  "seo": "Diario de sueños, emociones y señales: 5 diarios gratis",
+  "desc": "Diario de sueños, de gratitud, emocional, de señales y espiritual: 5 diarios privados en una app de meditación gratis y en español, en tu teléfono.",
+  "h1": "Tus diarios: sueños, gratitud, emociones, señales y vida espiritual",
+  "lead": "MeditaDream no termina cuando acaba la sesión. Cinco diarios te ayudan a guardar lo que vives: tus sueños, tus gratitudes, tus emociones, las señales que notas y tus experiencias espirituales.",
+  "sections": [
+   {
+    "h2": "¿Qué diarios hay en la app?",
+    "shot": "es-06-diarios.webp",
+    "ul": [
+     "El diario de sueños, para anotar tus sueños al despertar: sus lugares, sus personajes, lo que te hicieron sentir y los que se repiten.",
+     "El diario de gratitud, para guardar cada día lo que te hizo bien y lo que te llevas de ello.",
+     "El diario emocional, para poner nombre a lo que sientes, buscar el porqué y ver cómo evoluciona.",
+     "El diario de señales, para las coincidencias que te llaman la atención, lo que pensaste en el momento y después, con perspectiva.",
+     "El diario espiritual, para relatar tus experiencias interiores y las tomas de conciencia que dejan."
+    ]
+   },
+   {
+    "h2": "¿Cómo llevar un diario de sueños?",
+    "ol": [
+     "Deja el teléfono cerca de la cama y abre el diario de sueños nada más despertar, antes de levantarte.",
+     "Anota lo que quede, aunque sea un fragmento: una imagen, un lugar, una emoción. No intentes contarlo todo.",
+     "Añade una palabra sobre lo que el sueño te hizo sentir.",
+     "Relee tus notas cada semana: los sueños que se repiten y los símbolos insistentes aparecen solos. Es también el primer paso hacia los sueños lúcidos."
+    ]
+   },
+   {
+    "h2": "El historial de tus sesiones",
+    "shot": "es-08-historial.webp",
+    "p": [
+     "Cada meditación que terminas entra en tu historial, con su fecha y su duración. Puedes anotar tus impresiones, sobre ocho temas de reflexión, y releerlas más tarde para ver el camino recorrido."
+    ]
+   },
+   {
+    "h2": "Lo que escribes es tuyo",
+    "p": [
+     "Todo se queda en tu teléfono: sin cuenta, sin nube y sin envíos. Cada entrada te da un punto, igual que cada meditación, y el Oráculo lee tus diarios en el propio teléfono para proponerte consejos que se parecen a ti."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "¿Los diarios son privados?",
+    "Sí. Se quedan en tu teléfono, sin cuenta ni envíos."
+   ],
+   [
+    "¿Cuánto cuestan los diarios?",
+    "Nada. Los diarios, las meditaciones y el Oráculo son gratis, sin suscripción ni anuncios."
+   ],
+   [
+    "¿Puedo llevar un diario de gratitud?",
+    "Sí, es uno de los cinco diarios. La página del diario de gratitud explica cómo llevarlo de forma sencilla."
+   ]
+  ]
+ },
+ "creer": {
+  "slug": "crea-tu-propia-meditacion",
+  "seo": "Crea tu propia meditación guiada, gratis y en español",
+  "desc": "Escribe tu propia meditación guiada y escúchala en voz alta con una voz de tu teléfono, con pausas y sin conexión. Gratis, sin suscripción ni anuncios.",
+  "h1": "Mis meditaciones: escribe tu propia meditación guiada",
+  "lead": "Una frase que te ayuda, un ritual de la mañana, una visualización tuya: en «Mis meditaciones» escribes tus propios textos y la app te los lee en voz alta, con los silencios que elijas.",
+  "sections": [
+   {
+    "h2": "¿Cómo crear tu meditación?",
+    "shot": "es-07-mis-meditaciones.webp",
+    "ol": [
+     "Ponle un título, elige el idioma (español, francés o inglés) y la categoría donde guardarla.",
+     "Escribe tu texto, una frase por línea. La vista previa te indica cuántas frases tiene y la duración estimada.",
+     "Añade silencios: una línea «3 seg» sola entre dos frases, o [10] para diez segundos. Una línea vacía también deja respirar el texto.",
+     "Pulsa reproducir: una voz de tu teléfono te lee la meditación, incluso sin conexión."
+    ]
+   },
+   {
+    "h2": "Un ejemplo para copiar y adaptar",
+    "p": [
+     "Aquí tienes una meditación corta para la mañana, escrita como en la app, una frase por línea:"
+    ],
+    "ul": [
+     "Acomódate, con la espalda recta y los hombros sueltos.",
+     "3 seg",
+     "Siente el aire fresco que entra por la nariz.",
+     "Y el aire más cálido que sale.",
+     "5 seg",
+     "Elige una intención sencilla para hoy.",
+     "[10]",
+     "Cuando estés listo, abre los ojos despacio."
+    ]
+   },
+   {
+    "h2": "Para una voz más natural",
+    "p": [
+     "La lectura usa las voces instaladas en tu teléfono. Las voces «mejoradas» o «premium» suenan mucho más naturales: la app te explica cómo descargarlas, en iPhone y en Android, y después aparecen en la lista."
+    ]
+   },
+   {
+    "h2": "Ordenar y encontrar tus meditaciones",
+    "p": [
+     "Tus meditaciones se ordenan por categoría, como las de la app. Puedes modificarlas o borrarlas cuando quieras, y cada sesión que escuchas cuenta en tu historial y en tus puntos."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "¿Necesito conexión para escuchar mi meditación?",
+    "No: la lectura se hace en tu teléfono, incluso en modo avión."
+   ],
+   [
+    "¿Puedo escribir en francés o en inglés?",
+    "Sí: elige el idioma de cada meditación y la voz lo sigue."
+   ],
+   [
+    "¿Se comparten mis textos?",
+    "No. Se quedan en tu teléfono."
+   ]
+  ]
  }
 }

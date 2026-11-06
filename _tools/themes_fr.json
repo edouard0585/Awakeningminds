@@ -184,5 +184,260 @@
     "Le principe est le même. Dans l’application, les rubriques te guident, et ton journal te suit partout sans papier."
    ]
   ]
+ },
+ "oracle": {
+  "slug": "oracle-meditation",
+  "seo": "L’Oracle : trois méditations pour ce que tu ressens",
+  "desc": "Écris comment tu te sens : l’Oracle retourne trois cartes, trois méditations guidées pour ce moment, et des conseils du jour. Gratuit, sans pub.",
+  "h1": "L’Oracle de MeditaDream : trois méditations pour ce que tu ressens",
+  "lead": "Tu ne sais pas quelle méditation choisir ? Dis à l’Oracle comment tu te sens, avec tes propres mots. Il bat les cartes et en retourne trois : trois méditations guidées choisies pour ce moment précis.",
+  "sections": [
+   {
+    "h2": "Comment fonctionne l’Oracle ?",
+    "shot": "fr-03-oracle.webp",
+    "p": [
+     "En haut de l’écran, une seule question : « Comment te sens-tu ? ». Tu réponds comme tu parlerais à un ami : « je stresse avant mon entretien », « je n’arrive pas à dormir », « je me sens seul ce soir ».",
+     "L’Oracle te répond par une phrase, écrite lettre par lettre, puis trois cartes apparaissent. Touche une carte pour découvrir la méditation, sa durée, et lancer la séance."
+    ],
+    "ul": [
+     "Le bouton « Surprends-moi » tire trois méditations au hasard.",
+     "Tu peux reposer ta question autant de fois que tu veux.",
+     "Tout se passe sur ton téléphone : rien de ce que tu écris n’est envoyé."
+    ]
+   },
+   {
+    "h2": "Exemples : ce que l’Oracle te propose",
+    "p": [
+     "« Je stresse avant mon entretien de demain » : l’Oracle répond « Je sens que tout se bouscule. Voici trois façons de ralentir, maintenant. », puis propose trois pauses de 4 minutes : Quand tout va trop vite, Retrouver confiance avant une épreuve et Quand tu te sens observé ou jugé.",
+     "« Je suis en colère contre mon frère » : « Cette énergie peut redescendre sans que tu la retiennes. Commençons par là. » Viennent alors Se calmer après une dispute (3 min), Travail de l’Ombre (17 min) et Accueillir une émotion difficile (17 min).",
+     "« Je veux faire un voyage astral » : « Le voyage commence par un corps bien détendu. Allons-y pas à pas. » L’Oracle choisit L’aimant au plafond (17 min) et deux protocoles de sortie astrale de 30 et 33 minutes.",
+     "Les propositions peuvent changer d’un jour à l’autre, pour te faire découvrir d’autres séances."
+    ]
+   },
+   {
+    "h2": "Des conseils du jour qui te ressemblent",
+    "p": [
+     "Sous les cartes, l’Oracle t’offre des conseils pour la journée. Plus tu utilises l’application, plus ils te ressemblent : ils s’appuient sur tes journaux, sur les impressions notées après tes séances, sur tes guides et tes favoris, et reprennent parfois tes propres mots.",
+     "Au début, quand il te connaît encore peu, il puise dans près d’une centaine de conseils sur quatorze thèmes : souffle, sommeil, gratitude, attention au corps…"
+    ]
+   },
+   {
+    "h2": "Pourquoi un oracle pour méditer ?",
+    "p": [
+     "Le plus difficile, souvent, n’est pas de méditer, c’est de choisir. Devant tant de séances, on hésite, on fait défiler, puis on repose le téléphone. L’Oracle ramène ce choix à une question simple et à trois réponses.",
+     "Ce n’est pas de la divination : l’Oracle relie tes mots à des méditations. Le tirage des cartes est simplement une façon douce d’accueillir ce qui vient."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "L’Oracle est-il gratuit ?",
+    "Oui, comme toute l’application : pas d’abonnement, pas de publicité, pas de compte à créer."
+   ],
+   [
+    "Faut-il une connexion ?",
+    "Non pour le tirage et les conseils, qui se calculent sur ton téléphone. Une connexion sert seulement à télécharger une séance la première fois."
+   ],
+   [
+    "Que devient ce que j’écris ?",
+    "Ça reste sur ton téléphone. Rien n’est envoyé ni partagé."
+   ],
+   [
+    "L’Oracle remplace-t-il un professionnel ?",
+    "Non. Il propose des méditations de bien-être. Si tu traverses une période difficile, parles-en à un proche ou à un professionnel."
+   ]
+  ]
+ },
+ "dragon": {
+  "slug": "dragon-compagnon-meditation",
+  "seo": "Dragon compagnon : il grandit à chaque méditation",
+  "desc": "Un œuf au départ, un dragon cosmique au bout : ton compagnon grandit avec tes minutes de méditation, en onze stades, sur son île. Gratuit, sans pub.",
+  "h1": "Ton dragon compagnon grandit avec ta méditation",
+  "lead": "Dans MeditaDream, chaque minute de méditation fait grandir un compagnon : un dragon qui naît d’un œuf, change d’île en mûrissant, vole dans un ciel qui suit l’heure de ta journée et te parle avec un humour bien à lui.",
+  "sections": [
+   {
+    "h2": "Comment ton dragon grandit-il ?",
+    "shot": "fr-01-accueil.webp",
+    "p": [
+     "Il grandit avec le total de tes minutes de méditation, en onze stades. L’œuf éclot après 10 minutes, le jeune dragon arrive au bout d’une heure de pratique, l’explorateur à 300 minutes, le gardien à 1 000, et le dragon cosmique, le dernier stade, à 4 000 minutes."
+    ],
+    "ul": [
+     "Œuf de dragon : dès le départ",
+     "Bébé dragon : 10 minutes",
+     "Jeune dragon : 60 minutes",
+     "Dragon apprenti : 150 minutes",
+     "Dragon adolescent : 225 minutes",
+     "Dragon explorateur : 300 minutes",
+     "Dragon voyageur : 500 minutes",
+     "Dragon gardien : 1 000 minutes",
+     "Dragon ancien : 2 000 minutes",
+     "Dragon sage : 3 000 minutes",
+     "Dragon cosmique : 4 000 minutes"
+    ],
+    "dragons": [
+     "egg",
+     "young",
+     "guardian",
+     "cosmic"
+    ]
+   },
+   {
+    "h2": "Son île change avec lui",
+    "p": [
+     "Ton dragon vit sur une île suspendue dans le ciel, qui évolue avec lui : un rocher, une prairie, un jeune arbre, un grand arbre, une cascade, des cristaux, un temple, puis une île cosmique.",
+     "Il s’y pose, change d’endroit, médite au sol, puis s’envole faire un tour. Le ciel suit ton heure : jour, coucher de soleil, nuit étoilée avec ses planètes, une aurore certaines nuits, et des visiteurs qui traversent le ciel."
+    ]
+   },
+   {
+    "h2": "Ses humeurs suivent ta régularité",
+    "p": [
+     "Médite trois jours de suite et il est content ; sept jours, il s’enthousiasme ; quatorze jours, il devient sage. S’il ne te voit pas pendant trois jours, il s’ennuie ; au bout d’une semaine, il se sent seul. Il fête chaque nouveau stade et chaque tampon de ton passeport.",
+     "Il te parle aussi, avec humour. À votre première rencontre : « Bonjour. Je suis ton dragon spirituel. J’étais censé être un tigre. Il y a eu un problème administratif. » Après trente jours : « Trente jours. Je vais devoir mettre à jour ma théorie sur les humains. »"
+    ]
+   },
+   {
+    "h2": "Des accessoires à débloquer",
+    "p": [
+     "En grandissant, il gagne des objets : une petite lanterne et un coussin de méditation au stade apprenti, un chapeau d’explorateur, une boussole et un sac pour ton passeport au stade explorateur, une couronne dorée chez le gardien, une auréole chez le sage, et une cape de poussière d’étoiles pour le dragon cosmique."
+    ]
+   },
+   {
+    "h2": "Pourquoi un dragon pour méditer ?",
+    "p": [
+     "Parce que la régularité compte plus que la durée, et qu’elle se nourrit de petits plaisirs. Voir son dragon éclore, puis grandir, donne envie de revenir demain, même pour cinq minutes."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Le dragon grandit-il avec les méditations courtes ?",
+    "Oui : il compte toutes tes minutes, celles des pauses de 3 minutes comme celles des voyages de 40 minutes."
+   ],
+   [
+    "Que se passe-t-il si j’arrête quelques jours ?",
+    "Il ne rétrécit pas et ne perd rien : il s’ennuie un peu, puis il se réjouit de ton retour."
+   ],
+   [
+    "Le dragon est-il payant ?",
+    "Non. Comme toute l’application, il est gratuit, sans publicité ni compte."
+   ]
+  ]
+ },
+ "journaux": {
+  "slug": "journal-de-reves-et-journaux",
+  "seo": "Journal de rêves, d’émotions et de signes : 5 journaux",
+  "desc": "Rêves, gratitude, émotions, signes, vie spirituelle : 5 journaux privés dans une app de méditation gratuite et sans pub. Tout reste sur ton téléphone.",
+  "h1": "Tes journaux : rêves, gratitude, émotions, signes et vie spirituelle",
+  "lead": "MeditaDream ne s’arrête pas à la fin de la séance. Cinq journaux t’aident à garder une trace de ce que tu vis : tes rêves, tes gratitudes, tes émotions, les signes que tu remarques et tes expériences spirituelles.",
+  "sections": [
+   {
+    "h2": "Quels journaux trouves-tu dans l’application ?",
+    "shot": "fr-06-journaux.webp",
+    "ul": [
+     "Le journal des rêves, pour noter tes rêves au réveil : leurs lieux, leurs personnages, ce qu’ils te font ressentir, et ceux qui reviennent.",
+     "Le journal de gratitude, pour garder chaque jour ce qui t’a fait du bien et ce que tu en retiens.",
+     "Le journal des émotions, pour nommer ce que tu ressens, chercher pourquoi et voir comment cela évolue.",
+     "Le journal des signes, pour les coïncidences qui te frappent, ce que tu en penses sur le moment, puis avec le recul.",
+     "Le journal spirituel, pour le récit de tes expériences intérieures et les prises de conscience qu’elles laissent."
+    ]
+   },
+   {
+    "h2": "Comment tenir un journal de rêves ?",
+    "ol": [
+     "Garde ton téléphone près du lit et ouvre le journal des rêves dès le réveil, avant de te lever.",
+     "Note ce qui reste, même un fragment : une image, un lieu, une émotion. Ne cherche pas à tout raconter.",
+     "Ajoute un mot sur ce que le rêve t’a fait ressentir.",
+     "Relis tes notes chaque semaine : les rêves qui reviennent et les symboles qui insistent apparaissent d’eux-mêmes. C’est aussi le premier pas vers le rêve lucide."
+    ]
+   },
+   {
+    "h2": "L’historique de tes séances",
+    "shot": "fr-08-historique.webp",
+    "p": [
+     "Chaque méditation terminée entre dans ton historique, avec sa date et sa durée. Tu peux y noter tes impressions, sur huit thèmes de réflexion, et les relire plus tard pour voir le chemin parcouru."
+    ]
+   },
+   {
+    "h2": "Tes écrits restent à toi",
+    "p": [
+     "Tout reste sur ton téléphone : pas de compte, pas de nuage, rien n’est envoyé. Chaque entrée te rapporte un point, comme chaque méditation, et l’Oracle s’appuie sur tes journaux, sur place, pour te proposer des conseils qui te ressemblent."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Les journaux sont-ils privés ?",
+    "Oui. Ils restent sur ton téléphone, sans compte ni envoi."
+   ],
+   [
+    "Combien coûtent les journaux ?",
+    "Rien. Les journaux, les méditations et l’Oracle sont gratuits, sans abonnement ni publicité."
+   ],
+   [
+    "Peut-on tenir un journal de gratitude ?",
+    "Oui, c’est l’un des cinq journaux. La page « Journal de gratitude » explique comment le tenir simplement."
+   ]
+  ]
+ },
+ "creer": {
+  "slug": "creer-sa-meditation-guidee",
+  "seo": "Créer sa propre méditation guidée, gratuitement",
+  "desc": "Écris ta propre méditation guidée : l’app la lit à voix haute avec une voix de ton téléphone, pauses comprises, même hors ligne. Gratuit, sans pub.",
+  "h1": "Mes méditations : écris ta propre méditation guidée",
+  "lead": "Une phrase qui t’aide, un rituel du matin, une visualisation à toi : dans « Mes méditations », tu écris tes propres textes, et l’application te les lit à voix haute, avec les silences que tu choisis.",
+  "sections": [
+   {
+    "h2": "Comment créer ta méditation ?",
+    "shot": "fr-07-mes-meditations.webp",
+    "ol": [
+     "Donne un titre, choisis la langue (français, anglais ou espagnol) et la catégorie où la ranger.",
+     "Écris ton texte, une phrase par ligne. L’aperçu t’indique le nombre de phrases et la durée estimée.",
+     "Ajoute des silences : une ligne « 3 sec » seule entre deux phrases, ou [10] pour dix secondes. Une ligne vide laisse aussi respirer le texte.",
+     "Lance la lecture : une voix de ton téléphone te lit ta méditation, même hors ligne."
+    ]
+   },
+   {
+    "h2": "Un exemple à copier, puis à adapter",
+    "p": [
+     "Voici une courte méditation du matin, écrite comme dans l’application, une phrase par ligne :"
+    ],
+    "ul": [
+     "Installe-toi, le dos droit, les épaules relâchées.",
+     "3 sec",
+     "Sens l’air frais qui entre par le nez.",
+     "Et l’air plus chaud qui ressort.",
+     "5 sec",
+     "Pose une intention simple pour aujourd’hui.",
+     "[10]",
+     "Quand tu es prêt, ouvre doucement les yeux."
+    ]
+   },
+   {
+    "h2": "Pour une voix plus naturelle",
+    "p": [
+     "La lecture utilise les voix installées sur ton téléphone. Les voix « améliorées » ou « premium » sonnent bien plus naturel : l’application t’explique comment les télécharger, sur iPhone comme sur Android, puis elles apparaissent dans la liste."
+    ]
+   },
+   {
+    "h2": "Classer et retrouver tes méditations",
+    "p": [
+     "Tes méditations se rangent par catégorie, comme celles de l’application. Tu peux les modifier ou les supprimer à tout moment, et chaque séance écoutée compte dans ton historique et tes points."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Faut-il une connexion pour écouter ma méditation ?",
+    "Non : la lecture se fait sur ton téléphone, même en mode avion."
+   ],
+   [
+    "Puis-je écrire en anglais ou en espagnol ?",
+    "Oui : choisis la langue de chaque méditation, la voix suit."
+   ],
+   [
+    "Mes textes sont-ils partagés ?",
+    "Non. Ils restent sur ton téléphone."
+   ]
+  ]
  }
 }
