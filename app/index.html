@@ -32,7 +32,8 @@ p{color:var(--muted);margin:0 0 6px}.stores{display:flex;gap:14px;justify-conten
 </main>
 <script>
 (function(){var T={fr:['Télécharge MeditaDream', 'L’application de méditation 100 % gratuite, sans inscription ni publicité.', 'Découvrir le site'],es:['Descarga MeditaDream', 'La app de meditación 100 % gratuita, sin registro ni anuncios.', 'Visitar el sitio']};
-var l=((navigator.languages&&navigator.languages[0])||navigator.language||'en').slice(0,2).toLowerCase();
+var L=(navigator.languages&&navigator.languages.length?navigator.languages:[navigator.language||'en']).map(function(x){return String(x).slice(0,2).toLowerCase();});
+var l='en';for(var i=0;i<L.length;i++){if(L[i]==='en'||T[L[i]]){l=L[i];break;}}
 if(!T[l])return;document.documentElement.lang=l;var t=T[l];
 document.getElementById('t').textContent=t[0];document.getElementById('d').textContent=t[1];
 var s=document.getElementById('s');s.textContent=t[2];s.href='/'+l+'/';document.title=t[0]+' · MeditaDream';})();
