@@ -241,7 +241,7 @@
    "p12",
    "p36"
   ],
-  "modified": "2026-10-24"
+  "modified": "2026-11-06"
  },
  {
   "id": "respiration",
@@ -548,7 +548,7 @@
    "p31",
    "p44"
   ],
-  "modified": "2026-10-24"
+  "modified": "2026-11-06"
  },
  {
   "id": "pleineconscience",
@@ -651,7 +651,7 @@
    "p26",
    "p06"
   ],
-  "modified": "2026-10-24"
+  "modified": "2026-11-06"
  },
  {
   "id": "cinqminutes",
@@ -754,7 +754,7 @@
    "p04",
    "p45"
   ],
-  "modified": "2026-10-24"
+  "modified": "2026-11-06"
  },
  {
   "id": "matin",
@@ -857,7 +857,7 @@
    "p35",
    "p14"
   ],
-  "modified": "2026-10-24"
+  "modified": "2026-11-06"
  },
  {
   "id": "programme",
@@ -897,7 +897,7 @@
    "p16",
    "p52"
   ],
-  "modified": "2026-10-24"
+  "modified": "2026-11-06"
  },
  {
   "id": "techniques",
@@ -934,7 +934,8 @@
   "photos": [
    "p08",
    "p27"
-  ]
+  ],
+  "modified": "2026-11-06"
  },
  {
   "id": "marche",
@@ -1036,7 +1037,8 @@
   "photos": [
    "p32",
    "p48"
-  ]
+  ],
+  "modified": "2026-11-06"
  },
  {
   "id": "bienveillance",

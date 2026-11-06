@@ -13,21 +13,21 @@
    "desc": "Méditation pour débutants : jamais médité ? {n} séances guidées de {min} à {max} min t’apprennent à méditer pas à pas. Gratuit, sans pub, même hors ligne.",
    "h1": "Méditation pour débutants, guidée pas à pas",
    "intro": [
-    "Cette catégorie pose les bases de la méditation en huit séances guidées, de 5 à 19 minutes. Tu y apprends à parcourir le corps région par région, à revenir au souffle quand l’attention s’éloigne, à distinguer sensation, émotion et pensée, puis à regarder passer les pensées sans les suivre. D’autres séances te font méditer les yeux ouverts, manger une bouchée en pleine conscience ou ouvrir les cinq sens un à un.",
+    "Cette catégorie pose les bases de la méditation en {n} séances guidées, de {min} à {max} minutes. Tu y apprends à parcourir le corps région par région, à revenir au souffle quand l’attention s’éloigne, à distinguer sensation, émotion et pensée, puis à regarder passer les pensées sans les suivre. D’autres séances te font méditer les yeux ouverts, manger une bouchée en pleine conscience ou ouvrir les cinq sens un à un.",
     "Elle s’adresse à celles et ceux qui n’ont jamais médité, ou qui veulent reprendre les fondamentaux. Toutes les séances sont de niveau débutant. La dernière, une première méditation silencieuse de 5 minutes, te fait découvrir que les silences ne sont pas du vide : ils font partie de la pratique."
    ],
    "faq": [
     [
      "Faut-il de l’expérience pour commencer ?",
-     "Non. Les huit séances sont de niveau débutant et partent de zéro : où poser l’attention, que faire quand l’esprit s’échappe, comment revenir au souffle. Il suffit d’un endroit calme, d’une position confortable et de quelques minutes devant toi."
+     "Non. Les {n} séances sont de niveau débutant et partent de zéro : où poser l’attention, que faire quand l’esprit s’échappe, comment revenir au souffle. Il suffit d’un endroit calme, d’une position confortable et de quelques minutes devant toi."
     ],
     [
      "Par quelle séance commencer ?",
-     "Tu peux suivre l’ordre proposé : le balayage corporel, puis le souffle, puis l’observation des pensées. Si tu as peu de temps, la première méditation silencieuse dure 5 minutes. Les séances les plus longues atteignent 19 minutes."
+     "Tu peux suivre l’ordre proposé : le balayage corporel, puis le souffle, puis l’observation des pensées. Si tu as peu de temps, la première méditation silencieuse dure 5 minutes. Les séances les plus longues atteignent {max} minutes."
     ],
     [
      "Combien de temps dure une séance ?",
-     "Entre 5 et 19 minutes selon la séance. La plupart durent de 12 à 17 minutes, une durée suffisante pour s’installer sans que la pratique devienne une contrainte au quotidien."
+     "Entre {min} et {max} minutes selon la séance. La plupart durent de 12 à 17 minutes, une durée suffisante pour s’installer sans que la pratique devienne une contrainte au quotidien."
     ],
     [
      "Comment méditer quand on débute ?",
@@ -106,7 +106,7 @@
    "desc": "Méditation guidée sommeil : {n} séances de {min} à {max} min pour t’endormir sans lutter, au lit, lumière éteinte. Gratuit, sans pub, même en mode avion.",
    "h1": "Méditation pour dormir et relaxation guidée",
    "intro": [
-    "Cette catégorie rassemble quatorze séances de 13 à 30 minutes autour du corps, du calme et du sommeil. Certaines accompagnent l’endormissement, comme le voyage du sommeil ou le glissement vers le sommeil, qui se termine sans réveil. D’autres travaillent la respiration avec tout le corps, la détente sous une cascade imaginaire ou la reconnaissance et l’alignement des sept chakras. On y trouve aussi une préparation au rêve lucide.",
+    "Cette catégorie rassemble {n} séances de {min} à {max} minutes autour du corps, du calme et du sommeil. Certaines accompagnent l’endormissement, comme le voyage du sommeil ou le glissement vers le sommeil, qui se termine sans réveil. D’autres travaillent la respiration avec tout le corps, la détente sous une cascade imaginaire ou la reconnaissance et l’alignement des sept chakras. On y trouve aussi une préparation au rêve lucide.",
     "Ces séances sont de niveau intermédiaire : elles s’apprécient mieux une fois les bases acquises, mais rien ne t’empêche de commencer par elles. Pour le soir, installe-toi allongé, baisse la lumière et laisse la voix te guider jusqu’au sommeil."
    ],
    "faq": [
@@ -156,7 +156,7 @@
    "desc": "Méditation amour de soi : {n} séances de {min} à {max} min pour retrouver confiance en soi, lâcher prise et pardonner. Gratuit, sans pub, hors ligne.",
    "h1": "Méditation d’amour de soi : confiance, gratitude et lâcher-prise",
    "intro": [
-    "Huit séances de 7 à 17 minutes pour cultiver le cœur. Tu y apprends à accueillir une émotion difficile en l’observant avec bienveillance, à développer l’amour de soi à partir de qualités bien réelles, à pratiquer une gratitude concrète qui commence dans le corps. D’autres séances explorent le pardon, sans obligation d’oublier, la sortie de la comparaison avec les autres, et une méditation de compassion qui adresse des souhaits de paix à soi-même puis aux autres.",
+    "Cette catégorie réunit {n} séances de {min} à {max} minutes pour cultiver le cœur. Tu y apprends à accueillir une émotion difficile en l’observant avec bienveillance, à développer l’amour de soi à partir de qualités bien réelles, à pratiquer une gratitude concrète qui commence dans le corps. D’autres séances explorent le pardon, sans obligation d’oublier, la sortie de la comparaison avec les autres, et une méditation de compassion qui adresse des souhaits de paix à soi-même puis aux autres.",
     "Ces séances sont de niveau intermédiaire. Elles conviennent à celles et ceux qui souhaitent travailler leur relation à eux-mêmes et aux autres, avec douceur, sans chercher à forcer un sentiment. La méditation de compassion, de 7 minutes, est une bonne porte d’entrée."
    ],
    "faq": [
@@ -773,6 +773,47 @@
      ]
     }
    ]
+  },
+  "worldMeditations": {
+   "slug": "meditations-du-monde",
+   "seo": "Méditations du monde : Vipassana, Tonglen, bain de forêt",
+   "desc": "Vipassana, Tonglen, bain de forêt, prière du silence, examen stoïcien : {n} pratiques des grandes traditions, de {min} à {max} min. Gratuit, sans pub.",
+   "h1": "Méditations du monde : {n} traditions à pratiquer",
+   "intro": [
+    "Cette catégorie réunit {n} méditations courtes, de {min} à {max} minutes, venues des grandes traditions du monde : Vipassana et Shamatha, le Tonglen du bouddhisme tibétain, le Naikan et le Shinrin-Yoku du Japon, le Seon coréen, le sourire intérieur taoïste, la prière contemplative chrétienne, l’Hitbodedut du judaïsme hassidique et l’examen de conscience stoïcien.",
+    "Chaque séance te fait goûter une pratique telle qu’on l’enseigne dans sa tradition, avec ses gestes et ses mots, sans rien te demander de croire. Elles sont gratuites, sans publicité, et s’écoutent hors ligne une fois téléchargées."
+   ],
+   "guide": [
+    {
+     "h2": "Par quelle méditation du monde commencer ?",
+     "p": [
+      "Si tu débutes, commence par Vipassana : observer les sensations qui changent est la base de bien d’autres pratiques. Shamatha vient ensuite, pour stabiliser une attention claire.",
+      "Pour ouvrir le cœur, essaie le Tonglen ou le sourire intérieur ; pour faire le point le soir, le Naikan et ses trois questions, ou l’examen de conscience stoïcien."
+     ]
+    },
+    {
+     "h2": "Qu’est-ce que le bain de forêt, ou shinrin-yoku ?",
+     "p": [
+      "Venu du Japon, le shinrin-yoku est une marche lente dans la nature, attentive à tout ce que perçoivent les sens. La séance te guide pas à pas, dehors ou en imagination."
+     ]
+    },
+    {
+     "h2": "Faut-il être croyant ?",
+     "p": [
+      "Non. La prière contemplative du silence et l’Hitbodedut s’adressent à chacun : elles proposent une forme d’attention et de dialogue intérieur, sans rien imposer."
+     ]
+    }
+   ],
+   "faq": [
+    [
+     "Qu’est-ce que Vipassana ?",
+     "Une méditation d’origine bouddhiste qui consiste à observer les sensations du corps et à voir qu’elles changent sans cesse. La séance d’initiation te la fait découvrir en quelques minutes."
+    ],
+    [
+     "Qu’est-ce que l’examen de conscience stoïcien ?",
+     "Un bilan du soir hérité de la Grèce et de Rome antiques : revoir sa journée avec calme, ce qui a été bien fait et ce qui peut l’être mieux demain."
+    ]
+   ]
   }
  },
  "worlds_index": {
@@ -786,119 +827,119 @@
   "antiqueTemple": {
    "slug": "meditation-temple-ancien",
    "seo": "Méditation au temple bouddhiste : le Temple Ancien",
-   "desc": "Méditation au temple bouddhiste, guidée et gratuite : à travers la pluie et la brume, monte vers les bougies et les grands Bouddhas de pierre.",
+   "desc": "Méditation au temple bouddhiste : monte dans la pluie et la brume jusqu’aux bougies et aux grands Bouddhas de pierre. 20 min, gratuit, sans pub, hors ligne.",
    "h1": "Le Temple Ancien : méditation dans un temple bouddhiste",
    "lead": "Dans la brume, une renarde à neuf queues t’attend sur le sentier. Elle te conduit vers un temple au parfum d’encens, où un gardien masqué veille depuis mille ans."
   },
   "cosmicTemple": {
    "slug": "meditation-temple-cosmique",
    "seo": "Méditation de la baleine céleste : le Temple Cosmique",
-   "desc": "Méditation de la baleine céleste, guidée, gratuite et en français : un temple de marbre blanc suspendu dans le cosmos et une étoile qui naît.",
+   "desc": "Méditation de la baleine céleste : elle te porte vers un temple de marbre suspendu dans le cosmos, où naît une étoile. 13 min, gratuit, sans pub, hors ligne.",
    "h1": "Le Temple Cosmique : méditation de la baleine dans les étoiles",
    "lead": "Ici, c’est une baleine céleste qui vient te chercher. Sur son dos, tu fais le tour d’un temple suspendu dans le cosmos, avant de voir naître une étoile."
   },
   "crystalCave": {
    "slug": "meditation-grotte-de-cristal",
    "seo": "Méditation dans la Grotte de Cristal, guidée et gratuite",
-   "desc": "Méditation dans la Grotte de Cristal : descends tout en douceur vers une vaste caverne de cristaux lumineux et de bassins immobiles comme des miroirs.",
+   "desc": "Méditation dans la Grotte de Cristal : descends vers des cristaux lumineux et des bassins immobiles comme des miroirs. 17 min guidées, gratuites, sans pub.",
    "h1": "Méditation dans la Grotte de Cristal Infinie",
    "lead": "Sous la terre, une simple fissure s’ouvre sur une caverne immense. Un papillon de cristal naît au creux de ta main, et les cristaux se mettent à chanter."
   },
   "galaxy": {
    "slug": "meditation-voyage-galaxie",
    "seo": "Méditation dans l’univers : voyage à travers la galaxie",
-   "desc": "Méditation dans l’univers, guidée et en français : un train de lumière, les anneaux de Saturne, une pluie d’étoiles filantes, un marché sur un astéroïde.",
+   "desc": "Méditation dans l’univers : un train de lumière, les anneaux de Saturne, des étoiles filantes, un marché sur un astéroïde. 19 min, gratuit, sans pub.",
    "h1": "Voyage à travers la galaxie : méditation dans l’univers",
    "lead": "Ce soir, au milieu des étoiles, un train de lumière ralentit pour toi. Près de sa fenêtre, tu verras Saturne, des étoiles filantes et un marché de nuit."
   },
   "earthCore": {
    "slug": "meditation-ancrage-coeur-terre",
    "seo": "Méditation d’ancrage guidée au cœur de la Terre",
-   "desc": "Méditation d’ancrage et d’enracinement : descends par des cavernes de cristal et des rivières de lumière chaude jusqu’au cœur de la planète.",
+   "desc": "Méditation d’ancrage : descends par des grottes de cristal et des rivières de lumière chaude jusqu’au cœur de la Terre. 15 min, gratuit, sans pub, hors ligne.",
    "h1": "Le Cœur de la Terre : méditation d’ancrage",
    "lead": "Loin sous tes pieds, la Terre cache un monde chaud, éclairé par son propre soleil. Tu y descends sans hâte, jusqu’à un œuf d’ambre qui bat doucement."
   },
   "antarcticBase": {
    "slug": "meditation-sanctuaire-gele",
    "seo": "Méditation sous la glace : immersion dans le Sanctuaire Gelé",
-   "desc": "Méditation sous la glace de l’Antarctique : un renard polaire te guide vers un grand cœur de cristal, puis vers l’aurore. Immersive et gratuite.",
+   "desc": "Méditation sous la glace de l’Antarctique : un renard polaire te guide vers un cœur de cristal, puis vers l’aurore. 16 min, gratuit, sans pub, hors ligne.",
    "h1": "Le Sanctuaire Gelé : méditation sous la glace",
    "lead": "Tout au fond de la glace dort un sanctuaire très ancien. Un renard polaire lumineux t’en montre le chemin, jusqu’à un cœur de cristal qui respire lentement."
   },
   "skyIsland": {
    "slug": "meditation-ile-flottante",
    "seo": "Méditation sur ton île flottante, au-dessus des nuages",
-   "desc": "Méditation sur ton île flottante : un pont de nuages, des cascades dans le ciel, un grand arbre, un cerf blanc ailé. Guidée, immersive et gratuite.",
+   "desc": "Méditation sur ton île flottante : un pont de nuages, des cascades dans le ciel, un cerf blanc ailé. 20 min guidées, gratuites, sans pub, même hors ligne.",
    "h1": "Méditation sur l’Île Flottante, au-dessus des nuages",
    "lead": "Très haut au-dessus du monde, une île verte n’attend que toi. Tu y arrives par un pont de nuages, et tu y restes jusqu’aux premières étoiles."
   },
   "zenGarden": {
    "slug": "meditation-jardin-zen",
    "seo": "Méditation zen au jardin : thé, carpes et cerisier en fleurs",
-   "desc": "Méditation zen dans un jardin japonais : chemins de pierre, cerisiers en fleurs, bassins à carpes et sable ratissé, pour un calme parfait.",
+   "desc": "Méditation zen dans un jardin japonais : chemins de pierre, cerisiers en fleurs, carpes et sable ratissé. 18 min de calme, gratuites, sans pub, hors ligne.",
    "h1": "Le Jardin Zen : méditation zen dans un jardin japonais",
    "lead": "Après la pluie, un jardin japonais s’ouvre en silence. Un cerisier fleurit d’un coup, la carpe d’or vient vers toi, et un jardinier t’offre un thé."
   },
   "atlantis": {
    "slug": "meditation-atlantide-sous-marine",
    "seo": "Méditation au fond de la mer : l’Atlantide sous-marine",
-   "desc": "Méditation au fond d’une mer chaude : un hippocampe doré te porte dans une cité de nacre. Immersive, gratuite, sans abonnement, en français.",
+   "desc": "Méditation au fond de la mer : respire sous l’eau, un hippocampe doré te porte dans l’Atlantide, cité de nacre. 18 min, gratuit, sans pub, hors ligne.",
    "h1": "L’Atlantide Sous-Marine : méditation au fond de la mer",
    "lead": "Sous une mer chaude, une cité de nacre se repose en silence. Un hippocampe doré t’y emmène, jusqu’à une perle qui garde l’un de tes souvenirs."
   },
   "himalayanMonastery": {
    "slug": "meditation-monastere-aube",
    "seo": "Méditation en montagne : à l’aube, dans un monastère",
-   "desc": "Méditation en montagne, guidée et immersive : l’aube dorée sur les sommets enneigés, les drapeaux de prière dans le vent froid, la clarté du matin.",
+   "desc": "Méditation en montagne : l’aube dorée sur les sommets enneigés, les drapeaux de prière dans le vent froid. 18 min guidées, gratuites, sans pub, hors ligne.",
    "h1": "Le Monastère à l’Aube : méditation en montagne",
    "lead": "Le ciel est encore bleu sombre quand un moine t’ouvre le portail de son monastère. Plus tard, du haut d’un balcon de bois, tu regardes le jour se lever sur la neige."
   },
   "celestialLibrary": {
    "slug": "meditation-bibliotheque-celeste",
    "seo": "Bibliothèque akashique céleste : méditation immersive",
-   "desc": "Erre dans une bibliothèque akashique sans fin, entre livres lumineux et escaliers en spirale, sous les étoiles : une méditation guidée d’introspection.",
+   "desc": "Bibliothèque akashique : erre entre livres lumineux et escaliers en spirale, sous les étoiles. Une méditation immersive de 14 min, gratuite, sans pub.",
    "h1": "La Bibliothèque Céleste : méditation de la bibliothèque akashique",
    "lead": "Au-delà d’une porte tiède, les livres volent d’eux-mêmes vers ceux qui les attendent. L’un d’eux finira par descendre jusqu’à toi, pour te montrer ce qui pourrait être."
   },
   "desertOasis": {
    "slug": "meditation-oasis-desert",
    "seo": "Méditation dans le désert : une oasis sous les étoiles",
-   "desc": "Méditation dans le désert, guidée et immersive : assieds-toi près d’une eau lumineuse, sous une lune immense et un ciel étoilé. Calme, solitude, réflexion.",
+   "desc": "Méditation dans le désert : assieds-toi près d’une eau lumineuse, sous une lune immense et un ciel d’étoiles. 13 min de calme, gratuites, sans pub.",
    "h1": "L’Oasis du Désert : méditation dans le désert étoilé",
    "lead": "Au coucher du soleil, les dunes te mènent vers une oasis encore invisible. Là-bas, une vieille lampe libère des papillons de lumière, sous une lune énorme."
   },
   "treeOfConsciousness": {
    "slug": "meditation-arbre-de-conscience",
    "seo": "Méditation de l’arbre : au pied de l’Arbre de Conscience",
-   "desc": "Méditation de l’arbre : un arbre colossal relie la terre aux étoiles, et son gardien te fait sentir battre toutes les vies. Immersive et gratuite.",
+   "desc": "Méditation de l’arbre : un arbre colossal relie la terre aux étoiles, et son gardien te fait sentir battre toutes les vies. 18 min, gratuit, sans pub.",
    "h1": "L’Arbre de Conscience : méditation de l’arbre et des étoiles",
    "lead": "Dans une forêt qui brille la nuit, un arbre immense relie la terre aux étoiles. Son gardien te prend la main, et toutes les vies de la Terre se mettent à battre avec ton cœur."
   },
   "jungleRuins": {
    "slug": "meditation-ruines-jungle",
    "seo": "Méditation dans la jungle : les ruines d’une cité oubliée",
-   "desc": "Méditation dans la jungle : un temple envahi par les plantes, des cascades sur la vieille pierre, des symboles lumineux. Immersive, entre mystère et calme.",
+   "desc": "Méditation dans la jungle : un temple envahi par les plantes, des cascades sur la vieille pierre, des symboles lumineux. 19 min, gratuit, sans pub.",
    "h1": "Les Ruines Oubliées : méditation dans la jungle",
    "lead": "Sous la jungle dort une cité entière, avec ses tours et ses terrasses. Un petit singe né de la lumière t’accompagne, jusqu’à un océan caché sous les ruines."
   },
   "mushroomForest": {
    "slug": "meditation-foret-des-reves",
    "seo": "Méditation en forêt onirique : la Forêt des Rêves",
-   "desc": "Méditation en forêt enchantée, pour rêver : champignons-lanternes, galaxies à cueillir et pieuvre de lumière. Guidée, gratuite et en français.",
+   "desc": "Méditation en forêt enchantée : champignons-lanternes, galaxies à cueillir et pieuvre de lumière, pour rêver éveillé. 17 min, gratuit, sans pub.",
    "h1": "La Forêt des Rêves : méditation en forêt enchantée",
    "lead": "Ici, les champignons s’allument comme des lanternes et les arbres portent des galaxies. Une fée vient se poser sur ta main, puis une pieuvre de lumière t’emporte au-dessus de la forêt."
   },
   "mirrorDimension": {
    "slug": "meditation-dimension-des-miroirs",
    "seo": "Méditation miroir : immersion dans la Dimension des Miroirs",
-   "desc": "Méditation miroir : flotte dans un espace immobile de miroirs infinis et de douce lumière blanche, pour explorer la conscience et la perception.",
+   "desc": "Méditation miroir : flotte parmi des miroirs infinis dans une douce lumière blanche, et observe ta propre conscience. 15 min, gratuit, sans pub, hors ligne.",
    "h1": "La Dimension des Miroirs : méditation miroir immersive",
    "lead": "Dans ce monde de miroirs, l’un d’eux ne te renvoie pas ton reflet, mais un animal-guide. Avec lui, tu traverses les miroirs vers des mondes étonnants."
   },
   "wolfForest": {
    "slug": "meditation-foret-esprits-loups",
    "seo": "Loup, animal totem : méditation immersive des esprits loups",
-   "desc": "Méditation du loup, animal totem de protection et de force : parcours une forêt enneigée gardée par des esprits loups, sous les aurores boréales.",
+   "desc": "Loup, animal totem de force et de protection : traverse une forêt enneigée gardée par des esprits loups, sous les aurores. 15 min, gratuit, sans pub.",
    "h1": "La Forêt des Esprits Loups : méditation du loup, animal totem",
    "lead": "Une nuit de pleine lune, un loup fait d’étoiles se dessine au milieu des pins. Avec sa meute, tu cours dans la neige, puis jusque dans l’aurore boréale."
   }

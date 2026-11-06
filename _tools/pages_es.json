@@ -13,13 +13,13 @@
    "desc": "¿Nunca has meditado? Meditación para principiantes en {n} sesiones guiadas de {min} a {max} minutos, desde cero. Gratis, sin anuncios y sin conexión.",
    "h1": "Meditación para principiantes: aprende a meditar desde cero",
    "intro": [
-    "Si nunca has meditado, esta categoría es el mejor punto de partida. Reúne ocho sesiones guiadas, de 5 a 19 minutos, que enseñan las bases una a una: el escaneo corporal para sentir el cuerpo desde dentro, la respiración como punto de regreso, la diferencia entre sensación, emoción y pensamiento, la observación de los pensamientos que pasan como trenes, un solo bocado tomado con atención plena y la apertura de los cinco sentidos.",
+    "Si nunca has meditado, esta categoría es el mejor punto de partida. Reúne {n} sesiones guiadas, de {min} a {max} minutos, que enseñan las bases una a una: el escaneo corporal para sentir el cuerpo desde dentro, la respiración como punto de regreso, la diferencia entre sensación, emoción y pensamiento, la observación de los pensamientos que pasan como trenes, un solo bocado tomado con atención plena y la apertura de los cinco sentidos.",
     "Todas son de nivel principiante y no piden ninguna experiencia previa. Puedes seguirlas en orden, a tu ritmo, y terminar con una primera meditación silenciosa de cinco minutos, en la que los silencios forman parte de la práctica. Como el resto de la app, son gratuitas y funcionan sin conexión una vez descargadas."
    ],
    "faq": [
     [
      "¿Necesito experiencia para empezar a meditar?",
-     "No. Las ocho sesiones son de nivel principiante y están pensadas para quien medita por primera vez. La voz te guía paso a paso y explica qué hacer en cada momento, sin vocabulario técnico. Basta con un lugar tranquilo y unos minutos para ti."
+     "No. Las {n} sesiones son de nivel principiante y están pensadas para quien medita por primera vez. La voz te guía paso a paso y explica qué hacer en cada momento, sin vocabulario técnico. Basta con un lugar tranquilo y unos minutos para ti."
     ],
     [
      "¿En qué orden conviene hacer las sesiones?",
@@ -31,7 +31,7 @@
     ],
     [
      "¿Cuántos minutos debe meditar un principiante?",
-     "Entre cinco y quince minutos es un buen comienzo. Las sesiones para principiantes duran de 5 a 19 minutos. Mejor un poco cada día que mucho de vez en cuando."
+     "Entre cinco y quince minutos es un buen comienzo. Las sesiones para principiantes duran de {min} a {max} minutos. Mejor un poco cada día que mucho de vez en cuando."
     ]
    ],
    "guide": [
@@ -109,7 +109,7 @@
    "desc": "Meditación guiada para dormir sin dar vueltas: {n} sesiones de {min} a {max} minutos para escuchar en la cama, con la luz apagada. Gratis y sin conexión.",
    "h1": "Meditación para dormir y relajarse, guiada",
    "intro": [
-    "Esta categoría reúne catorce meditaciones guiadas de 13 a 30 minutos centradas en el cuerpo, la calma y el sueño. Para la noche, «Viaje hacia el sueño» y «Deslizamiento hacia el sueño» te ayudan a soltar poco a poco todo esfuerzo; la segunda no tiene despertar al final, para que puedas quedarte dormido. También encontrarás una preparación para el sueño lúcido, una respiración con todo el cuerpo y una relajación bajo una cascada imaginaria.",
+    "Esta categoría reúne {n} meditaciones guiadas de {min} a {max} minutos centradas en el cuerpo, la calma y el sueño. Para la noche, «Viaje hacia el sueño» y «Deslizamiento hacia el sueño» te ayudan a soltar poco a poco todo esfuerzo; la segunda no tiene despertar al final, para que puedas quedarte dormido. También encontrarás una preparación para el sueño lúcido, una respiración con todo el cuerpo y una relajación bajo una cascada imaginaria.",
     "Otra parte está dedicada a los chakras: reconocer los siete centros, alinearlos y un reinicio guiado con largas pausas. Las sesiones son de nivel intermedio, así que conviene haber probado antes algunas meditaciones sencillas. Funcionan sin conexión, algo práctico si dejas el teléfono en modo avión por la noche."
    ],
    "faq": [
@@ -159,7 +159,7 @@
    "desc": "Meditación de amor propio para subir la autoestima: {n} sesiones guiadas de {min} a {max} minutos con gratitud, compasión y perdón. Gratis y sin anuncios.",
    "h1": "Meditación de amor propio y autoestima: sesiones guiadas",
    "intro": [
-    "Crecimiento emocional reúne ocho meditaciones guiadas, de 7 a 17 minutos, para cultivar el corazón interior. Aprenderás a acoger una emoción difícil observándola como un científico bondadoso, a desarrollar el amor propio a partir de algo concreto que ya está en ti, a practicar una gratitud cotidiana que empieza en el cuerpo y a abrir el corazón sin discutir con la sensación de no merecer.",
+    "Crecimiento emocional reúne {n} meditaciones guiadas, de {min} a {max} minutos, para cultivar el corazón interior. Aprenderás a acoger una emoción difícil observándola como un científico bondadoso, a desarrollar el amor propio a partir de algo concreto que ya está en ti, a practicar una gratitud cotidiana que empieza en el cuerpo y a abrir el corazón sin discutir con la sensación de no merecer.",
     "También hay sesiones para perdonar sin olvidar, liberarte de la comparación y visualizar tu crecimiento a lo largo de una antigua vía férrea, además de una meditación de compasión de siete minutos. Son de nivel intermedio y te invitan a decidir por ti mismo, sin forzar nada."
    ],
    "faq": [
@@ -839,62 +839,103 @@
      ]
     }
    ]
+  },
+  "worldMeditations": {
+   "slug": "meditaciones-del-mundo",
+   "seo": "Meditaciones del mundo: Vipassana, estoicismo, shinrin-yoku",
+   "desc": "Vipassana, Tonglen, baño de bosque, oración del silencio, examen estoico: {n} prácticas de las grandes tradiciones, de {min} a {max} minutos. Gratis.",
+   "h1": "Meditaciones del mundo: {n} tradiciones para practicar",
+   "intro": [
+    "Esta categoría reúne {n} meditaciones breves, de {min} a {max} minutos, de las grandes tradiciones del mundo: Vipassana y Shamatha, el Tonglen del budismo tibetano, el Naikan y el Shinrin-Yoku de Japón, el Seon coreano, la sonrisa interior taoísta, la oración contemplativa cristiana, el Hitbodedut del judaísmo jasídico y el examen de conciencia estoico.",
+    "Cada sesión te deja probar una práctica tal como la enseña su tradición, con sus gestos y sus palabras, sin pedirte que creas en nada. Son gratis, sin anuncios, en español y funcionan sin conexión una vez descargadas."
+   ],
+   "guide": [
+    {
+     "h2": "¿Por qué meditación del mundo empezar?",
+     "p": [
+      "Si eres principiante, empieza por Vipassana: observar cómo cambian las sensaciones es la base de muchas otras prácticas. Después viene Shamatha, para estabilizar una atención clara.",
+      "Para abrir el corazón, prueba el Tonglen o la sonrisa interior; para hacer balance por la noche, el Naikan y sus tres preguntas, o el examen de conciencia estoico."
+     ]
+    },
+    {
+     "h2": "¿Qué es el baño de bosque o shinrin-yoku?",
+     "p": [
+      "Nacido en Japón, el shinrin-yoku es un paseo lento por la naturaleza, atento a todo lo que perciben los sentidos. La sesión te guía paso a paso, al aire libre o con la imaginación."
+     ]
+    },
+    {
+     "h2": "¿Hay que ser creyente?",
+     "p": [
+      "No. La oración contemplativa del silencio y el Hitbodedut están abiertos a todos: proponen una forma de atención y de diálogo interior, sin imponer nada."
+     ]
+    }
+   ],
+   "faq": [
+    [
+     "¿Qué es la meditación Vipassana?",
+     "Una meditación de tradición budista: observas las sensaciones del cuerpo y ves que cambian sin cesar. La sesión de introducción te la hace descubrir en pocos minutos."
+    ],
+    [
+     "¿Qué es el examen de conciencia estoico?",
+     "Un balance de la noche heredado de la antigua Grecia y Roma: repasar el día con calma, lo que salió bien y lo que puedes hacer mejor mañana."
+    ]
+   ]
   }
  },
  "worlds_index": {
   "slug": "meditacion-inmersiva-mundos",
   "seo": "Meditación inmersiva: 17 mundos para explorar",
-  "desc": "17 meditaciones inmersivas de 13 a 19 minutos: templos, galaxias, la Atlántida, un jardín zen o un bosque de lobos. Gratis, sin anuncios y sin conexión.",
+  "desc": "17 meditaciones inmersivas de 13 a 20 minutos: templos, galaxias, la Atlántida, un jardín zen o un bosque de lobos. Gratis, sin anuncios y sin conexión.",
   "h1": "Meditaciones inmersivas: 17 mundos para explorar",
-  "intro": "Los mundos inmersivos son viajes guiados de 13 a 19 minutos a lugares imaginarios, cada uno con su propio ambiente sonoro y su propia atmósfera. Puedes subir a un templo antiguo entre montañas brumosas, cruzar la galaxia en un tren de luz, descender a una gruta de cristal o al corazón de la Tierra, hundirte en la Atlántida o caminar por un bosque nevado guardado por espíritus lobo. Elige según lo que buscas hoy: arraigo, calma, asombro, introspección o protección. Como el resto de la app, los diecisiete mundos son gratuitos y funcionan sin conexión una vez descargados."
+  "intro": "Los mundos inmersivos son viajes guiados de 13 a 20 minutos a lugares imaginarios, cada uno con su propio ambiente sonoro y su propia atmósfera. Puedes subir a un templo antiguo entre montañas brumosas, cruzar la galaxia en un tren de luz, descender a una gruta de cristal o al corazón de la Tierra, hundirte en la Atlántida o caminar por un bosque nevado guardado por espíritus lobo. Elige según lo que buscas hoy: arraigo, calma, asombro, introspección o protección. Como el resto de la app, los diecisiete mundos son gratuitos y funcionan sin conexión una vez descargados."
  },
  "worlds": {
   "antiqueTemple": {
    "slug": "meditacion-inmersiva-templo-antiguo",
    "seo": "Meditación con velas: un templo antiguo bajo la lluvia",
-   "desc": "Meditación con velas en un templo antiguo: sube entre la lluvia y la niebla hasta la luz de las velas y medita entre budas gigantes. 19 minutos, gratis.",
+   "desc": "Meditación con velas en un templo antiguo: sube entre la lluvia y la niebla y medita entre budas de piedra. 20 minutos, gratis, sin anuncios y sin conexión.",
    "h1": "Meditación con velas en un templo antiguo, entre budas gigantes",
    "lead": "Bajo la lluvia, una zorra de leyenda con nueve colas te guía hasta un templo escondido en la montaña. Dentro te esperan velas que flotan, un guardián de mil años y una pequeña puerta roja que da a tu propio paisaje interior."
   },
   "cosmicTemple": {
    "slug": "meditacion-inmersiva-templo-cosmico",
    "seo": "Meditación cósmica inmersiva en un templo entre estrellas",
-   "desc": "Meditación cósmica: una ballena celeste te lleva hasta un templo de mármol que flota entre las estrellas, donde ves nacer una estrella. 13 minutos, gratis.",
+   "desc": "Meditación cósmica: una ballena celeste te lleva a un templo de mármol entre las estrellas, donde nace una estrella. 13 minutos, gratis y sin anuncios.",
    "h1": "Meditación cósmica: el templo entre las estrellas",
    "lead": "A lomos de una ballena cubierta de estrellas, llegas a un templo de mármol suspendido en pleno cosmos. Allí, un reloj de oro te hace viajar millones de años, y bajo tus pies ves nacer una estrella."
   },
   "crystalCave": {
    "slug": "meditacion-inmersiva-gruta-de-cristal",
    "seo": "Meditación con cristales: la gruta de cristal infinita",
-   "desc": "Meditación con cristales en una gruta infinita: baja entre cristales luminosos y estanques quietos como espejos, y deja que su resonancia te atraviese.",
+   "desc": "Meditación con cristales en una gruta infinita: cristales luminosos y estanques quietos como espejos. 17 minutos guiados, gratis, sin anuncios ni conexión.",
    "h1": "Meditación con cristales en una gruta de cristal infinita",
    "lead": "Tras cruzar la roca con una exhalación, entras en una cueva de cristales gigantes donde te esperan una mariposa de cristal y una sirena. Luego, un pequeño dragón te acompaña hasta una ciudad en miniatura donde todos cantan contigo."
   },
   "galaxy": {
    "slug": "meditacion-guiada-viaje-por-la-galaxia",
    "seo": "Meditación del universo: viaje a través de la galaxia",
-   "desc": "Meditación del universo en un tren de luz que cruza la galaxia: los anillos de Saturno, estrellas fugaces y un mercado en un asteroide. 19 minutos, gratis.",
+   "desc": "Meditación del universo en un tren de luz: los anillos de Saturno, estrellas fugaces y un mercado en un asteroide. 19 minutos, gratis, sin anuncios.",
    "h1": "Meditación del universo: viaje guiado a través de la galaxia",
    "lead": "Un tren de luz cruza contigo la galaxia: los anillos de Saturno, cientos de estrellas fugaces y un mercado nocturno en un asteroide. Muy lejos de casa, dejas ir lo que pesa."
   },
   "earthCore": {
    "slug": "meditacion-arraigo-corazon-de-la-tierra",
    "seo": "Meditación de arraigo: el corazón de la Tierra",
-   "desc": "Meditación de arraigo: desciende por cavernas de cristal y ríos de luz cálida hasta el corazón del planeta para sentirte arraigado. 15 minutos, gratis.",
+   "desc": "Meditación de arraigo: baja por cavernas de cristal y ríos de luz cálida hasta el corazón de la Tierra. 15 minutos, gratis, sin anuncios y sin conexión.",
    "h1": "Meditación de arraigo: viaje al Corazón de la Tierra",
    "lead": "Bajo la roca se esconde un mundo hueco, iluminado por un sol interior de color miel. Entre helechos gigantes, un huevo de ámbar late con la Tierra hasta que nace un pequeño dragón."
   },
   "antarcticBase": {
    "slug": "meditacion-inmersiva-santuario-helado",
    "seo": "Meditación de invierno: un santuario bajo el hielo",
-   "desc": "Meditación de invierno bajo el hielo de la Antártida: sigue a un zorro polar luminoso hasta un corazón de cristal que late. 15 minutos, gratis.",
+   "desc": "Meditación de invierno bajo el hielo de la Antártida: un zorro polar luminoso te guía hasta un corazón de cristal. 16 minutos, gratis y sin anuncios.",
    "h1": "Meditación de invierno en la Antártida: el santuario helado",
    "lead": "Bajo kilómetros de hielo, un zorro polar luminoso te guía hasta un santuario que nadie ha pisado en miles de años. Allí late un corazón de cristal, y un libro helado te muestra la ciudad de quienes lo construyeron."
   },
   "skyIsland": {
    "slug": "meditacion-inmersiva-isla-flotante",
    "seo": "Meditación del lugar seguro: isla flotante sobre las nubes",
-   "desc": "Meditación del lugar seguro: un santuario privado sobre las nubes, cascadas flotantes, un árbol milenario y un cálido atardecer. Inmersiva, de 19 minutos.",
+   "desc": "Meditación del lugar seguro: tu isla sobre las nubes, cascadas flotantes, un árbol milenario y un cálido atardecer. 20 minutos, gratis y sin anuncios.",
    "h1": "Meditación del lugar seguro: la isla flotante",
    "lead": "Cruza un puente de nubes hasta tu propia isla, suspendida sobre el mundo al atardecer. Volarás con un gran pájaro y un ciervo alado te dará una semilla para hacer nacer otra isla."
   },
@@ -908,63 +949,63 @@
   "atlantis": {
    "slug": "meditacion-inmersiva-atlantida",
    "seo": "Meditación del mar: viaje inmersivo a la Atlántida",
-   "desc": "Meditación del mar en la Atlántida: respira bajo el agua y recorre la ciudad a lomos de un caballito de mar dorado, entre templos y medusas. 18 minutos.",
+   "desc": "Meditación del mar: respira bajo el agua y recorre la Atlántida a lomos de un caballito de mar dorado. 18 minutos, gratis, sin anuncios y sin conexión.",
    "h1": "Meditación del mar: la Atlántida, ciudad sumergida",
    "lead": "Descubre que puedes respirar bajo el mar y deja que un gran caballito de mar dorado te pasee por una ciudad antigua. Una perla guarda uno de tus recuerdos y, cuando cae la noche, la ciudad entera se enciende como un cielo de estrellas."
   },
   "himalayanMonastery": {
    "slug": "meditacion-monasterio-al-amanecer",
    "seo": "Meditación para empezar el día: amanecer en un monasterio",
-   "desc": "Meditación para empezar el día en un monasterio de montaña: entre cumbres nevadas y banderas de oración, recibe la primera luz dorada. 18 minutos, gratis.",
+   "desc": "Meditación para empezar el día en un monasterio: cumbres nevadas, banderas de oración y la primera luz dorada. 18 minutos, gratis y sin anuncios.",
    "h1": "Meditación para empezar el día: el monasterio al amanecer",
    "lead": "Todavía es de noche cuando un viejo monje te abre la puerta de su monasterio, en lo alto de la montaña. Con él haces girar las ruedas de oración, tomas té en un balcón y ves cómo el alba enciende las cumbres."
   },
   "celestialLibrary": {
    "slug": "meditacion-inmersiva-biblioteca-celeste",
    "seo": "Biblioteca akáshica: meditación inmersiva bajo las estrellas",
-   "desc": "Medita en una biblioteca akáshica sin fin, de libros luminosos y escaleras de caracol, bajo constelaciones en movimiento. 13 minutos, gratis.",
+   "desc": "Biblioteca akáshica: medita entre libros luminosos y escaleras de caracol, bajo constelaciones en movimiento. 14 minutos, gratis, sin anuncios.",
    "h1": "La biblioteca akáshica: meditación en una biblioteca celeste",
    "lead": "Una gran puerta se abre a una biblioteca suspendida fuera del mundo, donde cada libro vuela hasta su lector sin equivocarse. Una salamandra de fuego te acompaña, y un libro dorado te deja asomarte a un futuro posible."
   },
   "desertOasis": {
    "slug": "meditacion-inmersiva-oasis-del-desierto",
    "seo": "Meditación de la luna en un oasis del desierto",
-   "desc": "Meditación de la luna en el desierto: en un oasis, siéntate junto a un agua luminosa bajo una luna inmensa y un cielo de estrellas. 13 minutos, gratis.",
+   "desc": "Meditación de la luna en un oasis del desierto: agua luminosa, una luna inmensa y un cielo de estrellas. 13 minutos de calma, gratis y sin anuncios.",
    "h1": "Meditación de la luna: el oasis del desierto bajo las estrellas",
    "lead": "Al caer la noche, un camello blanco te lleva entre las dunas hasta un oasis escondido. Allí te esperan un té de menta, una lámpara llena de mariposas de luz y un jardín secreto bajo el agua del estanque."
   },
   "treeOfConsciousness": {
    "slug": "meditacion-arbol-de-la-conciencia",
    "seo": "Meditación del árbol de la conciencia, guiada y gratis",
-   "desc": "Meditación del árbol: siéntate entre las raíces de un árbol colosal y luminoso, unido a todo lo que vive, para sentir la conexión. 18 minutos, gratis.",
+   "desc": "Meditación del árbol: siéntate entre las raíces de un árbol luminoso y colosal, unido a todo lo que vive. 18 minutos, gratis, sin anuncios y sin conexión.",
    "h1": "Meditación del árbol de la conciencia",
    "lead": "De noche, en el corazón de un bosque que brilla, un árbol inmenso late bajo tu mano. Su guardián de musgo te muestra raíces que llegan a cada ser vivo, y una hoja guarda un mundo donde todos se cuidan."
   },
   "jungleRuins": {
    "slug": "meditacion-inmersiva-ruinas-en-la-selva",
    "seo": "Meditación en la selva: viaje inmersivo a ruinas ocultas",
-   "desc": "Meditación en la selva: explora un templo cubierto de vegetación en lo hondo de la jungla, entre cascadas y símbolos luminosos. 18 minutos, gratis.",
+   "desc": "Meditación en la selva: un templo cubierto de vegetación, cascadas sobre la piedra y símbolos luminosos. 19 minutos, gratis, sin anuncios y sin conexión.",
    "h1": "Meditación en la selva: las ruinas olvidadas",
    "lead": "Detrás de la bruma duerme una ciudad perdida bajo la selva. Un monito de luz te guía hasta una ondina y un océano escondido, y al final plantas un árbol que cubre sus ruinas."
   },
   "mushroomForest": {
    "slug": "meditacion-inmersiva-bosque-de-los-suenos",
    "seo": "Meditación en un bosque encantado, inmersiva y gratis",
-   "desc": "Meditación en un bosque encantado de hongos gigantes y un río de luz, con un hada, mariposas y un pulpo luminoso. Inmersiva, de 16 minutos, gratis.",
+   "desc": "Meditación en un bosque encantado: hongos gigantes, un río de luz, un hada y un pulpo luminoso. 17 minutos para soñar despierto, gratis y sin anuncios.",
    "h1": "Meditación en un bosque encantado: el bosque de los sueños",
    "lead": "Entra en un sueño violeta y rosa, entre hongos gigantes que brillan como farolillos. Un hada aterriza en tu mano, una galaxia te regala una palabra y un pulpo de luz te pasea por encima del bosque."
   },
   "mirrorDimension": {
    "slug": "meditacion-inmersiva-dimension-de-espejos",
    "seo": "Conciencia testigo: la meditación de los espejos",
-   "desc": "Conciencia testigo: flota entre espejos infinitos y una suave luz blanca, y observa la conciencia misma. Meditación inmersiva de 16 minutos, gratis.",
+   "desc": "Conciencia testigo: flota entre espejos infinitos y una suave luz blanca, y observa la conciencia misma. Meditación de 15 minutos, gratis y sin anuncios.",
    "h1": "Meditación de los espejos y la conciencia testigo",
    "lead": "Flota en una luz blanca donde los espejos se multiplican sin fin. Un animal guía sale de uno de ellos y te lleva por mundos imposibles, hasta un espejo antiguo que guarda lo que sueltas."
   },
   "wolfForest": {
    "slug": "meditacion-inmersiva-espiritus-lobo",
    "seo": "Lobo espiritual: meditación inmersiva en un bosque nevado",
-   "desc": "Medita con el lobo espiritual: bajo una luna gigantesca, corre con una manada de espíritus lobo por un pinar nevado hasta un puente de aurora. 15 minutos.",
+   "desc": "Medita con el lobo espiritual: bajo una luna gigante, corre con espíritus lobo por un pinar nevado hasta un puente de aurora. 15 minutos, gratis.",
    "h1": "Lobo espiritual: meditación en el bosque de los espíritus lobo",
    "lead": "Bajo una luna gigantesca, un lobo transparente donde giran estrellas abre para ti un camino en el bosque nevado. Con su manada corres sin esfuerzo y, después de aullar a la luna, subes por un puente de aurora hasta un planeta lejano."
   }

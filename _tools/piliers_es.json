@@ -2,7 +2,7 @@
  "mondes": {
   "slug": "",
   "seo": "Meditación inmersiva: 17 mundos para un viaje interior",
-  "desc": "17 meditaciones inmersivas guiadas: un templo entre la niebla, la Atlántida, un bosque de lobos. Viajes interiores de 13 a 19 minutos, gratis y sin conexión.",
+  "desc": "17 meditaciones inmersivas guiadas: un templo entre la niebla, la Atlántida, un bosque de lobos. Viajes interiores de 13 a 20 minutos, gratis y sin conexión.",
   "h1": "Mundos inmersivos: la meditación guiada como viaje interior",
   "eyebrow": "Guía completa",
   "lead": "Una meditación inmersiva te lleva a un lugar imaginario que sientes con todo el cuerpo: un templo entre la niebla, una ciudad bajo el mar. Descubre cómo funciona y cómo elegir, entre 17 mundos, el que hoy te llama.",
@@ -139,7 +139,7 @@
       [
        "Duración en la app",
        "Desde 3 minutos en «4 Minutos»",
-       "De 13 a 19 minutos",
+       "De 13 a 20 minutos",
        "De 17 a 34 minutos en «Miniaventuras»"
       ],
       [
@@ -172,7 +172,7 @@
   ],
   "visual": {
    "title": "Los 17 mundos de MeditaDream",
-   "caption": "Diecisiete viajes interiores, de 13 a 19 minutos: elige el lugar que hoy te llama."
+   "caption": "Diecisiete viajes interiores, de 13 a 20 minutos: elige el lugar que hoy te llama."
   },
   "app": {
    "h2": "Los mundos inmersivos en MeditaDream",
@@ -183,7 +183,7 @@
    "features": [
     [
      "Mundos de Meditación",
-     "Los 17 mundos inmersivos reunidos en una sola pantalla, de 13 a 19 minutos cada uno."
+     "Los 17 mundos inmersivos reunidos en una sola pantalla, de 13 a 20 minutos cada uno."
     ],
     [
      "Entrar en este mundo",
@@ -202,7 +202,7 @@
   "faq": [
    [
     "¿Qué es una meditación inmersiva?",
-    "Una meditación inmersiva es una visualización guiada completa en un lugar imaginario, con una escena de apertura, un recorrido, sonidos y un regreso suave. A diferencia de una meditación centrada en la respiración, te propone explorar un paisaje con todos los sentidos. Tu atención se absorbe en la escena y la mente se aquieta sin esfuerzo. En MeditaDream hay 17 mundos inmersivos, de 13 a 19 minutos."
+    "Una meditación inmersiva es una visualización guiada completa en un lugar imaginario, con una escena de apertura, un recorrido, sonidos y un regreso suave. A diferencia de una meditación centrada en la respiración, te propone explorar un paisaje con todos los sentidos. Tu atención se absorbe en la escena y la mente se aquieta sin esfuerzo. En MeditaDream hay 17 mundos inmersivos, de 13 a 20 minutos."
    ],
    [
     "¿Qué diferencia hay entre una meditación guiada y una visualización guiada?",
@@ -1647,7 +1647,7 @@
     ],
     [
      "Mundos de Meditación",
-     "Los 17 mundos inmersivos, de 13 a 19 minutos, para practicar la visualización guiada en lugares imaginarios completos."
+     "Los 17 mundos inmersivos, de 13 a 20 minutos, para practicar la visualización guiada en lugares imaginarios completos."
     ],
     [
      "Historial de meditaciones",

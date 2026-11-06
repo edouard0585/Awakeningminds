@@ -1,0 +1,4 @@
+{
+ "_note": "06-11 — catégories de l'app pas encore sorties sur l'App Store et Google Play : le site ne les montre pas (ni page, ni lien, ni compte sur l'accueil), même si le catalogue exporté les contient déjà. Retirer l'identifiant quand la version de l'app qui les contient est en production (accord d'Edouard). worldMeditations = « Méditations du monde » (tradi01 à tradi10), textes déjà prêts dans pages_<langue>.json, image assets/cats/catart-worldMeditations.png.",
+ "categories": ["worldMeditations"]
+}

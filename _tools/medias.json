@@ -1,4 +1,21 @@
 {
+ "assets/cats/catart-worldMeditations.png": {
+  "fr": {
+   "alt": "Moine en robe orange marchant sur la Terre parmi les étoiles et les galaxies",
+   "title": "Méditations du monde — méditations guidées",
+   "slug": "meditations-du-monde-traditions-spirituelles"
+  },
+  "en": {
+   "alt": "Monk in an orange robe walking on Earth among stars and galaxies",
+   "title": "World Meditations — guided meditations",
+   "slug": "world-meditations-spiritual-traditions"
+  },
+  "es": {
+   "alt": "Monje con túnica naranja caminando sobre la Tierra entre estrellas y galaxias",
+   "title": "Meditaciones del mundo — meditaciones guiadas",
+   "slug": "meditaciones-del-mundo-tradiciones-espirituales"
+  }
+ },
  "assets/cats/catart-learningBasics.png": {
   "fr": {
    "alt": "Un maître et son élève méditent près d'une pagode, parmi les lotus et les cerisiers en fleurs",

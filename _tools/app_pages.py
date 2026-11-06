@@ -268,7 +268,13 @@ def _jetons(v, d):
 def load():
     cat = json.load(open(f'{T}/app_catalog.json', encoding='utf-8'))
     P = {l: json.load(open(f'{T}/pages_{l}.json', encoding='utf-8')) for l in LANGS if os.path.exists(f'{T}/pages_{l}.json')}
-    cats = cat.get('categories', {})
+    # 06-11 : catégories pas encore sorties dans l'app des magasins (_tools/a_venir.json) : invisibles sur le site
+    try:
+        a_venir = set(json.load(open(f'{T}/a_venir.json', encoding='utf-8')).get('categories', []))
+    except FileNotFoundError:
+        a_venir = set()
+    cat['categories'] = {k: v for k, v in cat.get('categories', {}).items() if k not in a_venir}
+    cats = cat['categories']
     tout = dict(total=sum(len(c['meds']) for c in cats.values()), ncat=len(cats))
     for p in P.values():
         for cle in ('meditations_index', 'teams', 'worlds_index'):
