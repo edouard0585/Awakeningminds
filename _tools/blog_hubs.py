@@ -25,6 +25,39 @@ SERIES_GROUP = {
     'symboles': 'lieux', 'astral': 'astral',
 }
 ORDER = ['bases', 'sommeil', 'energie', 'psy', 'transe', 'vie', 'lieux', 'chamanisme', 'astral']
+# 06-11 (Edouard : « pour le blog MeditaDream, divise les articles en catégories ») : nom court de chaque catégorie,
+# propre à chaque langue, et une phrase d'accroche (accueil du blog, étiquette de catégorie des articles).
+CATS = {
+ 'fr': {'bases': ('Apprendre à méditer', 'Posture, respiration, pensées, techniques : les bases pour méditer seul, pas à pas.'),
+        'sommeil': ('Sommeil et rêves', 'Méditation pour dormir, rituel du soir, rêve lucide, yoga nidra : tout pour mieux dormir.'),
+        'energie': ('Chakras et énergie', 'Chakras, chi, kundalini, troisième œil : les cartes du corps énergétique et des exercices concrets.'),
+        'psy': ('Émotions et vie intérieure', 'Gérer ses émotions, travail de l’ombre, enfant intérieur, peurs : des pratiques douces.'),
+        'transe': ('Transe et états de conscience', 'Transe, hypnose, flow, états modifiés de conscience : comprendre et pratiquer sans risque.'),
+        'vie': ('Méditation au quotidien', 'Travail, concentration, sport, études : la méditation dans la vraie vie.'),
+        'lieux': ('Lieux sacrés et pèlerinages', 'Temples, chemins de pèlerinage et lieux sacrés du monde, à visiter en méditation.'),
+        'chamanisme': ('Chamanisme', 'Voyage chamanique, tambour, animal de pouvoir, trois mondes : le chamanisme expliqué.'),
+        'astral': ('Voyage astral', 'Projection astrale, sortie hors du corps, rêve lucide : techniques et précautions.')},
+ 'en': {'bases': ('How to meditate', 'Posture, breathing, thoughts and techniques: the basics to meditate on your own.'),
+        'sommeil': ('Sleep and dreams', 'Sleep meditation, bedtime routine, lucid dreaming and yoga nidra for better nights.'),
+        'energie': ('Chakras and energy', 'Chakras, qi, kundalini and the third eye, explained with simple practices.'),
+        'psy': ('Emotions and inner life', 'Emotional regulation, shadow work, inner child and fear, with gentle practices.'),
+        'transe': ('Trance and consciousness', 'Trance, hypnosis, flow and altered states of consciousness, explained safely.'),
+        'vie': ('Everyday meditation', 'Meditation for work, focus, sport and study.'),
+        'lieux': ('Sacred places and pilgrimages', 'Temples, pilgrim roads and sacred places to visit in meditation.'),
+        'chamanisme': ('Shamanism', 'Shamanic journeys, drumming, power animals and the three worlds.'),
+        'astral': ('Astral projection', 'Astral projection, out-of-body experiences and lucid dreams: techniques and safety.')},
+ 'es': {'bases': ('Cómo meditar', 'Postura, respiración, pensamientos y técnicas: lo básico para meditar a solas.'),
+        'sommeil': ('Sueño y sueños', 'Meditación para dormir, rutina nocturna, sueños lúcidos y yoga nidra.'),
+        'energie': ('Chakras y energía', 'Chakras, chi, kundalini y tercer ojo, con ejercicios concretos.'),
+        'psy': ('Emociones y vida interior', 'Gestión emocional, trabajo de sombra, niño interior y miedos, con prácticas suaves.'),
+        'transe': ('Trance y estados de conciencia', 'Trance, hipnosis, flow y estados modificados de conciencia, sin riesgos.'),
+        'vie': ('Meditación en el día a día', 'Meditación para el trabajo, la concentración, el deporte y los estudios.'),
+        'lieux': ('Lugares sagrados y peregrinaciones', 'Templos, caminos de peregrinación y lugares sagrados para visitar meditando.'),
+        'chamanisme': ('Chamanismo', 'Viaje chamánico, tambor, animal de poder y los tres mundos.'),
+        'astral': ('Viaje astral', 'Viaje astral, experiencias fuera del cuerpo y sueños lúcidos: técnicas y precauciones.')},
+}
+CATS_T = {'fr': ('Les catégories du blog', 'Tous les articles « {n} »'), 'en': ('Blog categories', 'All “{n}” articles'),
+          'es': ('Las categorías del blog', 'Todos los artículos «{n}»')}
 
 # Chaque langue a son propre angle de recherche : slug, titre Google (≤ 60), description (≤ 155), h1, intro.
 HUBS = {

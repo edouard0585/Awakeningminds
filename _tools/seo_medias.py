@@ -21,6 +21,7 @@ import glob, html, json, os, re
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import reseaux   # liens vers les comptes MeditaDream (pied de page + sameAs)
 import magasins  # badges officiels App Store / Google Play (encadrés « cta », accueils, pied de page)
+import bandeau   # 06-11 : bandeau fin de téléchargement en haut de chaque page
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = 'https://meditadream.com'
@@ -236,6 +237,7 @@ def main():
         s = open(f, encoding='utf-8').read(); l = langue(r, s)
         s2, n = corrige(s, l, alts)
         s2 = magasins.ajoute(s2, l, r)
+        s2 = bandeau.ajoute(s2, l, r)
         s2 = reseaux.ajoute(s2, l, racine=(r == 'index.html'))
         loc = canonique(s2)
         if loc and indexable(s2): s2 = image_ld(s2, l, loc)

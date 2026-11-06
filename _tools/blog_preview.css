@@ -93,6 +93,9 @@ article :target{scroll-margin-top:80px}
 .alist h2,.alist h3{font-size:24px;color:#fff7e8;margin:0 0 6px;font-weight:500}
 .alist p{color:var(--muted);font-size:15px;margin:0 0 6px}
 .alist .d{color:var(--dim);font-size:13px;font-family:'Avenir Next',sans-serif}
+.bcat{margin:38px 0 8px;scroll-margin-top:90px}.bcat>h2{font-size:30px;color:var(--gold);font-weight:500;margin:0 0 4px}
+.bcat-i{color:var(--muted);margin:0 0 16px;font-size:16px}.bcat-l{margin:0 0 6px}.bcat-l a{color:var(--gold);text-decoration:none}
+.themes .nb{opacity:.6;font-size:.85em}
 footer{border-top:1px solid var(--line);margin-top:40px}
 footer .wrap{padding:22px 20px;color:var(--dim);font-size:14px;font-family:'Avenir Next',sans-serif;display:flex;gap:10px;flex-wrap:wrap}
 footer a{color:var(--muted)}
@@ -258,6 +261,22 @@ article.post .cta a:hover{transform:translateY(-2px)}
 .bidx .alist li:first-child .th{aspect-ratio:21/9}
 .bidx .alist li:first-child h2{font-size:30px}
 @media(max-width:640px){.bidx .alist{grid-template-columns:1fr}.bidx .alist li:first-child .th{aspect-ratio:16/10}}
+/* 06-11 : encadré « À pratiquer dans l'application » en haut des articles + puces des catégories en fin d'article */
+article.post .ap-prat{display:flex;flex-wrap:wrap;align-items:center;gap:14px 18px;margin:26px 0 30px;padding:14px 16px;border:1px solid rgba(212,175,106,.38);border-radius:18px;background:linear-gradient(135deg,rgba(212,175,106,.08),rgba(255,255,255,.015))}
+article.post .ap-prat a{text-decoration:none}
+article.post .ap-prat-c{display:flex;align-items:center;gap:14px;flex:1 1 300px;min-width:0;color:inherit}
+article.post .ap-prat-c img{width:76px;height:76px;border-radius:14px;object-fit:cover;flex:none;margin:0}
+article.post .ap-prat-c>span{display:flex;flex-direction:column;gap:3px;min-width:0}
+article.post .ap-prat em{font-style:normal;font-family:'Avenir Next',sans-serif;font-size:12px;letter-spacing:.05em;text-transform:uppercase;color:var(--gold)}
+article.post .ap-prat b{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;line-height:1.2;color:#fff7e8;font-weight:600}
+article.post .ap-prat-c span span{font-size:14px;color:var(--muted)}
+article.post .ap-prat i{font-style:normal;font-size:13.5px;color:var(--gold)}
+article.post .ap-prat-c:hover b{color:var(--gold)}
+article.post .ap-prat-dl{flex:none;display:inline-block;background:linear-gradient(135deg,#D4AF6A,#b8934f);color:#161122;font-weight:600;font-family:'Avenir Next',sans-serif;font-size:14.5px;padding:11px 20px;border-radius:99px;box-shadow:0 8px 24px -10px rgba(212,175,106,.7)}
+@media(max-width:560px){article.post .ap-prat-dl{width:100%;text-align:center}}
+article.post .ap-links{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0;margin:8px 0 22px}
+article.post .ap-links a{display:inline-block;border:1px solid var(--line);border-radius:99px;padding:6px 14px;font-family:'Avenir Next',sans-serif;font-size:13.5px;color:var(--muted);text-decoration:none}
+article.post .ap-links a:hover{border-color:var(--gold);color:var(--gold)}
 
 article .hero-photo{margin:4px 0 24px}
 article .hero-photo img{width:100%;aspect-ratio:1376/768;object-fit:cover;margin:0;border-radius:18px}

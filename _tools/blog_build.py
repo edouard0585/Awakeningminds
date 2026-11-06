@@ -234,6 +234,9 @@ article :target{scroll-margin-top:80px}
 .alist h2,.alist h3{font-size:24px;color:#fff7e8;margin:0 0 6px;font-weight:500}
 .alist p{color:var(--muted);font-size:15px;margin:0 0 6px}
 .alist .d{color:var(--dim);font-size:13px;font-family:'Avenir Next',sans-serif}
+.bcat{margin:38px 0 8px;scroll-margin-top:90px}.bcat>h2{font-size:30px;color:var(--gold);font-weight:500;margin:0 0 4px}
+.bcat-i{color:var(--muted);margin:0 0 16px;font-size:16px}.bcat-l{margin:0 0 6px}.bcat-l a{color:var(--gold);text-decoration:none}
+.themes .nb{opacity:.6;font-size:.85em}
 footer{border-top:1px solid var(--line);margin-top:40px}
 footer .wrap{padding:22px 20px;color:var(--dim);font-size:14px;font-family:'Avenir Next',sans-serif;display:flex;gap:10px;flex-wrap:wrap}
 footer a{color:var(--muted)}
@@ -383,6 +386,22 @@ article.post .cta a:hover{transform:translateY(-2px)}
 .bidx .alist li:first-child .th{aspect-ratio:21/9}
 .bidx .alist li:first-child h2{font-size:30px}
 @media(max-width:640px){.bidx .alist{grid-template-columns:1fr}.bidx .alist li:first-child .th{aspect-ratio:16/10}}
+/* 06-11 : encadré « À pratiquer dans l'application » en haut des articles + puces des catégories en fin d'article */
+article.post .ap-prat{display:flex;flex-wrap:wrap;align-items:center;gap:14px 18px;margin:26px 0 30px;padding:14px 16px;border:1px solid rgba(212,175,106,.38);border-radius:18px;background:linear-gradient(135deg,rgba(212,175,106,.08),rgba(255,255,255,.015))}
+article.post .ap-prat a{text-decoration:none}
+article.post .ap-prat-c{display:flex;align-items:center;gap:14px;flex:1 1 300px;min-width:0;color:inherit}
+article.post .ap-prat-c img{width:76px;height:76px;border-radius:14px;object-fit:cover;flex:none;margin:0}
+article.post .ap-prat-c>span{display:flex;flex-direction:column;gap:3px;min-width:0}
+article.post .ap-prat em{font-style:normal;font-family:'Avenir Next',sans-serif;font-size:12px;letter-spacing:.05em;text-transform:uppercase;color:var(--gold)}
+article.post .ap-prat b{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;line-height:1.2;color:#fff7e8;font-weight:600}
+article.post .ap-prat-c span span{font-size:14px;color:var(--muted)}
+article.post .ap-prat i{font-style:normal;font-size:13.5px;color:var(--gold)}
+article.post .ap-prat-c:hover b{color:var(--gold)}
+article.post .ap-prat-dl{flex:none;display:inline-block;background:linear-gradient(135deg,#D4AF6A,#b8934f);color:#161122;font-weight:600;font-family:'Avenir Next',sans-serif;font-size:14.5px;padding:11px 20px;border-radius:99px;box-shadow:0 8px 24px -10px rgba(212,175,106,.7)}
+@media(max-width:560px){article.post .ap-prat-dl{width:100%;text-align:center}}
+article.post .ap-links{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0;margin:8px 0 22px}
+article.post .ap-links a{display:inline-block;border:1px solid var(--line);border-radius:99px;padding:6px 14px;font-family:'Avenir Next',sans-serif;font-size:13.5px;color:var(--muted);text-decoration:none}
+article.post .ap-links a:hover{border-color:var(--gold);color:var(--gold)}
 """
 PROGRESS_JS = ('<div class="progress" aria-hidden="true"><span></span></div><script>(function(){var b=document.querySelector(".progress span");'
                'function u(){var d=document.documentElement,h=d.scrollHeight-d.clientHeight;b.style.width=(h>0?Math.min(100,d.scrollTop/h*100):0)+"%"}'
@@ -533,6 +552,11 @@ def render_article(a, lang, arts):
         pos = cuts[max(2, round(len(cuts) * 0.55))] if len(cuts) >= 4 else (cuts[-1] if cuts else len(body))
         cls = 'pair' if len(figs) > 1 else 'ph r'
         body = body[:pos] + f'<figure class="{cls}">{"".join(figs[:2])}</figure>' + body[pos:]
+    # 06-11 : en haut de l'article, la catégorie de séances du sujet (lien visible) et le bouton de téléchargement
+    try:
+        h += app_pages.practice_card(lang, a['slug']['fr'], g)
+    except Exception:
+        pass
     h += toc + f'<div class="body">{body}</div>'
     if a.get('takeaways'):
         pts = ''.join(f'<li>{E(x)}</li>' for x in a['takeaways'][lang])
@@ -582,27 +606,38 @@ def render_index(lang, arts):
              ld_tag, kw=SITE_KW[lang], img_alt='MeditaDream', og_type='website')
     h += header_html(lang, lambda x: f'../../{x}/blog/')
     h += f'<main class="wrap bidx"><h1>{E(t["idx_title"])}</h1><p class="lead">{E(t["idx_desc"])}</p>'
-    nav = blog_hubs.themes_nav(lang, HUB_ACT)
-    if nav: h += nav.replace('class="themes"', 'class="themes topnav"', 1)
-    h += '<ul class="alist">'
+    # 06-11 : le blog divisé en catégories (une section par catégorie, articles du plus récent au plus ancien)
     fr_items = blog_fr.index_items(blog_fr.load(), lang) if lang in ('fr', 'en', 'es') else []
-    entries = [('a', a['published'], '', a) for a in pub] + [('f', x['published'], x['order'], x) for x in fr_items]
-    entries.sort(key=lambda e: (e[1], e[2]))
-    for i, (kind, _, _, a) in enumerate(reversed(entries)):
-        if kind == 'f':
-            th = f'<span class="th"><img src="../../assets/blog/{a["thumb"]}" alt="{E(a["alt"])}" loading="lazy" width="640" height="400"></span>'
-            h += (f'<li><a href="{a["slug"]}.html">{th}<span class="tw"><h2>{E(a["title"])}</h2>'
-                  f'<p>{E(a["desc"])}</p><span class="d">{E(fmt_date(a["published"], lang))}</span></span></a></li>')
-            continue
-        if a.get('image') is not None:
-            sl = SCHEMA_FILES[a['image']][lang]
-            alt = SCHEMA_PREFIX.sub('', HERO_ALTS.get((a['image'], lang), a['title'][lang]))
-            th = f'<span class="th"><img src="../../assets/blog/{sl}-{lang}.webp" alt="{E(alt)}" loading="lazy" width="88" height="88"></span>'
-        else:
-            th = f'<span class="th n">{len(entries)-i:02d}</span>'
-        h += (f'<li><a href="{a["slug"][lang]}.html">{th}<span class="tw"><h2>{E(a["title"][lang])}</h2>'
-              f'<p>{E(a["desc"][lang])}</p><span class="d">{E(fmt_date(a["published"], lang))}</span></span></a></li>')
-    h += f'</ul><p class="lead" style="font-size:16px">{E(t["soon"])}</p></main>'
+    entries = [('a', a['published'], '', a, blog_hubs.SERIES_GROUP.get(a['id'], 'bases')) for a in pub] + \
+              [('f', x['published'], x['order'], x, x.get('group') or 'bases') for x in fr_items]
+    entries.sort(key=lambda e: (e[1], e[2]), reverse=True)
+    par_cat = {}
+    for e in entries: par_cat.setdefault(e[4] if e[4] in blog_hubs.ORDER else 'bases', []).append(e)
+    cats = [g for g in blog_hubs.ORDER if par_cat.get(g)]
+    CT, CTT = blog_hubs.CATS[lang], blog_hubs.CATS_T[lang]
+    h += (f'<nav class="themes topnav" aria-label="{E(CTT[0])}"><h2>{E(CTT[0])}</h2><ul class="pill-list">'
+          + ''.join(f'<li><a href="#cat-{g}">{E(CT[g][0])} <span class="nb">{len(par_cat[g])}</span></a></li>' for g in cats) + '</ul></nav>')
+    for g in cats:
+        h += f'<section class="bcat" id="cat-{g}"><h2>{E(CT[g][0])}</h2><p class="bcat-i">{E(CT[g][1])}</p><ul class="alist">'
+        for kind, _, _, a, _ in par_cat[g]:
+            if kind == 'f':
+                th = f'<span class="th"><img src="../../assets/blog/{a["thumb"]}" alt="{E(a["alt"])}" loading="lazy" width="640" height="400"></span>'
+                h += (f'<li><a href="{a["slug"]}.html">{th}<span class="tw"><h3>{E(a["title"])}</h3>'
+                      f'<p>{E(a["desc"])}</p><span class="d">{E(fmt_date(a["published"], lang))}</span></span></a></li>')
+                continue
+            if a.get('image') is not None:
+                sl = SCHEMA_FILES[a['image']][lang]
+                alt = SCHEMA_PREFIX.sub('', HERO_ALTS.get((a['image'], lang), a['title'][lang]))
+                th = f'<span class="th"><img src="../../assets/blog/{sl}-{lang}.webp" alt="{E(alt)}" loading="lazy" width="88" height="88"></span>'
+            else:
+                th = '<span class="th n">✦</span>'
+            h += (f'<li><a href="{a["slug"][lang]}.html">{th}<span class="tw"><h3>{E(a["title"][lang])}</h3>'
+                  f'<p>{E(a["desc"][lang])}</p><span class="d">{E(fmt_date(a["published"], lang))}</span></span></a></li>')
+        h += '</ul>'
+        hub = blog_hubs.group_link(lang, g, HUB_ACT)
+        if hub: h += f'<p class="bcat-l"><a href="{hub}">{E(CTT[1].format(n=CT[g][0]))} →</a></p>'
+        h += '</section>'
+    h += f'<p class="lead" style="font-size:16px">{E(t["soon"])}</p></main>'
     h += footer_html(lang) + '</body></html>'
     return h
 

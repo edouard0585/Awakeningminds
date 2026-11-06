@@ -250,6 +250,12 @@ def render_article(bb, a0, arts, lang='fr'):
           f'srcset="../../assets/blog/{p["src_s"]} 640w, ../../assets/blog/{p["src"]} 1200w" sizes="(max-width:800px) 100vw, 780px" '
           f'alt="{E(p["alt"])}" width="{p["w"]}" height="{p["h"]}" fetchpriority="high" decoding="async"></figure>')
     h += f'<p class="lead">{E(a["desc"])}</p>'
+    # 06-11 : en haut de l'article, la catégorie de séances du sujet (lien visible) et le bouton de téléchargement
+    try:
+        import app_pages as _ap0
+        h += _ap0.practice_card(lang, a0['slug'], a0.get('group'))
+    except Exception:
+        pass
     h += toc + f'<div class="body">{body}</div>'
     if a.get('faq'):
         qa = ''.join(f'<details><summary>{E(q)}</summary><p>{E(r)}</p></details>' for q, r in a['faq'])
@@ -283,7 +289,7 @@ def index_items(arts, lang='fr'):
         a = V(a0, lang)
         out.append({'published': a['published'], 'order': a0.get('publish_at', ''), 'slug': a['slug'],
                     'title': a['seo_title'], 'desc': a['desc'], 'thumb': a['photo']['src_s'],
-                    'alt': a['photo']['alt']})
+                    'alt': a['photo']['alt'], 'group': a0.get('group') or 'bases'})
     return out
 
 

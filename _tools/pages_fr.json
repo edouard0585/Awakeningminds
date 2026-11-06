@@ -1,16 +1,16 @@
 {
  "meditations_index": {
   "slug": "meditations-guidees",
-  "seo": "Méditation gratuite : 129 méditations guidées en français",
-  "desc": "Méditation gratuite, sans abonnement ni compte : 129 méditations guidées (sommeil, débutants, 4 minutes, voyage astral). Hors ligne sur iPhone et Android.",
-  "h1": "Méditation gratuite : 129 méditations guidées",
-  "intro": "MeditaDream réunit 129 méditations guidées en français, réparties en 19 catégories : des premières séances pour débutants aux pauses de 4 minutes, des relaxations pour s’endormir aux méditations bouddhistes, chamaniques ou au voyage astral. L’application est entièrement gratuite, sans abonnement, sans publicité et sans compte à créer. Une fois les séances téléchargées, elles fonctionnent hors ligne, et tes données de pratique restent sur ton téléphone. Choisis une catégorie ci-dessous pour découvrir les séances, leur durée et leur niveau, puis lance-toi à ton rythme, sur iPhone comme sur Android."
+  "seo": "Méditation gratuite : {total} méditations guidées en français",
+  "desc": "Méditation gratuite pour de vrai : {total} méditations guidées en français, sommeil, débutants, 5 minutes, voyage astral. Sans pub, sans compte, hors ligne.",
+  "h1": "Méditation gratuite : {total} méditations guidées",
+  "intro": "MeditaDream réunit {total} méditations guidées en français, réparties en {ncat} catégories : des premières séances pour débutants aux pauses de 4 minutes, des relaxations pour s’endormir aux méditations bouddhistes, chamaniques ou au voyage astral. L’application est entièrement gratuite, sans abonnement, sans publicité et sans compte à créer. Une fois les séances téléchargées, elles fonctionnent hors ligne, et tes données de pratique restent sur ton téléphone. Choisis une catégorie ci-dessous pour découvrir les séances, leur durée et leur niveau, puis lance-toi à ton rythme, sur iPhone comme sur Android."
  },
  "categories": {
   "learningBasics": {
    "slug": "meditation-guidee-debutant",
-   "seo": "Méditation pour débutants : 8 séances guidées",
-   "desc": "Méditation pour débutants, pas à pas : 8 séances guidées de 5 à 19 minutes sur le souffle, le corps et les pensées. Gratuit, sans compte.",
+   "seo": "Méditation pour débutants : apprendre à méditer en {n} séances",
+   "desc": "Méditation pour débutants : jamais médité ? {n} séances guidées de {min} à {max} min t’apprennent à méditer pas à pas. Gratuit, sans pub, même hors ligne.",
    "h1": "Méditation pour débutants, guidée pas à pas",
    "intro": [
     "Cette catégorie pose les bases de la méditation en huit séances guidées, de 5 à 19 minutes. Tu y apprends à parcourir le corps région par région, à revenir au souffle quand l’attention s’éloigne, à distinguer sensation, émotion et pensée, puis à regarder passer les pensées sans les suivre. D’autres séances te font méditer les yeux ouverts, manger une bouchée en pleine conscience ou ouvrir les cinq sens un à un.",
@@ -60,9 +60,9 @@
   },
   "fourMin": {
    "slug": "meditation-courte-4-minutes",
-   "seo": "Méditation rapide : 11 séances courtes de 4 minutes",
-   "desc": "11 séances de méditation rapide, de 3 à 4 minutes, pour se recentrer : avant une épreuve, après une dispute, quand tout va trop vite. Gratuit, hors ligne.",
-   "h1": "Méditation rapide de 4 minutes",
+   "seo": "Méditation rapide : {n} séances guidées de moins de 5 minutes",
+   "desc": "Méditation rapide, 5 minutes chrono : {n} séances guidées de {min} à {max} min pour souffler avant une épreuve ou après une dispute. Gratuit, sans pub, hors ligne.",
+   "h1": "Méditation guidée de 5 minutes, ou moins",
    "intro": [
     "Ces onze méditations guidées durent de 3 à 4 minutes. Chacune répond à un moment précis de la journée : se détendre très vite du front aux pieds, retrouver confiance avant une épreuve, se calmer après une dispute, revenir à l’instant présent après une mauvaise nouvelle. D’autres te proposent un refuge intérieur, un souvenir heureux retrouvé par trois sens, ou une gratitude précise à laquelle donner toute ton attention.",
     "Elles conviennent aux débutants comme à celles et ceux qui manquent de temps. Toutes sont de niveau débutant et ne demandent aucune préparation. Une fois téléchargées, elles fonctionnent hors ligne : dans les transports, au bureau ou entre deux rendez-vous, il suffit d’écouteurs."
@@ -100,9 +100,9 @@
   },
   "calm": {
    "slug": "meditation-guidee-pour-dormir",
-   "seo": "Méditation pour dormir et se détendre : 14 séances guidées",
-   "desc": "Méditation pour dormir et se détendre : 14 séances guidées de 13 à 30 minutes. Relaxation profonde, chakras, respiration, glissement vers le sommeil.",
-   "h1": "Méditation pour dormir et se détendre",
+   "seo": "Méditation pour dormir : {n} séances guidées de relaxation",
+   "desc": "Méditation guidée sommeil : {n} séances de {min} à {max} min pour t’endormir sans lutter, au lit, lumière éteinte. Gratuit, sans pub, même en mode avion.",
+   "h1": "Méditation pour dormir et relaxation guidée",
    "intro": [
     "Cette catégorie rassemble quatorze séances de 13 à 30 minutes autour du corps, du calme et du sommeil. Certaines accompagnent l’endormissement, comme le voyage du sommeil ou le glissement vers le sommeil, qui se termine sans réveil. D’autres travaillent la respiration avec tout le corps, la détente sous une cascade imaginaire ou la reconnaissance et l’alignement des sept chakras. On y trouve aussi une préparation au rêve lucide.",
     "Ces séances sont de niveau intermédiaire : elles s’apprécient mieux une fois les bases acquises, mais rien ne t’empêche de commencer par elles. Pour le soir, installe-toi allongé, baisse la lumière et laisse la voix te guider jusqu’au sommeil."
@@ -150,9 +150,9 @@
   },
   "emotionalGrowth": {
    "slug": "meditation-amour-de-soi-gratitude",
-   "seo": "Méditation amour de soi, gratitude et pardon",
-   "desc": "Méditation d’amour de soi : 8 séances guidées de 7 à 17 minutes pour cultiver la gratitude, la compassion et le pardon. Gratuites, sans compte, hors ligne.",
-   "h1": "Méditation d’amour de soi : gratitude, compassion et pardon",
+   "seo": "Méditation amour de soi : confiance en soi et lâcher-prise",
+   "desc": "Méditation amour de soi : {n} séances de {min} à {max} min pour retrouver confiance en soi, lâcher prise et pardonner. Gratuit, sans pub, hors ligne.",
+   "h1": "Méditation d’amour de soi : confiance, gratitude et lâcher-prise",
    "intro": [
     "Huit séances de 7 à 17 minutes pour cultiver le cœur. Tu y apprends à accueillir une émotion difficile en l’observant avec bienveillance, à développer l’amour de soi à partir de qualités bien réelles, à pratiquer une gratitude concrète qui commence dans le corps. D’autres séances explorent le pardon, sans obligation d’oublier, la sortie de la comparaison avec les autres, et une méditation de compassion qui adresse des souhaits de paix à soi-même puis aux autres.",
     "Ces séances sont de niveau intermédiaire. Elles conviennent à celles et ceux qui souhaitent travailler leur relation à eux-mêmes et aux autres, avec douceur, sans chercher à forcer un sentiment. La méditation de compassion, de 7 minutes, est une bonne porte d’entrée."
@@ -189,9 +189,9 @@
   },
   "shadow": {
    "slug": "meditation-travail-ombre",
-   "seo": "Travail de l’ombre : méditation, ho’oponopono et peurs",
-   "desc": "Travail de l’ombre en 10 méditations guidées de 7 à 21 minutes : enfant intérieur, ho’oponopono, peur de l’échec, du jugement ou de l’abandon.",
-   "h1": "Travail de l’ombre et méditation guidée",
+   "seo": "Enfant intérieur et travail de l’ombre : {n} méditations",
+   "desc": "Travail de l’ombre en douceur : {n} méditations de {min} à {max} min pour apaiser l’enfant intérieur et la peur du jugement, avec ho’oponopono. Gratuit, sans pub.",
+   "h1": "Enfant intérieur et travail de l’ombre, en méditation guidée",
    "intro": [
     "Dix séances de 7 à 21 minutes pour rencontrer avec douceur ce dont tu t’es détourné. Le travail de l’ombre invite à comprendre ce qu’une part difficile de soi cherche à protéger ; d’autres séances proposent de retrouver l’enfant intérieur par le jeu, de répéter les quatre phrases du ho’oponopono au rythme du souffle ou de traverser une forêt de ronces sans lutter. Quatre séances courtes abordent la peur de l’abandon, de l’échec, du jugement et du noir.",
     "Ces séances sont de niveau intermédiaire et servent à l’exploration intérieure : elles ne remplacent pas un accompagnement personnel. Avance à ton rythme : tu peux interrompre une séance à tout moment et y revenir plus tard. Si un thème te semble trop lourd aujourd’hui, commence par une séance plus courte, comme celle sur la peur du jugement."
@@ -229,7 +229,7 @@
   "sacred": {
    "slug": "meditation-lieux-sacres",
    "seo": "Méditation spirituelle guidée dans des lieux sacrés",
-   "desc": "Méditation spirituelle guidée en lieux sacrés : 7 séances de 13 à 17 minutes (arbre de la Bodhi, Stonehenge, pagode, sanctuaire taoïste, aurores boréales).",
+   "desc": "Méditation spirituelle guidée sous l’arbre de la Bodhi, à Stonehenge ou sous les aurores : {n} séances de {min} à {max} min. Gratuit, sans pub, hors ligne.",
    "h1": "Méditation spirituelle guidée dans des lieux sacrés",
    "intro": [
     "Sept séances de 13 à 17 minutes t’emmènent, en imagination, dans des lieux chargés de silence. Tu t’assieds sous l’arbre de la Bodhi, près d’une pagode ancienne au milieu des lotus, dans un sanctuaire taoïste au-dessus d’une mer de nuages ou au centre de Stonehenge avant l’aube. D’autres séances te conduisent sur une falaise écossaise face à l’océan, dans une grotte de glace bleue ou sous les aurores boréales.",
@@ -267,8 +267,8 @@
   },
   "guides": {
    "slug": "meditation-guides-spirituels",
-   "seo": "Méditation pour rencontrer son guide spirituel : 5 séances",
-   "desc": "Méditation pour rencontrer son guide spirituel, en 5 séances guidées de 16 à 26 minutes : guide de lumière, conseil des guides, gratitude. Gratuit.",
+   "seo": "Méditation pour rencontrer son guide spirituel : {n} séances",
+   "desc": "Méditation pour rencontrer son guide spirituel : {n} voyages de {min} à {max} min, guide de lumière, conseil des guides. Sans dogme, gratuit, sans pub.",
    "h1": "Méditation pour rencontrer son guide spirituel",
    "intro": [
     "Cinq séances de 16 à 26 minutes pour rencontrer les voix qui t’accompagnent. Tu peux recevoir la chaleur d’un guide de lumière et la garder quand il se retire, consulter un conseil de cinq guides sur une question avant de prendre toi-même la sixième place, ou remercier une à une les personnes qui ont compté. Une séance te donne un nom et un signe pour retrouver cet état intérieur, une autre descend dix marches vers une eau calme.",
@@ -307,7 +307,7 @@
   "higherKnowledge": {
    "slug": "meditation-annales-akashiques",
    "seo": "Annales akashiques : méditation guidée et retrouvailles",
-   "desc": "3 méditations guidées d’environ 25 minutes : annales akashiques et leur gardien, retrouvailles entre générations, lien avec un animal disparu. Gratuites.",
+   "desc": "Annales akashiques : {n} méditations guidées de {min} à {max} min pour consulter le gardien des archives et retrouver un être cher disparu. Gratuit, sans pub.",
    "h1": "Annales akashiques et retrouvailles : savoirs supérieurs",
    "intro": [
     "Trois séances de 24 à 25 minutes pour un voyage vers ce qui te dépasse. Le gardien des archives t’apprend à distinguer ce que l’esprit invente de ce qui semble venir tout seul. Le jardin des retrouvailles t’invite à dire les mots restés en suspens, puis à sentir ce qui se transmet d’une génération à l’autre. Mon animal parti t’aide à retrouver le lien avec un animal disparu à travers les souvenirs du quotidien.",
@@ -342,7 +342,7 @@
   "shamanic": {
    "slug": "meditation-chamanique-guidee",
    "seo": "Méditation chamanique : voyage intérieur, quête de vision",
-   "desc": "Méditation chamanique guidée en 4 voyages de 23 à 30 minutes : quête de vision, feu des anciens, cercle de protection, objet de pouvoir. Gratuit.",
+   "desc": "Méditation chamanique au rythme du tambour : {n} voyages guidés de {min} à {max} min, quête de vision, feu des anciens. Gratuit, sans pub, hors ligne.",
    "h1": "Méditation chamanique guidée",
    "intro": [
     "Quatre voyages chamaniques de 23 à 30 minutes, inspirés des voyages vers les mondes d’en bas, d’en haut et du milieu. La quête de vision te fait marcher, attendre et laisser venir ce qui doit être vu. Au feu des anciens, tu observes les figures qui s’y rassemblent sans leur imposer de message. Tu traces aussi un cercle de protection à partir d’un élément — terre, eau, feu ou air — et reviens d’un voyage avec un objet de pouvoir.",
@@ -381,7 +381,7 @@
   "buddhist": {
    "slug": "meditation-bouddhiste-guidee",
    "seo": "Méditation bouddhiste guidée en français, gratuite",
-   "desc": "Méditation bouddhiste guidée en 8 séances de 20 à 30 minutes, avec Avalokiteśvara, Mañjuśrī, Tārā ou Maitreya : sagesse, compassion et clarté. Gratuit.",
+   "desc": "Méditation bouddhiste guidée avec Avalokiteśvara, Tārā ou Mañjuśrī : {n} séances de {min} à {max} min pour la compassion et la clarté. Gratuit, sans pub.",
    "h1": "Méditation bouddhiste guidée",
    "intro": [
     "Huit séances de 20 à 30 minutes sur les pas des bodhisattvas. Tu suis le pèlerinage de Sudhana de maître en maître, apprends avec les onze visages d’Avalokiteśvara à répondre avec douceur, fermeté ou silence, et laisses l’épée de Mañjuśrī trancher les phrases qui tournent en boucle. D’autres séances t’accompagnent avec la lumière de Kṣitigarbha, l’éléphant blanc de Samantabhadra, le jardin de Maitreya et Tārā, qui montre la sortie de huit grands dangers.",
@@ -420,7 +420,7 @@
   "qigong": {
    "slug": "meditation-qi-gong-guidee",
    "seo": "Qi Gong en ligne : méditation guidée pour sentir le Qi",
-   "desc": "4 séances guidées de Qi Gong en ligne et de méditation, de 20 à 25 minutes : mains qui chauffent, petite circulation, arbre immobile, Qi Gong en mouvement.",
+   "desc": "Qi gong en ligne, sans cours payant : {n} séances guidées de {min} à {max} min pour sentir le Qi dans les mains et le corps. Gratuit, sans pub, sans compte.",
    "h1": "Qi Gong en ligne et méditation guidée",
    "intro": [
     "Quatre séances de 20 à 25 minutes pour sentir le corps en mouvement intérieur. Une balle imaginaire entre les paumes apprend aux mains à percevoir une chaleur douce. La petite circulation te fait suivre une perle qui descend depuis le ventre, remonte par le dos et boucle. Dans l’arbre immobile, tu tiens debout, les bras autour d’un ballon imaginaire, enraciné sans forcer. La dernière séance passe au Qi Gong en mouvement, lent et fluide.",
@@ -458,8 +458,8 @@
   },
   "visualisation": {
    "slug": "visualisation-guidee",
-   "seo": "Comment visualiser : 6 séances de visualisation guidée",
-   "desc": "Comment visualiser, un sens à la fois : 6 séances de visualisation guidée, de 16 à 29 minutes, pour voir, entendre et toucher en imagination. Gratuites.",
+   "seo": "Comment visualiser : {n} séances de visualisation guidée",
+   "desc": "Comment visualiser quand on « ne voit rien » ? {n} séances guidées de {min} à {max} min, un sens à la fois : voir, entendre, toucher. Gratuit, sans pub, hors ligne.",
    "h1": "Comment visualiser : entraîner l’imagination",
    "intro": [
     "Six séances de 16 à 29 minutes pour entraîner l’œil intérieur, un sens après l’autre. Tu suis des yeux un papillon et la rafale qui le déporte, sens le poids et le froid d’une clé posée dans ta main, écoutes un bol chantant s’approcher de loin. Puis les trois sens se réunissent : au sommet d’un volcan éteint, dans le cockpit d’un vaisseau qui explore la galaxie, ou dans une pièce que tu connais par cœur.",
@@ -497,8 +497,8 @@
   },
   "miniAdventures": {
    "slug": "meditation-voyage-imaginaire",
-   "seo": "Voyage imaginaire : 4 mini-aventures en méditation guidée",
-   "desc": "Voyage imaginaire en 4 méditations guidées de 17 à 34 minutes : Versailles en 1700, Kyoto en 1600, une planète inconnue, le train des souvenirs.",
+   "seo": "Voyage imaginaire : {n} mini-aventures en méditation guidée",
+   "desc": "Voyage imaginaire à Versailles en 1700, à Kyoto en 1600 ou sur une planète inconnue : {n} méditations guidées de {min} à {max} min. Gratuit, sans pub.",
    "h1": "Voyage imaginaire : mini-aventures en méditation",
    "intro": [
     "Chaque mini-aventure est un voyage complet en une séance de 17 à 34 minutes : un lieu, une époque, une histoire. Tu passes une journée entière à Versailles en 1700, au milieu des salutations et des regards de la cour, ou marches vers Kyoto en 1600, sans savoir ce qui t’attend au prochain virage. Tu explores aussi une planète inconnue et montes dans le train des souvenirs, qui fait défiler les habitudes et les décisions d’une vie.",
@@ -537,7 +537,7 @@
   "thirdEye": {
    "slug": "meditation-troisieme-oeil",
    "seo": "Troisième œil : méditation guidée, gratuite et en français",
-   "desc": "5 méditations guidées du troisième œil, de 22 à 26 minutes : point entre les sourcils, porte d’Ajna, image intérieure, mandala. Niveau avancé, gratuit.",
+   "desc": "Ouvrir le troisième œil sans forcer : {n} méditations guidées de {min} à {max} min sur le point entre les sourcils. Niveau avancé, gratuit, sans pub.",
    "h1": "Troisième œil : méditation guidée",
    "intro": [
     "Cinq séances de 22 à 26 minutes centrées sur le point entre les sourcils. Tu apprends d’abord à passer du regard tourné vers l’extérieur au regard tourné vers l’intérieur, puis à faire naître une image au centre du front, à la tenir et à la laisser disparaître. Une séance t’apprend à attendre, sans rien construire, l’image qui apparaît seule. Tu franchis enfin la porte d’Ajna et regardes un mandala continuer à se construire seul.",
@@ -575,9 +575,9 @@
   },
   "cosmic": {
    "slug": "meditation-non-duelle-guidee",
-   "seo": "Non-dualité : méditation cosmique et expansion de conscience",
-   "desc": "La non-dualité en 2 méditations avancées de 28 et 31 minutes : conscience non-duelle et expansion du corps de lumière. Étoiles, vide, immensité intérieure.",
-   "h1": "Non-dualité : méditation cosmique guidée",
+   "seo": "Non-dualité et éveil spirituel : méditation cosmique guidée",
+   "desc": "Éveil spirituel et non-dualité : {n} méditations avancées de {min} à {max} min pour goûter une conscience sans frontières. Gratuit, sans pub, hors ligne.",
+   "h1": "Non-dualité et éveil spirituel : méditation cosmique",
    "intro": [
     "Deux séances avancées pour voyager au-delà : les étoiles, le vide, l’immensité intérieure. La séance Conscience non-duelle, de 28 minutes, t’invite à chercher où finit le dedans et où commence le dehors, puis à te tourner vers celui qui perçoit. La séance Expansion du corps de lumière, de 31 minutes, part de la chaleur du corps et la laisse devenir une lumière qui dépasse la peau. Deux approches d’une même question : où s’arrête ce que tu appelles « moi » ?",
     "Ces séances sont de niveau avancé. Elles conviennent après une pratique régulière, quand l’attention tient d’elle-même pendant une demi-heure. Choisis un moment calme, sans contrainte horaire, et prends le temps de revenir doucement, à ton rythme, avant de te relever."
@@ -610,8 +610,8 @@
   },
   "trance": {
    "slug": "meditation-reve-eveille-transe",
-   "seo": "Rêve éveillé dirigé et méditation de transe",
-   "desc": "Rêve éveillé dirigé et transe en 7 méditations guidées de 20 à 32 minutes : spirale aux 33 niveaux, bibliothèque infinie, corps endormi et esprit éveillé.",
+   "seo": "Rêve éveillé dirigé et méditation de transe guidée",
+   "desc": "Rêve éveillé dirigé et transe douce : {n} méditations de {min} à {max} min, spirale aux 33 niveaux, bibliothèque infinie. Gratuit, sans pub, hors ligne.",
    "h1": "Rêve éveillé dirigé : conscience et transe",
    "intro": [
     "Sept séances de 20 à 32 minutes pour explorer d’autres états de conscience, tout en gardant le fil du corps. Tu descends une spirale de 33 niveaux au rythme du compte, tu te perds dans une bibliothèque sans fin, ou observes le seuil du sommeil : le corps s’endort, l’attention reste là. Le rêve éveillé dirigé laisse les images spontanées changer l’histoire, et d’autres séances visitent un grenier aux objets oubliés, le vide entre deux pensées ou ton soi du futur.",
@@ -649,8 +649,8 @@
   },
   "tranceTechniques": {
    "slug": "techniques-de-transe-guidee",
-   "seo": "Entrer en transe : techniques guidées et 7 voyages",
-   "desc": "Pour entrer en transe, 7 voyages guidés de 16 à 30 minutes : descente progressive, monde d’en bas au tambour, monde d’en haut, mille portes. Niveau avancé.",
+   "seo": "Entrer en transe : techniques guidées et {n} voyages",
+   "desc": "Entrer en transe pas à pas : {n} voyages guidés de {min} à {max} min, descente progressive, tambour, mille portes. Niveau avancé, gratuit, sans pub.",
    "h1": "Entrer en transe : techniques de transe guidée",
    "intro": [
     "Sept voyages en transe de 16 à 30 minutes. La descente progressive te fait entrer par paliers dans un état de transe, avec de courtes remontées. Au son du tambour, tu suis un animal dans le monde d’en bas, puis tu t’élèves dans le vent et la lumière vers le monde d’en haut. D’autres séances remontent le courant de la lignée familiale, relisent ton « contrat d’âme », ouvrent des portes sur d’autres époques ou rapportent le talent d’un artisan d’autrefois.",
@@ -689,7 +689,7 @@
   "astralMicroDetach": {
    "slug": "exercices-de-decorporation",
    "seo": "Décorporation : exercices de micro-détachement guidés",
-   "desc": "5 exercices guidés de décorporation, de 16 à 20 minutes, à pratiquer avant le voyage astral : aimant au plafond, petit décalage, toboggan.",
+   "desc": "Décorporation en douceur : {n} exercices guidés de {min} à {max} min, aimant au plafond, toboggan, pour préparer le voyage astral. Gratuit, sans pub.",
    "h1": "Décorporation : exercices de micro-détachement",
    "intro": [
     "Cinq exercices guidés de 16 à 20 minutes, à pratiquer avant toute tentative de sortie complète. Chacun travaille un micro-geste de séparation : sentir une légère attraction vers le plafond, décaler le contour du corps de quelques centimètres, déplacer le point d’où l’on observe juste derrière la tête, glisser en imagination sur un toboggan, ou répéter en pensée le geste de se redresser jusqu’à le sentir presque réel.",
@@ -727,8 +727,8 @@
   },
   "astralJourneys": {
    "slug": "meditation-voyage-astral-guidee",
-   "seo": "Sortie astrale : méditation voyage astral en 11 protocoles",
-   "desc": "11 méditations guidées de sortie astrale, de 16 à 41 minutes : flottement, corde, chute imaginaire, visualisation du double. Niveau avancé, gratuit.",
+   "seo": "Sortie astrale : méditation voyage astral en {n} protocoles",
+   "desc": "Sortie astrale guidée : {n} protocoles de {min} à {max} min, flottement, corde, chute imaginaire. Le voyage astral en pratique, gratuit et sans pub.",
    "h1": "Sortie astrale : méditation guidée de voyage astral",
    "intro": [
     "Onze protocoles de sortie, de 16 à 41 minutes. Tu sens la pression du support s’effacer jusqu’à l’impression de flotter, tu te redresses en imagination sans bouger un muscle, grimpes une corde verticale imaginaire ou te laisses tomber intérieurement. D’autres séances travaillent les membres intérieurs, la visualisation du double, les techniques de vision et de déplacement, ainsi que des protocoles pour aborder une présence ressentie ou noter ce que tu perçois d’une cible avant de la vérifier.",
@@ -920,7 +920,7 @@
     "h2": "Une application offerte à vos équipes",
     "p": "MeditaDream est une application de méditation guidée entièrement gratuite : sans abonnement, sans publicité, sans compte. Elle ne collecte aucune donnée personnelle, et les données de pratique restent sur le téléphone de chacun. Il n’y a ni compte, ni licence, ni accès à administrer.",
     "bullets": [
-     "129 méditations guidées, 19 catégories et 17 mondes immersifs",
+     "{total} méditations guidées, {ncat} catégories et 17 mondes immersifs",
      "En français, en anglais et en espagnol, sur iPhone et Android",
      "Utilisable hors ligne une fois les séances téléchargées",
      "Des séances de 4 minutes pour une pause au bureau"
