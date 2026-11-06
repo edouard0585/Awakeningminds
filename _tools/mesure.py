@@ -32,7 +32,11 @@ def bloc(rel, html):
             "gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});"
             "try{var c=JSON.parse(localStorage.getItem('consent_mesure_v1'));if(c&&c.v==='oui'&&Date.now()-c.t<395*864e5)gtag('consent','update',{analytics_storage:'granted'})}catch(e){}"
             "gtag('js',new Date());gtag('config','%s',{content_language:'%s',page_type:'%s',content_group:'%s'})</script>"
-            '<script async src="https://www.googletagmanager.com/gtag/js?id=%s"></script>'
+            # 06-11 (vitesse, INP) : gtag.js chargé 1,5 s après l'événement « load » au lieu de pendant l'affichage (il bloquait le fil
+            # principal jusqu'à 460 ms sur mobile) ; les appels faits avant sont gardés dans dataLayer et envoyés à son arrivée
+            '<script>(function(){var f=function(){var s=document.createElement("script");s.async=true;'
+            's.src="https://www.googletagmanager.com/gtag/js?id=%s";document.head.appendChild(s)};'
+            'if(document.readyState==="complete")setTimeout(f,1500);else addEventListener("load",function(){setTimeout(f,1500)})})()</script>'
             '<script src="/assets/mesure.js?v=%s" defer data-politique="%s" data-fond="#14142a" data-texte="#F5E6C8" data-accent="#D4AF6A" data-accent-texte="#0A0A14"></script>'
             '<!--mesure:fin-->') % (GA, lang, type_page(rel), type_page(rel), GA, v, POLITIQUE.get(lang, POLITIQUE['en']))
 

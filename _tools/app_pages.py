@@ -661,7 +661,10 @@ def themes(bb, cat, P):
             ik = THEME_IMG[key]
             p_img, alt_img, titre_img = media(ik, lang, 960 if 'worlds' in ik else 640)
             src = p_img or (img_world(ik.split('/')[-1][:-4]) if 'worlds' in ik else img_cat(ik.split('catart-')[-1][:-4]))
-            hero = f'<img class="hero" src="{rel(src, 1)}" alt="{E(alt_img)}" title="{E(titre_img)}"{dims(src)} fetchpriority="high" decoding="async">'
+            # 06-11 (vitesse) : sur téléphone, la copie de 480 px suffit (l'image de 960 px coûtait 2,2 s de LCP sur la page de l'Oracle)
+            p480 = media(ik, lang, 480)[0] if 'worlds' in ik else None
+            ss = f' srcset="{rel(p480, 1)} 480w, {rel(src, 1)} 960w" sizes="(max-width: 600px) 92vw, 760px"' if p480 and p_img else ''
+            hero = f'<img class="hero" src="{rel(src, 1)}"{ss} alt="{E(alt_img)}" title="{E(titre_img)}"{dims(src)} fetchpriority="high" decoding="async">'
             secs = ''.join(section_theme(x, lang) for x in s['sections'])   # 06-11 : captures, étapes, stades du dragon
             bloc = ''
             items = []
