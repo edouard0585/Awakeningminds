@@ -36,7 +36,7 @@ STORES = re.compile(r'(<div class="stores">)(.*?)(</div>)', re.S)
 EXCLUS = ('index.html', '404.html', 'app/', 'app-store/', 'google-play/')
 
 
-def badges(l, h=44):
+def badges(l, h=44, campagne='encadre'):
     l = l if l in ALT else 'en'
     loc, w = LOCALE_APPLE[l]
     gx, gy, gh = VISIBLE_GOOGLE[l]
@@ -48,23 +48,24 @@ def badges(l, h=44):
          f'loading="lazy" decoding="async" data-nosm="1" style="display:block!important;height:{h}px!important;width:auto!important;max-width:none!important;margin:0!important"></a>')
     vw = (646 - 2 * gx) / gh * h            # largeur visible du badge Google
     # le PNG Google a une marge à peine teintée : on ne garde que le badge (cadre à la taille visible, coins arrondis)
-    g = (f'<a href="{GOOGLE}" target="_blank" rel="noopener" style="display:inline-block!important;line-height:0;overflow:hidden!important;'
+    lien_g = f'{GOOGLE}&amp;referrer=utm_source%3Dmeditadream.com%26utm_medium%3Dbadge-site%26utm_campaign%3D{campagne}'  # source dans la Play Console
+    g = (f'<a href="{lien_g}" target="_blank" rel="noopener" style="display:inline-block!important;line-height:0;overflow:hidden!important;'
          f'width:{vw:.2f}px!important;height:{h}px!important;border-radius:{0.12 * h:.1f}px!important;{NEUTRE}">'
          f'<img src="{BADGE_GOOGLE.format(l)}" alt="{ALT[l][1]}" title="{ALT[l][1]}" width="{round(iw)}" height="{round(ih)}" '
          f'loading="lazy" decoding="async" data-nosm="1" style="display:block!important;height:{ih:.2f}px!important;width:auto!important;max-width:none!important;margin:-{mv:.2f}px 0 0 -{mh:.2f}px!important"></a>')
     return a + g
 
 
-def rangee(l, h=44, marge='6px 0 18px'):
+def rangee(l, h=44, marge='6px 0 18px', campagne='encadre'):
     return (f'<div class="badges" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:center;margin:{marge}">'
-            f'{badges(l, h)}</div>')
+            f'{badges(l, h, campagne)}</div>')
 
 
 def pied(l):
     l = l if l in ALT else 'en'
     return (f'<!--mag--><div class="wrap" style="display:flex;flex-direction:column;align-items:center;gap:8px;padding-top:6px;padding-bottom:14px;'
             f'margin-bottom:14px;border-bottom:1px solid rgba(255,255,255,.08);text-align:center">'
-            f'<span style="font-size:14px;color:inherit">{TITRE[l]}</span>{rangee(l, 40, "0")}'
+            f'<span style="font-size:14px;color:inherit">{TITRE[l]}</span>{rangee(l, 40, "0", "pied-de-page")}'
             f'<small style="font-size:11px;opacity:.6;max-width:640px;line-height:1.4">{MARQUES[l]}</small></div><!--/mag-->')
 
 
@@ -88,7 +89,7 @@ def ajoute(s, l, r):
     s = ''.join(morceaux) + s[pos:]
     # 2. accueils : section #download
     if 'id="download"' in s:
-        s = STORES.sub(lambda m: m.group(1) + '<!--mag-->' + badges(l, 48) + '<!--/mag-->' + m.group(3), s, count=1)
+        s = STORES.sub(lambda m: m.group(1) + '<!--mag-->' + badges(l, 48, 'accueil') + '<!--/mag-->' + m.group(3), s, count=1)
     # 3. haut du pied de page
     i = s.rfind('<footer')
     if i >= 0:
