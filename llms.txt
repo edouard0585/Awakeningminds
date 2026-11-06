@@ -1,6 +1,6 @@
 # MeditaDream
 
-> MeditaDream is a free guided meditation app for iPhone and Android: 146 guided meditations, including 17 immersive meditation worlds, in English, French and Spanish, with two voices per language. No subscription, no ads, no in-app purchases and no account. Meditations download once and then play offline. Coming soon to the App Store and Google Play.
+> MeditaDream is a free guided meditation app for iPhone and Android: 146 guided meditations, including 17 immersive meditation worlds, in English, French and Spanish, with two voices per language. No subscription, no ads, no in-app purchases and no account. Meditations download once and then play offline. Available free on the App Store (https://apps.apple.com/app/id6808918209) and Google Play (https://play.google.com/store/apps/details?id=com.edouardrichemond.mindexploreroffline).
 
 ## Key facts
 
@@ -16,7 +16,7 @@
 ## English
 
 - [MeditaDream — guided meditation, 100% free](https://meditadream.com/en/): Guided meditation that's actually free: 129 sessions for sleep, anxiety and focus, plus immersive worlds. No subscription, no ads, nothing to sign up for.
-- [Free guided meditations for every moment of your day](https://meditadream.com/en/meditations/): {total} free guided meditations for sleep, anxiety, focus and inner journeys. No subscription, no ads, no account, and every session plays offline.
+- [Free guided meditations for every moment of your day](https://meditadream.com/en/meditations/): 146 free guided meditations for sleep, anxiety, focus and inner journeys. No subscription, no ads, no account, and every session plays offline.
 - [Immersive meditation worlds: guided journeys for the mind](https://meditadream.com/en/worlds/): 17 immersive meditation worlds: a mountain temple, Atlantis, a wolf spirit forest. Guided visualization journeys of 13 to 20 minutes, free and offline.
 - [Sleep sounds with no ads: rain sounds, ocean waves, flutes and soft drones](https://meditadream.com/en/sleep-sounds.html): Sleep sounds with no ads: rain, ocean waves, forest streams, flutes and soft drones on a 5 to 60 minute timer. A gentler alternative to white noise, offline.
 - [A free gratitude journal app: notice the good, one line at a time](https://meditadream.com/en/gratitude-journal.html): A free gratitude journal app with eleven sections, plus guided gratitude meditations. No subscription, no ads, no account, works offline.
@@ -37,7 +37,7 @@
 ## Français
 
 - [MeditaDream — méditation guidée, 100 % gratuite](https://meditadream.com/fr/): L'application de méditation vraiment gratuite : 129 méditations guidées en français pour dormir, respirer, t'apaiser. Ni abonnement ni pub, même hors ligne.
-- [Méditation gratuite : {total} méditations guidées](https://meditadream.com/fr/meditations/): Méditation gratuite pour de vrai : {total} méditations guidées en français, sommeil, débutants, 5 minutes, voyage astral. Sans pub, sans compte, hors ligne.
+- [Méditation gratuite : 146 méditations guidées](https://meditadream.com/fr/meditations/): Méditation gratuite pour de vrai : 146 méditations guidées en français, sommeil, débutants, 5 minutes, voyage astral. Sans pub, sans compte, hors ligne.
 - [Mondes immersifs : la méditation comme un voyage intérieur](https://meditadream.com/fr/mondes/): 17 méditations immersives guidées : temple dans la brume, Atlantide, forêt des esprits loups. Un voyage intérieur de 13 à 20 minutes, gratuit et hors ligne.
 - [Musique pour dormir gratuite et sons de la nature, sans abonnement](https://meditadream.com/fr/sons-pour-dormir.html): Musique pour dormir gratuite et sans pub : pluie, vagues, torrent, forêt, flûtes, minuteur de 5 à 60 min. Une alternative douce au bruit blanc, hors ligne.
 - [Journal de gratitude : comment le tenir simplement](https://meditadream.com/fr/journal-de-gratitude.html): Un journal de gratitude gratuit et en français : onze rubriques, des méditations de gratitude, aucun abonnement, et tout reste sur ton téléphone.
@@ -58,7 +58,7 @@
 ## Español
 
 - [MeditaDream — meditación guiada, 100 % gratis](https://meditadream.com/es/): App de meditación gratis y en español: 129 meditaciones guiadas para dormir, calmar la ansiedad y respirar mejor. Sin suscripción, sin anuncios, sin conexión.
-- [Meditación guiada: {total} meditaciones gratis en español](https://meditadream.com/es/meditaciones/): Meditación guiada gratis de verdad: {total} meditaciones en español para dormir, calmar la ansiedad o viajar hacia dentro. Sin suscripción ni anuncios.
+- [Meditación guiada: 146 meditaciones gratis en español](https://meditadream.com/es/meditaciones/): Meditación guiada gratis de verdad: 146 meditaciones en español para dormir, calmar la ansiedad o viajar hacia dentro. Sin suscripción ni anuncios.
 - [Mundos inmersivos: la meditación guiada como viaje interior](https://meditadream.com/es/mundos/): 17 meditaciones inmersivas guiadas: un templo entre la niebla, la Atlántida, un bosque de lobos. Viajes interiores de 13 a 20 minutos, gratis y sin conexión.
 - [Sonido de lluvia para dormir, olas y bosque: música relajante gratis](https://meditadream.com/es/sonidos-para-dormir.html): Sonido de lluvia para dormir, olas, torrente y flautas, con temporizador de 5 a 60 minutos. Una alternativa suave al ruido blanco, gratis y sin anuncios.
 - [Diario de gratitud: una práctica sencilla para cada día](https://meditadream.com/es/diario-de-gratitud.html): Diario de gratitud en una app gratis y en español: once apartados para escribir, meditaciones de gratitud de 3 a 23 minutos, y todo queda en tu teléfono.
