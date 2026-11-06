@@ -20,6 +20,7 @@
 import glob, html, json, os, re
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import reseaux   # liens vers les comptes MeditaDream (pied de page + sameAs)
+import magasins  # badges officiels App Store / Google Play (encadrés « cta », accueils, pied de page)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = 'https://meditadream.com'
@@ -234,6 +235,7 @@ def main():
     for f, r in pages():
         s = open(f, encoding='utf-8').read(); l = langue(r, s)
         s2, n = corrige(s, l, alts)
+        s2 = magasins.ajoute(s2, l, r)
         s2 = reseaux.ajoute(s2, l, racine=(r == 'index.html'))
         loc = canonique(s2)
         if loc and indexable(s2): s2 = image_ld(s2, l, loc)
@@ -245,7 +247,7 @@ def main():
             vus[og] = (titre_court(nom_page(s2)), meta(s2, 'og:image:alt'))
         for m in IMG.finditer(s2):
             t = m.group(0); src = ATTR('src').search(t)
-            if not src or src.group(1).startswith('data:'): continue
+            if not src or src.group(1).startswith('data:') or 'data-nosm' in t: continue   # badges des magasins : hors sitemap
             u = absolu(src.group(1), r)
             alt = html.unescape((ATTR('alt').search(t) or [None, ''])[1]).strip()
             ti = html.unescape((ATTR('title').search(t) or [None, ''])[1]).strip()
