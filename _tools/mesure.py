@@ -14,6 +14,7 @@ POLITIQUE = {'fr': '/fr/privacy.html#site-web', 'en': '/en/privacy.html#website'
 def type_page(rel):
     p = rel.replace(os.sep, '/')
     if p in ('index.html', '404.html'): return 'accueil_langues' if p == 'index.html' else 'erreur_404'
+    if p.split('/')[0] in ('app', 'app-store', 'google-play'): return 'telechargement'
     if '/blog/' in p: return 'blog_index' if p.endswith('/blog/index.html') else ('blog_theme' if '/theme' in p or '/themes/' in p else 'blog_article')
     if '/formation-meditation/' in p: return 'formation'
     if '/meditations/' in p or '/meditaciones/' in p: return 'categorie_meditation'

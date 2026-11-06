@@ -9,10 +9,16 @@
 <link rel="canonical" href="https://www.meditadream.com/">
 <link rel="icon" href="/favicon.ico">
 <script>
+/* Téléphone : bon magasin tout de suite. Si le visiteur a déjà accepté la mesure d'audience sur meditadream.com,
+   on attend l'envoi de l'événement store_click (1,2 s au plus, script en bas de page) avant de partir. */
 (function(){var ua=navigator.userAgent||'';
 var ios=/iPhone|iPad|iPod/.test(ua)||(/Macintosh/.test(ua)&&navigator.maxTouchPoints>1);
-if(ios){location.replace('https://apps.apple.com/app/meditadream/id6808918209');return;}
-if(/Android/.test(ua)){location.replace('https://play.google.com/store/apps/details?id=com.edouardrichemond.mindexploreroffline');return;}})();
+var and=/Android/.test(ua);if(!ios&&!and)return;
+var src='direct';try{if(document.referrer){var h=new URL(document.referrer).hostname.replace(/^(www|m|l|lm|out)\./,'');src=/(^|\.)meditadream\.com$/.test(h)?'site':(h||'direct');}}catch(e){}
+var dest=ios?'https://apps.apple.com/app/meditadream/id6808918209':'https://play.google.com/store/apps/details?id=com.edouardrichemond.mindexploreroffline&referrer='+encodeURIComponent('utm_source=meditadream.com&utm_medium=lien-app&utm_campaign='+src);
+var ok=false;try{var c=JSON.parse(localStorage.getItem('consent_mesure_v1'));ok=!!(c&&c.v==='oui'&&Date.now()-c.t<395*864e5);}catch(e){}
+if(!ok){location.replace(dest);return;}
+document.documentElement.className+=' va';window.__mdApp={dest:dest,store:ios?'app_store':'google_play'};})();
 </script>
 <style>:root{--bg:#0A0A14;--ink:#F5E6C8;--muted:rgba(245,230,200,.72);--gold:#D4AF6A;--line:rgba(255,255,255,.09)}
 *{box-sizing:border-box}html,body{height:100%}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,system-ui,sans-serif;background:radial-gradient(1200px 700px at 50% -10%,#241a3d 0%,var(--bg) 60%);color:var(--ink);display:flex;align-items:center;justify-content:center;padding:24px 16px;line-height:1.6}
@@ -20,14 +26,15 @@ main{max-width:520px;width:100%;text-align:center;background:linear-gradient(135
 img{width:88px;height:88px;border-radius:22px}h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:32px;margin:14px 0 6px;color:#fff7e8;text-wrap:balance}
 p{color:var(--muted);margin:0 0 6px}.stores{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin:22px 0 18px}
 .store{display:inline-flex;align-items:center;gap:8px;border:1px solid rgba(212,175,106,.6);background:rgba(212,175,106,.12);border-radius:14px;padding:12px 20px;color:var(--ink);font-size:15px;font-weight:600;text-decoration:none}
-.store:hover{background:rgba(212,175,106,.24)}a.site{color:var(--gold);font-size:14px}</style>
-</head>
+.store:hover{background:rgba(212,175,106,.24)}a.site{color:var(--gold);font-size:14px}.va main{visibility:hidden}</style>
+
+<!--mesure:debut--><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});try{var c=JSON.parse(localStorage.getItem('consent_mesure_v1'));if(c&&c.v==='oui'&&Date.now()-c.t<395*864e5)gtag('consent','update',{analytics_storage:'granted'})}catch(e){}gtag('js',new Date());gtag('config','G-CFLRM9XKV2',{content_language:'en',page_type:'telechargement',content_group:'telechargement'})</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-CFLRM9XKV2"></script><script src="/assets/mesure.js?v=a1dff183" defer data-politique="/en/privacy.html#website" data-fond="#14142a" data-texte="#F5E6C8" data-accent="#D4AF6A" data-accent-texte="#0A0A14"></script><!--mesure:fin--></head>
 <body>
 <main>
 <img src="/apple-touch-icon.png" alt="MeditaDream" width="88" height="88">
 <h1 id="t">Download MeditaDream</h1>
 <p id="d">The 100% free meditation app, with no sign-up and no ads.</p>
-<div class="stores"><a class="store" href="https://apps.apple.com/app/meditadream/id6808918209">&#63743; App Store</a><a class="store" href="https://play.google.com/store/apps/details?id=com.edouardrichemond.mindexploreroffline">&#9654; Google Play</a></div>
+<div class="stores"><a class="store" href="https://apps.apple.com/app/meditadream/id6808918209">&#63743; App Store</a><a class="store" href="https://play.google.com/store/apps/details?id=com.edouardrichemond.mindexploreroffline&amp;referrer=utm_source%3Dmeditadream.com%26utm_medium%3Dlien-app%26utm_campaign%3Dordinateur">&#9654; Google Play</a></div>
 <a class="site" id="s" href="/en/">Visit the website</a>
 </main>
 <script>
@@ -37,6 +44,11 @@ var l='en';for(var i=0;i<L.length;i++){if(L[i]==='en'||T[L[i]]){l=L[i];break;}}
 if(!T[l])return;document.documentElement.lang=l;var t=T[l];
 document.getElementById('t').textContent=t[0];document.getElementById('d').textContent=t[1];
 var s=document.getElementById('s');s.textContent=t[2];s.href='/'+l+'/';document.title=t[0]+' · MeditaDream';})();
+</script>
+<script>
+(function(){var a=window.__mdApp;if(!a)return;var fait=false;function go(){if(!fait){fait=true;location.replace(a.dest);}}
+setTimeout(go,1200);if(typeof gtag!=='function'){go();return;}
+gtag('event','store_click',{store:a.store,link_url:'https://meditadream.com/app/',event_callback:go,event_timeout:1000});})();
 </script>
 </body>
 </html>

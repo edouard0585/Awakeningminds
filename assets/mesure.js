@@ -1,5 +1,6 @@
 /* Mesure d'audience Google Analytics 4 avec consentement (Consent Mode v2) — bandeau, choix gardé 13 mois,
-   lien « Cookies » ajouté au pied de page, événements tel / e-mail / magasins d'applications. Aucune dépendance.
+   lien « Cookies » ajouté au pied de page, événements tel / e-mail / magasins d'applications (liens directs et liens
+   internes /app-store/, /google-play/, /app/). Aucune dépendance.
    Réglages sur la balise <script> : data-ads="1" (consentement publicitaire aussi), data-politique (lien « En savoir plus »),
    data-fond, data-texte, data-accent, data-accent-texte (couleurs du site). */
 (function () {
@@ -66,6 +67,10 @@
     else if (/^mailto:/i.test(h)) g('event', 'contact_email', {link_url: h.split('?')[0]});
     else if (/(apps|itunes)\.apple\.com/.test(h)) g('event', 'store_click', {store: 'app_store', link_url: h});
     else if (/play\.google\.com/.test(h)) g('event', 'store_click', {store: 'google_play', link_url: h});
+    else {
+      var m = h.match(/^(?:https?:\/\/(?:www\.)?meditadream\.com)?\/(app-store|google-play|app)\/?(?:[?#].*)?$/i);
+      if (m) g('event', 'store_click', {store: {'app-store': 'app_store', 'google-play': 'google_play', app: 'auto'}[m[1].toLowerCase()], link_url: h});
+    }
   }, true);
   function init() { lienPied(); if (!lire()) ouvrir(); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
