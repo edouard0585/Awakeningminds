@@ -1,0 +1,317 @@
+{
+ "fonctions": {
+  "Alarme et rappels": {
+   "src": "/assets/icones/fonctionnalites/icone-alarme-et-rappels.webp",
+   "alt": {
+    "fr": "Clochette de bronze au manche de bois et pompon rouge",
+    "en": "Bronze hand bell with a wooden handle and a red tassel",
+    "es": "Campanilla de bronce con mango de madera y borla roja"
+   },
+   "icone": "p10-24"
+  },
+  "Bibliothèque pédagogique": {
+   "src": "/assets/icones/fonctionnalites/icone-bibliotheque-pedagogique.webp",
+   "alt": {
+    "fr": "Livre ouvert posé sur un lutrin de bois sculpté",
+    "en": "Open book resting on a carved wooden lectern",
+    "es": "Libro abierto sobre un atril de madera tallada"
+   },
+   "icone": "p09-18"
+  },
+  "Carnet des guides": {
+   "src": "/assets/icones/fonctionnalites/icone-carnet-des-guides.webp",
+   "alt": {
+    "fr": "Carnet turquoise orné d’un lotus doré",
+    "en": "Turquoise notebook decorated with a golden lotus",
+    "es": "Cuaderno turquesa adornado con un loto dorado"
+   },
+   "icone": "p09-03"
+  },
+  "Catalogue multithématique": {
+   "src": "/assets/icones/fonctionnalites/icone-catalogue-de-meditations.webp",
+   "alt": {
+    "fr": "Liasse de livres anciens nouée d’un cordon",
+    "en": "Bundle of old books tied with a cord",
+    "es": "Fajo de libros antiguos atado con un cordón"
+   },
+   "icone": "p09-04"
+  },
+  "Collection d’objets symboliques": {
+   "src": "/assets/icones/fonctionnalites/icone-objets-symboliques.webp",
+   "alt": {
+    "fr": "Coffre de bois ouvert rempli de petits trésors",
+    "en": "Open wooden chest filled with small treasures",
+    "es": "Cofre de madera abierto lleno de pequeños tesoros"
+   },
+   "icone": "p10-28"
+  },
+  "Créateur de méditations": {
+   "src": "/assets/icones/fonctionnalites/icone-createur-de-meditations.webp",
+   "alt": {
+    "fr": "Plume blanche dans un encrier de bronze",
+    "en": "White quill in a bronze inkwell",
+    "es": "Pluma blanca en un tintero de bronce"
+   },
+   "icone": "p09-21"
+  },
+  "Dragon compagnon et île évolutive": {
+   "src": "/assets/icones/fonctionnalites/icone-dragon-compagnon.webp",
+   "alt": {
+    "fr": "Dragon doré enroulé autour d’une perle lumineuse",
+    "en": "Golden dragon coiled around a glowing pearl",
+    "es": "Dragón dorado enroscado alrededor de una perla luminosa"
+   },
+   "icone": "p02-11"
+  },
+  "Historique et réflexions": {
+   "src": "/assets/icones/fonctionnalites/icone-historique-des-seances.webp",
+   "alt": {
+    "fr": "Chapelet de perles de bois à pompon rouge",
+    "en": "Wooden prayer beads with a red tassel",
+    "es": "Rosario de cuentas de madera con borla roja"
+   },
+   "icone": "p05-03"
+  },
+  "Journaux personnels": {
+   "src": "/assets/icones/fonctionnalites/icone-journaux-personnels.webp",
+   "alt": {
+    "fr": "Carnet ouvert et plume d’écriture",
+    "en": "Open journal with a writing quill",
+    "es": "Cuaderno abierto con una pluma de escribir"
+   },
+   "icone": "p09-06"
+  },
+  "Minuteur et fondu sonore": {
+   "src": "/assets/icones/fonctionnalites/icone-minuteur-de-meditation.webp",
+   "alt": {
+    "fr": "Bâton d’encens fumant sur son support de bois",
+    "en": "Smoking incense stick on a wooden holder",
+    "es": "Varilla de incienso humeante sobre su soporte de madera"
+   },
+   "icone": "p10-12"
+  },
+  "Mondes immersifs": {
+   "src": "/assets/icones/fonctionnalites/icone-mondes-immersifs.webp",
+   "alt": {
+    "fr": "Boule de verre renfermant une pagode et des cerisiers en fleurs",
+    "en": "Glass globe holding a pagoda and cherry blossoms",
+    "es": "Esfera de cristal con una pagoda y cerezos en flor"
+   },
+   "icone": "p01-02"
+  },
+  "Oracle émotionnel": {
+   "src": "/assets/icones/fonctionnalites/icone-oracle-emotionnel.webp",
+   "alt": {
+    "fr": "Trois cartes d’oracle ornées de lotus",
+    "en": "Three oracle cards decorated with lotus flowers",
+    "es": "Tres cartas de oráculo adornadas con flores de loto"
+   },
+   "icone": "p09-09"
+  },
+  "Passeport zen et progression": {
+   "src": "/assets/icones/fonctionnalites/icone-passeport-zen.webp",
+   "alt": {
+    "fr": "Médaillon de bronze à l’effigie du Bouddha",
+    "en": "Bronze medallion bearing the image of the Buddha",
+    "es": "Medallón de bronce con la imagen de Buda"
+   },
+   "icone": "p08-14"
+  },
+  "Recherche par mot-clé": {
+   "src": "/assets/icones/fonctionnalites/icone-recherche-par-mot-cle.webp",
+   "alt": {
+    "fr": "Lanterne japonaise en pierre sur un rocher moussu",
+    "en": "Japanese stone lantern on a mossy rock",
+    "es": "Linterna japonesa de piedra sobre una roca con musgo"
+   },
+   "icone": "p03-09"
+  },
+  "Respect de la vie privée": {
+   "src": "/assets/icones/fonctionnalites/icone-vie-privee.webp",
+   "alt": {
+    "fr": "Ombrelle cérémonielle rouge et or",
+    "en": "Red and gold ceremonial parasol",
+    "es": "Sombrilla ceremonial roja y dorada"
+   },
+   "icone": "p05-14"
+  },
+  "Sanctuaires personnels": {
+   "src": "/assets/icones/fonctionnalites/icone-sanctuaires-personnels.webp",
+   "alt": {
+    "fr": "Petit autel de bois avec un Bouddha et des bougies",
+    "en": "Small wooden altar with a Buddha and candles",
+    "es": "Pequeño altar de madera con un Buda y velas"
+   },
+   "icone": "p03-23"
+  },
+  "Sons d’ambiance": {
+   "src": "/assets/icones/fonctionnalites/icone-sons-d-ambiance.webp",
+   "alt": {
+    "fr": "Carillon à vent en métal",
+    "en": "Metal wind chimes",
+    "es": "Carillón de viento de metal"
+   },
+   "icone": "p04-10"
+  },
+  "Voix, langues et rythme": {
+   "src": "/assets/icones/fonctionnalites/icone-voix-et-vitesse.webp",
+   "alt": {
+    "fr": "Conque blanche ornée d’or et de pierres",
+    "en": "White conch shell adorned with gold and stones",
+    "es": "Caracola blanca adornada con oro y piedras"
+   },
+   "icone": "p08-16"
+  },
+  "Écoute hors ligne": {
+   "src": "/assets/icones/fonctionnalites/icone-ecoute-hors-ligne.webp",
+   "alt": {
+    "fr": "Sacoche de voyage en cuir avec un rouleau",
+    "en": "Leather travel bag with a scroll",
+    "es": "Bolsa de viaje de cuero con un pergamino"
+   },
+   "icone": "p09-30"
+  }
+ },
+ "objectifs": {
+  "01": {
+   "src": "/assets/icones/objectifs/icone-mieux-dormir.webp",
+   "src64": "/assets/icones/objectifs/icone-mieux-dormir-64.webp",
+   "alt": {
+    "fr": "Coussin bleu brodé d’un croissant de lune doré",
+    "en": "Blue cushion embroidered with a golden crescent moon",
+    "es": "Cojín azul bordado con una luna creciente dorada"
+   },
+   "icone": "p01-13"
+  },
+  "02": {
+   "src": "/assets/icones/objectifs/icone-reduire-le-stress.webp",
+   "src64": "/assets/icones/objectifs/icone-reduire-le-stress-64.webp",
+   "alt": {
+    "fr": "Tasse à thé en porcelaine céladon avec son couvercle",
+    "en": "Lidded celadon porcelain tea cup",
+    "es": "Taza de té de porcelana celadón con tapa"
+   },
+   "icone": "p10-09"
+  },
+  "03": {
+   "src": "/assets/icones/objectifs/icone-apaiser-anxiete.webp",
+   "src64": "/assets/icones/objectifs/icone-apaiser-anxiete-64.webp",
+   "alt": {
+    "fr": "Boule de verre où une mer calme brille sous la lune",
+    "en": "Glass globe with a calm sea shining under the moon",
+    "es": "Esfera de cristal con un mar en calma bajo la luna"
+   },
+   "icone": "p01-03"
+  },
+  "04": {
+   "src": "/assets/icones/objectifs/icone-detente-du-corps.webp",
+   "src64": "/assets/icones/objectifs/icone-detente-du-corps-64.webp",
+   "alt": {
+    "fr": "Serviette roulée et fleur blanche, comme au spa",
+    "en": "Rolled towel with a white flower, spa style",
+    "es": "Toalla enrollada con una flor blanca, como en un spa"
+   },
+   "icone": "p10-27"
+  },
+  "05": {
+   "src": "/assets/icones/objectifs/icone-gerer-ses-emotions.webp",
+   "src64": "/assets/icones/objectifs/icone-gerer-ses-emotions-64.webp",
+   "alt": {
+    "fr": "Deux carpes koï formant un yin et yang",
+    "en": "Two koi fish forming a yin and yang",
+    "es": "Dos carpas koi que forman un yin y yang"
+   },
+   "icone": "p02-13"
+  },
+  "06": {
+   "src": "/assets/icones/objectifs/icone-developpement-spirituel.webp",
+   "src64": "/assets/icones/objectifs/icone-developpement-spirituel-64.webp",
+   "alt": {
+    "fr": "Lotus doré épanoui",
+    "en": "Golden lotus in full bloom",
+    "es": "Loto dorado en plena floración"
+   },
+   "icone": "p08-04"
+  },
+  "07": {
+   "src": "/assets/icones/objectifs/icone-transe-chamanisme-voyage-astral.webp",
+   "src64": "/assets/icones/objectifs/icone-transe-chamanisme-voyage-astral-64.webp",
+   "alt": {
+    "fr": "Tambour chamanique orné de rubans rouges",
+    "en": "Shamanic drum adorned with red ribbons",
+    "es": "Tambor chamánico adornado con cintas rojas"
+   },
+   "icone": "p04-16"
+  },
+  "08": {
+   "src": "/assets/icones/objectifs/icone-apprendre-a-mediter.webp",
+   "src64": "/assets/icones/objectifs/icone-apprendre-a-mediter-64.webp",
+   "alt": {
+    "fr": "Femme assise en tailleur qui médite",
+    "en": "Woman meditating cross-legged",
+    "es": "Mujer meditando con las piernas cruzadas"
+   },
+   "icone": "p07-11"
+  },
+  "09": {
+   "src": "/assets/icones/objectifs/icone-bouddhisme-et-qi-gong.webp",
+   "src64": "/assets/icones/objectifs/icone-bouddhisme-et-qi-gong-64.webp",
+   "alt": {
+    "fr": "Statue de Bouddha en bronze doré en méditation",
+    "en": "Gilded bronze Buddha statue in meditation",
+    "es": "Estatua de Buda de bronce dorado en meditación"
+   },
+   "icone": "p05-01"
+  },
+  "10": {
+   "src": "/assets/icones/objectifs/icone-concentration-et-creativite.webp",
+   "src64": "/assets/icones/objectifs/icone-concentration-et-creativite-64.webp",
+   "alt": {
+    "fr": "Pinceau de calligraphie posé sur son support",
+    "en": "Calligraphy brush resting on its stand",
+    "es": "Pincel de caligrafía sobre su soporte"
+   },
+   "icone": "p09-22"
+  },
+  "11": {
+   "src": "/assets/icones/objectifs/icone-confiance-en-soi.webp",
+   "src64": "/assets/icones/objectifs/icone-confiance-en-soi-64.webp",
+   "alt": {
+    "fr": "Lion gardien de pierre sur un socle moussu",
+    "en": "Stone guardian lion on a mossy base",
+    "es": "León guardián de piedra sobre una base con musgo"
+   },
+   "icone": "p02-09"
+  },
+  "12": {
+   "src": "/assets/icones/objectifs/icone-reves-lucides.webp",
+   "src64": "/assets/icones/objectifs/icone-reves-lucides-64.webp",
+   "alt": {
+    "fr": "Mobile de lunes dorées et de fleurs bleues",
+    "en": "Mobile of golden moons and blue flowers",
+    "es": "Móvil de lunas doradas y flores azules"
+   },
+   "icone": "p01-28"
+  },
+  "13": {
+   "src": "/assets/icones/objectifs/icone-deuil-pardon-lacher-prise.webp",
+   "src64": "/assets/icones/objectifs/icone-deuil-pardon-lacher-prise-64.webp",
+   "alt": {
+    "fr": "Branche de ginkgo aux feuilles dorées",
+    "en": "Ginkgo sprig with golden leaves",
+    "es": "Rama de ginkgo con hojas doradas"
+   },
+   "icone": "p06-22"
+  },
+  "14": {
+   "src": "/assets/icones/objectifs/icone-evasion-mondes-immersifs.webp",
+   "src64": "/assets/icones/objectifs/icone-evasion-mondes-immersifs-64.webp",
+   "alt": {
+    "fr": "Monastère accroché à une falaise dans la montagne",
+    "en": "Monastery clinging to a mountain cliff",
+    "es": "Monasterio aferrado a un acantilado de montaña"
+   },
+   "icone": "p03-30"
+  }
+ }
+}

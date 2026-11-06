@@ -1,0 +1,2170 @@
+{
+ "hub": {
+  "slug": "objectifs",
+  "seo": "Pourquoi méditer ? 14 objectifs, une app gratuite",
+  "desc": "Mieux dormir, réduire le stress ou apprendre à méditer : choisis ton objectif et découvre comment MeditaDream t’aide. Gratuit, sans pub, sans compte.",
+  "h1": "Pourquoi méditer ? Choisis ton objectif",
+  "intro": "Chacun vient à la méditation avec sa raison : des nuits trop courtes, un stress qui ne retombe pas, ou l’envie d’explorer plus loin. Voici quatorze objectifs, et pour chacun ce que MeditaDream t’apporte vraiment : les séances qui comptent, les mondes immersifs qui l’accompagnent et les fonctionnalités utiles. L’application est gratuite et en français, sans abonnement, sans publicité ni compte. Une fois les séances téléchargées, tout fonctionne hors ligne."
+ },
+ "objectifs": {
+  "01": {
+   "slug": "mieux-dormir",
+   "seo": "Mieux dormir : l’application gratuite pour s’endormir",
+   "desc": "Mieux dormir sans forcer : méditations pour s’endormir, sons pour dormir avec minuteur, séances sans réveil final. Gratuit, sans pub, même en mode avion.",
+   "h1": "Comment MeditaDream t’aide à mieux dormir",
+   "titre_court": "Mieux dormir",
+   "accroche": "Ralentis tes pensées, relâche ton corps et laisse venir le sommeil, sans rien forcer.",
+   "pitch": [
+    "Il est minuit passé et ta tête refait encore la journée ? Pour mieux dormir, tu n’as pas besoin d’un effort de plus, mais d’une façon de décrocher. MeditaDream te propose des méditations pour s’endormir, lentes et douces. « Glissement vers le sommeil » (16 min) t’invite à relâcher peu à peu tout effort et se termine sans réveil final : tu peux t’endormir avant la fin.",
+    "Tu préfères des sons pour dormir, sans voix ? Les sons d’ambiance font entendre les vagues, la forêt ou un torrent, au volume que tu choisis. Règle le minuteur de 5 à 60 minutes : le son s’éteint seul, en fondu, même écran verrouillé. Pour les méditations, choisis ta voix et ralentis-la jusqu’à 0,75× : le rythme devient encore plus doux.",
+    "Une fois tes séances téléchargées, tout fonctionne en mode avion, sans notification pour te déranger. Tu ne sais pas quoi écouter ? Écris à l’Oracle « je n’arrive pas à dormir » : il retourne trois cartes, trois méditations pour ce moment. Tu peux même écrire ton propre rituel du soir, lu par une voix de ton téléphone. Une application pour dormir gratuite, sans abonnement ni publicité."
+   ],
+   "etapes": [
+    "Avant le coucher, télécharge une première fois tes séances préférées, puis passe en mode avion : elles fonctionnent hors ligne, et aucune notification ne vient te tirer du calme.",
+    "Au lit, lumière éteinte, lance « Glissement vers le sommeil » (16 min) ou, pour un accompagnement plus long, « Voyage du sommeil » (27 min). Aucune des deux ne te demande d’effort pour t’endormir.",
+    "Si ta tête tourne encore, commence par « Le refuge instantané » (4 min) ou « La gratitude précise » (3 min) : un lieu rassurant, ou une chose appréciée, pour clore la journée.",
+    "Si tu préfères t’endormir sans voix, ouvre les sons d’ambiance : choisis les vagues ou la forêt, puis une durée de 5 à 60 minutes. Le fondu éteint le son pendant que tu t’endors."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour mieux dormir ?",
+     "Choisis une séance du soir dans la catégorie Corps, calme & sommeil, règle la voix et la vitesse, puis écoute allongé, lumière éteinte. Commence par « Glissement vers le sommeil » (16 min), qui se termine sans réveil final. Les soirs où tu préfères le silence, lance simplement un son d’ambiance avec le minuteur. Tout est gratuit et fonctionne hors ligne."
+    ],
+    [
+     "Est-ce une bonne idée de méditer juste avant de dormir ?",
+     "Oui, si tu choisis une séance faite pour le soir, lente et douce comme « Le corps sous une cascade » (15 min), ou riche en longues pauses comme « Réinitialisation des Chakras » (18 min). Garde les séances d’exploration, comme « Préparation au rêve lucide » (23 min), pour les soirs où tu veux explorer tes rêves plutôt que t’endormir rapidement."
+    ],
+    [
+     "Et si je m’endors avant la fin de la séance ?",
+     "Aucun souci : c’est même le but des séances du soir. « Glissement vers le sommeil » ne te réveille pas à la fin, et le son d’ambiance s’arrête seul quand le minuteur arrive au bout. Au réveil, note un rêve ou une impression dans le Journal des Rêves : tu verras peu à peu ce qui t’aide à mieux dormir."
+    ]
+   ],
+   "seances": [
+    [
+     "corpsc03",
+     "Endormissement progressif ; la séance se termine sans réveil final."
+    ],
+    [
+     "reves02",
+     "Accompagnement plus long vers le sommeil, sans effort pour s’endormir."
+    ],
+    [
+     "corps01",
+     "Ramène l’attention au souffle et aux sensations physiques."
+    ],
+    [
+     "corps05",
+     "Visualisation sensorielle propice au relâchement."
+    ],
+    [
+     "corps04",
+     "Associe souffle, attention et images apaisantes."
+    ],
+    [
+     "cons02",
+     "Voyage lent avec de longues pauses de détente."
+    ],
+    [
+     "appren01",
+     "Aide à repérer et accueillir les tensions corporelles."
+    ],
+    [
+     "4minut01",
+     "Propose un lieu mental rassurant avant la nuit."
+    ],
+    [
+     "4minut02",
+     "Fait revivre une expérience positive par plusieurs sens."
+    ],
+    [
+     "4minut03",
+     "Permet de terminer la journée sur un élément apprécié."
+    ],
+    [
+     "visual04",
+     "Stabilise l’attention sur un son imaginé."
+    ],
+    [
+     "visual07",
+     "Recrée mentalement un lieu familier et apaisant."
+    ],
+    [
+     "corps02",
+     "Guide une approche douce de l’inconfort corporel."
+    ],
+    [
+     "reves01",
+     "À réserver aux personnes qui veulent explorer leurs rêves, plutôt qu’à l’endormissement rapide."
+    ]
+   ],
+   "a_venir": [],
+   "mondes": [
+    "zenGarden",
+    "himalayanMonastery",
+    "desertOasis",
+    "mushroomForest"
+   ],
+   "fonctions": [
+    [
+     "Minuteur et fondu sonore",
+     "Minuteur et fondu sonore",
+     "Lancer une ambiance sans narration et prévoir son arrêt progressif, notamment au coucher."
+    ],
+    [
+     "Sons d’ambiance",
+     "Sons d’ambiance",
+     "Associer la séance à des ambiances naturelles ou musicales (vagues, forêt, torrent, flûte…), avec volume réglable."
+    ],
+    [
+     "Voix, langues et rythme",
+     "Voix, langues et rythme",
+     "Choisir parmi le français, l’anglais et l’espagnol, deux voix par langue, une vitesse de 0,75× à 1× et des pauses adaptées."
+    ],
+    [
+     "Écoute hors ligne",
+     "Écoute hors ligne",
+     "Télécharger les contenus une première fois, puis les utiliser sans connexion ni distraction réseau."
+    ],
+    [
+     "Créateur de méditations",
+     "Créateur de méditations",
+     "Écrire une séance sur mesure ; elle peut être lue à voix haute par le téléphone, même hors ligne."
+    ],
+    [
+     "Journaux personnels",
+     "Journaux personnels",
+     "Consigner rêves, gratitude, émotions, signes et expériences spirituelles dans des carnets organisés."
+    ],
+    [
+     "Oracle émotionnel",
+     "Oracle émotionnel",
+     "Décrire son état du moment ; l’Oracle propose trois méditations adaptées à ce ressenti."
+    ]
+   ]
+  },
+  "02": {
+   "slug": "reduire-le-stress",
+   "seo": "Réduire le stress et se relaxer : l’app gratuite",
+   "desc": "Réduire le stress en moins de 5 minutes : pauses guidées, exercice de respiration et sons pour te relaxer. Gratuit, sans pub, sans compte, hors ligne.",
+   "h1": "Comment MeditaDream t’aide à réduire le stress",
+   "titre_court": "Réduire le stress",
+   "accroche": "Fais une pause, désamorce la surcharge et retrouve une attention stable, même quand tu n’as que quatre minutes.",
+   "pitch": [
+    "Ta journée déborde, ton souffle se raccourcit, et tu n’as pas une heure devant toi ? Pour réduire le stress, quatre minutes suffisent pour commencer. « Quand tout va trop vite » te ramène au regard, au sol et au souffle. « Se détendre très rapidement » relâche ton corps zone par zone en trois minutes. Une vraie méditation de 5 minutes, ou moins, à glisser n’importe où.",
+    "Après une dispute ou une mauvaise nouvelle, deux séances de 3 et 4 minutes t’aident à desserrer les crispations et à revenir aux faits. Quand tu as plus de temps, entraîne-toi : « Stabiliser l’attention sur le souffle » (13 min) est un exercice de respiration simple, sans chercher à bien respirer. Et pour te relaxer en bougeant, « La danse du Qi » (25 min) propose des gestes lents.",
+    "Tu ne sais pas quoi choisir ? Écris à l’Oracle ce que tu ressens, et il te propose trois séances adaptées. Ou tape « stress » dans la recherche. Programme un rappel quotidien pour en faire une habitude, glisse un son d’ambiance sous la voix et emporte tout hors ligne. C’est gratuit, sans abonnement ni publicité."
+   ],
+   "etapes": [
+    "Au premier signe de surcharge, ouvre la catégorie 4 Minutes et lance « Quand tout va trop vite ». Elle se pratique les yeux ouverts, au bureau comme dans le train.",
+    "Après un moment tendu, choisis « Se calmer après une dispute » (3 min) ou « Après une mauvaise nouvelle » (4 min) pour revenir à ce qui est vrai, ici et maintenant.",
+    "Le soir, prends 13 minutes pour un exercice de respiration guidé : « Stabiliser l’attention sur le souffle » ou « Respirer avec tout le corps ». Ajoute un son d’ambiance doux sous la voix, si tu veux.",
+    "Règle l’alarme de méditation sur un rappel quotidien, à l’heure où le stress monte. Quelques minutes chaque jour comptent plus qu’une longue séance de temps en temps."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour réduire le stress ?",
+     "Garde deux réflexes. Sur le moment, une séance de la catégorie 4 Minutes, comme « Quand tout va trop vite », pour souffler sans quitter ta place. Le soir, une séance plus longue pour t’entraîner, comme « Observer les pensées » (15 min), qui t’apprend à voir passer les pensées sans les suivre. Avec un rappel quotidien, ces pauses deviennent une habitude."
+    ],
+    [
+     "Comment se déstresser en 5 minutes ?",
+     "Assieds-toi, pose les pieds au sol et laisse ta respiration ralentir d’elle-même, sans la forcer. Puis relâche le front, les épaules et les mains. C’est le principe de « Se détendre très rapidement » (3 min), qui te guide du front aux pieds. Si tes pensées s’emballent, « Le refuge instantané » (4 min) t’offre un lieu rassurant où les déposer."
+    ],
+    [
+     "Quel exercice de respiration choisir quand on débute ?",
+     "Le plus simple : suivre ton souffle tel qu’il est, et y revenir chaque fois que ton attention s’échappe. Il n’y a rien à réussir. « Stabiliser l’attention sur le souffle » (13 min) t’entraîne exactement à cela, au niveau débutant. Ensuite, « La respiration lumineuse » (13 min) associe le souffle à une image de calme."
+    ]
+   ],
+   "seances": [
+    [
+     "4minut04",
+     "Ancrage par le regard, le sol et le souffle en situation de surcharge."
+    ],
+    [
+     "4minut05",
+     "Relâche les régions du corps en trois minutes."
+    ],
+    [
+     "4minut01",
+     "Offre une pause imaginaire dans un endroit rassurant."
+    ],
+    [
+     "4minut06",
+     "Aide à desserrer les crispations après un conflit."
+    ],
+    [
+     "4minut08",
+     "Ramène aux faits présents plutôt qu’aux scénarios anticipés."
+    ],
+    [
+     "appren01",
+     "Aide à identifier les tensions physiques."
+    ],
+    [
+     "appren02",
+     "Entraîne le retour volontaire de l’attention au souffle."
+    ],
+    [
+     "appren05",
+     "Apprend à observer les pensées sans les prolonger automatiquement."
+    ],
+    [
+     "appren07",
+     "Réoriente l’attention vers l’environnement immédiat."
+    ],
+    [
+     "corps01",
+     "Calme l’attention à travers les sensations respiratoires."
+    ],
+    [
+     "corps04",
+     "Associe respiration et visualisation de calme."
+    ],
+    [
+     "corps05",
+     "Fait travailler une détente sensorielle imaginaire."
+    ],
+    [
+     "cons06",
+     "Cultive une attitude intérieure plus bienveillante."
+    ],
+    [
+     "croiss01",
+     "Aide à réduire la lutte contre les émotions."
+    ],
+    [
+     "chi01",
+     "Focalise sur la perception des mains."
+    ],
+    [
+     "chi03",
+     "Travaille la posture et la stabilité."
+    ],
+    [
+     "chi04",
+     "Propose une relaxation en mouvement lent."
+    ],
+    [
+     "visual04",
+     "Fournit un support d’attention paisible."
+    ],
+    [
+     "visual07",
+     "Invite à une évasion mentale dans un endroit connu."
+    ]
+   ],
+   "a_venir": [],
+   "mondes": [
+    "zenGarden",
+    "antiqueTemple",
+    "skyIsland",
+    "himalayanMonastery",
+    "antarcticBase",
+    "atlantis"
+   ],
+   "fonctions": [
+    [
+     "Oracle émotionnel",
+     "Oracle émotionnel",
+     "Décrire son état du moment ; l’Oracle propose trois méditations adaptées à ce ressenti."
+    ],
+    [
+     "Recherche par mot-clé",
+     "Recherche par mot-clé",
+     "Retrouver rapidement une séance par besoin (sommeil, stress, peur, concentration, chakra…) dans le catalogue multilingue."
+    ],
+    [
+     "Voix, langues et rythme",
+     "Voix, langues et rythme",
+     "Choisir parmi le français, l’anglais et l’espagnol, deux voix par langue, une vitesse de 0,75× à 1× et des pauses adaptées."
+    ],
+    [
+     "Sons d’ambiance",
+     "Sons d’ambiance",
+     "Associer la séance à des ambiances naturelles ou musicales (vagues, forêt, torrent, flûte…), avec volume réglable."
+    ],
+    [
+     "Minuteur et fondu sonore",
+     "Minuteur et fondu sonore",
+     "Lancer une ambiance sans narration et prévoir son arrêt progressif, notamment au coucher."
+    ],
+    [
+     "Écoute hors ligne",
+     "Écoute hors ligne",
+     "Télécharger les contenus une première fois, puis les utiliser sans connexion ni distraction réseau."
+    ],
+    [
+     "Alarme et rappels",
+     "Alarme et rappels",
+     "Programmer un rappel quotidien ou certains jours pour favoriser une habitude régulière."
+    ]
+   ]
+  },
+  "03": {
+   "slug": "apaiser-anxiete",
+   "seo": "Calmer son anxiété : une app de méditation gratuite",
+   "desc": "Calmer son anxiété pas à pas et traverser les jours de déprime : méditations guidées, pauses de 4 minutes, journal privé. Gratuit, sans pub, sans compte.",
+   "h1": "Comment MeditaDream t’aide à calmer ton anxiété",
+   "titre_court": "Apaiser l’anxiété",
+   "accroche": "Regarde tes inquiétudes, tes peurs et ton autocritique avec plus de recul, et retrouve des appuis pour les jours difficiles.",
+   "pitch": [
+    "Le scénario catastrophe qui tourne en boucle à 3 heures du matin. Le cœur qui s’emballe pour un message sans réponse. MeditaDream ne fait pas disparaître l’anxiété d’un coup de baguette. Ses méditations pour l’anxiété t’apprennent à la regarder autrement : « Observer les pensées » (15 min) t’aide à ne plus suivre chaque inquiétude, et « Après une mauvaise nouvelle » (4 min) te ramène aux faits.",
+    "Plusieurs peurs ont leur méditation : la peur du jugement (7 min), de l’échec (10 min) ou de l’abandon (10 min). Ce sont des explorations douces, sans forcer. Pour les jours de déprime, « Développer l’amour de soi » (15 min) adoucit l’autocritique, et « Quand tu manques de motivation » (3 min) t’aide à trouver un premier geste réalisable.",
+    "Écris à l’Oracle comment tu te sens, avec tes mots : il choisit trois méditations pour ce ressenti. Le Journal Émotionnel garde la trace de ce qui revient, et la recherche te trouve une séance en un mot, comme « peur ». Rien ne quitte ton téléphone, il n’y a aucun compte à créer, et tout est gratuit."
+   ],
+   "etapes": [
+    "Quand l’inquiétude monte, ouvre l’Oracle et écris ce que tu ressens, simplement. Il te propose trois méditations : choisis celle qui t’appelle, même la plus courte.",
+    "Pour une pause immédiate, lance « Le refuge instantané » (4 min) : un lieu rassurant, réel ou inventé, où déposer tes pensées le temps de quelques respirations.",
+    "Quand tu as un peu plus de temps, entraîne-toi avec « Distinguer sensation, émotion et pensée » (14 min), pour séparer ce que tu sens de ce que tu imagines.",
+    "Après la séance, note dans l’historique ce qui a changé, même un peu. Relis tes impressions la semaine suivante : tu verras ce qui t’apaise vraiment."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour calmer son anxiété ?",
+     "Commence petit. Une pause de 4 minutes au moment où l’inquiétude monte, comme « Quand tu te sens observé ou jugé », qui sépare les faits des suppositions. Puis, quand tu es plus calme, une séance plus longue pour t’entraîner, comme « Accueillir une émotion difficile » (17 min). L’Oracle t’aide à choisir, et tes journaux restent privés sur ton téléphone."
+    ],
+    [
+     "La méditation peut-elle aider pendant une période de déprime ?",
+     "Elle peut t’offrir des moments plus doux, sans rien promettre. Quand tout pèse, choisis des séances courtes, comme « Le souvenir heureux en trois sens » (4 min) ou « Quand tu as envie de tout abandonner » (3 min), qui distingue la fatigue du moment d’une vraie décision. « Gratitude quotidienne » (14 min) t’aide aussi à remarquer ce qui va, sans nier le reste."
+    ],
+    [
+     "Que faire si une méditation fait monter une émotion trop forte ?",
+     "Arrête-toi, tout simplement. Ouvre les yeux, sens tes pieds au sol et regarde un objet autour de toi. Tu pourras reprendre plus tard, ou choisir une séance plus courte. Si ton anxiété est forte ou dure, parles-en à un proche et demande de l’aide : MeditaDream accompagne ton bien-être, mais ne remplace pas un professionnel de santé."
+    ]
+   ],
+   "seances": [
+    [
+     "ombre03",
+     "Explore la peur et ce qu’elle cherche à protéger."
+    ],
+    [
+     "ombre07",
+     "Propose des appuis intérieurs en cas d’insécurité affective."
+    ],
+    [
+     "ombre08",
+     "Distingue la valeur personnelle d’un résultat."
+    ],
+    [
+     "ombre09",
+     "Invite à relativiser le regard d’autrui."
+    ],
+    [
+     "ombre10",
+     "Propose une exploration imaginaire graduelle de l’obscurité."
+    ],
+    [
+     "4minut11",
+     "Sépare les faits des suppositions sur les autres."
+    ],
+    [
+     "4minut08",
+     "Réduit l’attention portée aux scénarios catastrophiques."
+    ],
+    [
+     "4minut01",
+     "Mobilise une représentation rassurante."
+    ],
+    [
+     "appren05",
+     "Aide à ne pas alimenter automatiquement les ruminations."
+    ],
+    [
+     "appren03",
+     "Apprend à distinguer ce qui est senti, ressenti et interprété."
+    ],
+    [
+     "appren02",
+     "Donne un point de retour à l’attention."
+    ],
+    [
+     "croiss01",
+     "Favorise une attitude moins conflictuelle envers l’émotion."
+    ],
+    [
+     "buddhi03",
+     "Explore les pensées répétitives par la sagesse symbolique."
+    ],
+    [
+     "buddhi04",
+     "Travaille symboliquement les peurs et exigences intérieures."
+    ],
+    [
+     "buddhi08",
+     "Explore différentes peurs dans un cadre symbolique."
+    ],
+    [
+     "buddhi02",
+     "Invite à répondre plus souplement aux difficultés."
+    ],
+    [
+     "croiss02",
+     "Travaille l’autocritique et la bienveillance personnelle."
+    ],
+    [
+     "cons06",
+     "Cultive une attitude chaleureuse envers soi et autrui."
+    ],
+    [
+     "buddhi05",
+     "Explore la solitude, la lassitude et la compassion."
+    ],
+    [
+     "4minut02",
+     "Fait appel à un souvenir agréable et concret."
+    ],
+    [
+     "croiss03",
+     "Porte attention à des expériences appréciées."
+    ],
+    [
+     "4minut10",
+     "Identifie un premier geste réalisable."
+    ],
+    [
+     "4minut09",
+     "Distingue le découragement du moment d’une décision durable."
+    ],
+    [
+     "corps05",
+     "Offre une détente guidée corporelle imaginaire."
+    ]
+   ],
+   "a_venir": [
+    [
+     "corps07",
+     "Donne des repères simples pour traverser une montée d’anxiété ou de panique, pas à pas."
+    ]
+   ],
+   "mondes": [
+    "skyIsland",
+    "antiqueTemple",
+    "wolfForest",
+    "zenGarden"
+   ],
+   "fonctions": [
+    [
+     "Oracle émotionnel",
+     "Oracle émotionnel",
+     "Décrire son état du moment ; l’Oracle propose trois méditations adaptées à ce ressenti."
+    ],
+    [
+     "Journaux personnels",
+     "Journaux personnels",
+     "Consigner rêves, gratitude, émotions, signes et expériences spirituelles dans des carnets organisés."
+    ],
+    [
+     "Historique et réflexions",
+     "Historique et réflexions",
+     "Retrouver les séances pratiquées et noter ses impressions dans plusieurs rubriques de réflexion."
+    ],
+    [
+     "Voix, langues et rythme",
+     "Voix, langues et rythme",
+     "Choisir parmi le français, l’anglais et l’espagnol, deux voix par langue, une vitesse de 0,75× à 1× et des pauses adaptées."
+    ],
+    [
+     "Créateur de méditations",
+     "Créateur de méditations",
+     "Écrire une séance sur mesure ; elle peut être lue à voix haute par le téléphone, même hors ligne."
+    ],
+    [
+     "Recherche par mot-clé",
+     "Recherche par mot-clé",
+     "Retrouver rapidement une séance par besoin (sommeil, stress, peur, concentration, chakra…) dans le catalogue multilingue."
+    ],
+    [
+     "Respect de la vie privée",
+     "Respect de la vie privée",
+     "Utiliser l’application sans compte ; les journaux et données personnelles restent sur le téléphone."
+    ]
+   ]
+  },
+  "04": {
+   "slug": "detente-du-corps",
+   "seo": "Détente du corps : relaxation et body scan, app gratuite",
+   "desc": "Détente du corps et bien-être : body scan, relaxation guidée, respiration et qi gong en douceur. Gratuit, sans pub, sans compte, même hors ligne.",
+   "h1": "Comment MeditaDream t’aide à la détente du corps",
+   "titre_court": "Détente du corps",
+   "accroche": "Respire, relâche tes tensions et réapprends à écouter ton corps, une région après l’autre.",
+   "pitch": [
+    "Des épaules qui remontent vers les oreilles, une mâchoire serrée, un dos qui tire en fin de journée : ton corps te parle, mais tu n’as pas le temps de l’écouter. MeditaDream t’offre ce temps : la détente du corps commence par l’écoute. « Le balayage corporel » (17 min), le body scan des débutants, parcourt ton corps région par région, pour sentir avant de vouloir changer.",
+    "Envie d’une vraie relaxation ? « Le corps sous une cascade » (15 min) te place sous une eau imaginaire, filet après filet, et « Se détendre très rapidement » relâche tout, du front aux pieds, en 3 minutes. Si tu préfères bouger, le qi gong t’attend : « L’arbre immobile » (23 min) travaille la posture, « La danse du Qi » (25 min) les gestes lents.",
+    "Les leçons illustrées de la Bibliothèque t’expliquent la posture et le souffle. L’historique garde tes impressions après chaque séance, et l’alarme te rappelle ton rendez-vous de bien-être. Glisse un son d’ambiance sous la voix, choisis ton rythme : tout est gratuit, sans abonnement ni publicité, et fonctionne même hors ligne."
+   ],
+   "etapes": [
+    "Commence par « Le balayage corporel » (17 min), allongé ou assis. Il t’apprend à repérer les zones tendues sans chercher à les corriger tout de suite.",
+    "Les jours chargés, relâche-toi en 3 minutes avec « Se détendre très rapidement », du front jusqu’aux pieds, entre deux tâches ou juste avant de dormir.",
+    "Une fois par semaine, essaie une séance de qi gong, comme « Les mains qui chauffent » (20 min), pour sentir ton corps autrement, par les paumes et la posture.",
+    "Après chaque séance, note dans l’historique ce que tu as senti. Programme ensuite un rappel régulier : le bien-être du corps se construit par petites touches."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour la détente du corps ?",
+     "Alterne trois formats. Un body scan pour apprendre à sentir, avec « Le balayage corporel ». Une relaxation imagée pour relâcher, comme « Le corps sous une cascade ». Et du qi gong pour bouger lentement, comme « La danse du Qi ». Ajoute un son d’ambiance, règle la vitesse de la voix, et garde tes impressions dans l’historique."
+    ],
+    [
+     "C’est quoi un body scan, et comment le pratiquer ?",
+     "Le body scan, ou balayage corporel, consiste à promener ton attention dans le corps, région par région. Tu observes les sensations telles qu’elles sont : chaleur, poids ou tension. Pas besoin de les changer. Allonge-toi ou assieds-toi confortablement, puis laisse-toi guider par « Le balayage corporel » (17 min), une séance de niveau débutant."
+    ],
+    [
+     "MeditaDream peut-il aider quand une zone du corps fait mal ?",
+     "Tu peux essayer « Respirer autour d’une zone sensible » (15 min) : la séance part d’une région neutre, puis approche l’inconfort en douceur, sans forcer. C’est une pratique de bien-être, et MeditaDream ne remplace pas un professionnel de santé. Si une douleur dure, revient souvent ou t’inquiète, consulte-en un."
+    ]
+   ],
+   "seances": [
+    [
+     "appren01",
+     "Développe l’attention aux sensations physiques."
+    ],
+    [
+     "corps01",
+     "Relie souffle et perception corporelle."
+    ],
+    [
+     "corps02",
+     "Explore l’inconfort en douceur et sans forcer."
+    ],
+    [
+     "4minut05",
+     "Relâche progressivement les tensions."
+    ],
+    [
+     "corps05",
+     "Propose une relaxation corporelle imaginaire."
+    ],
+    [
+     "corps04",
+     "Associe attention respiratoire et image mentale."
+    ],
+    [
+     "chakra01",
+     "Parcourt symboliquement différentes régions du corps."
+    ],
+    [
+     "chakra02",
+     "Explore l’axe du corps par une image traditionnelle."
+    ],
+    [
+     "cons02",
+     "Propose un parcours lent de relaxation."
+    ],
+    [
+     "corpsc01",
+     "Explore les sensations corporelles subtiles."
+    ],
+    [
+     "chi01",
+     "Oriente l’attention vers les paumes."
+    ],
+    [
+     "chi02",
+     "Suit une boucle attentionnelle traditionnelle du Qi Gong."
+    ],
+    [
+     "chi03",
+     "Travaille posture et ancrage."
+    ],
+    [
+     "chi04",
+     "Combine attention et mouvements lents."
+    ],
+    [
+     "appren07",
+     "Affûte l’attention sensorielle."
+    ],
+    [
+     "appren06",
+     "Invite à manger plus attentivement."
+    ]
+   ],
+   "a_venir": [
+    [
+     "corps06",
+     "Approche la douleur avec une attention douce, à la recherche d’un peu plus de confort."
+    ]
+   ],
+   "mondes": [
+    "earthCore",
+    "zenGarden",
+    "antarcticBase"
+   ],
+   "fonctions": [
+    [
+     "Sons d’ambiance",
+     "Sons d’ambiance",
+     "Associer la séance à des ambiances naturelles ou musicales (vagues, forêt, torrent, flûte…), avec volume réglable."
+    ],
+    [
+     "Minuteur et fondu sonore",
+     "Minuteur et fondu sonore",
+     "Lancer une ambiance sans narration et prévoir son arrêt progressif, notamment au coucher."
+    ],
+    [
+     "Voix, langues et rythme",
+     "Voix, langues et rythme",
+     "Choisir parmi le français, l’anglais et l’espagnol, deux voix par langue, une vitesse de 0,75× à 1× et des pauses adaptées."
+    ],
+    [
+     "Historique et réflexions",
+     "Historique et réflexions",
+     "Retrouver les séances pratiquées et noter ses impressions dans plusieurs rubriques de réflexion."
+    ],
+    [
+     "Alarme et rappels",
+     "Alarme et rappels",
+     "Programmer un rappel quotidien ou certains jours pour favoriser une habitude régulière."
+    ],
+    [
+     "Bibliothèque pédagogique",
+     "Bibliothèque pédagogique",
+     "Consulter des leçons illustrées sur posture, souffle, attention et apprentissage progressif."
+    ]
+   ]
+  },
+  "05": {
+   "slug": "gerer-ses-emotions",
+   "seo": "Application pour gérer ses émotions : méditations gratuites",
+   "desc": "Gérer ses émotions sans les fuir : méditations guidées, enfant intérieur, gratitude et journal émotionnel privé. Gratuit, sans pub, sans compte, hors ligne.",
+   "h1": "Comment MeditaDream t’aide à gérer tes émotions",
+   "titre_court": "Gérer ses émotions",
+   "accroche": "Comprends tes réactions, cultive la gratitude et la compassion, et fais la paix avec toi-même, une émotion à la fois.",
+   "pitch": [
+    "La colère qui explose pour un détail. La tristesse qui arrive sans prévenir. La gestion des émotions ne s’apprend pas dans un livre : elle se pratique. MeditaDream t’y entraîne avec des séances concrètes. « Accueillir une émotion difficile » (17 min) t’apprend à regarder une émotion avec curiosité, et à voir qu’elle n’est jamais tout à fait fixe.",
+    "Va plus loin quand tu es prêt. « Sérénité de l’Enfant Intérieur » (19 min) t’aide à renouer avec ton enfant intérieur, par le jeu et la sécurité. « Travail de l’Ombre » (17 min) t’aide à comprendre ce qu’une réaction cherche à protéger. Et les jours où tu manques de douceur, « Développer l’amour de soi » ou « Gratitude quotidienne » remettent un peu de lumière.",
+    "Écris à l’Oracle « je suis en colère » ou « je me sens seul » : il te propose trois méditations pour ce moment. Le Journal Émotionnel t’aide ensuite à noter ce que tu ressens, pourquoi, et comment avancer avec. Tout reste sur ton téléphone, sans compte, et l’application est gratuite, sans publicité."
+   ],
+   "etapes": [
+    "Sur le moment, lance une séance de 3 minutes : « Se calmer après une dispute » t’aide à desserrer ce qui s’est crispé et à prendre un peu de recul.",
+    "Le soir, ouvre le Journal Émotionnel : note l’émotion du jour, ce qui l’a déclenchée et ce que tu en fais. Mettre des mots, c’est déjà prendre du recul.",
+    "Une ou deux fois par semaine, prends 15 à 20 minutes pour une séance de fond : « Accueillir une émotion difficile », « Se libérer de la comparaison » ou « Ho’oponopono du Cœur ».",
+    "Programme un rappel à l’heure qui te convient, puis relis ton historique chaque mois : tu verras quelles émotions reviennent, et lesquelles s’apaisent."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour gérer ses émotions ?",
+     "Utilise trois outils ensemble. L’Oracle, pour trouver la bonne séance quand une émotion te submerge. Les méditations de Croissance émotionnelle et d’Ombre & Bien-être, pour t’entraîner à accueillir ce que tu ressens. Et le Journal Émotionnel, pour mettre des mots et voir ton chemin. Commence par « Accueillir une émotion difficile » (17 min)."
+    ],
+    [
+     "Comment reconnaître son enfant intérieur ?",
+     "L’enfant intérieur est une image : la part de toi qui garde les besoins de l’enfance, comme la sécurité, le jeu ou la tendresse. Tu le reconnais souvent à des réactions plus fortes que la situation. « Sérénité de l’Enfant Intérieur » (19 min) t’invite à le retrouver par le jeu et la sécurité, à ton rythme, sans rien forcer."
+    ],
+    [
+     "Faut-il se débarrasser de ses émotions négatives ?",
+     "Non. Une émotion n’est pas une erreur : elle signale souvent un besoin, et lutter contre elle la fait parfois durer. La méditation t’apprend plutôt à lui faire de la place, puis à choisir ta réponse. « Les onze visages d’Avalokiteśvara » (22 min) explore justement plusieurs façons de répondre : avec douceur, avec fermeté ou par le silence."
+    ]
+   ],
+   "seances": [
+    [
+     "croiss01",
+     "Apprend à faire une place à l’émotion."
+    ],
+    [
+     "croiss02",
+     "Cultive une attitude moins autocritique."
+    ],
+    [
+     "croiss03",
+     "Reconnaît des éléments positifs concrets."
+    ],
+    [
+     "croiss04",
+     "Explore l’affection et les liens."
+    ],
+    [
+     "croiss05",
+     "Réfléchit au ressentiment, sans obligation de pardonner."
+    ],
+    [
+     "croiss06",
+     "Réduit l’emprise des comparaisons sociales."
+    ],
+    [
+     "croiss07",
+     "Imagine une évolution personnelle réaliste."
+    ],
+    [
+     "cons06",
+     "Développe la bienveillance."
+    ],
+    [
+     "ombre01",
+     "Utilise des phrases répétées pour une réflexion apaisée."
+    ],
+    [
+     "ombre04",
+     "Sépare erreur et identité personnelle."
+    ],
+    [
+     "ombre05",
+     "Explore les besoins symboliques de sécurité affective."
+    ],
+    [
+     "ombre06",
+     "Aide à considérer des réactions que l’on évite."
+    ],
+    [
+     "ombre02",
+     "Met en scène une réponse différente aux difficultés."
+    ],
+    [
+     "4minut06",
+     "Permet de se distancier d’une réaction à chaud."
+    ],
+    [
+     "4minut02",
+     "Réactive un souvenir positif."
+    ],
+    [
+     "4minut03",
+     "Porte attention à un détail apprécié."
+    ],
+    [
+     "guides01",
+     "Exprime de la reconnaissance envers les figures importantes."
+    ],
+    [
+     "savoir02",
+     "Invite à explorer des paroles non exprimées."
+    ],
+    [
+     "buddhi02",
+     "Travaille la souplesse émotionnelle et la compassion."
+    ],
+    [
+     "consci04",
+     "Propose une exploration imaginaire des souvenirs."
+    ]
+   ],
+   "a_venir": [],
+   "mondes": [
+    "wolfForest",
+    "treeOfConsciousness",
+    "celestialLibrary"
+   ],
+   "fonctions": [
+    [
+     "Journaux personnels",
+     "Journaux personnels",
+     "Consigner rêves, gratitude, émotions, signes et expériences spirituelles dans des carnets organisés."
+    ],
+    [
+     "Oracle émotionnel",
+     "Oracle émotionnel",
+     "Décrire son état du moment ; l’Oracle propose trois méditations adaptées à ce ressenti."
+    ],
+    [
+     "Historique et réflexions",
+     "Historique et réflexions",
+     "Retrouver les séances pratiquées et noter ses impressions dans plusieurs rubriques de réflexion."
+    ],
+    [
+     "Créateur de méditations",
+     "Créateur de méditations",
+     "Écrire une séance sur mesure ; elle peut être lue à voix haute par le téléphone, même hors ligne."
+    ],
+    [
+     "Respect de la vie privée",
+     "Respect de la vie privée",
+     "Utiliser l’application sans compte ; les journaux et données personnelles restent sur le téléphone."
+    ],
+    [
+     "Alarme et rappels",
+     "Alarme et rappels",
+     "Programmer un rappel quotidien ou certains jours pour favoriser une habitude régulière."
+    ]
+   ]
+  },
+  "06": {
+   "slug": "developpement-spirituel",
+   "seo": "Développement spirituel : l’app gratuite pour t’éveiller",
+   "desc": "Éveil spirituel et développement spirituel : chakras, troisième œil, guides et lieux sacrés en méditations guidées. Gratuit, sans pub, hors ligne.",
+   "h1": "Comment MeditaDream t’aide sur le chemin de l’éveil spirituel",
+   "titre_court": "Éveil spirituel",
+   "accroche": "Explore les symboles, les traditions et les grandes questions de sens, au fil d’expériences intérieures que tu gardes pour toi.",
+   "pitch": [
+    "Tu sens qu’il existe autre chose que la routine, sans savoir par où commencer ? MeditaDream t’ouvre des portes, sans dogme ni gourou. Commence par les chakras : « La reconnaissance des sept chakras » (27 min) t’apprend à situer chaque centre, avant toute couleur ou interprétation. Le troisième œil viendra ensuite, avec cinq séances avancées, comme « L’œil intérieur s’éveille » (22 min).",
+    "Ton développement spirituel peut aussi passer par les grandes traditions. Assieds-toi « Sous l’arbre de la Bodhi » (17 min), reçois la chaleur d’un guide avec « Le guide de lumière » (24 min), ou relis ton chemin avec « Le contrat de mon âme » (19 min). Les mondes immersifs, comme L’Arbre de Conscience ou Le Temple Cosmique, prolongent le voyage.",
+    "Ce que tu vis mérite d’être gardé. Le carnet des guides note les figures rencontrées et leurs messages, ta collection garde les objets symboliques rapportés de tes voyages, et ton sanctuaire personnel t’attend quand tu veux revenir. Chaque séance laisse un tampon dans ton passeport zen. Tout est gratuit, sans compte, et reste sur ton téléphone."
+   ],
+   "etapes": [
+    "Pose les bases avec « La reconnaissance des sept chakras » (27 min), puis « L’alignement des sept chakras » (30 min), pour connaître la carte avant de l’explorer.",
+    "Choisis une voie qui t’attire : un lieu sacré avec « Au centre de Stonehenge » (13 min), le bouddhisme avec « Le voyage de Sudhana » (30 min), le chamanisme avec « La quête de vision » (30 min).",
+    "Après chaque voyage, note dans le carnet des guides les figures rencontrées, et range dans ta collection les objets symboliques reçus, avec leur sens pour toi.",
+    "Quand tu te sens prêt, aborde le troisième œil avec « Le troisième œil et les deux yeux » (26 min), puis les séances avancées de Cosmique & Vide."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour son éveil spirituel ?",
+     "Avance par étapes. Commence par les chakras, pour connaître leur carte traditionnelle. Explore ensuite une tradition qui te parle : lieux sacrés, guides spirituels ou bouddhisme. Garde le troisième œil et la catégorie Cosmique & Vide pour plus tard, car ces séances sont avancées. Note tes expériences dans le journal « Expériences Spirituelles » pour suivre ton chemin."
+    ],
+    [
+     "Quels sont les signes d’un éveil spirituel ?",
+     "Il n’existe pas de liste officielle. Beaucoup de traditions évoquent un besoin de silence, une attention plus grande au sens des choses et davantage de compassion. Le plus utile est d’observer sans conclure trop vite. Le journal « Signes & Synchronicités » t’aide à noter les coïncidences et les rencontres qui te frappent, puis à les relire avec le recul."
+    ],
+    [
+     "Les chakras et le troisième œil, est-ce scientifique ?",
+     "Non : ce sont des notions traditionnelles, venues du yoga et du tantra, pas des données de la science. MeditaDream les utilise comme des supports d’attention et d’imagination. Tu n’as pas besoin d’y croire pour en profiter. « La reconnaissance des sept chakras » t’invite d’abord à sentir chaque région du corps, avant toute couleur ou interprétation."
+    ]
+   ],
+   "seances": [
+    [
+     "chakra01",
+     "Découvre la cartographie traditionnelle des sept centres."
+    ],
+    [
+     "chakra02",
+     "Explore l’alignement symbolique des centres."
+    ],
+    [
+     "cons02",
+     "Parcourt les chakras dans une méditation lente."
+    ],
+    [
+     "corpsc01",
+     "Explore les sensations associées au corps énergétique."
+    ],
+    [
+     "corps04",
+     "Associe souffle et images de lumière."
+    ],
+    [
+     "corpsc04",
+     "Utilise des formes imaginaires comme support d’attention."
+    ],
+    [
+     "cosmiq02",
+     "Explore l’image d’une conscience étendue."
+    ],
+    [
+     "guides01",
+     "Reconnaît l’influence de personnes ou figures importantes."
+    ],
+    [
+     "guides02",
+     "Explore plusieurs perspectives symboliques."
+    ],
+    [
+     "guides03",
+     "Représente intérieurement une figure de guidance."
+    ],
+    [
+     "guides04",
+     "Crée des repères symboliques personnels."
+    ],
+    [
+     "guides05",
+     "Propose une descente imaginaire vers un espace sacré."
+    ],
+    [
+     "savoir01",
+     "Explore l’imaginaire des annales akashiques."
+    ],
+    [
+     "savoir02",
+     "Travaille symboliquement la mémoire des liens."
+    ],
+    [
+     "trance05",
+     "Interroge valeurs, intentions et trajectoire personnelle."
+    ],
+    [
+     "trance04",
+     "Explore symboliquement le rapport aux époques et aux transmissions."
+    ],
+    [
+     "lieux01",
+     "Évoque le lieu associé à l’éveil bouddhique."
+    ],
+    [
+     "lieux02",
+     "Invite à contempler un paysage de tradition asiatique."
+    ],
+    [
+     "lieux03",
+     "Immersion contemplative d’inspiration taoïste."
+    ],
+    [
+     "lieux04",
+     "Contemplation du vent, de l’océan et de la stabilité."
+    ],
+    [
+     "lieux05",
+     "Explore une ambiance rituelle ancienne."
+    ],
+    [
+     "lieux06",
+     "Médite sur le silence et la lumière."
+    ],
+    [
+     "lieux07",
+     "Émerveillement devant des lumières imaginées."
+    ],
+    [
+     "cosmiq01",
+     "Interroge les frontières entre soi et environnement."
+    ],
+    [
+     "consci01",
+     "Explore symboliquement l’immensité du savoir."
+    ],
+    [
+     "consci06",
+     "Observe l’espace entre deux pensées."
+    ],
+    [
+     "3emeoe01",
+     "Déplace l’attention de l’extérieur vers l’intérieur."
+    ],
+    [
+     "3emeoe02",
+     "Développe la représentation d’images mentales."
+    ],
+    [
+     "3emeoe03",
+     "Observe les images spontanées."
+    ],
+    [
+     "3emeoe04",
+     "Explore la symbolique du troisième œil."
+    ],
+    [
+     "3emeoe05",
+     "Contemple l’apparition spontanée de formes."
+    ],
+    [
+     "buddhi01",
+     "Évoque l’apprentissage auprès de figures de sagesse."
+    ],
+    [
+     "buddhi02",
+     "Explore compassion et discernement."
+    ],
+    [
+     "buddhi07",
+     "Réfléchit à son évolution intérieure."
+    ],
+    [
+     "buddhi06",
+     "Explore des engagements éthiques."
+    ],
+    [
+     "shaman01",
+     "Voyage imaginaire inspiré de traditions chamaniques."
+    ],
+    [
+     "shaman02",
+     "Explore la présence symbolique d’ancêtres."
+    ],
+    [
+     "shaman03",
+     "Construit un espace symbolique rassurant."
+    ],
+    [
+     "shaman04",
+     "Rapporte une qualité personnelle incarnée dans un objet imaginaire."
+    ]
+   ],
+   "a_venir": [
+    [
+     "tradi03",
+     "Exerce la compassion au rythme du souffle, en accueillant la peine et en offrant de la douceur."
+    ],
+    [
+     "tradi04",
+     "Pose trois questions simples sur ses liens, pour voir plus justement ce que l’on reçoit et ce que l’on donne."
+    ],
+    [
+     "tradi05",
+     "Relie la vie intérieure à la nature par une marche attentive, tous les sens en éveil."
+    ],
+    [
+     "tradi08",
+     "Ouvre un temps de silence intérieur, dans l’esprit de la prière contemplative chrétienne."
+    ],
+    [
+     "tradi09",
+     "Invite à une prière libre et personnelle, avec ses propres mots, selon la tradition hassidique."
+    ],
+    [
+     "tradi10",
+     "Fait le bilan de la journée avec la sagesse des stoïciens, sans s’accabler."
+    ]
+   ],
+   "mondes": [
+    "treeOfConsciousness",
+    "cosmicTemple",
+    "celestialLibrary",
+    "mirrorDimension",
+    "jungleRuins"
+   ],
+   "fonctions": [
+    [
+     "Carnet des guides",
+     "Carnet des guides",
+     "Décrire les figures de guides rencontrées, leurs messages et leurs réapparitions."
+    ],
+    [
+     "Collection d’objets symboliques",
+     "Collection d’objets symboliques",
+     "Conserver les objets imaginés ou rencontrés durant les voyages intérieurs avec leur signification."
+    ],
+    [
+     "Sanctuaires personnels",
+     "Sanctuaires personnels",
+     "Créer des lieux intérieurs avec décor, nom et ambiance, et définir un sanctuaire favori."
+    ],
+    [
+     "Journaux personnels",
+     "Journaux personnels",
+     "Consigner rêves, gratitude, émotions, signes et expériences spirituelles dans des carnets organisés."
+    ],
+    [
+     "Mondes immersifs",
+     "Mondes immersifs",
+     "Choisir parmi 17 environnements narratifs qui favorisent l’imagination et l’évasion."
+    ],
+    [
+     "Passeport zen et progression",
+     "Passeport zen et progression",
+     "Suivre des badges, tampons, points et étapes de pratique sans achat nécessaire."
+    ],
+    [
+     "Créateur de méditations",
+     "Créateur de méditations",
+     "Écrire une séance sur mesure ; elle peut être lue à voix haute par le téléphone, même hors ligne."
+    ]
+   ]
+  },
+  "07": {
+   "slug": "transe-chamanisme-voyage-astral",
+   "seo": "Application de transe chamanique et voyage astral, gratuite",
+   "desc": "Transe chamanique au son du tambour, voyage astral, micro-détachement : plus de 30 séances guidées pour explorer ta conscience. Gratuit, sans pub, hors ligne.",
+   "h1": "Comment MeditaDream t’aide à explorer la transe chamanique et le voyage astral",
+   "titre_court": "Transe, voyage astral",
+   "accroche": "Explore la transe, ton imaginaire et la sensation de quitter ton corps, pas à pas et à ton rythme.",
+   "pitch": [
+    "Le tambour qui bat, un animal qui ouvre le chemin, un monde d’en bas qui s’éclaire : la transe chamanique n’est pas réservée aux initiés. « Voyage au monde d’en bas » (30 min) te fait suivre un animal au son du tambour, et « La quête de vision » (30 min) t’apprend à attendre ce qui doit être vu. Aucune substance : ton souffle, ton attention, ton imagination.",
+    "Le voyage astral, lui, se prépare comme un entraînement. Les cinq exercices de Micro-Détachement, comme « L’aimant au plafond » (17 min), t’apprennent les premières sensations. Viennent ensuite les protocoles de Voyage Astral, comme « Astral · La Corde » (29 min). Et « Astral · Cible à vérifier » (19 min) te propose de confronter tes perceptions à une vérification.",
+    "Le chamanisme et les voyages intérieurs laissent des traces : le carnet des guides garde les présences rencontrées, ta collection d’objets symboliques ce que tu en rapportes. Ajoute un son d’ambiance sous la voix, choisis ta voix et ton rythme, puis écoute hors ligne, sans être dérangé. Le tout gratuitement, sans abonnement ni publicité."
+   ],
+   "etapes": [
+    "Commence par une séance de niveau intermédiaire, comme « La spirale aux 33 niveaux » (24 min) : le rythme du compte te porte vers un état d’absorption, sans rien forcer.",
+    "Côté chamanisme, trace d’abord « Le cercle de protection » (23 min), puis pars pour « La quête de vision » (30 min). Note ensuite dans le carnet des guides ce que tu as rencontré.",
+    "Pour le voyage astral, fais d’abord les cinq séances de Micro-Détachement, de « L’aimant au plafond » à « S’asseoir fantôme », avant les longs protocoles de Voyage Astral.",
+    "Installe-toi allongé, au calme, avec un casque si possible. Passe en mode avion : les séances téléchargées fonctionnent hors ligne, sans rien pour te tirer de ta transe."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour la transe chamanique et le voyage astral ?",
+     "Suis une progression. Commence par les séances de Conscience & Transe, de niveau intermédiaire, puis découvre la Transe Chamanique. Pour le voyage astral, prépare-toi avec le Micro-Détachement avant les protocoles de Voyage Astral, plus longs et avancés. Écoute allongé, au calme, et note tes perceptions dans ton journal juste après la séance."
+    ],
+    [
+     "Le voyage astral est-il réel ?",
+     "Aucune preuve scientifique ne le confirme. MeditaDream le présente comme une expérience ressentie : une sensation de flotter ou de quitter ton corps, que tu explores par l’attention et l’imagination. Pour garder les pieds sur terre, « Astral · Cible à vérifier » (19 min) te fait noter ce que tu perçois d’une cible, puis la vérifier, sans rien corriger après."
+    ],
+    [
+     "La transe chamanique est-elle dangereuse ?",
+     "Les voyages de MeditaDream sont des visualisations guidées : tu restes conscient et tu peux t’arrêter à tout moment en ouvrant les yeux. Ils ne demandent aucune substance. Écoute-les allongé ou assis, jamais en conduisant. Si tu traverses une période fragile, préfère des séances plus douces, comme « Le cercle de protection », qui construit un espace intérieur rassurant."
+    ]
+   ],
+   "seances": [
+    [
+     "consci02",
+     "Explore les sensations du seuil du sommeil."
+    ],
+    [
+     "consci03",
+     "Travaille l’absorption par comptage progressif."
+    ],
+    [
+     "consci01",
+     "Explore un vaste environnement mental."
+    ],
+    [
+     "consci04",
+     "Traverse des souvenirs et images imaginaires."
+    ],
+    [
+     "consci05",
+     "Laisse évoluer un récit intérieur."
+    ],
+    [
+     "consci06",
+     "Observe les intervalles entre pensées."
+    ],
+    [
+     "consci07",
+     "Explore une version future imaginaire de soi."
+    ],
+    [
+     "trance01",
+     "Guide une descente attentionnelle par paliers."
+    ],
+    [
+     "trance02",
+     "Exploration imaginaire chamanique descendante."
+    ],
+    [
+     "trance03",
+     "Exploration imaginaire chamanique ascendante."
+    ],
+    [
+     "trance04",
+     "Voyage symbolique entre époques et transmissions."
+    ],
+    [
+     "trance05",
+     "Interroge symboliquement son chemin de vie."
+    ],
+    [
+     "trance06",
+     "Explore plusieurs lieux et époques imaginaires."
+    ],
+    [
+     "trance07",
+     "Imagine des ressources personnelles sous forme symbolique."
+    ],
+    [
+     "shaman01",
+     "Explore les images spontanées et l’attente intérieure."
+    ],
+    [
+     "shaman02",
+     "Méditation autour de figures ancestrales imaginaires."
+    ],
+    [
+     "shaman03",
+     "Construit un espace intérieur de sécurité symbolique."
+    ],
+    [
+     "shaman04",
+     "Choisit un objet imaginaire représentant une intention."
+    ],
+    [
+     "microd01",
+     "Explore une sensation d’attraction verticale imaginée."
+    ],
+    [
+     "microd02",
+     "Imagine un déplacement du contour corporel."
+    ],
+    [
+     "microd03",
+     "Change mentalement de point d’observation."
+    ],
+    [
+     "microd04",
+     "Explore des sensations de glissement imaginées."
+    ],
+    [
+     "microd05",
+     "Simule mentalement un redressement."
+    ],
+    [
+     "corps03",
+     "Visualise un double imaginaire quittant la position initiale."
+    ],
+    [
+     "astr01",
+     "Explore une sensation de flottement."
+    ],
+    [
+     "astr02",
+     "Explore un redressement imaginaire."
+    ],
+    [
+     "astr03",
+     "Explore le mouvement de membres imaginaires."
+    ],
+    [
+     "astr04",
+     "Confronte une perception subjective à une vérification ultérieure."
+    ],
+    [
+     "astr05",
+     "Explore symboliquement une présence ressentie."
+    ],
+    [
+     "astr06",
+     "Travaille des déplacements imaginés."
+    ],
+    [
+     "astr07",
+     "Explore images et champ visuel mental."
+    ],
+    [
+     "astr08",
+     "Imagine son corps depuis un autre point de vue."
+    ],
+    [
+     "cons03",
+     "Utilise l’image d’une corde pour une ascension imaginaire."
+    ],
+    [
+     "cons04",
+     "Explore une sensation de chute simulée."
+    ],
+    [
+     "cons05",
+     "Projette mentalement l’attention vers une destination."
+    ]
+   ],
+   "a_venir": [],
+   "mondes": [
+    "cosmicTemple",
+    "celestialLibrary",
+    "mirrorDimension"
+   ],
+   "fonctions": [
+    [
+     "Sons d’ambiance",
+     "Sons d’ambiance",
+     "Associer la séance à des ambiances naturelles ou musicales (vagues, forêt, torrent, flûte…), avec volume réglable."
+    ],
+    [
+     "Mondes immersifs",
+     "Mondes immersifs",
+     "Choisir parmi 17 environnements narratifs qui favorisent l’imagination et l’évasion."
+    ],
+    [
+     "Sanctuaires personnels",
+     "Sanctuaires personnels",
+     "Créer des lieux intérieurs avec décor, nom et ambiance, et définir un sanctuaire favori."
+    ],
+    [
+     "Carnet des guides",
+     "Carnet des guides",
+     "Décrire les figures de guides rencontrées, leurs messages et leurs réapparitions."
+    ],
+    [
+     "Collection d’objets symboliques",
+     "Collection d’objets symboliques",
+     "Conserver les objets imaginés ou rencontrés durant les voyages intérieurs avec leur signification."
+    ],
+    [
+     "Voix, langues et rythme",
+     "Voix, langues et rythme",
+     "Choisir parmi le français, l’anglais et l’espagnol, deux voix par langue, une vitesse de 0,75× à 1× et des pauses adaptées."
+    ],
+    [
+     "Écoute hors ligne",
+     "Écoute hors ligne",
+     "Télécharger les contenus une première fois, puis les utiliser sans connexion ni distraction réseau."
+    ]
+   ]
+  },
+  "08": {
+   "slug": "apprendre-a-mediter",
+   "seo": "Application pour apprendre à méditer, gratuite et sans pub",
+   "desc": "Apprendre à méditer pas à pas : méditation pour débutants, leçons illustrées, rappels et un dragon qui grandit avec toi. Gratuit, sans pub, sans compte.",
+   "h1": "Comment MeditaDream t’aide à apprendre à méditer",
+   "titre_court": "Apprendre à méditer",
+   "accroche": "Comprends les bases, pratique un peu chaque jour et gagne en autonomie, à ton rythme et sans rien payer.",
+   "pitch": [
+    "Tu as déjà essayé de méditer, et ta tête a fait la liste des courses au bout de trente secondes ? Rassure-toi : c’est normal, et ça s’apprend. MeditaDream commence par l’essentiel. « Première méditation silencieuse » (5 min) te fait découvrir de vrais silences. Puis la catégorie Apprentissage t’entraîne, séance après séance : le souffle, les pensées, les cinq sens.",
+    "Chaque méditation pour débutants répond à une question précise : comment revenir au souffle sans te juger, comment voir passer les pensées, comment rester présent les yeux ouverts. Les leçons illustrées de la Bibliothèque complètent la pratique : posture, souffle, attention. Et quand tu sais ce qu’il te faut, la recherche te trouve une séance en un mot.",
+    "Le plus dur, c’est la régularité. Programme un rappel quotidien, et regarde ton dragon compagnon grandir avec tes minutes de méditation, sur son île qui change avec lui. Tu choisis ta voix et ta vitesse, de 0,75× à 1×. C’est une application de méditation gratuite pour de vrai : sans abonnement, sans publicité, sans compte."
+   ],
+   "etapes": [
+    "Jour 1 : installe-toi assis, le dos droit sans raideur, et lance « Première méditation silencieuse » (5 min). Tu découvres que le silence fait partie de la pratique.",
+    "Première semaine : écoute une séance d’Apprentissage par jour, en commençant par « Stabiliser l’attention sur le souffle » (13 min), puis « Observer les pensées » (15 min).",
+    "Entre deux séances, ouvre la Bibliothèque : ses leçons illustrées t’expliquent la posture, le souffle et l’attention, en quelques minutes de lecture.",
+    "Règle l’alarme sur un rappel quotidien et note tes impressions dans l’historique. Ton dragon grandit avec chaque minute : l’œuf éclot après tes 10 premières minutes."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour apprendre à méditer ?",
+     "Commence par les séances de la catégorie Apprentissage, toutes de niveau débutant, dans l’ordre qui te parle. Écoute-en une par jour, assis ou allongé. Lis les leçons illustrées de la Bibliothèque pour comprendre la posture et le souffle. Puis élargis peu à peu aux pauses de la catégorie 4 Minutes et aux séances de Visualisation."
+    ],
+    [
+     "Comment méditer quand on est débutant ?",
+     "Assieds-toi confortablement, le dos droit sans raideur. Ferme les yeux ou baisse le regard. Pose ton attention sur ta respiration, sans la modifier. Quand une pensée t’emporte, remarque-le et reviens au souffle, gentiment. C’est tout. Commence par 5 minutes avec « Première méditation silencieuse », puis allonge la durée quand tu en as envie."
+    ],
+    [
+     "Est-ce grave si je pense à autre chose pendant la méditation ?",
+     "Pas du tout : c’est même là que la méditation commence. Ton esprit va s’échapper des dizaines de fois, et chaque retour au souffle compte comme une répétition réussie. « Observer les pensées » (15 min) t’apprend à les voir arriver, à les nommer et à les laisser repartir, comme des trains en gare."
+    ]
+   ],
+   "seances": [
+    [
+     "appren01",
+     "Découvre l’attention aux sensations."
+    ],
+    [
+     "appren02",
+     "Apprend à revenir au souffle sans se juger."
+    ],
+    [
+     "appren03",
+     "Apprend à distinguer trois dimensions de l’expérience."
+    ],
+    [
+     "appren04",
+     "Apprend à rester présent dans la vie ordinaire."
+    ],
+    [
+     "appren05",
+     "Apprend à constater les distractions."
+    ],
+    [
+     "appren06",
+     "Applique l’attention à un geste quotidien."
+    ],
+    [
+     "appren07",
+     "Travaille l’attention sensorielle."
+    ],
+    [
+     "learnFirstSilence",
+     "Découvre une séance avec de vrais silences."
+    ],
+    [
+     "4minut05",
+     "Débute par une relaxation courte."
+    ],
+    [
+     "4minut01",
+     "S’initie à la visualisation d’un lieu sûr."
+    ],
+    [
+     "corps01",
+     "Approfondit les sensations liées à la respiration."
+    ],
+    [
+     "chi01",
+     "Découvre l’attention tactile."
+    ],
+    [
+     "visual02",
+     "Entraîne l’imagination visuelle dynamique."
+    ],
+    [
+     "visual04",
+     "Découvre l’imagination auditive."
+    ],
+    [
+     "visual03",
+     "Explore les sensations tactiles imaginées."
+    ],
+    [
+     "corpsc04",
+     "Stabilise les formes mentales."
+    ]
+   ],
+   "a_venir": [
+    [
+     "appren08",
+     "Explique simplement ce qu’est l’attention, puis la fait pratiquer, pour une toute première séance."
+    ]
+   ],
+   "mondes": [
+    "zenGarden",
+    "antiqueTemple",
+    "himalayanMonastery"
+   ],
+   "fonctions": [
+    [
+     "Bibliothèque pédagogique",
+     "Bibliothèque pédagogique",
+     "Consulter des leçons illustrées sur posture, souffle, attention et apprentissage progressif."
+    ],
+    [
+     "Catalogue multithématique",
+     "Catalogue multithématique",
+     "Naviguer entre 19 catégories et plusieurs niveaux, des séances express aux parcours avancés."
+    ],
+    [
+     "Recherche par mot-clé",
+     "Recherche par mot-clé",
+     "Retrouver rapidement une séance par besoin (sommeil, stress, peur, concentration, chakra…) dans le catalogue multilingue."
+    ],
+    [
+     "Voix, langues et rythme",
+     "Voix, langues et rythme",
+     "Choisir parmi le français, l’anglais et l’espagnol, deux voix par langue, une vitesse de 0,75× à 1× et des pauses adaptées."
+    ],
+    [
+     "Historique et réflexions",
+     "Historique et réflexions",
+     "Retrouver les séances pratiquées et noter ses impressions dans plusieurs rubriques de réflexion."
+    ],
+    [
+     "Alarme et rappels",
+     "Alarme et rappels",
+     "Programmer un rappel quotidien ou certains jours pour favoriser une habitude régulière."
+    ],
+    [
+     "Dragon compagnon et île évolutive",
+     "Dragon compagnon et île évolutive",
+     "Voir évoluer le dragon et son île selon la régularité de la pratique, sans compétition."
+    ]
+   ]
+  },
+  "09": {
+   "slug": "bouddhisme-et-qi-gong",
+   "seo": "Bouddhisme et qi gong : l’app de méditation gratuite",
+   "desc": "Méditation bouddhiste avec Tārā, Mañjuśrī ou Avalokiteśvara, qi gong guidé pas à pas, lieux sacrés et mondes zen. Gratuit, sans pub, sans compte.",
+   "h1": "Comment MeditaDream t’aide à découvrir la méditation bouddhiste et le qi gong",
+   "titre_court": "Bouddhisme et qi gong",
+   "accroche": "Explore la sagesse, la compassion et l’attention du bouddhisme, puis les gestes lents du qi gong chinois.",
+   "pitch": [
+    "Pas besoin de partir dans un monastère pour découvrir la méditation bouddhiste. MeditaDream te fait voyager avec les grandes figures du bouddhisme : Tārā, qui montre la sortie de huit grands dangers, Mañjuśrī, dont l’épée tranche les pensées qui tournent en boucle, et Avalokiteśvara aux onze visages. Huit séances de 20 à 30 minutes, guidées en français, à pratiquer chez toi.",
+    "Le qi gong, lui, passe par le corps. « Les mains qui chauffent » (20 min) t’apprend à sentir une chaleur entre les paumes, « L’arbre immobile » (23 min) à tenir debout sans forcer, « La danse du Qi » (25 min) à bouger lentement. Prolonge le voyage « Sous l’arbre de la Bodhi » (17 min) ou dans « Le sanctuaire taoïste dans les montagnes » (15 min).",
+    "La Bibliothèque t’apprend la posture et le souffle en leçons illustrées. Les mondes du Jardin Zen et du Monastère à l’Aube t’emmènent dans des décors de sagesse, chacun avec son ambiance. Garde tes prises de conscience dans ton journal spirituel. Tout est gratuit, sans abonnement, et fonctionne hors ligne une fois téléchargé."
+   ],
+   "etapes": [
+    "Commence par « L’épée de Mañjuśrī » (20 min) : une méditation bouddhiste claire, qui t’apprend à lire les phrases qui tournent en boucle sans les combattre.",
+    "Pour le qi gong, lance « Les mains qui chauffent » (20 min). Quand la sensation vient, passe à « L’arbre immobile », puis à « La petite circulation ».",
+    "Une fois par semaine, change de décor avec Le Monastère à l’Aube (18 min) ou Le Jardin Zen (18 min), deux mondes immersifs aux ambiances apaisantes.",
+    "Après chaque séance, note dans ton journal spirituel ce qui t’a marqué : un geste, une phrase, une figure. C’est ainsi que la pratique devient la tienne."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour découvrir la méditation bouddhiste et le qi gong ?",
+     "Alterne les deux. Les méditations bouddhistes nourrissent l’esprit : compassion, courage, lucidité. Le qi gong réveille le corps par la posture et des gestes lents. Par exemple, « Le lion de Mañjuśrī » (20 min) un soir, « La danse du Qi » (25 min) un matin. Les leçons de la Bibliothèque t’aident pour la posture et le souffle."
+    ],
+    [
+     "Faut-il être bouddhiste pour pratiquer ces méditations ?",
+     "Non. Les figures du bouddhisme y sont des symboles : Kṣitigarbha pour la compassion dans les moments sombres, Samantabhadra pour l’engagement, Maitreya pour celui que tu deviens. Tu n’as rien à croire ni à promettre. Prends ce qui t’aide et laisse le reste. Le qi gong, de son côté, ne demande aucune croyance, seulement un peu d’attention."
+    ],
+    [
+     "Quelle différence entre méditation bouddhiste, vipassana et qi gong ?",
+     "La vipassana, « vision claire » en pali, consiste à observer les sensations qui changent, dans la tradition theravāda. Les méditations bouddhistes de MeditaDream sont des voyages guidés auprès des grandes figures du bouddhisme mahāyāna. Le qi gong, enfin, vient de Chine : il relie le souffle, la posture et des gestes lents, comme dans « L’arbre immobile » (23 min)."
+    ]
+   ],
+   "seances": [
+    [
+     "buddhi01",
+     "Évoque l’apprentissage et l’ouverture à différents enseignements."
+    ],
+    [
+     "buddhi02",
+     "Explore compassion et discernement."
+    ],
+    [
+     "buddhi03",
+     "Travaille la lucidité face aux pensées répétitives."
+    ],
+    [
+     "buddhi04",
+     "Explore le courage face à la peur."
+    ],
+    [
+     "buddhi05",
+     "Invite à la compassion dans les moments difficiles."
+    ],
+    [
+     "buddhi06",
+     "Interroge l’engagement éthique."
+    ],
+    [
+     "buddhi07",
+     "Réfléchit au chemin de transformation."
+    ],
+    [
+     "buddhi08",
+     "Travaille symboliquement la peur et le courage."
+    ],
+    [
+     "chi01",
+     "Découvre l’attention et les sensations dans les paumes."
+    ],
+    [
+     "chi02",
+     "Suit un parcours attentionnel traditionnel du Qi Gong."
+    ],
+    [
+     "chi03",
+     "Exerce une posture stable et détendue."
+    ],
+    [
+     "chi04",
+     "Relie souffle et gestes lents."
+    ],
+    [
+     "lieux01",
+     "Explore un symbole majeur de l’éveil bouddhique."
+    ],
+    [
+     "lieux03",
+     "S’immerge dans un imaginaire taoïste."
+    ],
+    [
+     "cosmiq01",
+     "Explore une notion contemplative plus avancée."
+    ]
+   ],
+   "a_venir": [
+    [
+     "tradi01",
+     "Initie à la vipassana : observer les sensations du corps et les voir changer, sans s’y accrocher."
+    ],
+    [
+     "tradi02",
+     "Stabilise une attention claire et calme, base de la méditation tibétaine."
+    ],
+    [
+     "tradi03",
+     "Fait découvrir le tonglen, la pratique tibétaine qui unit compassion et respiration."
+    ],
+    [
+     "tradi06",
+     "Fait découvrir le zen coréen : rester avec une question vivante, sans chercher de réponse toute faite."
+    ],
+    [
+     "tradi07",
+     "Porte une attention bienveillante au corps, dans l’esprit taoïste qui a aussi nourri le qi gong."
+    ]
+   ],
+   "mondes": [
+    "zenGarden",
+    "himalayanMonastery",
+    "treeOfConsciousness"
+   ],
+   "fonctions": [
+    [
+     "Bibliothèque pédagogique",
+     "Bibliothèque pédagogique",
+     "Consulter des leçons illustrées sur posture, souffle, attention et apprentissage progressif."
+    ],
+    [
+     "Catalogue multithématique",
+     "Catalogue multithématique",
+     "Naviguer entre 19 catégories et plusieurs niveaux, des séances express aux parcours avancés."
+    ],
+    [
+     "Mondes immersifs",
+     "Mondes immersifs",
+     "Choisir parmi 17 environnements narratifs qui favorisent l’imagination et l’évasion."
+    ],
+    [
+     "Sons d’ambiance",
+     "Sons d’ambiance",
+     "Associer la séance à des ambiances naturelles ou musicales (vagues, forêt, torrent, flûte…), avec volume réglable."
+    ],
+    [
+     "Journaux personnels",
+     "Journaux personnels",
+     "Consigner rêves, gratitude, émotions, signes et expériences spirituelles dans des carnets organisés."
+    ],
+    [
+     "Créateur de méditations",
+     "Créateur de méditations",
+     "Écrire une séance sur mesure ; elle peut être lue à voix haute par le téléphone, même hors ligne."
+    ]
+   ]
+  },
+  "10": {
+   "slug": "concentration-et-creativite",
+   "seo": "Concentration et créativité : l’app de méditation gratuite",
+   "desc": "Entraîne ta concentration par la pleine conscience et ta créativité par la visualisation, en séances guidées. Gratuit, sans pub, sans compte, hors ligne.",
+   "h1": "Comment MeditaDream t’aide à entraîner ta concentration et ta créativité",
+   "titre_court": "Mieux se concentrer",
+   "accroche": "Entraîne ton attention et la précision de ton imaginaire, comme on entraîne un muscle, à ton rythme.",
+   "pitch": [
+    "Trois onglets ouverts, une notification, et ton idée s’envole. La concentration n’est pas un don : elle s’entraîne, comme un muscle. MeditaDream t’y aide avec des exercices de pleine conscience simples. « Stabiliser l’attention sur le souffle » (13 min) t’apprend à revenir au même point, encore et encore. « Méditer avec les yeux ouverts » (12 min) t’entraîne au milieu du bruit.",
+    "Pour la créativité, change de terrain. « Déblocage créatif » (26 min) fait taire le juge intérieur et laisse venir les idées, même imparfaites. Les séances de Visualisation entraînent ton imaginaire sens après sens : suivre un papillon des yeux, sentir le poids d’une clé, entendre un bol qui approche. Puis « La planète inconnue » (17 min) réveille ta curiosité.",
+    "La Bibliothèque t’explique l’attention en leçons illustrées. Note dans l’historique les idées qui surgissent après une séance. Tu peux aussi écrire tes propres méditations, pour préparer un examen ou un projet : une voix de ton téléphone te les lit, même hors ligne. Et tout cela reste gratuit, sans publicité."
+   ],
+   "etapes": [
+    "Chaque matin, prends 13 minutes pour « Stabiliser l’attention sur le souffle ». À chaque retour au souffle, tu entraînes ta concentration.",
+    "Dans la journée, essaie « La conscience des cinq sens » (19 min) : ouvrir tes cinq sens un à un affûte ton observation.",
+    "Avant un projet, lance « Déblocage créatif » (26 min) pour faire taire le juge intérieur. Note aussitôt dans l’historique les idées venues, même imparfaites.",
+    "Une fois par semaine, entraîne ton imaginaire avec une visualisation : « Toucher — La clé dans la main » (17 min), puis « Les trois sens réunis — Sommet d’un volcan » (29 min)."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour entraîner sa concentration ?",
+     "Pratique un peu chaque jour, plutôt que longtemps de temps en temps. Commence par « Stabiliser l’attention sur le souffle » (13 min), puis « Observer les pensées » (15 min), qui t’apprend à repérer les distractions. Quand ton attention tient mieux, passe aux visualisations et à « Géométrie sacrée » (26 min), qui stabilise des formes simples en imagination."
+    ],
+    [
+     "C’est quoi, pratiquer la pleine conscience ?",
+     "C’est porter ton attention sur le moment présent, volontairement et sans juger. Tu peux la pratiquer assis, mais aussi en marchant ou en mangeant. Dans MeditaDream, « Méditer avec les yeux ouverts » (12 min) t’apprend à rester présent au milieu d’une pièce ou d’une rue, et « La conscience des cinq sens » (19 min) ouvre tes sens un à un."
+    ],
+    [
+     "La méditation peut-elle rendre plus créatif ?",
+     "Elle ne garantit pas l’inspiration, mais elle aide souvent à faire de la place aux idées. Le premier frein est le jugement : « Déblocage créatif » t’apprend à le mettre de côté. « Le rêve éveillé dirigé » (20 min) laisse les images changer l’histoire, un bon terrain pour des associations inattendues. Note tout ce qui vient, juste après."
+    ]
+   ],
+   "seances": [
+    [
+     "appren02",
+     "Entraîne le retour à un même objet d’attention."
+    ],
+    [
+     "appren05",
+     "Apprend à reconnaître les distractions."
+    ],
+    [
+     "appren07",
+     "Travaille la précision de l’observation."
+    ],
+    [
+     "appren04",
+     "Entraîne l’attention au milieu des stimuli."
+    ],
+    [
+     "corpsc02",
+     "Invite à suspendre le jugement intérieur."
+    ],
+    [
+     "corpsc04",
+     "Travaille la construction et la stabilité de formes mentales."
+    ],
+    [
+     "visual02",
+     "Suit un mouvement imaginaire complexe."
+    ],
+    [
+     "visual03",
+     "Entraîne l’imagerie tactile."
+    ],
+    [
+     "visual04",
+     "Entraîne l’attention auditive imaginée."
+    ],
+    [
+     "visual05",
+     "Combine vue, ouïe et toucher en imagination."
+    ],
+    [
+     "visual06",
+     "Travaille l’imagerie spatiale."
+    ],
+    [
+     "visual07",
+     "Mobilise les souvenirs d’un espace familier."
+    ],
+    [
+     "3emeoe02",
+     "Apprend à manipuler des images mentales."
+    ],
+    [
+     "3emeoe05",
+     "Explore des formes mentales spontanées."
+    ],
+    [
+     "miniav02",
+     "Nourrit curiosité et exploration imaginaire."
+    ],
+    [
+     "consci05",
+     "Stimule des associations créatives."
+    ]
+   ],
+   "a_venir": [],
+   "mondes": [
+    "celestialLibrary",
+    "mirrorDimension",
+    "antarcticBase"
+   ],
+   "fonctions": [
+    [
+     "Catalogue multithématique",
+     "Catalogue multithématique",
+     "Naviguer entre 19 catégories et plusieurs niveaux, des séances express aux parcours avancés."
+    ],
+    [
+     "Bibliothèque pédagogique",
+     "Bibliothèque pédagogique",
+     "Consulter des leçons illustrées sur posture, souffle, attention et apprentissage progressif."
+    ],
+    [
+     "Voix, langues et rythme",
+     "Voix, langues et rythme",
+     "Choisir parmi le français, l’anglais et l’espagnol, deux voix par langue, une vitesse de 0,75× à 1× et des pauses adaptées."
+    ],
+    [
+     "Créateur de méditations",
+     "Créateur de méditations",
+     "Écrire une séance sur mesure ; elle peut être lue à voix haute par le téléphone, même hors ligne."
+    ],
+    [
+     "Historique et réflexions",
+     "Historique et réflexions",
+     "Retrouver les séances pratiquées et noter ses impressions dans plusieurs rubriques de réflexion."
+    ],
+    [
+     "Mondes immersifs",
+     "Mondes immersifs",
+     "Choisir parmi 17 environnements narratifs qui favorisent l’imagination et l’évasion."
+    ]
+   ]
+  },
+  "11": {
+   "slug": "confiance-en-soi",
+   "seo": "Confiance en soi et motivation : l’app gratuite",
+   "desc": "Confiance en soi, estime de soi, motivation : des méditations de 3 à 26 minutes pour oser, avancer et te parler avec douceur. Gratuit, sans pub, sans compte.",
+   "h1": "Comment MeditaDream t’aide à développer ta confiance en soi",
+   "titre_court": "Confiance en soi",
+   "accroche": "Sois plus doux avec toi-même et transforme tes intentions en premiers pas concrets.",
+   "pitch": [
+    "Cette petite voix qui te dit que tu n’y arriveras pas, tu la connais par cœur. MeditaDream t’apprend à lui répondre. Avant un entretien ou un examen, « Retrouver confiance avant une épreuve » (4 min) sépare ce qui dépend de toi de ce qui t’échappe, et te rappelle un geste déjà réussi. Quatre minutes pour repartir la tête haute.",
+    "La confiance en soi se construit aussi sur la durée. « La peur de l’échec » (10 min) sépare « j’ai échoué » de « je suis un échec ». « Se libérer de la comparaison » (13 min) t’aide à cesser de te mesurer aux autres, et « Développer l’amour de soi » (15 min) nourrit ton estime de soi à partir de qualités bien réelles.",
+    "Côté motivation, « Quand tu manques de motivation » (3 min) ne garde que le premier geste concret. Tes progrès deviennent ensuite visibles : ton dragon grandit avec tes minutes de méditation, ton passeport zen se remplit de tampons, l’alarme te rappelle ton rendez-vous. Et l’Oracle t’aide les jours de doute. Tout est gratuit, sans compte."
+   ],
+   "etapes": [
+    "Avant chaque épreuve, ouvre la catégorie 4 Minutes et lance « Retrouver confiance avant une épreuve ». Tu peux l’écouter n’importe où, même juste avant d’entrer.",
+    "Une fois par semaine, prends un quart d’heure pour une séance de fond : « La peur de l’échec », « La peur du jugement » ou « Se Pardonner à Soi-Même ».",
+    "Quand tu procrastines, lance « Quand tu manques de motivation » (3 min), puis fais le premier geste aussitôt. Note-le dans la rubrique « Micro-victoires » du journal Gratitude & Croissance.",
+    "Règle un rappel quotidien et regarde ton passeport zen se remplir de tampons. Chaque minute fait aussi grandir ton dragon : la preuve visible que tu tiens tes engagements."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour développer sa confiance en soi ?",
+     "Combine trois choses. Des pauses de 4 minutes avant les moments qui comptent, comme « Retrouver confiance avant une épreuve ». Des séances plus longues pour le fond, comme « La peur de l’échec » ou « Développer l’amour de soi ». Et des traces de tes progrès dans le journal Gratitude & Croissance, rubrique « Évolution, confiance & estime de soi »."
+    ],
+    [
+     "Quelle différence entre confiance en soi et estime de soi ?",
+     "La confiance en soi, c’est croire en ce que tu peux faire. L’estime de soi, c’est la valeur que tu te donnes, même quand tu échoues. On peut être sûr de soi au travail et se juger durement. « Se Pardonner à Soi-Même » (17 min) t’aide à séparer une erreur de ce que tu vaux."
+    ],
+    [
+     "Comment retrouver la motivation quand on n’a envie de rien ?",
+     "Ne cherche pas l’envie d’abord : elle vient souvent après le premier geste. « Quand tu manques de motivation » (3 min) t’aide à oublier le projet entier pour garder un seul pas concret. Si tu as envie de tout lâcher, « Quand tu as envie de tout abandonner » (3 min) distingue la fatigue du moment d’une vraie décision."
+    ]
+   ],
+   "seances": [
+    [
+     "4minut07",
+     "Sépare ce qui dépend de soi de ce qui échappe au contrôle."
+    ],
+    [
+     "4minut10",
+     "Choisit un premier geste concret."
+    ],
+    [
+     "4minut09",
+     "Distingue l’épuisement momentané d’une décision."
+    ],
+    [
+     "4minut11",
+     "Questionne les suppositions concernant les autres."
+    ],
+    [
+     "croiss02",
+     "Renforce la bienveillance personnelle."
+    ],
+    [
+     "croiss06",
+     "Prend de la distance avec les comparaisons."
+    ],
+    [
+     "croiss07",
+     "Imagine une progression personnelle."
+    ],
+    [
+     "ombre08",
+     "Distingue une erreur de sa valeur personnelle."
+    ],
+    [
+     "ombre09",
+     "Explore l’appréhension du regard d’autrui."
+    ],
+    [
+     "ombre04",
+     "Invite à faire de la place à l’apprentissage après une erreur."
+    ],
+    [
+     "ombre06",
+     "Interroge des réactions et mécanismes intérieurs."
+    ],
+    [
+     "consci07",
+     "Relie aspirations et décision concrète."
+    ],
+    [
+     "trance07",
+     "Explore symboliquement ses ressources."
+    ],
+    [
+     "miniav01",
+     "Revisite des décisions et étapes de vie."
+    ],
+    [
+     "guides02",
+     "Permet de regarder un problème sous plusieurs angles."
+    ],
+    [
+     "buddhi07",
+     "Invite à réfléchir à son évolution."
+    ]
+   ],
+   "a_venir": [
+    [
+     "croiss08",
+     "Aide à trancher une décision pas à pas, pour passer de l’hésitation au premier geste."
+    ],
+    [
+     "croiss09",
+     "Appuie la confiance en soi sur des preuves concrètes et de petits actes."
+    ]
+   ],
+   "mondes": [
+    "earthCore",
+    "antiqueTemple",
+    "skyIsland"
+   ],
+   "fonctions": [
+    [
+     "Oracle émotionnel",
+     "Oracle émotionnel",
+     "Décrire son état du moment ; l’Oracle propose trois méditations adaptées à ce ressenti."
+    ],
+    [
+     "Journaux personnels",
+     "Journaux personnels",
+     "Consigner rêves, gratitude, émotions, signes et expériences spirituelles dans des carnets organisés."
+    ],
+    [
+     "Historique et réflexions",
+     "Historique et réflexions",
+     "Retrouver les séances pratiquées et noter ses impressions dans plusieurs rubriques de réflexion."
+    ],
+    [
+     "Dragon compagnon et île évolutive",
+     "Dragon compagnon et île évolutive",
+     "Voir évoluer le dragon et son île selon la régularité de la pratique, sans compétition."
+    ],
+    [
+     "Passeport zen et progression",
+     "Passeport zen et progression",
+     "Suivre des badges, tampons, points et étapes de pratique sans achat nécessaire."
+    ],
+    [
+     "Alarme et rappels",
+     "Alarme et rappels",
+     "Programmer un rappel quotidien ou certains jours pour favoriser une habitude régulière."
+    ],
+    [
+     "Créateur de méditations",
+     "Créateur de méditations",
+     "Écrire une séance sur mesure ; elle peut être lue à voix haute par le téléphone, même hors ligne."
+    ]
+   ]
+  },
+  "12": {
+   "slug": "reves-lucides",
+   "seo": "Application rêve lucide : journal de rêves et méditation",
+   "desc": "Rêve lucide : prépare tes nuits avec des méditations guidées, explore le seuil du sommeil et tiens ton journal de rêves. Gratuit, sans pub, hors ligne.",
+   "h1": "Comment MeditaDream t’aide à t’entraîner au rêve lucide",
+   "titre_court": "Rêves lucides",
+   "accroche": "Explore les images du seuil du sommeil et apprends à reconnaître que tu rêves, une nuit après l’autre.",
+   "pitch": [
+    "Et si, cette nuit, tu te rendais compte que tu rêves ? Le rêve lucide ne se commande pas, mais il se prépare. MeditaDream t’accompagne au moment clé : le coucher. « Préparation au rêve lucide » (23 min) entraîne ton esprit à reconnaître qu’il rêve, pour t’éveiller dans le rêve. Elle s’écoute au lit, lumière éteinte.",
+    "Pour explorer la frontière entre veille et sommeil, « Corps endormi, esprit éveillé » (24 min) t’apprend à observer ton corps qui s’endort pendant que l’attention reste là. « L’image qui apparaît seule » (23 min) t’habitue aux images spontanées, et « Le rêve éveillé dirigé » (20 min) les laisse changer l’histoire. Les mondes de La Forêt des Rêves et de L’Oasis du Désert prolongent le voyage.",
+    "Au réveil, tout se joue en quelques secondes. Ouvre le Journal des Rêves avant de te lever : description, symboles, rêves récurrents. Ton journal de rêves reste sur ton téléphone, sans compte. Ajoute un son d’ambiance doux pour t’endormir et écoute hors ligne, sans notification. Le tout est gratuit, en français et sans abonnement."
+   ],
+   "etapes": [
+    "Chaque soir au lit, lance « Préparation au rêve lucide » (23 min). Elle installe l’intention de reconnaître le rêve, juste avant de t’endormir.",
+    "Garde ton téléphone près du lit. Au réveil, avant de bouger, note ton rêve dans le Journal des Rêves, même un fragment : un lieu, un visage, une émotion.",
+    "Chaque semaine, relis la rubrique « Rêves récurrents » : les lieux et les situations qui reviennent deviennent des repères pour te rendre compte, la nuit, que tu rêves.",
+    "Le week-end, explore le seuil du sommeil avec « Corps endormi, esprit éveillé » (24 min) ou « La spirale aux 33 niveaux » (24 min), quand tu as du temps."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour faire des rêves lucides ?",
+     "Associe une séance du soir et un journal du matin. Le soir, « Préparation au rêve lucide » (23 min) installe l’intention de reconnaître le rêve. Le matin, le Journal des Rêves garde ce dont tu te souviens. Peu à peu, tu repères les signes qui reviennent. MeditaDream ne garantit aucun rêve lucide, mais il t’aide à t’y préparer."
+    ],
+    [
+     "Pourquoi tenir un journal de rêves aide-t-il au rêve lucide ?",
+     "Noter tes rêves t’aide à mieux t’en souvenir, et c’est le premier pas. Tu remarques ensuite ce qui revient : un lieu, une personne, une situation. Ces signes deviennent des repères : la nuit, ils peuvent t’alerter que tu rêves. Le Journal des Rêves a une rubrique pour les rêves récurrents, et une autre pour leurs symboles."
+    ],
+    [
+     "Combien de temps faut-il pour faire un premier rêve lucide ?",
+     "Personne ne peut le prévoir. Certaines personnes y arrivent en quelques semaines, d’autres bien plus tard, d’autres rarement. La régularité compte plus que l’effort : une séance le soir, un journal chaque matin. Ne te mets pas de pression, car vouloir trop fort peut te tenir éveillé. Et profite des rêves ordinaires : ils ont beaucoup à raconter."
+    ]
+   ],
+   "seances": [
+    [
+     "reves01",
+     "Cultive l’intention de reconnaître que l’on rêve."
+    ],
+    [
+     "consci02",
+     "Observe les sensations du seuil entre éveil et sommeil."
+    ],
+    [
+     "consci05",
+     "Explore des images et scènes spontanées."
+    ],
+    [
+     "3emeoe03",
+     "Observe les images mentales non sollicitées."
+    ],
+    [
+     "consci03",
+     "Explore une absorption proche du sommeil."
+    ],
+    [
+     "corpsc03",
+     "Accompagne l’endormissement sans chercher la lucidité."
+    ],
+    [
+     "reves02",
+     "Facilite la transition vers le sommeil."
+    ]
+   ],
+   "a_venir": [],
+   "mondes": [
+    "mushroomForest",
+    "desertOasis"
+   ],
+   "fonctions": [
+    [
+     "Journaux personnels",
+     "Journaux personnels",
+     "Consigner rêves, gratitude, émotions, signes et expériences spirituelles dans des carnets organisés."
+    ],
+    [
+     "Voix, langues et rythme",
+     "Voix, langues et rythme",
+     "Choisir parmi le français, l’anglais et l’espagnol, deux voix par langue, une vitesse de 0,75× à 1× et des pauses adaptées."
+    ],
+    [
+     "Sons d’ambiance",
+     "Sons d’ambiance",
+     "Associer la séance à des ambiances naturelles ou musicales (vagues, forêt, torrent, flûte…), avec volume réglable."
+    ],
+    [
+     "Historique et réflexions",
+     "Historique et réflexions",
+     "Retrouver les séances pratiquées et noter ses impressions dans plusieurs rubriques de réflexion."
+    ],
+    [
+     "Écoute hors ligne",
+     "Écoute hors ligne",
+     "Télécharger les contenus une première fois, puis les utiliser sans connexion ni distraction réseau."
+    ]
+   ]
+  },
+  "13": {
+   "slug": "deuil-pardon-lacher-prise",
+   "seo": "Méditation lâcher-prise : pardon et deuil, app gratuite",
+   "desc": "Méditation pour lâcher prise, pardonner sans oublier ou traverser un deuil, à ton rythme : séances guidées et journal privé. Gratuit, sans pub, sans compte.",
+   "h1": "Comment MeditaDream t’aide à lâcher prise, pardonner et traverser un deuil",
+   "titre_court": "Deuil et lâcher-prise",
+   "accroche": "Un espace à toi pour traverser une perte, un changement ou une blessure, à ton rythme.",
+   "pitch": [
+    "Il y a les mots qu’on n’a pas eu le temps de dire. Les rancunes qui pèsent plus lourd que la faute. Les changements qu’on n’a pas choisis. MeditaDream ne te demande pas d’aller mieux vite. « Le jardin des retrouvailles » (25 min) t’aide à dire les mots restés en suspens, et « Mon animal parti » (25 min) te relie à un compagnon disparu.",
+    "Le pardon n’est pas une obligation. « Pardonner sans oublier » (15 min) t’aide à explorer ce que pardonner pourrait vouloir dire, puis à décider toi-même. « Se Pardonner à Soi-Même » (17 min) regarde une erreur en face sans t’accabler. Pour lâcher prise, enfin, « La Forêt des Ronces » (21 min) t’apprend à cesser de lutter contre ce qui accroche.",
+    "Confie à l’Oracle ce que tu traverses : il te suggère trois méditations et des conseils pour la journée. Garde tes pensées dans ton journal, crée un sanctuaire intérieur où revenir, choisis une voix et un rythme lents. Rien de ce que tu écris ne quitte ton téléphone, et l’application reste gratuite, sans compte ni publicité."
+   ],
+   "etapes": [
+    "Quand la peine est vive, commence court : « Méditation de compassion » (7 min) t’invite à envoyer des souhaits de paix, à toi d’abord, puis aux autres.",
+    "Quand tu es prêt, choisis la séance qui correspond à ta perte : « Le jardin des retrouvailles » pour une personne, « Mon animal parti » pour un animal.",
+    "Crée ton sanctuaire personnel : un lieu intérieur avec son décor, son nom et son ambiance. Fais-en ton sanctuaire favori, pour y revenir les jours difficiles.",
+    "Après chaque séance, note dans ton journal ce qui s’est dit ou dénoué. Relis-le plus tard : tu verras le chemin parcouru, même s’il est lent."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour lâcher prise ?",
+     "Une méditation pour lâcher prise ne te demande pas de tout accepter, mais d’arrêter de lutter contre ce que tu ne peux pas changer. Commence par « Accueillir une émotion difficile » (17 min), pour reconnaître la tristesse ou la colère. Puis essaie « La Forêt des Ronces » (21 min) ou « Ho’oponopono du Cœur » (15 min), qui répète quatre phrases au rythme du souffle."
+    ],
+    [
+     "La méditation peut-elle aider à traverser un deuil ?",
+     "Elle peut t’offrir un espace pour te souvenir, ressentir et dire ce qui n’a pas été dit, à ton rythme, et tu peux arrêter une séance à tout moment. Mais MeditaDream ne remplace ni la présence de tes proches, ni un professionnel de santé. Si la peine t’écrase ou dure, parles-en à quelqu’un de confiance."
+    ],
+    [
+     "Faut-il pardonner pour pouvoir avancer ?",
+     "Non. Pardonner peut aider, mais ce n’est jamais une obligation, ni un oubli. « Pardonner sans oublier » (15 min) te laisse décider : déposer, ou garder, en gardant ce que tu as appris. Parfois, le premier pardon est celui qu’on s’accorde : « Se Pardonner à Soi-Même » (17 min) t’aide à cesser de t’accabler."
+    ]
+   ],
+   "seances": [
+    [
+     "savoir03",
+     "Invite au souvenir d’un animal disparu."
+    ],
+    [
+     "savoir02",
+     "Explore des paroles restées inexprimées."
+    ],
+    [
+     "guides01",
+     "Exprime de la reconnaissance envers des figures importantes."
+    ],
+    [
+     "croiss05",
+     "Examine le ressentiment sans imposer le pardon."
+    ],
+    [
+     "ombre04",
+     "Travaille le rapport à la culpabilité."
+    ],
+    [
+     "ombre01",
+     "Utilise la répétition comme support d’introspection."
+    ],
+    [
+     "ombre02",
+     "Explore la manière de faire face à un obstacle."
+    ],
+    [
+     "croiss01",
+     "Permet de reconnaître tristesse et colère."
+    ],
+    [
+     "consci04",
+     "Ouvre un espace symbolique aux souvenirs."
+    ],
+    [
+     "buddhi05",
+     "Travaille l’idée de compassion face à la souffrance."
+    ],
+    [
+     "ombre07",
+     "Explore les besoins de sécurité affective."
+    ],
+    [
+     "cons06",
+     "Cultive une attitude bienveillante."
+    ]
+   ],
+   "a_venir": [],
+   "mondes": [
+    "antiqueTemple",
+    "wolfForest",
+    "skyIsland"
+   ],
+   "fonctions": [
+    [
+     "Journaux personnels",
+     "Journaux personnels",
+     "Consigner rêves, gratitude, émotions, signes et expériences spirituelles dans des carnets organisés."
+    ],
+    [
+     "Historique et réflexions",
+     "Historique et réflexions",
+     "Retrouver les séances pratiquées et noter ses impressions dans plusieurs rubriques de réflexion."
+    ],
+    [
+     "Oracle émotionnel",
+     "Oracle émotionnel",
+     "Décrire son état du moment ; l’Oracle propose trois méditations adaptées à ce ressenti."
+    ],
+    [
+     "Sanctuaires personnels",
+     "Sanctuaires personnels",
+     "Créer des lieux intérieurs avec décor, nom et ambiance, et définir un sanctuaire favori."
+    ],
+    [
+     "Voix, langues et rythme",
+     "Voix, langues et rythme",
+     "Choisir parmi le français, l’anglais et l’espagnol, deux voix par langue, une vitesse de 0,75× à 1× et des pauses adaptées."
+    ],
+    [
+     "Respect de la vie privée",
+     "Respect de la vie privée",
+     "Utiliser l’application sans compte ; les journaux et données personnelles restent sur le téléphone."
+    ]
+   ]
+  },
+  "14": {
+   "slug": "evasion-mondes-immersifs",
+   "seo": "Voyage intérieur : une app gratuite pour t’évader",
+   "desc": "Méditation immersive et voyage intérieur : 17 mondes, de l’Atlantide à la galaxie, et des aventures à Versailles ou Kyoto. Gratuit, sans pub, hors ligne.",
+   "h1": "Comment MeditaDream t’aide à t’évader par la méditation immersive",
+   "titre_court": "Mondes immersifs",
+   "accroche": "Change d’univers en fermant les yeux : des décors à imaginer, des sons qui t’enveloppent et un vrai moment de contemplation.",
+   "pitch": [
+    "Ferme les yeux. Tu descends dans une mer chaude où tu respires sans effort, et un hippocampe doré t’emmène vers une cité de nacre. Ou tu montes dans un train de lumière, entre les anneaux de Saturne. Voici les 17 mondes immersifs de MeditaDream : de vraies histoires de 13 à 20 minutes, chacune avec ses sons et sa lumière.",
+    "Envie d’un voyage intérieur plus long ? Les mini-aventures t’emmènent ailleurs dans le temps : « Versailles — Une journée en 1700 » (30 min), à la cour du Roi-Soleil, ou « Japon — Sur la route de Kyoto en 1600 » (34 min), tous tes sens en éveil. « La planète inconnue » (17 min) et « Le train des souvenirs » (23 min) jouent avec ta curiosité et ta mémoire.",
+    "Prolonge la visualisation après le voyage : crée ton propre sanctuaire, avec son décor, son nom et son ambiance, et garde dans ta collection les objets symboliques reçus en route. Ton dragon grandit à chaque minute. Choisis ta voix et ton rythme, puis pars hors ligne, même en avion. C’est gratuit, sans abonnement, sans publicité."
+   ],
+   "etapes": [
+    "Choisis un monde selon ton humeur : Le Jardin Zen pour le calme, La Forêt des Rêves pour l’émerveillement, Le Cœur de la Terre pour l’ancrage.",
+    "Installe-toi confortablement, avec un casque si tu peux : chaque monde a sa propre ambiance sonore, et le casque t’y plonge davantage.",
+    "Le week-end, offre-toi une mini-aventure plus longue, comme « Japon — Sur la route de Kyoto en 1600 » (34 min), pour un vrai voyage intérieur.",
+    "Après le voyage, crée un sanctuaire inspiré de ce que tu as vu, et range dans ta collection l’objet symbolique que tu en rapportes, avec son sens pour toi."
+   ],
+   "faq": [
+    [
+     "Comment utiliser MeditaDream pour s’évader avec la méditation immersive ?",
+     "Ouvre les mondes immersifs et choisis-en un selon ton envie du moment : calme, mystère ou émerveillement. Chaque voyage dure de 13 à 20 minutes, avec sa propre ambiance sonore. Pour aller plus loin, essaie les mini-aventures, jusqu’à 34 minutes. Après le voyage, crée ton sanctuaire et garde tes objets symboliques, pour revenir quand tu veux."
+    ],
+    [
+     "Faut-il savoir visualiser pour profiter d’une méditation immersive ?",
+     "Non. Beaucoup de gens ne voient pas d’images nettes, et ce n’est pas un problème. Les sons, les sensations et les mots peuvent suffire à te transporter. Les images viennent souvent avec la pratique. Si tu veux entraîner ta visualisation, les séances de la catégorie Visualisation, comme « La pièce que tu connais » (27 min), t’y aident sens après sens."
+    ],
+    [
+     "Quel monde choisir pour un premier voyage ?",
+     "Commence par un monde court et doux, comme L’Oasis du Désert (13 min), avec son chameau blanc et son bassin d’étoiles. Si tu aimes les grands espaces, Voyage à Travers la Galaxie (19 min) t’emmène dans un train de lumière. Pour un refuge, L’Île Flottante (20 min) t’attend au-dessus des nuages, avec son cerf blanc ailé."
+    ]
+   ],
+   "seances": [
+    [
+     "miniav01",
+     "Mini-aventure à travers les étapes d’une vie."
+    ],
+    [
+     "miniav02",
+     "Mini-aventure d’exploration d’un monde imaginaire."
+    ],
+    [
+     "miniav03",
+     "Immersion historique imaginative."
+    ],
+    [
+     "miniav04",
+     "Voyage contemplatif dans un Japon imaginé."
+    ]
+   ],
+   "a_venir": [],
+   "mondes": [
+    "antiqueTemple",
+    "cosmicTemple",
+    "crystalCave",
+    "galaxy",
+    "earthCore",
+    "antarcticBase",
+    "skyIsland",
+    "zenGarden",
+    "atlantis",
+    "himalayanMonastery",
+    "celestialLibrary",
+    "desertOasis",
+    "treeOfConsciousness",
+    "jungleRuins",
+    "mushroomForest",
+    "mirrorDimension",
+    "wolfForest"
+   ],
+   "fonctions": [
+    [
+     "Mondes immersifs",
+     "Mondes immersifs",
+     "Choisir parmi 17 environnements narratifs qui favorisent l’imagination et l’évasion."
+    ],
+    [
+     "Sanctuaires personnels",
+     "Sanctuaires personnels",
+     "Créer des lieux intérieurs avec décor, nom et ambiance, et définir un sanctuaire favori."
+    ],
+    [
+     "Sons d’ambiance",
+     "Sons d’ambiance",
+     "Associer la séance à des ambiances naturelles ou musicales (vagues, forêt, torrent, flûte…), avec volume réglable."
+    ],
+    [
+     "Voix, langues et rythme",
+     "Voix, langues et rythme",
+     "Choisir parmi le français, l’anglais et l’espagnol, deux voix par langue, une vitesse de 0,75× à 1× et des pauses adaptées."
+    ],
+    [
+     "Écoute hors ligne",
+     "Écoute hors ligne",
+     "Télécharger les contenus une première fois, puis les utiliser sans connexion ni distraction réseau."
+    ],
+    [
+     "Collection d’objets symboliques",
+     "Collection d’objets symboliques",
+     "Conserver les objets imaginés ou rencontrés durant les voyages intérieurs avec leur signification."
+    ],
+    [
+     "Dragon compagnon et île évolutive",
+     "Dragon compagnon et île évolutive",
+     "Voir évoluer le dragon et son île selon la régularité de la pratique, sans compétition."
+    ]
+   ]
+  }
+ }
+}

@@ -568,10 +568,35 @@ def menu_html(lang, current=None, extra=()):
         li += f'<li><a href="{h}" style="--acc-rgb:{CFG[k]["acc"]}"{cur}><i aria-hidden="true"></i>{E(LBL[lang]["short"][k])}</a></li>'
     t, tt = MENU_L[lang]
     x = ''.join(f'<li><a href="{h}">{E(n)}</a></li>' for n, h in extra)
-    lab = f'<span class="mnu-d">{E(t)}</span><span class="mnu-m">Menu</span>' if extra else E(t)
-    return (f'<details class="mnu"><summary>{lab}</summary><div class="mnu-p"><div class="mnu-in">'
+    ob_det, ob_sec = menu_objectifs(lang, current)
+    lab = f'<span class="mnu-d">{E(t)}</span><span class="mnu-m">Menu</span>' if (extra or ob_sec) else E(t)
+    return (ob_det + f'<details class="mnu"><summary>{lab}</summary><div class="mnu-p"><div class="mnu-in">'
             + (f'<ul class="mnu-x">{x}</ul>' if x else '')
+            + (f'<div class="mnu-obm">{ob_sec}</div>' if ob_sec else '')
             + f'<b class="mnu-t">{E(tt)}</b><ul>{li}</ul></div></div></details>')
+
+
+MENU_OB = {'fr': ('Objectifs', 'Ton objectif', 'Les 14 objectifs'), 'en': ('Goals', 'Your goal', 'All 14 goals'),
+           'es': ('Objetivos', 'Tu objetivo', 'Los 14 objetivos')}
+
+
+def menu_objectifs(lang, current=None):
+    """06-11 : entrée « Objectifs » du menu principal (pages _tools/objectifs.py) : menu à part sur ordinateur,
+    rangée en tête du panneau « Menu » sur téléphone. Renvoie (menu, section du panneau) ; ('', '') sans pages objectifs."""
+    try:
+        import objectifs
+        bs = objectifs.boutons(lang)
+    except Exception:
+        return '', ''
+    if not bs: return '', ''
+    t, tt, tous = MENU_OB[lang]
+    tous = tous.replace('14', str(len(bs)))
+    hub = objectifs.chemin(lang)
+    li = ''.join(f'<li><a href="{h}" style="--acc-rgb:{objectifs.ACC[n]}"' + (' aria-current="page"' if current == h else '')
+                 + f'><i aria-hidden="true"></i>{E(objectifs.ty(lang, nom))}</a></li>' for n, nom, h, _ in bs)
+    sec = f'<b class="mnu-t">{E(tt)}</b><ul>{li}</ul><p class="mnu-all"><a href="{hub}">{E(tous)} →</a></p>'
+    cur = ' class="on"' if current and current.startswith(hub) else ''
+    return (f'<details class="mnu mnu-ob"><summary{cur}>{E(t)}</summary><div class="mnu-p"><div class="mnu-in">{sec}</div></div></details>', sec)
 
 
 MENU_JS = ('<script>(function(){var d=document.querySelectorAll("details.mnu");if(!d.length)return;'
@@ -600,6 +625,11 @@ details.mnu>summary{padding:0;font-family:'Cormorant Garamond',Georgia,serif;fon
 @media(max-width:600px){header .hx{display:none}.mnu .mnu-d{display:none}.mnu .mnu-m{display:inline}
  .mnu .mnu-p ul.mnu-x{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 14px;padding:0 0 14px;border-bottom:1px solid var(--line)}
  .mnu .mnu-p .mnu-x a{font:600 14px/1 'Avenir Next',sans-serif;border:1px solid var(--line);border-radius:99px;padding:9px 14px}}
+.mnu .mnu-obm{display:none}
+.mnu .mnu-all{margin:12px 0 0 10px}
+.mnu .mnu-p .mnu-all a{display:inline;padding:0;font:600 14px/1.2 'Avenir Next','Segoe UI',system-ui,sans-serif;color:var(--gold)}
+.mnu summary.on{color:var(--gold)}
+@media(max-width:600px){details.mnu.mnu-ob{display:none}.mnu .mnu-obm{display:block;margin:0 0 14px;padding:0 0 12px;border-bottom:1px solid var(--line)}}
 """
 
 

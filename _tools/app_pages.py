@@ -226,6 +226,16 @@ ol.ap-etapes li::before{content:counter(etape);position:absolute;left:0;top:2px;
 .ap-list h3{font-size:20px;margin:0 0 4px;color:#fff7e8}
 .ap-list .d{font-family:'Avenir Next',sans-serif;font-size:12.5px;color:var(--gold);margin-bottom:6px}
 .ap-list p{margin:0;font-size:15px}
+.ap-list>li{scroll-margin-top:90px}.ap-list>li:target{border-color:var(--gold);box-shadow:0 0 0 1px rgba(212,175,106,.6)}
+.ap-list li.ap-mi{display:grid;grid-template-columns:64px minmax(0,1fr);gap:16px;align-items:start}
+.ap-list li.ap-mi>img{width:64px;height:64px;margin:0;border:0;border-radius:14px}
+.ap-ob{margin:10px 0 0;padding:10px 0 0;border-top:1px dashed var(--line)}
+.ap-ob b{display:block;font:600 11px/1.2 'Avenir Next',sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin:0 0 6px}
+.ap-ob ul{list-style:none;padding:0;margin:0;display:grid;gap:7px}
+.ap-list .ap-ob li{border:0;border-radius:0;padding:0;background:none;font:14px/1.5 'Avenir Next',sans-serif;color:var(--muted)}
+.ap-ob a{display:inline-block;margin:0 8px 2px 0;padding:2px 10px;border:1px solid rgba(var(--acc-rgb),.55);border-radius:99px;color:var(--ink);text-decoration:none;font-size:12.5px;white-space:nowrap}
+.ap-ob a:hover{background:rgba(var(--acc-rgb),.16)}
+@media(max-width:520px){.ap-list li.ap-mi{grid-template-columns:46px minmax(0,1fr);gap:12px}.ap-list li.ap-mi>img{width:46px;height:46px}}
 .ap-grid{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px;margin:18px 0 26px}
 .ap-grid a{display:grid;gap:8px;border:1px solid var(--line);border-radius:16px;padding:14px;text-decoration:none;background:rgba(255,255,255,.02);height:100%}
 .ap-grid a:hover{border-color:rgba(212,175,106,.5)}
@@ -270,10 +280,21 @@ def load():
     P = {l: json.load(open(f'{T}/pages_{l}.json', encoding='utf-8')) for l in LANGS if os.path.exists(f'{T}/pages_{l}.json')}
     # 06-11 : catégories pas encore sorties dans l'app des magasins (_tools/a_venir.json) : invisibles sur le site
     try:
-        a_venir = set(json.load(open(f'{T}/a_venir.json', encoding='utf-8')).get('categories', []))
+        AV = json.load(open(f'{T}/a_venir.json', encoding='utf-8'))
     except FileNotFoundError:
-        a_venir = set()
+        AV = {}
+    a_venir = set(AV.get('categories', []))
     cat['categories'] = {k: v for k, v in cat.get('categories', {}).items() if k not in a_venir}
+    # 06-11 : même règle pour les méditations seules (corps06, appren08…) : retirées et comptes/durées/niveaux recalculés
+    med_av = set(AV.get('meditations', []))
+    for cid, c in list(cat['categories'].items()):
+        if not med_av & {m['id'] for m in c['meds']}: continue
+        c['meds'] = [m for m in c['meds'] if m['id'] not in med_av]
+        if not c['meds']:
+            del cat['categories'][cid]; continue
+        durs = [int(m['dur']) for m in c['meds']]
+        c.update(count=len(c['meds']), min=min(durs), max=max(durs),
+                 levels=[n for n in ('beginner', 'intermediate', 'advanced') if any(m['level'] == n for m in c['meds'])])
     cats = cat['categories']
     tout = dict(total=sum(len(c['meds']) for c in cats.values()), ncat=len(cats))
     for p in P.values():
@@ -487,6 +508,25 @@ def faq_categorie(lang, cid, c, existante):
     return [(q1, duree), (q2, pos), (q3, F['connexion'].format(**v))] + [(q, r) for q, r in (existante or []) if not deja.search(q)]
 
 
+OB_T = {'fr': 'Ce qu’elle t’apporte', 'en': 'What it brings you', 'es': 'Lo que te aporta'}
+
+
+def med_item(lang, m):
+    """06-11 (Edouard : « étoffe un peu chaque page en mettant les avantages de chaque méditation par rapport aux objectifs
+    potentiels des utilisateurs ») : séance d'une page catégorie avec son icône (banque d'icônes de l'app), ancre #id
+    (liens des pages objectifs) et, pour chaque objectif où elle compte, ce qu'elle apporte (document des 14 objectifs)."""
+    import objectifs
+    t = L[lang]
+    ic = objectifs.icone_med(sys.modules[__name__], lang, m['id'], m['title'][lang])
+    obs = objectifs.par_seance(lang).get(m['id'], [])
+    ob = ('<div class="ap-ob"><b>' + E(OB_T[lang]) + '</b><ul>' + ''.join(
+        f'<li><a href="{h}" style="--acc-rgb:{objectifs.ACC[n]}">{E(objectifs.ty(lang, nom))}</a><span>{E(objectifs.ty(lang, interet))}</span></li>'
+        for n, nom, h, interet in obs) + '</ul></div>') if obs else ''
+    return (f'<li id="{E(m["id"])}"' + (' class="ap-mi"' if ic else '') + f'>{ic}<div><h3>{E(m["title"][lang])}</h3>'
+            f'<div class="d">{m["dur"]} {E(t["min"])} · {E(t["level"].get(m["level"], m["level"]))}</div>'
+            f'<p>{E(m["desc"][lang])}</p>{ob}</div></li>')
+
+
 def faq_html(lang, faq):
     if not faq: return ''
     qa = ''.join(f'<details><summary>{E(q)}</summary><p>{E(r)}</p></details>' for q, r in faq)
@@ -526,8 +566,7 @@ def build(bb):
             alts = {x: u(x, 'med', P[x]['categories'][cid]['slug']) for x in P}
             lv = ', '.join(t['level'][x] for x in c['levels'])
             meta = f'<div class="ap-meta"><span>{c["count"]} {E(t["sessions"])}</span><span>{c["min"]} {E(t["to"])} {c["max"]} {E(t["min"])}</span><span>{E(lv)}</span></div>'
-            items = ''.join(f'<li><h3>{E(m["title"][lang])}</h3><div class="d">{m["dur"]} {E(t["min"])} · {E(t["level"].get(m["level"], m["level"]))}</div>'
-                            f'<p>{E(m["desc"][lang])}</p></li>' for m in c['meds'] if m['title'][lang])
+            items = ''.join(med_item(lang, m) for m in c['meds'] if m['title'][lang])   # 06-11 : icône + objectifs de chaque séance
             g = CAT_GROUP.get(cid); hl = blog_hubs.group_link(lang, g, act) if g else None
             lp = piliers.links_li(sys.modules[__name__], lang, piliers.cat_piliers(cid))   # 23-10 : guides complets du thème
             lh = f'<li><a href="/{lang}/blog/{hl}">{E(blog_hubs.HUBS[lang][g]["h1"])}</a></li>' if hl else ''
@@ -551,7 +590,7 @@ def build(bb):
             ld = ld_tag({'@context': 'https://schema.org', '@graph': [
                 {'@type': 'CollectionPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang,
                  'mainEntity': {'@type': 'ItemList', 'numberOfItems': len(c['meds']), 'itemListElement': [
-                     {'@type': 'ListItem', 'position': i + 1, 'name': m['title'][lang]} for i, m in enumerate(c['meds'])]}},
+                     {'@type': 'ListItem', 'position': i + 1, 'name': m['title'][lang], 'url': bb.BASE + path + '#' + m['id']} for i, m in enumerate(c['meds'])]}},
                 bc_ld(bb, bc)] + ([{'@type': 'FAQPage', 'mainEntity': [{'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': r}} for q, r in faq]}] if faq else [])})
             _write(path, page(bb, lang, s['seo'], s['desc'], path, alts, img_cat(cid), ld, body, cats[cid]['name'][lang]))
             written.append((path, alts))
@@ -640,6 +679,8 @@ fetch('https://formsubmit.co/ajax/edouard@meditadream.com',{method:'POST',header
         written.append((path, alts))
     written += themes(bb, cat, P)
     written += piliers.build(sys.modules[__name__], bb, cat, P)   # 23-10 : pages piliers (guides complets par thème)
+    import objectifs   # 06-11 : les 14 objectifs (page d'ensemble + une page par objectif, 3 langues)
+    written += objectifs.build(sys.modules[__name__], bb, cat, P)
     import formation_pages  # formations par ville (fr), liées depuis le pied de page
     written += formation_pages.build(bb, sys.modules[__name__])
     json.dump(_LM, open(LASTMOD_F, 'w', encoding='utf-8'), indent=0, sort_keys=True)

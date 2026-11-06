@@ -121,6 +121,11 @@ details.mnu>summary{padding:0;font-family:'Cormorant Garamond',Georgia,serif;fon
 @media(max-width:600px){header .hx{display:none}.mnu .mnu-d{display:none}.mnu .mnu-m{display:inline}
  .mnu .mnu-p ul.mnu-x{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 14px;padding:0 0 14px;border-bottom:1px solid var(--line)}
  .mnu .mnu-p .mnu-x a{font:600 14px/1 'Avenir Next',sans-serif;border:1px solid var(--line);border-radius:99px;padding:9px 14px}}
+.mnu .mnu-obm{display:none}
+.mnu .mnu-all{margin:12px 0 0 10px}
+.mnu .mnu-p .mnu-all a{display:inline;padding:0;font:600 14px/1.2 'Avenir Next','Segoe UI',system-ui,sans-serif;color:var(--gold)}
+.mnu summary.on{color:var(--gold)}
+@media(max-width:600px){details.mnu.mnu-ob{display:none}.mnu .mnu-obm{display:block;margin:0 0 14px;padding:0 0 12px;border-bottom:1px solid var(--line)}}
 
 @media(max-width:600px){header a{font-size:15px;white-space:nowrap}header .wrap{gap:10px}header .lg{gap:5px}header .lg a{padding:3px 8px}}
 .progress{position:fixed;top:0;left:0;right:0;height:3px;z-index:20;pointer-events:none}

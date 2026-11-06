@@ -1,0 +1,1034 @@
+{
+ "4minut01": {
+  "src": "/assets/icones/meditations/icone-meditation-le-refuge-instantane.webp",
+  "alt": {
+   "fr": "Un petit sanctuaire caché, refuge rien qu’à soi",
+   "en": "A small hidden shrine, a refuge all your own",
+   "es": "Un pequeño santuario escondido, un refugio solo para ti"
+  }
+ },
+ "4minut02": {
+  "src": "/assets/icones/meditations/icone-meditation-le-souvenir-heureux-en-trois-sens.webp",
+  "alt": {
+   "fr": "Une boîte à musique qui rejoue le souvenir heureux",
+   "en": "A music box that replays the happy memory",
+   "es": "Una caja de música que hace sonar de nuevo el recuerdo feliz"
+  }
+ },
+ "4minut03": {
+  "src": "/assets/icones/meditations/icone-meditation-la-gratitude-precise.webp",
+  "alt": {
+   "fr": "Une seule fleur, regardée avec toute son attention",
+   "en": "A single flower, looked at with your full attention",
+   "es": "Una sola flor, mirada con toda tu atención"
+  }
+ },
+ "4minut04": {
+  "src": "/assets/icones/meditations/icone-meditation-quand-tout-va-trop-vite.webp",
+  "alt": {
+   "fr": "L’escargot, pour ralentir quand tout s’emballe",
+   "en": "The snail, to slow down when everything is racing",
+   "es": "El caracol, para bajar el ritmo cuando todo se desboca"
+  }
+ },
+ "4minut05": {
+  "src": "/assets/icones/meditations/icone-meditation-se-detendre-tres-rapidement.webp",
+  "alt": {
+   "fr": "La posture de l’enfant, le corps relâché d’un coup",
+   "en": "Child’s pose, the body relaxed all at once",
+   "es": "La postura del niño, el cuerpo relajado de golpe"
+  }
+ },
+ "4minut06": {
+  "src": "/assets/icones/meditations/icone-meditation-se-calmer-apres-une-dispute.webp",
+  "alt": {
+   "fr": "La neige retombe dans la boule, la scène vue avec recul",
+   "en": "The snow settles in the globe, the scene viewed from a distance",
+   "es": "La nieve vuelve a posarse en la bola, la escena vista con perspectiva"
+  }
+ },
+ "4minut07": {
+  "src": "/assets/icones/meditations/icone-meditation-retrouver-confiance-avant-une-epreuve.webp",
+  "alt": {
+   "fr": "La carpe qui saute la porte du Dragon, l’épreuve réussie",
+   "en": "The carp leaping over the Dragon Gate, the challenge overcome",
+   "es": "La carpa que salta la Puerta del Dragón, la prueba superada"
+  }
+ },
+ "4minut08": {
+  "src": "/assets/icones/meditations/icone-meditation-apres-une-mauvaise-nouvelle.webp",
+  "alt": {
+   "fr": "Une goutte de rosée, ce qui est vrai maintenant",
+   "en": "A dewdrop, what is true right now",
+   "es": "Una gota de rocío, lo que es verdad ahora"
+  }
+ },
+ "4minut09": {
+  "src": "/assets/icones/meditations/icone-meditation-quand-tu-as-envie-de-tout-abandonner.webp",
+  "alt": {
+   "fr": "La tortue avance lentement, sans tout abandonner",
+   "en": "The turtle moves forward slowly, without giving up",
+   "es": "La tortuga avanza despacio, sin abandonarlo todo"
+  }
+ },
+ "4minut10": {
+  "src": "/assets/icones/meditations/icone-meditation-quand-tu-manques-de-motivation.webp",
+  "alt": {
+   "fr": "Une petite flamme qui rallume l’envie d’agir",
+   "en": "A small flame that rekindles the drive to act",
+   "es": "Una pequeña llama que reaviva las ganas de actuar"
+  }
+ },
+ "4minut11": {
+  "src": "/assets/icones/meditations/icone-meditation-quand-tu-te-sens-observe-ou-juge.webp",
+  "alt": {
+   "fr": "Le paon aux cent yeux, le regard qu’on imagine",
+   "en": "The hundred-eyed peacock, the gaze you imagine",
+   "es": "El pavo real de los cien ojos, la mirada que imaginas"
+  }
+ },
+ "appren01": {
+  "src": "/assets/icones/meditations/icone-meditation-le-balayage-corporel.webp",
+  "alt": {
+   "fr": "Allongé, parcourir le corps région par région",
+   "en": "Lying down, scanning the body region by region",
+   "es": "Acostado, recorrer el cuerpo región por región"
+  }
+ },
+ "appren02": {
+  "src": "/assets/icones/meditations/icone-meditation-stabiliser-l-attention-sur-le-souffle.webp",
+  "alt": {
+   "fr": "Le labyrinthe, le souffle comme fil d’Ariane vers le centre",
+   "en": "The labyrinth, the breath as Ariadne’s thread to the center",
+   "es": "El laberinto, la respiración como hilo de Ariadna hacia el centro"
+  }
+ },
+ "appren03": {
+  "src": "/assets/icones/meditations/icone-meditation-distinguer-sensation-emotion-et-pensee.webp",
+  "alt": {
+   "fr": "Trois pierres empilées, les trois couches de l’expérience",
+   "en": "Three stacked stones, the three layers of experience",
+   "es": "Tres piedras apiladas, las tres capas de la experiencia"
+  }
+ },
+ "appren04": {
+  "src": "/assets/icones/meditations/icone-meditation-mediter-avec-les-yeux-ouverts.webp",
+  "alt": {
+   "fr": "Marcher les yeux ouverts, présent au milieu du monde",
+   "en": "Walking with your eyes open, present in the midst of the world",
+   "es": "Caminar con los ojos abiertos, presente en medio del mundo"
+  }
+ },
+ "appren05": {
+  "src": "/assets/icones/meditations/icone-meditation-observer-les-pensees.webp",
+  "alt": {
+   "fr": "Le singe apaisé regarde passer ses pensées",
+   "en": "The calm monkey watches its thoughts go by",
+   "es": "El mono apaciguado mira pasar sus pensamientos"
+  }
+ },
+ "appren06": {
+  "src": "/assets/icones/meditations/icone-meditation-manger-en-pleine-conscience.webp",
+  "alt": {
+   "fr": "Des fruits à goûter lentement, une bouchée à la fois",
+   "en": "Fruit to taste slowly, one bite at a time",
+   "es": "Frutas para saborear despacio, un bocado a la vez"
+  }
+ },
+ "appren07": {
+  "src": "/assets/icones/meditations/icone-meditation-la-conscience-des-cinq-sens.webp",
+  "alt": {
+   "fr": "Une porte ronde ouverte sur le jardin des sens",
+   "en": "A round gate opening onto the garden of the senses",
+   "es": "Una puerta redonda abierta al jardín de los sentidos"
+  }
+ },
+ "shaman01": {
+  "src": "/assets/icones/meditations/icone-meditation-la-quete-de-vision.webp",
+  "alt": {
+   "fr": "Le cerf, la vision qui vient à qui sait attendre",
+   "en": "The stag, the vision that comes to those who know how to wait",
+   "es": "El ciervo, la visión que llega a quien sabe esperar"
+  }
+ },
+ "shaman02": {
+  "src": "/assets/icones/meditations/icone-meditation-le-feu-des-anciens.webp",
+  "alt": {
+   "fr": "Le feu dans la pierre, où se rassemblent les anciens",
+   "en": "The fire in the stone, where the ancients gather",
+   "es": "El fuego en la piedra, donde se reúnen los antiguos"
+  }
+ },
+ "shaman03": {
+  "src": "/assets/icones/meditations/icone-meditation-le-cercle-de-protection.webp",
+  "alt": {
+   "fr": "Une spirale gravée dans la pierre, le cercle qui protège",
+   "en": "A spiral carved in stone, the circle that protects",
+   "es": "Una espiral grabada en la piedra, el círculo que protege"
+  }
+ },
+ "shaman04": {
+  "src": "/assets/icones/meditations/icone-meditation-le-retour-avec-un-objet-de-pouvoir.webp",
+  "alt": {
+   "fr": "Un talisman, l’objet de pouvoir rapporté du voyage",
+   "en": "A talisman, the power object brought back from the journey",
+   "es": "Un talismán, el objeto de poder traído del viaje"
+  }
+ },
+ "chakra01": {
+  "src": "/assets/icones/meditations/icone-meditation-la-reconnaissance-des-sept-chakras.webp",
+  "alt": {
+   "fr": "Le lotus, forme de chaque chakra à localiser",
+   "en": "The lotus, the shape of each chakra to locate",
+   "es": "El loto, la forma de cada chakra que vas a localizar"
+  }
+ },
+ "chakra02": {
+  "src": "/assets/icones/meditations/icone-meditation-l-alignement-des-sept-chakras.webp",
+  "alt": {
+   "fr": "Le diapason, la référence intérieure qui aligne les centres",
+   "en": "The tuning fork, the inner reference that aligns the centers",
+   "es": "El diapasón, la referencia interior que alinea los centros"
+  }
+ },
+ "buddhi01": {
+  "src": "/assets/icones/meditations/icone-meditation-le-voyage-de-sudhana.webp",
+  "alt": {
+   "fr": "Les empreintes du Bouddha, de maître en maître sur le chemin",
+   "en": "The Buddha’s footprints, from teacher to teacher along the path",
+   "es": "Las huellas de Buda, de maestro en maestro por el camino"
+  }
+ },
+ "buddhi02": {
+  "src": "/assets/icones/meditations/icone-meditation-les-onze-visages-d-avalokitesvara.webp",
+  "alt": {
+   "fr": "Un visage serein, l’un des onze d’Avalokiteśvara",
+   "en": "A serene face, one of Avalokiteśvara’s eleven",
+   "es": "Un rostro sereno, uno de los once de Avalokiteśvara"
+  }
+ },
+ "buddhi03": {
+  "src": "/assets/icones/meditations/icone-meditation-l-epee-de-manjusri.webp",
+  "alt": {
+   "fr": "Le vajra, diamant qui tranche comme l’épée de sagesse",
+   "en": "The vajra, a diamond that cuts like the sword of wisdom",
+   "es": "El vajra, diamante que corta como la espada de la sabiduría"
+  }
+ },
+ "buddhi04": {
+  "src": "/assets/icones/meditations/icone-meditation-le-lion-de-manjusri.webp",
+  "alt": {
+   "fr": "Le lion de Mañjuśrī, face aux anciennes peurs",
+   "en": "Mañjuśrī’s lion, facing old fears",
+   "es": "El león de Mañjuśrī, frente a los viejos miedos"
+  }
+ },
+ "buddhi05": {
+  "src": "/assets/icones/meditations/icone-meditation-la-lumiere-de-ksitigarbha-dans-les-mondes-obscurs.webp",
+  "alt": {
+   "fr": "La lampe de Kṣitigarbha portée dans les mondes obscurs",
+   "en": "Kṣitigarbha’s lamp carried into the dark realms",
+   "es": "La lámpara de Kṣitigarbha llevada a los mundos oscuros"
+  }
+ },
+ "buddhi06": {
+  "src": "/assets/icones/meditations/icone-meditation-samantabhadra-et-l-elephant-blanc.webp",
+  "alt": {
+   "fr": "L’éléphant blanc de Samantabhadra et ses dix vœux",
+   "en": "Samantabhadra’s white elephant and the ten vows",
+   "es": "El elefante blanco de Samantabhadra y sus diez votos"
+  }
+ },
+ "buddhi07": {
+  "src": "/assets/icones/meditations/icone-meditation-le-jardin-de-maitreya.webp",
+  "alt": {
+   "fr": "L’escalier du jardin de Maitreya, jusqu’au pavillon",
+   "en": "The stairs of Maitreya’s garden, up to the pavilion",
+   "es": "La escalera del jardín de Maitreya, hasta el pabellón"
+  }
+ },
+ "buddhi08": {
+  "src": "/assets/icones/meditations/icone-meditation-tara-et-les-huit-grands-dangers.webp",
+  "alt": {
+   "fr": "Le lotus bleu utpala, fleur que tient Tārā",
+   "en": "The blue utpala lotus, the flower Tārā holds",
+   "es": "El loto azul utpala, la flor que sostiene Tārā"
+  }
+ },
+ "visual02": {
+  "src": "/assets/icones/meditations/icone-meditation-film.webp",
+  "alt": {
+   "fr": "Le papillon suivi des yeux dans son vol",
+   "en": "The butterfly followed with your eyes as it flies",
+   "es": "La mariposa seguida con la mirada en su vuelo"
+  }
+ },
+ "visual03": {
+  "src": "/assets/icones/meditations/icone-meditation-toucher.webp",
+  "alt": {
+   "fr": "La clé posée dans la main, son poids, son froid",
+   "en": "The key resting in your hand, its weight, its chill",
+   "es": "La llave apoyada en la mano, su peso, su frío"
+  }
+ },
+ "visual04": {
+  "src": "/assets/icones/meditations/icone-meditation-entendre.webp",
+  "alt": {
+   "fr": "Le bol chantant, entendu de loin par l’oreille intérieure",
+   "en": "The singing bowl, heard from afar with the mind’s ear",
+   "es": "El cuenco cantor, escuchado a lo lejos con el oído interior"
+  }
+ },
+ "visual05": {
+  "src": "/assets/icones/meditations/icone-meditation-les-trois-sens-reunis.webp",
+  "alt": {
+   "fr": "Un sommet, et tout un paysage construit par les sens",
+   "en": "A summit, and a whole landscape built by the senses",
+   "es": "Una cima, y todo un paisaje construido por los sentidos"
+  }
+ },
+ "visual06": {
+  "src": "/assets/icones/meditations/icone-meditation-les-trois-sens-reunis.webp",
+  "alt": {
+   "fr": "Une galaxie à explorer depuis le cockpit du vaisseau",
+   "en": "A galaxy to explore from the ship’s cockpit",
+   "es": "Una galaxia por explorar desde la cabina de la nave"
+  }
+ },
+ "visual07": {
+  "src": "/assets/icones/meditations/icone-meditation-la-piece-que-tu-connais.webp",
+  "alt": {
+   "fr": "Une lanterne du soir qui dessine les ombres de la pièce",
+   "en": "An evening lantern that draws the shadows of the room",
+   "es": "Un farol al anochecer que dibuja las sombras de la habitación"
+  }
+ },
+ "chi01": {
+  "src": "/assets/icones/meditations/icone-meditation-les-mains-qui-chauffent.webp",
+  "alt": {
+   "fr": "Une balle de chaleur douce entre les paumes",
+   "en": "A ball of gentle warmth between your palms",
+   "es": "Una bola de calor suave entre las palmas"
+  }
+ },
+ "chi02": {
+  "src": "/assets/icones/meditations/icone-meditation-la-petite-circulation.webp",
+  "alt": {
+   "fr": "Le dragon enroulé autour de la perle qui circule",
+   "en": "The dragon coiled around the pearl that circulates",
+   "es": "El dragón enroscado alrededor de la perla que circula"
+  }
+ },
+ "chi03": {
+  "src": "/assets/icones/meditations/icone-meditation-l-arbre-immobile.webp",
+  "alt": {
+   "fr": "L’arbre enraciné, immobile sans forcer",
+   "en": "The rooted tree, still without straining",
+   "es": "El árbol enraizado, inmóvil sin forzar"
+  }
+ },
+ "chi04": {
+  "src": "/assets/icones/meditations/icone-meditation-la-danse-du-qi.webp",
+  "alt": {
+   "fr": "La grue, danse lente du Qi Gong",
+   "en": "The crane, a slow qigong dance",
+   "es": "La grulla, danza lenta del qigong"
+  }
+ },
+ "miniav01": {
+  "src": "/assets/icones/meditations/icone-meditation-le-train-des-souvenirs.webp",
+  "alt": {
+   "fr": "Un vieux carnet, les gares d’une vie qui défilent",
+   "en": "An old notebook, the stations of a life rolling by",
+   "es": "Un viejo cuaderno, las estaciones de una vida que van pasando"
+  }
+ },
+ "miniav02": {
+  "src": "/assets/icones/meditations/icone-meditation-la-planete-inconnue.webp",
+  "alt": {
+   "fr": "Une petite île flottante, monde inconnu à explorer",
+   "en": "A small floating island, an unknown world to explore",
+   "es": "Una pequeña isla flotante, un mundo desconocido por explorar"
+  }
+ },
+ "miniav03": {
+  "src": "/assets/icones/meditations/icone-meditation-versailles.webp",
+  "alt": {
+   "fr": "Le Roi-Soleil, la cour qui gravite autour de lui",
+   "en": "The Sun King, the court revolving around him",
+   "es": "El Rey Sol, la corte que gravita a su alrededor"
+  }
+ },
+ "miniav04": {
+  "src": "/assets/icones/meditations/icone-meditation-japon.webp",
+  "alt": {
+   "fr": "Le torii, porte du Japon sur la route de Kyoto",
+   "en": "The torii, a Japanese gate on the road to Kyoto",
+   "es": "El torii, puerta japonesa en el camino a Kioto"
+  }
+ },
+ "3emeoe01": {
+  "src": "/assets/icones/meditations/icone-meditation-le-troisieme-oeil-et-les-deux-yeux.webp",
+  "alt": {
+   "fr": "L’œil entre les sourcils, le regard tourné dedans",
+   "en": "The eye between the eyebrows, the gaze turned inward",
+   "es": "El ojo entre las cejas, la mirada vuelta hacia dentro"
+  }
+ },
+ "3emeoe02": {
+  "src": "/assets/icones/meditations/icone-meditation-l-oeil-interieur-s-eveille.webp",
+  "alt": {
+   "fr": "Une image qui naît dans le cadre intérieur",
+   "en": "An image arising in the inner frame",
+   "es": "Una imagen que nace en el marco interior"
+  }
+ },
+ "3emeoe03": {
+  "src": "/assets/icones/meditations/icone-meditation-l-image-qui-apparait-seule.webp",
+  "alt": {
+   "fr": "Une boule de cristal où l’image apparaît seule",
+   "en": "A crystal ball where the image appears on its own",
+   "es": "Una bola de cristal donde la imagen aparece sola"
+  }
+ },
+ "3emeoe04": {
+  "src": "/assets/icones/meditations/icone-meditation-la-porte-d-ajna.webp",
+  "alt": {
+   "fr": "La porte ouverte d’Ajna et le lieu derrière elle",
+   "en": "The open door of Ajna and the place behind it",
+   "es": "La puerta abierta de Ajna y el lugar que hay tras ella"
+  }
+ },
+ "3emeoe05": {
+  "src": "/assets/icones/meditations/icone-meditation-le-mandala-qui-se-construit-seul.webp",
+  "alt": {
+   "fr": "Le mandala, forme après forme, qui se construit seul",
+   "en": "The mandala, shape after shape, building itself",
+   "es": "El mandala, forma tras forma, que se construye solo"
+  }
+ },
+ "corps01": {
+  "src": "/assets/icones/meditations/icone-meditation-respirer-avec-tout-le-corps.webp",
+  "alt": {
+   "fr": "Les mains sur la poitrine et le ventre, tout le corps respire",
+   "en": "Hands on the chest and belly, the whole body breathes",
+   "es": "Las manos en el pecho y el vientre, todo el cuerpo respira"
+  }
+ },
+ "corps02": {
+  "src": "/assets/icones/meditations/icone-meditation-respirer-autour-d-une-zone-sensible.webp",
+  "alt": {
+   "fr": "La conque, un souffle qui tourne autour de la zone sensible",
+   "en": "The conch, a breath circling around the tender spot",
+   "es": "La caracola, una respiración que gira en torno a la zona sensible"
+  }
+ },
+ "corps03": {
+  "src": "/assets/icones/meditations/icone-meditation-le-double-qui-se-leve.webp",
+  "alt": {
+   "fr": "Une silhouette debout, le double qui se lève",
+   "en": "A standing figure, the double that rises",
+   "es": "Una silueta de pie, el doble que se levanta"
+  }
+ },
+ "corps04": {
+  "src": "/assets/icones/meditations/icone-meditation-la-respiration-lumineuse.webp",
+  "alt": {
+   "fr": "Un souffle doré, la lumière portée par la respiration",
+   "en": "A golden breath, the light carried by breathing",
+   "es": "Un aliento dorado, la luz llevada por la respiración"
+  }
+ },
+ "corps05": {
+  "src": "/assets/icones/meditations/icone-meditation-le-corps-sous-une-cascade.webp",
+  "alt": {
+   "fr": "La cascade, chaque filet d’eau le long du corps",
+   "en": "The waterfall, each trickle of water along the body",
+   "es": "La cascada, cada hilo de agua a lo largo del cuerpo"
+  }
+ },
+ "lieux01": {
+  "src": "/assets/icones/meditations/icone-meditation-sous-l-arbre-de-la-bodhi.webp",
+  "alt": {
+   "fr": "Le Bouddha assis sous l’arbre de la Bodhi",
+   "en": "The Buddha seated beneath the Bodhi tree",
+   "es": "Buda sentado bajo el árbol Bodhi"
+  }
+ },
+ "lieux02": {
+  "src": "/assets/icones/meditations/icone-meditation-la-pagode-ancienne-au-milieu-des-lotus.webp",
+  "alt": {
+   "fr": "La pagode ancienne au milieu de l’étang aux lotus",
+   "en": "The ancient pagoda in the middle of the lotus pond",
+   "es": "La antigua pagoda en medio del estanque de lotos"
+  }
+ },
+ "lieux03": {
+  "src": "/assets/icones/meditations/icone-meditation-le-sanctuaire-taoiste-dans-les-montagnes.webp",
+  "alt": {
+   "fr": "Le sanctuaire perché sur la montagne, au-dessus des nuages",
+   "en": "The sanctuary perched on the mountain, above the clouds",
+   "es": "El santuario encaramado en la montaña, por encima de las nubes"
+  }
+ },
+ "lieux04": {
+  "src": "/assets/icones/meditations/icone-meditation-la-falaise-ecossaise-face-a-l-ocean.webp",
+  "alt": {
+   "fr": "La vague contre la falaise, stable sans être rigide",
+   "en": "The wave against the cliff, steady without being rigid",
+   "es": "La ola contra el acantilado, estable sin ser rígido"
+  }
+ },
+ "lieux05": {
+  "src": "/assets/icones/meditations/icone-meditation-au-centre-de-stonehenge.webp",
+  "alt": {
+   "fr": "Méditer face à la pierre dressée, avant l’aube",
+   "en": "Meditating in front of the standing stone, before dawn",
+   "es": "Meditar frente a la piedra erguida, antes del amanecer"
+  }
+ },
+ "lieux06": {
+  "src": "/assets/icones/meditations/icone-meditation-la-grotte-de-glace-bleue.webp",
+  "alt": {
+   "fr": "Un cristal pur comme la glace, la goutte devenue diamant",
+   "en": "A crystal as pure as ice, the drop turned into diamond",
+   "es": "Un cristal puro como el hielo, la gota convertida en diamante"
+  }
+ },
+ "lieux07": {
+  "src": "/assets/icones/meditations/icone-meditation-les-aurores-boreales-et-le-cercle-de-cristaux.webp",
+  "alt": {
+   "fr": "Les aurores boréales au-dessus de la neige et du lac",
+   "en": "The northern lights above the snow and the lake",
+   "es": "Las auroras boreales sobre la nieve y el lago"
+  }
+ },
+ "cosmiq01": {
+  "src": "/assets/icones/meditations/icone-meditation-conscience-non-duelle.webp",
+  "alt": {
+   "fr": "L’ensō, cercle où dedans et dehors se rejoignent",
+   "en": "The ensō, a circle where inside and outside meet",
+   "es": "El ensō, un círculo donde dentro y fuera se encuentran"
+  }
+ },
+ "cosmiq02": {
+  "src": "/assets/icones/meditations/icone-meditation-expansion-du-corps-de-lumiere.webp",
+  "alt": {
+   "fr": "Une silhouette rayonnante, la lumière qui dépasse la peau",
+   "en": "A radiant figure, the light reaching beyond the skin",
+   "es": "Una silueta radiante, la luz que va más allá de la piel"
+  }
+ },
+ "savoir01": {
+  "src": "/assets/icones/meditations/icone-meditation-le-gardien-des-archives.webp",
+  "alt": {
+   "fr": "Un coffre de rouleaux, les archives et leur gardien",
+   "en": "A chest of scrolls, the archives and their keeper",
+   "es": "Un cofre de pergaminos, los archivos y su guardián"
+  }
+ },
+ "savoir02": {
+  "src": "/assets/icones/meditations/icone-meditation-le-jardin-des-retrouvailles.webp",
+  "alt": {
+   "fr": "Le pont du jardin, là où l’on se retrouve",
+   "en": "The garden bridge, where we meet again",
+   "es": "El puente del jardín, allí donde nos reencontramos"
+  }
+ },
+ "savoir03": {
+  "src": "/assets/icones/meditations/icone-meditation-mon-animal-parti.webp",
+  "alt": {
+   "fr": "Un chat endormi sur son coussin, le compagnon parti",
+   "en": "A cat asleep on its cushion, the departed companion",
+   "es": "Un gato dormido en su cojín, el compañero que ya no está"
+  }
+ },
+ "reves01": {
+  "src": "/assets/icones/meditations/icone-meditation-preparation-au-reve-lucide.webp",
+  "alt": {
+   "fr": "L’améthyste et la lune, pierre des rêves lucides",
+   "en": "The amethyst and the moon, stone of lucid dreams",
+   "es": "La amatista y la luna, piedra de los sueños lúcidos"
+  }
+ },
+ "reves02": {
+  "src": "/assets/icones/meditations/icone-meditation-voyage-du-sommeil.webp",
+  "alt": {
+   "fr": "Un croissant de lune sur les nuages du sommeil",
+   "en": "A crescent moon on the clouds of sleep",
+   "es": "Una luna creciente sobre las nubes del sueño"
+  }
+ },
+ "croiss01": {
+  "src": "/assets/icones/meditations/icone-meditation-accueillir-une-emotion-difficile.webp",
+  "alt": {
+   "fr": "Des mains ouvertes pour accueillir ce qui passe",
+   "en": "Open hands to welcome what passes through",
+   "es": "Manos abiertas para acoger lo que pasa"
+  }
+ },
+ "croiss02": {
+  "src": "/assets/icones/meditations/icone-meditation-developper-l-amour-de-soi.webp",
+  "alt": {
+   "fr": "Un cœur de quartz rose, un peu d’amour pour soi",
+   "en": "A rose quartz heart, a little love for yourself",
+   "es": "Un corazón de cuarzo rosa, un poco de amor propio"
+  }
+ },
+ "croiss03": {
+  "src": "/assets/icones/meditations/icone-meditation-gratitude-quotidienne.webp",
+  "alt": {
+   "fr": "Un bol de fleurs offert, merci pour chaque jour",
+   "en": "A bowl of flowers offered, thank you for each day",
+   "es": "Un cuenco de flores ofrecido, gracias por cada día"
+  }
+ },
+ "croiss04": {
+  "src": "/assets/icones/meditations/icone-meditation-ouvrir-son-coeur-a-l-amour.webp",
+  "alt": {
+   "fr": "Deux grues dessinent un cœur, s’ouvrir à l’amour",
+   "en": "Two cranes trace a heart, opening up to love",
+   "es": "Dos grullas dibujan un corazón, abrirse al amor"
+  }
+ },
+ "croiss05": {
+  "src": "/assets/icones/meditations/icone-meditation-pardonner-sans-oublier.webp",
+  "alt": {
+   "fr": "La colombe du pardon, déposer ou garder",
+   "en": "The dove of forgiveness, to lay down or to keep",
+   "es": "La paloma del perdón, soltar o guardar"
+  }
+ },
+ "croiss06": {
+  "src": "/assets/icones/meditations/icone-meditation-se-liberer-de-la-comparaison.webp",
+  "alt": {
+   "fr": "La géode cache son trésor, déjà dans sa propre vie",
+   "en": "The geode hides its treasure, already in your own life",
+   "es": "La geoda esconde su tesoro, ya en tu propia vida"
+  }
+ },
+ "croiss07": {
+  "src": "/assets/icones/meditations/icone-meditation-visualiser-sa-croissance.webp",
+  "alt": {
+   "fr": "Une pousse qui grandit, même à travers la pierre",
+   "en": "A sprout that grows, even through stone",
+   "es": "Un brote que crece, incluso a través de la piedra"
+  }
+ },
+ "guides01": {
+  "src": "/assets/icones/meditations/icone-meditation-gratitude-aux-guides.webp",
+  "alt": {
+   "fr": "Mains jointes pour remercier ceux qui ont compté",
+   "en": "Hands joined to thank those who mattered",
+   "es": "Manos juntas para agradecer a quienes han sido importantes"
+  }
+ },
+ "guides02": {
+  "src": "/assets/icones/meditations/icone-meditation-le-conseil-des-guides.webp",
+  "alt": {
+   "fr": "Le pavillon où se réunit le conseil des guides",
+   "en": "The pavilion where the council of guides meets",
+   "es": "El pabellón donde se reúne el consejo de los guías"
+  }
+ },
+ "guides03": {
+  "src": "/assets/icones/meditations/icone-meditation-le-guide-de-lumiere.webp",
+  "alt": {
+   "fr": "Une lanterne pour garder la chaleur du guide",
+   "en": "A lantern to keep the guide’s warmth",
+   "es": "Un farol para conservar el calor del guía"
+  }
+ },
+ "guides04": {
+  "src": "/assets/icones/meditations/icone-meditation-le-nom-et-le-signe.webp",
+  "alt": {
+   "fr": "Un sceau de jade, le nom et le signe reçus",
+   "en": "A jade seal, the name and the sign received",
+   "es": "Un sello de jade, el nombre y la señal recibidos"
+  }
+ },
+ "guides05": {
+  "src": "/assets/icones/meditations/icone-meditation-les-dix-marches-du-temple-de-lumiere.webp",
+  "alt": {
+   "fr": "Dix marches vers la lumière du temple, jusqu’à l’eau calme",
+   "en": "Ten steps toward the temple’s light, all the way to the calm water",
+   "es": "Diez peldaños hacia la luz del templo, hasta el agua en calma"
+  }
+ },
+ "microd01": {
+  "src": "/assets/icones/meditations/icone-meditation-l-aimant-au-plafond.webp",
+  "alt": {
+   "fr": "Une montgolfière légère, attirée doucement vers le haut",
+   "en": "A light hot-air balloon, gently drawn upward",
+   "es": "Un globo aerostático ligero, atraído suavemente hacia arriba"
+  }
+ },
+ "microd02": {
+  "src": "/assets/icones/meditations/icone-meditation-le-petit-decalage.webp",
+  "alt": {
+   "fr": "Deux anneaux décalés, le contour qui glisse un peu",
+   "en": "Two offset rings, the outline slipping a little",
+   "es": "Dos anillos desplazados, el contorno que se desliza un poco"
+  }
+ },
+ "microd03": {
+  "src": "/assets/icones/meditations/icone-meditation-le-point-derriere-la-tete.webp",
+  "alt": {
+   "fr": "La chouette regarde derrière elle, un autre point de vue",
+   "en": "The owl looks behind it, another point of view",
+   "es": "El búho mira hacia atrás, otro punto de vista"
+  }
+ },
+ "microd04": {
+  "src": "/assets/icones/meditations/icone-meditation-le-toboggan.webp",
+  "alt": {
+   "fr": "L’eau qui glisse sur la pente, puis ralentit",
+   "en": "Water sliding down the slope, then slowing down",
+   "es": "El agua que se desliza por la pendiente y luego se ralentiza"
+  }
+ },
+ "microd05": {
+  "src": "/assets/icones/meditations/icone-meditation-s-asseoir-fantome.webp",
+  "alt": {
+   "fr": "Un coussin où s’asseoir en pensée, presque pour de vrai",
+   "en": "A cushion to sit on in your mind, almost for real",
+   "es": "Un cojín donde sentarte con el pensamiento, casi de verdad"
+  }
+ },
+ "corpsc01": {
+  "src": "/assets/icones/meditations/icone-meditation-activation-du-corps-energetique.webp",
+  "alt": {
+   "fr": "Un lotus qui s’illumine, les sensations subtiles qui s’éveillent",
+   "en": "A lotus lighting up, subtle sensations awakening",
+   "es": "Un loto que se ilumina, las sensaciones sutiles que despiertan"
+  }
+ },
+ "corpsc02": {
+  "src": "/assets/icones/meditations/icone-meditation-deblocage-creatif.webp",
+  "alt": {
+   "fr": "Le pinceau libre, les idées même imparfaites",
+   "en": "The free brush, ideas even when imperfect",
+   "es": "El pincel libre, las ideas aunque sean imperfectas"
+  }
+ },
+ "corpsc03": {
+  "src": "/assets/icones/meditations/icone-meditation-glissement-vers-le-sommeil.webp",
+  "alt": {
+   "fr": "Le masque de nuit, glisser vers le sommeil sans réveil",
+   "en": "The sleep mask, drifting off without waking",
+   "es": "El antifaz para dormir, deslizarse hacia el sueño sin despertar"
+  }
+ },
+ "corpsc04": {
+  "src": "/assets/icones/meditations/icone-meditation-geometrie-sacree.webp",
+  "alt": {
+   "fr": "L’étoile de cristal, formes simples de la géométrie sacrée",
+   "en": "The crystal star, simple shapes of sacred geometry",
+   "es": "La estrella de cristal, formas simples de la geometría sagrada"
+  }
+ },
+ "astr01": {
+  "src": "/assets/icones/meditations/icone-meditation-astral-flottement-vers-le-plafond.webp",
+  "alt": {
+   "fr": "Légère comme une plume, flotter vers le plafond",
+   "en": "Light as a feather, floating up toward the ceiling",
+   "es": "Ligera como una pluma, flotar hacia el techo"
+  }
+ },
+ "astr02": {
+  "src": "/assets/icones/meditations/icone-meditation-astral-le-redressement.webp",
+  "alt": {
+   "fr": "Le bambou se redresse, droit et souple",
+   "en": "The bamboo rises back up, straight and supple",
+   "es": "El bambú se endereza, recto y flexible"
+  }
+ },
+ "astr03": {
+  "src": "/assets/icones/meditations/icone-meditation-astral-les-membres-interieurs.webp",
+  "alt": {
+   "fr": "Un bras qui s’étire, bouger les membres intérieurs",
+   "en": "An arm stretching, moving the inner limbs",
+   "es": "Un brazo que se estira, mover los miembros interiores"
+  }
+ },
+ "astr04": {
+  "src": "/assets/icones/meditations/icone-meditation-astral-cible-a-verifier.webp",
+  "alt": {
+   "fr": "Une carte-cible à percevoir avant de la retourner",
+   "en": "A target card to perceive before turning it over",
+   "es": "Una carta objetivo para percibir antes de darle la vuelta"
+  }
+ },
+ "astr05": {
+  "src": "/assets/icones/meditations/icone-meditation-astral-protocole-de-rencontre.webp",
+  "alt": {
+   "fr": "Une biche qu’on approche doucement, à distance choisie",
+   "en": "A doe approached gently, at a chosen distance",
+   "es": "Una cierva a la que te acercas despacio, a la distancia elegida"
+  }
+ },
+ "astr06": {
+  "src": "/assets/icones/meditations/icone-meditation-astral-techniques-de-deplacement.webp",
+  "alt": {
+   "fr": "Un pont dans les nuages, passer d’un lieu à l’autre",
+   "en": "A bridge in the clouds, crossing from one place to another",
+   "es": "Un puente entre las nubes, pasar de un lugar a otro"
+  }
+ },
+ "astr07": {
+  "src": "/assets/icones/meditations/icone-meditation-astral-techniques-de-vision.webp",
+  "alt": {
+   "fr": "Un globe où viennent les images intérieures",
+   "en": "A globe where inner images appear",
+   "es": "Una esfera donde llegan las imágenes interiores"
+  }
+ },
+ "astr08": {
+  "src": "/assets/icones/meditations/icone-meditation-astral-visualisation-du-double.webp",
+  "alt": {
+   "fr": "Le miroir, pour se voir de l’extérieur",
+   "en": "The mirror, to see yourself from the outside",
+   "es": "El espejo, para verte desde fuera"
+  }
+ },
+ "ombre01": {
+  "src": "/assets/icones/meditations/icone-meditation-ho-oponopono-du-coeur.webp",
+  "alt": {
+   "fr": "Les perles du mala, les quatre phrases au rythme du souffle",
+   "en": "The mala beads, the four phrases in rhythm with the breath",
+   "es": "Las cuentas del mala, las cuatro frases al ritmo de la respiración"
+  }
+ },
+ "ombre02": {
+  "src": "/assets/icones/meditations/icone-meditation-la-foret-des-ronces.webp",
+  "alt": {
+   "fr": "Du bois emmêlé, cesser de lutter contre ce qui accroche",
+   "en": "Tangled wood, to stop struggling against what snags you",
+   "es": "Madera enredada, dejar de luchar contra lo que te atrapa"
+  }
+ },
+ "ombre03": {
+  "src": "/assets/icones/meditations/icone-meditation-liberation-de-la-peur.webp",
+  "alt": {
+   "fr": "Les lions gardiens de la porte, la sentinelle qui veille",
+   "en": "The guardian lions at the gate, the sentinel keeping watch",
+   "es": "Los leones guardianes de la puerta, el centinela que vigila"
+  }
+ },
+ "ombre04": {
+  "src": "/assets/icones/meditations/icone-meditation-se-pardonner-a-soi-meme.webp",
+  "alt": {
+   "fr": "Le lotus blanc sort intact de la boue",
+   "en": "The white lotus rises intact from the mud",
+   "es": "El loto blanco sale intacto del barro"
+  }
+ },
+ "ombre05": {
+  "src": "/assets/icones/meditations/icone-meditation-serenite-de-l-enfant-interieur.webp",
+  "alt": {
+   "fr": "Un enfant serein, en sécurité sur son nuage",
+   "en": "A serene child, safe on their cloud",
+   "es": "Un niño sereno, a salvo en su nube"
+  }
+ },
+ "ombre06": {
+  "src": "/assets/icones/meditations/icone-meditation-travail-de-l-ombre.webp",
+  "alt": {
+   "fr": "Le yin-yang, la part d’ombre et sa lumière",
+   "en": "The yin-yang, the shadow side and its light",
+   "es": "El yin-yang, la parte de sombra y su luz"
+  }
+ },
+ "ombre07": {
+  "src": "/assets/icones/meditations/icone-meditation-la-peur-de-l-abandon.webp",
+  "alt": {
+   "fr": "Les mains posées sur soi, un appui qui reste",
+   "en": "Hands resting on yourself, a support that stays",
+   "es": "Las manos posadas sobre ti, un apoyo que permanece"
+  }
+ },
+ "ombre08": {
+  "src": "/assets/icones/meditations/icone-meditation-la-peur-de-l-echec.webp",
+  "alt": {
+   "fr": "Le phénix renaît : avoir échoué n’est pas être un échec",
+   "en": "The phoenix is reborn: having failed is not being a failure",
+   "es": "El fénix renace: haber fracasado no es ser un fracaso"
+  }
+ },
+ "ombre09": {
+  "src": "/assets/icones/meditations/icone-meditation-la-peur-du-jugement.webp",
+  "alt": {
+   "fr": "Une ombrelle pour s’abriter des regards, avec douceur",
+   "en": "A parasol to shelter from others’ eyes, gently",
+   "es": "Una sombrilla para resguardarte de las miradas, con suavidad"
+  }
+ },
+ "ombre10": {
+  "src": "/assets/icones/meditations/icone-meditation-la-peur-du-noir.webp",
+  "alt": {
+   "fr": "Une veilleuse dans la nuit, le noir apprivoisé",
+   "en": "A night-light in the dark, the darkness tamed",
+   "es": "Una lamparita en la noche, la oscuridad domesticada"
+  }
+ },
+ "consci01": {
+  "src": "/assets/icones/meditations/icone-meditation-bibliotheque-infinie.webp",
+  "alt": {
+   "fr": "Un livre sans fin, escalier vers les étoiles",
+   "en": "An endless book, a staircase to the stars",
+   "es": "Un libro sin fin, escalera hacia las estrellas"
+  }
+ },
+ "consci02": {
+  "src": "/assets/icones/meditations/icone-meditation-corps-endormi-esprit-eveille.webp",
+  "alt": {
+   "fr": "Une bougie veille quand le corps s’endort",
+   "en": "A candle keeps watch as the body falls asleep",
+   "es": "Una vela hace guardia mientras el cuerpo se duerme"
+  }
+ },
+ "consci03": {
+  "src": "/assets/icones/meditations/icone-meditation-la-spirale-aux-33-niveaux.webp",
+  "alt": {
+   "fr": "Une spirale d’eau qui descend, niveau après niveau",
+   "en": "A spiral of water descending, level after level",
+   "es": "Una espiral de agua que desciende, nivel tras nivel"
+  }
+ },
+ "consci04": {
+  "src": "/assets/icones/meditations/icone-meditation-le-grenier-aux-objets-oublies.webp",
+  "alt": {
+   "fr": "Une vieille malle du grenier, ouverte ou laissée fermée",
+   "en": "An old trunk from the attic, opened or left closed",
+   "es": "Un viejo baúl del desván, que abres o dejas cerrado"
+  }
+ },
+ "consci05": {
+  "src": "/assets/icones/meditations/icone-meditation-le-reve-eveille-dirige.webp",
+  "alt": {
+   "fr": "Un livre d’images vivantes, l’histoire qui change",
+   "en": "A book of living pictures, the story that changes",
+   "es": "Un libro de imágenes vivas, la historia que cambia"
+  }
+ },
+ "consci06": {
+  "src": "/assets/icones/meditations/icone-meditation-le-vide-fertile.webp",
+  "alt": {
+   "fr": "Du sable vide où pousse un arbre, le vide fertile",
+   "en": "Empty sand where a tree grows, the fertile void",
+   "es": "Arena vacía donde crece un árbol, el vacío fértil"
+  }
+ },
+ "consci07": {
+  "src": "/assets/icones/meditations/icone-meditation-soi-du-futur.webp",
+  "alt": {
+   "fr": "La boussole de la direction souhaitée, puis le premier pas",
+   "en": "The compass set on the desired direction, then the first step",
+   "es": "La brújula de la dirección deseada, luego el primer paso"
+  }
+ },
+ "trance01": {
+  "src": "/assets/icones/meditations/icone-meditation-descente-en-transe-progressive.webp",
+  "alt": {
+   "fr": "Des marches de pierre, descendre palier par palier",
+   "en": "Stone steps, going down stage by stage",
+   "es": "Escalones de piedra, bajar tramo a tramo"
+  }
+ },
+ "trance02": {
+  "src": "/assets/icones/meditations/icone-meditation-voyage-au-monde-d-en-bas.webp",
+  "alt": {
+   "fr": "Le tambour du voyage, pour suivre l’animal",
+   "en": "The journey drum, to follow the animal",
+   "es": "El tambor del viaje, para seguir al animal"
+  }
+ },
+ "trance03": {
+  "src": "/assets/icones/meditations/icone-meditation-voyage-au-monde-d-en-haut.webp",
+  "alt": {
+   "fr": "Un monde au-dessus des nuages, la vue qui s’élargit",
+   "en": "A world above the clouds, the view widening",
+   "es": "Un mundo sobre las nubes, la vista que se amplía"
+  }
+ },
+ "trance04": {
+  "src": "/assets/icones/meditations/icone-meditation-vies-passees-temps.webp",
+  "alt": {
+   "fr": "Le sablier, remonter le temps de la lignée",
+   "en": "The hourglass, going back through time along the lineage",
+   "es": "El reloj de arena, remontar el tiempo del linaje"
+  }
+ },
+ "trance05": {
+  "src": "/assets/icones/meditations/icone-meditation-le-contrat-de-mon-ame.webp",
+  "alt": {
+   "fr": "Un parchemin à relire, le contrat de l’âme",
+   "en": "A scroll to reread, the soul’s contract",
+   "es": "Un pergamino para releer, el contrato del alma"
+  }
+ },
+ "trance06": {
+  "src": "/assets/icones/meditations/icone-meditation-le-couloir-aux-mille-portes.webp",
+  "alt": {
+   "fr": "Une porte ancienne parmi mille, vers d’autres époques",
+   "en": "An ancient door among a thousand, toward other eras",
+   "es": "Una puerta antigua entre mil, hacia otras épocas"
+  }
+ },
+ "trance07": {
+  "src": "/assets/icones/meditations/icone-meditation-les-talents-oublies.webp",
+  "alt": {
+   "fr": "Un coffret sculpté, le geste d’un artisan d’autrefois",
+   "en": "A carved box, the touch of an artisan from long ago",
+   "es": "Una caja tallada, la mano de un artesano de antaño"
+  }
+ },
+ "cons02": {
+  "src": "/assets/icones/meditations/icone-meditation-reinitialisation-des-chakras.webp",
+  "alt": {
+   "fr": "Le bol de cristal, accordé aux sept chakras",
+   "en": "The crystal bowl, tuned to the seven chakras",
+   "es": "El cuenco de cristal, afinado para los siete chakras"
+  }
+ },
+ "cons03": {
+  "src": "/assets/icones/meditations/icone-meditation-astral-la-corde.webp",
+  "alt": {
+   "fr": "Monter vers le ciel étoilé, hors du corps",
+   "en": "Climbing toward the starry sky, outside the body",
+   "es": "Subir hacia el cielo estrellado, fuera del cuerpo"
+  }
+ },
+ "cons04": {
+  "src": "/assets/icones/meditations/icone-meditation-astral-la-chute-imaginaire.webp",
+  "alt": {
+   "fr": "Une chute d’eau dans les nuages, se laisser tomber",
+   "en": "A waterfall in the clouds, letting yourself fall",
+   "es": "Una cascada entre las nubes, dejarse caer"
+  }
+ },
+ "cons05": {
+  "src": "/assets/icones/meditations/icone-meditation-astral-la-cible.webp",
+  "alt": {
+   "fr": "Une étoile, point cible dans l’espace",
+   "en": "A star, a target point in space",
+   "es": "Una estrella, punto objetivo en el espacio"
+  }
+ },
+ "cons06": {
+  "src": "/assets/icones/meditations/icone-meditation-meditation-de-compassion.webp",
+  "alt": {
+   "fr": "Le moulin à prières envoie des vœux à tous les êtres",
+   "en": "The prayer wheel sends good wishes to all beings",
+   "es": "El molino de oración envía buenos deseos a todos los seres"
+  }
+ },
+ "learnFirstSilence": {
+  "src": "/assets/icones/meditations/icone-meditation-premiere-meditation-silencieuse.webp",
+  "alt": {
+   "fr": "Les mains en méditation, le silence comme pratique",
+   "en": "Hands in meditation, silence as practice",
+   "es": "Las manos en meditación, el silencio como práctica"
+  }
+ }
+}
