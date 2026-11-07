@@ -218,12 +218,15 @@ def ty(lang, s):
     return s.replace('« ', '« ').replace("'", '’')
 
 
-def photo(ap, lang, key):
-    """(balise <img> de l'en-tête, chemin, alt) depuis _queue/photos.json : WebP 760 px et 440 px."""
+def photo(ap, lang, key, sujet=None):
+    """(balise <img> de l'en-tête, chemin, alt) depuis _queue/photos.json : WebP 760 px et 440 px.
+    07-11 : « sujet » (l'objectif de la page) précède la description de la photo dans l'alt, comme le mot principal."""
     P = {x['id']: x for x in json.load(open(os.path.join(ROOT, '_queue', 'photos.json'), encoding='utf-8'))}
     x = P[PHOTO[key]]
     src, s440 = '/assets/blog/' + x['src'], '/assets/blog/' + x['src_s']
     alt = x.get(f'alt_{lang}') or x['alt_fr']
+    if sujet:
+        alt = f"{sujet}{' : ' if lang == 'fr' else ': '}{alt[0].lower()}{alt[1:]}"
     titre = alt if len(alt) <= 70 else alt[:alt.rfind(' ', 0, 66)].rstrip(' ,;:') + '…'
     tag = (f'<img src="{ap.rel(src, DEPTH)}" srcset="{ap.rel(s440, DEPTH)} 440w, {ap.rel(src, DEPTH)} 760w" sizes="(max-width: 860px) 62vw, 360px" '
            f'alt="{E(alt)}" title="{E(titre)}"{ap.dims(src)} fetchpriority="high" decoding="async">')
@@ -342,7 +345,7 @@ def render(ap, bb, lang, num, D, cat, P):
     sel = seances_visibles(o, meds)
     I = charge('icones_site.json') or {}
     tc = ty(lang, o['titre_court'])
-    tag, src, img_alt = photo(ap, lang, num)
+    tag, src, img_alt = photo(ap, lang, num, o.get('titre_court'))
     # séances, rangées par catégorie (dans l'ordre où le document les cite)
     groupes = {}
     for cid, m, interet in sel:
@@ -466,12 +469,33 @@ def page(ap, bb, lang, title, desc, me, alts, src, ld, body, img_alt):
     return h + '<main class="plm">' + body + '</main>' + foot + '</body></html>'
 
 
+# 07-11 : adresses renommées pour porter le mot principal (pages créées le 06-11) ; l'ancienne adresse renvoie vers la nouvelle
+ANCIENNES = {'fr': {'14': ['evasion-mondes-immersifs']}, 'en': {'05': ['emotional-balance']}}
+
+
+def renvoi(lang, ancien, nouveau, titre):
+    """page de renvoi à l'ancienne adresse : rafraîchissement immédiat, canonique vers la nouvelle, hors index."""
+    url = f'{BASE_SITE}/{lang}/{DIR[lang]}/{nouveau}.html'
+    return (f'<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><title>{E(titre)}</title>'
+            f'<link rel="canonical" href="{url}"><meta name="robots" content="noindex">'
+            f'<meta http-equiv="refresh" content="0; url={nouveau}.html"></head>'
+            f'<body><p><a href="{nouveau}.html">{E(titre)}</a></p></body></html>')
+
+
+BASE_SITE = 'https://meditadream.com'
+
+
 def build(ap, bb, cat, P):
     written = []
     for lang in LANGS:
         D = textes(lang)
         if not D or lang not in P: continue
         os.makedirs(f'{ROOT}/{lang}/{DIR[lang]}', exist_ok=True)
+        for num, anciens in ANCIENNES.get(lang, {}).items():
+            o = D['objectifs'].get(num)
+            for ancien in anciens:
+                if o and o['slug'] != ancien:
+                    open(f'{ROOT}/{lang}/{DIR[lang]}/{ancien}.html', 'w', encoding='utf-8').write(renvoi(lang, ancien, o['slug'], o['h1']))
         me = chemin(lang, None, D)
         ap._write(me + 'index.html', render_hub(ap, bb, lang, D, cat, P))
         written.append((me, {x: chemin(x) for x in LANGS if chemin(x)}))
