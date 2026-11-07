@@ -737,6 +737,7 @@ def build():
     print(f'✓ articles en français seul : {len(blog_fr.published(fr_seuls))} publié(s), {len(fr_seuls) - len(blog_fr.published(fr_seuls))} programmé(s)')
     pub = sum(1 for a in arts if a.get('published'))
     print(f'✓ blog reconstruit : {pub} article(s) publié(s) × 3 langues + index + sitemap-blog.xml')
+    import liens_auto; liens_auto.main()  # 07-11 : liens internes automatiques vers les pages en ligne (mots-clés de la carte)
     import seo_medias; seo_medias.main()  # texte alternatif + titre de chaque image, sitemaps images et vidéos
     import mesure; mesure.main(False)  # balise Google Analytics + consentement sur toutes les pages
 
