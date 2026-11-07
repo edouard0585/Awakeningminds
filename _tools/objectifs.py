@@ -282,6 +282,7 @@ def programme_html(ap, lang, o, meds, P):
     design super, optimisé par rapport aux statistiques des mots-clés ») : parcours en 3 à 5 étapes (période, but, séances
     avec icône, fonctionnalités, geste du jour, repère de progrès), titre bâti sur les recherches réelles (défi méditation,
     daily meditation, rutina para dormir…). Seules les séances du catalogue filtré (a_venir.json) sont montrées."""
+    import piliers   # rich() : [ancre](/chemin) → lien interne vers la page qui porte le mot-clé
     pr = o.get('programme')
     if not pr: return ''
     ol = OL[lang]; I = charge('icones_site.json') or {}
@@ -302,7 +303,7 @@ def programme_html(ap, lang, o, meds, P):
             h = lien_fonction(ap, lang, nf, P)
             dedans = icone(ap, ic.get('src'), (ic.get('alt') or {}).get(lang, nom), nom) + f'<span>{E(ty(lang, nom))}</span>'
             fs += '<li>' + (f'<a href="{h}">{dedans}</a>' if h else f'<span class="nl">{dedans}</span>') + '</li>'
-        etapes += (f'<li><div><p class="ob-tl-p">{E(ty(lang, e["periode"]))}</p><h3>{E(ty(lang, e["titre"]))}</h3><p>{E(ty(lang, e["texte"]))}</p>'
+        etapes += (f'<li><div><p class="ob-tl-p">{E(ty(lang, e["periode"]))}</p><h3>{E(ty(lang, e["titre"]))}</h3><p>{piliers.rich(ty(lang, e["texte"]))}</p>'
                    + (f'<ul class="ob-tl-s" aria-label="{E(ol["seances_cap"])}">{ss}</ul>' if ss else '')
                    + (f'<ul class="ob-tl-f">{fs}</ul>' if fs else '')
                    + f'<div class="ob-tl-gr"><div><b>{E(ol["geste"])}</b><p>{E(ty(lang, e["geste"]))}</p></div>'
@@ -411,7 +412,7 @@ def render(ap, bb, lang, num, D, cat, P):
                  {'@type': 'ListItem', 'position': i + 1, 'name': m['title'][lang],
                   'url': bb.BASE + ap.u(lang, 'med', P[lang]['categories'][cid]['slug']) + '#' + m['id']} for i, (cid, m, _) in enumerate(sel)]},
              ({'@type': 'HowTo', 'name': o['programme']['titre'], 'description': o['programme']['intro'], 'step': [
-                 {'@type': 'HowToStep', 'position': i + 1, 'name': e['titre'], 'text': e['texte']} for i, e in enumerate(o['programme']['etapes'])]}
+                 {'@type': 'HowToStep', 'position': i + 1, 'name': e['titre'], 'text': piliers.plain(e['texte'])} for i, e in enumerate(o['programme']['etapes'])]}
               if o.get('programme') else
               {'@type': 'HowTo', 'name': ol['h_etapes'].format(t=o['titre_court']), 'step': [
                  {'@type': 'HowToStep', 'position': i + 1, 'text': x} for i, x in enumerate(o['etapes'])]}),

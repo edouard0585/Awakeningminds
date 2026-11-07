@@ -805,6 +805,50 @@ CARTE_T = {
 }
 
 
+# 07-11 : objectif (pages _tools/objectifs.py) le plus proche d'un article → lien vers son programme dans l'encadré « À pratiquer »
+OBJ_ARTICLE = [
+    (r'reve-lucide|(^|-)reves?(-|$)|songe|cauchemar', '12'),
+    (r'deuil|pardon|lacher-prise|defunt|retrouvailles|memento-mori', '13'),
+    (r'anxi|panique|angoiss|grounding', '03'),
+    (r'dormir|sommeil|endormir|yoga-nidra|nsdr|insomn|sieste|coucher', '01'),
+    (r'stress|se-calmer|calmer|coherence|respiration|souffle|pause|burn', '02'),
+    (r'chaman|tambour|animal|transe|astral|projection|hypnose|decorporation|hors-du-corps|sortie-de-corps|etats?-modifies', '07'),
+    (r'scan-corporel|(^|-)corps(-|$)|relaxation|douleur|detente|tension', '04'),
+    (r'confiance|estime|motivation|amour-de-soi|courage|decision', '11'),
+    (r'emotion|colere|gratitude|compassion|bienveillance|ombre|enfant-interieur|rumin|culpabil|bonheur|relation|critique|pleur|peurs?(-|$)', '05'),
+    (r'concentration|attention|creativ|memoire|focus|productiv|preparation-mentale|sport|visualis|imagerie', '10'),
+    (r'bouddh|zen|vipassana|metta|qi-gong|qigong|tai-chi|chi-kung|samatha|bodhisattva|tonglen|stoic|naikan', '09'),
+    (r'eveil|chakra|kundalini|troisieme-oeil|pineale|guides?-spirit|(^|-)anges?(-|$)|synchronic|signes|akashi|vies?-anterieures?|non-dual|cosmique|energie|aura|lune|aube|brahma|autel', '06'),
+    (r'mondes|voyage-interieur|imaginaire|aventure|conte|mythe|atlantide|lieux|pelerinage|temple|sacre|nature|foret|shinrin', '14'),
+    (r'debutant|apprendre|mediter|silence|pleine-conscience|posture', '08'),
+]
+CAT_OBJ = {'calm': '01', 'fourMin': '02', 'learningBasics': '08', 'emotionalGrowth': '05', 'shadow': '05', 'buddhist': '09', 'qigong': '09',
+           'trance': '07', 'tranceTechniques': '07', 'shamanic': '07', 'astralJourneys': '07', 'astralMicroDetach': '07', 'thirdEye': '06',
+           'higherKnowledge': '06', 'cosmic': '06', 'guides': '06', 'visualisation': '10', 'miniAdventures': '14', 'sacred': '14'}
+OBJ_CARTE = {'fr': 'Ton programme', 'en': 'Your program', 'es': 'Tu programa'}
+
+
+def objectif_article(slug_fr, cid):
+    for rx, n in OBJ_ARTICLE:
+        if re.search(rx, slug_fr or ''): return n
+    return CAT_OBJ.get(cid)
+
+
+def lien_programme(lang, slug_fr, cid):
+    """Lien de l'encadré « À pratiquer » vers le programme en étapes de l'objectif le plus proche (ancre = titre du programme,
+    bâti sur une recherche réelle). '' si les pages objectifs n'existent pas dans cette langue."""
+    try:
+        import objectifs
+        D = objectifs.textes(lang); n = objectif_article(slug_fr, cid)
+        if not D or n not in D['objectifs']: return ''
+        o = D['objectifs'][n]; p = o.get('programme')
+        h = objectifs.chemin(lang, n, D) + ('#programme' if p else '')
+        return (f'<a class="ap-prat-p" href="{h}"><em>{E(OBJ_CARTE[lang])}</em>'
+                f'<b>{E(objectifs.ty(lang, p["titre"] if p else o["h1"]))}</b></a>')
+    except Exception:
+        return ''
+
+
 def categorie_article(slug_fr, groupe=None):
     """Catégorie de l'app liée à un article ; une règle peut proposer plusieurs catégories (la première qui existe dans
     le catalogue gagne : « Méditations du monde » n'y est qu'une fois intégrée)."""
@@ -839,7 +883,7 @@ def practice_card(lang, slug_fr, groupe=None):
     n = (plage if min(durs) != max(durs) else une).format(n=len(c['meds']), a=min(durs), b=max(durs))
     return (f'<aside class="ap-prat"><a class="ap-prat-c" href="{u(lang, "med", pc["slug"])}">{VIG_CAT(cid, lang)}'
             f'<span><em>{E(lab)}</em><b>{E(c["name"][lang])}</b><span>{E(n)}</span><i>{E(voir)} →</i></span></a>'
-            f'<a class="ap-prat-dl" href="/app/">✦ {E(dl)}</a></aside>')
+            f'<a class="ap-prat-dl" href="/app/">✦ {E(dl)}</a>{lien_programme(lang, slug_fr, cid)}</aside>')
 
 
 def sitemap_urls(bb, written):
