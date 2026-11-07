@@ -208,7 +208,8 @@ details.mnu>summary{padding:0;font-family:'Cormorant Garamond','Cormorant Fallba
 .mnu summary.on{color:var(--gold)}
 @media(max-width:600px){details.mnu.mnu-ob{display:none}.mnu .mnu-obm{display:block;margin:0 0 14px;padding:0 0 12px;border-bottom:1px solid var(--line)}}
 details.mnu>summary.x,.nav details.mnu>summary{font-size:14px;color:var(--muted);font-family:inherit}.nav .mnu summary:hover{color:var(--gold)}@media(max-width:600px){.nav details.mnu>summary{padding:8px 0}}@media(min-width:601px) and (max-width:1060px){.nav nav{gap:12px}.nav nav a,.nav .mnu summary{font-size:13px}.nav .brand{font-size:20px}}
-.objs{margin:0 0 30px}
+.objs{position:relative;z-index:2;margin:0 0 30px}
+.hero::before{pointer-events:none}
 .objs-t{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin:0 0 10px;font:600 12px/1.2 'Avenir Next','Segoe UI',system-ui,sans-serif;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
 .objs-t a{letter-spacing:.04em;text-transform:none;font-size:13px;color:var(--muted);text-decoration:none;white-space:nowrap}
 .objs-t a:hover{color:var(--gold)}
