@@ -1,7 +1,7 @@
 {
  "antiqueTemple": {
-  "pour_qui": "Choose The Ancient Temple when you have been carrying too much and need a place that feels safe. Its rain, candlelight and gentle guides suit a rainy evening or the end of a long week. Its 19 minutes fit easily into a quiet half hour. If sacred, timeless places move you, this is your world.",
-  "deroule": "You climb worn stone steps through rain and mist, behind a white fox with nine glowing tails. A huge carved door opens under your gentle hand, and inside, hundreds of candles glow among giant stone Buddhas. An old guardian in a smiling wooden mask gives you a small candle, and each lamp you light wakes a painted legend. In a hall of floating candles, your candle can carry one weight away. A wooden bodhisattva opens its eyes and shows you the night the temple was built. Behind a small red door lies your own inner landscape, and dawn turns everything gold.",
+  "pour_qui": "Choose The Ancient Temple when you have been carrying too much and need a place that feels safe. This gentle rain meditation, lit by candles, suits a rainy evening or the end of a long week. Its 19 minutes fit easily into a quiet half hour. If sacred, timeless places move you, this is your sacred space meditation.",
+  "deroule": "You climb worn stone steps through rain and mist, behind a white fox with nine glowing tails. A huge carved door opens under your gentle hand, and inside, hundreds of candles glow among giant stone Buddhas. An old guardian in a smiling wooden mask gives you a small candle. Then the candle meditation begins: each lamp you light wakes a painted legend. In a hall of floating candles, your candle can carry one weight away. A wooden bodhisattva opens its eyes and shows you the night the temple was built. Behind a small red door lies your own inner landscape, and dawn turns everything gold.",
   "conseils": [
    "Sit on a cushion on the floor, like the monks in the temple, and let your body grow heavy.",
    "Before you press play, choose the one weight you would like your candle to carry away.",
@@ -19,16 +19,28 @@
    [
     "What is behind the small red door?",
     "No gold and no jewels, but a wide landscape from your inner world, perhaps a calm sea or hills under snow. It is the heart of the temple, and the guardian lets you open it yourself."
+   ],
+   [
+    "Is the white fox a spirit animal?",
+    "You can see it that way. The nine-tailed fox comes from East Asian legends. As a fox spirit animal, it is often read as a sign of wit and gentle guidance. Here, it simply leads you up the steps to the temple."
+   ],
+   [
+    "Can I light a real candle?",
+    "Yes, if it is safe where you sit. Gazing at the flame for a minute is a simple candle flame meditation. Then close your eyes and let this Buddhist candle meditation take over."
+   ],
+   [
+    "Is there throat singing in the temple?",
+    "Yes, softly, beneath the rain and the old bell. Khoomei, a deep style of throat singing from Central Asia, hums in the background. It makes the visit a quiet throat singing meditation."
    ]
   ]
  },
  "cosmicTemple": {
-  "pour_qui": "When your thoughts feel small and crowded, The Cosmic Temple opens up space. At 13 minutes, it is one of the three shortest worlds, so it fits a quiet evening or a short break. It carries a vast, almost sacred calm, and it suits you well when a question is on your mind.",
+  "pour_qui": "When your thoughts feel small and crowded, The Cosmic Temple opens up space. At 13 minutes, it is one of the three shortest worlds, so it fits a quiet evening or a short break. This celestial meditation carries a vast, almost sacred calm. It suits you well when a question is on your mind.",
   "deroule": "You rise gently above the world into a warm violet dark, where a white marble temple floats. A celestial whale, huge as a hill, carries you around it on her back, then gives you a crystal sphere with a tiny galaxy inside. Within the temple, the marble turns clear as water above the stars. You turn the silver hand of a great golden clock and watch a distant people draw a sign in the sand. That sign becomes the circle of light where you sit, feeling as vast as the cosmos, while a star is born beneath you. In the end, only your sphere's golden glow remains.",
   "conseils": [
    "Lie on your back and open your hands a little, as the session invites you to.",
    "Prepare a short question before you start: you can let it rise like a star.",
-   "Afterwards, Nebula in Timed Ambience keeps the cosmic mood going for a few minutes."
+   "Afterwards, Nebula in Timed Ambience keeps this cosmos meditation going for a few minutes."
   ],
   "faq": [
    [
@@ -37,19 +49,27 @@
    ],
    [
     "What happens at the heart of the temple?",
-    "You sit in a great circle of light, the very sign you saw drawn in the sand. Beneath you, a cloud of dust gathers with your breath until a star is born."
+    "You sit in a great circle of light, the very sign you saw drawn in the sand. Beneath you, a cloud of dust gathers with your breath until a star is born. It is the gentle peak of this star meditation."
    ],
    [
     "Will I get an answer to my question?",
     "The session does not promise one. Your question simply rises and turns into another star in the sky, which is a gentle way of letting it go."
+   ],
+   [
+    "Is the whale a spirit animal?",
+    "She can be, if you like. The whale spirit animal is often linked to depth, wisdom and calm strength. In this whale meditation, she carries you to the temple and leaves you a gift."
+   ],
+   [
+    "Is this a cosmic consciousness meditation?",
+    "You could call it that: for a moment, you feel as vast as the cosmos. There is no state to reach, only a deep and spacious calm. Like a light meditation, it ends in a circle of light and a golden glow."
    ]
   ]
  },
  "crystalCave": {
-  "pour_qui": "The Infinite Crystal Cave suits the end of a heavy day, when your head feels cluttered and you want to feel clear and light again. Its 17 minutes are serene and full of small wonders. Choose it when you would rather rest in light and song than think things through, or simply when you love the hush of deep caves.",
+  "pour_qui": "This crystal cave meditation suits the end of a heavy day. It helps when your head feels cluttered and you want to feel clear and light again. Its 17 minutes are serene and full of small wonders. Choose it when you would rather rest in light and song than think things through, or simply when you love the hush of deep caves.",
   "deroule": "A sloping path leads you deep underground, and you slip through a narrow crack into an immense cavern of glowing crystals. A crystal butterfly guides you past still pools, where a mermaid sings one clear note. When you touch a tall crystal, the whole cave answers with a long chord, and what weighs on you lifts like mist. A boat no thicker than a soap bubble carries you to a little crystal dragon, which leads you to a tiny city of light. You sing softly with its people, then let a shade of light fill you before the crystals dim.",
   "conseils": [
-   "Listen in a dim room, so the glow of the crystals stands out in your mind.",
+   "Listen in a dim room, so the crystal visualization glows more clearly in your mind.",
    "When the tiny people sing, hum along softly if you like: words are not needed.",
    "When a shade of light comes to you near the end, let it choose itself."
   ],
@@ -65,15 +85,19 @@
    [
     "Is this world about emotions?",
     "Its intention is clarity: whatever weighs on you can lift away in the crystal light. You do not need to name or explain anything."
+   ],
+   [
+    "Do I need real crystals?",
+    "No. The crystals are all in your imagination, so there is nothing to buy or hold. If you wonder how to meditate with crystals, this is a gentle start: you simply rest in their light."
    ]
   ]
  },
  "galaxy": {
-  "pour_qui": "Journey Through the Galaxy is for nights when you need perspective and a sense of wonder. In 19 minutes, a train of light takes you past Saturn's rings to the far side of the galaxy and back. Choose it when something weighs on you, or whenever the night sky calls you and you want to travel without moving.",
+  "pour_qui": "This galaxy meditation is for nights when you need perspective and a sense of wonder. In 19 minutes, a train of light takes you past Saturn's rings to the far side of the galaxy and back. Choose it when something weighs on you, or for a starry night meditation that travels without moving.",
   "deroule": "You float free of the ground until a golden train of light stops beside you. From your seat by the window, you watch a whale of light swim alongside, and one of your guides quietly sits next to you. The train crosses the icy rings of Saturn and a shower of shooting stars, then stops at a glass station on an asteroid. In its night market, a merchant with golden eyes gives you a vial holding a tiny turning planet. A ring of light folds space, and at the far end of the galaxy you let a weight pass through the glass. Then the train brings you home.",
   "conseils": [
-   "Sit in a comfortable armchair, like a passenger by the window.",
-   "If you can, look at the night sky for a minute before you start.",
+   "Sit in a comfortable armchair, like a passenger by the window, and let the galaxy visualization unfold.",
+   "If you can, begin with a minute of stargazing meditation at a window or outside.",
    "Afterwards, keep a small glass jar or bottle in view, like the merchant's vial, as a reminder of this calm."
   ],
   "faq": [
@@ -88,21 +112,29 @@
    [
     "What is the ring of light?",
     "A passage that folds space. The train enters it and crosses the whole galaxy in a single breath, where heavy things suddenly feel small."
+   ],
+   [
+    "Can I use it as a space sleep meditation?",
+    "You can listen at night, and the slow train is very soothing. But the session brings you back at the end, so it is not built for falling asleep. For bedtime, Drifting into Sleep ends with no wake-up."
+   ],
+   [
+    "Do I need to like science fiction?",
+    "Not at all. This outer space meditation feels more like a fairy tale than science fiction. Think of a golden train, a whale of light and a night market. You simply sit by the window and watch."
    ]
   ]
  },
  "earthCore": {
-  "pour_qui": "Some days you feel scattered, rushed or a little up in the air. The Heart of the Earth invites you down toward something steady and ancient. At 15 minutes, it fits before a demanding meeting or at the start of a busy day. It will appeal to anyone who likes deep, primal places and gentle surprises.",
+  "pour_qui": "Some days you feel scattered, rushed or a little up in the air. This grounding visualization invites you down toward something steady and ancient. As a 15-minute grounding meditation, it fits before a demanding meeting or at the start of a busy day. It will appeal to anyone who likes deep, primal places and gentle surprises.",
   "deroule": "Warm air breathes out of an opening in the rock, and a wide stone path leads you down. Crystal veins and emerald plants glow in vast caverns, and a wall brightens under your hand as if it were breathing. Rivers of orange light guide you into a hollow world lit by its own gentle sun. A giant butterfly leads you through a jungle to an amber egg resting among the roots of an immense tree. As you hold it, it beats with the Earth, and a small green dragon hatches. Glowing people offer you a word or an image, and a column of light lifts you home.",
   "conseils": [
-   "Sit with both feet flat on the floor, or barefoot on the ground if you can.",
+   "Sit with both feet flat on the floor, or barefoot on the ground if you can. It is one of the simplest earth grounding techniques.",
    "Carry a smooth pebble in your pocket afterwards, as a small reminder of this steadiness.",
    "If you like deep, low sounds, try Monolith, a drone, in Timed Ambience after the session."
   ],
   "faq": [
    [
     "What is at the heart of the Earth?",
-    "A hollow world as vast as a sky, with forests curving up all around and a soft sun floating in the middle. Its warm, golden light is gentle enough to look at directly."
+    "A hollow world as vast as a sky, with forests curving up all around and a soft sun floating in the middle. Its warm, golden light is gentle enough to look at directly. It feels like a Mother Earth meditation: warm, ancient and kind."
    ],
    [
     "What hatches from the amber egg?",
@@ -111,11 +143,19 @@
    [
     "Who lives in the hollow world?",
     "Tall, slender beings whose skin glows like the moon, carrying balls of light. They speak without words and offer you a message to carry with you: one word, or an image."
+   ],
+   [
+    "Is this a good grounding meditation for beginners?",
+    "Yes. There is nothing to master: you follow a path down and let the Earth carry you. Sitting with your feet on the floor helps you feel grounded from the first minute."
+   ],
+   [
+    "What does grounding yourself to the earth mean?",
+    "It means feeling your weight, your contact with the ground and a sense of steadiness. In this world, the image becomes a journey: you travel down to the warm heart of the planet. It is an earth grounding meditation you do with your imagination."
    ]
   ]
  },
  "antarcticBase": {
-  "pour_qui": "When the world feels too loud, The Frozen Sanctuary offers real silence. Its 15 minutes bring stillness, solitude and a touch of mystery, after a noisy day or whenever you crave quiet. Lovers of polar landscapes, the northern lights and calm science fiction will feel at home here.",
+  "pour_qui": "When the world feels too loud, The Frozen Sanctuary offers real silence. This winter guided meditation brings 15 minutes of stillness, solitude and a touch of mystery. Listen after a noisy day, or whenever you crave quiet. Lovers of polar landscapes, the northern lights and calm science fiction will feel at home in this ice meditation.",
   "deroule": "You sink slowly through layers of ancient ice, past old stars caught inside. A polar fox with glowing fur waits at an opening carved by non-human hands, and leads you down a deep blue tunnel where symbols float. You only need to look at them. In a vast hall, frost flowers open as the fox walks by. You sit before a great crystal heart, letting each out-breath lay down what you carry. In an ice library, a book shows a white city from before the ice. Then an aurora guides you out under the open sky, and a white feather carries you home.",
   "conseils": [
    "Wrap yourself in a blanket: the warmth makes the return from the ice even sweeter.",
@@ -134,16 +174,24 @@
    [
     "What does the ice library show?",
     "A book frees itself from the ice under your hand. Its pages show a white city from long before the ice, where calm, kind beings lived among red-furred mammoths."
+   ],
+   [
+    "Is the polar fox a spirit animal?",
+    "You can welcome it as one. The arctic fox spirit animal is often linked to quiet adaptability and finding your way in the cold. Here, it simply guides you through the ice, and you only need to follow."
+   ],
+   [
+    "Is this a snow meditation?",
+    "Partly. Most of the journey happens under the ice, in blue tunnels and frozen halls. At the end, a white feather carries you over the snow, under the aurora."
    ]
   ]
  },
  "skyIsland": {
-  "pour_qui": "Everyone needs a place of their own. The Floating Island is yours, far from demands and noise. It suits the late afternoon or early evening, since its scene moves from a low orange sun to the first stars. Its 19 minutes offer a feeling of freedom and safety, like a private sanctuary above the clouds.",
+  "pour_qui": "Everyone needs a place of their own. The Floating Island is yours, far from demands and noise. It suits the late afternoon or early evening, since its scene moves from a low orange sun to the first stars. Its 19 minutes make a floating meditation full of freedom and safety, like a private sanctuary above the clouds.",
   "deroule": "A bridge of clouds, soft as wool, leads you to a small green island floating high above the world. From its edge, you see forests like moss and cities lighting up far below. You sit by a waterfall that pours into the open sky. Then a great white and gold bird flies you to the ancient tree at the island's heart. A white stag with pearl wings, its guardian, gives you a shining seed. At sunset, a whale passes beneath the island and you set down what you carried. At nightfall, you blow on the seed, and a tiny island is born among the shooting stars.",
   "conseils": [
    "Listen around sunset if you can, so the light outside matches the scene.",
    "When the seed comes, hold it loosely in an open palm until evening.",
-   "Come back often: the island is meant to stay your own refuge."
+   "Come back often: this inner sanctuary meditation is meant to stay your own refuge."
   ],
   "faq": [
    [
@@ -156,16 +204,20 @@
    ],
    [
     "Does the session end at night?",
-    "It does. Evening falls, lanterns light up in the great tree, fireflies float by and shooting stars cross the sky as you walk back over the bridge."
+    "It does. Evening falls, and the last minutes become a night sky meditation. Lanterns light up in the great tree and fireflies float by. Shooting stars cross the sky as you walk back over the bridge."
+   ],
+   [
+    "Is the white stag a spirit animal?",
+    "You can see it that way. The stag spirit animal is often linked to gentleness, dignity and renewal. Here, the winged white stag guards the island and gives you a shining seed."
    ]
   ]
  },
  "zenGarden": {
-  "pour_qui": "When everything moves too fast, The Zen Garden invites you to slow down completely. Its 18 minutes suit a quiet late afternoon or any moment when you need balance. It will also speak to you if you love Japanese gardens, cherry blossoms and simple, elegant calm.",
+  "pour_qui": "When everything moves too fast, this zen garden meditation invites you to slow down completely. It calls up the Zen beginner’s mind: seeing each petal and stone as if for the first time. Its 18 minutes suit a quiet late afternoon or any moment when you need balance. It will also speak to you if you love Japanese gardens, cherry blossoms and simple, elegant calm.",
   "deroule": "You step through a wooden gate into a Japanese garden just after the rain. A white fox with nine tails watches you pass, and a great cherry tree opens all its buds at once. From a little wooden bridge, you feed the koi, and the golden one brushes your hand. A bamboo fountain taps against stone while you let your mind grow as still as the pond. An old gardener raking white sand shares tea with you, and its steam takes the shape of a dragon, then a phoenix. At dusk, stone lanterns light your way to a singing bamboo grove full of fireflies.",
   "conseils": [
    "Sit upright on a cushion or the edge of a chair, hands resting in your lap.",
-   "Let your breathing follow the slow tap of the bamboo fountain, without counting.",
+   "Let your breathing follow the slow tap of the bamboo fountain, without counting. Many zen breathing techniques simply follow the breath like this.",
    "Take a short, slow walk afterwards to carry the pace of the stone path into your day."
   ],
   "faq": [
@@ -179,22 +231,34 @@
    ],
    [
     "Can I fit The Zen Garden into a lunch break?",
-    "Easily. It lasts 18 minutes, which leaves time to settle in before and to stretch a little afterwards."
+    "Easily. This Japanese garden meditation lasts 18 minutes, which leaves time to settle in before and to stretch a little afterwards."
+   ],
+   [
+    "What is zen meditation?",
+    "Zen meditation comes from Zen Buddhism. Zazen meditation, its core practice, means sitting upright and letting thoughts pass. The history of Zen runs from China, where it was called Chan, to Japan. The Zen Garden is a guided visualization in that spirit, not a silent zazen session."
+   ],
+   [
+    "Is this a tea ceremony meditation?",
+    "Not a formal one. The old gardener simply pours you tea on a terrace, and you sip it slowly, like a tea meditation. If you like, make a real cup to drink afterwards."
+   ],
+   [
+    "Are there zen meditation techniques for beginners here?",
+    "Yes, in a gentle form. You sit upright, follow your breath and let the scenes pass without holding on. It is an easy first step before trying silent zazen on your own."
    ]
   ]
  },
  "atlantis": {
-  "pour_qui": "If your feelings seem stuck and you would like them to move again, sink into Underwater Atlantis. Its 17 minutes are slow and fluid, and someone else does the swimming. Choose it if you love the sea, or whenever you want to rest in flow rather than effort.",
+  "pour_qui": "If your feelings seem stuck and you would like them to move again, sink into this Atlantis meditation. Its 17 minutes are slow and fluid, and someone else does the swimming. Choose this sea meditation if you love the ocean, or whenever you want to rest in flow rather than effort.",
   "deroule": "You float on a warm sea, then sink gently and find that you can breathe underwater. Towers crowned with pink coral rise from an ancient city of pale temples. A giant golden seahorse carries you among them, past glowing fish and jellyfish that pulse like bells of light. A couple with moon-pale skin welcomes you into their round house and offers a drink that tastes of mint and honey. In their coral garden, a warm pearl shows you one of your memories. On a terrace of living coral, a distant whale sings as your feelings move and settle. At nightfall, the city lights up before the sea lifts you.",
   "conseils": [
    "Lie down and let your arms rest loosely, as if they were floating.",
-   "Keep breathing at your own pace: the water is only part of the imagery.",
-   "To stay by the sea a little longer, play Ocean Waves in Timed Ambience."
+   "Keep breathing at your own pace: in this ocean visualization, the water is only imagery.",
+   "To stay by the sea a little longer, play Ocean Waves in Timed Ambience for a short ocean waves meditation."
   ],
   "faq": [
    [
     "Do I need to like swimming?",
-    "No swimming is needed. A giant golden seahorse carries you through the city, and in the session you can even breathe underwater."
+    "No swimming is needed in this ocean meditation. A giant golden seahorse carries you through the city, and you can even breathe underwater."
    ],
    [
     "What is the pearl?",
@@ -203,11 +267,19 @@
    [
     "Is there a whale in Underwater Atlantis?",
     "There is. While you rest on a terrace of living coral, a whale sings far away, then closer. Its long, low note seems to pass right through you."
+   ],
+   [
+    "Is the golden seahorse a spirit animal?",
+    "You can welcome it as one. The seahorse spirit animal is often linked to patience and calm protection, as in most seahorse symbolism. Here, it carries you gently between the coral towers."
+   ],
+   [
+    "Is it a deep sea meditation?",
+    "Not a dark one. The sea stays warm and full of light, with glowing fish and jellyfish that pulse like bells. You rest deep below the surface, yet everything feels gentle."
    ]
   ]
  },
  "himalayanMonastery": {
-  "pour_qui": "Monastery at Sunrise is made for the morning. Listen as your day begins, when you want clarity before what lies ahead. Its 18 minutes also suit a decision or a fresh start, at any hour. Mountain lovers will find their place here, among prayer flags and snowy peaks.",
+  "pour_qui": "Monastery at Sunrise is a guided morning meditation. Listen as your day begins, when you want clarity before what lies ahead. This Himalayan meditation also suits a decision or a fresh start, at any hour. Mountain lovers will find their place here, among prayer flags and snowy peaks. So will anyone curious about Tibetan meditation.",
   "deroule": "It begins in the blue hour before dawn, outside a monastery high in the mountains, under the last stars. A smiling monk in a red robe welcomes you with a butter lamp. He leads you through a frosted garden, where you turn a prayer wheel. In a courtyard of prayer flags, you send a kind thought for someone you love with the wind horse. On a wooden balcony, he hands you a bowl of tea and tells how the monastery began with a single lamp. Then the sun rises over the peaks, the snow turns pink and gold, and a snow lion appears on a ridge as the valley wakes.",
   "conseils": [
    "Listen soon after waking, before you check your messages.",
@@ -221,11 +293,15 @@
    ],
    [
     "Who guides me through the monastery?",
-    "An old monk, robed in dark red and carrying a butter lamp. He pours you tea on a wooden balcony and tells the story of the first visitor, whose lamp has never gone out."
+    "An old monk, robed in dark red and carrying a butter lamp. He pours you tea on a wooden balcony and tells the story of the first visitor, whose lamp has never gone out. Walking beside him is a gentle Tibetan monk meditation: slow steps, a prayer wheel, a kind thought."
    ],
    [
     "How long does the sunrise last?",
-    "The whole session lasts 18 minutes, from the last stars before dawn to full sunlight over the valley."
+    "This monastery meditation lasts 18 minutes, from the last stars before dawn to full sunlight over the valley."
+   ],
+   [
+    "What do the prayer flags mean?",
+    "In Tibetan Buddhism, prayer flags carry wishes of peace on the wind. The prayer flags' meaning is simple: each gust spreads kindness to all. In the session, you send a kind thought for someone you love."
    ]
   ]
  },
@@ -249,14 +325,18 @@
    [
     "Is it the same as The Infinite Library?",
     "No. The Infinite Library is a separate 32-minute session in the Consciousness & Trance category. The Celestial Library is one of the 17 immersive worlds and lasts 13 minutes."
+   ],
+   [
+    "Is this the Akashic records library?",
+    "It is inspired by it. In spiritual traditions, the Akashic records library holds the memory of every soul. Here it becomes a calm, starry place to explore, with no belief required."
    ]
   ]
  },
  "desertOasis": {
-  "pour_qui": "The Desert Oasis is for evenings when you need solitude and a little distance from the world. It offers a calm, safe space to be with what you feel. Its 13 minutes begin at sunset and end by a fire under the moon, and they suit anyone who loves wide, starry skies.",
+  "pour_qui": "This desert meditation is for evenings when you need solitude and a little distance from the world. It offers a calm, safe space to be with what you feel. Its 13 minutes begin at sunset and end by a fire under the moon. It is a true meditation under the stars, for anyone who loves wide skies.",
   "deroule": "You walk over warm dunes at sunset as the first stars appear. A spirit of golden sand rises and calls a white camel, which carries you to an oasis glowing between palm trees. In a night market, an old merchant pours mint tea and lets you have a small lamp for a smile. Glowing butterflies fly out of it and lead you to a pool that opens like glass onto a hidden garden and an old Egyptian temple. Back by a small fire, under an immense moon, you may share one true thing with the night, or stay silent.",
   "conseils": [
-   "Listen after dark, with the lights off or very low.",
+   "Listen after dark, with the lights off or very low, as for a moonlight meditation.",
    "Make yourself a cup of mint tea, like the one the old merchant pours.",
    "If a feeling is there, let it be, without looking for a name."
   ],
@@ -272,14 +352,18 @@
    [
     "Is The Desert Oasis only for difficult feelings?",
     "Not at all. Whatever you feel can simply be there, without a name. Much of the journey is pure wonder: a camel ride, a night market and a hidden garden."
+   ],
+   [
+    "Is it a moon meditation?",
+    "In a way. The journey ends by a small fire under an immense moon. There, you may share one true thing with the night. Its silver light stays with you as you leave."
    ]
   ]
  },
  "treeOfConsciousness": {
-  "pour_qui": "Reach for The Tree of Consciousness when you feel cut off and want to feel part of something larger. At 18 minutes, it fits easily into an evening pause, and its glowing night forest makes a gentle end to the day. It suits anyone who feels at home among trees, roots and living things.",
-  "deroule": "You walk through a glowing forest at night to an immense tree whose branches reach up among the stars. Under your hand, the bark beats slowly. Its guardian, made of wood and moss, steps out of the trunk and takes your hand. For a moment, you feel every living thing on Earth beating together. You climb a staircase of roots past the tree's memories and walk along branches as wide as bridges. A glass-winged butterfly brings you a leaf that holds a tiny, kind world. Finally you sit at the foot of the tree, leaning on its warm trunk, the leaf pressed to your heart.",
+  "pour_qui": "Reach for this oneness meditation when you feel cut off and want to feel part of something larger. At 18 minutes, it fits easily into an evening pause, and its glowing night forest makes a gentle end to the day. This guided tree meditation suits anyone who feels at home among trees, roots and living things.",
+  "deroule": "The tree of life visualization begins in a glowing forest at night. You walk to an immense tree whose branches reach up among the stars. Under your hand, the bark beats slowly. Its guardian, made of wood and moss, steps out of the trunk and takes your hand. For a moment, you feel every living thing on Earth beating together. You climb a staircase of roots past the tree's memories and walk along branches as wide as bridges. A glass-winged butterfly brings you a leaf that holds a tiny, kind world. Finally you sit at the foot of the tree, leaning on its warm trunk, the leaf pressed to your heart.",
   "conseils": [
-   "Sit with your back against a wall, or against a real tree if you are outdoors.",
+   "Sit with your back against a wall, or against a real tree outdoors for a grounding tree meditation.",
    "Near the end, rest one hand on your heart, as if holding the leaf.",
    "Listen in the evening if you can, since the forest glows at night."
   ],
@@ -295,11 +379,15 @@
    [
     "What does life energy mean here?",
     "It is an image: a soft warmth climbing through you, like sap in a tree. You do not need to feel anything special for the session to be worthwhile."
+   ],
+   [
+    "What does the tree of life symbolize?",
+    "Tree of life symbolism appears in many cultures, from Norse myth to Celtic art. With roots in the earth and branches in the sky, it stands for the bond between all living things. The session lets you feel that bond rather than study it."
    ]
   ]
  },
  "jungleRuins": {
-  "pour_qui": "This world is for the explorer in you. Choose it when you feel restless and want something to be curious about, while staying calm. Give it a slow afternoon, ideally on a warm or rainy day. It lasts 18 minutes and suits anyone drawn to lost cities and green, mysterious places.",
+  "pour_qui": "This rainforest meditation is for the explorer in you. Choose it when you feel restless and want something to be curious about, while staying calm. Give it a slow afternoon, ideally on a warm or rainy day. It lasts 18 minutes, a tropical meditation for anyone drawn to lost cities and green, mysterious places.",
   "deroule": "Mist parts on a warm jungle to reveal a whole city asleep beneath ancient trees. You climb a mossy staircase through the ruins, and glowing insects gather into a small monkey of light. By a waterfall, a water spirit lays her cool hand on yours. A spiral carved in the wall lights up under your finger. Then a well leads down to a calm ocean beneath the city, where you can breathe. Great, peaceful creatures guide you to a garden of glowing flowers that hold old memories. Back in the courtyard, you plant a seed that grows into a tree, and a warm rain begins.",
   "conseils": [
    "Let your curiosity lead: notice details without needing to explain them.",
@@ -318,15 +406,19 @@
    [
     "What are the glowing symbols?",
     "Spirals and wave shapes carved along an old wall, which light up under your fingertip. Deep below the city, you discover where the very first spiral was carved."
+   ],
+   [
+    "What will I hear in this jungle sounds meditation?",
+    "Falling water, humming insects and, near the end, a warm rain. Deep below the city, great creatures sing softly under the water. Everything stays soft, so it suits a quiet room."
    ]
   ]
  },
  "mushroomForest": {
-  "pour_qui": "The Dream Forest is pure play: a place to imagine and escape for a while. Try it during a creative break, on a lazy weekend afternoon or on an evening when classic meditation feels too serious. Its 17 minutes invite wonder and free imagination, and they are especially fun if you love fairy tales.",
+  "pour_qui": "This fantasy meditation is pure play: a place to imagine and escape for a while. Try it during a creative break, on a lazy weekend afternoon or on an evening when classic meditation feels too serious. Its 17 minutes invite wonder and free imagination. This magical forest meditation is especially fun if you love fairy tales.",
   "deroule": "You arrive straight in a dream: a warm forest of giant glowing mushrooms, painted purple and pink. A tiny fairy lands on your hand, and a moss path lights up beneath your steps. From a silver tree, you pick a little galaxy, watch its whole life unfold and receive a word from its heart. A river of light chimes like small bells, with gentle creatures drifting above it. Butterflies of light show you an image of yourself living a dream you care about. Then a huge octopus of soft light lifts you above the forest, before everything gently fades.",
   "conseils": [
-   "Let the images be strange: there is nothing to understand.",
-   "Settle somewhere soft, such as a sofa or a bed, before you start.",
+   "Let this forest visualization be strange: there is nothing to understand.",
+   "Settle somewhere soft, such as a sofa or a bed, for a deep forest relaxation.",
    "To stretch out the storybook mood, play Fairy Tale in Timed Ambience afterwards."
   ],
   "faq": [
@@ -340,22 +432,22 @@
    ],
    [
     "Is it a sleep meditation?",
-    "No, it is a dreamlike escape, and at the end you come back lighter, with a sense of wonder. For bedtime, Drifting into Sleep ends with no wake-up."
+    "No, it is a dreamlike, magical meditation: at the end you come back lighter, with a sense of wonder. For bedtime, Drifting into Sleep ends with no wake-up."
    ]
   ]
  },
  "mirrorDimension": {
-  "pour_qui": "The Mirror Dimension is for the curious meditator who wants to look at awareness itself. Choose it when you need to step back from your thoughts and watch them from a distance. Its 16 minutes move from still mirrors to small dreamlike worlds and back, so they suit a quiet room where no one will disturb you.",
+  "pour_qui": "This mirror meditation is for the curious meditator who wants to look at awareness itself. Like an open awareness meditation, it helps you step back from your thoughts and watch them from a distance. That simple step back is one of the core self-awareness skills. Its 16 minutes move from still mirrors to small dreamlike worlds and back, so they suit a quiet room where no one will disturb you.",
   "deroule": "You float, weightless, in soft white light among endless mirrors, while a pure tone sings far off. A fairy of water and silver swims through the glass, showing your thoughts how to pass. Then one mirror shows an animal instead of you: your guide. You follow it through the glass into rain that rises, a honey sky full of tiny worlds and still water you can walk on. At an old round mirror, you can leave behind a difficult moment, seen very small, and receive a pearl of light. Finally your own calm face appears, and you rest as the one who is looking.",
   "conseils": [
    "Sit upright with your eyes closed, and let your body feel as light as possible.",
-   "When a thought appears, see it as one more reflection, then let it pass.",
-   "If this kind of practice is unfamiliar, try the Observing Thoughts session in Learning Basics first."
+   "As in witness meditation, see each thought as one more reflection, then let it pass.",
+   "If guided awareness meditation is new to you, try the Observing Thoughts session in Learning Basics first."
   ],
   "faq": [
    [
     "Will I see my own reflection?",
-    "Not at first: the first still mirror shows an animal, your guide, maybe an owl, a fox or a deer. Your own face comes near the end, looking back with kind eyes that judge nothing."
+    "Not at first: the first still mirror shows an animal, your guide. It is the moment you meet your spirit animal, maybe an owl, a fox or a deer. Your own face comes near the end, looking back with kind eyes that judge nothing."
    ],
    [
     "What happens at the round mirror?",
@@ -363,15 +455,19 @@
    ],
    [
     "What does resting as awareness mean?",
-    "It means noticing what in you observes your thoughts as they come and go, and staying there instead of following them."
+    "It means noticing what in you observes your thoughts as they come and go, and staying there instead of following them. Some teachers call it witnessing awareness, or awareness of awareness meditation."
+   ],
+   [
+    "Is this a “Who am I?” meditation?",
+    "Close to it. The question here is “who is looking?”, the heart of any self inquiry meditation. You do not need to answer it: you simply rest as the one who looks."
    ]
   ]
  },
  "wolfForest": {
-  "pour_qui": "The Wolf Spirit Forest is for times when you need to feel protected and guided. Listen before a challenge, a difficult conversation or a step you are unsure about. Its 15 minutes invite you back to your instinct and a quiet kind of strength. Snowy forests, wild animals and the northern lights set the scene.",
-  "deroule": "At the edge of a blue pine forest, under an enormous moon, you step onto fresh snow. A transparent wolf full of stars appears on the path, and snowdrops light up under its paws. A whole pack gathers, forms a circle and welcomes you, while your guide rests its forehead against yours. You run with them, faster and lighter, until you become a starry wolf yourself and howl at the moon. The northern lights form a bridge up to the icy ring of a giant planet. Back in a clearing, you sit by a sacred fire beside your wolf and keep its calm strength.",
+  "pour_qui": "This power animal meditation is for times when you need to feel protected and guided. Listen before a challenge, a difficult conversation or a step you are unsure about. Its 15 minutes invite you back to your instinct and a quiet kind of strength. Snowy forests, wild animals and the northern lights set the scene.",
+  "deroule": "At the edge of a blue pine forest, under an enormous moon, you step onto fresh snow. A transparent wolf full of stars appears on the path, and snowdrops light up under its paws. A whole pack gathers, forms a circle and welcomes you, while your wolf spirit guide rests its forehead against yours. You run with them, faster and lighter, until you become a starry wolf yourself and howl at the moon. The northern lights form a bridge up to the icy ring of a giant planet. Back in a clearing, you sit by a sacred fire beside your wolf and keep its calm strength.",
   "conseils": [
-   "Listen in the evening, lights low, so the moonlit forest feels close.",
+   "Listen to this wolf spirit meditation in the evening, lights low, so the moonlit forest feels close.",
    "Let the wolf beside you take shape slowly, in as much detail as you like.",
    "When the pack howls, breathe out long and slow, as if your own howl were rising."
   ],
@@ -386,7 +482,15 @@
    ],
    [
     "Will I see the northern lights?",
-    "You will. After the pack howls, ribbons of green and blue light gather into a bridge. You run along it, up to the icy ring of a giant planet."
+    "You will, as the journey turns into a northern lights meditation. After the pack howls, ribbons of green and blue light gather into a bridge. You run along it, up to the icy ring of a giant planet."
+   ],
+   [
+    "What does the wolf symbolize?",
+    "Wolf symbolism often speaks of loyalty, family and quiet strength. In shamanic traditions, a power animal, wolf or bear, guides you through the dark. Here, a pack of starry wolves lets you feel those qualities from the inside."
+   ],
+   [
+    "Is the wolf my animal totem?",
+    "It can be, if it speaks to you. Many people see a wolf animal totem as a sign of trust in their own instinct. The session leaves the meaning open: you simply keep the calm strength of your wolf."
    ]
   ]
  }

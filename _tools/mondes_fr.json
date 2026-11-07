@@ -1,6 +1,6 @@
 {
  "antiqueTemple": {
-  "pour_qui": "Le Temple Ancien est un abri pour les soirs où tu portes trop de choses. Si la pluie, les lieux sacrés et la lueur des bougies t’apaisent, ce monde est pour toi. Choisis-le quand tu cherches à te sentir en sécurité, ancré, comme hors du temps.",
+  "pour_qui": "Le Temple Ancien est un abri pour les soirs où tu portes trop de choses. Si les lieux sacrés et la lueur des bougies t’apaisent, ce monde est pour toi. Pendant la méditation, bruit de la pluie et son de cloche t’invitent à ralentir. Choisis-le quand tu cherches à te sentir en sécurité, ancré, comme hors du temps.",
   "deroule": "Tout commence sur des marches de pierre, sous la pluie, dans la brume de la montagne. Une renarde blanche aux neuf queues te guide jusqu’à une porte immense, qui s’ouvre sous ta paume. À l’intérieur, des centaines de bougies brillent devant de grands bouddhas de pierre, et une cloche sonne un seul coup. Un vieux gardien au masque de bois te remet une petite bougie. Tu lui confies un poids, puis tu la laisses monter rejoindre des milliers d’autres. Une petite porte rouge s’ouvre ensuite sur ton paysage intérieur. À la fin, l’aube dore le temple et les bougies pâlissent.",
   "conseils": [
    "Assieds-toi sur un coussin, au sol si tu peux, comme les moines du temple.",
@@ -18,12 +18,12 @@
    ],
    [
     "Faut-il être bouddhiste pour suivre ce monde ?",
-    "Non. Les statues forment un décor paisible. Si tu t’inclines devant l’une d’elles, c’est seulement pour dire « je suis là »."
+    "Non. Les statues forment un décor paisible. Si tu t’inclines devant l’une d’elles, c’est seulement pour dire « je suis là ». Devant un grand Bouddha, relaxation et silence te suffisent."
    ]
   ]
  },
  "cosmicTemple": {
-  "pour_qui": "Le Temple Cosmique s’adresse aux esprits qui aiment l’immensité et les grandes questions. Les amoureux des étoiles y croiseront aussi une baleine céleste. Quand la journée t’a semblé étroite, il t’ouvre un espace sans limite. Comme il est court, tu peux l’écouter en fin d’après-midi comme le soir, pour goûter un calme vaste.",
+  "pour_qui": "Le Temple Cosmique s’adresse aux esprits qui aiment l’immensité, les grandes questions et l’expansion de conscience. Les amoureux des étoiles y croiseront aussi une baleine céleste. Quand la journée t’a semblé étroite, il t’ouvre un espace sans limite. Comme il est court, tu peux l’écouter en fin d’après-midi comme le soir, pour goûter un calme vaste.",
   "deroule": "Tu t’élèves d’abord sans poids, dans une obscurité violette et chaude. Une baleine céleste, grande comme une colline, te prend sur son dos et fait le tour d’un temple de marbre blanc. Elle t’offre une sphère de cristal où tourne une galaxie miniature. Dans le temple, tu marches sur un sol transparent, au-dessus des étoiles. Une horloge des âges te montre la naissance d’un peuple de lumière, sur une planète lointaine. Au centre, tu t’assieds dans un grand cercle, et une étoile naît sous tes pieds. Puis le temple s’efface en un point de lumière dorée.",
   "conseils": [
    "Allonge-toi si tu peux : la séance commence par une sensation de flotter.",
@@ -63,7 +63,7 @@
     "Compte 17 minutes, de la descente sous la terre jusqu’au retour par la fissure."
    ],
    [
-    "Pourquoi parle-t-on de nettoyage dans ce monde ?",
+    "Pourquoi parle-t-on de nettoyage énergétique dans ce monde ?",
     "La lumière des cristaux emporte ce qui pèse, comme une brume qui s’envole. C’est une image pour te sentir plus léger, pas une promesse."
    ]
   ]
@@ -92,7 +92,7 @@
   ]
  },
  "earthCore": {
-  "pour_qui": "Tu te sens dispersé ou pressé ? Le Cœur de la Terre t’emmène tout en bas, vers ce qui ne bouge pas. Il plaira aux amoureux de la pierre, des grottes et des mondes très anciens. Écoute-le après une journée chargée, quand tu veux te sentir stable.",
+  "pour_qui": "Tu te sens dispersé ou pressé ? Voici une méditation pour se recentrer. Le Cœur de la Terre t’emmène tout en bas, vers ce qui ne bouge pas. Il plaira aux amoureux de la pierre, des grottes et des mondes très anciens. Écoute-le après une journée chargée, quand tu veux te sentir stable.",
   "deroule": "Tu descends lentement sous la surface, par une ouverture d’où sort un air chaud. Le chemin longe des veines de cristal jusqu’à une caverne aux pierres bleues, vertes et dorées. Ta main se pose sur la paroi, qui s’éclaire au rythme de ton souffle. Des rivières de lumière orange te mènent à un monde caché, éclairé par un soleil intérieur couleur de miel. Au pied d’un arbre immense, tu poses les mains sur un œuf d’ambre, d’où sort un petit dragon. Un peuple lumineux te confie un message, puis une colonne de lumière te remonte à la surface.",
   "conseils": [
    "Assieds-toi les pieds bien à plat, pour sentir le sol pendant toute la descente.",
@@ -111,11 +111,15 @@
    [
     "En combien de temps se fait la descente ?",
     "La séance entière dure 15 minutes, de la descente jusqu’à la remontée par la colonne de lumière."
+   ],
+   [
+    "Ancrage ou enracinement, quelle différence ?",
+    "Les deux mots disent presque la même chose : te sentir porté par le sol, stable et présent. Dans cette méditation, enracinement et descente vont ensemble : plus tu descends, plus tu te poses."
    ]
   ]
  },
  "antarcticBase": {
-  "pour_qui": "Le Sanctuaire Gelé attire ceux qui aiment le silence, le mystère et les grands espaces blancs. Il est précieux les jours où ta tête est pleine et où tu rêves d’un endroit immobile. Écoute-le seul, sans bruit autour, pour te poser dans une immobilité très ancienne.",
+  "pour_qui": "Le Sanctuaire Gelé attire ceux qui aiment le silence, le mystère et les grands espaces blancs. Il est précieux les jours où ta tête est pleine et où tu rêves d’un endroit immobile. Écoute-le seul, sans bruit autour, pour retrouver un silence intérieur, dans une immobilité très ancienne.",
   "deroule": "Tu descends à travers des couches de glace, chacune faite de la neige d’un seul hiver. Sur le seuil, un renard polaire lumineux te guide dans un tunnel d’un bleu profond. Des symboles bleus flottent dans l’air : il suffit de les regarder. Dans une vaste chambre, un jardin de givre s’ouvre en tintant devant un grand cœur de cristal. Tu t’assieds et tu respires avec sa lumière. Un livre gelé te montre une cité blanche, d’avant la glace. Puis une aurore te mène à l’air libre, sur la neige de l’Antarctique.",
   "conseils": [
    "Garde une couverture à portée de main : le voyage se passe dans le froid.",
@@ -129,7 +133,7 @@
    ],
    [
     "Qui te guide sous la glace ?",
-    "Un renard polaire au pelage lumineux. Il te mène jusqu’au sanctuaire, puis te dit au revoir sur la neige, sous l’aurore."
+    "Un renard polaire au pelage lumineux. Il te mène jusqu’au sanctuaire, puis te dit au revoir sur la neige, sous l’aurore. Certains y voient un animal totem : renard blanc et lumineux, il sait trouver le chemin dans le froid."
    ],
    [
     "Quelle est la durée du Sanctuaire Gelé ?",
@@ -157,6 +161,10 @@
    [
     "Combien de temps passe-t-on sur l’île ?",
     "20 minutes, du pont de nuages jusqu’aux premières étoiles."
+   ],
+   [
+    "Animal totem : cerf, oiseau ou baleine, lequel t’accompagne ?",
+    "Les trois veillent sur l’île. Le grand oiseau te porte, et le cerf blanc ailé te confie une graine. La baleine, elle, passe sous l’île au coucher du soleil. Choisis celui qui te parle, sans te forcer."
    ]
   ]
  },
@@ -171,7 +179,7 @@
   "faq": [
    [
     "Faut-il connaître le zen pour suivre ce monde ?",
-    "Non. Le jardin sert de décor : tu marches, tu regardes, tu respires. Aucune connaissance n’est demandée."
+    "Non. Cette méditation zen guidée se vit comme une promenade : tu marches, tu regardes, tu respires. Aucune connaissance n’est demandée."
    ],
    [
     "Que fait-on avec le vieux jardinier ?",
@@ -184,12 +192,12 @@
   ]
  },
  "atlantis": {
-  "pour_qui": "L’Atlantide s’adresse aux amoureux de la mer, à ceux qui aiment se laisser porter. Tu y croiseras une cité engloutie, des méduses et un hippocampe géant. Elle accompagne bien les jours où une émotion cherche à passer, sans que tu aies à la nommer. Le soir, elle offre de la profondeur et une grande sérénité.",
+  "pour_qui": "L’Atlantide s’adresse aux amoureux de la mer, à ceux qui aiment se laisser porter. Tu y croiseras une cité perdue, Atlantide la légendaire, avec ses méduses et son hippocampe géant. Elle accompagne bien les jours où une émotion cherche à passer, sans que tu aies à la nommer. Le soir, elle offre de la profondeur et une grande sérénité.",
   "deroule": "Tu flottes d’abord sur une mer chaude, puis tu descends doucement et découvres que tu respires sous l’eau. Les tours d’un château de nacre apparaissent, au cœur d’une cité ancienne. Un hippocampe géant et doré te prend sur son dos, entre les temples et les méduses. Deux habitants t’accueillent dans leur maison ronde et t’offrent une bulle dorée à boire. Dans leur jardin de corail, une perle tiède te montre un souvenir doux. Sur une terrasse de corail, une baleine chante au loin. À la fin, toute la cité s’illumine, et le courant te ramène vers la surface.",
   "conseils": [
    "Allonge-toi : l’eau te porte pendant tout le voyage.",
    "Laisse ton souffle suivre les méduses, qui s’ouvrent et se referment lentement.",
-   "Pour rester près de la mer, enchaîne avec l’Ambiance minutée et le son Vagues."
+   "Pour prolonger la méditation, bruit de la mer compris, lance l’Ambiance minutée avec le son Vagues."
   ],
   "faq": [
    [
@@ -207,7 +215,7 @@
   ]
  },
  "himalayanMonastery": {
-  "pour_qui": "Le Monastère à l’Aube est fait pour les matins, et pour tous les moments où tu veux commencer quelque chose avec clarté. La montagne, le silence et les sagesses anciennes te parlent ? Tu y vivras le lever du jour comme un départ paisible, guidé par un vieux moine.",
+  "pour_qui": "Le Monastère à l’Aube est une méditation guidée du matin. Il accompagne tous les moments où tu veux commencer quelque chose avec clarté. La montagne, le silence et la méditation tibétaine te parlent ? Tu y vivras le lever du jour comme un départ paisible, guidé par un vieux moine.",
   "deroule": "Tout commence avant l’aube, devant le portail d’un monastère de montagne. Un vieux moine en robe rouge sombre t’accueille, une lampe à beurre à la main. Il te mène dans un jardin couvert de givre, où tu fais tourner des moulins à prières. Dans la cour, tu confies une pensée tendre au cheval de vent d’un drapeau de prière. Sur un balcon de bois, un bol de thé entre les mains, tu écoutes l’histoire du monastère. Puis le soleil se lève sur les sommets enneigés, et sa lumière descend jusqu’à toi. La vallée s’éveille, et tu repars avec cette clarté.",
   "conseils": [
    "Écoute-le le matin, assis, le dos bien droit, comme au début de la séance.",
@@ -216,7 +224,7 @@
   ],
   "faq": [
    [
-    "Faut-il l’écouter au lever du soleil ?",
+    "Faut-il faire cette méditation au lever du soleil ?",
     "Ce n’est pas obligatoire, mais le matin s’y prête bien. La séance suit l’arrivée de l’aube, de la nuit bleue jusqu’au plein soleil."
    ],
    [
@@ -225,7 +233,11 @@
    ],
    [
     "Faut-il beaucoup de temps le matin ?",
-    "Non, 18 minutes suffisent, du portail dans la nuit jusqu’à la vallée en plein soleil."
+    "Non, 18 minutes suffisent, du portail dans la nuit jusqu’à la vallée en plein soleil. C’est une méditation du matin gratuite, comme tout le reste de l’application."
+   ],
+   [
+    "Que veut dire om mani padme hum ?",
+    "C’est le mantra tibétain de la compassion, souvent traduit par « le joyau dans le lotus ». Dans les monastères, il est gravé sur les moulins à prières. Ici, tu en fais tourner toute une rangée, dans un jardin couvert de givre."
    ]
   ]
  },
@@ -253,7 +265,7 @@
   ]
  },
  "desertOasis": {
-  "pour_qui": "L’Oasis du Désert est pour les soirs où tu veux être seul avec toi-même, sans personne à qui répondre. Elle accueille les émotions sans t’obliger à les nommer. C’est un monde d’immobilité et de réflexion, à écouter après le coucher du soleil, quand la maison devient calme.",
+  "pour_qui": "L’Oasis du Désert est pour les soirs où tu veux être seul avec toi-même, sans personne à qui répondre. Dans cette méditation, solitude rime avec douceur. Elle accueille les émotions sans t’obliger à les nommer. C’est un monde d’immobilité et de réflexion, à écouter après le coucher du soleil, quand la maison devient calme.",
   "deroule": "Tu marches sur les dunes au coucher du soleil, vers une oasis encore cachée. Un esprit fait de sable doré appelle un chameau blanc, qui te porte sous les premières étoiles. Dans l’oasis, un marché de nuit brille de mille flammes, et un vieux marchand te sert un thé à la menthe. Il t’offre une petite lampe d’où sortent des papillons lumineux. Ils te mènent à un bassin qui reflète les étoiles, puis à un jardin caché sous l’eau. Près d’un petit feu, sous une lune énorme, tu confies une phrase vraie à la nuit.",
   "conseils": [
    "Laisse ton souffle prendre le balancement lent du chameau.",
@@ -276,7 +288,7 @@
   ]
  },
  "treeOfConsciousness": {
-  "pour_qui": "L’Arbre de Conscience accompagne les moments de solitude, quand tu te sens coupé du reste et que tu cherches un lien. Les forêts, les animaux et les très grands arbres te touchent ? Écoute-le le soir, pour finir la journée relié à tout ce qui vit.",
+  "pour_qui": "L’Arbre de Conscience accompagne les moments de solitude, quand tu te sens coupé du reste et que tu cherches un lien. Les forêts, les animaux et les très grands arbres te touchent ? Cette méditation avec les arbres est pour toi. Écoute-la le soir, pour finir la journée relié à tout ce qui vit.",
   "deroule": "Tu traverses une forêt lumineuse, la nuit, jusqu’à une grande clairière. Au centre se dresse un arbre colossal, dont la cime touche les étoiles. Sous ta main, l’écorce bat lentement, comme un souffle. Le gardien de l’arbre, fait de bois et de mousse, te prend la main. La terre devient alors transparente, et tu sens battre toutes les vies qu’elle relie. Tu montes avec lui par un escalier de racines jusqu’aux branches. Un papillon détache une feuille, où tu découvres un petit monde plein de bonté. À la fin, tu te reposes contre le tronc chaud.",
   "conseils": [
    "Assieds-toi le dos contre un mur ou un coussin, comme contre le grand tronc.",
@@ -295,11 +307,15 @@
    [
     "Ce monde est-il long ?",
     "Il dure 18 minutes, avec un vrai moment de repos contre le tronc avant le retour."
+   ],
+   [
+    "Quel lien avec l’arbre de la Bodhi ?",
+    "Aucun lien direct : c’est un arbre imaginaire, cousin de celui sous lequel le Bouddha s’est éveillé. La catégorie Lieux Sacrés propose aussi une séance sous l’arbre du Bouddha."
    ]
   ]
  },
  "jungleRuins": {
-  "pour_qui": "Les Ruines Oubliées conviennent aux explorateurs dans l’âme, à ceux qu’un mystère rend curieux. Si tu aimes les vieilles pierres et les cascades, tu y seras bien. On y ralentit sans s’ennuyer, car chaque passage cache une découverte. Écoute ce monde un après-midi tranquille ou un soir de pluie, pour une aventure calme.",
+  "pour_qui": "Les Ruines Oubliées conviennent aux explorateurs dans l’âme, à ceux qu’un mystère rend curieux. Si tu aimes les vieilles pierres et l’eau vive, tu y seras bien. Au fil de la méditation, cascades et escaliers de mousse se dévoilent un à un. On y ralentit sans s’ennuyer, car chaque passage cache une découverte. Écoute ce monde un après-midi tranquille ou un soir de pluie, pour une aventure calme.",
   "deroule": "Tu arrives au bord d’une jungle chaude, devant un temple couvert de lianes. La brume s’écarte sur toute une cité endormie sous la forêt. Tu poses au pied d’un mur ce que tu portes, puis tu montes un escalier de mousse. Près d’une cascade, des insectes lumineux forment un petit singe de lumière, ton guide. Une ondine faite d’eau s’assied près de toi, puis tu suis du doigt des spirales gravées. Par un puits, tu descends vers un océan caché et une cité plus ancienne encore. À la fin, tu plantes une graine, et une pluie douce tombe.",
   "conseils": [
    "Au début, laisse ton regard intérieur s’habituer à la pénombre verte, sans te presser.",
@@ -364,11 +380,15 @@
    [
     "Combien de temps dure la traversée des miroirs ?",
     "15 minutes. Les dernières se passent au centre des miroirs, dans un grand calme."
+   ],
+   [
+    "À quoi sert la lumière blanche du début ?",
+    "C’est le seuil de la méditation : lumière blanche, note pure, corps sans poids. Elle t’aide à quitter le quotidien en douceur, avant les miroirs."
    ]
   ]
  },
  "wolfForest": {
-  "pour_qui": "La Forêt des Esprits Loups est pour toi si tu veux te sentir protégé, guidé, plus fort à l’intérieur. Elle plaît aussi à ceux qui aiment les aurores boréales. La nuit, la neige et les animaux sauvages y tiennent la première place. Écoute-la le soir, pour retrouver ton instinct et une force tranquille.",
+  "pour_qui": "La Forêt des Esprits Loups est pour toi si tu cherches un animal totem protecteur. Il te guide et te rend plus fort à l’intérieur. Elle plaît aussi à ceux qui aiment les animaux spirituels et les aurores boréales. La nuit, la neige et les animaux sauvages y tiennent la première place. Écoute-la le soir, pour retrouver ton instinct et une force tranquille.",
   "deroule": "Tu entres de nuit parmi de grands pins couverts de neige. Au-dessus, la lune est immense. Un loup transparent, plein d’étoiles, apparaît sur le sentier : des perce-neige s’allument sous ses pattes. La meute d’esprits loups t’entoure, et le loup du sentier pose son front contre le tien. Puis tu cours avec eux, sans effort, jusqu’à devenir loup toi-même. Sur une colline, la meute chante vers la lune, puis un pont d’aurore boréale t’emporte dans le ciel. Au retour, tu te reposes près d’un feu sacré, avec la force tranquille du loup.",
   "conseils": [
    "Baisse la lumière avant de commencer : tout le voyage se passe de nuit.",
@@ -387,6 +407,10 @@
    [
     "Combien de temps court-on avec les loups ?",
     "Le voyage complet prend 15 minutes, de l’entrée dans la forêt jusqu’au repos près du feu sacré."
+   ],
+   [
+    "Qu’est-ce qu’un animal totem ?",
+    "Signification simple : un animal qui t’inspire et veille sur toi. Ici, c’est le loup, symbole de force tranquille et de protection. Libre à toi d’en faire le tien, ou non."
    ]
   ]
  }

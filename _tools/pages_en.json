@@ -13,8 +13,8 @@
    "desc": "Never meditated? This free meditation for beginners walks you through {n} guided sessions of {min} to {max} minutes. No subscription, no ads, works offline.",
    "h1": "Free meditation for beginners, guided step by step",
    "intro": [
-    "This category is where to start if you have never meditated, or if you want to rebuild your practice on solid ground. Its {n} short sessions cover the essentials one step at a time: a body scan, steadying attention on the breath, telling sensations, emotions and thoughts apart, watching thoughts go by, mindful eating, opening the five senses and meditating with your eyes open. The last one is your first silent meditation.",
-    "Sessions last between {min} and {max} minutes and are all designed for beginners. You can follow them in order or pick the theme that speaks to you today. Like everything in MeditaDream, they are free, need no account and play offline once downloaded."
+    "Meditation for beginners starts here, if you have never meditated or want to rebuild your practice on solid ground. Its {n} short sessions cover the essentials, one step at a time. You start with a body scan and steady your attention on the breath. Then you learn to tell sensations, emotions and thoughts apart, and to watch thoughts go by. A mindful eating meditation, the five senses and meditating with your eyes open come next. The last session is your first silent meditation.",
+    "These short mindfulness sessions last between {min} and {max} minutes and are all designed for beginners. You can follow them in order or pick the theme that speaks to you today. Like everything in MeditaDream, they are free, need no account and play offline once downloaded."
    ],
    "faq": [
     [
@@ -31,21 +31,21 @@
     ],
     [
      "Is there a completely free meditation app for beginners?",
-     "Yes. MeditaDream is 100% free: no subscription, no trial, no ads and no account. All {n} beginner sessions are included, along with the rest of the library."
+     "Yes. MeditaDream is 100% free: no subscription, no trial, no ads and no account. All {n} guided meditations for beginners are included, along with the rest of the library."
     ]
    ],
    "guide": [
     {
      "h2": "How to start meditating: your first week",
      "p": [
-      "Day one, try the five-minute silent meditation to see how it feels to simply sit. Days two and three, follow the body scan. Days four and five, work with the breath.",
+      "Day one, try the five-minute silent meditation to see how it feels to simply sit. Days two and three, follow the body scan. Days four and five, work with the breath. Days six and seven, add two mindfulness exercises: the observing thoughts meditation and mindful eating.",
       "At the end of the week, pick the session you enjoyed most and keep it as your anchor. A short daily habit beats a long session you keep putting off."
      ]
     },
     {
      "h2": "What a beginner session feels like",
      "p": [
-      "A calm voice tells you what to notice, one step at a time. You sit or lie down, close your eyes if you like, and follow along. There is nothing to get right.",
+      "In a guided mindfulness meditation, a calm voice tells you what to notice, one step at a time. You sit or lie down, close your eyes if you like, and follow along. There is nothing to get right. Wondering how to meditate in bed? The body scan works well lying down.",
       "Your mind will wander, often within seconds. That is not failure. Noticing it and coming back is the exercise itself."
      ]
     },
@@ -60,10 +60,10 @@
   "fourMin": {
    "slug": "4-minute-meditation",
    "seo": "Quick Meditation for Anxiety: {n} Guided Sessions Under 5 Min",
-   "desc": "5-minute meditation for anxious, rushed moments: {n} guided sessions of {min} to {max} minutes for calm before a hard talk or after bad news. Free, no ads.",
-   "h1": "5-minute guided meditation for anxiety and quick calm",
+   "desc": "Quick meditation for anxiety, at your desk or on the bus: {n} guided sessions of {min} to {max} minutes to calm the mind. Free, no ads, works offline.",
+   "h1": "Quick meditation for anxiety: calm the mind in 3 or 4 minutes",
    "intro": [
-    "Sometimes you only have a few minutes. These eleven short guided meditations are built for those moments: when everything moves too fast, after an argument, before a challenge, after hearing bad news, when motivation is missing or when you feel watched or judged. Others are simply there to help you relax very quickly, revisit a happy memory, practise gratitude for specific things or find a small refuge of your own.",
+    "A quick meditation for anxiety helps when you only have a few minutes. These eleven short sessions are built for those moments. Use one when everything moves too fast, after an argument, before a challenge or after bad news. Others help when self motivation runs low, or when you feel watched or judged. Some simply help you relax very quickly, revisit a happy memory or practise precise gratitude. Another gives you a small refuge of your own.",
     "Each session lasts three to four minutes and is suitable for beginners, with no experience needed. They are easy to slip into a coffee break, a commute or the moment just before a meeting. Keep a few favourites close at hand: once downloaded, they work without a connection, wherever you happen to be."
    ],
    "faq": [
@@ -72,33 +72,33 @@
      "A few minutes is enough to pause, notice your breath and step back from what is happening. These sessions are not meant to replace a longer practice, but they give you a simple way to reset in the middle of a busy day."
     ],
     [
-     "When is the best time to use them?",
-     "Whenever you need a short pause: between two tasks, before a meeting or a difficult conversation, on public transport, or at the end of the day. Several sessions are named after a specific situation, so you can choose the one that fits the moment."
+     "When is the best time for a short meditation?",
+     "Whenever you need a pause: between two tasks, before a hard conversation, on the bus or after work. With eyes open at your desk, it also makes a discreet mindfulness meditation at work. Several sessions are named after a specific situation, so you can pick the one that fits."
     ],
     [
      "Do I need to be experienced?",
      "No. All eleven sessions are designed for beginners and guide you step by step. You can keep your eyes open for some of them, which makes them easy to use almost anywhere."
     ],
     [
-     "Is a 5 minute meditation enough?",
-     "For a daily habit, yes. A short session you actually do every day is easier to keep than a long one you postpone. These sessions last three to four minutes, and you can chain them."
+     "Is a 5-minute meditation for anxiety enough?",
+     "For a daily habit, yes. A short meditation for anxiety done every day is easier to keep than a long one you postpone. These sessions last three to four minutes, and you can chain them."
     ]
    ],
    "guide": [
     {
      "h2": "5 minute meditation or 10 minutes: build your own",
      "p": [
-      "Each session lasts three or four minutes. Play one for a five-minute break. Chain two or three for a ten-minute practice.",
+      "Each session lasts three or four minutes. The shortest make a 3-minute meditation you can fit between two tasks. Play one as a 5-minute morning meditation before you check your phone. Chain two or three for a ten-minute practice.",
       "They work with your eyes open, at your desk, on a bus or just before a meeting."
      ]
     },
     {
-     "h2": "Which quick meditation for which moment?",
+     "h2": "How to relieve anxiety quickly: a session for each moment",
      "p": [
       "Stress and rush: “When Everything Moves Too Fast” (4 min) keeps your eyes open on an object and the floor until your breath settles; “Relax Very Quickly” (3 min) releases the body area by area, from forehead to feet.",
-      "Before or after a hard moment: “Finding Your Confidence Before a Challenge” (4 min) separates what depends on you from what does not; “Calming Down After an Argument” (3 min) loosens what tightened; “After Receiving Bad News” (4 min) brings you back to what is true right here, right now.",
-      "When your morale dips: “When You Lack Motivation” (3 min) keeps only the first concrete step; “When You Feel Like Giving Up” (3 min) tells passing tiredness apart from a real decision; “When You Feel Watched or Judged” (4 min) sorts what you actually know from what you imagine.",
-      "For a gentle pause: “Your Instant Refuge” (4 min), a small place of your own to set worries down; “A Happy Memory Through Three Senses” (4 min), which warms up the present; and “Precise Gratitude” (3 min) to close the day."
+      "Before or after a hard moment: “Finding Your Confidence Before a Challenge” (4 min) separates what depends on you from what does not. Here is how to calm down quickly after a clash: “Calming Down After an Argument” (3 min) loosens what tightened. “After Receiving Bad News” (4 min) brings you back to what is true right here, right now.",
+      "When your morale dips: “When You Lack Motivation” (3 min) keeps only the first concrete step. “When You Feel Like Giving Up” (3 min) tells passing tiredness apart from a real decision. Wondering how to calm social anxiety before a meeting? “When You Feel Watched or Judged” (4 min) sorts what you actually know from what you imagine.",
+      "For a gentle pause, try “Your Instant Refuge” (4 min), a short safe place visualization where worries can wait. “A Happy Memory Through Three Senses” (4 min) warms up the present, and “Precise Gratitude” (3 min) closes the day."
      ]
     }
    ]
@@ -109,8 +109,8 @@
    "desc": "Sleep meditation that works in bed, lights off: {n} guided sessions of {min} to {max} minutes to drift off. No subscription, no ads, plays offline.",
    "h1": "Guided deep sleep meditation and relaxation",
    "intro": [
-    "Body, Calm & Sleep gathers {n} sessions to slow down and let go. Some are made for bedtime: Sleep Journey and Drifting into Sleep let you slide into sleep with no wake-up at the end. Others work with breath and the body, such as Breathing with the Whole Body, The Luminous Breath or The Body Under a Waterfall. You will also find chakra sessions, a session to prepare for lucid dreaming and a session to calm your mind before creative work.",
-    "Sessions run from {min} to {max} minutes and are marked as intermediate, with slow narration and generous pauses. Lie down comfortably, lower the lights and let the voice guide you. Once downloaded, they play offline, so you can switch your phone to airplane mode and listen in bed without any interruption."
+    "Body, Calm & Sleep gathers {n} sessions to slow down and let go. Some are sleep meditations made for bedtime. Sleep Journey and Drifting into Sleep let you slide into sleep, with no wake-up at the end. Others work with breath and the body, such as Breathing with the Whole Body, The Luminous Breath or The Body Under a Waterfall. You will also find chakra sessions, a session to prepare for lucid dreaming and a session to calm your mind before creative work.",
+    "Sessions run from {min} to {max} minutes and are marked as intermediate, with a slow voice and generous pauses. Lie down comfortably, lower the lights and let the voice guide you. Once downloaded, they play offline, so you can switch your phone to airplane mode and listen in bed without any interruption."
    ],
    "faq": [
     [
@@ -122,19 +122,23 @@
      "Yes. Once a session is downloaded, it plays offline, so you can put your phone in airplane mode at night. The app has no ads, so nothing will interrupt the session."
     ],
     [
-     "Are these sessions suitable for beginners?",
-     "They are marked as intermediate and last {min} to {max} minutes. If you are new to meditation, you can start with the Learning Basics category or the four-minute sessions, then come back to these longer relaxations."
+     "Is sleep meditation for beginners too?",
+     "Yes. These sessions are marked as intermediate and last {min} to {max} minutes, but falling asleep asks for no skill. If you are new to meditation, Learning Basics or the four-minute sessions make an easy start."
     ],
     [
-     "What is the best free sleep meditation?",
+     "What is the best free guided sleep meditation?",
      "Start with Drifting into Sleep, a 16-minute session made for falling asleep. It is free, like everything in MeditaDream, with no account and no ads, and it plays offline."
+    ],
+    [
+     "Is this sleep hypnosis?",
+     "Not exactly. Sleep hypnosis relies on suggestion, while these sessions guide the breath and the body with a slow voice. The effect can feel close: Drifting into Sleep is a hypnotic sleep meditation, with long pauses and no wake-up. If you usually play free sleep hypnosis tracks, give it a try tonight."
     ]
    ],
    "guide": [
     {
-     "h2": "A simple bedtime routine",
+     "h2": "Night meditation for sleep: a simple bedtime routine",
      "p": [
-      "Get into bed, dim the lights and start a session. Put the phone face down beside you. There is nothing to do except listen.",
+      "Here is how to meditate for sleep: get into bed, dim the lights and start a session. Put the phone face down beside you. There is nothing to do except listen.",
       "Falling asleep before the end is fine. That is what the session is for."
      ]
     },
@@ -159,13 +163,13 @@
    "desc": "Self-love meditation for a kinder inner voice: {n} guided sessions of {min} to {max} minutes on self-compassion, gratitude and forgiveness. Free, no ads.",
    "h1": "Guided self-love and self-compassion meditation",
    "intro": [
-    "Emotional Growth offers {n} sessions to cultivate the heart. You can practise daily gratitude starting from the body, look for real reasons to love yourself, open your heart, explore what forgiving might mean without forgetting, and let go of comparison. Other sessions help you welcome a difficult emotion with curiosity, picture your growth along an old railway, or send wishes of peace and happiness to yourself and to others.",
-    "Sessions last {min} to {max} minutes and are marked as intermediate. They suit anyone who wants to be a little kinder to themselves and to others, at their own pace. The shortest, Compassion Meditation, is an easy way in, while the longer sessions give you more time to stay with what you feel."
+    "Emotional Growth offers {n} sessions to cultivate self-compassion and an open heart. You can practise daily gratitude starting from the body, look for real reasons to love yourself, open your heart, explore what forgiving might mean without forgetting, and let go of comparison. Other sessions help you welcome a difficult emotion with curiosity, picture your growth along an old railway, or send wishes of peace and happiness to yourself and to others.",
+    "Sessions last {min} to {max} minutes and are marked as intermediate. They suit anyone looking for more self-kindness, and a softer eye on others, at their own pace. The shortest, Compassion Meditation, is an easy way in, while the longer sessions give you more time to stay with what you feel."
    ],
    "faq": [
     [
      "What is a compassion meditation?",
-     "It is a practice in which you send wishes of peace, safety and happiness, first to yourself, then to other people. The Compassion Meditation in this category lasts 7 minutes and is a simple way to try it."
+     "It is close to a guided loving kindness meditation. You send wishes of peace, safety and happiness, first to yourself, then to others. The Compassion Meditation in this category lasts 7 minutes and is a simple way to try it."
     ],
     [
      "Do I have to forgive someone during the forgiveness session?",
@@ -178,20 +182,24 @@
     [
      "What is a good self love meditation for beginners?",
      "Developing Self-love is a 15-minute guided session made for beginners. Follow it with Releasing Comparison when you are ready."
+    ],
+    [
+     "What is mindful self-compassion?",
+     "It means noticing a hard moment with mindfulness, then answering it with the kindness you would offer a friend. Developing Self-love and Welcoming a Difficult Emotion train both gestures, at a gentle pace."
     ]
    ],
    "guide": [
     {
      "h2": "Self love meditation, one small step at a time",
      "p": [
-      "These sessions help you speak to yourself more gently. You learn to welcome an emotion, compare yourself less and notice what is already good.",
-      "Self love here is not a big statement. It is a habit you build, a few minutes at a time."
+      "These sessions help you speak to yourself more gently, a first step toward self-acceptance. You learn to welcome an emotion, compare yourself less and notice what is already good.",
+      "Self love here is not a big statement. Like all self love practices, it is a habit you build, a few minutes at a time."
      ]
     },
     {
      "h2": "Pick by what you need today",
      "p": [
-      "To begin, Developing Self-love, 15 minutes. For a heavy feeling, Welcoming a Difficult Emotion. Short on time? Compassion Meditation lasts seven minutes."
+      "To begin, Developing Self-love, 15 minutes. For a heavy feeling, Welcoming a Difficult Emotion. Short on time? Compassion Meditation lasts seven minutes. For a self forgiveness meditation, Forgiving Yourself waits in the Shadow & Well-being category."
      ]
     }
    ]
@@ -202,7 +210,7 @@
    "desc": "Shadow work meditation, the gentle way: {n} guided sessions of {min} to {max} minutes for your inner child, everyday fears and Ho’oponopono. Free, no ads.",
    "h1": "Guided shadow work meditation",
    "intro": [
-    "Shadow & Well-being invites you to meet, with care, what you usually turn away from. The Shadow Work session helps you understand what a difficult part of yourself is trying to protect. Others reconnect you with your inner child, guide you through forgiving yourself, or let you repeat the four Ho'oponopono phrases with your breath. Short sessions also look at common fears: abandonment, failure, judgment and the dark.",
+    "Shadow & Well-being invites you to meet, with care, what you usually turn away from. The Shadow Work session helps you understand what a difficult part of yourself is trying to protect. Others reconnect you with your inner child or guide you through forgiving yourself. A Ho'oponopono meditation lets you repeat the four phrases of reconciliation with your breath. Short sessions also look at common fears: abandonment, failure, judgment and the dark.",
     "Sessions last 7 to 21 minutes and are marked as intermediate. Each one moves gently, keeps an anchor in the body and lets you stop whenever you need to. They are meant for relaxation and self-exploration, not as a substitute for professional support."
    ],
    "faq": [
@@ -212,7 +220,7 @@
     ],
     [
      "What is Ho'oponopono?",
-     "Ho'oponopono is a practice built around four short phrases of reconciliation. In Heart-Centered Ho'oponopono, you repeat them in rhythm with your breath, without forcing anything, for about 15 minutes. It is a simple, gentle session to return to whenever you need it."
+     "Ho'oponopono is a Hawaiian practice built around four short phrases of reconciliation. The Ho'oponopono meaning is often given as “to make right”. In Heart-Centered Ho'oponopono, you repeat the phrases with your breath for about 15 minutes, without forcing anything."
     ],
     [
      "What if a session brings up something difficult?",
@@ -228,13 +236,13 @@
      "h2": "Shadow work meditation, gently",
      "p": [
       "Your shadow is what you would rather not see in yourself: a fear, anger, an old hurt. Meditation helps you look at it with kindness, at your own pace.",
-      "You can always stop. Go only as far as feels right today."
+      "You can always stop. Go only as far as feels right today. The blog explains how to do shadow work in more depth."
      ]
     },
     {
-     "h2": "Where to start",
+     "h2": "Shadow work exercises: where to start",
      "p": [
-      "The sessions on fears are short, seven to thirteen minutes: Fear of Judgment, Fear of Failure. To go further, Shadow Work and Forgiving Yourself."
+      "The sessions on fears are short, seven to thirteen minutes: Fear of Judgment, Fear of Failure. To go further, try Shadow Work. If you wonder how to process guilt, Forgiving Yourself is a gentle self forgiveness meditation."
      ]
     }
    ]
@@ -242,11 +250,11 @@
   "sacred": {
    "slug": "sacred-places-guided-meditation",
    "seo": "Nature Meditation in Sacred Places and Temples",
-   "desc": "Meditate under the Bodhi tree, at Stonehenge or beneath the northern lights: {n} guided nature meditations of {min} to {max} minutes. Free, offline.",
+   "desc": "Meditate in sacred places, from the Bodhi tree to Stonehenge and the northern lights: {n} guided nature meditations of {min} to {max} minutes. Free, offline.",
    "h1": "Guided nature meditation in sacred places",
    "intro": [
-    "Sacred Places takes you to seven remarkable settings. Sit beneath the Bodhi tree, visit an ancient pagoda among the lotuses in the rain, watch the mist rise around a Taoist sanctuary at dawn, stand on a Scottish cliff above the ocean, wait for first light at the centre of Stonehenge, breathe the pure air of a blue ice cave, or rest under the northern lights inside a circle of crystals.",
-    "Each session lasts 13 to 17 minutes and is marked as intermediate. They suit you if you love nature, travel and quiet places, and want the setting itself to steady your attention. The narration lingers on light, sound and texture, so each place becomes a calm space you can return to whenever you like."
+    "Sacred Places takes you to seven remarkable settings. Sit beneath the Bodhi tree, where tradition places the Buddha’s enlightenment. Visit a Buddhist temple, an ancient pagoda among the lotuses in the rain. Watch the mist rise around a Taoist sanctuary at dawn. Stand on a Scottish cliff above the ocean, or wait for first light at the centre of Stonehenge. Breathe the pure air of a blue ice cave, or rest under the northern lights inside a circle of crystals.",
+    "Each session lasts 13 to 17 minutes and is marked as intermediate. They suit you if you love nature, travel and quiet places, and want the setting itself to steady your attention. The voice lingers on light, sound and texture, so each place becomes a calm space you can return to whenever you like."
    ],
    "faq": [
     [
@@ -259,11 +267,11 @@
     ],
     [
      "Are these meditations religious?",
-     "They take place in settings linked to different traditions, but they do not ask you to adopt any belief. The focus is on attention, calm and the experience of the place."
+     "They take place in settings linked to different traditions, such as Buddhist sacred spaces or a Taoist sanctuary. They do not ask you to adopt any belief. The focus is on attention, calm and the experience of the place."
     ],
     [
-     "Do I need to know these places?",
-     "No. The voice describes each place in detail. You only need to follow along."
+     "What is a Bodhi tree meditation?",
+     "It is a meditation beneath the tree where, in Buddhist tradition, the Buddha reached enlightenment. In Beneath the Bodhi Tree, you feel its roots below you and let your attention open like its leaves. It lasts 17 minutes."
     ]
    ],
    "guide": [
@@ -277,7 +285,7 @@
     {
      "h2": "A good first journey",
      "p": [
-      "At the Center of Stonehenge and The Scottish Cliff Above the Ocean last 13 minutes each, an easy way in."
+      "At the Center of Stonehenge and The Scottish Cliff Above the Ocean last 13 minutes each, an easy way in. For a full temple meditation, The Ancient Temple world takes you up to a mountain temple lit by candles."
      ]
     }
    ]
@@ -288,7 +296,7 @@
    "desc": "Spirit guide meditation, no dogma required: {n} guided journeys of {min} to {max} minutes to meet a guide of light and a council of guides. Free, no ads.",
    "h1": "Spirit guide meditation: guided journeys to meet your guides",
    "intro": [
-    "Spirit Guides offers five inner journeys. Walk down ten steps to the Temple of Light, receive the warmth of a guide of light and keep it after the guide steps away, or consult a council of five guides about a problem before taking the sixth seat yourself. One session gives you a name and a sign to find this inner state again, and another invites you to thank the people who have mattered in your life.",
+    "Spirit Guides offers five spirit guide meditations, each one a calm inner journey. Walk down ten steps to the Temple of Light, receive the warmth of a guide of light and keep it after the guide steps away, or consult a council of five guides about a problem before taking the sixth seat yourself. One session gives you a name and a sign to find this inner state again, and another invites you to thank the people who have mattered in your life.",
     "Sessions last 16 to 26 minutes and are marked as intermediate. They suit anyone curious about imaginative inner journeys, whatever their beliefs. Find a quiet moment, ideally with headphones, and let each image or feeling come in its own time, without trying to force a particular experience."
    ],
    "faq": [
@@ -297,7 +305,7 @@
      "No. You can approach these sessions as imaginative journeys that help you listen to yourself differently. Whatever you believe, the practice stays the same: relax, follow the narration and notice what comes."
     ],
     [
-     "Which session should I start with?",
+     "What is the best meditation to connect with spirit guides?",
      "The Ten Steps to the Temple of Light is a good first step, as it guides you into a calm state. The Name and the Sign then gives you a simple way to return to that state later."
     ],
     [
@@ -313,14 +321,14 @@
     {
      "h2": "How to meet your spirit guide",
      "p": [
-      "Each journey starts with deep relaxation and a peaceful inner place. Then a presence comes to meet you: a light, a figure, an animal or simply a feeling.",
-      "There is no right form. Welcome what appears and let it unfold."
+      "Each spirit guide visualization starts with deep relaxation and a peaceful inner place. Then a presence comes to meet you: a light, a figure, an animal or simply a feeling.",
+      "There is no right form. If an animal comes, the journey becomes an animal spirit guide meditation. Welcome what appears and let it unfold."
      ]
     },
     {
-     "h2": "Where to start",
+     "h2": "How to connect with your spirit guides: where to start",
      "p": [
-      "The Name and the Sign is the shortest, 16 minutes: you ask for a name or a sign to find your guide again. The Guide of Light and The Council of Guides take the meeting further."
+      "The Name and the Sign is the shortest, 16 minutes: you ask for a name or a sign to find your guide again. For a 20-minute spirit guide meditation, try The Ten Steps to the Temple of Light (21 min). The Guide of Light, a classic meet-your-spirit-guide meditation, and The Council of Guides take the meeting further."
      ]
     }
    ]
@@ -329,9 +337,9 @@
    "slug": "akashic-records-meditation",
    "seo": "Akashic Records Meditation: Grief, Reunions and Beyond",
    "desc": "Akashic Records meditation for grief and remembrance: {n} guided journeys of {min} to {max} minutes, the archive keeper and a garden of reunion. Free.",
-   "h1": "Guided Akashic Records and grief meditation: reunions and what lies beyond",
+   "h1": "A guided journey to the Akashic Records, and gentle reunions beyond loss",
    "intro": [
-    "Higher Knowledge & Beyond contains three longer journeys. In The Keeper of the Archives, you learn to tell what the mind invents from what seems to arise on its own. The Garden of Reunion lets you say the words left unsaid and feel what passes from one generation to the next. My Departed Animal helps you reconnect with an animal who has passed, through everyday memories.",
+    "Higher Knowledge & Beyond holds three longer journeys, beginning with the Akashic Records. In The Keeper of the Archives, you learn to tell what the mind invents from what seems to arise on its own. The Garden of Reunion is a meditation to connect with ancestors and say the words left unsaid. You feel what passes from one generation to the next. My Departed Animal is a gentle pet loss meditation, built on everyday memories of an animal who has passed.",
     "Each session lasts 24 to 25 minutes and is marked as intermediate. They are best enjoyed when you have time and a quiet space, and they suit anyone drawn to memory, family ties and inner exploration. Emotions may come up along the way, so give yourself a calm moment afterwards before returning to your day."
    ],
    "faq": [
@@ -348,15 +356,15 @@
      "Plan for around half an hour. The sessions last 24 to 25 minutes, and it is worth taking a quiet moment afterwards, perhaps to write a few notes, before returning to the rest of your day."
     ],
     [
-     "What are the akashic records?",
-     "An idea from spiritual traditions: a memory of every soul. The Keeper of the Archives lets you explore it as a guided inner journey."
+     "Is this an Akashic Records reading, free of charge?",
+     "Not in the usual sense: nobody reads your records for you. The Keeper of the Archives lets you explore them yourself, as a guided inner journey. It is free, like the whole app, with no account and no ads."
     ]
    ],
    "guide": [
     {
-     "h2": "Akashic records meditation",
+     "h2": "How does a guided meditation for Akashic Records work?",
      "p": [
-      "In some spiritual traditions, the akashic records hold the memory of every soul. Here you explore them as an inner library, welcomed by a keeper.",
+      "In some spiritual traditions, the Akashic Records, or Akashic Chronicles, hold the memory of every soul. Here you explore them as an inner library, welcomed by an Akashic record keeper.",
       "Treat it as a symbolic journey, without expectations."
      ]
     },
@@ -370,11 +378,11 @@
   },
   "shamanic": {
    "slug": "shamanic-journey-meditation",
-   "seo": "Shamanic Journey Meditation: Guided Drum Trance",
-   "desc": "Take a shamanic journey to the drum: {n} guided meditations of {min} to {max} minutes, vision quest, fire of the ancients, power object. Free, no ads.",
+   "seo": "Shamanic Journey Meditation: Vision Quest and Power Object",
+   "desc": "A shamanic journey for the imagination: {n} guided meditations of {min} to {max} minutes, from the vision quest to the fire of the ancients. Free, no ads.",
    "h1": "Guided shamanic meditation: the shamanic journey",
    "intro": [
-    "Shamanic Trance offers four inner journeys inspired by shamanic traditions. The Vision Quest is about walking, waiting and letting what needs to be seen arrive. In The Fire of the Ancients, you watch the figures gathering by the fire without forcing a message. The Circle of Protection draws on the element that calls you, and the last journey brings you back with a power object to recognise and hold.",
+    "Shamanic Trance offers four inner journeys, each one a guided shamanic journey inspired by tradition. The Vision Quest is about walking, waiting and letting what needs to be seen arrive. In The Fire of the Ancients, you watch the figures gathering by the fire without forcing a message. The Circle of Protection draws on the element that calls you, and the last journey brings you back with a power object to recognise and hold.",
     "Sessions last 23 to 30 minutes and are marked as intermediate. They suit you if you already have some experience with relaxation and want to explore deeper imaginative journeys. Lie down or sit comfortably, ideally with headphones, and let the voice lead you from the start of the journey all the way back."
    ],
    "faq": [
@@ -391,15 +399,15 @@
      "These sessions are marked as intermediate and last up to 30 minutes. If you are new, start with Learning Basics to get used to relaxing and following the voice, then come back to these journeys."
     ],
     [
-     "Do I need a drum for a shamanic journey?",
-     "No. The guided session gives you the rhythm and the steps. You only need a quiet moment, lying down or seated."
+     "Is this a shamanic drumming meditation?",
+     "Not quite: these four journeys are guided by voice alone, with no drum to hear. For a drum meditation, try Journey to the Lower World in Trances & Techniques: you imagine a steady drum."
     ]
    ],
    "guide": [
     {
      "h2": "What a guided shamanic journey feels like",
      "p": [
-      "In shamanic traditions, a steady drum carries an inner journey. You travel through a landscape, meet presences and come back with something: an image, an object, an answer.",
+      "Traditionally, shamanic drumming carries the inner journey with a steady beat. You travel through a landscape, meet presences and come back with something: an image, an object, an answer.",
       "Here the voice guides you on the way out and on the way back."
      ]
     },
@@ -414,7 +422,7 @@
   "buddhist": {
    "slug": "buddhist-guided-meditation",
    "seo": "Buddhist Meditation: Guided Bodhisattva Journeys",
-   "desc": "Guided Buddhist meditation with Avalokiteshvara, Tara or Manjushri: {n} sessions of {min} to {max} minutes for compassion and clarity. Free, no ads.",
+   "desc": "Guided Buddhist meditation with the bodhisattvas of Mahayana Buddhism: {n} sessions of {min} to {max} minutes for compassion and clarity. Free, no ads.",
    "h1": "Guided Buddhist meditation in the footsteps of the bodhisattvas",
    "intro": [
     "Buddhist Meditations follows the great figures of the Mahayana tradition. Walk with Sudhana from teacher to teacher, meet the eleven faces of Avalokiteśvara, cut through looping thoughts with Mañjuśrī's sword, or go down with his lion into the valley of old fears. Carry Kṣitigarbha's light into the dark realms, revisit Samantabhadra's ten vows, climb up to Maitreya's garden and find a way out of eight dangers with Tārā.",
@@ -426,8 +434,8 @@
      "No. These sessions draw on Buddhist figures and stories, but they focus on qualities everyone can explore, such as wisdom, compassion and clarity. No belief or prior knowledge of Buddhism is required to follow them."
     ],
     [
-     "Who are the bodhisattvas?",
-     "In Mahayana Buddhism, bodhisattvas are figures devoted to the awakening of all beings. Each one embodies a quality: compassion for Avalokiteśvara, wisdom for Mañjuśrī, protection for Tārā. The sessions use them as guides for reflection."
+     "What is a bodhisattva?",
+     "In Mahayana Buddhism, a bodhisattva is someone devoted to the awakening of all beings. It follows the path once walked by Gautama Buddha. Zen Buddhism grew from the same tradition. Each bodhisattva embodies a quality, and the sessions use them as guides for reflection."
     ],
     [
      "Which session should I start with?",
@@ -440,14 +448,14 @@
    ],
    "guide": [
     {
-     "h2": "Loving kindness and compassion with the bodhisattvas",
+     "h2": "Bodhisattva meditation: compassion, clarity and protection",
      "p": [
-      "In Buddhist tradition, each bodhisattva embodies a quality: Avalokiteśvara for compassion, Mañjuśrī for clarity, Tārā for protection. These guided journeys let you meet them and grow that quality in yourself.",
+      "In Buddhist tradition, each bodhisattva embodies a quality. Avalokiteśvara, also known as Guanyin Bodhisattva, stands for compassion. Mañjuśrī stands for clarity, and the bodhisattva Tārā, much loved in Tibetan Buddhism, for protection. These guided journeys let you meet them and grow that quality in yourself.",
       "You do not need to be Buddhist. The figures are a support for attention and kindness."
      ]
     },
     {
-     "h2": "Which journey to choose",
+     "h2": "Buddhist meditation techniques: which journey to choose",
      "p": [
       "For compassion, The Eleven Faces of Avalokiteśvara. For clarity, Mañjuśrī’s Sword. For a gentle look at who you are becoming, Maitreya’s Garden."
      ]
@@ -457,10 +465,10 @@
   "qigong": {
    "slug": "qigong-meditation",
    "seo": "Qigong Meditation: {n} Guided Sessions for Beginners",
-   "desc": "Qigong for beginners, no class fees: {n} guided sessions of {min} to {max} minutes to feel the Qi, from warm hands to the still tree. Free, no ads.",
-   "h1": "Guided qigong meditation",
+   "desc": "Qigong meditation for beginners, no class fees: {n} guided sessions of {min} to {max} minutes, from warm hands to the still tree. Free, no ads, offline.",
+   "h1": "Guided qigong meditation for beginners: feel the Qi",
    "intro": [
-    "Sensations & Qigong turns your attention to the body in inner motion. Start by warming the hands around an imaginary ball, then follow the small circulation, a pearl descending from the belly and rising along the back. The Still Tree has you standing, arms around an imaginary ball, rooted without forcing. The last session, The Dance of Qi, brings qigong into motion until the body seems to move on its own.",
+    "Sensations & Qigong uses qigong meditation to turn your attention to the body in inner motion. Start by warming the hands around an imaginary ball, then follow the small circulation, a pearl descending from the belly and rising along the back. The Still Tree is a standing grounding meditation, arms around an imaginary ball, rooted without forcing. The last session, The Dance of Qi, brings qigong into motion until the body seems to move on its own.",
     "Sessions last 20 to 25 minutes and are marked as intermediate. They suit you if you like gentle movement, standing practice and paying close attention to physical sensations. No prior knowledge of qigong is needed: the voice describes each posture, and you simply need a little space around you to move freely."
    ],
    "faq": [
@@ -473,26 +481,30 @@
      "It depends on the session. Warming the Hands and The Small Circulation can be done seated, while The Still Tree and The Dance of Qi invite you to stand. Choose a space where you can move a little."
     ],
     [
-     "What is the small circulation?",
+     "What is the small circulation, or microcosmic orbit meditation?",
      "It is a classic qigong practice that follows a path through the body, down the front and up the back, in a loop. In the session, you follow it with your attention, like a pearl moving slowly along the way."
     ],
     [
      "Can I do qigong meditation sitting down?",
      "Yes. Warming the Hands and The Small Circulation work well seated. The Still Tree is traditionally done standing, but you can adapt it."
+    ],
+    [
+     "Is MeditaDream a qigong app?",
+     "It is a meditation app that includes these four qigong sessions, free and without ads. You need no account, and each session plays offline once downloaded. For corrections on posture, a live teacher remains the best complement."
     ]
    ],
    "guide": [
     {
      "h2": "Qigong for beginners: what you will feel",
      "p": [
-      "Qigong is a Chinese practice that links breath, attention and slow movement. These sessions focus on what you feel inside: warmth, tingling, a sense of energy moving.",
+      "Many people turn to qigong for vitality and calm. This Chinese practice links breath, attention and slow movement. These sessions focus on what you feel inside: warmth, tingling, a sense of energy moving.",
       "Most people feel warmth in their hands within the first session."
      ]
     },
     {
      "h2": "A simple order",
      "p": [
-      "Start with Warming the Hands, then The Still Tree for standing practice. The Small Circulation follows the energy along the body, and The Dance of Qi brings it all into motion."
+      "Start with Warming the Hands, then The Still Tree for standing practice. The Small Circulation follows the energy along the body, and The Dance of Qi brings it all into motion. Keep your qigong breathing slow and natural throughout."
      ]
     }
    ]
@@ -503,8 +515,8 @@
    "desc": "Can’t “see” anything when you visualize? {n} guided visualization meditations of {min} to {max} minutes train one sense at a time. Free, no ads, offline.",
    "h1": "Guided visualization meditation to train your inner eye",
    "intro": [
-    "Visualization trains your imagination one sense at a time. Follow a butterfly's flight with your inner eye, feel the weight and coldness of a key in your open hand, or track a singing bowl approaching from afar with your inner ear. Then bring the senses together at the summit of an extinct volcano or in a spaceship cockpit, and finally rebuild a room you know by heart as the evening light falls into it.",
-    "Sessions last 16 to 29 minutes and are marked as intermediate. They suit anyone who finds it hard to picture things, as well as those who want to prepare for deeper journeys. Working on one sense at a time makes progress easier, and the skills you build here carry over to the rest of the app."
+    "Visualization meditation trains your imagination one sense at a time. Follow a butterfly's flight with your inner eye, feel the weight and coldness of a key in your open hand, or track a singing bowl approaching from afar with your inner ear. Then bring the senses together at the summit of an extinct volcano or in a spaceship cockpit, and finally rebuild a room you know by heart as the evening light falls into it.",
+    "Sessions last 16 to 29 minutes and are marked as intermediate. They suit anyone who finds it hard to picture things. They also prepare deeper journeys, from a safe place visualization to the immersive worlds. Working on one sense at a time makes progress easier, and the skills you build here carry over to the rest of the app."
    ],
    "faq": [
     [
@@ -516,24 +528,28 @@
      "Visualization is one way of meditating. Instead of only observing what is there, you build sights, sounds or sensations in your imagination. It trains attention and makes the longer guided journeys in the app richer and easier to follow."
     ],
     [
-     "In what order should I follow them?",
+     "In what order should I do these visualization exercises?",
      "Start with the single-sense sessions, the butterfly, the key and the singing bowl, then move on to the sessions that combine the three senses. The Room You Know is a good one to finish with."
     ],
     [
-     "What if I cannot visualize images?",
-     "That is very common. Start with sound and touch, which are often easier. Visual images tend to follow with regular practice."
+     "How can I learn how to visualize during meditation?",
+     "Start with sound and touch, which are often easier than pictures. Then add sight, one short session at a time. Visual images tend to follow with regular practice."
+    ],
+    [
+     "Is there a free guided imagery app?",
+     "Yes. MeditaDream gives you every guided visualization free, with no subscription, no ads and no account. Its visualization sessions and 17 immersive worlds work as guided imagery recordings you can play offline."
     ]
    ],
    "guide": [
     {
-     "h2": "Guided imagery, one sense at a time",
+     "h2": "Guided imagery meditation, one sense at a time",
      "p": [
-      "Visualization is not only about seeing clear pictures. It also means hearing, touching and feeling in your imagination. Each session trains one sense first.",
-      "With practice, images become brighter and more stable."
+      "Mental visualization is not only about seeing clear pictures. It also means hearing, touching and feeling in your imagination. Think of each session as guided imagery relaxation with one goal: training a sense.",
+      "With practice, images become brighter and more stable. Here is how to improve visualization: one sense first, a little every day."
      ]
     },
     {
-     "h2": "From one sense to all three",
+     "h2": "How to visualize for beginners: from one sense to all three",
      "p": [
       "Start with Hearing — the Distant Singing Bowl, then Touch — the Key in Your Hand. When those feel easy, the Three Senses sessions take you to a volcano summit or across the galaxy."
      ]
@@ -564,21 +580,21 @@
     ],
     [
      "Is a guided journey still meditation?",
-     "Yes. You stay relaxed and attentive to what you imagine. It is a gentle way to meditate when you want to escape for a while."
+     "Yes. You stay relaxed and attentive to what you imagine. This kind of journeying meditation is a gentle way to escape for a while."
     ]
    ],
    "guide": [
     {
      "h2": "A guided journey you can get lost in",
      "p": [
-      "Here meditation becomes an adventure: a day at Versailles in 1700, the road to Kyoto in 1600, an unknown planet.",
+      "Each session is a meditation adventure: Versailles in 1700, the road to Kyoto in 1600, an unknown planet. Unlike a pure fantasy meditation, two of them are rooted in real history.",
       "There is nothing to learn. You simply let the story carry you, relaxed and present."
      ]
     },
     {
      "h2": "How long they last",
      "p": [
-      "The Unknown Planet takes 17 minutes. The time-travel journeys are richer and last up to 34 minutes."
+      "The Unknown Planet, a space meditation of 17 minutes, is the shortest. Each time travel meditation is richer and lasts up to 34 minutes."
      ]
     }
    ]
@@ -587,7 +603,7 @@
    "slug": "third-eye-meditation",
    "seo": "Third Eye Chakra Meditation: {n} Guided Sessions on Ajna",
    "desc": "Third eye meditation without forcing it: {n} advanced guided sessions of {min} to {max} minutes on Ajna, the point between the brows. Free, no ads.",
-   "h1": "Guided third eye chakra meditation",
+   "h1": "Guided third eye meditation on the Ajna chakra",
    "intro": [
     "Third Eye focuses on the point between the brows. You start by feeling both physical eyes, then learn to shift from looking outward to looking inward. Other sessions let an image be born at the centre of the forehead and fade away, invite you to wait before the dark space until an image appears on its own, take you through the door of Ajna, or let a mandala keep building itself once you let go of control.",
     "Sessions last 22 to 26 minutes and are marked as advanced. They are best approached after some practice with relaxation and visualization. Start with The Third Eye and the Two Physical Eyes, which teaches the shift of attention that the other sessions build on, and take your time with each one."
@@ -607,21 +623,29 @@
     ],
     [
      "How do you open the third eye with meditation?",
-     "Sit comfortably, rest your attention between the eyebrows and let images appear on their own. The Inner Eye Awakens guides you step by step, without promises."
+     "Sit comfortably, rest your attention between the eyebrows and let images appear on their own. The Inner Eye Awakens is a gentle meditation to open third eye vision, step by step, without promises."
+    ],
+    [
+     "Is this a pineal gland activation meditation?",
+     "Not in a physical sense. Some traditions link the third eye to the pineal gland, but these sessions make no claim about the body. Here, third eye activation simply means training attention and inner images between the brows."
+    ],
+    [
+     "Is seeing colors during meditation normal?",
+     "Yes, it is common when you rest your attention between the brows with your eyes closed. Welcome the colors without chasing them, as the sessions suggest. If none appear, that is fine too."
     ]
    ],
    "guide": [
     {
-     "h2": "How to meditate on the third eye",
+     "h2": "How to open your third eye, gently",
      "p": [
-      "The third eye, or ajna, is the point between the eyebrows in yoga tradition. You rest your attention there and let inner images come, without chasing them.",
-      "These sessions are advanced. Some ease with visualization helps."
+      "The third eye, or Ajna chakra, is the point between the eyebrows in yoga tradition. You rest your attention there and let inner images come, without chasing them.",
+      "Third eye awakening takes time, so these sessions are advanced. Some ease with visualization helps."
      ]
     },
     {
-     "h2": "A possible progression",
+     "h2": "Third eye meditation techniques: a possible progression",
      "p": [
-      "Start with The Inner Eye Awakens. Then try The Image that Appears on its Own and The Mandala that Builds Itself, where you simply watch."
+      "Start with The Inner Eye Awakens. Then try The Image that Appears on its Own and The Mandala that Builds Itself, where you simply watch. The Door of Ajna, a pure Ajna chakra meditation, takes you through to the place beyond."
      ]
     }
    ]
@@ -632,17 +656,17 @@
    "desc": "A taste of spiritual awakening: {n} advanced non-dual meditations of {min} to {max} minutes, awareness without edges and a body of light. Free, no ads.",
    "h1": "Guided non-dual meditation for spiritual awakening",
    "intro": [
-    "Cosmic & Void holds two advanced sessions for those who want to travel beyond the familiar. In Non-dual Awareness, you look for where inside ends and outside begins, then gently turn toward the one who perceives. In Light Body Expansion, you start from the simple warmth of your body and let it grow into a light that reaches beyond the skin and into the space around you.",
-    "The sessions last 28 and 31 minutes and are marked as advanced. They suit experienced meditators looking for a sense of vastness and open awareness. Set aside a quiet half hour, sit or lie down comfortably, and let the questions do their work without trying to reach a particular state."
+    "Cosmic & Void holds two advanced sessions for a taste of spiritual awakening, beyond the familiar. In Non-dual Awareness, you look for where inside ends and outside begins, then gently turn toward the one who perceives. In Light Body Expansion, you start from the simple warmth of your body and let it grow into a light that reaches beyond the skin and into the space around you.",
+    "The sessions last 28 and 31 minutes and are marked as advanced. They suit experienced meditators drawn to vastness, open awareness or higher consciousness. Set aside a quiet half hour, sit or lie down comfortably, and let the questions do their work without trying to reach a particular state."
    ],
    "faq": [
     [
-     "What does non-dual mean?",
-     "Non-duality refers to the experience of not separating the observer from what is observed. The session approaches it through simple questions, such as where inside ends and outside begins, rather than through theory."
+     "What is non-duality?",
+     "Non-duality refers to the experience of not separating the observer from what is observed. The session approaches it through simple questions, such as where inside ends and outside begins, rather than through theory. The same question runs through Advaita meditation and many Buddhist schools."
     ],
     [
      "Do I need experience?",
-     "Ideally, yes. These two sessions are marked as advanced and last around half an hour each. Some familiarity with longer meditations, for example through the Trance or Visualization categories, makes them easier and more pleasant to follow."
+     "Ideally, yes. These two sessions are marked as advanced and last around half an hour each. Some familiarity with longer meditations helps, for example the Trance category or a cosmic meditation like The Cosmic Temple world."
     ],
     [
      "Which session should I try first?",
@@ -651,20 +675,28 @@
     [
      "What is non-dual meditation?",
      "A practice where you stop separating the one who observes from what is observed, and simply rest in presence."
+    ],
+    [
+     "Is spiritual awakening the same as spiritual enlightenment?",
+     "The two are close. Full enlightenment, Buddhism says, is a complete and lasting awakening, and Zen calls a sudden glimpse of it satori. These sessions make no such promise: they offer a calm taste of open, non-dual awareness."
+    ],
+    [
+     "Is this a void meditation?",
+     "In a way. Cosmic & Void points toward the open space in which thoughts and sensations appear. You rest in that space rather than trying to empty the mind."
     ]
    ],
    "guide": [
     {
      "h2": "What non-dual awareness feels like",
      "p": [
-      "In non-dual awareness, the line between you and everything else softens. What remains is simple, open presence.",
+      "In non-dual awareness, the line between you and everything else softens. What remains is simple, open presence. That is why some call this practice a oneness meditation.",
       "These sessions are long and advanced, close to half an hour. Some practice helps."
      ]
     },
     {
-     "h2": "Two journeys",
+     "h2": "Meditation on emptiness and light: two journeys",
      "p": [
-      "Non-dual Awareness invites you to rest in open space. Light Body Expansion lets you feel your body widen all the way to the stars."
+      "Non-dual Awareness invites you to rest in open space. Light Body Expansion becomes a universe meditation, as your body seems to widen all the way to the stars."
      ]
     }
    ]
@@ -672,16 +704,16 @@
   "trance": {
    "slug": "guided-trance-meditation",
    "seo": "Trance Meditation: Guided Waking Dreams and Spirals",
-   "desc": "Trance meditation, body asleep and mind awake: {n} guided sessions of {min} to {max} minutes, a 33-level spiral and your future self. Free, no ads.",
-   "h1": "Guided trance meditation and altered states",
+   "desc": "Waking dream and trance meditation, body asleep, mind awake: {n} guided sessions of {min} to {max} minutes, from a 33-level spiral to your future self. Free, no ads.",
+   "h1": "Waking dream meditation: guided trance, body asleep and mind awake",
    "intro": [
-    "Consciousness & Trance explores the borders of ordinary awareness. In Body Asleep, Mind Awake, you watch the threshold of sleep while staying aware. You can descend a 33-level spiral, wander an infinite library while staying connected to your body, or explore an attic of forgotten objects. Other sessions offer a directed waking dream, a rest in the space between two thoughts, and a meeting with your future self.",
+    "Consciousness & Trance explores the waking dream and other borders of ordinary awareness. In Body Asleep, Mind Awake, you feel asleep but awake, watching the threshold of sleep. You can descend a 33-level spiral, wander an infinite library while staying connected to your body, or explore an attic of forgotten objects. Other sessions offer a directed waking dream, a rest in the space between two thoughts, and a meeting with your future self.",
     "Sessions last 20 to 32 minutes and are marked as intermediate. They suit you if you are curious about deep relaxation and imaginative states. Each session guides you gently back at the end. Listen somewhere comfortable, never while driving, and give yourself a moment to return before getting up."
    ],
    "faq": [
     [
      "What is a trance meditation?",
-     "It is a state of deep relaxation in which attention narrows and imagination becomes more vivid. You remain aware throughout the session, you can open your eyes at any moment, and the voice always brings you gently back at the end."
+     "A meditative trance is a state of deep relaxation in which attention narrows and imagination becomes more vivid. You remain aware throughout the session, you can open your eyes at any moment, and the voice always brings you gently back at the end."
     ],
     [
      "Is it safe?",
@@ -692,20 +724,24 @@
      "The 33-level Spiral is a good introduction, since the count guides you step by step. Body Asleep, Mind Awake is ideal if you are interested in the threshold of sleep."
     ],
     [
-     "What is a guided trance meditation?",
-     "A state of deep relaxation where the mind stays awake and imagination flows freely. The voice guides you in and brings you back."
+     "What is a waking dream?",
+     "A waking dream is a guided daydream: you stay awake while images unfold as in a dream. In Directed Waking Dream, a guided thread starts the story and spontaneous images change it. The voice guides you in and brings you back."
+    ],
+    [
+     "What is a hypnagogic meditation?",
+     "It works with the hypnagogic state, the drowsy edge between waking and sleep. Body Asleep, Mind Awake trains you to stay aware at that threshold. Images often appear there on their own."
     ]
    ],
    "guide": [
     {
-     "h2": "Guided trance: body asleep, mind awake",
+     "h2": "Guided trance meditation: body asleep, mind awake",
      "p": [
       "Your body relaxes deeply while your mind stays awake. In that state, images come easily: an infinite library, a spiral, a forgotten attic.",
       "That is the state these sessions help you reach."
      ]
     },
     {
-     "h2": "Where to begin",
+     "h2": "How to go into a trance: where to begin",
      "p": [
       "Directed Waking Dream and The Attic of Forgotten Objects last 20 minutes. Body Asleep, Mind Awake teaches the basic state."
      ]
@@ -714,17 +750,17 @@
   },
   "tranceTechniques": {
    "slug": "deep-trance-journey-techniques",
-   "seo": "Deep Trance Meditation: Guided Journeys and Techniques",
-   "desc": "Deep trance, step by step: {n} advanced guided journeys of {min} to {max} minutes, progressive descent, lower and upper worlds. Free, no ads, offline.",
-   "h1": "Guided deep trance journeys and techniques",
+   "seo": "Self Hypnosis: Guided Deep Trance Journeys and Techniques",
+   "desc": "Self hypnosis, the gentle way: {n} advanced guided journeys of {min} to {max} minutes into a calm hypnotic trance, then back. Free, no ads, offline.",
+   "h1": "Deep trance journeys and gentle self hypnosis, step by step",
    "intro": [
-    "Trances & Techniques gathers advanced trance journeys. Learn to go down into trance in stages with brief returns to the surface, follow an animal to the lower world to the sound of the drum, or rise through wind and light to the upper world. Other sessions travel up your family line, reread your soul contract, open the corridor of a thousand doors onto other eras, and borrow a quality from a craftsperson of long ago.",
+    "Trances & Techniques teaches a gentle form of self hypnosis through advanced trance journeys. Learn to go down into trance in stages with brief returns to the surface, follow an animal to the lower world to the sound of the drum, or rise through wind and light to the upper world. Other sessions travel up your family line, reread your soul contract, open the corridor of a thousand doors onto other eras, and borrow a quality from a craftsperson of long ago.",
     "Sessions last 16 to 30 minutes and are marked as advanced. Progressive Descent into Trance is the best place to start, since it teaches you to go down and come back up at your own pace. Once that feels familiar, the other journeys become easier to follow and more comfortable."
    ],
    "faq": [
     [
      "Is this a past life regression?",
-     "Past Lives & Time is an imaginative journey up your family line, to see what you want to keep, set down or pass on. It does not claim to reveal real past lives and promises no particular result."
+     "Past Lives & Time is an imaginative past life meditation that travels up your family line. You see what you want to keep, set down or pass on. It does not claim to reveal real past lives and promises no particular result."
     ],
     [
      "Why start with Progressive Descent into Trance?",
@@ -737,18 +773,26 @@
     [
      "Are these journeys for beginners?",
      "No, they are advanced. Start with Body Asleep, Mind Awake in the trance category, then come back here."
+    ],
+    [
+     "What does a hypnotic trance feel like?",
+     "Calm and focused, a little like the moment before sleep. Your body grows heavy while your attention narrows on the voice and the images. You stay aware, and you can open your eyes at any time."
+    ],
+    [
+     "Can I use self hypnosis for sleep?",
+     "These journeys bring you back at the end, so they are not made for falling asleep. For bedtime, the Body, Calm & Sleep category has sessions with no wake-up, such as Drifting into Sleep."
     ]
    ],
    "guide": [
     {
-     "h2": "Deeper trance journeys",
+     "h2": "Trance induction techniques: going deeper",
      "p": [
-      "These techniques are advanced. They take you to the lower world, the upper world or a corridor of a thousand doors.",
+      "These techniques are advanced. Each journey starts with a slow induction. Then it takes you to the lower world, the upper world or a corridor of a thousand doors.",
       "Practise the simpler trance sessions first."
      ]
     },
     {
-     "h2": "To begin",
+     "h2": "How to do self hypnosis: where to begin",
      "p": [
       "Forgotten Talents is the shortest, 16 minutes. Progressive Descent into Trance teaches you to go down step by step."
      ]
@@ -757,12 +801,12 @@
   },
   "astralMicroDetach": {
    "slug": "astral-projection-exercises",
-   "seo": "Astral Projection for Beginners: {n} Guided Exercises",
-   "desc": "Astral projection for beginners, before the full exit: {n} guided exercises of {min} to {max} minutes, ceiling magnet, tiny shift, the slide. Free, no ads.",
-   "h1": "Astral projection for beginners: guided first steps in detachment",
+   "seo": "Out of Body Experience for Beginners: {n} Guided Exercises",
+   "desc": "Astral travel for beginners: {n} guided exercises of {min} to {max} minutes that prepare an out of body experience, one sensation at a time. Free, no ads.",
+   "h1": "Astral projection for beginners: out of body experience training",
    "intro": [
-    "Micro-Detachment breaks astral projection down into five small gestures to practise before attempting a full exit. Feel the body's weight and a gentle pull toward the ceiling, shift the outline of your body by a few centimetres, move your point of view to just behind your head, slide down an imaginary slope, and rehearse sitting up in your mind until it feels almost real.",
-    "Sessions last 16 to 20 minutes and are marked as advanced. Practise them before the Astral Projection category: each one trains a specific sensation you will meet again in the longer protocols. Short, regular practice usually works better than long sessions spaced far apart, so take them one at a time."
+    "An out of body experience, the feeling of perceiving from outside your body, rarely comes all at once. Micro-Detachment breaks it into five small gestures to practise before attempting a full exit. Feel the body's weight and a gentle pull toward the ceiling. Shift the outline of your body by a few centimetres. Move your point of view to just behind your head, or slide down an imaginary slope. Finally, rehearse sitting up in your mind until it feels almost real.",
+    "Sessions last 16 to 20 minutes and are marked as advanced. Practise them before the Astral Projection category. Each one works like a short astral body meditation, training a sensation you will meet again in the longer protocols. Short, regular practice usually works better than long sessions spaced far apart, so take them one at a time."
    ],
    "faq": [
     [
@@ -770,7 +814,7 @@
      "A full astral exit combines several sensations at once. Training them one at a time (lightness, shifting, sitting up) makes each one more familiar before you put them together in a longer session."
     ],
     [
-     "How often should I practise?",
+     "How often should I practise out of body experience meditation?",
      "There is no set schedule. Short, regular practice tends to work better than long sessions spaced far apart. Each exercise lasts 16 to 20 minutes, so it fits easily into a quiet evening."
     ],
     [
@@ -780,18 +824,22 @@
     [
      "What are the best astral projection exercises for beginners?",
      "Short detachment exercises such as The Point Behind Your Head or The Slide. They teach you to recognise the first sensations before longer techniques."
+    ],
+    [
+     "Can you have an out of body experience while awake?",
+     "That is what these exercises prepare: the body rests deeply while the mind stays clear. Each session trains one small sensation of detachment, in imagination and attention. Nothing is promised: you explore at your own pace."
     ]
    ],
    "guide": [
     {
-     "h2": "Astral projection exercises before the full exit",
+     "h2": "How to have an out of body experience: small steps first",
      "p": [
       "Micro-detachment means small inner movements before any exit: a slight shift, a point behind your head, a pull toward the ceiling.",
       "These short sessions build the sensations used in the longer protocols."
      ]
     },
     {
-     "h2": "A good order",
+     "h2": "How to astral travel for beginners: a good order",
      "p": [
       "Start with The Point Behind Your Head or The Slide, 16 minutes each. Then The Ceiling Magnet and The Phantom Sit-up."
      ]
@@ -804,7 +852,7 @@
    "desc": "Guided astral projection meditation: {n} techniques of {min} to {max} minutes, floating, rope, imaginary fall, the double. Free, no subscription, no ads.",
    "h1": "Guided astral projection meditation and astral travel",
    "intro": [
-    "Astral Projection brings together eleven exit protocols. Some work with lightness, like floating toward the ceiling or rising up by pivoting at the pelvis. Others use classic techniques such as the rope, the imaginary fall or inner limbs. You will also find sessions to move and see in the astral, visualize your double, approach a sensed presence and note what you perceive of a target before checking it.",
+    "Astral Projection brings together eleven exit protocols, each one a guided astral projection meditation. Some work with lightness, like floating toward the ceiling or rising up by pivoting at the pelvis. Others use classic astral projection techniques such as the rope, the imaginary fall or inner limbs. You will also find sessions to move and see in the astral, visualize your double, approach a sensed presence and note what you perceive of a target before checking it.",
     "Sessions last 16 to 41 minutes and are marked as advanced. If you are just starting, practise the Micro-Detachment exercises first. Choose a time when your body is deeply relaxed and you will not be disturbed, and approach each protocol with curiosity rather than expectations about the result."
    ],
    "faq": [
@@ -823,6 +871,10 @@
     [
      "How do you astral project for the first time?",
      "Lie down, relax deeply and let a guided session lead you through an exit technique, such as the rope or floating. Start with the shorter exercises if you are new, and practise without pressure."
+    ],
+    [
+     "Is astral travel meditation the same as astral projection?",
+     "Most people use the two names for the same experience: perceiving as if from outside the body. A guided astral travel meditation simply adds movement once you feel detached. The Movement Techniques session is built for that part."
     ]
    ],
    "guide": [
@@ -830,13 +882,13 @@
      "h2": "How to astral project: the method behind these sessions",
      "p": [
       "Most techniques follow the same path. First, deep relaxation, until the body feels heavy and still. Then the mind stays awake while the body drifts toward sleep. Finally, an exit technique gives your attention somewhere to go.",
-      "The sessions guide each of these stages with your eyes closed, lying down, at an unhurried pace."
+      "Like any out of body experience meditation, each session guides these stages lying down, eyes closed, at an unhurried pace."
      ]
     },
     {
      "h2": "Choosing a technique",
      "p": [
-      "The rope technique uses the feeling of climbing hand over hand. Floating toward the ceiling plays with lightness. The imaginary fall uses the sense of dropping. Target sessions add something to observe, then check afterwards.",
+      "In the rope technique, astral projection starts with the feeling of climbing hand over hand. Floating toward the ceiling plays with lightness. The imaginary fall uses the sense of dropping. Target sessions add something to observe, then check afterwards.",
       "Try them one at a time and keep the one that works for you. People respond very differently to each."
      ]
     },
@@ -853,23 +905,23 @@
    "slug": "world-meditations",
    "seo": "World Meditations: Vipassana, Forest Bathing, Stoic Review",
    "desc": "Vipassana, Tonglen, forest bathing, the Inner Smile, a Stoic evening review: {n} practices from the world’s traditions, {min} to {max} minutes. Free, no ads.",
-   "h1": "World Meditations: {n} traditions to practice",
+   "h1": "World Meditations: {n} traditions, from Vipassana to forest bathing",
    "intro": [
-    "This category brings together {n} short meditations of {min} to {max} minutes from the world’s great traditions: Vipassana and Shamatha, Tibetan Buddhist Tonglen, Japanese Naikan and Shinrin-Yoku, Korean Seon, the Taoist Inner Smile, Christian contemplative prayer, Hasidic Hitbodedut and the Stoic evening review.",
+    "This category brings together {n} short meditations of {min} to {max} minutes from the world’s great traditions. Try Vipassana and Shamatha, Tibetan Buddhist Tonglen, Japanese Naikan or Shinrin-Yoku, better known as forest bathing. Korean Seon, the Taoist Inner Smile, Christian contemplative prayer, Hasidic Hitbodedut and the Stoic evening review complete the tour.",
     "Each session lets you taste a practice the way its tradition teaches it, with its own gestures and words, without asking you to believe anything. They are free, ad-free and play offline once downloaded."
    ],
    "guide": [
     {
      "h2": "Which world meditation should you start with?",
      "p": [
-      "If you are new, start with Vipassana: watching sensations change is the root of many other practices. Shamatha comes next, to steady a clear attention.",
+      "If you are new, start with Vipassana, the insight meditation Buddhism has taught since the Buddha. Watching sensations change is the root of many other practices. Shamatha comes next, to steady a clear attention.",
       "To open the heart, try Tonglen or the Inner Smile; to look back on your day in the evening, Naikan and its three questions, or the Stoic evening review."
      ]
     },
     {
      "h2": "What is forest bathing, or shinrin-yoku?",
      "p": [
-      "Born in Japan, shinrin-yoku is a slow walk in nature that pays attention to everything the senses pick up. The session guides you step by step, outdoors or in your imagination."
+      "Born in Japan, shinrin-yoku is a slow walk in nature that pays attention to everything the senses pick up. This guided forest bathing session leads you step by step, ideally outdoors. At home, it becomes a forest bathing meditation in your imagination."
      ]
     },
     {
@@ -902,121 +954,121 @@
   "antiqueTemple": {
    "slug": "ancient-temple-guided-visualization",
    "seo": "Temple Meditation: Guided Visualization, Candles and Rain",
-   "desc": "Temple meditation in the mountain mist: climb worn steps through the rain to candlelight and giant stone Buddhas. 20 minutes, free, no ads, works offline.",
+   "desc": "Temple meditation in the mountain mist: climb worn steps through the rain to a candle meditation among stone Buddhas. 20 minutes, free, no ads, offline.",
    "h1": "The Ancient Temple: an immersive Buddhist temple meditation",
-   "lead": "Climb a misty mountain path behind a nine-tailed white fox, all the way to a temple of candlelight and stone Buddhas. There, a masked guardian waits with a small candle, and a red door opens onto a landscape that belongs only to you."
+   "lead": "This temple meditation begins on a misty mountain path, behind a nine-tailed white fox. The path climbs all the way to a temple of candlelight and stone Buddhas. There, a masked guardian waits with a small candle. A red door opens onto a landscape that belongs only to you."
   },
   "cosmicTemple": {
    "slug": "cosmic-temple-guided-meditation",
    "seo": "Cosmic Meditation: Guided Journey with a Celestial Whale",
-   "desc": "Cosmic meditation: ride a celestial whale to a white marble temple among the stars and watch a star being born. 13 minutes, free, no ads, offline.",
+   "desc": "Cosmic meditation for a taste of higher consciousness: ride a celestial whale to a marble temple and watch a star being born. 13 minutes, free, no ads.",
    "h1": "The Cosmic Temple: an immersive cosmic meditation",
-   "lead": "Ride on the back of a celestial whale to a white marble temple floating among the stars. Inside, you watch a distant world's story begin and a star being born right beneath your feet."
+   "lead": "In this cosmic meditation, a celestial whale carries you to a white marble temple floating among the stars. Inside, you watch a distant world's story begin and a star being born right beneath your feet."
   },
   "crystalCave": {
    "slug": "crystal-cave-guided-visualization",
    "seo": "Crystal Meditation: Guided Cave Visualization for Clarity",
-   "desc": "Crystal meditation: descend into a cavern of glowing crystals and mirror-still pools for clarity and renewal. 17 minutes, free, no ads, works offline.",
+   "desc": "Crystal meditation: a clarity meditation among glowing crystals and mirror-still pools, deep underground. 17 minutes, free, no ads, works offline.",
    "h1": "The Infinite Crystal Cave: an immersive crystal meditation",
-   "lead": "Slip through a crack in the rock into a cavern of glowing crystals, where a crystal-winged butterfly shows you the way. A singing mermaid, a sleepy little dragon and a tiny glowing city wait deeper inside."
+   "lead": "This crystal meditation begins with a crack in the rock, opening onto a cavern of glowing crystals. A crystal-winged butterfly shows you the way. A singing mermaid, a sleepy little dragon and a tiny glowing city wait deeper inside."
   },
   "galaxy": {
    "slug": "galaxy-guided-meditation",
    "seo": "Space Meditation: A Train of Light Through the Galaxy",
    "desc": "Space meditation: board a silent train of light past Saturn’s icy rings, shooting stars and a night market on an asteroid. 19 minutes, free, offline.",
    "h1": "Journey Through the Galaxy: an immersive space meditation",
-   "lead": "Climb aboard a silent train of light and travel through Saturn's icy rings, a shower of shooting stars and a night market on an asteroid. A guide rides beside you, out to the far edge of the galaxy."
+   "lead": "This space meditation takes you aboard a silent train of light, through Saturn's icy rings and shooting stars. It stops at a night market on an asteroid. A guide rides beside you, out to the far edge of the galaxy."
   },
   "earthCore": {
    "slug": "grounding-earth-guided-visualization",
    "seo": "Grounding Meditation: Journey to the Earth's Core",
-   "desc": "Grounding meditation: descend through crystal caverns and rivers of warm light to the heart of the planet. 15 minutes, free, no ads, works offline.",
+   "desc": "Guided grounding meditation: descend through crystal caverns and rivers of warm light to the heart of the planet. 15 minutes, free, no ads, offline.",
    "h1": "The Heart of the Earth: an immersive grounding meditation",
-   "lead": "Follow warm rivers of light deep underground, into a hollow land with a gentle sun of its own. There, among giant ferns and glowing flowers, an amber egg is waiting to hatch in your hands."
+   "lead": "This grounding meditation follows warm rivers of light deep underground. They lead to a hollow land with a gentle sun of its own. There, among giant ferns and glowing flowers, an amber egg is waiting to hatch in your hands."
   },
   "antarcticBase": {
    "slug": "frozen-sanctuary-guided-meditation",
    "seo": "Winter Meditation: A Silent Frozen Sanctuary Under the Ice",
    "desc": "Winter meditation beneath the Antarctic ice: follow a glowing polar fox to a crystal heart and the aurora. 16 minutes, free, no ads, works offline.",
    "h1": "The Frozen Sanctuary: an immersive guided winter meditation",
-   "lead": "Sink through ancient layers of ice to a sanctuary older than memory, where a glowing polar fox shows you the way. Frost flowers, a beating crystal heart and an aurora await, before you step out under the open polar sky."
+   "lead": "In this winter meditation, you sink through ancient layers of ice to a sanctuary older than memory. A glowing polar fox shows you the way. Frost flowers, a beating crystal heart and an aurora await, before you step out under the open polar sky."
   },
   "skyIsland": {
    "slug": "floating-island-guided-visualization",
-   "seo": "Floating Meditation: Island Visualization Above the Clouds",
-   "desc": "Floating meditation above the clouds: rest on your own island, with waterfalls in the sky and a winged white stag. 20 minutes, free, no ads, offline.",
-   "h1": "The Floating Island: a floating meditation above the clouds",
-   "lead": "Cross a bridge of clouds to a green island that is yours alone, high above the world. Ride a great white bird, meet the winged stag who guards it, and send a shining seed into the night to start a tiny island."
+   "seo": "Safe Place Visualization: A Floating Island Meditation",
+   "desc": "A safe place visualization and floating meditation: rest on your own island above the clouds, beside a winged white stag. 20 minutes, free, no ads, offline.",
+   "h1": "The Floating Island: a safe place visualization above the clouds",
+   "lead": "This safe place visualization begins on a bridge of clouds, leading to a green island that is yours alone. Ride a great white bird and meet the winged stag who guards it. At nightfall, send a shining seed into the dark to start a tiny island."
   },
   "zenGarden": {
    "slug": "zen-garden-guided-meditation",
    "seo": "Zen Meditation in a Japanese Garden: Koi, Tea, Blossoms",
    "desc": "Zen meditation in a Japanese garden: walk slow stone paths under cherry blossoms, past koi ponds and raked sand. 18 minutes, free, no ads, offline.",
-   "h1": "Zen garden meditation: an immersive walk through a Japanese garden",
-   "lead": "Enter a quiet Japanese garden still fresh from the rain, where a cherry tree bursts into bloom and koi glide under a wooden bridge. An old gardener shares his tea, and stone lanterns light your way back at dusk."
+   "h1": "The Zen Garden: a guided zen meditation among koi and cherry blossoms",
+   "lead": "This zen meditation, guided step by step, takes you into a quiet Japanese garden still fresh from the rain. A cherry tree bursts into bloom and koi glide under a wooden bridge. An old gardener shares his tea, and stone lanterns light your way back at dusk."
   },
   "atlantis": {
    "slug": "atlantis-underwater-guided-meditation",
    "seo": "Underwater Meditation: A Guided Seahorse Ride to Atlantis",
    "desc": "Underwater meditation: breathe freely and ride a golden seahorse through Atlantis, a lost city of coral and pearl. 18 minutes, free, no ads, offline.",
    "h1": "Underwater Atlantis: an immersive underwater meditation",
-   "lead": "Sink gently into a warm sea, breathe freely underwater and ride a golden seahorse through a lost city of coral towers. Kind hosts welcome you, and a pearl keeps one of your memories as the whole city lights up."
+   "lead": "This underwater meditation begins in a warm sea, where you breathe freely. A golden seahorse carries you through a lost city of coral towers. Kind hosts welcome you, and a pearl keeps one of your memories as the whole city lights up."
   },
   "himalayanMonastery": {
    "slug": "himalayan-monastery-sunrise-meditation",
    "seo": "Mountain Meditation: Himalayan Monastery at Sunrise",
-   "desc": "Mountain meditation at sunrise: snowy Himalayan peaks, prayer flags in the cold wind, the first golden light. 18 minutes, free, no ads, works offline.",
+   "desc": "Mountain meditation at sunrise: snowy Himalayan peaks, prayer flags in the cold wind, the first golden light. A free morning meditation, 18 minutes, no ads.",
    "h1": "Monastery at Sunrise: an immersive Himalayan mountain meditation",
-   "lead": "Arrive at a mountain monastery before dawn, where an old monk lights the way with a butter lamp. Turn a prayer wheel, drink his tea on the balcony, then watch the sun rise over snowy peaks."
+   "lead": "This mountain meditation begins at a monastery before dawn, where an old monk lights the way with a butter lamp. Turn a prayer wheel, drink his tea on the balcony, then watch the sun rise over snowy peaks."
   },
   "celestialLibrary": {
    "slug": "celestial-library-guided-meditation",
    "seo": "Akashic Library Meditation Beneath the Stars",
    "desc": "Akashic library meditation: wander endless glowing books and spiral staircases beneath moving constellations. 14 minutes, free, no ads, offline.",
    "h1": "The Celestial Library: an immersive akashic library meditation",
-   "lead": "Step through a great wooden door into an endless library lit by floating candles, where books glide down to any reader who raises a hand. A salamander of golden light keeps you company as two books open for you."
+   "lead": "Step through a great wooden door into an Akashic library lit by floating candles. Here, books glide down to any reader who raises a hand. A salamander of golden light keeps you company as two books open for you."
   },
   "desertOasis": {
    "slug": "desert-oasis-guided-visualization",
    "seo": "Oasis Meditation: Guided Desert Visualization by Moonlight",
    "desc": "Oasis meditation by moonlight: sit by glowing water under an immense moon and a sky full of stars, in perfect stillness. 13 minutes, free, no ads.",
    "h1": "The Desert Oasis: an immersive oasis meditation",
-   "lead": "Walk the dunes at sunset, then ride a white camel beside a spirit of golden sand. At the oasis, a night market, a lamp full of butterflies and a garden hidden beneath the pool are waiting for you."
+   "lead": "This oasis meditation starts on the dunes at sunset. Ride a white camel beside a spirit of golden sand. At the oasis, a night market and a lamp full of butterflies are waiting. A garden lies hidden beneath the pool."
   },
   "treeOfConsciousness": {
    "slug": "tree-of-life-guided-meditation",
    "seo": "Tree of Life Meditation in a Glowing Night Forest",
    "desc": "Tree of life meditation: sit among the roots of a vast glowing tree whose branches hold the stars, and feel connected to all life. 18 minutes, free.",
    "h1": "The Tree of Consciousness: an immersive tree of life meditation",
-   "lead": "Wander a forest that glows in the dark until you reach a vast tree joining the earth and the stars. Its guardian of wood and moss lets you feel every life beating, then a single leaf opens onto a gentle little world."
+   "lead": "This tree of life meditation leads you through a forest that glows in the dark. At its heart stands a vast tree joining the earth and the stars. Its guardian of wood and moss lets you feel every life beating. Then a single leaf opens onto a gentle little world."
   },
   "jungleRuins": {
    "slug": "jungle-ruins-guided-visualization",
    "seo": "Jungle Meditation: Guided Visualization of a Lost City",
    "desc": "Jungle meditation: explore an overgrown temple where waterfalls pour over old stone and symbols glow. 19 minutes, free, no ads, works offline.",
    "h1": "The Forgotten Ruins: an immersive jungle meditation",
-   "lead": "Watch the mist lift from a city lost beneath the jungle, then follow a little monkey of light through its ruins. You dive to an older city under the water and see a tree spring from the seed you plant."
+   "lead": "This jungle meditation begins as the mist lifts from a city lost beneath the trees. A little monkey of light leads you through its ruins. You dive to an older city under the water and see a tree spring from the seed you plant."
   },
   "mushroomForest": {
    "slug": "enchanted-forest-guided-meditation",
    "seo": "Forest Meditation: An Enchanted Wood of Glowing Mushrooms",
    "desc": "Forest meditation in a dreamlike wood: giant glowing mushrooms, drifting spores and rivers of light. 17 minutes, free, no ads, works offline.",
    "h1": "The Dream Forest: an immersive enchanted forest meditation",
-   "lead": "Find yourself inside a dream, in a forest of giant mushrooms that glow like blue lamps. Pick a tiny galaxy from a silver tree, follow butterflies of light and float above it all on a gentle octopus."
+   "lead": "This forest meditation feels like stepping inside a dream, among giant mushrooms that glow like blue lamps. Pick a tiny galaxy from a silver tree, follow butterflies of light and float above it all on a gentle octopus."
   },
   "mirrorDimension": {
    "slug": "mirror-dimension-guided-meditation",
    "seo": "Self-Awareness Meditation in the Mirror Dimension",
    "desc": "Self-awareness meditation in a space of endless mirrors and soft white light: rest as the calm witness. 15 minutes, free, no ads, works offline.",
    "h1": "The Mirror Dimension: an immersive self-awareness meditation",
-   "lead": "Drift weightless through white light and countless mirrors, until one of them shows an animal guide instead of your face. Together you pass through small dreamlike worlds, then come back to the quiet awareness behind every reflection."
+   "lead": "This self-awareness meditation lets you drift weightless through white light and countless mirrors. One of them shows an animal guide instead of your face. Together you pass through small dreamlike worlds, then come back to the quiet awareness behind every reflection."
   },
   "wolfForest": {
    "slug": "wolf-spirit-guided-meditation",
-   "seo": "Wolf Meditation: Wolf Spirits Under the Northern Lights",
-   "desc": "Wolf meditation: walk a snowy pine forest under the northern lights, watched over by gentle wolf spirits. 15 minutes, free, no ads, works offline.",
-   "h1": "The Wolf Spirit Forest: an immersive guided wolf meditation",
-   "lead": "Step into a moonlit pine forest where a wolf made of stars leads you to its pack. Run with them until you become a wolf yourself, howl at an enormous moon and cross a bridge of northern lights."
+   "seo": "Wolf Spirit Animal Meditation Under the Northern Lights",
+   "desc": "Meet your wolf spirit animal: walk a snowy pine forest under the northern lights with a gentle pack. A 15-minute wolf meditation, free, no ads.",
+   "h1": "The Wolf Spirit Forest: meet your wolf spirit animal under the aurora",
+   "lead": "Step into a moonlit pine forest, where your wolf spirit animal, made of stars, leads you to its pack. Run with them until you become a wolf yourself, howl at an enormous moon and cross a bridge of northern lights."
   }
  },
  "teams": {

@@ -7,7 +7,7 @@
   "eyebrow": "Guide complet",
   "lead": "La méditation immersive t’emmène dans un lieu imaginaire complet, du premier pas jusqu’au retour. MeditaDream propose 17 mondes, de 13 à 20 minutes : un temple dans la brume, une cité engloutie, une forêt gardée par des loups.",
   "def": "La **méditation immersive** est une visualisation guidée qui te plonge tout entier dans un lieu imaginaire. Une voix te guide pas à pas : une scène d’ouverture, des sons, une intention, quelques gestes en imagination, puis un retour doux. Ton attention se pose dans ce décor, et le reste de la journée s’éloigne un moment.",
-  "kw": "méditation immersive, mondes immersifs, voyage intérieur, méditation guidée, méditation guidée voyage, voyage imaginaire, visualisation guidée, méditation guidée gratuite, méditation du soir, histoire pour dormir adulte, le voyage intérieur, lieux sacrés",
+  "kw": "méditation immersive, monde intérieur, méditation voyage intérieur",
   "sections": [
    {
     "id": "c-est-quoi",
@@ -31,7 +31,7 @@
     "id": "choisir",
     "h2": "Comment choisir un monde selon ton intention ?",
     "p": [
-     "Chaque monde porte une intention. Certains t’ancrent, d’autres t’ouvrent à l’émerveillement ou au regard intérieur. Choisis selon ce dont tu as besoin aujourd’hui, pas selon le décor le plus spectaculaire.",
+     "Chaque monde porte une intention. Certains t’ancrent, d’autres t’ouvrent à l’émerveillement ou à ton monde intérieur. Choisis selon ce dont tu as besoin aujourd’hui, pas selon le décor le plus spectaculaire.",
      "Si tu te sens dispersé, descends dans [Le Cœur de la Terre](/fr/mondes/meditation-ancrage-coeur-terre.html), vers ce qui ne bouge pas. Si tu veux te sentir protégé, entre dans [La Forêt des Esprits Loups](/fr/mondes/meditation-foret-esprits-loups.html), où une meute veille sur toi. Pour une question intérieure, [La Dimension des Miroirs](/fr/mondes/meditation-dimension-des-miroirs.html) t’invite à te demander qui regarde."
     ],
     "table": {
@@ -232,12 +232,12 @@
  "astral": {
   "slug": "voyage-astral",
   "seo": "Voyage astral : définition, techniques et méditation guidée",
-  "desc": "Voyage astral, projection astrale, sortie hors du corps : définition, techniques connues, précautions et méditations guidées gratuites pour t’y préparer.",
+  "desc": "Voyage astral, ou astral projection : définition, techniques connues, témoignages, précautions et méditations guidées gratuites pour t’y préparer.",
   "h1": "Voyage astral : comprendre la projection astrale et s'y préparer",
   "eyebrow": "Guide complet",
   "lead": "Le voyage astral fascine depuis plus d’un siècle. Voici ce que recouvrent les mots et ce que la science a observé. Tu trouveras aussi les techniques connues, et une façon douce de t’y préparer.",
   "def": "Le **voyage astral** est l’impression de quitter son corps physique et de percevoir le monde depuis un autre point de vue, souvent au-dessus de soi. Les traditions ésotériques y voient un « corps astral » qui se détache. La science parle d’expérience de sortie de corps, sans se prononcer sur un second corps.",
-  "kw": "voyage astral, projection astrale, rêve astral, sortie hors du corps, sortie astrale, décorporation, corps astral, plan astral, comment faire un voyage astral, voyage astral c’est quoi, voyage astral danger, voyage astral débutant, voyage astral et rêve lucide, expérience de sortie de corps, voyage astral involontaire, témoignages de voyage astral, annales akashiques, archives akashiques, mémoires akashiques, bibliothèque akashique, champ akashique, lectures akashiques, vies antérieures",
+  "kw": "voyage astral, astral projection, plan astral, corps astral, voyage astral c’est quoi, voyage astral danger, voyage astral témoignages, sortie de corps astral",
   "sections": [
    {
     "id": "c-est-quoi",
@@ -249,11 +249,11 @@
     "cards": [
      [
       "Projection astrale",
-      "Synonyme courant du voyage astral. Le mot insiste sur l’idée de « projeter » sa conscience hors du corps."
+      "Synonyme courant du voyage astral, « astral projection » en anglais. Le mot insiste sur l’idée de « projeter » sa conscience hors du corps."
      ],
      [
       "Sortie hors du corps",
-      "Expression plus neutre, proche de l’anglais « out-of-body experience ». On dit aussi sortie astrale ou sortie de corps."
+      "Expression plus neutre, proche de l’anglais « out-of-body experience ». On dit aussi sortie astrale ou sortie de corps astral."
      ],
      [
       "Décorporation",
@@ -294,7 +294,7 @@
    },
    {
     "id": "ressenti",
-    "h2": "Ce que l’on ressent pendant une sortie astrale",
+    "h2": "Voyage astral : témoignages et sensations",
     "p": [
      "Les témoignages de voyage astral se ressemblent d’une personne à l’autre. Personne ne vit tout cela, et il n’existe aucun passage obligé. Voici ce que les pratiquants décrivent le plus souvent."
     ],
@@ -519,7 +519,7 @@
   "eyebrow": "Guide complet",
   "lead": "Les 7 chakras forment une carte du corps venue de l’Inde. Découvre le sens de chaque chakra, sa place et ses couleurs. Tu verras aussi comment le méditer, en séparant clairement la tradition de ce que mesure la science.",
   "def": "Les **chakras** sont, dans les traditions tantriques et le yoga, des centres d’énergie subtile placés le long de la colonne vertébrale. Le mot sanskrit cakra signifie « roue ». Le système le plus connu en compte sept, de la base du dos au sommet du crâne. Chacun est associé à un thème et, aujourd’hui, à une couleur.",
-  "kw": "chakras, les 7 chakras, les 7 chakras signification, les chakras et leurs rôles, chakra racine, chakra sacré, chakra du plexus solaire, chakra du cœur, chakra de la gorge, troisième œil, chakra couronne, couleur des chakras et signification, méditation chakras, ouvrir ses chakras, équilibrer ses chakras, chakras bloqués, kundalini, premier chakra, chakra coronal, 3e œil, chakra du cœur signification, chakra du cœur bloqué, chakra de la gorge bloqué, chakra du plexus solaire bloqué, bol tibétain, 12 chakras",
+  "kw": "chakras, kundalini, chakra du plexus solaire, 7 chakras, chakra sacré, chakra de la gorge, chakra coronal, méditation chakras, couleur des chakras, les 7 chakras signification",
   "sections": [
    {
     "id": "signification",
@@ -633,11 +633,11 @@
    },
    {
     "id": "bloques",
-    "h2": "Chakras bloqués, ouverts, équilibrés : que veulent dire ces images ?",
+    "h2": "Chakra bloqué, chakra ouvert, chakras équilibrés : que veulent dire ces images ?",
     "p": [
      "On entend souvent parler de chakra bloqué. Dans le langage des traditions, un chakra « fermé » ou « bloqué » est un centre où l’énergie circulerait mal. C’est une image, pas une mesure.",
-     "Ouvrir ses chakras, dans cette même image, c’est laisser l’énergie circuler plus librement. Équilibrer ses chakras, c’est chercher une harmonie entre eux, sans qu’un centre prenne toute la place.",
-     "Les lectures modernes relient chaque blocage au thème du centre. Un chakra du cœur bloqué évoque ainsi un cœur qui se ferme aux autres. Un chakra de la gorge bloqué évoque une parole retenue, et un plexus solaire bloqué une confiance qui vacille. Prends-les comme des pistes de réflexion, pas comme des signes à guetter.",
+     "Ouvrir ses chakras, dans cette même image, c’est laisser l’énergie circuler plus librement. Équilibrer ses chakras, c’est chercher une harmonie entre eux, sans qu’un centre prenne toute la place. On parle aussi d’harmonisation des chakras.",
+     "Les lectures modernes relient chaque blocage au thème du centre. Un chakra cœur bloqué évoque ainsi un cœur qui se ferme aux autres. Un chakra gorge bloqué évoque une parole retenue, et un chakra plexus solaire bloqué, une confiance qui vacille. Prends-les comme des pistes de réflexion, pas comme des signes à guetter.",
      "En méditation, ces mots deviennent des gestes simples. Tu poses ton attention sur une zone, tu y respires, tu y imagines une lumière ou un son. Puis tu observes ce qui change, ou ce qui ne change pas.",
      "Personne ne peut te promettre qu’un chakra s’ouvre. Ce que tu peux vivre, en revanche, c’est un moment d’attention précise et douce envers ton corps."
     ]
@@ -698,9 +698,9 @@
    },
    {
     "id": "troisieme-oeil",
-    "h2": "Le troisième œil, pour aller plus loin",
+    "h2": "Ajna chakra : le troisième œil, pour aller plus loin",
     "p": [
-     "Le sixième chakra, Ajna, est souvent appelé troisième œil, ou 3e œil. Placé entre les sourcils, il est lié dans la tradition à l’intuition et à la vision intérieure.",
+     "Le sixième chakra, Ajna, est souvent appelé troisième œil, ou chakra du 3ème œil. Placé entre les sourcils, il est lié dans la tradition à l’intuition et à la vision intérieure.",
      "La catégorie [Troisième œil](/fr/meditations/meditation-troisieme-oeil.html) lui consacre cinq séances avancées, de 22 à 26 minutes. Dans « La porte d’ajna » (23 min), tu franchis une porte et tu explores le lieu qui se trouve derrière. Dans « L’image qui apparaît seule » (23 min), tu attends qu’une image vienne d’elle-même.",
      "Ces séances demandent de tenir une image, puis de la lâcher. Si tu débutes, commence par les chakras du corps. La [visualisation](/fr/visualisation.html) t’y prépare aussi très bien."
     ]
@@ -820,8 +820,8 @@
     "Le chakra de la gorge, Vishuddha, est le cinquième chakra. Son nom signifie « très pur ». La tradition lui donne seize pétales et l’élément espace. On l’associe aujourd’hui à l’expression, à l’écoute et à la parole vraie. Sa couleur moderne est le bleu. En méditation, tu peux y poser ton attention en répétant tout bas sa syllabe-germe, HAM."
    ],
    [
-    "Chakra couronne ou chakra coronal : quelle différence ?",
-    "Aucune : ce sont deux noms du même centre, le septième chakra, Sahasrara. « Coronal » vient du latin corona, la couronne. Son nom sanskrit signifie « aux mille pétales ». Il se place au sommet du crâne, ou juste au-dessus. On l’associe à l’unité et à la conscience. Sa couleur moderne est le violet, parfois le blanc."
+    "Chakra couronne : signification, et pourquoi dit-on aussi coronal ?",
+    "Le chakra couronne, Sahasrara, est le septième chakra. Son nom sanskrit signifie « aux mille pétales ». Il se place au sommet du crâne, ou juste au-dessus. On l’associe à l’unité et à la conscience. « Coronal » vient du latin corona, la couronne : chakra couronne et chakra coronal désignent donc le même centre. Sa couleur moderne est le violet, parfois le blanc."
    ]
   ],
   "blog": {
@@ -837,7 +837,7 @@
   "eyebrow": "Guide complet",
   "lead": "Le qi gong est une gymnastique douce venue de Chine, faite de postures, de souffle et d’attention. Découvre son origine, ses grandes familles et ce que la recherche observe. Puis essaie trois exercices simples pour débuter.",
   "def": "Le **qi gong** (ou chi kung) est un ensemble de pratiques chinoises qui associent mouvements lents, postures, respiration et concentration. Son nom réunit qi, le souffle ou l’énergie vitale, et gong, le travail ou la maîtrise acquise par l’entraînement. Il se pratique debout, assis ou en marchant, à tout âge.",
-  "kw": "qi gong, chi kung, chi gong, qi gong c’est quoi, qi gong bienfaits, qi gong débutant, exercices qi gong, tai chi qi gong, qi gong du matin, les 8 pièces de brocart, ba duan jin, qi gong des 5 animaux, énergie chi, méditation qi gong, qi gong assis, qi gong en ligne gratuit, chi kong, qi kung, tai chi chuan, taiji quan, tai chi débutant, les 24 mouvements du tai chi, 108 mouvements du tai chi, style Chen, mouvements du Ba Duan Jin, qi gong des 5 éléments",
+  "kw": "qi gong, qi gong tai chi, bienfaits qi gong, exercices de qi gong, exercices qi gong, qi gong c’est quoi, 18 mouvements qi gong, 5 animaux qi gong, 8 pièces de brocart qi gong, art martial qi gong",
   "sections": [
    {
     "id": "c-est-quoi",
@@ -884,12 +884,12 @@
       "Le tigre, le cerf, l’ours, le singe et l’oiseau. La tradition l’attribue à Hua Tuo, sous la dynastie Han. Chaque animal apporte sa qualité, de la force du tigre à la légèreté de l’oiseau."
      ],
      [
-      "Les 18 mouvements",
+      "Les 18 mouvements du qi gong",
       "Un enchaînement plus récent, inspiré du tai chi, connu sous le nom de Shibashi. Les gestes s’enchaînent lentement, sans à-coups."
      ],
      [
-      "La posture de l’arbre (zhan zhuang)",
-      "Debout et immobile, les bras arrondis comme autour d’un tronc. Zhan zhuang signifie « se tenir comme un pieu ». C’est l’une des pratiques les plus simples, et les plus profondes."
+      "La posture de l’arbre, qi gong immobile",
+      "Debout, les bras arrondis comme autour d’un tronc. En chinois, zhan zhuang signifie « se tenir comme un pieu ». C’est l’une des pratiques les plus simples, et les plus profondes."
      ],
      [
       "Le qi gong des 5 éléments",
@@ -943,7 +943,7 @@
     "id": "tai-chi",
     "h2": "Qi gong et tai chi chuan : quelle différence ?",
     "p": [
-     "On les confond souvent, et on les pratique parfois ensemble : beaucoup de cours s’appellent « tai chi qi gong ». Les deux viennent de Chine et partagent la lenteur, le souffle et l’attention. Leur but et leur forme diffèrent pourtant.",
+     "On les confond souvent, et on les pratique parfois ensemble. Beaucoup de cours s’appellent « qi gong tai chi » ou « tai chi qi gong ». Les deux viennent de Chine et partagent la lenteur, le souffle et l’attention. Leur but et leur forme diffèrent pourtant.",
      "Le tai chi peut d’ailleurs être vu comme un qi gong en mouvement, très élaboré. Si tu débutes, le qi gong est souvent plus simple : un seul geste suffit pour commencer.",
      "Le tai chi chuan, ou taiji quan, signifie « boxe du faîte suprême ». Il compte plusieurs styles de famille : Chen, le plus ancien, puis Yang, Wu et Sun. La forme simplifiée en 24 mouvements a été créée en 1956, à partir du style Yang. C’est par elle que commencent beaucoup de débutants en tai chi. La forme longue du style Yang compte souvent 108 mouvements."
     ],
@@ -987,13 +987,13 @@
     "h2": "Qi gong bienfaits : ce que dit la recherche",
     "p": [
      "Le qi gong et le tai chi ont fait l’objet de nombreuses études. Les chercheurs y observent souvent un meilleur équilibre, plus de souplesse, de la détente et une attention plus stable.",
-     "Ces résultats restent à nuancer. Les études portent souvent sur de petits groupes, et elles ne mesurent pas le qi lui-même. Elles décrivent l’effet de mouvements lents, d’un souffle calme et d’une attention soutenue.",
+     "Ces bienfaits, qi gong ou tai chi, restent à nuancer. Les études portent souvent sur de petits groupes, et elles ne mesurent pas le qi lui-même. Elles décrivent l’effet de mouvements lents, d’un souffle calme et d’une attention soutenue.",
      "Le qi gong n’est donc pas une promesse, mais une pratique de bien-être. Beaucoup de pratiquants disent s’y sentir plus calmes et plus présents à leur corps. C’est déjà une belle raison d’essayer. Pour d’autres façons d’apaiser le corps, la catégorie [Corps, calme & sommeil](/fr/meditations/meditation-guidee-pour-dormir.html) propose par exemple « Respirer avec tout le corps » (13 min)."
     ]
    },
    {
     "id": "debuter",
-    "h2": "Qi gong débutant : trois exercices simples",
+    "h2": "Qi gong : exercices gratuits pour bien débuter",
     "p": [
      "Ces trois exercices de qi gong demandent quelques minutes et aucun matériel. Tu peux les faire debout, ou en qi gong assis, sur une chaise, le dos libre."
     ],
@@ -1114,6 +1114,10 @@
    [
     "Quels sont les 24 mouvements du tai chi ?",
     "C’est la forme simplifiée du tai chi chuan, créée en Chine en 1956 à partir du style Yang. Ses 24 mouvements portent des noms imagés, comme « Séparer la crinière du cheval sauvage », « La grue blanche déploie ses ailes » ou « Mains comme des nuages ». MeditaDream ne l’enseigne pas : pour l’apprendre, un cours reste le plus simple."
+   ],
+   [
+    "Qi gong : art martial ou gymnastique douce ?",
+    "Les deux existent. Certaines formes de qi gong accompagnent l’entraînement des arts martiaux, comme le kung-fu. La plupart servent pourtant l’entretien du corps et la méditation. Les quatre séances de MeditaDream restent des pratiques douces, guidées à l’écoute."
    ]
   ],
   "blog": {
@@ -1129,7 +1133,7 @@
   "eyebrow": "Guide complet",
   "lead": "Le rêve lucide, c’est ce moment où tu comprends, en plein rêve, que tu rêves. Voici ce que la science en sait, le meilleur moment de la nuit et les techniques reconnues. Tu verras aussi comment traverser calmement une paralysie du sommeil.",
   "def": "Le **rêve lucide** est un rêve pendant lequel tu sais que tu rêves. Le rêve continue, mais une part de ton esprit reste consciente. Tu peux alors observer le décor, parfois agir dessus. Il survient surtout pendant le sommeil paradoxal, et des chercheurs l’ont démontré en laboratoire dès 1975.",
-  "kw": "rêve lucide, rêves lucides, comment faire un rêve lucide, comment faire des rêves lucides, rêve lucide c’est quoi, rêve conscient, rêve lucide dangereux, journal des rêves, se souvenir de ses rêves, contrôler ses rêves, paralysie du sommeil, rêve éveillé, rêve éveillé dirigé, rêve lucide et voyage astral, technique rêve lucide, méditation rêve lucide, interprétation des rêves, dictionnaire des rêves, signification des rêves, Freud et les rêves, rêver d’une personne décédée, causes de la paralysie du sommeil, paralysie du sommeil danger, hallucinations hypnagogiques, se rendormir après un réveil nocturne",
+  "kw": "rêve lucide, rêve lucide c’est quoi, rêve lucide dangereux, rêve lucide signification",
   "sections": [
    {
     "id": "c-est-quoi",
@@ -1243,7 +1247,7 @@
    },
    {
     "id": "danger",
-    "h2": "Le rêve lucide est-il dangereux ?",
+    "h2": "Rêve lucide : dangereux ou sans danger ?",
     "p": [
      "Pour la plupart des gens, le rêve lucide est une expérience sans danger, et souvent joyeuse. Le rêve reste un rêve : tu finis toujours par te réveiller.",
      "Deux points méritent pourtant ton attention. Les réveils programmés, comme le WBTB, coupent ta nuit : ne les pratique pas tous les jours si tu te sens fatigué. La technique WILD, elle, peut mener à une paralysie du sommeil, qui impressionne la première fois.",
@@ -1358,6 +1362,10 @@
    [
     "La paralysie du sommeil est-elle dangereuse ?",
     "Elle est très impressionnante, mais elle n’est pas dangereuse en elle-même : on n’en meurt pas. Elle cesse d’elle-même, en général en quelques secondes ou quelques minutes. Ce qui la rend pénible, c’est surtout la peur qu’elle provoque. La reconnaître aide déjà beaucoup. Si elle te pèse ou revient souvent, demande conseil à un professionnel."
+   ],
+   [
+    "Rêve lucide : signification, faut-il y lire un message ?",
+    "En lui-même, un rêve lucide n’annonce rien : c’est un état de conscience, pas un symbole. Il montre qu’une part de ton esprit est restée attentive pendant le sommeil paradoxal. Le mot vient du latin lucidus, « clair, lumineux ». Ce que tu y vois se lit, en revanche, comme tout rêve : note ce que chaque image évoque pour toi."
    ]
   ],
   "blog": {
@@ -1367,17 +1375,17 @@
  },
  "transe": {
   "slug": "transe-chamanique",
-  "seo": "Transe chamanique : chamanisme, tambour et voyage guidé",
-  "desc": "Transe chamanique : chamanisme, rôle du tambour, trois mondes, animal de pouvoir, différence avec l’hypnose et voyages chamaniques guidés gratuits.",
-  "h1": "Transe chamanique et chamanisme : le voyage du chamane, expliqué",
+  "seo": "Chamanisme et transe chamanique : tambour et voyage guidé",
+  "desc": "Chamanisme : définition, transe chamanique, rôle du tambour, trois mondes, animal de pouvoir et voyages chamaniques guidés gratuits, sans pub.",
+  "h1": "Le chamanisme expliqué : transe chamanique et voyage du chamane",
   "eyebrow": "Guide complet",
-  "lead": "La transe chamanique est au cœur de nombreuses traditions du monde. Découvre d’où vient le mot chamane, le rôle du tambour, les trois mondes et l’animal de pouvoir. Puis vois comment t’en inspirer, avec respect, en méditation guidée.",
+  "lead": "La transe chamanique est au cœur du chamanisme, dans de nombreuses traditions du monde. Découvre d’où vient le mot chamane, le rôle du tambour, les trois mondes et l’animal de pouvoir. Puis vois comment t’en inspirer, avec respect, en méditation guidée.",
   "def": "La **transe chamanique** est un état modifié de conscience que recherchent les chamanes, souvent au son d’un tambour rapide et régulier. L’attention se détourne du monde ordinaire et s’absorbe dans un voyage intérieur. Selon les traditions, le chamane y rencontre des esprits, des ancêtres ou des animaux alliés.",
-  "kw": "transe chamanique, chamanisme, chamane, chaman, chamanique, voyage chamanique, tambour chamanique, état de transe, animal totem, animal de pouvoir, méditation chamanique, soin chamanique, rituel chamanique, transe cognitive, origine du chamanisme, les trois mondes du chamanisme, hypnose, autohypnose, animal totémique, femmes chamanes, chaman amérindien",
+  "kw": "chamanisme, chamanisme définition, chamanisme dangereux, rituel chamanique, transe chamanique",
   "sections": [
    {
     "id": "chamane",
-    "h2": "C’est quoi un chamane ? Le mot et ses origines",
+    "h2": "C’est quoi un chamane ? Chamanisme, définition et origines",
     "p": [
      "Le mot **chamane** vient de la langue evenk, aussi appelée toungouse, parlée en Sibérie. Il est passé dans les langues d’Europe par le russe. On écrit chamane ou chaman : les deux formes sont correctes.",
      "Dans les sociétés sibériennes, le chamane est une personne reconnue par sa communauté. Il entre en relation avec le monde des esprits pour aider les siens : obtenir un bon gibier, accompagner un défunt, rétablir un équilibre. Ce rôle n’est pas réservé aux hommes : les femmes chamanes sont nombreuses, de la Sibérie à la Corée.",
@@ -1478,7 +1486,7 @@
    },
    {
     "id": "precautions",
-    "h2": "La transe chamanique est-elle dangereuse ? Précautions et retour",
+    "h2": "Transe et chamanisme : dangereux ? Précautions et retour",
     "p": [
      "Une méditation chamanique guidée, faite d’imagination et de son, reste une pratique douce. Elle peut pourtant remuer des émotions fortes, ou laisser une sensation d’étrangeté au retour.",
      "Prends toujours le temps de revenir. Bouge les mains et les pieds, bois un verre d’eau, regarde autour de toi. Les voyages proposés ici n’utilisent que le son et l’imagination.",
@@ -1576,7 +1584,7 @@
   "eyebrow": "Guide complet",
   "lead": "La visualisation, c’est l’art de former volontairement des images, des sons et des sensations dans ton esprit. Découvre ce qu’en dit la recherche, des exercices pour débuter et une progression simple, sens après sens.",
   "def": "La **visualisation** est la création volontaire d’images mentales, mais aussi de sons, de sensations et d’odeurs imaginés. Les chercheurs parlent d’imagerie mentale. On l’utilise pour se détendre, se préparer à une épreuve ou méditer. Elle s’entraîne avec le temps, et ne demande pas de voir des images nettes.",
-  "kw": "visualisation, visualisation positive, visualisation créatrice, technique de visualisation, techniques de visualisation, imagerie mentale, visualisation mentale, exercice de visualisation, méditation visualisation, visualisation guidée, le pouvoir de la visualisation, loi de l’attraction, imagerie mentale sport, loi de l’attraction en amour",
+  "kw": "visualisation, le pouvoir de la visualisation, visualisation créatrice, techniques de visualisation créatrice, visualisation positive, imagerie mentale, visualisation mentale, développer son imagination",
   "sections": [
    {
     "id": "c-est-quoi",
@@ -1778,6 +1786,14 @@
    [
     "La loi de l’attraction marche-t-elle en amour ?",
     "Beaucoup essaient d’attirer l’amour en visualisant la personne idéale. Aucune étude n’a montré que penser à quelqu’un le fasse venir. La visualisation peut en revanche t’aider à clarifier ce que tu cherches dans une relation, et à voir ce qui te freine. Imagine aussi le premier pas concret : une sortie, un message, une rencontre. C’est là que les choses peuvent changer."
+   ],
+   [
+    "Quelles sont les techniques de visualisation créatrice ?",
+    "Shakti Gawain propose quatre temps. Choisis un but, forme-en une image claire, reviens-y souvent, puis accompagne-la d’affirmations positives. Garde l’image légère, sans forcer. Ajoute aussi le premier pas concret vers ce but : c’est lui qui rend la pratique utile."
+   ],
+   [
+    "La visualisation aide-t-elle à développer son imagination ?",
+    "Oui : imaginer souvent, et avec précision, rend tes scènes intérieures plus riches et plus stables. Travaille un sens à la fois, puis réunis-les. C’est la progression de la catégorie Visualisation, de la vue au toucher, puis à l’ouïe. Quelques minutes par jour suffisent pour commencer."
    ]
   ],
   "blog": {
@@ -1787,13 +1803,13 @@
  },
  "guides": {
   "slug": "guides-spirituels",
-  "seo": "Guides spirituels et ange gardien : qui sont-ils ?",
-  "desc": "Guides spirituels, ange gardien, animal spirituel, bodhisattvas du bouddhisme, maîtres ascensionnés : les traditions, les signes et des méditations guidées.",
-  "h1": "Guides spirituels : qui sont-ils et comment entrer en contact",
+  "seo": "Ange gardien et guides spirituels : qui sont-ils ?",
+  "desc": "Ange gardien, guides spirituels, animal spirituel, bodhisattvas, maîtres ascensionnés : les traditions, les signes et des méditations guidées gratuites.",
+  "h1": "Guides spirituels et ange gardien : comment entrer en contact",
   "eyebrow": "Guide complet",
   "lead": "Ange gardien, animal spirituel, ancêtre, maître ou guide intérieur : les guides spirituels prennent bien des visages. Voici ce qu’en disent les traditions, une lecture psychologique possible et une façon douce d’entrer en contact en méditation.",
   "def": "Les **guides spirituels** sont des présences bienveillantes qui, selon de nombreuses traditions, accompagnent une personne sur son chemin. Ce peut être un ange gardien, un animal, un ancêtre, un sage ou une part plus profonde de soi. En méditation, on les rencontre par l’imagination, pour recevoir un conseil, un réconfort ou une direction.",
-  "kw": "guides spirituels, guide spirituel, ange gardien, animal spirituel, animal totem, maîtres ascensionnés, contacter ses guides spirituels, signes des guides spirituels, moi supérieur, guide intérieur, méditation guides spirituels, les guides spirituels existent-ils, ange gardien date de naissance, guidance spirituelle, ange gardienne, 72 anges de la kabbale, bouddhisme, Bouddha, bouddhiste, bodhisattva, Avalokiteśvara, Guanyin, Tārā, Maitreya, éveil spirituel, sagesse bouddhiste, zen, bouddhisme religion, anges et archanges",
+  "kw": "ange gardien, guides spirituels, guide spirituel, maître ascensionné, anges et archanges, ange protecteur, mon ange gardien, comment contacter ses guides spirituels, signes des guides spirituels",
   "sections": [
    {
     "id": "c-est-quoi",
@@ -2010,7 +2026,7 @@
     "Les gens évoquent souvent des coïncidences frappantes, des rêves très nets, des intuitions soudaines ou un animal qui revient. Jung appelait synchronicités ces coïncidences qui semblent avoir un sens. Garde pourtant ton esprit critique : quand tu attends un signe, tu le vois partout. Note les faits, puis relis-les avec du recul."
    ],
    [
-    "Comment connaître son ange gardien selon sa date de naissance ?",
+    "Comment connaître mon ange gardien selon ma date de naissance ?",
     "Cette idée vient d’une tradition ésotérique populaire, inspirée de la kabbale. Elle tire 72 noms d’anges de trois versets de l’Exode, puis les répartit sur les jours de l’année. Elle ne fait partie d’aucune doctrine religieuse officielle. Tu peux la prendre comme un jeu symbolique, ou laisser ton ange se présenter en méditation."
    ],
    [
@@ -2047,7 +2063,7 @@
   "eyebrow": "Guide complet",
   "lead": "La gestion des émotions ne consiste pas à les faire taire, mais à les accueillir et à les comprendre. Découvre la roue des émotions, l’intelligence émotionnelle et l’auto-compassion, avec des méditations et un journal pour avancer à ton rythme.",
   "def": "La **gestion des émotions** est l’art d’accueillir ce que tu ressens, de le nommer, puis de choisir ta réponse. Il ne s’agit pas de supprimer une émotion, mais de la comprendre. Cette compétence s’apprend à tout âge. Elle est au cœur de l’intelligence émotionnelle et de la croissance personnelle.",
-  "kw": "gestion des émotions, gérer ses émotions, croissance émotionnelle, roue des émotions, intelligence émotionnelle, amour de soi, auto-compassion, croissance personnelle, développement personnel, exprimer ses émotions, identifier ses émotions, réguler ses émotions, gérer sa colère, gestion du stress, journal émotionnel, gratitude, apprendre à gérer ses émotions, contrôler ses émotions, maîtriser ses émotions, liste des émotions, intelligence émotionnelle au travail, accueillir ses émotions, estime de soi, confiance en soi, manque d’estime de soi, ho’oponopono, peur de l’abandon, peur de l’échec, peur du noir, lâcher prise",
+  "kw": "gestion des émotions, intelligence émotionnelle, roue des émotions, roue des émotions et besoins, régulation émotionnelle, libération émotionnelle, roue des émotions à imprimer, méditation émotions",
   "sections": [
    {
     "id": "croissance",
@@ -2092,7 +2108,7 @@
      ],
      [
       "La maîtrise de soi",
-      "Réguler ses émotions : ne pas les nier, mais choisir ce que tu en fais."
+      "La régulation émotionnelle : ne pas nier tes émotions, mais choisir ce que tu en fais."
      ],
      [
       "La motivation",
@@ -2239,7 +2255,7 @@
    ]
   },
   "app": {
-   "h2": "La croissance émotionnelle dans MeditaDream",
+   "h2": "Méditation, émotions et journal dans MeditaDream",
    "intro": [
     "La catégorie [Croissance émotionnelle](/fr/meditations/meditation-amour-de-soi-gratitude.html) réunit huit séances, de 7 à 17 minutes. Commence par « Accueillir une émotion difficile » (17 min), puis essaie « Se libérer de la comparaison » (13 min). Les jours chargés, « Méditation de compassion » (7 min) t’offre une pause courte et douce."
    ],
@@ -2293,7 +2309,15 @@
    ],
    [
     "Comment lâcher prise sur ses émotions ?",
-    "Lâcher prise, ce n’est pas abandonner : c’est cesser de lutter contre ce qui est déjà là. Commence par nommer l’émotion, puis laisse-la exister quelques respirations, sans la commenter. Remarque qu’elle change déjà. En méditation, « Accueillir une émotion difficile » (17 min) suit ce chemin. Les mondes « Le Jardin Zen » et « L’Atlantide Sous-Marine » invitent eux aussi au lâcher-prise."
+    "Lâcher prise, ce n’est pas abandonner : c’est cesser de lutter contre ce qui est déjà là. Commence par nommer l’émotion, puis laisse-la exister quelques respirations, sans la commenter. Remarque qu’elle change déjà. On parle parfois de libération émotionnelle : l’émotion passe parce que tu ne la retiens plus. En méditation, « Accueillir une émotion difficile » (17 min) suit ce chemin. Les mondes « Le Jardin Zen » et « L’Atlantide Sous-Marine » invitent eux aussi au lâcher-prise."
+   ],
+   [
+    "À quoi sert une roue des émotions et besoins ?",
+    "Elle relie chaque émotion au besoin qu’elle signale. La peur parle souvent de sécurité, la colère d’une limite franchie, la tristesse d’une perte. L’idée vient de la communication non violente de Marshall Rosenberg, qui associe sentiments et besoins. Nommer les deux t’aide à choisir une réponse juste."
+   ],
+   [
+    "Où trouver une roue des émotions à imprimer ?",
+    "Le schéma de cette page reprend la roue de Plutchik : huit émotions de base, chacune en trois intensités. Tu peux imprimer la page, ou recopier la roue à la main : la dessiner aide à la retenir. Garde-la près de ton journal, pour trouver le mot juste."
    ]
   ],
   "blog": {

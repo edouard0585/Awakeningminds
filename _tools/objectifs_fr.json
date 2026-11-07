@@ -13,11 +13,11 @@
    "desc": "Mieux dormir sans forcer : méditations pour s’endormir, sons pour dormir avec minuteur, séances sans réveil final. Gratuit, sans pub, même en mode avion.",
    "h1": "Comment MeditaDream t’aide à mieux dormir",
    "titre_court": "Mieux dormir",
-   "accroche": "Ralentis tes pensées, relâche ton corps et laisse venir le sommeil, sans rien forcer.",
+   "accroche": "Pour mieux dormir, ralentis tes pensées, relâche ton corps et laisse venir le sommeil, sans rien forcer.",
    "pitch": [
-    "Il est minuit passé et ta tête refait encore la journée ? Pour mieux dormir, tu n’as pas besoin d’un effort de plus, mais d’une façon de décrocher. MeditaDream te propose des méditations pour s’endormir, lentes et douces. « Glissement vers le sommeil » (16 min) t’invite à relâcher peu à peu tout effort et se termine sans réveil final : tu peux t’endormir avant la fin.",
-    "Tu préfères des sons pour dormir, sans voix ? Les sons d’ambiance font entendre les vagues, la forêt ou un torrent, au volume que tu choisis. Règle le minuteur de 5 à 60 minutes : le son s’éteint seul, en fondu, même écran verrouillé. Pour les méditations, choisis ta voix et ralentis-la jusqu’à 0,75× : le rythme devient encore plus doux.",
-    "Une fois tes séances téléchargées, tout fonctionne en mode avion, sans notification pour te déranger. Tu ne sais pas quoi écouter ? Écris à l’Oracle « je n’arrive pas à dormir » : il retourne trois cartes, trois méditations pour ce moment. Tu peux même écrire ton propre rituel du soir, lu par une voix de ton téléphone. Une application pour dormir gratuite, sans abonnement ni publicité."
+    "Il est minuit passé et ta tête refait encore la journée ? Plus tu veux dormir, plus l’anxiété du sommeil monte. Pour mieux dormir, tu n’as pas besoin d’un effort de plus, mais d’une façon de décrocher. « Glissement vers le sommeil » (16 min) est une méditation pour dormir et lâcher prise. Elle se termine sans réveil final : tu peux t’endormir avant la fin.",
+    "Tu cherches une histoire pour dormir adulte ? « Voyage du sommeil » (27 min) s’en approche : une voix t’accompagne vers le sommeil, sans intrigue à suivre. Tu préfères une relaxation pour dormir, sans voix ? Les sons d’ambiance font entendre les vagues, la forêt ou un torrent. Règle le minuteur de 5 à 60 minutes : le son s’éteint seul, en fondu, même écran verrouillé.",
+    "Pour les méditations, choisis ta voix et ralentis-la jusqu’à 0,75× : le rythme devient encore plus doux. Une fois tes séances téléchargées, tout fonctionne en mode avion, sans notification pour te déranger. Tu ne sais pas quoi écouter ? Écris à l’Oracle « je n’arrive pas à dormir » : il retourne trois cartes, trois méditations pour ce moment. Tu peux même écrire ton propre rituel du soir, lu par une voix de ton téléphone. Une application pour dormir gratuite, sans abonnement ni publicité."
    ],
    "etapes": [
     "Avant le coucher, télécharge une première fois tes séances préférées, puis passe en mode avion : elles fonctionnent hors ligne, et aucune notification ne vient te tirer du calme.",
@@ -27,16 +27,16 @@
    ],
    "faq": [
     [
-     "Comment utiliser MeditaDream pour mieux dormir ?",
+     "Comment mieux dormir avec MeditaDream ?",
      "Choisis une séance du soir dans la catégorie Corps, calme & sommeil, règle la voix et la vitesse, puis écoute allongé, lumière éteinte. Commence par « Glissement vers le sommeil » (16 min), qui se termine sans réveil final. Les soirs où tu préfères le silence, lance simplement un son d’ambiance avec le minuteur. Tout est gratuit et fonctionne hors ligne."
     ],
     [
-     "Est-ce une bonne idée de méditer juste avant de dormir ?",
-     "Oui, si tu choisis une séance faite pour le soir, lente et douce comme « Le corps sous une cascade » (15 min), ou riche en longues pauses comme « Réinitialisation des Chakras » (18 min). Garde les séances d’exploration, comme « Préparation au rêve lucide » (23 min), pour les soirs où tu veux explorer tes rêves plutôt que t’endormir rapidement."
+     "Quelle méditation pour bien dormir, juste avant le coucher ?",
+     "Choisis une séance faite pour le soir, lente et douce comme « Le corps sous une cascade » (15 min), ou riche en longues pauses comme « Réinitialisation des Chakras » (18 min). Garde les séances d’exploration, comme « Préparation au rêve lucide » (23 min), pour les soirs où tu veux explorer tes rêves plutôt que t’endormir rapidement."
     ],
     [
-     "Et si je m’endors avant la fin de la séance ?",
-     "Aucun souci : c’est même le but des séances du soir. « Glissement vers le sommeil » ne te réveille pas à la fin, et le son d’ambiance s’arrête seul quand le minuteur arrive au bout. Au réveil, note un rêve ou une impression dans le Journal des Rêves : tu verras peu à peu ce qui t’aide à mieux dormir."
+     "Quelle méditation pour se rendormir après un réveil nocturne ?",
+     "Relance « Glissement vers le sommeil » (16 min) : elle ne te réveille pas à la fin. Si tu préfères le silence, le son d’ambiance s’arrête seul quand le minuteur arrive au bout. Le matin, note un rêve ou une impression dans le Journal des Rêves : tu verras peu à peu ce qui t’aide à mieux dormir."
     ]
    ],
    "seances": [
@@ -209,14 +209,14 @@
   "02": {
    "slug": "reduire-le-stress",
    "seo": "Réduire le stress et se relaxer : l’app gratuite",
-   "desc": "Réduire le stress en moins de 5 minutes : pauses guidées, exercice de respiration et sons pour te relaxer. Gratuit, sans pub, sans compte, hors ligne.",
+   "desc": "Réduire le stress en moins de 5 minutes : pauses guidées, exercice de respiration, sons apaisants. Application anti-stress : gratuit, sans pub, sans compte.",
    "h1": "Comment MeditaDream t’aide à réduire le stress",
    "titre_court": "Réduire le stress",
-   "accroche": "Fais une pause, désamorce la surcharge et retrouve une attention stable, même quand tu n’as que quatre minutes.",
+   "accroche": "Réduire le stress commence par une vraie pause : désamorce la surcharge et retrouve une attention stable, où que tu sois.",
    "pitch": [
-    "Ta journée déborde, ton souffle se raccourcit, et tu n’as pas une heure devant toi ? Pour réduire le stress, quatre minutes suffisent pour commencer. « Quand tout va trop vite » te ramène au regard, au sol et au souffle. « Se détendre très rapidement » relâche ton corps zone par zone en trois minutes. Une vraie méditation de 5 minutes, ou moins, à glisser n’importe où.",
-    "Après une dispute ou une mauvaise nouvelle, deux séances de 3 et 4 minutes t’aident à desserrer les crispations et à revenir aux faits. Quand tu as plus de temps, entraîne-toi : « Stabiliser l’attention sur le souffle » (13 min) est un exercice de respiration simple, sans chercher à bien respirer. Et pour te relaxer en bougeant, « La danse du Qi » (25 min) propose des gestes lents.",
-    "Tu ne sais pas quoi choisir ? Écris à l’Oracle ce que tu ressens, et il te propose trois séances adaptées. Ou tape « stress » dans la recherche. Programme un rappel quotidien pour en faire une habitude, glisse un son d’ambiance sous la voix et emporte tout hors ligne. C’est gratuit, sans abonnement ni publicité."
+    "Ta journée déborde, ton souffle se raccourcit, et tu n’as pas une heure devant toi ? Pour réduire le stress, quatre minutes suffisent pour commencer. « Quand tout va trop vite » te ramène au regard, au sol et au souffle. « Se détendre très rapidement », une relaxation anti-stress express, relâche ton corps zone par zone en trois minutes. Une vraie méditation de 5 minutes, ou moins, à glisser n’importe où.",
+    "Gérer son stress et ses angoisses, ça s’entraîne. Après une dispute ou une mauvaise nouvelle, deux séances de 3 et 4 minutes t’aident à desserrer les crispations et à revenir aux faits. Quand tu as plus de temps, entraîne-toi : « Stabiliser l’attention sur le souffle » (13 min) est un exercice de respiration simple, sans chercher à bien respirer. Et pour te relaxer en bougeant, « La danse du Qi » (25 min) propose des gestes lents.",
+    "Tu cherches la bonne méditation anti-stress ? Écris à l’Oracle ce que tu ressens, et il te propose trois séances adaptées. Ou tape « stress » dans la recherche. Programme un rappel quotidien pour en faire une habitude, glisse un son d’ambiance sous la voix et emporte tout hors ligne. C’est gratuit, sans abonnement ni publicité."
    ],
    "etapes": [
     "Au premier signe de surcharge, ouvre la catégorie 4 Minutes et lance « Quand tout va trop vite ». Elle se pratique les yeux ouverts, au bureau comme dans le train.",
@@ -226,7 +226,7 @@
    ],
    "faq": [
     [
-     "Comment utiliser MeditaDream pour réduire le stress ?",
+     "Comment réduire le stress avec MeditaDream ?",
      "Garde deux réflexes. Sur le moment, une séance de la catégorie 4 Minutes, comme « Quand tout va trop vite », pour souffler sans quitter ta place. Le soir, une séance plus longue pour t’entraîner, comme « Observer les pensées » (15 min), qui t’apprend à voir passer les pensées sans les suivre. Avec un rappel quotidien, ces pauses deviennent une habitude."
     ],
     [
@@ -234,7 +234,7 @@
      "Assieds-toi, pose les pieds au sol et laisse ta respiration ralentir d’elle-même, sans la forcer. Puis relâche le front, les épaules et les mains. C’est le principe de « Se détendre très rapidement » (3 min), qui te guide du front aux pieds. Si tes pensées s’emballent, « Le refuge instantané » (4 min) t’offre un lieu rassurant où les déposer."
     ],
     [
-     "Quel exercice de respiration choisir quand on débute ?",
+     "Quel exercice anti-stress choisir quand on débute ?",
      "Le plus simple : suivre ton souffle tel qu’il est, et y revenir chaque fois que ton attention s’échappe. Il n’y a rien à réussir. « Stabiliser l’attention sur le souffle » (13 min) t’entraîne exactement à cela, au niveau débutant. Ensuite, « La respiration lumineuse » (13 min) associe le souffle à une image de calme."
     ]
    ],
@@ -432,13 +432,13 @@
    "slug": "apaiser-anxiete",
    "seo": "Calmer son anxiété : une app de méditation gratuite",
    "desc": "Calmer son anxiété pas à pas et traverser les jours de déprime : méditations guidées, pauses de 4 minutes, journal privé. Gratuit, sans pub, sans compte.",
-   "h1": "Comment MeditaDream t’aide à calmer ton anxiété",
+   "h1": "Calmer son anxiété pas à pas avec MeditaDream",
    "titre_court": "Apaiser l’anxiété",
-   "accroche": "Regarde tes inquiétudes, tes peurs et ton autocritique avec plus de recul, et retrouve des appuis pour les jours difficiles.",
+   "accroche": "Calmer son anxiété commence par un peu de recul : observe tes inquiétudes et tes peurs, puis retrouve des appuis pour les jours difficiles.",
    "pitch": [
-    "Le scénario catastrophe qui tourne en boucle à 3 heures du matin. Le cœur qui s’emballe pour un message sans réponse. MeditaDream ne fait pas disparaître l’anxiété d’un coup de baguette. Ses méditations pour l’anxiété t’apprennent à la regarder autrement : « Observer les pensées » (15 min) t’aide à ne plus suivre chaque inquiétude, et « Après une mauvaise nouvelle » (4 min) te ramène aux faits.",
-    "Plusieurs peurs ont leur méditation : la peur du jugement (7 min), de l’échec (10 min) ou de l’abandon (10 min). Ce sont des explorations douces, sans forcer. Pour les jours de déprime, « Développer l’amour de soi » (15 min) adoucit l’autocritique, et « Quand tu manques de motivation » (3 min) t’aide à trouver un premier geste réalisable.",
-    "Écris à l’Oracle comment tu te sens, avec tes mots : il choisit trois méditations pour ce ressenti. Le Journal Émotionnel garde la trace de ce qui revient, et la recherche te trouve une séance en un mot, comme « peur ». Rien ne quitte ton téléphone, il n’y a aucun compte à créer, et tout est gratuit."
+    "Le scénario catastrophe qui tourne en boucle à 3 heures du matin. Le cœur qui s’emballe pour un message sans réponse. MeditaDream ne promet pas de maîtriser ses angoisses d’un coup de baguette. Ses méditations pour l’anxiété t’apprennent à la regarder autrement : « Observer les pensées » (15 min) t’aide à ne plus suivre chaque inquiétude, et « Après une mauvaise nouvelle » (4 min) te ramène aux faits.",
+    "Gérer son stress et ses angoisses passe aussi par des peurs précises. La peur du jugement (7 min), de l’échec (10 min) ou de l’abandon (10 min) ont chacune leur méditation. Ce sont des explorations douces, sans forcer. Pour les jours de déprime, « Développer l’amour de soi » (15 min) adoucit l’autocritique, et « Quand tu manques de motivation » (3 min) t’aide à trouver un premier geste réalisable.",
+    "Avec la méditation, anxiété et ruminations peuvent perdre un peu de leur emprise. Écris à l’Oracle comment tu te sens, avec tes mots : il choisit trois méditations pour ce ressenti. Le Journal Émotionnel garde la trace de ce qui revient, et la recherche te trouve une séance en un mot, comme « peur ». Rien ne quitte ton téléphone, il n’y a aucun compte à créer, et tout est gratuit."
    ],
    "etapes": [
     "Quand l’inquiétude monte, ouvre l’Oracle et écris ce que tu ressens, simplement. Il te propose trois méditations : choisis celle qui t’appelle, même la plus courte.",
@@ -448,7 +448,7 @@
    ],
    "faq": [
     [
-     "Comment utiliser MeditaDream pour calmer son anxiété ?",
+     "Comment gérer les angoisses et calmer son anxiété ?",
      "Commence petit. Une pause de 4 minutes au moment où l’inquiétude monte, comme « Quand tu te sens observé ou jugé », qui sépare les faits des suppositions. Puis, quand tu es plus calme, une séance plus longue pour t’entraîner, comme « Accueillir une émotion difficile » (17 min). L’Oracle t’aide à choisir, et tes journaux restent privés sur ton téléphone."
     ],
     [
@@ -678,29 +678,29 @@
   "04": {
    "slug": "detente-du-corps",
    "seo": "Détente du corps : relaxation et body scan, app gratuite",
-   "desc": "Détente du corps et bien-être : body scan, relaxation guidée, respiration et qi gong en douceur. Gratuit, sans pub, sans compte, même hors ligne.",
+   "desc": "Détente du corps en douceur : body scan, méditation, relaxation guidée gratuite, respiration et qi gong. Sans pub, sans compte, même hors ligne.",
    "h1": "Comment MeditaDream t’aide à la détente du corps",
    "titre_court": "Détente du corps",
-   "accroche": "Respire, relâche tes tensions et réapprends à écouter ton corps, une région après l’autre.",
+   "accroche": "Pour la détente du corps, respire, relâche tes tensions et réapprends à t’écouter, une région après l’autre.",
    "pitch": [
     "Des épaules qui remontent vers les oreilles, une mâchoire serrée, un dos qui tire en fin de journée : ton corps te parle, mais tu n’as pas le temps de l’écouter. MeditaDream t’offre ce temps : la détente du corps commence par l’écoute. « Le balayage corporel » (17 min), le body scan des débutants, parcourt ton corps région par région, pour sentir avant de vouloir changer.",
-    "Envie d’une vraie relaxation ? « Le corps sous une cascade » (15 min) te place sous une eau imaginaire, filet après filet, et « Se détendre très rapidement » relâche tout, du front aux pieds, en 3 minutes. Si tu préfères bouger, le qi gong t’attend : « L’arbre immobile » (23 min) travaille la posture, « La danse du Qi » (25 min) les gestes lents.",
-    "Les leçons illustrées de la Bibliothèque t’expliquent la posture et le souffle. L’historique garde tes impressions après chaque séance, et l’alarme te rappelle ton rendez-vous de bien-être. Glisse un son d’ambiance sous la voix, choisis ton rythme : tout est gratuit, sans abonnement ni publicité, et fonctionne même hors ligne."
+    "Envie d’une relaxation profonde ? « Le corps sous une cascade » (15 min) te place sous une eau imaginaire, filet après filet, et « Se détendre très rapidement » relâche tout, du front aux pieds, en 3 minutes. Si tu préfères bouger, le qi gong t’attend : « L’arbre immobile » (23 min) travaille la posture, « La danse du Qi » (25 min) les gestes lents.",
+    "Pour aller plus loin en détente et relaxation, les leçons illustrées de la Bibliothèque t’expliquent la posture et le souffle. L’historique garde tes impressions après chaque séance, et l’alarme te rappelle ton rendez-vous de bien-être. Glisse un son d’ambiance sous la voix, choisis ton rythme : tout est gratuit, sans abonnement ni publicité, et fonctionne même hors ligne."
    ],
    "etapes": [
     "Commence par « Le balayage corporel » (17 min), allongé ou assis. Il t’apprend à repérer les zones tendues sans chercher à les corriger tout de suite.",
-    "Les jours chargés, relâche-toi en 3 minutes avec « Se détendre très rapidement », du front jusqu’aux pieds, entre deux tâches ou juste avant de dormir.",
+    "Les jours chargés, choisis l’un des exercices de relaxation les plus courts. « Se détendre très rapidement » te relâche en 3 minutes, du front jusqu’aux pieds.",
     "Une fois par semaine, essaie une séance de qi gong, comme « Les mains qui chauffent » (20 min), pour sentir ton corps autrement, par les paumes et la posture.",
     "Après chaque séance, note dans l’historique ce que tu as senti. Programme ensuite un rappel régulier : le bien-être du corps se construit par petites touches."
    ],
    "faq": [
     [
      "Comment utiliser MeditaDream pour la détente du corps ?",
-     "Alterne trois formats. Un body scan pour apprendre à sentir, avec « Le balayage corporel ». Une relaxation imagée pour relâcher, comme « Le corps sous une cascade ». Et du qi gong pour bouger lentement, comme « La danse du Qi ». Ajoute un son d’ambiance, règle la vitesse de la voix, et garde tes impressions dans l’historique."
+     "Alterne trois techniques de relaxation. Un body scan pour apprendre à sentir, avec « Le balayage corporel ». Une relaxation imagée pour une détente profonde, comme « Le corps sous une cascade ». Et du qi gong pour bouger lentement, comme « La danse du Qi ». Ajoute un son d’ambiance, règle la vitesse de la voix, et garde tes impressions dans l’historique."
     ],
     [
-     "C’est quoi un body scan, et comment le pratiquer ?",
-     "Le body scan, ou balayage corporel, consiste à promener ton attention dans le corps, région par région. Tu observes les sensations telles qu’elles sont : chaleur, poids ou tension. Pas besoin de les changer. Allonge-toi ou assieds-toi confortablement, puis laisse-toi guider par « Le balayage corporel » (17 min), une séance de niveau débutant."
+     "Body scan ou relaxation de Jacobson : quelle différence ?",
+     "La relaxation de Jacobson, ou relaxation musculaire progressive, contracte puis relâche chaque groupe de muscles. Le body scan, ou balayage corporel, ne demande aucun effort : ton attention parcourt le corps, région par région. Tu observes les sensations telles qu’elles sont, sans chercher à les changer. Pour essayer, laisse-toi guider par « Le balayage corporel » (17 min), une séance de niveau débutant."
     ],
     [
      "MeditaDream peut-il aider quand une zone du corps fait mal ?",
@@ -889,23 +889,23 @@
    "slug": "gerer-ses-emotions",
    "seo": "Application pour gérer ses émotions : méditations gratuites",
    "desc": "Gérer ses émotions sans les fuir : méditations guidées, enfant intérieur, gratitude et journal émotionnel privé. Gratuit, sans pub, sans compte, hors ligne.",
-   "h1": "Comment MeditaDream t’aide à gérer tes émotions",
+   "h1": "Gérer ses émotions au quotidien avec MeditaDream",
    "titre_court": "Gérer ses émotions",
-   "accroche": "Comprends tes réactions, cultive la gratitude et la compassion, et fais la paix avec toi-même, une émotion à la fois.",
+   "accroche": "Gérer ses émotions se travaille : comprends tes réactions, cultive la compassion et fais la paix avec toi-même.",
    "pitch": [
-    "La colère qui explose pour un détail. La tristesse qui arrive sans prévenir. La gestion des émotions ne s’apprend pas dans un livre : elle se pratique. MeditaDream t’y entraîne avec des séances concrètes. « Accueillir une émotion difficile » (17 min) t’apprend à regarder une émotion avec curiosité, et à voir qu’elle n’est jamais tout à fait fixe.",
-    "Va plus loin quand tu es prêt. « Sérénité de l’Enfant Intérieur » (19 min) t’aide à renouer avec ton enfant intérieur, par le jeu et la sécurité. « Travail de l’Ombre » (17 min) t’aide à comprendre ce qu’une réaction cherche à protéger. Et les jours où tu manques de douceur, « Développer l’amour de soi » ou « Gratitude quotidienne » remettent un peu de lumière.",
-    "Écris à l’Oracle « je suis en colère » ou « je me sens seul » : il te propose trois méditations pour ce moment. Le Journal Émotionnel t’aide ensuite à noter ce que tu ressens, pourquoi, et comment avancer avec. Tout reste sur ton téléphone, sans compte, et l’application est gratuite, sans publicité."
+    "La colère qui explose pour un détail. La tristesse qui arrive sans prévenir. La gestion des émotions, adulte comme enfant, ne s’apprend pas dans un livre : elle se pratique. MeditaDream t’y entraîne avec des séances concrètes. « Accueillir une émotion difficile » (17 min) t’apprend à regarder une émotion avec curiosité, et à voir qu’elle n’est jamais tout à fait fixe.",
+    "Va plus loin quand tu es prêt. « Sérénité de l’Enfant Intérieur » (19 min) t’aide à renouer avec ton enfant intérieur, par le jeu et la sécurité. « Travail de l’Ombre » (17 min) t’aide à comprendre ce qu’une réaction cherche à protéger. Gérer sa tristesse demande aussi de la douceur : « Développer l’amour de soi » ou « Gratitude quotidienne » remettent un peu de lumière.",
+    "Comment calmer sa colère, ou ce sentiment de solitude ? Écris à l’Oracle « je suis en colère » ou « je me sens seul » : il te propose trois méditations pour ce moment. Le Journal Émotionnel t’aide ensuite à noter ce que tu ressens, pourquoi, et comment avancer avec. Tout reste sur ton téléphone, sans compte, et l’application est gratuite, sans publicité."
    ],
    "etapes": [
-    "Sur le moment, lance une séance de 3 minutes : « Se calmer après une dispute » t’aide à desserrer ce qui s’est crispé et à prendre un peu de recul.",
+    "Gérer sa colère sur le moment ? Lance une séance de 3 minutes : « Se calmer après une dispute » t’aide à desserrer ce qui s’est crispé et à prendre un peu de recul.",
     "Le soir, ouvre le Journal Émotionnel : note l’émotion du jour, ce qui l’a déclenchée et ce que tu en fais. Mettre des mots, c’est déjà prendre du recul.",
     "Une ou deux fois par semaine, prends 15 à 20 minutes pour une séance de fond : « Accueillir une émotion difficile », « Se libérer de la comparaison » ou « Ho’oponopono du Cœur ».",
     "Programme un rappel à l’heure qui te convient, puis relis ton historique chaque mois : tu verras quelles émotions reviennent, et lesquelles s’apaisent."
    ],
    "faq": [
     [
-     "Comment utiliser MeditaDream pour gérer ses émotions ?",
+     "Comment apprendre à gérer ses émotions avec MeditaDream ?",
      "Utilise trois outils ensemble. L’Oracle, pour trouver la bonne séance quand une émotion te submerge. Les méditations de Croissance émotionnelle et d’Ombre & Bien-être, pour t’entraîner à accueillir ce que tu ressens. Et le Journal Émotionnel, pour mettre des mots et voir ton chemin. Commence par « Accueillir une émotion difficile » (17 min)."
     ],
     [
@@ -914,7 +914,7 @@
     ],
     [
      "Faut-il se débarrasser de ses émotions négatives ?",
-     "Non. Une émotion n’est pas une erreur : elle signale souvent un besoin, et lutter contre elle la fait parfois durer. La méditation t’apprend plutôt à lui faire de la place, puis à choisir ta réponse. « Les onze visages d’Avalokiteśvara » (22 min) explore justement plusieurs façons de répondre : avec douceur, avec fermeté ou par le silence."
+     "Non. Une émotion n’est pas une erreur : elle signale souvent un besoin, et lutter contre elle la fait parfois durer. Maîtriser ses émotions ne veut pas dire les faire taire. Réguler ses émotions, c’est leur faire de la place, puis choisir sa réponse : la méditation t’y entraîne. « Les onze visages d’Avalokiteśvara » (22 min) explore justement plusieurs façons de répondre : avec douceur, avec fermeté ou par le silence."
     ]
    ],
    "seances": [
@@ -1108,13 +1108,13 @@
   "06": {
    "slug": "developpement-spirituel",
    "seo": "Développement spirituel : l’app gratuite pour t’éveiller",
-   "desc": "Éveil spirituel et développement spirituel : chakras, troisième œil, guides et lieux sacrés en méditations guidées. Gratuit, sans pub, hors ligne.",
-   "h1": "Comment MeditaDream t’aide sur le chemin de l’éveil spirituel",
+   "desc": "Développement spirituel et éveil de la conscience : chakras, troisième œil, guides et lieux sacrés en méditations guidées. Gratuit, sans pub, hors ligne.",
+   "h1": "Ton développement spirituel, pas à pas, avec MeditaDream",
    "titre_court": "Éveil spirituel",
-   "accroche": "Explore les symboles, les traditions et les grandes questions de sens, au fil d’expériences intérieures que tu gardes pour toi.",
+   "accroche": "Pour ton développement spirituel, explore symboles, traditions et grandes questions, au fil d’expériences que tu gardes pour toi.",
    "pitch": [
-    "Tu sens qu’il existe autre chose que la routine, sans savoir par où commencer ? MeditaDream t’ouvre des portes, sans dogme ni gourou. Commence par les chakras : « La reconnaissance des sept chakras » (27 min) t’apprend à situer chaque centre, avant toute couleur ou interprétation. Le troisième œil viendra ensuite, avec cinq séances avancées, comme « L’œil intérieur s’éveille » (22 min).",
-    "Ton développement spirituel peut aussi passer par les grandes traditions. Assieds-toi « Sous l’arbre de la Bodhi » (17 min), reçois la chaleur d’un guide avec « Le guide de lumière » (24 min), ou relis ton chemin avec « Le contrat de mon âme » (19 min). Les mondes immersifs, comme L’Arbre de Conscience ou Le Temple Cosmique, prolongent le voyage.",
+    "Tu sens qu’il existe autre chose que la routine, sans savoir par où commencer ? MeditaDream t’ouvre des portes vers l’éveil de soi, sans dogme ni gourou. Commence par les chakras : « La reconnaissance des sept chakras » (27 min) t’apprend à situer chaque centre, avant toute couleur ou interprétation. Le troisième œil viendra ensuite, avec cinq séances avancées, comme « L’œil intérieur s’éveille » (22 min).",
+    "Ton chemin peut aussi passer par les grandes traditions. Assieds-toi « Sous l’arbre de la Bodhi » (17 min), reçois la chaleur d’un guide avec « Le guide de lumière » (24 min), ou relis ton chemin avec « Le contrat de mon âme » (19 min). Les mondes immersifs, comme L’Arbre de Conscience ou Le Temple Cosmique, prolongent le voyage.",
     "Ce que tu vis mérite d’être gardé. Le carnet des guides note les figures rencontrées et leurs messages, ta collection garde les objets symboliques rapportés de tes voyages, et ton sanctuaire personnel t’attend quand tu veux revenir. Chaque séance laisse un tampon dans ton passeport zen. Tout est gratuit, sans compte, et reste sur ton téléphone."
    ],
    "etapes": [
@@ -1125,7 +1125,7 @@
    ],
    "faq": [
     [
-     "Comment utiliser MeditaDream pour son éveil spirituel ?",
+     "Comment faire une méditation spirituelle avec MeditaDream ?",
      "Avance par étapes. Commence par les chakras, pour connaître leur carte traditionnelle. Explore ensuite une tradition qui te parle : lieux sacrés, guides spirituels ou bouddhisme. Garde le troisième œil et la catégorie Cosmique & Vide pour plus tard, car ces séances sont avancées. Note tes expériences dans le journal « Expériences Spirituelles » pour suivre ton chemin."
     ],
     [
@@ -1458,7 +1458,7 @@
    "accroche": "Explore la transe, ton imaginaire et la sensation de quitter ton corps, pas à pas et à ton rythme.",
    "pitch": [
     "Le tambour qui bat, un animal qui ouvre le chemin, un monde d’en bas qui s’éclaire : la transe chamanique n’est pas réservée aux initiés. « Voyage au monde d’en bas » (30 min) te fait suivre un animal au son du tambour, et « La quête de vision » (30 min) t’apprend à attendre ce qui doit être vu. Aucune substance : ton souffle, ton attention, ton imagination.",
-    "Le voyage astral, lui, se prépare comme un entraînement. Les cinq exercices de Micro-Détachement, comme « L’aimant au plafond » (17 min), t’apprennent les premières sensations. Viennent ensuite les protocoles de Voyage Astral, comme « Astral · La Corde » (29 min). Et « Astral · Cible à vérifier » (19 min) te propose de confronter tes perceptions à une vérification.",
+    "Apprendre le voyage astral demande un entraînement progressif. Les cinq exercices de Micro-Détachement, comme « L’aimant au plafond » (17 min), t’apprennent les premières sensations. Viennent ensuite les protocoles de Voyage Astral, comme « Astral · La Corde » (29 min). Et « Astral · Cible à vérifier » (19 min) te propose de confronter tes perceptions à une vérification.",
     "Le chamanisme et les voyages intérieurs laissent des traces : le carnet des guides garde les présences rencontrées, ta collection d’objets symboliques ce que tu en rapportes. Ajoute un son d’ambiance sous la voix, choisis ta voix et ton rythme, puis écoute hors ligne, sans être dérangé. Le tout gratuitement, sans abonnement ni publicité."
    ],
    "etapes": [
@@ -1754,14 +1754,14 @@
   "08": {
    "slug": "apprendre-a-mediter",
    "seo": "Application pour apprendre à méditer, gratuite et sans pub",
-   "desc": "Apprendre à méditer pas à pas : méditation pour débutants, leçons illustrées, rappels et un dragon qui grandit avec toi. Gratuit, sans pub, sans compte.",
-   "h1": "Comment MeditaDream t’aide à apprendre à méditer",
+   "desc": "L’application pour apprendre à méditer pas à pas : séances pour débutants, leçons illustrées, rappels et un dragon qui grandit avec toi. Gratuit, sans pub.",
+   "h1": "MeditaDream, l’application pour apprendre à méditer à ton rythme",
    "titre_court": "Apprendre à méditer",
-   "accroche": "Comprends les bases, pratique un peu chaque jour et gagne en autonomie, à ton rythme et sans rien payer.",
+   "accroche": "Comprends les bases et pratique un peu chaque jour : une application pour apprendre à méditer, sans rien payer.",
    "pitch": [
     "Tu as déjà essayé de méditer, et ta tête a fait la liste des courses au bout de trente secondes ? Rassure-toi : c’est normal, et ça s’apprend. MeditaDream commence par l’essentiel. « Première méditation silencieuse » (5 min) te fait découvrir de vrais silences. Puis la catégorie Apprentissage t’entraîne, séance après séance : le souffle, les pensées, les cinq sens.",
     "Chaque méditation pour débutants répond à une question précise : comment revenir au souffle sans te juger, comment voir passer les pensées, comment rester présent les yeux ouverts. Les leçons illustrées de la Bibliothèque complètent la pratique : posture, souffle, attention. Et quand tu sais ce qu’il te faut, la recherche te trouve une séance en un mot.",
-    "Le plus dur, c’est la régularité. Programme un rappel quotidien, et regarde ton dragon compagnon grandir avec tes minutes de méditation, sur son île qui change avec lui. Tu choisis ta voix et ta vitesse, de 0,75× à 1×. C’est une application de méditation gratuite pour de vrai : sans abonnement, sans publicité, sans compte."
+    "La meilleure application méditation ? Celle que tu ouvres vraiment, chaque jour. Le plus dur, c’est la régularité. Programme un rappel quotidien, et regarde ton dragon compagnon grandir avec tes minutes de méditation, sur son île qui change avec lui. Tu choisis ta voix et ta vitesse, de 0,75× à 1×. C’est une application méditation gratuite sans abonnement, pour de vrai : ni publicité, ni compte."
    ],
    "etapes": [
     "Jour 1 : installe-toi assis, le dos droit sans raideur, et lance « Première méditation silencieuse » (5 min). Tu découvres que le silence fait partie de la pratique.",
@@ -1775,7 +1775,7 @@
      "Commence par les séances de la catégorie Apprentissage, toutes de niveau débutant, dans l’ordre qui te parle. Écoute-en une par jour, assis ou allongé. Lis les leçons illustrées de la Bibliothèque pour comprendre la posture et le souffle. Puis élargis peu à peu aux pauses de la catégorie 4 Minutes et aux séances de Visualisation."
     ],
     [
-     "Comment méditer quand on est débutant ?",
+     "Comment commencer à méditer quand on débute ?",
      "Assieds-toi confortablement, le dos droit sans raideur. Ferme les yeux ou baisse le regard. Pose ton attention sur ta respiration, sans la modifier. Quand une pensée t’emporte, remarque-le et reviens au souffle, gentiment. C’est tout. Commence par 5 minutes avec « Première méditation silencieuse », puis allonge la durée quand tu en as envie."
     ],
     [
@@ -1984,14 +1984,14 @@
   "09": {
    "slug": "bouddhisme-et-qi-gong",
    "seo": "Bouddhisme et qi gong : l’app de méditation gratuite",
-   "desc": "Méditation bouddhiste avec Tārā, Mañjuśrī ou Avalokiteśvara, qi gong guidé pas à pas, lieux sacrés et mondes zen. Gratuit, sans pub, sans compte.",
-   "h1": "Comment MeditaDream t’aide à découvrir la méditation bouddhiste et le qi gong",
+   "desc": "Bouddhisme et qi gong : méditations avec Tārā, Mañjuśrī ou Avalokiteśvara, qi gong guidé, lieux sacrés et mondes zen. Gratuit, sans pub, sans compte.",
+   "h1": "Comment MeditaDream t’aide à découvrir le bouddhisme et le qi gong",
    "titre_court": "Bouddhisme et qi gong",
    "accroche": "Explore la sagesse, la compassion et l’attention du bouddhisme, puis les gestes lents du qi gong chinois.",
    "pitch": [
-    "Pas besoin de partir dans un monastère pour découvrir la méditation bouddhiste. MeditaDream te fait voyager avec les grandes figures du bouddhisme : Tārā, qui montre la sortie de huit grands dangers, Mañjuśrī, dont l’épée tranche les pensées qui tournent en boucle, et Avalokiteśvara aux onze visages. Huit séances de 20 à 30 minutes, guidées en français, à pratiquer chez toi.",
+    "Pas besoin de partir dans un monastère pour découvrir la philosophie bouddhiste. MeditaDream te fait voyager avec les grandes figures du bouddhisme : Tārā, qui montre la sortie de huit grands dangers, Mañjuśrī, dont l’épée tranche les pensées qui tournent en boucle, et Avalokiteśvara aux onze visages. Huit séances de 20 à 30 minutes, guidées en français, à pratiquer chez toi.",
     "Le qi gong, lui, passe par le corps. « Les mains qui chauffent » (20 min) t’apprend à sentir une chaleur entre les paumes, « L’arbre immobile » (23 min) à tenir debout sans forcer, « La danse du Qi » (25 min) à bouger lentement. Prolonge le voyage « Sous l’arbre de la Bodhi » (17 min) ou dans « Le sanctuaire taoïste dans les montagnes » (15 min).",
-    "La Bibliothèque t’apprend la posture et le souffle en leçons illustrées. Les mondes du Jardin Zen et du Monastère à l’Aube t’emmènent dans des décors de sagesse, chacun avec son ambiance. Garde tes prises de conscience dans ton journal spirituel. Tout est gratuit, sans abonnement, et fonctionne hors ligne une fois téléchargé."
+    "La Bibliothèque t’apprend la posture et le souffle en leçons illustrées. Le Jardin Zen évoque le zen, bouddhisme japonais de l’assise et du silence. Le Monastère à l’Aube, avec ses moulins à prières, rappelle le bouddhisme tibétain. Garde tes prises de conscience dans ton journal spirituel. Tout est gratuit, sans abonnement, et fonctionne hors ligne une fois téléchargé."
    ],
    "etapes": [
     "Commence par « L’épée de Mañjuśrī » (20 min) : une méditation bouddhiste claire, qui t’apprend à lire les phrases qui tournent en boucle sans les combattre.",
@@ -2005,12 +2005,12 @@
      "Alterne les deux. Les méditations bouddhistes nourrissent l’esprit : compassion, courage, lucidité. Le qi gong réveille le corps par la posture et des gestes lents. Par exemple, « Le lion de Mañjuśrī » (20 min) un soir, « La danse du Qi » (25 min) un matin. Les leçons de la Bibliothèque t’aident pour la posture et le souffle."
     ],
     [
-     "Faut-il être bouddhiste pour pratiquer ces méditations ?",
-     "Non. Les figures du bouddhisme y sont des symboles : Kṣitigarbha pour la compassion dans les moments sombres, Samantabhadra pour l’engagement, Maitreya pour celui que tu deviens. Tu n’as rien à croire ni à promettre. Prends ce qui t’aide et laisse le reste. Le qi gong, de son côté, ne demande aucune croyance, seulement un peu d’attention."
+     "Le bouddhisme, religion ou philosophie : faut-il y croire pour pratiquer ?",
+     "Le bouddhisme a ses moines, ses temples et ses rites, mais il ne repose pas sur un dieu créateur. On le décrit donc aussi comme une philosophie. Dans MeditaDream, ses figures sont des symboles : Kṣitigarbha pour la compassion dans les moments sombres, Samantabhadra pour l’engagement, Maitreya pour celui que tu deviens. Tu n’as rien à croire ni à promettre : prends ce qui t’aide et laisse le reste. Le qi gong, de son côté, ne demande aucune croyance, seulement un peu d’attention."
     ],
     [
      "Quelle différence entre méditation bouddhiste, vipassana et qi gong ?",
-     "La vipassana, « vision claire » en pali, consiste à observer les sensations qui changent, dans la tradition theravāda. Les méditations bouddhistes de MeditaDream sont des voyages guidés auprès des grandes figures du bouddhisme mahāyāna. Le qi gong, enfin, vient de Chine : il relie le souffle, la posture et des gestes lents, comme dans « L’arbre immobile » (23 min)."
+     "La vipassana, « vision claire » en pali, consiste à observer les sensations qui changent, dans le bouddhisme theravāda. Les méditations bouddhistes de MeditaDream sont des voyages guidés auprès des grandes figures du bouddhisme mahāyāna. Le qi gong, enfin, vient de Chine : il relie le souffle, la posture et des gestes lents, comme dans « L’arbre immobile » (23 min)."
     ]
    ],
    "seances": [
@@ -2209,29 +2209,29 @@
    "desc": "Entraîne ta concentration par la pleine conscience et ta créativité par la visualisation, en séances guidées. Gratuit, sans pub, sans compte, hors ligne.",
    "h1": "Comment MeditaDream t’aide à entraîner ta concentration et ta créativité",
    "titre_court": "Mieux se concentrer",
-   "accroche": "Entraîne ton attention et la précision de ton imaginaire, comme on entraîne un muscle, à ton rythme.",
+   "accroche": "Entraîne ta concentration et la précision de ton imaginaire, comme on entraîne un muscle, à ton rythme.",
    "pitch": [
     "Trois onglets ouverts, une notification, et ton idée s’envole. La concentration n’est pas un don : elle s’entraîne, comme un muscle. MeditaDream t’y aide avec des exercices de pleine conscience simples. « Stabiliser l’attention sur le souffle » (13 min) t’apprend à revenir au même point, encore et encore. « Méditer avec les yeux ouverts » (12 min) t’entraîne au milieu du bruit.",
-    "Pour la créativité, change de terrain. « Déblocage créatif » (26 min) fait taire le juge intérieur et laisse venir les idées, même imparfaites. Les séances de Visualisation entraînent ton imaginaire sens après sens : suivre un papillon des yeux, sentir le poids d’une clé, entendre un bol qui approche. Puis « La planète inconnue » (17 min) réveille ta curiosité.",
+    "Booster sa créativité ? Change de terrain. « Déblocage créatif » (26 min) aide à retrouver sa créativité. Il fait taire le juge intérieur et laisse venir les idées, même imparfaites. Les séances de Visualisation entraînent ton imaginaire sens après sens : suivre un papillon des yeux, sentir le poids d’une clé, entendre un bol qui approche. Puis « La planète inconnue » (17 min) réveille ta curiosité.",
     "La Bibliothèque t’explique l’attention en leçons illustrées. Note dans l’historique les idées qui surgissent après une séance. Tu peux aussi écrire tes propres méditations, pour préparer un examen ou un projet : une voix de ton téléphone te les lit, même hors ligne. Et tout cela reste gratuit, sans publicité."
    ],
    "etapes": [
-    "Chaque matin, prends 13 minutes pour « Stabiliser l’attention sur le souffle ». À chaque retour au souffle, tu entraînes ta concentration.",
+    "Chaque matin, prends 13 minutes pour « Stabiliser l’attention sur le souffle ». En méditation, concentration veut dire retour : à chaque retour au souffle, tu l’entraînes.",
     "Dans la journée, essaie « La conscience des cinq sens » (19 min) : ouvrir tes cinq sens un à un affûte ton observation.",
     "Avant un projet, lance « Déblocage créatif » (26 min) pour faire taire le juge intérieur. Note aussitôt dans l’historique les idées venues, même imparfaites.",
     "Une fois par semaine, entraîne ton imaginaire avec une visualisation : « Toucher — La clé dans la main » (17 min), puis « Les trois sens réunis — Sommet d’un volcan » (29 min)."
    ],
    "faq": [
     [
-     "Comment utiliser MeditaDream pour entraîner sa concentration ?",
-     "Pratique un peu chaque jour, plutôt que longtemps de temps en temps. Commence par « Stabiliser l’attention sur le souffle » (13 min), puis « Observer les pensées » (15 min), qui t’apprend à repérer les distractions. Quand ton attention tient mieux, passe aux visualisations et à « Géométrie sacrée » (26 min), qui stabilise des formes simples en imagination."
+     "Comment améliorer sa concentration au travail avec MeditaDream ?",
+     "Pratique un peu chaque jour, plutôt que longtemps de temps en temps. Commence par « Stabiliser l’attention sur le souffle » (13 min), puis « Observer les pensées » (15 min), qui t’apprend à repérer les distractions. Quand ton attention tient mieux, passe aux visualisations et à « Géométrie sacrée » (26 min), qui stabilise des formes simples en imagination. Au bureau, essaie « Méditer avec les yeux ouverts » (12 min), qui t’entraîne au milieu des bruits."
     ],
     [
      "C’est quoi, pratiquer la pleine conscience ?",
      "C’est porter ton attention sur le moment présent, volontairement et sans juger. Tu peux la pratiquer assis, mais aussi en marchant ou en mangeant. Dans MeditaDream, « Méditer avec les yeux ouverts » (12 min) t’apprend à rester présent au milieu d’une pièce ou d’une rue, et « La conscience des cinq sens » (19 min) ouvre tes sens un à un."
     ],
     [
-     "La méditation peut-elle rendre plus créatif ?",
+     "La méditation peut-elle stimuler sa créativité ?",
      "Elle ne garantit pas l’inspiration, mais elle aide souvent à faire de la place aux idées. Le premier frein est le jugement : « Déblocage créatif » t’apprend à le mettre de côté. « Le rêve éveillé dirigé » (20 min) laisse les images changer l’histoire, un bon terrain pour des associations inattendues. Note tout ce qui vient, juste après."
     ]
    ],
@@ -2413,26 +2413,26 @@
    "desc": "Confiance en soi, estime de soi, motivation : des méditations de 3 à 26 minutes pour oser, avancer et te parler avec douceur. Gratuit, sans pub, sans compte.",
    "h1": "Comment MeditaDream t’aide à développer ta confiance en soi",
    "titre_court": "Confiance en soi",
-   "accroche": "Sois plus doux avec toi-même et transforme tes intentions en premiers pas concrets.",
+   "accroche": "Gagne en confiance en soi : sois plus doux avec toi-même et transforme tes intentions en premiers pas concrets.",
    "pitch": [
-    "Cette petite voix qui te dit que tu n’y arriveras pas, tu la connais par cœur. MeditaDream t’apprend à lui répondre. Avant un entretien ou un examen, « Retrouver confiance avant une épreuve » (4 min) sépare ce qui dépend de toi de ce qui t’échappe, et te rappelle un geste déjà réussi. Quatre minutes pour repartir la tête haute.",
-    "La confiance en soi se construit aussi sur la durée. « La peur de l’échec » (10 min) sépare « j’ai échoué » de « je suis un échec ». « Se libérer de la comparaison » (13 min) t’aide à cesser de te mesurer aux autres, et « Développer l’amour de soi » (15 min) nourrit ton estime de soi à partir de qualités bien réelles.",
+    "Cette petite voix qui te dit que tu n’y arriveras pas, tu la connais par cœur. MeditaDream t’apprend à lui répondre. Avant un entretien ou un examen, « Retrouver confiance avant une épreuve » (4 min) sépare ce qui dépend de toi de ce qui t’échappe, et te rappelle un geste déjà réussi. Une méditation confiance en soi de quatre minutes, pour repartir la tête haute.",
+    "La confiance en soi se construit aussi sur la durée. « La peur de l’échec » (10 min) sépare « j’ai échoué » de « je suis un échec ». « Se libérer de la comparaison » (13 min) t’aide à cesser de te mesurer aux autres. « Développer l’amour de soi » (15 min), lui, aide à retrouver l’estime de soi à partir de qualités bien réelles.",
     "Côté motivation, « Quand tu manques de motivation » (3 min) ne garde que le premier geste concret. Tes progrès deviennent ensuite visibles : ton dragon grandit avec tes minutes de méditation, ton passeport zen se remplit de tampons, l’alarme te rappelle ton rendez-vous. Et l’Oracle t’aide les jours de doute. Tout est gratuit, sans compte."
    ],
    "etapes": [
     "Avant chaque épreuve, ouvre la catégorie 4 Minutes et lance « Retrouver confiance avant une épreuve ». Tu peux l’écouter n’importe où, même juste avant d’entrer.",
-    "Une fois par semaine, prends un quart d’heure pour une séance de fond : « La peur de l’échec », « La peur du jugement » ou « Se Pardonner à Soi-Même ».",
-    "Quand tu procrastines, lance « Quand tu manques de motivation » (3 min), puis fais le premier geste aussitôt. Note-le dans la rubrique « Micro-victoires » du journal Gratitude & Croissance.",
+    "Anxiété et estime de soi vont souvent de pair. Une fois par semaine, prends un quart d’heure pour une séance de fond : « La peur de l’échec », « La peur du jugement » ou « Se Pardonner à Soi-Même ».",
+    "Quand tu procrastines, lance « Quand tu manques de motivation » (3 min), puis fais le premier geste aussitôt. Note-le dans la rubrique « Micro-victoires » du journal Gratitude & Croissance : c’est ton exercice confiance en soi du jour.",
     "Règle un rappel quotidien et regarde ton passeport zen se remplir de tampons. Chaque minute fait aussi grandir ton dragon : la preuve visible que tu tiens tes engagements."
    ],
    "faq": [
     [
-     "Comment utiliser MeditaDream pour développer sa confiance en soi ?",
+     "Comment améliorer sa confiance en soi avec MeditaDream ?",
      "Combine trois choses. Des pauses de 4 minutes avant les moments qui comptent, comme « Retrouver confiance avant une épreuve ». Des séances plus longues pour le fond, comme « La peur de l’échec » ou « Développer l’amour de soi ». Et des traces de tes progrès dans le journal Gratitude & Croissance, rubrique « Évolution, confiance & estime de soi »."
     ],
     [
      "Quelle différence entre confiance en soi et estime de soi ?",
-     "La confiance en soi, c’est croire en ce que tu peux faire. L’estime de soi, c’est la valeur que tu te donnes, même quand tu échoues. On peut être sûr de soi au travail et se juger durement. « Se Pardonner à Soi-Même » (17 min) t’aide à séparer une erreur de ce que tu vaux."
+     "En développement personnel, confiance en soi et estime de soi sont souvent confondues. La confiance en soi, c’est croire en ce que tu peux faire. L’estime de soi, c’est la valeur que tu te donnes, même quand tu échoues. On peut être sûr de soi au travail et se juger durement. « Se Pardonner à Soi-Même » (17 min) t’aide à séparer une erreur de ce que tu vaux."
     ],
     [
      "Comment retrouver la motivation quand on n’a envie de rien ?",
@@ -2632,23 +2632,23 @@
    "slug": "reves-lucides",
    "seo": "Application rêve lucide : journal de rêves et méditation",
    "desc": "Rêve lucide : prépare tes nuits avec des méditations guidées, explore le seuil du sommeil et tiens ton journal de rêves. Gratuit, sans pub, hors ligne.",
-   "h1": "Comment MeditaDream t’aide à t’entraîner au rêve lucide",
+   "h1": "Rêve lucide : une méditation le soir, ton journal de rêves le matin",
    "titre_court": "Rêves lucides",
-   "accroche": "Explore les images du seuil du sommeil et apprends à reconnaître que tu rêves, une nuit après l’autre.",
+   "accroche": "Explore le seuil du sommeil, tiens ton journal de rêves et apprends à reconnaître que tu rêves, une nuit après l’autre.",
    "pitch": [
     "Et si, cette nuit, tu te rendais compte que tu rêves ? Le rêve lucide ne se commande pas, mais il se prépare. MeditaDream t’accompagne au moment clé : le coucher. « Préparation au rêve lucide » (23 min) entraîne ton esprit à reconnaître qu’il rêve, pour t’éveiller dans le rêve. Elle s’écoute au lit, lumière éteinte.",
     "Pour explorer la frontière entre veille et sommeil, « Corps endormi, esprit éveillé » (24 min) t’apprend à observer ton corps qui s’endort pendant que l’attention reste là. « L’image qui apparaît seule » (23 min) t’habitue aux images spontanées, et « Le rêve éveillé dirigé » (20 min) les laisse changer l’histoire. Les mondes de La Forêt des Rêves et de L’Oasis du Désert prolongent le voyage.",
     "Au réveil, tout se joue en quelques secondes. Ouvre le Journal des Rêves avant de te lever : description, symboles, rêves récurrents. Ton journal de rêves reste sur ton téléphone, sans compte. Ajoute un son d’ambiance doux pour t’endormir et écoute hors ligne, sans notification. Le tout est gratuit, en français et sans abonnement."
    ],
    "etapes": [
-    "Chaque soir au lit, lance « Préparation au rêve lucide » (23 min). Elle installe l’intention de reconnaître le rêve, juste avant de t’endormir.",
+    "Chaque soir au lit, lance ta méditation rêve lucide : « Préparation au rêve lucide » (23 min). Elle installe l’intention de reconnaître le rêve, juste avant de t’endormir.",
     "Garde ton téléphone près du lit. Au réveil, avant de bouger, note ton rêve dans le Journal des Rêves, même un fragment : un lieu, un visage, une émotion.",
     "Chaque semaine, relis la rubrique « Rêves récurrents » : les lieux et les situations qui reviennent deviennent des repères pour te rendre compte, la nuit, que tu rêves.",
     "Le week-end, explore le seuil du sommeil avec « Corps endormi, esprit éveillé » (24 min) ou « La spirale aux 33 niveaux » (24 min), quand tu as du temps."
    ],
    "faq": [
     [
-     "Comment utiliser MeditaDream pour faire des rêves lucides ?",
+     "Comment apprendre à faire des rêves lucides avec MeditaDream ?",
      "Associe une séance du soir et un journal du matin. Le soir, « Préparation au rêve lucide » (23 min) installe l’intention de reconnaître le rêve. Le matin, le Journal des Rêves garde ce dont tu te souviens. Peu à peu, tu repères les signes qui reviennent. MeditaDream ne garantit aucun rêve lucide, mais il t’aide à t’y préparer."
     ],
     [
@@ -2790,13 +2790,13 @@
   "13": {
    "slug": "deuil-pardon-lacher-prise",
    "seo": "Méditation lâcher-prise : pardon et deuil, app gratuite",
-   "desc": "Méditation pour lâcher prise, pardonner sans oublier ou traverser un deuil, à ton rythme : séances guidées et journal privé. Gratuit, sans pub, sans compte.",
-   "h1": "Comment MeditaDream t’aide à lâcher prise, pardonner et traverser un deuil",
+   "desc": "Méditation lâcher-prise : séances guidées pour pardonner sans oublier ou traverser un deuil, à ton rythme, et journal privé. Gratuit, sans pub, sans compte.",
+   "h1": "Pardon, deuil et méditation lâcher-prise : avance à ton rythme",
    "titre_court": "Deuil et lâcher-prise",
-   "accroche": "Un espace à toi pour traverser une perte, un changement ou une blessure, à ton rythme.",
+   "accroche": "La méditation lâcher-prise t’offre un espace à toi, pour traverser une perte, un changement ou une blessure.",
    "pitch": [
     "Il y a les mots qu’on n’a pas eu le temps de dire. Les rancunes qui pèsent plus lourd que la faute. Les changements qu’on n’a pas choisis. MeditaDream ne te demande pas d’aller mieux vite. « Le jardin des retrouvailles » (25 min) t’aide à dire les mots restés en suspens, et « Mon animal parti » (25 min) te relie à un compagnon disparu.",
-    "Le pardon n’est pas une obligation. « Pardonner sans oublier » (15 min) t’aide à explorer ce que pardonner pourrait vouloir dire, puis à décider toi-même. « Se Pardonner à Soi-Même » (17 min) regarde une erreur en face sans t’accabler. Pour lâcher prise, enfin, « La Forêt des Ronces » (21 min) t’apprend à cesser de lutter contre ce qui accroche.",
+    "Le pardon n’est pas une obligation. « Pardonner sans oublier » (15 min) est une méditation du pardon sans contrainte. Elle t’aide à explorer ce que pardonner pourrait vouloir dire, puis à décider toi-même. « Se Pardonner à Soi-Même » (17 min) regarde une erreur en face sans t’accabler. Enfin, « La Forêt des Ronces » (21 min), une méditation guidée « lâcher-prise », t’apprend à cesser de lutter contre ce qui accroche.",
     "Confie à l’Oracle ce que tu traverses : il te suggère trois méditations et des conseils pour la journée. Garde tes pensées dans ton journal, crée un sanctuaire intérieur où revenir, choisis une voix et un rythme lents. Rien de ce que tu écris ne quitte ton téléphone, et l’application reste gratuite, sans compte ni publicité."
    ],
    "etapes": [
@@ -2808,7 +2808,7 @@
    "faq": [
     [
      "Comment utiliser MeditaDream pour lâcher prise ?",
-     "Une méditation pour lâcher prise ne te demande pas de tout accepter, mais d’arrêter de lutter contre ce que tu ne peux pas changer. Commence par « Accueillir une émotion difficile » (17 min), pour reconnaître la tristesse ou la colère. Puis essaie « La Forêt des Ronces » (21 min) ou « Ho’oponopono du Cœur » (15 min), qui répète quatre phrases au rythme du souffle."
+     "Une méditation pour lâcher prise ne te demande pas de tout accepter, mais d’arrêter de lutter contre ce que tu ne peux pas changer. Commence par « Accueillir une émotion difficile » (17 min), pour reconnaître la tristesse ou la colère. Puis essaie « La Forêt des Ronces » (21 min), ou « Ho’oponopono du Cœur » (15 min). Cette méditation ho’oponopono répète quatre phrases au rythme du souffle."
     ],
     [
      "La méditation peut-elle aider à traverser un deuil ?",
@@ -2816,7 +2816,7 @@
     ],
     [
      "Faut-il pardonner pour pouvoir avancer ?",
-     "Non. Pardonner peut aider, mais ce n’est jamais une obligation, ni un oubli. « Pardonner sans oublier » (15 min) te laisse décider : déposer, ou garder, en gardant ce que tu as appris. Parfois, le premier pardon est celui qu’on s’accorde : « Se Pardonner à Soi-Même » (17 min) t’aide à cesser de t’accabler."
+     "Non. Pardonner peut aider, mais ce n’est jamais une obligation, ni un oubli. « Pardonner sans oublier » (15 min) te laisse décider : déposer, ou garder, en gardant ce que tu as appris. Parfois, le premier pardon est celui qu’on s’accorde. Apprendre à se pardonner, c’est cesser de s’accabler : « Se Pardonner à Soi-Même » (17 min) t’y aide."
     ]
    ],
    "seances": [
@@ -2978,10 +2978,10 @@
   "14": {
    "slug": "evasion-mondes-immersifs",
    "seo": "Voyage intérieur : une app gratuite pour t’évader",
-   "desc": "Méditation immersive et voyage intérieur : 17 mondes, de l’Atlantide à la galaxie, et des aventures à Versailles ou Kyoto. Gratuit, sans pub, hors ligne.",
-   "h1": "Comment MeditaDream t’aide à t’évader par la méditation immersive",
+   "desc": "Voyage intérieur et méditation immersive : 17 mondes, de l’Atlantide à la galaxie, et des aventures à Versailles ou Kyoto. Gratuit, sans pub, hors ligne.",
+   "h1": "Un voyage intérieur pour t’évader, les yeux fermés",
    "titre_court": "Mondes immersifs",
-   "accroche": "Change d’univers en fermant les yeux : des décors à imaginer, des sons qui t’enveloppent et un vrai moment de contemplation.",
+   "accroche": "Pars en voyage intérieur : des décors à imaginer, des sons qui t’enveloppent et un vrai moment de contemplation.",
    "pitch": [
     "Ferme les yeux. Tu descends dans une mer chaude où tu respires sans effort, et un hippocampe doré t’emmène vers une cité de nacre. Ou tu montes dans un train de lumière, entre les anneaux de Saturne. Voici les 17 mondes immersifs de MeditaDream : de vraies histoires de 13 à 20 minutes, chacune avec ses sons et sa lumière.",
     "Envie d’un voyage intérieur plus long ? Les mini-aventures t’emmènent ailleurs dans le temps : « Versailles — Une journée en 1700 » (30 min), à la cour du Roi-Soleil, ou « Japon — Sur la route de Kyoto en 1600 » (34 min), tous tes sens en éveil. « La planète inconnue » (17 min) et « Le train des souvenirs » (23 min) jouent avec ta curiosité et ta mémoire.",

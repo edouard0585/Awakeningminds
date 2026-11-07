@@ -7,7 +7,7 @@
   "eyebrow": "Guía completa",
   "lead": "Una meditación inmersiva te lleva a un lugar imaginario que sientes con todo el cuerpo: un templo entre la niebla, una ciudad bajo el mar. Descubre cómo funciona y cómo elegir, entre 17 mundos, el que hoy te llama.",
   "def": "La **meditación inmersiva** es una visualización guiada completa que transcurre en un lugar imaginario. Una voz te guía desde una escena de apertura hasta un regreso suave, con sonidos, encuentros y una intención clara. Tu atención se absorbe en la escena, y esa absorción deja poco espacio a las preocupaciones del día.",
-  "kw": "meditación inmersiva, mundos inmersivos, viaje interior, meditación guiada, meditación guiada viaje, viaje imaginario, visualización guiada, meditación guiada gratis, meditación guiada para relajarse, cuentos para dormir adultos, historias relajantes para dormir adultos, mundos interiores, lugares sagrados",
+  "kw": "meditación inmersiva, cuentos para dormir adultos, cuentos para dormir adultos gratis, cuentos para dormir adultos largos, historias de la Atlántida, mundo interior, meditación jardín interior, meditación bosque encantado, meditación en el bosque, meditación guiada bosque",
   "sections": [
    {
     "id": "que-es",
@@ -32,8 +32,8 @@
     "id": "elegir",
     "h2": "Cómo elegir tu mundo inmersivo según tu intención",
     "p": [
-     "Los 17 mundos duran entre 13 y 19 minutos, y cada uno responde a una necesidad distinta. Si buscas arraigo, empieza por [El Corazón de la Tierra](/es/mundos/meditacion-arraigo-corazon-de-la-tierra.html). Si necesitas sentirte protegido, [El Bosque de los Espíritus Lobo](/es/mundos/meditacion-inmersiva-espiritus-lobo.html) es tu lugar. Y si tus emociones se mueven mucho, [La Atlántida Sumergida](/es/mundos/meditacion-inmersiva-atlantida.html) te invita a dejarlas pasar.",
-     "Aquí tienes otras pistas, según lo que buscas hoy."
+     "Los 17 mundos duran entre 13 y 19 minutos, y cada uno responde a una necesidad distinta. Si buscas arraigo, empieza por [El Corazón de la Tierra](/es/mundos/meditacion-arraigo-corazon-de-la-tierra.html). Si necesitas sentirte protegido, [El Bosque de los Espíritus Lobo](/es/mundos/meditacion-inmersiva-espiritus-lobo.html) es tu lugar. Es una meditación en el bosque, de noche, junto a una manada. Y si tus emociones se mueven mucho, [La Atlántida Sumergida](/es/mundos/meditacion-inmersiva-atlantida.html) te invita a dejarlas pasar. Si te gustan las historias de la Atlántida, ese es tu viaje.",
+     "Aquí tienes otras pistas según lo que buscas hoy, del silencio helado a una [meditación en un bosque encantado](/es/mundos/meditacion-inmersiva-bosque-de-los-suenos.html)."
     ],
     "cards": [
      [
@@ -54,7 +54,7 @@
      ],
      [
       "Pausa y lentitud",
-      "El Jardín Zen, con su cerezo en flor y sus carpas, invita a bajar el ritmo. El Monasterio al Amanecer acompaña bien las primeras horas del día."
+      "El Jardín Zen invita a bajar el ritmo, con su cerezo en flor y sus carpas: una meditación de jardín interior. El Monasterio al Amanecer acompaña bien las primeras horas del día."
      ],
      [
       "Juego y fantasía",
@@ -67,7 +67,7 @@
     "id": "como-transcurre",
     "h2": "Cómo transcurre una meditación guiada de viaje",
     "p": [
-     "Cada mundo tiene su propio orden y sus propias sorpresas. Aun así, una meditación guiada de viaje en MeditaDream sigue a grandes rasgos estas cinco etapas. Conocerlas te ayuda a saber qué esperar la primera vez."
+     "Cada mundo tiene su propio orden y sus propias sorpresas. Aun así, en MeditaDream cada meditación guiada, viaje tras viaje, sigue a grandes rasgos estas cinco etapas. Conocerlas te ayuda a saber qué esperar la primera vez."
     ],
     "steps": [
      [
@@ -96,7 +96,7 @@
     "id": "consejos",
     "h2": "Consejos para vivir mejor tu viaje interior",
     "p": [
-     "Unos pocos gestos cambian mucho la experiencia. No son reglas, sino pistas que puedes adaptar a tu manera."
+     "Empieza por elegir el paisaje de tu meditación guiada: bosque, océano o estrellas. Después, unos pocos gestos cambian mucho la experiencia. No son reglas, sino pistas que puedes adaptar a tu manera."
     ],
     "ul": [
      "Usa auriculares si puedes: la lluvia sobre la piedra, el canto de una ballena o una vieja campana se viven mejor así.",
@@ -155,7 +155,7 @@
     "id": "dormir",
     "h2": "¿Sirven como cuentos para dormir para adultos?",
     "p": [
-     "Muchas personas buscan cuentos para dormir para adultos o historias relajantes para dormir para adultos. Los mundos se les parecen, porque cuentan un viaje con calma. Pero no están pensados para dormirte: terminan con un regreso suave, que te devuelve despierto al cuerpo y a la habitación.",
+     "Muchas personas buscan cuentos para dormir para adultos, largos y gratis, o historias relajantes para la noche. Los mundos se les parecen, porque cuentan un viaje con calma. Pero no están pensados para dormirte: terminan con un regreso suave, que te devuelve despierto al cuerpo y a la habitación.",
      "Si lo que buscas es conciliar el sueño, la categoría [Cuerpo, calma y sueño](/es/meditaciones/meditacion-guiada-para-dormir.html) es más adecuada. «Deslizamiento hacia el sueño», de 16 minutos, termina sin despertar, para que puedas quedarte dormido. Y los [sonidos para dormir](/es/sonidos-para-dormir.html) te acompañan con lluvia, olas o bosque el tiempo que elijas.",
      "Nada te impide escuchar un mundo en la cama, por supuesto. Pero si te duermes antes del final, te perderás el regreso, que forma parte del viaje."
     ]
@@ -237,25 +237,25 @@
  "astral": {
   "slug": "viaje-astral",
   "seo": "Viaje astral: qué es, desdoblamiento y meditación guiada",
-  "desc": "Viaje astral, proyección astral y desdoblamiento: qué son, técnicas, precauciones, registros akáshicos y meditaciones guiadas gratis para prepararte.",
-  "h1": "Viaje astral y desdoblamiento: qué es la proyección astral",
+  "desc": "Qué es el viaje astral, qué se siente y cómo prepararte: técnicas clásicas, el plano astral, precauciones y meditaciones guiadas gratis en español.",
+  "h1": "Qué es el viaje astral y cómo iniciarse paso a paso",
   "eyebrow": "Guía completa",
   "lead": "El viaje astral fascina desde hace siglos: la sensación de salir del cuerpo y verlo desde fuera. Aquí encontrarás qué es, qué ha observado la ciencia, las técnicas clásicas paso a paso y cómo prepararte con calma.",
   "def": "El **viaje astral** es la experiencia de sentir que la conciencia sale del cuerpo físico y se desplaza fuera de él. A menudo, quien lo vive ve su propio cuerpo desde arriba. También se llama proyección astral o desdoblamiento astral. Las tradiciones esotéricas lo atribuyen a un «cuerpo astral»; la ciencia lo estudia como experiencia extracorporal.",
-  "kw": "viaje astral, proyección astral, desdoblamiento astral, cómo hacer un viaje astral, plano astral, cuerpo astral, experiencia extracorporal, experiencias fuera del cuerpo, sueño astral, viaje astral guiado, meditación viaje astral, desdoblamiento astral qué es, el viaje astral es real, para qué sirve un viaje astral, es malo hacer un viaje astral, qué se siente en un viaje astral, viaje astral y sueños lúcidos, registros akáshicos, archivos akáshicos, vidas pasadas, akasha significado, mundo astral, desdoblamiento espiritual, desprendimiento astral, desdoblamiento durante el sueño, viaje astral involuntario, meditación de viaje astral, qué es el sueño astral",
+  "kw": "viaje astral, proyección astral, plano astral, cómo hacer un viaje astral, qué es el viaje astral, desdoblamiento astral, experiencia extracorporal, iniciarse en el viaje astral, sueño lúcido viaje astral, cuerpo astral",
   "sections": [
    {
     "id": "que-es",
     "h2": "¿Qué es el viaje astral?",
     "p": [
      "El **viaje astral** es la impresión de salir del propio cuerpo y de moverse fuera de él, con plena conciencia. Quienes lo describen hablan de flotar cerca del techo, de ver su cuerpo acostado en la cama o de recorrer lugares conocidos. La experiencia suele llegar en el umbral del sueño, en una relajación muy profunda o, a veces, sin buscarla.",
-     "Las palabras cambian según la tradición. **Proyección astral** viene del vocabulario esotérico inglés. **Desdoblamiento astral**, muy usado en español, insiste en la idea de un doble que se separa. También se habla de desdoblamiento espiritual o de desprendimiento astral. Experiencia extracorporal, o experiencia fuera del cuerpo, es el término neutro de los investigadores.",
+     "Las palabras cambian según la tradición. **Proyección astral** viene del vocabulario esotérico inglés. **Desdoblamiento astral**, muy usado en español, insiste en la idea de un doble que se separa. También se habla de desdoblamiento del cuerpo, de desdoblamiento espiritual o de desprendimiento astral. Experiencia extracorporal, o experiencia fuera del cuerpo, es el término neutro de los investigadores.",
      "Esta página no te pide creer en nada. Te cuenta lo que dicen las tradiciones y la ciencia, y cómo explorar la experiencia con prudencia."
     ]
    },
    {
     "id": "cuerpo-astral",
-    "h2": "Desdoblamiento astral: qué es el cuerpo astral y el plano astral",
+    "h2": "¿Qué es el desdoblamiento astral? El cuerpo astral y el plano astral",
     "p": [
      "La palabra «astral» viene del latín astralis, «de los astros». En la Antigüedad, algunos filósofos neoplatónicos hablaban de un vehículo sutil del alma, ligado a los astros. La idea atravesó los siglos hasta llegar al esoterismo moderno.",
      "A finales del siglo XIX, la teosofía de Helena Blavatsky difundió la expresión «cuerpo astral». Según esta corriente, el ser humano tendría varios cuerpos sutiles, y el cuerpo astral sería el que viaja durante el sueño o el desdoblamiento. El **plano astral**, o mundo astral, sería el lugar donde se mueve: un nivel de realidad hecho de emociones e imágenes.",
@@ -292,7 +292,7 @@
     "id": "como-hacer",
     "h2": "Cómo hacer un viaje astral paso a paso",
     "p": [
-     "Estas son las técnicas clásicas que se transmiten en los libros y en los grupos de práctica. Se viven como ejercicios de imaginación y de atención, sin ninguna garantía de resultado. Lo ideal es practicarlas acostado, en un momento tranquilo, por ejemplo al despertar de madrugada."
+     "Para iniciarse en el viaje astral, no hace falta ningún don especial. Estas son las técnicas clásicas que se transmiten en los libros y en los grupos de práctica. Se viven como ejercicios de imaginación y de atención, sin ninguna garantía de resultado. Lo ideal es practicarlas acostado, en un momento tranquilo, por ejemplo al despertar de madrugada."
     ],
     "steps": [
      [
@@ -329,7 +329,7 @@
     "id": "suenos-lucidos",
     "h2": "Viaje astral y sueños lúcidos: ¿cuál es la diferencia?",
     "p": [
-     "En un sueño lúcido sabes que estás soñando, y el escenario es el del sueño. En un viaje astral, tal como lo describen los practicantes, tienes la impresión de estar despierto, en tu habitación real o en el plano astral. Entre los dos está lo que algunos llaman sueño astral, o desdoblamiento durante el sueño.",
+     "En un sueño lúcido sabes que estás soñando, y el escenario es el del sueño. En un viaje astral, tal como lo describen los practicantes, tienes la impresión de estar despierto, en tu habitación real o en el plano astral. Entre los dos está lo que algunos llaman sueño astral, o desdoblamiento del sueño.",
      "Las dos experiencias se parecen y suelen aparecer en los mismos momentos, cerca del sueño REM. Algunos investigadores piensan que muchas salidas del cuerpo son sueños lúcidos muy realistas. Los practicantes, en cambio, insisten en que la sensación es distinta. Encontrarás más detalles en la página sobre [los sueños lúcidos](/es/suenos-lucidos.html)."
     ],
     "table": {
@@ -492,7 +492,11 @@
    ],
    [
     "¿Qué es el sueño astral?",
-    "Sueño astral es el nombre que algunos practicantes dan a un viaje astral que empieza dentro de un sueño. También se habla de desdoblamiento durante el sueño. La persona siente que sale del cuerpo mientras duerme, a menudo de madrugada. Se parece mucho a un sueño lúcido muy realista, y algunos investigadores lo interpretan así. Para los practicantes, la sensación de estar fuera del cuerpo marca la diferencia."
+    "Sueño astral es el nombre que algunos practicantes dan a un viaje astral en sueños. También se habla de desdoblamiento durante el sueño. La persona siente que sale del cuerpo mientras duerme, a menudo de madrugada. Se parece mucho a un sueño lúcido muy realista, y algunos investigadores lo interpretan así. Para los practicantes, la sensación de estar fuera del cuerpo marca la diferencia."
+   ],
+   [
+    "Parálisis del sueño: ¿significado espiritual o simple transición?",
+    "Muchas tradiciones ven en la parálisis del sueño una señal espiritual: el alma estaría a punto de salir del cuerpo. La ciencia la explica como un breve desfase al despertar: la mente se despierta antes que los músculos. Las dos lecturas pueden convivir, y ninguna es obligatoria. Si te pesa o vuelve a menudo, pide consejo a un profesional."
    ]
   ],
   "blog": {
@@ -508,7 +512,7 @@
   "eyebrow": "Guía completa",
   "lead": "Los chakras son el mapa más conocido del cuerpo sutil en el yoga y el tantra. Aquí descubrirás qué significa cada uno, de dónde vienen sus colores y cómo practicar una meditación de chakras con calma, sin promesas.",
   "def": "Los **chakras** son centros de energía sutil que la tradición del yoga y del tantra sitúa a lo largo de la columna. La palabra sánscrita cakra significa «rueda». El sistema más difundido cuenta siete chakras, cada uno ligado a un lugar del cuerpo, un elemento y unas cualidades.",
-  "kw": "chakras, los 7 chakras, chacras, chakras significado, 7 chakras significado, chakras del cuerpo, chakra raíz, chakra sacro, plexo solar, chakra plexo solar, chakra del corazón, chakra garganta, tercer ojo, chakra corona, colores de los chakras y su significado, meditación chakras, equilibrar chakras, alinear chakras, abrir los chakras, chakras bloqueados, los chakras y las emociones, kundalini, chakra Muladhara, chakra Manipura, chakra Anahata, chakra Ajna, tercer chakra, chakra base, chakra azul, 7 chakras nombres, chakras significado emocional, chakra del corazón bloqueado, octavo chakra, chakra estrella del alma, chakra de la tierra, energía kundalini, kundalini yoga, qué es el tercer ojo, cómo abrir el tercer ojo, apertura del tercer ojo, aura, qué es el aura, aura significado, colores del aura y su significado, cómo saber el color de mi aura",
+  "kw": "chakras, kundalini, kundalini yoga, chakra garganta, 7 chakras, chakra corona, chakra plexo solar, chakra sacro, colores de los chakras, chakra 6",
   "sections": [
    {
     "id": "que-son",
@@ -524,16 +528,16 @@
     "h2": "Los 7 chakras del cuerpo: el mapa",
     "p": [
      "El sistema clásico cuenta siete chakras principales, alineados de la base de la columna a lo alto de la cabeza. Cada uno tiene un nombre sánscrito, un lugar en el cuerpo y unos temas que la tradición le asocia. Este es el mapa de los chakras del cuerpo, en el orden en que, según los textos, sube la energía.",
-     "Los textos tántricos describen además, para cada centro, un loto con un número de pétalos, un elemento y una sílaba sagrada. Muchas cualidades psicológicas que hoy se les atribuyen, como la autoestima o la comunicación, son en cambio una lectura moderna. La tradición china describe otro mapa del cuerpo energético, con el dantian y la pequeña circulación: lo encontrarás en la página sobre el [qigong](/es/qigong.html).",
+     "Los textos tántricos describen además, para cada centro, un loto con un número de pétalos, un elemento y una sílaba sagrada. Es su mantra semilla. Muchas cualidades psicológicas que hoy se les atribuyen, como la autoestima o la comunicación, son en cambio una lectura moderna. La tradición china describe otro mapa del cuerpo energético, con el dantian y la pequeña circulación: lo encontrarás en la página sobre el [qigong](/es/qigong.html).",
      "El número siete tampoco es universal. Algunas corrientes esotéricas actuales añaden un octavo chakra o hablan de doce. Citan centros como el chakra estrella del alma, sobre la cabeza, o el chakra de la tierra, bajo los pies. Ninguno aparece en los textos tántricos."
     ],
     "visual": true
    },
    {
     "id": "significado",
-    "h2": "Los 7 chakras: nombres y significado de cada uno",
+    "h2": "Nombres de los 7 chakras y significado de cada uno",
     "p": [
-     "Estos son los siete chakras y su significado más habitual, de abajo arriba. El sexto tiene incluso su propia categoría en la app: [Tercer ojo](/es/meditaciones/meditacion-tercer-ojo-guiada.html), con cinco meditaciones avanzadas de 22 a 26 minutos."
+     "Estos son los siete chakras y su significado más habitual, de abajo arriba. El sexto, o chakra 6, tiene incluso su propia categoría en la app: [Tercer ojo](/es/meditaciones/meditacion-tercer-ojo-guiada.html). Reúne cinco meditaciones avanzadas de 22 a 26 minutos."
     ],
     "cards": [
      [
@@ -590,7 +594,7 @@
     "h2": "Chakras bloqueados: qué significa abrir, alinear y equilibrar los chakras",
     "p": [
      "Se habla mucho de chakras bloqueados, de abrir los chakras o de equilibrarlos. Son imágenes de la tradición moderna. Un chakra «bloqueado» sería un centro por donde la energía circula mal; uno «abierto», un centro por donde fluye con libertad. Se dice, por ejemplo, que el chakra del corazón está bloqueado cuando cuesta abrirse a los demás, y el de la garganta, cuando cuesta expresarse.",
-     "En meditación, estas imágenes describen sobre todo la calidad de tu atención. Llevar la atención a una zona, respirar en ella y notar lo que aparece es la base de cualquier práctica de chakras. Alinear los chakras es sentirlos uno tras otro sobre una misma línea. Equilibrar los chakras es darles a todos la misma atención, sin quedarte en uno solo.",
+     "En meditación, estas imágenes describen sobre todo la calidad de tu atención. ¿Cómo abrir los chakras, entonces? Llevar la atención a una zona, respirar en ella y notar lo que aparece: esa es la base de cualquier práctica. Alinear los chakras es sentirlos uno tras otro sobre una misma línea. Equilibrar los chakras es darles a todos la misma atención, sin quedarte en uno solo.",
      "Nadie puede medir si tus chakras están abiertos o cerrados, y conviene desconfiar de quien te lo asegure. Lo que sí puedes notar es cómo te sientes antes y después de practicar: más presente, más tranquilo o, simplemente, igual. Las tres respuestas son válidas."
     ]
    },
@@ -601,7 +605,7 @@
      "El **tercer ojo** es el nombre popular del sexto chakra, Ajna, situado entre las cejas. La palabra sánscrita ajna suele traducirse por «mando» o «percepción». La tradición lo asocia con la intuición y con una visión interior que no pasa por los ojos.",
      "En Occidente se relaciona a menudo con la glándula pineal, una pequeña glándula del cerebro. En el siglo XVII, Descartes ya la veía como la sede principal del alma. Es una analogía moderna: los textos tántricos no hablan de glándulas.",
      "Se habla mucho de la apertura del tercer ojo, como si fuera una puerta que se abre de golpe. En meditación, abrir el tercer ojo es más sencillo: llevas la atención al punto entre las cejas y dejas que lleguen imágenes interiores, sin buscarlas. Si no aparece ninguna, también está bien.",
-     "En la categoría «Tercer ojo», empieza por «El ojo interior despierta», de 22 minutos. Te enseña a hacer nacer una imagen en el centro de la frente y a dejarla ir. En «La imagen que aparece sola», de 23 minutos, no construyes nada: esperas a que surja."
+     "¿Buscas una meditación guiada del sexto chakra? En la categoría «Tercer ojo», empieza por «El ojo interior despierta», de 22 minutos. Te enseña a hacer nacer una imagen en el centro de la frente y a dejarla ir. En «La imagen que aparece sola», de 23 minutos, no construyes nada: esperas a que surja."
     ]
    },
    {
@@ -774,6 +778,10 @@
    [
     "¿Cómo abrir el tercer ojo?",
     "En la tradición del yoga, el tercer ojo es Ajna, el sexto chakra, entre las cejas. Ninguna práctica seria promete abrirlo de golpe. En meditación, te sientas, llevas la atención a ese punto y dejas que lleguen imágenes interiores, sin buscarlas. Si no aparece nada, es normal: cuenta la calidad de la atención. Practicar unos minutos cada día es la forma más sencilla de empezar."
+   ],
+   [
+    "¿Cuáles son los 7 chakras y sus mantras?",
+    "Cada chakra tiene un mantra semilla, o bija, de una sola sílaba. De abajo arriba: LAM para la raíz, VAM para el sacro y RAM para el plexo solar. Después vienen YAM para el corazón, HAM para la garganta y OM para el tercer ojo. Para la corona, muchas escuelas proponen el silencio."
    ]
   ],
   "blog": {
@@ -784,12 +792,12 @@
  "qigong": {
   "slug": "qigong",
   "seo": "Qi gong (chi kung): qué es, beneficios y ejercicios",
-  "desc": "Qué es el qigong o chi kung: origen, beneficios, ejercicios, el Ba Duan Jin y el tai chi para principiantes, con sesiones guiadas gratis en español.",
-  "h1": "Qué es el qigong: beneficios, ejercicios y cómo empezar",
+  "desc": "Qué es el qi gong o chi kung: origen, beneficios, ejercicios, el Ba Duan Jin y el tai chi para principiantes, con sesiones guiadas gratis en español.",
+  "h1": "Qué es el qi gong y cómo empezar a practicarlo en casa",
   "eyebrow": "Guía completa",
-  "lead": "El qigong, o chi kung, es un arte chino de movimiento lento, respiración y atención. Aquí descubrirás qué es, de dónde viene, en qué se diferencia del tai chi y cómo empezar en casa con ejercicios sencillos.",
+  "lead": "El qi gong, o chi kung, es un arte chino de movimiento lento, respiración y atención. Aquí descubrirás qué es, de dónde viene, en qué se diferencia del tai chi y cómo empezar en casa con ejercicios sencillos.",
   "def": "El **qigong** es una práctica china que combina posturas o movimientos lentos, una respiración tranquila y una atención concentrada. Su nombre une qi, «aliento» o «energía», y gong, «trabajo» o «práctica constante». También se escribe chi kung o qi gong. Se practica de pie, sentado o en movimiento, sin ningún material.",
-  "kw": "qigong, qué es el qigong, chi kung, qi gong, beneficios del qigong, chi kung beneficios, ejercicios de qigong, qi gong ejercicios, chi kung ejercicios básicos, qi gong para principiantes, chi kung para principiantes, tai chi y chi kung, diferencia con el tai chi, ba duan jin, ocho brocados de seda, energía chi, meditación qigong, chi kung en casa, chi kung por la mañana, qi kung, chi gong, tai chi chuan, taijiquan, tai chi para principiantes, tai chi en casa, 24 movimientos de tai chi, estilo Yang, estilo Chen, tai chi sentado, qué es el qi, energía qi",
+  "kw": "qi gong, chi kung, qi gong chi kung, tai chi, tai chi para principiantes, qi gong tai chi, taichí en casa, tai chi para principiantes en casa, chi kung ejercicios, qué es el qi gong",
   "sections": [
    {
     "id": "que-es",
@@ -851,8 +859,8 @@
     "id": "ba-duan-jin",
     "h2": "Ba Duan Jin, los cinco animales y la postura del árbol",
     "p": [
-     "El **Ba Duan Jin**, o los ocho brocados de seda, es una de las series de qigong más practicadas, atestiguada desde la dinastía Song. Son ocho movimientos sencillos, cada uno con su nombre poético, como «sostener el cielo con las dos manos». Se practica sobre todo de pie, en unos diez o quince minutos.",
-     "Los cinco animales, o Wu Qin Xi, imitan al tigre, al ciervo, al oso, al mono y al pájaro. La tradición los atribuye a Hua Tuo, un personaje célebre de la época Han. Cada animal evoca una cualidad, como la fuerza del tigre o la ligereza del pájaro.",
+     "El **Ba Duan Jin**, o los ocho brocados de seda, es una de las series de qigong más practicadas, atestiguada desde la dinastía Song. Son ocho movimientos de qigong sencillos, cada uno con su nombre poético, como «sostener el cielo con las dos manos». Se practica sobre todo de pie, en unos diez o quince minutos. Otra serie muy difundida: los 18 movimientos de chi kung, o Shibashi, creados en China a finales de los setenta.",
+     "Los cinco animales, o Wu Qin Xi, imitan al tigre, al ciervo, al oso, al mono y al pájaro. La tradición los atribuye a Hua Tuo, un personaje célebre de la época Han. Cada animal evoca una cualidad, como la fuerza del tigre o la ligereza del pájaro. El chi kung de los 5 elementos recorre la madera, el fuego, la tierra, el metal y el agua.",
      "La postura del árbol, zhan zhuang, es la más sencilla y la más exigente. Te quedas de pie, con las rodillas un poco flexionadas y los brazos redondeados delante del pecho. Puedes practicarla guiado con «El árbol inmóvil», en la categoría [Sensaciones y Qigong](/es/meditaciones/meditacion-qigong-guiada.html)."
     ]
    },
@@ -860,8 +868,8 @@
     "id": "tai-chi",
     "h2": "Tai chi y chi kung: ¿qué diferencia hay?",
     "p": [
-     "El tai chi, también llamado tai chi chuan o taijiquan, es en origen un arte marcial interno. Se practica en largas secuencias de movimientos encadenados, que piden tiempo para memorizarse. El chi kung reúne ejercicios más cortos, a menudo repetidos, que se aprenden enseguida.",
-     "Los dos comparten la lentitud, la respiración y la atención al qi. Por eso se dice a menudo que todo tai chi contiene qigong, pero no todo qigong es tai chi. Si buscas algo sencillo para empezar solo, el qigong es más accesible."
+     "El tai chi, también llamado tai chi chuan o taijiquan, es en origen un arte marcial interno. Se practica en largas secuencias de movimientos encadenados, que piden tiempo para memorizarse. Aprender chi kung es más rápido: reúne ejercicios cortos, a menudo repetidos, que se aprenden enseguida.",
+     "Tai chi, chi kung y meditación comparten la lentitud, la respiración y la atención. Por eso se dice a menudo que todo tai chi contiene qigong, pero no todo qigong es tai chi. Si buscas algo sencillo para empezar solo, el qigong es más accesible."
     ],
     "table": {
      "head": [
@@ -900,19 +908,19 @@
    },
    {
     "id": "tai-chi-principiantes",
-    "h2": "Tai chi para principiantes: cómo empezar en casa",
+    "h2": "Tai chi para principiantes en casa: cómo empezar",
     "p": [
      "El tai chi tiene varios estilos, que llevan el nombre de las familias que los transmitieron. El estilo Chen se considera el más antiguo. El estilo Yang, de movimientos amplios y regulares, es hoy el más practicado.",
      "Para quienes empiezan, la referencia más extendida es la forma simplificada de 24 movimientos. Se creó en China en 1956, a partir del estilo Yang, para que más gente pudiera aprenderla. Se memoriza poco a poco, un movimiento tras otro.",
-     "Puedes empezar a practicar tai chi en casa, pero aprender sin ayuda una secuencia larga es difícil. Un profesor o un grupo ayudan mucho al principio. Su lentitud lo hace muy popular entre las personas mayores, y existen versiones para practicar sentado. El qigong es una buena puerta de entrada, porque comparte la misma base: postura, respiración lenta y atención. Las sesiones de MeditaDream son de qigong, no de tai chi."
+     "La RAE lo escribe taichí, en una sola palabra. Puedes practicar taichí en casa, pero aprender tai chi sin ayuda es difícil: la secuencia es larga. Un profesor o un grupo ayudan mucho al principio. Su lentitud lo hace muy popular entre las personas mayores, y existen versiones para practicar sentado. El qigong es una buena puerta de entrada, porque comparte la misma base: postura, respiración lenta y atención. Las sesiones de MeditaDream son de qigong, no de tai chi."
     ]
    },
    {
     "id": "beneficios",
-    "h2": "Beneficios del qigong: lo que dice la investigación",
+    "h2": "Qi gong: beneficios según la investigación",
     "p": [
-     "Los practicantes hablan de calma, de flexibilidad y de una sensación de energía más estable. La investigación ha estudiado sobre todo el tai chi y el qigong en personas mayores. Sus resultados son alentadores en el equilibrio, la flexibilidad y la sensación de relajación.",
-     "Conviene leer estos resultados con prudencia: muchos estudios son pequeños y los estilos cambian de uno a otro. Lo que sí está claro es que el qigong ofrece una actividad suave, que une movimiento, respiración y atención, y que muchas personas disfrutan durante años.",
+     "En las opiniones sobre el chi kung, los practicantes hablan de calma, de flexibilidad y de una energía más estable. La investigación ha estudiado sobre todo el tai chi y el qigong en personas mayores. Sus resultados son alentadores en el equilibrio, la flexibilidad y la sensación de relajación.",
+     "Conviene leer los beneficios del qi gong con prudencia: muchos estudios son pequeños y los estilos varían. Lo que sí está claro es que el qigong ofrece una actividad suave, que une movimiento, respiración y atención, y que muchas personas disfrutan durante años.",
      "La energía chi, en cambio, pertenece a la tradición, y la ciencia no la ha medido como tal. Puedes practicar con esa imagen en mente o, simplemente, como un ejercicio de atención al cuerpo. Si te interesan otros mapas del cuerpo sutil, mira la página sobre [los chakras](/es/meditacion-chakras.html)."
     ],
     "warn": "Si tienes dolores o dudas sobre tu cuerpo, pide consejo a un profesional antes de empezar, y no fuerces nunca un movimiento."
@@ -921,7 +929,7 @@
     "id": "ejercicios",
     "h2": "Chi kung para principiantes: ejercicios básicos en casa",
     "p": [
-     "Estos ejercicios de qi gong para principiantes te piden unos diez minutos y un metro cuadrado de espacio. Hazlos despacio, sin forzar nada, con ropa cómoda. Practicar chi kung por la mañana es una forma suave de despertar el cuerpo antes de empezar el día."
+     "Estos ejercicios de qi gong para principiantes te piden unos diez minutos y un metro cuadrado de espacio. Son la forma más sencilla de aprender qi gong en casa. Hazlos despacio, sin forzar nada, con ropa cómoda. Practicar chi kung por la mañana es una forma suave de despertar el cuerpo antes de empezar el día. Y si prefieres una voz que te guíe, las sesiones de [chi kung](/es/meditaciones/meditacion-qigong-guiada.html) de la app siguen el mismo espíritu."
     ],
     "steps": [
      [
@@ -1012,7 +1020,7 @@
     "El tai chi es en origen un arte marcial interno, con largas secuencias de movimientos encadenados que hay que memorizar. El chi kung reúne ejercicios más cortos y repetidos, posturas inmóviles y meditaciones, que se aprenden enseguida. Los dos comparten la lentitud, la respiración y la atención al qi. Para empezar solo en casa, el chi kung suele ser más sencillo."
    ],
    [
-    "¿Qué beneficios tiene el qigong o chi kung?",
+    "¿Cuáles son los beneficios del chi kung?",
     "Los practicantes describen calma, flexibilidad y una energía más estable. Los estudios, sobre todo en personas mayores, señalan resultados alentadores en el equilibrio, la flexibilidad y la relajación. Muchos son pequeños y conviene leerlos con prudencia. El qigong no promete nada: es una actividad suave que une movimiento, respiración y atención, y que muchas personas disfrutan durante años."
    ],
    [
@@ -1032,7 +1040,7 @@
     "La meditación qigong se practica sentado o acostado, casi sin movimiento. Llevas la atención a las manos, al vientre o al recorrido del qi por el cuerpo, como en la pequeña circulación, un ejercicio clásico taoísta. Es una forma interior del qigong, ideal por la noche o cuando no tienes espacio, y combina bien con una meditación guiada."
    ],
    [
-    "¿Es mejor empezar por el tai chi o por el qigong?",
+    "¿Qi gong, tai chi o los dos: por cuál empezar?",
     "Depende de lo que busques. El qigong se aprende enseguida: ejercicios cortos, posturas inmóviles y meditación, fáciles de practicar solo en casa. El tai chi pide memorizar una secuencia larga, como la forma de 24 movimientos, y se aprende mejor con un profesor. Los dos comparten la lentitud, la respiración y la atención. Muchas personas empiezan por el qigong y pasan después al tai chi."
    ]
   ],
@@ -1047,13 +1055,13 @@
   "desc": "Qué son los sueños lúcidos y cómo tenerlos: técnicas MILD y WBTB, significado de los sueños, parálisis del sueño y una meditación guiada gratis.",
   "h1": "Sueños lúcidos: qué son y cómo tener tu primer sueño lúcido",
   "eyebrow": "Guía completa",
-  "lead": "Un sueño lúcido es ese momento en que, en pleno sueño, te das cuenta de que estás soñando. Aquí descubrirás qué ha medido la ciencia, las técnicas más conocidas y cómo vivir la parálisis del sueño con calma.",
+  "lead": "Los sueños lúcidos son esos momentos en que, en pleno sueño, te das cuenta de que estás soñando. Aquí descubrirás qué ha medido la ciencia, las técnicas más conocidas y cómo vivir la parálisis del sueño con calma.",
   "def": "Los **sueños lúcidos** son sueños en los que sabes que estás soñando mientras el sueño continúa. Esa conciencia puede durar unos segundos o permitirte observar la escena, e incluso orientarla un poco. Suelen aparecer durante el sueño REM, sobre todo de madrugada, y se pueden favorecer con técnicas como el diario de sueños, MILD o WBTB.",
-  "kw": "sueños lúcidos, cómo tener sueños lúcidos, qué son los sueños lúcidos, sueño lúcido qué es, sueño lúcido significado, parálisis del sueño, se te sube el muerto, por qué da la parálisis del sueño, soñar despierto, sueño vívido, sueños conscientes, diario de sueños, recordar los sueños, controlar los sueños, sueños lúcidos y viajes astrales, qué hacer en un sueño lúcido, técnicas para sueños lúcidos, interpretación de los sueños, significado de los sueños, diccionario de los sueños, intérprete de sueños, los sueños tienen significado, higiene del sueño, cómo conciliar el sueño, meditación para conciliar el sueño, parálisis del sueño intruso, cómo evitar la parálisis del sueño, los sueños lúcidos son reales, no poder despertar de un sueño, sueño lúcido esta noche",
+  "kw": "sueños lúcidos, sueños, significado de los sueños, sueño vívido, qué es un sueño lúcido, los sueños tienen significado, sueños lúcidos y viajes astrales, cómo controlar los sueños, los sueños lúcidos son reales, pesadillas lúcidas",
   "sections": [
    {
     "id": "que-es",
-    "h2": "Sueño lúcido: qué es y qué significa",
+    "h2": "¿Qué es un sueño lúcido y qué significa?",
     "p": [
      "Los **sueños lúcidos** son sueños en los que sabes que estás soñando. El paisaje, los personajes y la historia siguen ahí, pero una parte de ti se despierta dentro del sueño. A veces esa lucidez dura un instante y te despierta. Otras veces se mantiene, y puedes mirar con calma o cambiar el rumbo de la escena.",
      "El significado de la expresión es sencillo: lúcido viene del latín lucidus, «luminoso», «claro». El escritor neerlandés Frederik van Eeden la usó en 1913 para describir sus propios sueños conscientes.",
@@ -1140,7 +1148,7 @@
     "p": [
      "El primer reto es mantener la lucidez, porque la emoción del descubrimiento suele despertar. Para quedarte, frótate las manos dentro del sueño, mira el suelo o gira sobre ti mismo. Son trucos clásicos de los practicantes para estabilizar la escena.",
      "Después, casi todo es posible: volar, visitar un lugar querido, hablar con un personaje del sueño o hacerle una pregunta. Controlar los sueños por completo es raro, y tampoco es necesario. Muchos soñadores lúcidos prefieren observar y dejar que el sueño los sorprenda.",
-     "Hay quien usa la lucidez para mirar de frente un sueño que se repite. En lugar de huir, se gira y pregunta: «¿quién eres?». Es una forma suave de cambiar la relación con lo que asusta, sin forzarla."
+     "Hay quien usa la lucidez para mirar de frente un sueño que se repite. En las pesadillas lúcidas, en lugar de huir, se gira y pregunta: «¿quién eres?». Es una forma suave de cambiar la relación con lo que asusta, sin forzarla."
     ]
    },
    {
@@ -1239,6 +1247,14 @@
    [
     "¿Qué pasa si no puedo despertar de un sueño?",
     "Un sueño siempre termina: ninguna técnica te deja atrapado en él. A veces crees despertar y sigues soñando: es un falso despertar, frecuente entre los soñadores lúcidos. Para salir, haz una prueba de realidad, cierra los ojos dentro del sueño o intenta mover un dedo del cuerpo real. Si al despertar no puedes moverte durante unos segundos, es la parálisis del sueño, y pasa sola."
+   ],
+   [
+    "¿Para qué sirven los sueños lúcidos?",
+    "Para muchas personas, son ante todo una aventura: volar, visitar un lugar querido o hacer una pregunta a un personaje. Otras los usan para mirar de frente un sueño que se repite. Algunas tradiciones, como el yoga del sueño tibetano, los viven como una práctica espiritual."
+   ],
+   [
+    "¿Qué significado espiritual tienen los sueños lúcidos?",
+    "En el budismo tibetano, el yoga del sueño usa la lucidez como entrenamiento. Reconocer que sueñas ayuda a soltar el apego a lo que ves. Otras corrientes ven en ella una puerta hacia el viaje astral. Ninguna de estas lecturas se ha comprobado. La lucidez, en cambio, sí se mide en laboratorio."
    ]
   ],
   "blog": {
@@ -1249,16 +1265,16 @@
  "transe": {
   "slug": "trance-chamanico",
   "seo": "Trance chamánico: chamanismo, tambor y viaje interior",
-  "desc": "Qué es un chamán y qué es el chamanismo: el trance, la hipnosis, el tambor chamánico, los tres mundos y el animal de poder, con viajes guiados gratis.",
+  "desc": "El trance chamánico explicado: qué es el chamanismo, qué hacen los chamanes, el tambor, los tres mundos y el animal de poder, con viajes guiados gratis.",
   "h1": "Trance chamánico: qué es el chamanismo y el viaje del chamán",
   "eyebrow": "Guía completa",
   "lead": "El trance chamánico es una de las formas más antiguas de viaje interior. Descubre qué es un chamán, el papel del tambor, los tres mundos y el animal de poder, con respeto por los pueblos que los transmiten.",
   "def": "El **trance chamánico** es un estado de conciencia modificado, de atención muy absorta. El chamán lo busca para «viajar» a otros mundos y volver con una ayuda o una respuesta. Suele inducirse con el ritmo regular del tambor. El chamanismo es el conjunto de prácticas y creencias que rodean a esta figura.",
-  "kw": "trance chamánico, chamanismo, chamán, qué es un chamán, qué hacen los chamanes, qué son los chamanes, tambor chamánico, animal de poder, animales de poder, animal tótem, mi animal espiritual, estado de trance, viaje chamánico, meditación chamánica, para qué sirve el chamanismo, los tres mundos del chamanismo, trance espiritual, hipnosis, autohipnosis, la hipnosis es real, en qué consiste la hipnosis, chamana, qué es una chamana, shaman, cómo saber cuál es mi animal de poder",
+  "kw": "trance chamánico, chamanismo, chamanismo significado, estado de trance, qué hacen los chamanes, tipos de chamanismo, historia del chamanismo, para qué sirve el chamanismo, prácticas chamánicas, viaje chamánico",
   "sections": [
    {
     "id": "que-es-chaman",
-    "h2": "¿Qué es un chamán y qué significa la palabra?",
+    "h2": "Chamán y chamanismo: significado y origen de la palabra",
     "p": [
      "Un **chamán** es, en muchas culturas, la persona que hace de puente entre su comunidad y el mundo de los espíritus. Entra en un **trance chamánico**, viaja interiormente y vuelve con consejos, visiones o ayuda para los suyos. El **chamanismo** es el conjunto de prácticas, creencias y relatos que rodean a esa figura.",
      "La palabra viene de la lengua evenki, hablada por un pueblo tungús de Siberia. Llegó a Europa a través del ruso, en relatos de viajeros a partir del siglo XVII. De ahí vienen el inglés shaman y el español chamán. Después, los antropólogos la usaron para hablar de figuras parecidas en todo el mundo.",
@@ -1269,18 +1285,18 @@
     "id": "chamanismos",
     "h2": "Qué son los chamanes y para qué sirve el chamanismo",
     "p": [
-     "No hay un chamanismo, sino muchos. En Siberia, en Mongolia, entre los pueblos inuit, en la Amazonía o en los Andes existen especialistas del trance con prácticas, nombres y visiones del mundo propias. En América, los pueblos originarios tienen sus propias palabras para estas figuras, y no todos aceptan la etiqueta «chamán». En femenino se dice chamana. En algunos pueblos, ese papel lo ejercen sobre todo mujeres: entre los mapuches de Chile y Argentina, la machi suele ser una mujer.",
+     "No hay un solo chamanismo, sino muchos tipos de chamanismo. En Siberia, en Mongolia, entre los pueblos inuit, en la Amazonía o en los Andes existen especialistas del trance con prácticas, nombres y visiones del mundo propias. En América, los pueblos originarios tienen sus propias palabras para estas figuras, y no todos aceptan la etiqueta «chamán». En femenino se dice chamana. En algunos pueblos, ese papel lo ejercen sobre todo mujeres: entre los mapuches de Chile y Argentina, la machi suele ser una mujer.",
      "Según cada cultura, el chamanismo sirve para acompañar los ritos de paso o buscar consejo ante una decisión. También sirve para restablecer la armonía de un grupo y mantener el vínculo con la naturaleza y los antepasados. Es un saber tradicional, transmitido durante años de aprendizaje, a menudo dentro de un linaje.",
      "Las meditaciones de esta página no son una iniciación ni pretenden sustituir esas tradiciones. Son meditaciones guiadas inspiradas en ellas, para explorar tu mundo interior con respeto."
     ]
    },
    {
     "id": "eliade-harner",
-    "h2": "De Eliade a Harner: el chamanismo estudiado en Occidente",
+    "h2": "Historia del chamanismo en Occidente: de Eliade a Harner",
     "p": [
      "En 1951, el historiador de las religiones Mircea Eliade publicó «El chamanismo y las técnicas arcaicas del éxtasis». Describió al chamán como un maestro del éxtasis, capaz de viajar en espíritu al cielo o al mundo subterráneo. Su libro marcó durante décadas la forma de entender estas prácticas.",
      "En 1980, el antropólogo estadounidense Michael Harner publicó «The Way of the Shaman», traducido como «La senda del chamán». Tras convivir con pueblos de la Amazonía, propuso un «chamanismo básico». Reunía los elementos comunes a muchas tradiciones, como el tambor, el viaje a los tres mundos y el animal de poder.",
-     "Ese enfoque ha permitido a muchas personas descubrir el viaje chamánico. También ha recibido críticas, porque separa las prácticas de las culturas que las crearon. Por eso conviene hablar de meditación chamánica inspirada en las tradiciones, sin apropiarse de ellas."
+     "Ese enfoque ha permitido a muchas personas descubrir el viaje chamánico. También ha recibido críticas, porque separa las prácticas chamánicas de las culturas que las crearon. Por eso conviene hablar de meditación chamánica inspirada en las tradiciones, sin apropiarse de ellas."
     ]
    },
    {
@@ -1289,7 +1305,7 @@
     "p": [
      "Un **estado de trance** es un estado de conciencia modificado en el que la atención se absorbe por completo en una experiencia interior. El mundo exterior se aleja, el sentido del tiempo cambia y las imágenes interiores se vuelven más presentes. No es dormir ni perder el control: a menudo la persona sigue consciente de lo que vive.",
      "Todos conocemos formas suaves de trance: perderte en una música, conducir sin recordar el trayecto, mirar el fuego sin pensar en nada. El trance espiritual de las tradiciones lleva esa absorción mucho más lejos, con un ritmo, una intención y un marco ritual.",
-     "La investigación sobre el trance es todavía escasa. Algunos estudios han observado cambios en la actividad del cerebro durante el trance inducido por el tambor, pero son pocos y preliminares. Si quieres explorar otros estados profundos, la categoría [Conciencia & Trance](/es/meditaciones/meditacion-de-trance-guiada.html) reúne siete viajes guiados."
+     "La investigación sobre el trance es todavía escasa. Algunos estudios han observado cambios en la actividad del cerebro durante el trance inducido por el tambor, pero son pocos y preliminares. Si quieres explorar otros estados profundos, la categoría [Conciencia & Trance](/es/meditaciones/meditacion-de-trance-guiada.html) reúne siete viajes guiados. Y para entrar en un [estado de trance](/es/objetivos/trance-chamanismo-viaje-astral.html) paso a paso, sigue el programa por etapas de la app."
     ]
    },
    {
@@ -1466,13 +1482,13 @@
   "eyebrow": "Guía completa",
   "lead": "La visualización es el arte de crear imágenes, sonidos y sensaciones con la mente. Aquí descubrirás qué es la visualización creativa, qué dice la investigación, cómo practicarla aunque no veas imágenes y ejercicios sencillos para empezar hoy.",
   "def": "La **visualización** es una práctica que consiste en imaginar de forma deliberada una escena, un objeto o una acción. Pone en juego la vista, el oído y el tacto interiores. La visualización creativa la usa para dar forma a un deseo o a un objetivo. Bien guiada, es también una forma de meditación muy accesible.",
-  "kw": "visualización, visualización creativa, visualización guiada, técnicas de visualización, ejercicios de visualización, imaginación guiada, visualización positiva, cómo visualizar, meditación de visualización, ley de la atracción, visualización de riqueza, el poder de la atracción, afantasía, existe la ley de la atracción, qué es la ley de la atracción, cómo funciona la ley de la atracción, meditación con visualización, diario de gratitud y manifestación",
+  "kw": "visualización, meditación visualización, técnicas de visualización, visualización creativa, ejercicios para aprender a visualizar, técnicas de visualización para la ansiedad, cómo visualizar, ejercicios de visualización, imaginación guiada, qué es la visualización",
   "sections": [
    {
     "id": "que-es",
     "h2": "¿Qué es la visualización creativa?",
     "p": [
-     "La **visualización** consiste en crear con la mente una experiencia que no está ocurriendo. Puedes ver un paisaje, sentir un objeto en la mano u oír un sonido lejano. No es solo ver. Una buena visualización usa todos los sentidos interiores y, a menudo, también las emociones.",
+     "La **visualización**, o visualización mental, consiste en crear con la mente una experiencia que no está ocurriendo. Puedes ver un paisaje, sentir un objeto en la mano u oír un sonido lejano. No es solo ver. Una buena visualización usa todos los sentidos interiores y, a menudo, también las emociones.",
      "La **visualización creativa** es una forma concreta de esta práctica. Shakti Gawain la popularizó en 1978 con su libro «Creative Visualization», publicado en español como «Visualización creativa». Propone imaginar con claridad lo que deseas, sentirlo como posible y orientar tu energía hacia ello.",
      "Hoy la visualización está presente en muchos ámbitos, del deporte al desarrollo personal y la meditación. Sus formas son muchas, y no todas persiguen lo mismo."
     ]
@@ -1555,7 +1571,7 @@
     "id": "ejercicios",
     "h2": "Ejercicios y técnicas de visualización para principiantes",
     "p": [
-     "Estos ejercicios de visualización son sencillos y se hacen en unos minutos, con los ojos cerrados. Hazlos en orden, uno por día, o elige el que más te atraiga."
+     "Estos ejercicios de visualización son sencillos y se hacen en unos minutos, con los ojos cerrados. Son ejercicios para aprender a visualizar paso a paso, del objeto conocido a la escena completa. Hazlos en orden, uno por día, o elige el que más te atraiga."
     ],
     "steps": [
      [
@@ -1588,9 +1604,9 @@
     "id": "lugar-seguro",
     "h2": "El lugar seguro: una visualización para volver a la calma",
     "p": [
-     "El lugar seguro es una de las visualizaciones más sencillas. Imaginas un lugar, real o inventado, donde te sientes protegido y en paz. Con la práctica, muchas personas notan que basta con evocarlo para recuperar algo de esa calma.",
+     "El lugar seguro es una de las técnicas de visualización para la ansiedad más usadas. También es de las más sencillas. Imaginas un lugar, real o inventado, donde te sientes protegido y en paz. Con la práctica, muchas personas notan que basta con evocarlo para recuperar algo de esa calma.",
      "En MeditaDream, «Tu Santuario» te ayuda a describir el tuyo con detalle: su entorno, sus colores, sus sonidos, sus objetos y sus símbolos protectores. Añades la presencia de un guía, un ritual de entrada y una frase de regreso. Un lugar descrito con precisión es más fácil de volver a encontrar.",
-     "Los [mundos inmersivos](/es/mundos/) llevan esta idea más lejos: 17 lugares imaginarios completos, con su paisaje sonoro, para visitar con calma."
+     "Los [mundos inmersivos](/es/mundos/) llevan esta idea más lejos: 17 lugares imaginarios completos, con su paisaje sonoro. Son una relajación con visualización más larga."
     ]
    },
    {
@@ -1608,7 +1624,7 @@
     "h2": "Meditación con visualización: del tercer ojo a los viajes imaginarios",
     "p": [
      "Cuando la visualización se vuelve familiar, puedes explorar formas más profundas. La categoría [Tercer ojo](/es/meditaciones/meditacion-tercer-ojo-guiada.html) reúne cinco meditaciones avanzadas, de 22 a 26 minutos, centradas en el punto entre las cejas. En «La imagen que aparece sola», no construyes nada: esperas, con los ojos cerrados, hasta que una imagen surge por sí misma.",
-     "Las [Miniaventuras](/es/meditaciones/meditacion-guiada-viaje-imaginario.html) proponen otra cosa: vivir una historia entera con los sentidos, como un día en Versalles en 1700. Y si te atrae el mundo de la energía, la página sobre [los chakras](/es/meditacion-chakras.html) te enseña a visualizar cada centro."
+     "Las [Miniaventuras](/es/meditaciones/meditacion-guiada-viaje-imaginario.html) proponen otra cosa: vivir una historia entera con los sentidos, como un día en Versalles en 1700. Y si te atrae el mundo de la energía, la página sobre [los chakras](/es/meditacion-chakras.html) te enseña a visualizar cada centro. Cada uno tiene su color: la visualización de colores en la meditación es un apoyo muy usado."
     ]
    }
   ],
@@ -1706,13 +1722,13 @@
   "eyebrow": "Guía completa",
   "lead": "Ángel de la guarda, animal espiritual, ancestro o maestro interior: los guías espirituales tienen muchos rostros. Aquí descubrirás lo que dicen las tradiciones, cómo conectar con ellos en meditación y cómo llevar un registro de tus encuentros.",
   "def": "Los **guías espirituales** son presencias que, según muchas tradiciones, acompañan, protegen o aconsejan a una persona a lo largo de su vida. Pueden ser ángeles, ancestros, animales de poder, maestros o un yo más sabio. Se les busca en la oración, el sueño o la meditación. Pueden vivirse como seres reales o como figuras de la vida interior.",
-  "kw": "guías espirituales, guía espiritual, quiénes son los guías espirituales, guía espiritual qué es, ángel de la guarda, animal espiritual, mi animal espiritual, cuál es mi animal espiritual, maestros ascendidos, yo superior, señales de los guías espirituales, maestros espirituales, guía interior, meditación guías espirituales, cómo contactar a tus guías, budismo, Buda, qué significa Buda, bodhisattva, Guanyin, Tara verde, tipos de budismo, budismo zen, budismo tibetano, meditación budista, despertar espiritual, no dualidad, buda gordo, ángel de mi guarda, día del ángel de la guarda",
+  "kw": "guías espirituales, ángel de la guarda, maestros ascendidos, mi ángel de la guarda, quiénes son los guías espirituales, qué son los guías espirituales, maestros espirituales, guía espiritual qué es, cómo conectar con tus guías espirituales, ángeles espirituales",
   "sections": [
    {
     "id": "quienes-son",
     "h2": "Guía espiritual: qué es y quiénes son los guías espirituales",
     "p": [
-     "Un **guía espiritual** es una presencia que acompaña a alguien en su camino interior. Según las tradiciones, puede ser un ángel, un antepasado, un animal, un maestro o una parte más sabia de uno mismo. Lo que tienen en común los **guías espirituales** es su función: acompañar, proteger, inspirar o aconsejar.",
+     "Un **guía espiritual** es una presencia que acompaña a alguien en su camino interior. Según las tradiciones, puede ser un ángel, un antepasado, un animal, un maestro o una parte más sabia de uno mismo. ¿Qué son los **guías espirituales**, entonces? Presencias con una misma función: acompañar, proteger, inspirar o aconsejar.",
      "Algunas personas los viven como seres reales, con su propia existencia. Otras los entienden como figuras de la vida interior, que dan forma a la intuición y a los recursos que ya llevamos dentro. Esta página respeta las dos lecturas. Para meditar con ellos, no necesitas decidir cuál es la tuya."
     ]
    },
@@ -1720,7 +1736,7 @@
     "id": "tradiciones",
     "h2": "Del ángel de la guarda a los maestros ascendidos: los guías en las tradiciones",
     "p": [
-     "Cada tradición tiene su forma de nombrar a quienes acompañan el camino. Estas son las más conocidas. A ellas se suman los maestros espirituales de carne y hueso, como un maestro zen o un lama. Ellos guían desde fuera, no desde lo invisible."
+     "Cada tradición tiene su forma de nombrar a estos guardianes espirituales que acompañan el camino. Estas son las más conocidas. Guías y maestros espirituales no son lo mismo. Un maestro, como un monje zen o un lama, guía desde fuera, no desde lo invisible."
     ],
     "cards": [
      [
@@ -1737,7 +1753,7 @@
      ],
      [
       "Los maestros ascendidos",
-      "La teosofía habló, a finales del siglo XIX, de maestros que guiarían a la humanidad. En el siglo XX, otros movimientos difundieron la expresión «maestros ascendidos», con figuras como Saint Germain o El Morya."
+      "La teosofía habló, a finales del siglo XIX, de maestros que guiarían a la humanidad. En el siglo XX, otros movimientos difundieron la expresión «maestros ascendidos», con figuras como Saint Germain o El Morya. Se les describe como guías espirituales, seres de luz que velan por la humanidad."
      ],
      [
       "El yo superior",
@@ -1772,7 +1788,7 @@
     "id": "senales",
     "h2": "Señales de los guías espirituales y pensamiento crítico",
     "p": [
-     "Quienes se sienten acompañados describen a menudo señales: una pluma en el camino, un número que se repite, una canción que llega en el momento justo. También un animal que aparece varias veces o un sueño muy claro. Para ellos, son maneras en que sus guías se hacen presentes.",
+     "Quienes se sienten acompañados describen a menudo señales: una pluma en el camino, un número que se repite, una canción que llega en el momento justo. También un animal que aparece varias veces, o la visita de sus guías espirituales en sueños. Para ellos, así se hacen presentes.",
      "Estas señales pueden dar sentido y consuelo. También conviene mirarlas con un poco de pensamiento crítico. Nuestro cerebro está hecho para encontrar patrones: tiende a recordar las coincidencias que nos tocan y a olvidar las demás. Ver una señal no es un error, pero no debería llevarte a decisiones importantes sin reflexión.",
      "Un buen equilibrio es anotar las señales sin interpretarlas enseguida. Con el tiempo, verás cuáles se repiten y cuáles te dicen algo. El cuaderno «Signos y Sincronías» del «Diario» sirve justo para eso."
     ],
@@ -1825,7 +1841,7 @@
     "id": "animal-espiritual",
     "h2": "¿Cuál es mi animal espiritual?",
     "p": [
-     "El **animal espiritual** es una de las formas de guía más buscadas. En el chamanismo se le llama animal de poder, y se le encuentra en un viaje interior, al ritmo del tambor. No lo eliges tú: se presenta, a veces varias veces, y a menudo no es el que esperabas.",
+     "El **animal espiritual** es una de las formas de guía más buscadas. En el chamanismo se le llama animal de poder, y se le encuentra en un viaje interior, al ritmo del tambor. No lo eliges tú: se presenta, a veces varias veces, y a menudo no es el que esperabas. Entre los animales guía espirituales más citados están el lobo, el oso y el águila.",
      "En internet circulan listas con el animal espiritual de cada signo del zodiaco, de Aries a Piscis. No vienen de ninguna tradición antigua. El zodiaco chino sí asocia un animal a cada año de nacimiento, pero es otro sistema, que no habla de guías.",
      "Si quieres conocer tu animal espiritual, lo más fiel a la tradición es buscarlo en meditación. La página sobre el [trance chamánico](/es/trance-chamanico.html) te explica cómo transcurre ese viaje. Y en [El Bosque de los Espíritus Lobo](/es/mundos/meditacion-inmersiva-espiritus-lobo.html), un lobo lleno de estrellas te guía bajo la luna."
     ]
@@ -1909,11 +1925,11 @@
     "No hay un test que lo diga. Lo más sencillo es preguntarlo en meditación: entras en tu lugar seguro, formulas la intención de conocer a un guía y esperas sin forzar. Puede llegar una figura, un animal, una luz o solo una sensación. Si se repite en varias meditaciones, o te trae algo que te ayuda, es una buena pista."
    ],
    [
-    "¿Cómo contactar a tus guías espirituales?",
+    "¿Cómo contactar con tus guías espirituales?",
     "Busca un momento tranquilo y cierra los ojos. Imagina un lugar seguro, formula una intención sencilla y espera sin expectativas. Cuando algo aparezca, haz una sola pregunta y acoge la respuesta como venga. Da las gracias, vuelve despacio y anota lo vivido. La regularidad cuenta más que la intensidad: unos minutos con frecuencia valen más que un gran intento."
    ],
    [
-    "¿Qué es el yo superior?",
+    "Yo superior: ¿qué es y cómo escucharlo?",
     "En la espiritualidad contemporánea, el yo superior es la parte más sabia y amplia de ti, unida a lo divino o al todo. Se dice que conoce tu camino mejor que tu mente cotidiana. Para unos es un guía interior; para otros, una forma de hablar de la intuición profunda. Se le puede escuchar en el silencio de la meditación."
    ],
    [
@@ -1939,6 +1955,14 @@
    [
     "¿Qué es un bodhisattva?",
     "En el budismo mahayana, un bodhisattva es un ser que avanza hacia el despertar por el bien de todos los seres. La palabra sánscrita significa «ser de despertar». Los más conocidos encarnan una cualidad: Avalokiteśvara, llamado Guanyin en China, la compasión; Mañjuśrī, la sabiduría; Tara, la protección. En meditación, puedes acogerlos como guías que te ayudan a cultivar esa cualidad."
+   ],
+   [
+    "¿Cómo sentir a mi ángel de la guarda?",
+    "Muchas personas empiezan con la oración de la infancia, «Ángel de la guarda, dulce compañía». En meditación, puedes imaginar una presencia de luz a tu lado y respirar con ella unos minutos. No esperes una aparición: a menudo llega como una sensación de calma o de compañía."
+   ],
+   [
+    "¿Los guías espirituales te eligen o los eliges tú?",
+    "Muchas tradiciones dicen que el guía se presenta: no lo eliges tú, igual que el animal de poder del chamanismo. En meditación, basta con formular una intención y acoger lo que llegue. Si una figura no te hace bien, puedes despedirla: un guía acompaña con bondad."
    ]
   ],
   "blog": {
@@ -1948,21 +1972,21 @@
  },
  "emotions": {
   "slug": "gestion-de-las-emociones",
-  "seo": "Gestión de las emociones: autoestima, rueda y amor propio",
-  "desc": "Gestión de las emociones: rueda de las emociones, inteligencia emocional, autoestima, amor propio y ho’oponopono, con meditaciones guiadas gratis.",
+  "seo": "Gestión emocional: la rueda de las emociones y cómo usarla",
+  "desc": "Gestión emocional sin reprimir lo que sientes: la rueda de las emociones, la inteligencia emocional y el amor propio, con meditaciones guiadas gratis.",
   "h1": "Gestión emocional: cómo gestionar tus emociones con amor propio",
   "eyebrow": "Guía completa",
-  "lead": "La gestión de las emociones no consiste en dejar de sentir, sino en acoger lo que sientes, nombrarlo y elegir qué hacer con ello. Aquí encontrarás herramientas sencillas: la rueda de Plutchik, la autocompasión y la meditación.",
+  "lead": "La gestión emocional no consiste en dejar de sentir, sino en acoger lo que sientes, nombrarlo y elegir qué hacer con ello. Aquí encontrarás herramientas sencillas: la rueda de Plutchik, la autocompasión y la meditación.",
   "def": "La **gestión de las emociones** es la capacidad de reconocer lo que sientes, comprenderlo y responder de forma adecuada, sin reprimirlo ni dejarte arrastrar. No busca controlar las emociones, sino regularlas: acogerlas, nombrarlas, entender lo que piden y elegir qué hacer. Se aprende a cualquier edad y es la base del crecimiento emocional.",
-  "kw": "gestión de las emociones, gestionar las emociones, crecimiento emocional, rueda de las emociones, rueda de Plutchik, inteligencia emocional, amor propio, autocompasión, emociones y sentimientos, manejo de emociones, control de las emociones, crecimiento personal, desarrollo personal, educación emocional, quererse a uno mismo, amarse a uno mismo, diario emocional, gestión emocional, círculo de las emociones, controlar las emociones, autoestima, autoconfianza, autoestima baja, alta autoestima, los seis pilares de la autoestima, autoestima y amor propio, ho’oponopono, miedo al fracaso, miedo al abandono",
+  "kw": "gestión emocional, emociones, rueda de las emociones, emociones y sentimientos, inteligencia emocional, círculo de emociones, rueda de emociones de Plutchik, bienestar emocional, gestión de las emociones, controlar emociones",
   "sections": [
    {
     "id": "que-es",
     "h2": "¿Qué es la gestión de las emociones?",
     "p": [
      "La **gestión de las emociones** es el arte de convivir con lo que sientes. No consiste en no sentir nunca rabia ni tristeza, ni en sonreír siempre. Consiste en notar la emoción, darle un nombre, entender lo que te dice y elegir tu respuesta, en lugar de reaccionar en automático.",
-     "Por eso hoy se habla más de regular las emociones que de controlarlas. El control de las emociones evoca una lucha: apretar los dientes, tapar lo que molesta. La regulación es más suave. Acepta la emoción como una información útil y busca la forma de expresarla sin herirte ni herir a otros.",
-     "La gestión de las emociones, también llamada gestión emocional o manejo de emociones, se aprende como cualquier habilidad. Es la base del **crecimiento emocional**, un camino de cuatro gestos que se repiten toda la vida."
+     "Por eso hoy se habla más de regular las emociones que de controlarlas. Controlar emociones a la fuerza evoca una lucha: apretar los dientes, tapar lo que molesta. La regulación es más suave. Acepta la emoción como una información útil y busca la forma de expresarla sin herirte ni herir a otros.",
+     "La gestión de las emociones, también llamada gestión emocional o manejo de emociones, se aprende como cualquier habilidad. Es la base del **crecimiento emocional**: cuatro gestos que se repiten toda la vida y sostienen tu bienestar emocional."
     ],
     "ul": [
      "Acoger: dejar que la emoción esté ahí, sin juzgarla.",
@@ -1982,11 +2006,11 @@
    },
    {
     "id": "rueda",
-    "h2": "La rueda de las emociones de Plutchik y cómo usarla",
+    "h2": "La rueda de emociones de Plutchik y cómo usarla",
     "p": [
-     "En 1980, el psicólogo Robert Plutchik propuso un modelo que se ha vuelto clásico: la **rueda de las emociones**, también llamada círculo de las emociones. Distingue ocho emociones básicas, dispuestas en pares opuestos: alegría y tristeza, confianza y aversión, miedo e ira, sorpresa y anticipación.",
-     "Cada emoción tiene tres intensidades. La alegría va de la serenidad al éxtasis; la ira, del enfado a la furia. Las emociones vecinas se combinan entre sí: para Plutchik, la alegría y la confianza juntas dan el amor.",
-     "Para usarla, cuando sientas algo, busca primero la familia de la emoción y luego su intensidad. ¿Es tristeza o solo melancolía? ¿Ira o enfado? Esa precisión ya cambia algo: una emoción bien nombrada se vuelve más fácil de acompañar."
+     "En 1980, el psicólogo Robert Plutchik propuso un modelo que se ha vuelto clásico: la **rueda de las emociones**, también llamada círculo de emociones. Distingue ocho emociones primarias, dispuestas en pares opuestos: alegría y tristeza, confianza y aversión, miedo e ira, sorpresa y anticipación.",
+     "Cada emoción tiene tres intensidades. La alegría va de la serenidad al éxtasis; la ira, del enfado a la furia. Las emociones vecinas se combinan y dan emociones secundarias: para Plutchik, la alegría y la confianza juntas dan el amor. Sentir dos opuestas a la vez, como alegría y tristeza en una despedida, crea muchos conflictos emocionales.",
+     "Para usarla, cuando sientas algo, busca primero la familia de la emoción y luego su intensidad. ¿Es tristeza o solo melancolía? ¿Ira o enfado? Y ante una emoción positiva, ¿alegría o serenidad? Esa precisión ya cambia algo: una emoción bien nombrada se vuelve más fácil de acompañar."
     ],
     "visual": true
    },
@@ -2004,14 +2028,14 @@
     "p": [
      "La **inteligencia emocional** es la capacidad de reconocer y regular tus emociones y de comprender las de los demás. La formularon los psicólogos Peter Salovey y John Mayer en 1990. Daniel Goleman la popularizó en 1995 con su libro «Inteligencia emocional», que se convirtió en un éxito mundial.",
      "Goleman describe cinco grandes capacidades: conocer tus emociones, regularlas, motivarte, reconocer las emociones de los demás y cuidar las relaciones. Ninguna es un don fijo. Todas se entrenan, y la meditación es una forma tranquila de hacerlo.",
-     "La inteligencia emocional sirve en la vida diaria: para calmarte antes de responder, para entender a alguien que quieres, para trabajar en equipo. Por eso la educación emocional entra cada vez más en las escuelas, desde la infancia."
+     "La inteligencia emocional sirve en la vida diaria: para calmarte antes de responder, para entender a alguien que quieres, para trabajar en equipo. Por eso la educación emocional entra cada vez más en las escuelas, desde la infancia. Y nunca es tarde: lo que se llama control de emociones en adultos es, sobre todo, aprender a regularlas."
     ]
    },
    {
     "id": "acoger",
-    "h2": "Cómo gestionar las emociones en meditación: acoger una emoción difícil",
+    "h2": "Gestión emocional en meditación: acoger una emoción difícil",
     "p": [
-     "Cuando aparece una emoción fuerte, esta práctica te ayuda a atravesarla sin huir ni dejarte arrastrar. Puedes hacerla en cinco minutos, sentado o de pie. Para los momentos de urgencia, la categoría [4 Minutos](/es/meditaciones/meditacion-corta-4-minutos.html) propone sesiones como «Calmarse después de una discusión», de 3 minutos."
+     "Muchas técnicas para controlar las emociones son, en realidad, técnicas para acogerlas. Esta práctica te ayuda a atravesar una emoción fuerte sin huir ni dejarte arrastrar. Puedes hacerla en cinco minutos, sentado o de pie. Para los momentos de urgencia, la categoría [4 Minutos](/es/meditaciones/meditacion-corta-4-minutos.html) propone sesiones como «Calmarse después de una discusión», de 3 minutos. Y para ver [cómo gestionar las emociones](/es/objetivos/gestionar-las-emociones.html) paso a paso, sigue el programa por etapas de la app."
     ],
     "steps": [
      [
@@ -2047,7 +2071,7 @@
     "p": [
      "La **autocompasión** es ofrecerte la misma bondad que darías a un buen amigo cuando las cosas van mal. La psicóloga Kristin Neff, de la Universidad de Texas, la describe con tres componentes.",
      "El **amor propio** va un paso más allá. Quererse a uno mismo no es creerse perfecto, sino reconocer el valor de lo que ya eres, con tus límites. Amarse a uno mismo empieza por cosas concretas: una cualidad que puedes demostrar, una promesa que cumples, un descanso que te concedes.",
-     "Según Neff, la autocompasión tiene una ventaja sobre la autoestima: no depende de tus éxitos, y te acompaña también en los días malos. La categoría [Crecimiento emocional](/es/meditaciones/meditacion-guiada-amor-propio.html) reúne ocho meditaciones de 7 a 17 minutos para cultivarla."
+     "Según Neff, la autocompasión tiene una ventaja sobre la autoestima: no depende de tus éxitos, y te acompaña también en los días malos. Con el tiempo, se vuelve una fortaleza emocional tranquila. La categoría [Crecimiento emocional](/es/meditaciones/meditacion-guiada-amor-propio.html) reúne ocho meditaciones de 7 a 17 minutos para cultivarla."
     ],
     "cards": [
      [
@@ -2141,7 +2165,7 @@
   "app": {
    "h2": "El crecimiento emocional en MeditaDream",
    "intro": [
-    "La categoría «Crecimiento emocional» reúne ocho meditaciones de 7 a 17 minutos. «Acoger una emoción difícil», de 17 minutos, te enseña a observar una emoción como un científico bondadoso. «Desarrollar el amor propio», de 15 minutos, parte de algo concreto que ya está en ti. «Perdonar sin olvidar» te deja decidir qué hacer con un resentimiento.",
+    "La categoría «Crecimiento emocional» reúne ocho meditaciones para las emociones, de 7 a 17 minutos. «Acoger una emoción difícil», de 17 minutos, te enseña a observar una emoción como un científico bondadoso. «Desarrollar el amor propio», de 15 minutos, parte de algo concreto que ya está en ti. «Perdonar sin olvidar» te deja decidir qué hacer con un resentimiento.",
     "«Sombra & Bienestar» completa el camino con diez meditaciones, entre ellas «Trabajo con la Sombra» y «Perdonarte a Ti Mismo». Y en «4 Minutos» encontrarás pausas breves como «Cuando te sientes observado o juzgado»."
    ],
    "features": [
@@ -2193,7 +2217,7 @@
     "Haz pausas breves para preguntarte qué sientes y dónde lo sientes en el cuerpo. Nombra la emoción con precisión, respira alrededor de ella y pregúntate qué necesita antes de responder. Escribir unas líneas en un diario emocional ayuda a ver lo que se repite. Y si algo te desborda a menudo o te pesa mucho tiempo, pide consejo a un profesional."
    ],
    [
-    "¿Se pueden controlar las emociones?",
+    "¿Las emociones se pueden controlar?",
     "No del todo, y tampoco hace falta. Una emoción aparece antes de que la elijas, y querer controlar las emociones a la fuerza puede volverlas más intensas. Lo que sí puedes es regularlas: notar lo que sientes, nombrarlo, respirar con ello y elegir qué haces después. Por eso hoy se habla más de regulación que de control de las emociones. Se entrena con práctica, a cualquier edad."
    ],
    [

@@ -18,17 +18,17 @@
  },
  "assets/cats/catart-learningBasics.png": {
   "fr": {
-   "alt": "Un maître et son élève méditent près d'une pagode, parmi les lotus et les cerisiers en fleurs",
+   "alt": "Méditation pour débutants : un maître et son élève méditent près d'une pagode, parmi les lotus et les cerisiers en fleurs",
    "title": "Apprentissage — méditations guidées",
    "slug": "meditation-apprentissage"
   },
   "en": {
-   "alt": "A teacher and a student meditate beside a pagoda among lotus flowers and cherry blossoms",
+   "alt": "Free meditation for beginners: a teacher and a student meditate beside a pagoda among lotus flowers and cherry blossoms",
    "title": "Learning Basics — guided meditations",
    "slug": "learning-basics-guided-meditation"
   },
   "es": {
-   "alt": "Un maestro y su alumno meditan junto a una pagoda, entre lotos y cerezos en flor",
+   "alt": "Meditación para principiantes: un maestro y su alumno meditan junto a una pagoda, entre lotos y cerezos en flor",
    "title": "Aprendizaje — meditaciones guiadas",
    "slug": "meditacion-aprendizaje"
   }
@@ -40,138 +40,138 @@
    "slug": "meditation-4-minutes"
   },
   "en": {
-   "alt": "A man in a suit leans against a stone engraved “4 Min Meditation” in a garden",
+   "alt": "Quick meditation for anxiety: a man in a suit leans against a stone engraved “4 Min Meditation” in a garden",
    "title": "4 Minutes — guided meditations",
    "slug": "4-minutes-guided-meditation"
   },
   "es": {
-   "alt": "Un hombre de traje se apoya en una piedra grabada «4 Min Meditation» en un jardín",
+   "alt": "Meditación corta guiada: un hombre de traje se apoya en una piedra grabada «4 Min Meditation» en un jardín",
    "title": "4 Minutos — meditaciones guiadas",
    "slug": "meditacion-4-minutos"
   }
  },
  "assets/cats/catart-calm.png": {
   "fr": {
-   "alt": "Un homme médite en tailleur, les sept chakras colorés alignés le long du corps, près d'une cascade",
+   "alt": "Méditation pour dormir et relaxation guidée : un homme médite en tailleur, les sept chakras colorés alignés le long du corps, près d'une cascade",
    "title": "Corps, calme & sommeil — méditations guidées",
    "slug": "meditation-corps-calme-sommeil"
   },
   "en": {
-   "alt": "A man meditates cross-legged with the seven coloured chakras aligned along his body, by a waterfall",
+   "alt": "Guided deep sleep meditation and relaxation: a man meditates cross-legged with the seven coloured chakras aligned along his body, by a waterfall",
    "title": "Body, Calm & Sleep — guided meditations",
    "slug": "body-calm-sleep-guided-meditation"
   },
   "es": {
-   "alt": "Un hombre medita con las piernas cruzadas y los siete chakras de colores alineados en su cuerpo, junto a una cascada",
+   "alt": "Meditación para dormir y relajarse: un hombre medita con las piernas cruzadas y los siete chakras de colores alineados en su cuerpo, junto a una cascada",
    "title": "Cuerpo, calma y sueño — meditaciones guiadas",
    "slug": "meditacion-cuerpo-calma-y-sueno"
   }
  },
  "assets/cats/catart-emotionalGrowth.png": {
   "fr": {
-   "alt": "Un méditant au cœur lumineux, entouré de lanternes et de mots comme acceptation et libération émotionnelle",
+   "alt": "Cultiver l’amour de soi : un méditant au cœur lumineux, entouré de lanternes et de mots comme acceptation et libération émotionnelle",
    "title": "Croissance émotionnelle — méditations guidées",
    "slug": "meditation-croissance-emotionnelle"
   },
   "en": {
-   "alt": "A meditator with a glowing heart, surrounded by lanterns and words such as acceptance and emotional release",
+   "alt": "Guided self-love and self-compassion meditation: a meditator with a glowing heart, surrounded by lanterns and words such as acceptance and emotional release",
    "title": "Emotional Growth — guided meditations",
    "slug": "emotional-growth-guided-meditation"
   },
   "es": {
-   "alt": "Una persona que medita con el corazón luminoso, rodeada de faroles y de palabras como aceptación y liberación emocional",
+   "alt": "Meditación de amor propio y autoestima: una persona que medita con el corazón luminoso, rodeada de faroles y de palabras como aceptación y liberación emocional",
    "title": "Crecimiento emocional — meditaciones guiadas",
    "slug": "meditacion-crecimiento-emocional"
   }
  },
  "assets/cats/catart-shadow.png": {
   "fr": {
-   "alt": "Un guide pose les mains au-dessus d'une femme allongée, dans une pièce chaleureuse éclairée à la bougie",
+   "alt": "Enfant intérieur et travail de l’ombre : un guide pose les mains au-dessus d'une femme allongée, dans une pièce chaleureuse éclairée à la bougie",
    "title": "Ombre & Bien-être — méditations guidées",
    "slug": "meditation-ombre-bien-etre"
   },
   "en": {
-   "alt": "A guide holds his hands above a woman lying down, in a warm candle-lit room",
+   "alt": "Guided shadow work meditation: a guide holds his hands above a woman lying down, in a warm candle-lit room",
    "title": "Shadow & Well-being — guided meditations",
    "slug": "shadow-well-being-guided-meditation"
   },
   "es": {
-   "alt": "Un guía sostiene las manos sobre una mujer tumbada, en una sala cálida iluminada con velas",
+   "alt": "Trabajo de sombra y niño interior: un guía sostiene las manos sobre una mujer tumbada, en una sala cálida iluminada con velas",
    "title": "Sombra & Bienestar — meditaciones guiadas",
    "slug": "meditacion-sombra-bienestar"
   }
  },
  "assets/cats/catart-sacred.png": {
   "fr": {
-   "alt": "Un méditant assis au cœur d'une immense grotte de cristaux de glace",
+   "alt": "Les lieux sacrés du monde : un méditant assis au cœur d'une immense grotte de cristaux de glace",
    "title": "Lieux Sacrés — méditations guidées",
    "slug": "meditation-lieux-sacres"
   },
   "en": {
-   "alt": "A meditator sitting at the heart of a vast ice-crystal cave",
+   "alt": "Guided nature meditation in sacred places: a meditator sitting at the heart of a vast ice-crystal cave",
    "title": "Sacred Places — guided meditations",
    "slug": "sacred-places-guided-meditation"
   },
   "es": {
-   "alt": "Una persona medita en el centro de una inmensa gruta de cristales de hielo",
+   "alt": "Lugares sagrados del mundo: una persona medita en el centro de una inmensa gruta de cristales de hielo",
    "title": "Lugares Sagrados — meditaciones guiadas",
    "slug": "meditacion-lugares-sagrados"
   }
  },
  "assets/cats/catart-guides.png": {
   "fr": {
-   "alt": "Un moine en méditation entouré de quatre guides spirituels lumineux",
+   "alt": "Méditation pour rencontrer son guide spirituel : un moine en méditation entouré de quatre guides spirituels lumineux",
    "title": "Guides Spirituels — méditations guidées",
    "slug": "meditation-guides-spirituels"
   },
   "en": {
-   "alt": "A monk meditating, surrounded by four luminous spirit guides",
+   "alt": "Spirit guide meditation: a monk meditating, surrounded by four luminous spirit guides",
    "title": "Spirit Guides — guided meditations",
    "slug": "spirit-guides-guided-meditation"
   },
   "es": {
-   "alt": "Un monje en meditación rodeado de cuatro guías espirituales luminosos",
+   "alt": "Meditación para conectar con tus guías: un monje en meditación rodeado de cuatro guías espirituales luminosos",
    "title": "Guías Espirituales — meditaciones guiadas",
    "slug": "meditacion-guias-espirituales"
   }
  },
  "assets/cats/catart-higherKnowledge.png": {
   "fr": {
-   "alt": "Un sentier en escalier gravit une montagne de pagodes et de cerisiers jusqu'au sommet",
+   "alt": "Annales akashiques et retrouvailles : un sentier en escalier gravit une montagne de pagodes et de cerisiers jusqu'au sommet",
    "title": "Savoirs Supérieurs & Au-delà — méditations guidées",
    "slug": "meditation-savoirs-superieurs-au-dela"
   },
   "en": {
-   "alt": "A stepped path climbs a mountain of pagodas and cherry trees up to the summit",
+   "alt": "A guided journey to the Akashic Records: a stepped path climbs a mountain of pagodas and cherry trees up to the summit",
    "title": "Higher Knowledge & Beyond — guided meditations",
    "slug": "higher-knowledge-beyond-guided-meditation"
   },
   "es": {
-   "alt": "Un sendero de escalones sube por una montaña de pagodas y cerezos hasta la cima",
+   "alt": "Registros akáshicos y duelo: un sendero de escalones sube por una montaña de pagodas y cerezos hasta la cima",
    "title": "Conocimientos Superiores & Más Allá — meditaciones guiadas",
    "slug": "meditacion-conocimientos-superiores-mas-alla"
   }
  },
  "assets/cats/catart-shamanic.png": {
   "fr": {
-   "alt": "Un homme danse autour d'un feu de camp au cœur de la forêt, en transe chamanique",
+   "alt": "Méditation chamanique guidée : un homme danse autour d'un feu de camp au cœur de la forêt, en transe chamanique",
    "title": "Transe Chamanique — méditations guidées",
    "slug": "meditation-transe-chamanique"
   },
   "en": {
-   "alt": "A man dances around a campfire deep in the forest, in a shamanic trance",
+   "alt": "Guided shamanic meditation: a man dances around a campfire deep in the forest, in a shamanic trance",
    "title": "Shamanic Trance — guided meditations",
    "slug": "shamanic-trance-guided-meditation"
   },
   "es": {
-   "alt": "Un hombre baila alrededor de una hoguera en el corazón del bosque, en trance chamánico",
+   "alt": "Meditación chamánica guiada: un hombre baila alrededor de una hoguera en el corazón del bosque, en trance chamánico",
    "title": "Trance Chamánico — meditaciones guiadas",
    "slug": "meditacion-trance-chamanico"
   }
  },
  "assets/cats/catart-buddhist.png": {
   "fr": {
-   "alt": "Un moine médite dans une forêt parmi les statues de pierre des bodhisattvas et un éléphant",
+   "alt": "Méditation bouddhiste guidée : un moine médite dans une forêt parmi les statues de pierre des bodhisattvas et un éléphant",
    "title": "Méditations bouddhistes — méditations guidées",
    "slug": "meditation-meditations-bouddhistes"
   },
@@ -181,126 +181,126 @@
    "slug": "buddhist-meditations-guided-meditation"
   },
   "es": {
-   "alt": "Un monje medita en un bosque entre estatuas de piedra de bodhisattvas y un elefante",
+   "alt": "Meditación budista guiada: un monje medita en un bosque entre estatuas de piedra de bodhisattvas y un elefante",
    "title": "Meditaciones budistas — meditaciones guiadas",
    "slug": "meditacion-meditaciones-budistas"
   }
  },
  "assets/cats/catart-qigong.png": {
   "fr": {
-   "alt": "Un pratiquant de Qi Gong en mouvement, entouré de spirales d'énergie dorée, devant les montagnes",
+   "alt": "Qi Gong en ligne et méditation guidée : un pratiquant de Qi Gong en mouvement, entouré de spirales d'énergie dorée, devant les montagnes",
    "title": "Sensations & Qi Gong — méditations guidées",
    "slug": "meditation-sensations-qi-gong"
   },
   "en": {
-   "alt": "A qigong practitioner in motion, wrapped in spirals of golden energy, before the mountains",
+   "alt": "Guided qigong meditation for beginners: a qigong practitioner in motion, wrapped in spirals of golden energy, before the mountains",
    "title": "Sensations & Qigong — guided meditations",
    "slug": "sensations-qigong-guided-meditation"
   },
   "es": {
-   "alt": "Un practicante de qigong en movimiento, envuelto en espirales de energía dorada, ante las montañas",
+   "alt": "Qi gong en casa: un practicante de qigong en movimiento, envuelto en espirales de energía dorada, ante las montañas",
    "title": "Sensaciones y Qigong — meditaciones guiadas",
    "slug": "meditacion-sensaciones-y-qigong"
   }
  },
  "assets/cats/catart-visualisation.png": {
   "fr": {
-   "alt": "Un méditant projette depuis son front une pellicule d'images au milieu de la forêt",
+   "alt": "Comment visualiser : un méditant projette depuis son front une pellicule d'images au milieu de la forêt",
    "title": "Visualisation — méditations guidées",
    "slug": "meditation-visualisation"
   },
   "en": {
-   "alt": "A meditator projects a filmstrip of images from his forehead into the forest",
+   "alt": "Guided visualization meditation to train your inner eye: a meditator projects a filmstrip of images from his forehead into the forest",
    "title": "Visualization — guided meditations",
    "slug": "visualization-guided-meditation"
   },
   "es": {
-   "alt": "Una persona que medita proyecta desde su frente una película de imágenes en el bosque",
+   "alt": "Ejercicios de meditación: una persona que medita proyecta desde su frente una película de imágenes en el bosque",
    "title": "Visualización — meditaciones guiadas",
    "slug": "meditacion-visualizacion"
   }
  },
  "assets/cats/catart-miniAdventures.png": {
   "fr": {
-   "alt": "Un moine chevauche un tricératops dans la rue d'une ville ancienne : un voyage imaginaire dans le temps",
+   "alt": "Voyage imaginaire : un moine chevauche un tricératops dans la rue d'une ville ancienne : un voyage imaginaire dans le temps",
    "title": "Mini-aventures — méditations guidées",
    "slug": "meditation-mini-aventures"
   },
   "en": {
-   "alt": "A monk rides a triceratops down an old city street: an imaginary journey through time",
+   "alt": "Guided story meditation: a monk rides a triceratops down an old city street: an imaginary journey through time",
    "title": "Mini Adventures — guided meditations",
    "slug": "mini-adventures-guided-meditation"
   },
   "es": {
-   "alt": "Un monje cabalga un triceratops por la calle de una ciudad antigua: un viaje imaginario en el tiempo",
+   "alt": "Meditación de viaje en el tiempo: un monje cabalga un triceratops por la calle de una ciudad antigua: un viaje imaginario en el tiempo",
    "title": "Miniaventuras — meditaciones guiadas",
    "slug": "meditacion-miniaventuras"
   }
  },
  "assets/cats/catart-thirdEye.png": {
   "fr": {
-   "alt": "Une lumière violette s'élève du troisième œil d'un méditant, sous la lune et le soleil",
+   "alt": "Troisième œil : une lumière violette s'élève du troisième œil d'un méditant, sous la lune et le soleil",
    "title": "Troisième œil — méditations guidées",
    "slug": "meditation-troisieme-oeil"
   },
   "en": {
-   "alt": "Violet light rises from a meditator's third eye, beneath the moon and the sun",
+   "alt": "Guided third eye meditation on the Ajna chakra: violet light rises from a meditator's third eye, beneath the moon and the sun",
    "title": "Third Eye — guided meditations",
    "slug": "third-eye-guided-meditation"
   },
   "es": {
-   "alt": "Una luz violeta se eleva desde el tercer ojo de una persona que medita, bajo la luna y el sol",
+   "alt": "Cómo abrir el tercer ojo: una luz violeta se eleva desde el tercer ojo de una persona que medita, bajo la luna y el sol",
    "title": "Tercer ojo — meditaciones guiadas",
    "slug": "meditacion-tercer-ojo"
   }
  },
  "assets/cats/catart-cosmic.png": {
   "fr": {
-   "alt": "Un moine médite sur un rocher flottant au milieu des planètes",
+   "alt": "Non-dualité et éveil spirituel : un moine médite sur un rocher flottant au milieu des planètes",
    "title": "Cosmique & Vide — méditations guidées",
    "slug": "meditation-cosmique-vide"
   },
   "en": {
-   "alt": "A monk meditates on a floating rock among the planets",
+   "alt": "Guided non-dual meditation for spiritual awakening: a monk meditates on a floating rock among the planets",
    "title": "Cosmic & Void — guided meditations",
    "slug": "cosmic-void-guided-meditation"
   },
   "es": {
-   "alt": "Un monje medita sobre una roca flotante entre los planetas",
+   "alt": "Despertar espiritual y no dualidad: un monje medita sobre una roca flotante entre los planetas",
    "title": "Cósmico & Vacío — meditaciones guiadas",
    "slug": "meditacion-cosmico-vacio"
   }
  },
  "assets/cats/catart-trance.png": {
   "fr": {
-   "alt": "Trois personnes méditent sous un ciel de galaxie et d'aurores boréales, avec bols chantants et bougies",
+   "alt": "Rêve éveillé dirigé : trois personnes méditent sous un ciel de galaxie et d'aurores boréales, avec bols chantants et bougies",
    "title": "Conscience & Transe — méditations guidées",
    "slug": "meditation-conscience-transe"
   },
   "en": {
-   "alt": "Three people meditate under a galaxy sky and northern lights, with singing bowls and candles",
+   "alt": "Waking dream meditation: three people meditate under a galaxy sky and northern lights, with singing bowls and candles",
    "title": "Consciousness & Trance — guided meditations",
    "slug": "consciousness-trance-guided-meditation"
   },
   "es": {
-   "alt": "Tres personas meditan bajo un cielo de galaxias y auroras boreales, con cuencos tibetanos y velas",
+   "alt": "Meditación profunda: tres personas meditan bajo un cielo de galaxias y auroras boreales, con cuencos tibetanos y velas",
    "title": "Conciencia & Trance — meditaciones guiadas",
    "slug": "meditacion-conciencia-trance"
   }
  },
  "assets/cats/catart-astralJourneys.png": {
   "fr": {
-   "alt": "Un homme allongé dont le double lumineux s'élève vers un ciel étoilé : le voyage astral",
+   "alt": "Méditation guidée : un homme allongé dont le double lumineux s'élève vers un ciel étoilé : le voyage astral",
    "title": "Voyage Astral — méditations guidées",
    "slug": "meditation-voyage-astral"
   },
   "en": {
-   "alt": "A man lying down as his luminous double rises toward a starry sky: astral projection",
+   "alt": "Guided astral projection meditation and astral travel: a man lying down as his luminous double rises toward a starry sky: astral projection",
    "title": "Astral Projection — guided meditations",
    "slug": "astral-projection-guided-meditation"
   },
   "es": {
-   "alt": "Un hombre tumbado cuyo doble luminoso se eleva hacia un cielo estrellado: el viaje astral",
+   "alt": "Proyección astral guiada: un hombre tumbado cuyo doble luminoso se eleva hacia un cielo estrellado: el viaje astral",
    "title": "Viaje Astral — meditaciones guiadas",
    "slug": "meditacion-viaje-astral"
   }
@@ -359,289 +359,289 @@
  "assets/worlds/antarcticBase.jpg": {
   "fr": {
    "alt": "Une base de cristal bleu nichée sous la glace de l'Antarctique, sous un ciel de planètes",
-   "title": "Le Sanctuaire Gelé — méditation immersive",
+   "title": "Le Sanctuaire Gelé : méditation sous la glace",
    "slug": "meditation-immersive-sanctuaire-gele"
   },
   "en": {
    "alt": "A blue crystal base nestled beneath the Antarctic ice, under a sky of planets",
-   "title": "The Frozen Sanctuary — immersive meditation",
+   "title": "The Frozen Sanctuary: an immersive guided winter meditation",
    "slug": "frozen-sanctuary-immersive-meditation"
   },
   "es": {
    "alt": "Una base de cristal azul escondida bajo el hielo de la Antártida, bajo un cielo de planetas",
-   "title": "El Santuario Helado — meditación inmersiva",
+   "title": "Meditación de invierno en la Antártida: el santuario helado",
    "slug": "meditacion-inmersiva-santuario-helado"
   }
  },
  "assets/worlds/antiqueTemple.jpg": {
   "fr": {
    "alt": "Un moine médite sur la terrasse d'un temple ancien en bois, face au soleil couchant",
-   "title": "Le Temple Ancien — méditation immersive",
+   "title": "Le Temple Ancien : méditation, temple bouddhiste et brume",
    "slug": "meditation-immersive-temple-ancien"
   },
   "en": {
    "alt": "A monk meditates on the terrace of an ancient wooden temple, facing the setting sun",
-   "title": "The Ancient Temple — immersive meditation",
+   "title": "The Ancient Temple: an immersive Buddhist temple meditation",
    "slug": "ancient-temple-immersive-meditation"
   },
   "es": {
    "alt": "Un monje medita en la terraza de un templo antiguo de madera, frente al sol poniente",
-   "title": "El Templo Antiguo — meditación inmersiva",
+   "title": "Meditación con velas en un templo antiguo, entre budas gigantes",
    "slug": "meditacion-inmersiva-templo-antiguo"
   }
  },
  "assets/worlds/atlantis.jpg": {
   "fr": {
    "alt": "Un méditant assis devant les palais engloutis de l'Atlantide, dans une lumière bleue sous-marine",
-   "title": "L’Atlantide Sous-Marine — méditation immersive",
+   "title": "L’Atlantide Sous-Marine : méditation au fond de la mer",
    "slug": "meditation-immersive-latlantide-sous-marine"
   },
   "en": {
    "alt": "A meditator sits before the sunken palaces of Atlantis in blue underwater light",
-   "title": "Underwater Atlantis — immersive meditation",
+   "title": "Underwater Atlantis: an immersive underwater meditation",
    "slug": "underwater-atlantis-immersive-meditation"
   },
   "es": {
    "alt": "Una persona medita ante los palacios sumergidos de la Atlántida, en una luz azul submarina",
-   "title": "La Atlántida Sumergida — meditación inmersiva",
+   "title": "Meditación del mar: la Atlántida, ciudad sumergida",
    "slug": "meditacion-inmersiva-atlantida-sumergida"
   }
  },
  "assets/worlds/celestialLibrary.jpg": {
   "fr": {
    "alt": "Un sage à la peau bleue consulte un livre dans une immense bibliothèque dorée",
-   "title": "La Bibliothèque Céleste — méditation immersive",
+   "title": "La Bibliothèque Céleste : méditation de la bibliothèque akashique",
    "slug": "meditation-immersive-bibliotheque-celeste"
   },
   "en": {
    "alt": "A blue-skinned sage reads a book in a vast golden library",
-   "title": "The Celestial Library — immersive meditation",
+   "title": "The Celestial Library: an immersive akashic library meditation",
    "slug": "celestial-library-immersive-meditation"
   },
   "es": {
    "alt": "Un sabio de piel azul consulta un libro en una inmensa biblioteca dorada",
-   "title": "La Biblioteca Celeste — meditación inmersiva",
+   "title": "La biblioteca akáshica: meditación en una biblioteca celeste",
    "slug": "meditacion-inmersiva-biblioteca-celeste"
   }
  },
  "assets/worlds/cosmicTemple.jpg": {
   "fr": {
    "alt": "Un temple illuminé posé sur une île de nuages, au milieu des étoiles et des planètes",
-   "title": "Le Temple Cosmique — méditation immersive",
+   "title": "Le Temple Cosmique : méditation, baleine et étoiles",
    "slug": "meditation-immersive-temple-cosmique"
   },
   "en": {
    "alt": "An illuminated temple on an island of clouds, among stars and planets",
-   "title": "The Cosmic Temple — immersive meditation",
+   "title": "The Cosmic Temple: an immersive cosmic meditation",
    "slug": "cosmic-temple-immersive-meditation"
   },
   "es": {
    "alt": "Un templo iluminado sobre una isla de nubes, entre estrellas y planetas",
-   "title": "El Templo Cósmico — meditación inmersiva",
+   "title": "Meditación cósmica: el templo entre las estrellas",
    "slug": "meditacion-inmersiva-templo-cosmico"
   }
  },
  "assets/worlds/crystalCave.jpg": {
   "fr": {
    "alt": "Un moine en robe rouge médite entre d'immenses cristaux blancs",
-   "title": "La Grotte de Cristal Infinie — méditation immersive",
+   "title": "Méditation dans la Grotte de Cristal Infinie",
    "slug": "meditation-immersive-grotte-de-cristal-infinie"
   },
   "en": {
    "alt": "A monk in a red robe meditates among giant white crystals",
-   "title": "The Infinite Crystal Cave — immersive meditation",
+   "title": "The Infinite Crystal Cave: an immersive crystal meditation",
    "slug": "infinite-crystal-cave-immersive-meditation"
   },
   "es": {
    "alt": "Un monje con túnica roja medita entre inmensos cristales blancos",
-   "title": "La Gruta de Cristal Infinita — meditación inmersiva",
+   "title": "Meditación con cristales en una gruta de cristal infinita",
    "slug": "meditacion-inmersiva-gruta-de-cristal-infinita"
   }
  },
  "assets/worlds/desertOasis.jpg": {
   "fr": {
    "alt": "Un palais d'oasis et son bassin bordé de palmiers, éclairés de lanternes au crépuscule",
-   "title": "L’Oasis du Désert — méditation immersive",
+   "title": "L’Oasis du Désert : méditation dans le désert étoilé",
    "slug": "meditation-immersive-loasis-du-desert"
   },
   "en": {
    "alt": "An oasis palace and its palm-lined pool, lit by lanterns at dusk",
-   "title": "The Desert Oasis — immersive meditation",
+   "title": "The Desert Oasis: an immersive oasis meditation",
    "slug": "desert-oasis-immersive-meditation"
   },
   "es": {
    "alt": "Un palacio de oasis y su estanque rodeado de palmeras, iluminados con faroles al anochecer",
-   "title": "El Oasis del Desierto — meditación inmersiva",
+   "title": "Meditación de la luna: el oasis del desierto bajo las estrellas",
    "slug": "meditacion-inmersiva-oasis-del-desierto"
   }
  },
  "assets/worlds/earthCore.jpg": {
   "fr": {
    "alt": "Une vue en coupe de la Terre qui révèle un monde lumineux en son cœur",
-   "title": "Le Cœur de la Terre — méditation immersive",
+   "title": "Le Cœur de la Terre : méditation, ancrage et enracinement",
    "slug": "meditation-immersive-coeur-de-la-terre"
   },
   "en": {
    "alt": "A cutaway of the Earth revealing a glowing world at its core",
-   "title": "The Heart of the Earth — immersive meditation",
+   "title": "The Heart of the Earth: an immersive grounding meditation",
    "slug": "heart-of-the-earth-immersive-meditation"
   },
   "es": {
    "alt": "Una vista en corte de la Tierra que revela un mundo luminoso en su centro",
-   "title": "El Corazón de la Tierra — meditación inmersiva",
+   "title": "Meditación de arraigo: viaje al Corazón de la Tierra",
    "slug": "meditacion-inmersiva-corazon-de-la-tierra"
   }
  },
  "assets/worlds/galaxy.jpg": {
   "fr": {
    "alt": "Un train à vapeur file dans l'espace le long d'une galaxie spirale",
-   "title": "Voyage à Travers la Galaxie — méditation immersive",
+   "title": "Voyage à travers la galaxie : méditation, univers et étoiles filantes",
    "slug": "meditation-immersive-voyage-a-travers-la-galaxie"
   },
   "en": {
    "alt": "A steam train speeds through space along a spiral galaxy",
-   "title": "Journey Through the Galaxy — immersive meditation",
+   "title": "Journey Through the Galaxy: an immersive space meditation",
    "slug": "journey-through-the-galaxy-immersive-meditation"
   },
   "es": {
    "alt": "Un tren de vapor recorre el espacio junto a una galaxia en espiral",
-   "title": "Viaje a Través de la Galaxia — meditación inmersiva",
+   "title": "Meditación del universo: viaje guiado a través de la galaxia",
    "slug": "meditacion-inmersiva-viaje-a-traves-de-la-galaxia"
   }
  },
  "assets/worlds/himalayanMonastery.jpg": {
   "fr": {
    "alt": "Un moine contemple le lever du soleil depuis un monastère accroché aux montagnes de l'Himalaya",
-   "title": "Le Monastère à l’Aube — méditation immersive",
+   "title": "Le Monastère à l’Aube : méditation, montagne et lever du soleil",
    "slug": "meditation-immersive-monastere-a-laube"
   },
   "en": {
    "alt": "A monk watches the sunrise from a monastery perched in the Himalayas",
-   "title": "Monastery at Sunrise — immersive meditation",
+   "title": "Monastery at Sunrise: an immersive Himalayan mountain meditation",
    "slug": "monastery-at-sunrise-immersive-meditation"
   },
   "es": {
    "alt": "Un monje contempla el amanecer desde un monasterio colgado en el Himalaya",
-   "title": "El Monasterio al Amanecer — meditación inmersiva",
+   "title": "Meditación para empezar el día: el monasterio al amanecer",
    "slug": "meditacion-inmersiva-monasterio-al-amanecer"
   }
  },
  "assets/worlds/jungleRuins.jpg": {
   "fr": {
    "alt": "Des ruines de temple envahies par la jungle, un escalier de pierre et une cascade",
-   "title": "Les Ruines Oubliées — méditation immersive",
+   "title": "Les Ruines Oubliées : méditation dans la jungle",
    "slug": "meditation-immersive-ruines-oubliees"
   },
   "en": {
    "alt": "Temple ruins overgrown by the jungle, with a stone stairway and a waterfall",
-   "title": "The Forgotten Ruins — immersive meditation",
+   "title": "The Forgotten Ruins: an immersive jungle meditation",
    "slug": "forgotten-ruins-immersive-meditation"
   },
   "es": {
    "alt": "Ruinas de un templo cubiertas por la selva, con una escalera de piedra y una cascada",
-   "title": "Las Ruinas Olvidadas — meditación inmersiva",
+   "title": "Meditación en la selva: las ruinas olvidadas",
    "slug": "meditacion-inmersiva-ruinas-olvidadas"
   }
  },
  "assets/worlds/mirrorDimension.jpg": {
   "fr": {
    "alt": "Un long couloir blanc bordé de miroirs qui reflètent chacun un paysage différent",
-   "title": "La Dimension des Miroirs — méditation immersive",
+   "title": "La Dimension des Miroirs : méditation miroir immersive",
    "slug": "meditation-immersive-dimension-des-miroirs"
   },
   "en": {
    "alt": "A long white corridor lined with mirrors, each reflecting a different landscape",
-   "title": "The Mirror Dimension — immersive meditation",
+   "title": "The Mirror Dimension: an immersive self-awareness meditation",
    "slug": "mirror-dimension-immersive-meditation"
   },
   "es": {
    "alt": "Un largo pasillo blanco bordeado de espejos que reflejan paisajes distintos",
-   "title": "La Dimensión de los Espejos — meditación inmersiva",
+   "title": "Meditación de los espejos y la conciencia testigo",
    "slug": "meditacion-inmersiva-dimension-de-los-espejos"
   }
  },
  "assets/worlds/mushroomForest.jpg": {
   "fr": {
    "alt": "Une forêt enchantée de champignons violets lumineux le long d'un sentier",
-   "title": "La Forêt des Rêves — méditation immersive",
+   "title": "La Forêt des Rêves : méditation en forêt enchantée",
    "slug": "meditation-immersive-foret-des-reves"
   },
   "en": {
    "alt": "An enchanted forest of glowing violet mushrooms along a path",
-   "title": "The Dream Forest — immersive meditation",
+   "title": "The Dream Forest: an immersive enchanted forest meditation",
    "slug": "dream-forest-immersive-meditation"
   },
   "es": {
    "alt": "Un bosque encantado de setas violetas luminosas junto a un sendero",
-   "title": "El Bosque de los Sueños — meditación inmersiva",
+   "title": "Sueña despierto en esta meditación: bosque encantado y criaturas de luz",
    "slug": "meditacion-inmersiva-bosque-de-los-suenos"
   }
  },
  "assets/worlds/skyIsland.jpg": {
   "fr": {
    "alt": "Une île flottante au milieu des nuages, avec une maison, des palmiers et des cascades",
-   "title": "L’Île Flottante — méditation immersive",
+   "title": "L’Île Flottante, ta méditation : paix intérieure et ciel ouvert",
    "slug": "meditation-immersive-lile-flottante"
   },
   "en": {
    "alt": "A floating island in the clouds with a house, palm trees and waterfalls",
-   "title": "The Floating Island — immersive meditation",
+   "title": "The Floating Island: a safe place visualization above the clouds",
    "slug": "floating-island-immersive-meditation"
   },
   "es": {
    "alt": "Una isla flotante entre las nubes, con una casa, palmeras y cascadas",
-   "title": "La Isla Flotante — meditación inmersiva",
+   "title": "La isla flotante: meditación, lugar seguro y santuario interior",
    "slug": "meditacion-inmersiva-isla-flotante"
   }
  },
  "assets/worlds/treeOfConsciousness.jpg": {
   "fr": {
    "alt": "Un arbre gigantesque aux racines lumineuses au centre d'un cercle de pierres sacrées",
-   "title": "L’Arbre de Conscience — méditation immersive",
+   "title": "L’Arbre de Conscience : méditation de l’arbre et des étoiles",
    "slug": "meditation-immersive-larbre-de-conscience"
   },
   "en": {
    "alt": "A giant tree with glowing roots at the centre of a sacred stone circle",
-   "title": "The Tree of Consciousness — immersive meditation",
+   "title": "The Tree of Consciousness: an immersive tree of life meditation",
    "slug": "tree-of-consciousness-immersive-meditation"
   },
   "es": {
    "alt": "Un árbol gigantesco de raíces luminosas en el centro de un círculo de piedras sagradas",
-   "title": "El Árbol de la Conciencia — meditación inmersiva",
+   "title": "Meditación del árbol de la conciencia",
    "slug": "meditacion-inmersiva-arbol-de-la-conciencia"
   }
  },
  "assets/worlds/wolfForest.jpg": {
   "fr": {
    "alt": "Un loup blanc dans une forêt ancienne traversée de rayons de lumière",
-   "title": "La Forêt des Esprits Loups — méditation immersive",
+   "title": "La Forêt des Esprits Loups : méditation du loup, animal totem",
    "slug": "meditation-immersive-foret-des-esprits-loups"
   },
   "en": {
    "alt": "A white wolf in an ancient forest crossed by rays of light",
-   "title": "The Wolf Spirit Forest — immersive meditation",
+   "title": "The Wolf Spirit Forest: meet your wolf spirit animal under the aurora",
    "slug": "wolf-spirit-forest-immersive-meditation"
   },
   "es": {
    "alt": "Un lobo blanco en un bosque antiguo atravesado por rayos de luz",
-   "title": "El Bosque de los Espíritus Lobo — meditación inmersiva",
+   "title": "El lobo, tu animal tótem: meditación en el bosque de los espíritus lobo",
    "slug": "meditacion-inmersiva-bosque-de-los-espiritus-lobo"
   }
  },
  "assets/worlds/zenGarden.jpg": {
   "fr": {
    "alt": "Un jardin zen japonais de sable ratissé et de mousse, entre pagodes et érables",
-   "title": "Le Jardin Zen — méditation immersive",
+   "title": "Le Jardin Zen : méditation zen dans un jardin japonais",
    "slug": "meditation-immersive-jardin-zen"
   },
   "en": {
    "alt": "A Japanese zen garden of raked sand and moss between pagodas and maples",
-   "title": "The Zen Garden — immersive meditation",
+   "title": "The Zen Garden: a guided zen meditation among koi and cherry blossoms",
    "slug": "zen-garden-immersive-meditation"
   },
   "es": {
    "alt": "Un jardín zen japonés de arena rastrillada y musgo, entre pagodas y arces",
-   "title": "El Jardín Zen — meditación inmersiva",
+   "title": "El jardín zen: una meditación zen guiada entre cerezos y carpas",
    "slug": "meditacion-inmersiva-jardin-zen"
   }
  },

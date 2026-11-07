@@ -161,6 +161,22 @@
    "alt": "Settings: language, English, French and Spanish voices, voice speed and daily reminder",
    "w": 640,
    "h": 1326
+  },
+  {
+   "f": "en-11-meditation-timer.webp",
+   "titre": "Meditation timer",
+   "cap": "Pick a duration from 5 to 120 minutes and a chime every 1, 2, 5 or 10 minutes, or only at the end.",
+   "alt": "MeditaDream meditation timer: 10:00 countdown, durations from 5 to 120 minutes and an interval chime every 1 to 10 minutes",
+   "w": 640,
+   "h": 1310
+  },
+  {
+   "f": "en-12-timed-ambience.webp",
+   "titre": "Timed ambience",
+   "cap": "One ambient sound on its own, from 5 minutes to 1 hour, then it fades out.",
+   "alt": "Timed ambience screen: ambient sounds such as Woodland, After Rain and Ocean Waves, durations from 5 minutes to 1 hour and volume",
+   "w": 640,
+   "h": 1310
   }
  ],
  "es": [

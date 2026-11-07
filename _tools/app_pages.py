@@ -69,20 +69,23 @@ XL = {  # libellés des blocs ajoutés le 09-10 (mondes étoffés, pages thémat
 }
 # Pages thématiques (mots-clés des recherches réelles, 09-10) : textes dans _tools/themes_<langue>.json ;
 # séances et sons ajoutés ici depuis les données de l'app (jamais recopiés à la main).
-THEMES = ('sons', 'gratitude', 'oracle', 'dragon', 'journaux', 'creer')   # 23-10 : « reve » et « chakras » sont devenues des pages piliers ; 06-11 : pages des fonctionnalités
+THEMES = ('sons', 'gratitude', 'oracle', 'dragon', 'journaux', 'creer', 'minuteur')   # 23-10 : « reve » et « chakras » sont devenues des pages piliers ; 06-11 : pages des fonctionnalités ; 07-11 : minuteur (anglais seulement : « meditation timer », 1 000-10 000 recherches)
 THEME_PILIERS = {'sons': ['reve', 'mondes', 'chakras'], 'gratitude': ['emotions', 'guides', 'visualisation'],
-                 'oracle': ['emotions', 'guides'], 'dragon': ['mondes'], 'journaux': ['reve', 'emotions', 'guides'], 'creer': ['visualisation', 'mondes']}
+                 'oracle': ['emotions', 'guides'], 'dragon': ['mondes'], 'journaux': ['reve', 'emotions', 'guides'], 'creer': ['visualisation', 'mondes'],
+                 'minuteur': ['qigong', 'emotions']}
 PILIERS_T = {'fr': 'Les guides par thème', 'en': 'Guides by theme', 'es': 'Guías por tema'}
 THEME_IMG = {'sons': 'assets/worlds/mushroomForest.jpg', 'reve': 'assets/cats/catart-trance.png',
              'chakras': 'assets/cats/catart-calm.png', 'gratitude': 'assets/cats/catart-emotionalGrowth.png',
              'oracle': 'assets/worlds/celestialLibrary.jpg', 'dragon': 'assets/worlds/skyIsland.jpg',
-             'journaux': 'assets/worlds/desertOasis.jpg', 'creer': 'assets/worlds/zenGarden.jpg'}
+             'journaux': 'assets/worlds/desertOasis.jpg', 'creer': 'assets/worlds/zenGarden.jpg',
+             'minuteur': 'assets/worlds/himalayanMonastery.jpg'}
 THEME_SEANCES = {'reve': ['reves01', 'reves02', 'corpsc03', 'consci02', 'consci05'],
                  'chakras': ['chakra01', 'chakra02', 'cons02', 'corpsc01'],
                  'gratitude': ['croiss03', '4minut03', 'guides01', 'croiss02', 'cons06']}
 THEME_CATS = {'sons': ['calm', 'fourMin'], 'reve': ['calm', 'trance'], 'chakras': ['calm', 'thirdEye', 'qigong'], 'gratitude': ['emotionalGrowth', 'fourMin'],
               'oracle': ['fourMin', 'emotionalGrowth', 'calm'], 'dragon': ['learningBasics', 'fourMin'],
-              'journaux': ['calm', 'emotionalGrowth', 'shadow'], 'creer': ['learningBasics', 'visualisation']}
+              'journaux': ['calm', 'emotionalGrowth', 'shadow'], 'creer': ['learningBasics', 'visualisation'],
+              'minuteur': ['learningBasics', 'fourMin', 'buddhist', 'calm']}
 # 06-11 : captures d'écran (assets/shots/manifest.json : alt et légende par langue) et stades du dragon dans les sections
 try:
     SHOTS = {x['f']: x for l, xs in json.load(open(os.path.join(ROOT, 'assets', 'shots', 'manifest.json'), encoding='utf-8')).items() for x in xs}
@@ -91,6 +94,16 @@ except Exception:
 DRAGON_NOMS = {'fr': {'egg': 'Œuf de dragon', 'young': 'Jeune dragon', 'guardian': 'Dragon gardien', 'cosmic': 'Dragon cosmique'},
                'en': {'egg': 'Dragon Egg', 'young': 'Young Dragon', 'guardian': 'Guardian Dragon', 'cosmic': 'Cosmic Dragon'},
                'es': {'egg': 'Huevo de dragón', 'young': 'Dragón joven', 'guardian': 'Dragón guardián', 'cosmic': 'Dragón cósmico'}}
+
+
+def ancre(entree, nom):
+    """07-11 (carte des mots-clés) : texte des liens internes vers une catégorie ou un monde = son H1 (il porte le mot
+    principal de la page), raccourci à la partie avant les deux-points quand il dépasse 60 signes ; sinon le nom."""
+    h = (entree or {}).get('h1') or ''
+    if '{' in h or not h: return nom
+    if len(h) <= 60: return h
+    tete = re.split(r'\s*[:,]\s*', h)[0]
+    return tete if len(tete.split()) >= 2 and len(tete) <= 60 else nom
 
 
 def section_theme(x, lang):
@@ -576,7 +589,7 @@ def build(bb):
             lt = ''.join(f'<li><a href="/{lang}/{TH[k]["slug"]}.html">{E(TH[k]["h1"])}</a></li>' for k in THEMES if k in TH and cid in THEME_CATS.get(k, []))
             if lt: read += f'<h2>{E(XL[lang]["themes"])}</h2><ul class="ap-links">{lt}</ul>'
             sib = [k for k in cats if k != cid and CAT_GROUP.get(k) == g][:3] or [k for k in cats if k != cid][:3]
-            others = ''.join(f'<li><a href="{u(lang, "med", p["categories"][k]["slug"])}">{E(cats[k]["name"][lang])}</a></li>' for k in sib)
+            others = ''.join(f'<li><a href="{u(lang, "med", p["categories"][k]["slug"])}">{E(ancre(p["categories"][k], cats[k]["name"][lang]))}</a></li>' for k in sib)
             bc = [(t['home'], f'/{lang}/'), (t['med'], u(lang, 'med')), (cats[cid]['name'][lang], None)]
             faq = faq_categorie(lang, cid, c, s.get('faq'))   # 06-11 : durée, position, connexion en tête
             body = (crumbs(lang, bc) + f'<article><div class="ap-hero">{HERO_CAT(cid, lang)}'
@@ -624,7 +637,7 @@ def build(bb):
             ok = wid in VALIDES
             dl = ''.join(f'<dt>{E(t[k])}</dt><dd>{E(w[f][lang])}</dd>' for k, f in (('goal', 'objective'), ('inter', 'interactions'), ('sound', 'soundDesign'), ('visual', 'visualAtmosphere')) if ok and w.get(f, {}).get(lang))
             dl += f'<dt>{E(t["duration"])}</dt><dd>{w["minutes"][lang]} {E(t["min"])}</dd><dt>{E(t["moods"])}</dt><dd>{E(", ".join(w["moods"][lang]))}</dd>'
-            others = ''.join(f'<li><a href="{u(lang, "world", p["worlds"][k]["slug"])}">{E(ws[k]["name"][lang])}</a></li>' for k in [k for k in ws if k != wid] if k in p['worlds'])   # 15-10 : tous les autres mondes (maillage)
+            others = ''.join(f'<li><a href="{u(lang, "world", p["worlds"][k]["slug"])}">{E(ancre(p["worlds"][k], ws[k]["name"][lang]))}</a></li>' for k in [k for k in ws if k != wid] if k in p['worlds'])   # 15-10 : tous les autres mondes (maillage) ; 07-11 : texte = H1
             bc = [(t['home'], f'/{lang}/'), (t['worlds'], u(lang, 'world')), (w['name'][lang], None)]
             lead = s.get('lead') or (w['tagline'][lang] if ok else s['desc'])
             body = (crumbs(lang, bc) + f'<article class="ap-world"><h1>{E(s["h1"])}</h1><p class="lead">{E(lead)}</p>'
@@ -727,7 +740,7 @@ def themes(bb, cat, P):
                     f'<li><h3>{E(m["title"][lang])}</h3><div class="d">{m["dur"]} {E(t["min"])} · {E(t["level"].get(m["level"], m["level"]))} · '
                     f'<a href="{u(lang, "med", p["categories"][cid]["slug"])}">{E(cat["categories"][cid]["name"][lang])}</a></div><p>{E(m["desc"][lang])}</p></li>'
                     for cid, m in ms) + '</ol>')
-            liens = ''.join(f'<li><a href="{u(lang, "med", p["categories"][c]["slug"])}">{E(cat["categories"][c]["name"][lang])}</a></li>' for c in THEME_CATS.get(key, []))
+            liens = ''.join(f'<li><a href="{u(lang, "med", p["categories"][c]["slug"])}">{E(ancre(p["categories"][c], cat["categories"][c]["name"][lang]))}</a></li>' for c in THEME_CATS.get(key, []))
             liens += ''.join(f'<li><a href="{theme_path(lang, k)}">{E(D[k]["h1"])}</a></li>' for k in THEMES if k != key and k in D)
             liens += piliers.links_li(sys.modules[__name__], lang, THEME_PILIERS.get(key, []))
             bc = [(t['home'], f'/{lang}/'), (s['h1'], None)]
@@ -761,7 +774,7 @@ def practice_links(lang, group):
     ks = [k for k, g in CAT_GROUP.items() if g == group][:3]
     pl = piliers.links_li(sys.modules[__name__], lang, piliers.GROUP_PILIERS.get(group, []))   # 23-10 : guide complet du thème
     if not ks and not pl: return ''
-    li = pl + ''.join(f'<li><a href="{u(lang, "med", P[lang]["categories"][k]["slug"])}">{E(cat["categories"][k]["name"][lang])}</a></li>' for k in ks)
+    li = pl + ''.join(f'<li><a href="{u(lang, "med", P[lang]["categories"][k]["slug"])}">{E(ancre(P[lang]["categories"][k], cat["categories"][k]["name"][lang]))}</a></li>' for k in ks)
     return f'<h2>{E(L[lang]["practice"])}</h2><ul class="ap-links">{li}</ul>'
 
 
