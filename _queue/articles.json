@@ -1248,7 +1248,7 @@
   "sections": [
    "science"
   ],
-  "image": 14,
+  "image": null,
   "slug": {
    "fr": "bienfaits-de-la-meditation-science",
    "en": "meditation-benefits-science",
@@ -1801,7 +1801,7 @@
   "sections": [
    "interactives"
   ],
-  "image": null,
+  "image": 19,
   "slug": {
    "fr": "seance-de-meditation-guidee",
    "en": "guided-meditation-tips",
