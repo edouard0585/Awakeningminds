@@ -35,9 +35,9 @@
  },
  "assets/cats/catart-fourMin.png": {
   "fr": {
-   "alt": "Un homme en costume s'adosse à une pierre gravée « 4 Min Meditation » dans un jardin",
+   "alt": "Méditation rapide : un homme en costume s'adosse à une pierre gravée « 4 Min Meditation » dans un jardin",
    "title": "4 Minutes — méditations guidées",
-   "slug": "meditation-5-minutes"
+   "slug": "meditation-rapide"
   },
   "en": {
    "alt": "Quick meditation for anxiety: a man in a suit leans against a stone engraved “4 Min Meditation” in a garden",
@@ -86,17 +86,17 @@
  },
  "assets/cats/catart-shadow.png": {
   "fr": {
-   "alt": "Enfant intérieur et travail de l’ombre : un guide pose les mains au-dessus d'une femme allongée, dans une pièce chaleureuse éclairée à la bougie",
+   "alt": "Enfant intérieur : un guide pose les mains au-dessus d'une femme allongée, dans une pièce chaleureuse éclairée à la bougie",
    "title": "Ombre & Bien-être — méditations guidées",
    "slug": "enfant-interieur"
   },
   "en": {
-   "alt": "Guided shadow work meditation: a guide holds his hands above a woman lying down, in a warm candle-lit room",
+   "alt": "Meet your shadow gently: a guide holds his hands above a woman lying down, in a warm candle-lit room",
    "title": "Shadow & Well-being — guided meditations",
    "slug": "shadow-well-being-guided-meditation"
   },
   "es": {
-   "alt": "Trabajo de sombra y niño interior: un guía sostiene las manos sobre una mujer tumbada, en una sala cálida iluminada con velas",
+   "alt": "Un guía sostiene las manos sobre una mujer tumbada, en una sala cálida iluminada con velas",
    "title": "Sombra & Bienestar — meditaciones guiadas",
    "slug": "meditacion-sombra-bienestar"
   }
@@ -193,12 +193,12 @@
    "slug": "qi-gong-en-ligne"
   },
   "en": {
-   "alt": "Guided qigong meditation for beginners: a qigong practitioner in motion, wrapped in spirals of golden energy, before the mountains",
+   "alt": "Qigong meditation: a qigong practitioner in motion, wrapped in spirals of golden energy, before the mountains",
    "title": "Sensations & Qigong — guided meditations",
    "slug": "qigong-meditation"
   },
   "es": {
-   "alt": "Qi gong en casa: un practicante de qigong en movimiento, envuelto en espirales de energía dorada, ante las montañas",
+   "alt": "Chi kung guiado: un practicante de qigong en movimiento, envuelto en espirales de energía dorada, ante las montañas",
    "title": "Sensaciones y Qigong — meditaciones guiadas",
    "slug": "chi-kung"
   }
@@ -290,7 +290,7 @@
  },
  "assets/cats/catart-astralJourneys.png": {
   "fr": {
-   "alt": "Méditation guidée : un homme allongé dont le double lumineux s'élève vers un ciel étoilé : le voyage astral",
+   "alt": "Sortie astrale guidée : un homme allongé dont le double lumineux s'élève vers un ciel étoilé : le voyage astral",
    "title": "Voyage Astral — méditations guidées",
    "slug": "projection-astrale"
   },
@@ -300,7 +300,7 @@
    "slug": "guided-astral-projection-meditation"
   },
   "es": {
-   "alt": "Proyección astral guiada: un hombre tumbado cuyo doble luminoso se eleva hacia un cielo estrellado: el viaje astral",
+   "alt": "Viaje astral guiado: un hombre tumbado cuyo doble luminoso se eleva hacia un cielo estrellado: el viaje astral",
    "title": "Viaje Astral — meditaciones guiadas",
    "slug": "proyeccion-astral"
   }
