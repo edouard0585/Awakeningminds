@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-"""07-11 — liens internes automatiques dans les articles du blog (carte des mots-clés de meditadream.com).
+"""07-11 — liens internes automatiques sur tout le site (carte des mots-clés de meditadream.com) : articles du blog,
+pages de catégories, mondes, guides, pages de fonctionnalités et pages objectifs (pas l'accueil, ni les listes du blog).
 
 Chaque page du site a un mot-clé principal (_tools/liens_cles.json, exporté par la carte des mots-clés). Quand un
 article publié contient, dans un paragraphe ou une liste, le mot principal d'une AUTRE page déjà en ligne, ce mot
@@ -58,10 +59,15 @@ def _deja(url, hrefs):
     return any(bout and bout in h for h in hrefs)
 
 
+EXCLUS = ('ap-prat', 'afaq', 'crumbs', 'ap-list', 'ob-med', 'ob-feat', 'ap-ob', 'ap-links', 'ap-blog', 'pl-blog', 'pl-app',
+          'ob-tl', 'ob-road', 'objs', 'mnu', 'mdb', 'ap-shot', 'ob-hub', 'ob-others', 'ap-sons', 'cta')
+
+
 def lier(page, lang, url_page, cib):
-    """ajoute au plus MAX liens dans le corps de l'article (entre <article class="post"> et la FAQ)."""
-    i = page.find('<article class="post">')
-    if i < 0: return page, 0
+    """ajoute au plus MAX liens dans le corps de la page (de la balise <article> à la FAQ)."""
+    m0 = re.search(r'<article[\s>]', page)
+    if not m0: return page, 0
+    i = m0.start()
     j = page.find('<section class="afaq">', i)
     j = page.find('</article>', i) if j < 0 else j
     corps = AUTO.sub(r'\1', page[i:j])
@@ -83,7 +89,7 @@ def lier(page, lang, url_page, cib):
         if not p.strip(): continue
         tags = {t for t, _ in pile}
         if not tags & {'p', 'li'} or tags & INTERDITS: continue
-        if any('ap-prat' in a or 'afaq' in a or 'crumbs' in a for _, a in pile): continue
+        if any(x in a for _, a in pile for x in EXCLUS): continue
         for rx, url in cib:
             if url == url_page or url in faits or _deja(url, hrefs): continue
             m = rx.search(p)
@@ -95,21 +101,23 @@ def lier(page, lang, url_page, cib):
 
 
 def main():
-    total = 0
+    total, pages = 0, 0
     for lang in ('fr', 'en', 'es'):
         cib = cibles(lang)
         if not cib: continue
-        d = os.path.join(ROOT, lang, 'blog')
-        for f in sorted(os.listdir(d)) if os.path.isdir(d) else []:
-            if not f.endswith('.html') or f == 'index.html': continue
-            ch = os.path.join(d, f)
-            s = open(ch, encoding='utf-8').read()
-            if '<article class="post">' not in s: continue
-            neuf, n = lier(s, lang, f'/{lang}/blog/{f}', cib)
-            if neuf != s:
-                open(ch, 'w', encoding='utf-8').write(neuf)
-            total += n
-    print(f'✓ liens internes automatiques (mots-clés) : {total}')
+        for dp, dn, fn in os.walk(os.path.join(ROOT, lang)):
+            rel = os.path.relpath(dp, ROOT).replace(os.sep, '/')
+            if '/formation-' in rel + '/': continue
+            for f in sorted(fn):
+                if not f.endswith('.html') or f == 'index.html': continue
+                ch = os.path.join(dp, f)
+                s = open(ch, encoding='utf-8').read()
+                if 'http-equiv="refresh"' in s[:4000] or not re.search(r'<article[\s>]', s): continue
+                neuf, n = lier(s, lang, f'/{rel}/{f}', cib)
+                if neuf != s:
+                    open(ch, 'w', encoding='utf-8').write(neuf)
+                total += n; pages += 1 if n else 0
+    print(f'✓ liens internes automatiques (mots-clés) : {total} sur {pages} pages')
 
 
 if __name__ == '__main__':

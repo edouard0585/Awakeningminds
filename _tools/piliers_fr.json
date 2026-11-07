@@ -1,9 +1,9 @@
 {
  "mondes": {
   "slug": "",
-  "seo": "Méditation immersive : 17 mondes pour un voyage intérieur",
-  "desc": "17 méditations immersives guidées : temple dans la brume, Atlantide, forêt des esprits loups. Un voyage intérieur de 13 à 20 minutes, gratuit et hors ligne.",
-  "h1": "Mondes immersifs : la méditation comme un voyage intérieur",
+  "seo": "Méditation immersive : 17 mondes à explorer les yeux fermés",
+  "desc": "17 méditations immersives guidées : temple dans la brume, Atlantide, forêt des esprits loups. Un voyage de 13 à 20 minutes, gratuit et hors ligne.",
+  "h1": "Mondes immersifs : quand la méditation devient un voyage",
   "eyebrow": "Guide complet",
   "lead": "La méditation immersive t’emmène dans un lieu imaginaire complet, du premier pas jusqu’au retour. MeditaDream propose 17 mondes, de 13 à 20 minutes : un temple dans la brume, une cité engloutie, une forêt gardée par des loups.",
   "def": "La **méditation immersive** est une visualisation guidée qui te plonge tout entier dans un lieu imaginaire. Une voix te guide pas à pas : une scène d’ouverture, des sons, une intention, quelques gestes en imagination, puis un retour doux. Ton attention se pose dans ce décor, et le reste de la journée s’éloigne un moment.",
@@ -233,7 +233,7 @@
   "slug": "voyage-astral",
   "seo": "Voyage astral : définition, techniques et méditation guidée",
   "desc": "Voyage astral, ou astral projection : définition, techniques connues, témoignages, précautions et méditations guidées gratuites pour t’y préparer.",
-  "h1": "Voyage astral : comprendre la projection astrale et s'y préparer",
+  "h1": "Voyage astral : comprendre la sortie hors du corps et s'y préparer",
   "eyebrow": "Guide complet",
   "lead": "Le voyage astral fascine depuis plus d’un siècle. Voici ce que recouvrent les mots et ce que la science a observé. Tu trouveras aussi les techniques connues, et une façon douce de t’y préparer.",
   "def": "Le **voyage astral** est l’impression de quitter son corps physique et de percevoir le monde depuis un autre point de vue, souvent au-dessus de soi. Les traditions ésotériques y voient un « corps astral » qui se détache. La science parle d’expérience de sortie de corps, sans se prononcer sur un second corps.",
@@ -1127,7 +1127,7 @@
  },
  "reve": {
   "slug": "reve-lucide",
-  "seo": "Rêve lucide, interprétation des rêves et méditation guidée",
+  "seo": "Rêve lucide : définition, techniques et méditation guidée",
   "desc": "Rêve lucide : définition, techniques reconnues (MILD, WBTB), journal et interprétation des rêves, paralysie du sommeil, et une méditation guidée gratuite.",
   "h1": "Rêve lucide : savoir que l'on rêve, et apprendre à le faire",
   "eyebrow": "Guide complet",
