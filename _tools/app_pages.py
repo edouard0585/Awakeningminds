@@ -782,6 +782,7 @@ def practice_links(lang, group):
 # puis un bouton de téléchargement de MeditaDream ») : en haut de chaque article, LA catégorie de séances de son sujet.
 # Motifs lus sur l'adresse française de l'article, du plus précis au plus large ; à défaut, le groupe du blog.
 CAT_ARTICLE = [
+    (r'oponopono', 'shadow'),   # 07-11 : article ho’oponopono → séance ombre01 (Ombre & Bien-être)
     (r'troisieme-oeil|pineale|ajna', 'thirdEye'),
     (r'qi-gong|qigong|chi-kung|tai-chi', 'qigong'),
     (r'visualis|imagerie|creativite|symbole|archetype|mondes-interieurs', 'visualisation'),
@@ -820,6 +821,7 @@ CARTE_T = {
 
 # 07-11 : objectif (pages _tools/objectifs.py) le plus proche d'un article → lien vers son programme dans l'encadré « À pratiquer »
 OBJ_ARTICLE = [
+    (r'oponopono', '13'),   # 07-11 : article ho’oponopono → programme deuil, pardon, lâcher-prise
     (r'reve-lucide|(^|-)reves?(-|$)|songe|cauchemar', '12'),
     (r'deuil|pardon|lacher-prise|defunt|retrouvailles|memento-mori', '13'),
     (r'anxi|panique|angoiss|grounding', '03'),
