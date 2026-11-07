@@ -1,5 +1,8 @@
 {
  "antiqueTemple": {
+  "h2": {
+   "deroule": "Méditation temple bouddhiste : comment se déroule la séance ?"
+  },
   "pour_qui": "Le Temple Ancien est un abri pour les soirs où tu portes trop de choses. Si les lieux sacrés et la lueur des bougies t’apaisent, ce monde est pour toi. Pendant la méditation, bruit de la pluie et son de cloche t’invitent à ralentir. Choisis-le quand tu cherches à te sentir en sécurité, ancré, comme hors du temps.",
   "deroule": "Tout commence sur des marches de pierre, sous la pluie, dans la brume de la montagne. Une renarde blanche aux neuf queues te guide jusqu’à une porte immense, qui s’ouvre sous ta paume. À l’intérieur, des centaines de bougies brillent devant de grands bouddhas de pierre, et une cloche sonne un seul coup. Un vieux gardien au masque de bois te remet une petite bougie. Tu lui confies un poids, puis tu la laisses monter rejoindre des milliers d’autres. Une petite porte rouge s’ouvre ensuite sur ton paysage intérieur. À la fin, l’aube dore le temple et les bougies pâlissent.",
   "conseils": [
@@ -23,7 +26,10 @@
   ]
  },
  "cosmicTemple": {
-  "pour_qui": "Le Temple Cosmique s’adresse aux esprits qui aiment l’immensité, les grandes questions et l’expansion de conscience. Les amoureux des étoiles y croiseront aussi une baleine céleste. Quand la journée t’a semblé étroite, il t’ouvre un espace sans limite. Comme il est court, tu peux l’écouter en fin d’après-midi comme le soir, pour goûter un calme vaste.",
+  "h2": {
+   "deroule": "Méditation baleine : comment se déroule le voyage ?"
+  },
+  "pour_qui": "Le Temple Cosmique s’adresse aux esprits qui aiment l’immensité et les grandes questions. Dans cette méditation, expansion de conscience et sérénité vont de pair. Les amoureux des étoiles y croiseront aussi une baleine céleste. Quand la journée t’a semblé étroite, il t’ouvre un espace sans limite. Comme il est court, tu peux l’écouter en fin d’après-midi comme le soir, pour goûter un calme vaste.",
   "deroule": "Tu t’élèves d’abord sans poids, dans une obscurité violette et chaude. Une baleine céleste, grande comme une colline, te prend sur son dos et fait le tour d’un temple de marbre blanc. Elle t’offre une sphère de cristal où tourne une galaxie miniature. Dans le temple, tu marches sur un sol transparent, au-dessus des étoiles. Une horloge des âges te montre la naissance d’un peuple de lumière, sur une planète lointaine. Au centre, tu t’assieds dans un grand cercle, et une étoile naît sous tes pieds. Puis le temple s’efface en un point de lumière dorée.",
   "conseils": [
    "Allonge-toi si tu peux : la séance commence par une sensation de flotter.",
@@ -69,6 +75,9 @@
   ]
  },
  "galaxy": {
+  "h2": {
+   "deroule": "Méditation univers : comment se déroule le voyage ?"
+  },
   "pour_qui": "Ce voyage s’adresse aux rêveurs, et à tous ceux qui gardent l’émerveillement d’un enfant devant le ciel étoilé. Il tombe bien quand tu veux lâcher prise et regarder loin, très loin de ta journée. Le soir, profite-en bien installé, dans un fauteuil ou dans ton lit.",
   "deroule": "Tu flottes d’abord dans une obscurité bleue, pleine de grains d’argent. Un train de lumière s’arrête près de toi, et tu prends place près d’une grande fenêtre. Une baleine de lumière longe le wagon, puis un guide vient s’asseoir à tes côtés. Le train traverse les anneaux de Saturne et une pluie d’étoiles filantes. Sur un astéroïde, un marchand t’offre une fiole où tourne une planète minuscule. Un anneau de lumière te mène à l’autre bout de la galaxie, où tu laisses partir un poids par la vitre. Puis le train te ramène, la fiole dans la main.",
   "conseils": [
@@ -92,7 +101,10 @@
   ]
  },
  "earthCore": {
-  "pour_qui": "Tu te sens dispersé ou pressé ? Voici une méditation pour se recentrer. Le Cœur de la Terre t’emmène tout en bas, vers ce qui ne bouge pas. Il plaira aux amoureux de la pierre, des grottes et des mondes très anciens. Écoute-le après une journée chargée, quand tu veux te sentir stable.",
+  "h2": {
+   "qui": "Méditation ancrage, matin ou soir : pour qui ?"
+  },
+  "pour_qui": "Tu te sens dispersé ou pressé ? Voici une méditation pour se recentrer. Le Cœur de la Terre t’emmène tout en bas, vers ce qui ne bouge pas. Il plaira aux amoureux de la pierre, des grottes et des mondes très anciens. Écoute-le au réveil pour partir stable, ou après une journée chargée.",
   "deroule": "Tu descends lentement sous la surface, par une ouverture d’où sort un air chaud. Le chemin longe des veines de cristal jusqu’à une caverne aux pierres bleues, vertes et dorées. Ta main se pose sur la paroi, qui s’éclaire au rythme de ton souffle. Des rivières de lumière orange te mènent à un monde caché, éclairé par un soleil intérieur couleur de miel. Au pied d’un arbre immense, tu poses les mains sur un œuf d’ambre, d’où sort un petit dragon. Un peuple lumineux te confie un message, puis une colonne de lumière te remonte à la surface.",
   "conseils": [
    "Assieds-toi les pieds bien à plat, pour sentir le sol pendant toute la descente.",
@@ -142,6 +154,9 @@
   ]
  },
  "skyIsland": {
+  "h2": {
+   "qui": "Méditation paix intérieure : pour qui, et à quel moment ?"
+  },
   "pour_qui": "L’Île Flottante est ton refuge personnel, haut au-dessus des nuages. Les grands oiseaux, les cascades et les arbres anciens y règnent. Un lieu sûr, rien qu’à toi, où tu te sens libre et loin du bruit. Comme le voyage suit la fin du jour, écoute-la plutôt au coucher du soleil ou en début de soirée.",
   "deroule": "Un pont de nuages se déroule jusqu’à ton île, verte dessus et dorée sur les bords. Tu marches dans l’herbe chaude, puis tu t’assieds au bord d’une cascade, les pieds dans le ciel. Un grand oiseau blanc et doré te porte jusqu’à l’arbre ancien du centre. Là, ton dos repose contre le tronc, et un cerf blanc ailé te confie une graine. Au coucher du soleil, une baleine blanche passe sous l’île. Le soir venu, les lanternes s’allument, et tu souffles la graine vers le ciel ou l’océan : une toute petite île commence à naître.",
   "conseils": [
@@ -169,6 +184,9 @@
   ]
  },
  "zenGarden": {
+  "h2": {
+   "deroule": "Comment se déroule cette méditation zen ?"
+  },
   "pour_qui": "Le Jardin Zen est là pour les jours où tout va trop vite et où tu cherches l’équilibre. Si tu aimes les jardins japonais, le thé et les gestes lents, tu t’y sentiras chez toi. Écoute-le en fin de journée ou un matin tranquille, pour un calme simple et élégant.",
   "deroule": "Tu entres dans un jardin japonais juste après une pluie douce, au son lointain d’une cloche. Un cerisier s’ouvre d’un seul coup au-dessus du chemin, et une pluie de pétales roses t’entoure. Sur un petit pont de bois, tu nourris les carpes, et la carpe d’or vient frôler tes doigts. Une fontaine de bambou bat la mesure. Près du sable ratissé, un vieux jardinier te sert un thé : dans la vapeur passent un dragon et un phénix. Le soir, les lanternes de pierre s’allument, et le bois de bambous se met à chanter parmi les lucioles.",
   "conseils": [
@@ -215,6 +233,9 @@
   ]
  },
  "himalayanMonastery": {
+  "h2": {
+   "qui": "Méditation montagne : pour qui, et à quel moment ?"
+  },
   "pour_qui": "Le Monastère à l’Aube est une méditation guidée du matin. Il accompagne tous les moments où tu veux commencer quelque chose avec clarté. La montagne, le silence et la méditation tibétaine te parlent ? Tu y vivras le lever du jour comme un départ paisible, guidé par un vieux moine.",
   "deroule": "Tout commence avant l’aube, devant le portail d’un monastère de montagne. Un vieux moine en robe rouge sombre t’accueille, une lampe à beurre à la main. Il te mène dans un jardin couvert de givre, où tu fais tourner des moulins à prières. Dans la cour, tu confies une pensée tendre au cheval de vent d’un drapeau de prière. Sur un balcon de bois, un bol de thé entre les mains, tu écoutes l’histoire du monastère. Puis le soleil se lève sur les sommets enneigés, et sa lumière descend jusqu’à toi. La vallée s’éveille, et tu repars avec cette clarté.",
   "conseils": [
@@ -237,11 +258,14 @@
    ],
    [
     "Que veut dire om mani padme hum ?",
-    "C’est le mantra tibétain de la compassion, souvent traduit par « le joyau dans le lotus ». Dans les monastères, il est gravé sur les moulins à prières. Ici, tu en fais tourner toute une rangée, dans un jardin couvert de givre."
+    "Définition : om mani padme hum est le mantra tibétain de la compassion. On le traduit souvent par « le joyau dans le lotus ». Dans les monastères, il est gravé sur les moulins à prières. Ici, tu en fais tourner toute une rangée, dans un jardin couvert de givre."
    ]
   ]
  },
  "celestialLibrary": {
+  "h2": {
+   "deroule": "Comment se déroule la visite de la bibliothèque akashique ?"
+  },
   "pour_qui": "La Bibliothèque Céleste convient aux esprits curieux, qui aiment réfléchir sans effort. Les amoureux des livres s’y sentiront chez eux. Elle accompagne bien une question personnelle, ou un moment où tu veux voir un peu plus loin. Assez courte, elle se glisse facilement dans une soirée calme, au fond d’un fauteuil.",
   "deroule": "Une grande porte de vieux bois s’ouvre sur une bibliothèque sans fin, éclairée de bougies flottantes. L’air sent le vieux papier, et une horloge ancienne fait tic-tac. Des livres lumineux volent vers leurs lecteurs, sous un plafond d’étoiles. Une bougie te guide en haut d’un escalier en spirale, jusqu’aux livres des mondes disparus. Un livre d’argent t’ouvre un monde à deux lunes. Dans un vieux fauteuil, une salamandre de feu se blottit contre ton bras, et un livre sans mots te montre un avenir possible. En partant, tu reçois une petite clé d’or.",
   "conseils": [
@@ -288,7 +312,10 @@
   ]
  },
  "treeOfConsciousness": {
-  "pour_qui": "L’Arbre de Conscience accompagne les moments de solitude, quand tu te sens coupé du reste et que tu cherches un lien. Les forêts, les animaux et les très grands arbres te touchent ? Cette méditation avec les arbres est pour toi. Écoute-la le soir, pour finir la journée relié à tout ce qui vit.",
+  "h2": {
+   "deroule": "Comment se déroule la méditation de l’arbre ?"
+  },
+  "pour_qui": "L’Arbre de Conscience accompagne les moments de solitude, quand tu te sens coupé du reste et que tu cherches un lien. Les forêts, les animaux et les très grands arbres te touchent ? Cette méditation avec les arbres est pour toi. Avec ses feuilles, son eau et ses oiseaux, c’est aussi une vraie méditation nature. Écoute-la le soir, pour finir la journée relié à tout ce qui vit.",
   "deroule": "Tu traverses une forêt lumineuse, la nuit, jusqu’à une grande clairière. Au centre se dresse un arbre colossal, dont la cime touche les étoiles. Sous ta main, l’écorce bat lentement, comme un souffle. Le gardien de l’arbre, fait de bois et de mousse, te prend la main. La terre devient alors transparente, et tu sens battre toutes les vies qu’elle relie. Tu montes avec lui par un escalier de racines jusqu’aux branches. Un papillon détache une feuille, où tu découvres un petit monde plein de bonté. À la fin, tu te reposes contre le tronc chaud.",
   "conseils": [
    "Assieds-toi le dos contre un mur ou un coussin, comme contre le grand tronc.",
@@ -307,6 +334,10 @@
    [
     "Ce monde est-il long ?",
     "Il dure 18 minutes, avec un vrai moment de repos contre le tronc avant le retour."
+   ],
+   [
+    "Quel arbre rencontre-t-on dans cette méditation ?",
+    "Arbre de vie, arbre du monde : beaucoup de traditions en parlent. Celui de ce monde n’appartient à aucune d’elles. Il est relié à toute la vie, et sa cime touche les étoiles."
    ],
    [
     "Quel lien avec l’arbre de la Bodhi ?",
@@ -338,6 +369,9 @@
   ]
  },
  "mushroomForest": {
+  "h2": {
+   "deroule": "Comment se déroule cette méditation en forêt ?"
+  },
   "pour_qui": "La Forêt des Rêves est faite pour ceux qui ont gardé un cœur d’enfant, ou qui aimeraient le retrouver. Fées, papillons et créatures de lumière y vivent en paix. Légèreté, imagination, évasion : voilà ce qu’elle t’offre. Écoute-la un soir ou un dimanche après-midi, simplement pour le plaisir de rêver.",
   "deroule": "Tu arrives directement dans une forêt de rêve, baignée de violet et de rose. Des champignons géants brillent comme des lanternes, et une petite fée se pose sur ta main. Sur des arbres d’argent poussent de petites galaxies : tu en cueilles une, et un mot monte vers toi. Une rivière de lumière tinte comme des clochettes. Dans une clairière, des milliers de papillons s’envolent, et l’un d’eux te montre une image de toi, heureux. Puis une pieuvre de lumière te soulève au-dessus de la forêt, d’où tu vois des cerfs de cristal et des oiseaux-lanternes.",
   "conseils": [
@@ -388,6 +422,9 @@
   ]
  },
  "wolfForest": {
+  "h2": {
+   "qui": "Méditation animal totem : pour qui, et à quel moment ?"
+  },
   "pour_qui": "La Forêt des Esprits Loups est pour toi si tu cherches un animal totem protecteur. Il te guide et te rend plus fort à l’intérieur. Elle plaît aussi à ceux qui aiment les animaux spirituels et les aurores boréales. La nuit, la neige et les animaux sauvages y tiennent la première place. Écoute-la le soir, pour retrouver ton instinct et une force tranquille.",
   "deroule": "Tu entres de nuit parmi de grands pins couverts de neige. Au-dessus, la lune est immense. Un loup transparent, plein d’étoiles, apparaît sur le sentier : des perce-neige s’allument sous ses pattes. La meute d’esprits loups t’entoure, et le loup du sentier pose son front contre le tien. Puis tu cours avec eux, sans effort, jusqu’à devenir loup toi-même. Sur une colline, la meute chante vers la lune, puis un pont d’aurore boréale t’emporte dans le ciel. Au retour, tu te reposes près d’un feu sacré, avec la force tranquille du loup.",
   "conseils": [
@@ -411,6 +448,10 @@
    [
     "Qu’est-ce qu’un animal totem ?",
     "Signification simple : un animal qui t’inspire et veille sur toi. Ici, c’est le loup, symbole de force tranquille et de protection. Libre à toi d’en faire le tien, ou non."
+   ],
+   [
+    "Que symbolise le loup totem ?",
+    "Signification la plus courante : l’instinct, la force tranquille et la protection. Le loup vit en meute, où chacun veille sur les autres. Dans ce monde, tu cours avec la meute jusqu’à devenir loup toi-même."
    ]
   ]
  }

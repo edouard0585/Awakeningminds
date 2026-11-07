@@ -628,9 +628,10 @@ def build(bb):
             if wid not in p['worlds']: continue
             x = MX.get(wid) or {}
             xl = XL[lang]
-            extra = ((f'<h2>{E(xl["qui"])}</h2><p class="intro">{E(x["pour_qui"])}</p>' if x.get('pour_qui') else '')
-                     + (f'<h2>{E(xl["deroule"])}</h2><p class="intro">{E(x["deroule"])}</p>' if x.get('deroule') else '')
-                     + (f'<h2>{E(xl["conseils"])}</h2><ul>' + ''.join(f'<li>{E(c)}</li>' for c in x['conseils']) + '</ul>' if x.get('conseils') else ''))
+            h2x = x.get('h2') or {}   # 07-11 soir (scores SEO) : intertitre propre au monde (mondes_<l>.json « h2 »), sinon le libellé commun
+            extra = ((f'<h2>{E(h2x.get("qui") or xl["qui"])}</h2><p class="intro">{E(x["pour_qui"])}</p>' if x.get('pour_qui') else '')
+                     + (f'<h2>{E(h2x.get("deroule") or xl["deroule"])}</h2><p class="intro">{E(x["deroule"])}</p>' if x.get('deroule') else '')
+                     + (f'<h2>{E(h2x.get("conseils") or xl["conseils"])}</h2><ul>' + ''.join(f'<li>{E(c)}</li>' for c in x['conseils']) + '</ul>' if x.get('conseils') else ''))
             wfaq = [tuple(q) for q in x.get('faq', [])]
             s = p['worlds'][wid]; path = u(lang, 'world', s['slug'])
             alts = {x: u(x, 'world', P[x]['worlds'][wid]['slug']) for x in P if wid in P[x]['worlds']}

@@ -1,5 +1,6 @@
 {
  "antiqueTemple": {
+  "h2": {"conseils": "Consejos para la meditación con velas"},
   "pour_qui": "Para los días en que llevas demasiado encima y buscas un lugar donde dejarlo. Sus 19 minutos piden un rato tranquilo, sin interrupciones: está entre los mundos más largos. Conviene si quieres sentirte a salvo y con los pies en la tierra. Es también una meditación con lluvia: la oyes caer sobre la piedra casi todo el viaje.",
   "deroule": "Subes por escalones de piedra gastada, bajo la lluvia, tras una zorra blanca de nueve colas. Una puerta tallada se abre bajo tu mano, y dentro brillan cientos de velas ante grandes budas de piedra. Un viejo guardián de máscara sonriente te da una vela, y con ella despiertas pinturas que cuentan la leyenda de la zorra. En una sala donde flotan miles de velas, confías un peso a la tuya y la dejas subir. Luego una estatua de madera abre los ojos y te muestra el templo hace mil años. Al final, una pequeña puerta roja se abre a tu paisaje interior, con el alba.",
   "conseils": [
@@ -12,10 +13,11 @@
    ["¿Qué haces con la vela del guardián?", "Primero enciendes con ella unas viejas lámparas, y en el muro aparecen pinturas que se mueven. Después, si quieres, le confías un peso y la sueltas: sube y sigue ardiendo con las demás."],
    ["¿Qué hay detrás de la pequeña puerta roja?", "Ningún tesoro: un paisaje inmenso, el de tu mundo interior, justo antes del alba. Quizá un mar tranquilo, un bosque de bambú o colinas cubiertas de nieve."],
    ["¿Qué budas hay en el templo?", "Enormes budas de piedra, sentados, de rostro sereno y dulce: budas meditando desde hace mil años. La voz no les pone nombre. Puedes ver en ellos un buda de la paz o un buda de la protección. El templo es, ante todo, un refugio."],
-   ["¿Qué beneficios tiene la meditación con velas?", "Una llama da a la mirada un punto donde posarse, y eso ayuda a calmar la atención. En este templo, las velas son imaginarias: guían el camino y llevan lo que les confías. Si usas una vela real, no la dejes nunca sin vigilar."]
+   ["Meditación con velas: beneficios y precauciones", "Una llama da a la mirada un punto donde posarse, y eso ayuda a calmar la atención. En este templo, las velas son imaginarias: guían el camino y llevan lo que les confías. Si usas una vela real, no la dejes nunca sin vigilar."]
   ]
  },
  "cosmicTemple": {
+  "h2": {"qui": "¿Para quién es la meditación cósmica?"},
   "pour_qui": "Este templo es para los momentos en que el día se te queda pequeño y tienes ganas de mirar muy lejos. Con 13 minutos, es de los mundos más breves. Te invita a sentir una amplitud del tamaño del cosmos. Lo disfrutarás si buscas una calma vasta, de tono sagrado, y te gustan las imágenes grandiosas del espacio.",
   "deroule": "Te elevas sin peso hasta una oscuridad violeta, donde aparece un inmenso templo de mármol blanco. Una ballena celeste, con la piel llena de estrellas, te lleva sobre su lomo hasta la entrada. Antes de irse, te regala una esfera de cristal con una pequeña galaxia dentro. En el templo caminas sobre un suelo transparente, por encima de galaxias. A orillas de un río dorado, giras la aguja de un reloj inmenso y viajas a un planeta lejano. En el centro, te sientas y una estrella nace bajo tus pies. Al final solo queda tu esfera, un punto de luz dorada.",
   "conseils": [
@@ -30,6 +32,7 @@
   ]
  },
  "crystalCave": {
+  "h2": {"qui": "¿Para quién es la meditación con cristales y en qué momento?"},
   "pour_qui": "Elige esta gruta cuando sientas la cabeza cargada y quieras empezar de cero. En 16 minutos, te invita a dejar atrás la pesadez y a recuperar claridad. Encaja después de una semana intensa o antes de una decisión. Te gustará si te atraen los cristales, el agua quieta y las criaturas de cuento.",
   "deroule": "Bajas por un camino bajo tierra hasta una grieta en la roca, que te deja pasar al exhalar. Al otro lado, cristales más grandes que árboles se iluminan por dentro. Una mariposa de cristal te guía hasta un estanque, donde una sirena canta una sola nota. Bajo tu mano, un gran cristal empieza a cantar, y toda la gruta responde. Luego navegas por un río de plata en una barca transparente, entre peces de luz que nadan en el aire. Un pequeño dragón de cristal te lleva a una ciudad diminuta, cuyos habitantes cantan contigo. Al final, el dragón te susurra unas palabras para el camino.",
   "conseils": [
@@ -41,10 +44,11 @@
    ["¿Qué criaturas encuentras en la gruta?", "Una mariposa de cristal que te guía y una sirena que canta una sola nota. También peces de luz que nadan en el aire y un dragoncito de cristal dormido en una playa."],
    ["¿Tengo que cantar con ellos?", "Solo si quieres. Al final, los habitantes de una ciudad en miniatura se ponen a cantar y te invitan a unirte, aunque sea muy bajito o sin palabras."],
    ["¿Cómo se entra y se sale de la gruta?", "Por una grieta diminuta en la roca, que te deja pasar al exhalar. Al final, el dragón te acompaña de vuelta hasta ella y te susurra una frase para el camino."],
-   ["¿Cómo meditar con cristales?", "Sostén uno en la mano abierta o déjalo delante de ti, a la vista. Siente su peso y su frescor, y mira cómo juega la luz en él. Una meditación con cristales de cuarzo o de amatista sigue estos mismos gestos."]
+   ["¿Cómo meditar con cristales?", "Sostén uno en la mano abierta o déjalo delante de ti, a la vista. Siente su peso y su frescor, y mira cómo juega la luz en él. Una meditación con cristales de cuarzo sigue estos mismos gestos. Y si te preguntas cómo meditar con amatista, es igual: solo cambia el color de la luz."]
   ]
  },
  "galaxy": {
+  "h2": {"deroule": "Cómo transcurre la meditación del universo"},
   "pour_qui": "Si algo te pesa y quieres verlo desde muy lejos, este viaje es para ti. Dura 19 minutos, uno de los viajes más largos entre los mundos. Es una meditación guiada para conectar con el universo, ideal si disfrutas del asombro y del cielo nocturno. Escúchala al final del día o en una noche despejada.",
   "deroule": "Flotas sin peso en la oscuridad hasta que un tren de luz se detiene a tu lado. Te acomodas junto a una ventanilla llena de estrellas, y una ballena de luz nada junto al cristal. A tu lado se sienta uno de tus guías. El tren cruza los anillos de Saturno y una lluvia de estrellas fugaces. En un asteroide, un vendedor te regala un frasco con un planeta diminuto. Después cruzas una nube rosa y un anillo de luz que pliega el espacio. Al otro extremo de la galaxia, dejas salir un peso por la ventanilla. Al volver, bajas del tren con tu frasco en la mano.",
   "conseils": [
@@ -77,7 +81,8 @@
   ]
  },
  "antarcticBase": {
-  "pour_qui": "Cuando te sobra el ruido, el de la calle, el de las pantallas o el de tu propia cabeza, este santuario ofrece lo contrario: 15 minutos de silencio bajo el hielo antártico. Gustará a quien disfruta de los misterios antiguos y de los paisajes polares, y a quien busca una calma despojada, casi vacía.",
+  "h2": {"qui": "Meditación de invierno: para quién y en qué momento"},
+  "pour_qui": "Cuando te sobra el ruido, el de la calle, el de las pantallas o el de tu propia cabeza, este santuario ofrece lo contrario: 15 minutos de silencio bajo el hielo antártico. Gustará a quien disfruta de los misterios antiguos y de los paisajes polares, y a quien busca una calma despojada, casi vacía. ¿Y cuándo escuchar esta meditación? Solsticio de invierno, noche de nieve o tarde gris: el frío de fuera la acompaña bien.",
   "deroule": "Desciendes a través de miles de capas de hielo, cada una la nieve de un invierno, entre estrellas atrapadas en él. Un zorro polar de pelaje luminoso te espera en una entrada tallada por manos no humanas. Lo sigues por túneles azules donde flotan símbolos que no hace falta leer. En una sala inmensa, un jardín de escarcha se abre a su paso y un corazón de cristal late despacio: respiras con él. Un libro atrapado en el hielo te muestra la ciudad blanca de sus constructores. Luego una aurora te guía hacia arriba, y la pluma de un gran pájaro blanco te lleva de vuelta.",
   "conseils": [
    "Abrígate o ten una manta cerca: el frío del paisaje se disfruta mejor desde el calor.",
@@ -92,6 +97,7 @@
   ]
  },
  "skyIsland": {
+  "h2": {"deroule": "Cómo transcurre la meditación: lugar seguro sobre las nubes"},
   "pour_qui": "Para cuando necesitas un rincón solo tuyo, lejos de todo. Esta isla verde suspendida sobre las nubes te ofrece un refugio seguro, a la luz del atardecer. Dura 19 minutos, el máximo entre los mundos. Va bien si buscas libertad y paz a un ritmo suave, y encaja al final de la tarde.",
   "deroule": "Un puente de nubes te lleva hasta una isla verde que flota sobre el mundo. Recorres su borde y te sientas cerca de una cascada, con los pies colgando sobre el cielo. Un gran pájaro blanco y dorado vuela contigo a través de un arcoíris. Bajo el gran árbol de la isla, apoyas la espalda en su tronco. Un ciervo blanco con alas, el guardián de la isla, te da una semilla luminosa. Al atardecer pasa una ballena blanca bajo la isla; luego se encienden los farolillos. De vuelta por el puente, confías la semilla al cielo o al océano, y nace una isla diminuta.",
   "conseils": [
@@ -106,6 +112,7 @@
   ]
  },
  "zenGarden": {
+  "h2": {"qui": "¿Para quién es esta meditación zen y cuándo hacerla?"},
   "pour_qui": "Si todo va demasiado rápido y quieres bajar el ritmo con elegancia, este jardín te espera. Ir más despacio es uno de los beneficios de la meditación zen. Durante 18 minutos, su cerezo en flor, sus carpas y su arena rastrillada invitan al equilibrio. Es para quien ama la estética japonesa, los detalles y la lentitud. Sirve de pausa a media tarde o al volver del trabajo.",
   "deroule": "Cruzas una puerta de madera justo después de la lluvia, por un camino de piedras húmedas. Un zorro blanco de nueve colas, espíritu del jardín, te roza la mano y desaparece. Bajo un gran cerezo, todos los capullos se abren a la vez y caen pétalos rosas. Desde un puente, das de comer a las carpas y la dorada te roza los dedos. Más allá, un viejo jardinero te sirve un té cuyo vapor dibuja un dragón, un fénix y un zorro. Al atardecer, unos faroles de piedra te guían hasta un bosque de bambú que canta. Allí, una luciérnaga te susurra unas palabras al oído.",
   "conseils": [
@@ -119,10 +126,11 @@
    ["¿Encaja en una pausa del trabajo?", "Sí, si tienes 18 minutos tranquilos. Su ritmo lento marca un corte claro con la prisa del día."],
    ["¿Cómo hacer meditación zen en casa?", "Siéntate en un cojín o en una silla, con la espalda recta y las manos juntas sobre el regazo. Respira con calma y deja pasar los pensamientos, como hojas sobre el estanque. Si buscas una meditación zen para principiantes, este jardín es una buena entrada: las imágenes te sostienen."],
    ["¿Es una meditación zazen?", "No exactamente. El zazen es la meditación budista zen por excelencia: se hace sentado, en silencio y sin imágenes. Este mundo es un paseo guiado por un jardín zen japonés. Al terminar, puedes quedarte unos minutos sentado, a la manera del zazen."],
-   ["¿Qué significa la arena rastrillada?", "En los jardines secos japoneses, la grava rastrillada evoca el agua: olas, ríos, ondas en un estanque. Los jardines de arena japoneses más famosos están en Kioto, como el del templo Ryōan-ji. En este mundo, el viejo jardinero la rastrilla antes de servirte el té."]
+   ["Jardín zen: significado de la arena rastrillada", "En los jardines secos japoneses, la grava rastrillada evoca el agua: olas, ríos, ondas en un estanque. Los jardines de arena japoneses más famosos están en Kioto, como el del templo Ryōan-ji. En este mundo, el viejo jardinero la rastrilla antes de servirte el té."]
   ]
  },
  "atlantis": {
+  "h2": {"qui": "¿Para quién es esta meditación del mar?"},
   "pour_qui": "Es una buena elección cuando tus emociones se mueven mucho y te gustaría dejarlas pasar sin pelearte. Esta inmersión de 18 minutos es también una meditación del agua: la corriente te lleva y tú sueltas. Si amas el mar, el canto de las ballenas o las historias de la Atlántida, aquí estarás a gusto.",
   "deroule": "Te hundes despacio en un mar tibio y descubres que respiras bajo el agua. Abajo aparece una ciudad antigua, coronada por un castillo de nácar. Un caballito de mar dorado, grande como un caballo, te lleva entre templos y medusas que se encienden despacio. Una pareja de piel luminosa te recibe en su casa redonda y te ofrece una burbuja dorada que sabe a menta y miel. En su jardín, una perla tibia te muestra uno de tus recuerdos. Desde una terraza de coral, oyes cantar a una ballena. Al final, toda la Atlántida se ilumina como un cielo estrellado y la corriente te sube hacia la superficie.",
   "conseils": [
@@ -136,10 +144,11 @@
    ["¿Qué es la Atlántida en esta meditación?", "Una ciudad antigua bajo el mar, con templos, casas redondas y un castillo de nácar. No está perdida: descansa, y al final se ilumina entera como un cielo estrellado."],
    ["La Atlántida: ¿qué es y de dónde viene la leyenda?", "Es una isla de leyenda que, según el relato, se hundió en el mar en un solo día. Sobre la Atlántida, Platón escribe hacia el 360 a. C., en el Timeo y el Critias. Desde entonces, el misterio de la Atlántida no ha dejado de crecer."],
    ["¿Existió una Atlántida real?", "No hay ninguna prueba de una Atlántida, isla o continente, hundida en el mar. Muchos historiadores ven en ella un relato de Platón sobre el orgullo de los poderosos. Aquí es otra cosa: una ciudad tranquila donde descansar."],
-   ["¿Qué tienen que ver la Atlántida, Lemuria y Mu?", "Son tres tierras perdidas de leyenda. Atlántida y Lemuria se citan a menudo juntas. Lemuria y Mu nacieron en el siglo XIX, mucho después del relato de Platón. Esta meditación solo visita la primera, como una ciudad en calma bajo el mar."]
+   ["¿Qué tienen que ver la Atlántida, Lemuria y Mu?", "Son tres tierras perdidas de leyenda: la información sobre Atlántida, Lemuria y Mu viene de textos, no de excavaciones. Atlántida y Lemuria se citan a menudo juntas. Lemuria y Mu nacieron en el siglo XIX, mucho después del relato de Platón. Esta meditación solo visita la primera, como una ciudad en calma bajo el mar."]
   ]
  },
  "himalayanMonastery": {
+  "h2": {"deroule": "Cómo transcurre la meditación para empezar el día"},
   "pour_qui": "Para empezar el día con claridad, o para cualquier momento en que necesites perspectiva. Es una meditación guiada para la mañana. Durante 18 minutos, un viejo monasterio te recibe justo antes del alba. Es también una meditación de la montaña, para quien madruga y quiere una calma despierta, llena de luz.",
   "deroule": "Llegas a la puerta del monasterio cuando todavía es de noche. Un viejo monje con una lámpara de mantequilla te recibe con una gran sonrisa. En su jardín helado haces girar ruedas de oración y oyes responder sus campanillas. En un patio de banderas, un caballo de viento se lleva un pensamiento tierno para alguien que quieres. Sobre un balcón de madera, con un té entre las manos, escuchas la historia de la lámpara que nunca se apagó. Entonces amanece: la nieve se tiñe de rosa, luego de ámbar, y la luz llega hasta tu cara. Al final, un león de las nieves aparece sobre una cresta.",
   "conseils": [
@@ -149,13 +158,14 @@
   ],
   "faq": [
    ["¿Hay que escucharlo al amanecer?", "No es obligatorio, aunque encaja muy bien con la mañana. Es una meditación al amanecer: empieza antes del alba y termina con todo el valle bajo el sol."],
-   ["¿Qué significan las banderas de oración tibetanas?", "Según la tradición, llevan oraciones y deseos que el viento esparce. En muchas aparece un caballo de viento, el lungta. En la sesión, ese pequeño caballo deja su bandera y se lleva tu pensamiento."],
+   ["Banderas de oración tibetanas: significado y tradición", "Según la tradición, llevan oraciones y deseos que el viento esparce. En muchas aparece un caballo de viento, el lungta. En la sesión, ese pequeño caballo deja su bandera y se lleva tu pensamiento."],
    ["¿Qué haces en el balcón de madera?", "Te sientas con el viejo monje, con un cuenco de té entre las manos. Te cuenta la historia del monasterio mientras la luz del alba llega hasta ti."],
    ["¿Es una meditación tibetana?", "Se inspira en los monasterios del Himalaya: ruedas de oración, banderas y una lámpara de mantequilla. Pero no es la meditación de los monjes tibetanos. Es un viaje guiado, hecho de imágenes, para recibir la luz del alba."],
    ["¿Sirve como meditación para empezar el día con energía?", "Sí, con una energía tranquila. No hay ejercicios intensos: ves amanecer, respiras el aire frío y recibes la luz en la cara. Es una meditación guiada para empezar el día despierto y sereno."]
   ]
  },
  "celestialLibrary": {
+  "h2": {"qui": "La biblioteca akáshica: para quién y en qué momento", "deroule": "Cómo transcurre esta meditación guiada: viaje a los registros akáshicos"},
   "pour_qui": "Ven a esta biblioteca cuando una parte de tu vida te ocupa y prefieres mirarla con calma, sin forzar nada. Es una meditación akáshica corta: sus 13 minutos la sitúan entre las visitas más breves. Te atraerá si amas los libros, el silencio y las ideas, o si quieres reflexionar sin dar más vueltas.",
   "deroule": "Una gran puerta de madera se abre sin ruido a una biblioteca que flota más allá del mundo. Entre estanterías infinitas y velas flotantes, los libros vuelan solos hasta sus lectores. Una vela te guía por una escalera de caracol hasta un libro de plata. En sus páginas descubres un mundo desaparecido, con dos lunas en un cielo verde. Luego, en un viejo sillón bajo las estrellas, una salamandra de fuego se acurruca contra tu brazo. Un libro de páginas doradas baja hasta tus manos y te muestra un futuro posible. Al salir, la salamandra te deja una pequeña llave de oro.",
   "conseils": [
@@ -171,6 +181,7 @@
   ]
  },
  "desertOasis": {
+  "h2": {"deroule": "Cómo transcurre la meditación de la luna", "conseils": "Consejos para tu meditación: luna llena, silencio y una frase verdadera"},
   "pour_qui": "Para la noche, cuando quieres estar a solas contigo y escuchar lo que sientes. Este oasis de 13 minutos, de los más cortos, te ofrece un espacio seguro para reflexionar con honestidad. Sirve para poner en orden tus emociones sin hablar con nadie, o simplemente para disfrutar del silencio del desierto.",
   "deroule": "Caminas por las dunas al atardecer, mientras el cielo se vuelve rosa y luego malva. Un espíritu de arena dorada llama a un camello blanco, que te lleva bajo las estrellas hasta el oasis. En un mercado nocturno, un viejo mercader te sirve té de menta y te da una lámpara a cambio de una sonrisa. Al frotarla no sale un genio, sino mariposas de luz. Te guían bajo el estanque, a un jardín escondido con lotos azules y un viejo templo egipcio. De vuelta junto a una hoguera, sale una luna enorme y cruzan estrellas fugaces. Si quieres, le dices a la noche una frase verdadera.",
   "conseils": [
@@ -186,6 +197,7 @@
   ]
  },
  "treeOfConsciousness": {
+  "h2": {"conseils": "Consejos para la meditación del árbol"},
   "pour_qui": "Escúchalo cuando eches de menos sentirte parte de algo más grande. Sus 18 minutos transcurren en un bosque luminoso, de noche, alrededor de un árbol inmenso. Atrae a quien ama los bosques, los animales y los árboles, y a quien busca renovación sin dejar de lado la calma.",
   "deroule": "Cruzas de noche un bosque luminoso hasta un claro donde se alza un árbol colosal. Bajo tu mano, su corteza late despacio. Su guardián, hecho de madera y musgo, sale del tronco y te tiende la mano. Entonces la tierra se vuelve transparente: las raíces unen todas las vidas, de las ballenas a un colibrí. Subes por una raíz en espiral, entre los recuerdos del árbol, y caminas por sus ramas. Una mariposa de luz azul te ofrece una hoja que guarda un pequeño mundo de bondad. Al final, te sientas contra el tronco tibio, con la hoja sobre el corazón.",
   "conseils": [
@@ -214,7 +226,8 @@
   ]
  },
  "mushroomForest": {
-  "pour_qui": "¿El día ha sido demasiado serio? Es una meditación en el bosque, pero en un bosque de cuento, con hongos gigantes y luz violeta. Te ofrece 16 minutos de evasión dulce, para jugar un poco. Lo disfrutará quien ama la fantasía y los cuentos, y quien quiere dar rienda suelta a su imaginación sin esfuerzo.",
+  "h2": {"deroule": "Cómo transcurre la meditación: bosque encantado, hongos gigantes y un hada"},
+  "pour_qui": "¿El día ha sido demasiado serio? Es una meditación en el bosque, pero en un bosque de cuento, con hongos gigantes y luz violeta. Te ofrece 16 minutos de evasión dulce, para jugar un poco y soñar despierto. Lo disfrutará quien ama la fantasía y los cuentos, y quien quiere dar rienda suelta a su imaginación sin esfuerzo.",
   "deroule": "Entras en un sueño: un bosque de luz violeta y rosa donde nada puede hacerte daño. Entre hongos gigantes que respiran luz, un hada con alas de libélula se posa en tu mano. En unos árboles de plata cuelgan pequeñas galaxias, y una de ellas te regala una palabra. Junto a un río de luz que suena como campanitas, miles de mariposas vuelan hacia tus sueños, y una te muestra uno de ellos. Luego un pulpo inmenso, hecho de luz rosada, te lleva por los aires sobre ciervos con astas de cristal y zorros plateados. Al final, los colores se suavizan y vuelves con tu palabra.",
   "conseils": [
    "Cierra los ojos y baja la luz, para que el violeta y el rosa destaquen.",
@@ -228,6 +241,7 @@
   ]
  },
  "mirrorDimension": {
+  "h2": {"deroule": "Cómo transcurre la meditación: espejos infinitos y conciencia testigo"},
   "pour_qui": "Este mundo te conviene cuando quieres observar los pensamientos desde fuera, sin dejarte arrastrar por ellos. Sus 16 minutos entre espejos infinitos y luz blanca invitan a mirar la propia conciencia. Elígelo si sientes curiosidad por la mente, o si quieres dejar atrás la imagen de un momento difícil sin revivirla.",
   "deroule": "Flotas en una luz blanca, sin arriba ni abajo, mientras te acompaña un tono puro que nunca vacila. Entre espejos infinitos, un hada de agua y plata los atraviesa sin detenerse. Luego un espejo te muestra a tu animal guía, que sale de él. Lo sigues por otros mundos: una pradera donde la lluvia sube, un cielo de miel lleno de burbujas y un agua inmensa. Ante un espejo antiguo, dejas la imagen de un momento difícil y recibes una perla de luz. Al final, el espejo te devuelve tu rostro y descansas en la conciencia que mira.",
   "conseils": [
@@ -243,6 +257,7 @@
   ]
  },
  "wolfForest": {
+  "h2": {"deroule": "Cómo transcurre la meditación con tu animal tótem"},
   "pour_qui": "Recurre a este bosque cuando necesites sentir protección o volver a confiar en tu instinto. Durante 15 minutos, bajo una luna gigantesca, caminas y corres con una manada de espíritus lobo. Le gustará a quien ama la naturaleza salvaje, el invierno y los animales, y a quien necesita una fuerza tranquila.",
   "deroule": "Entras de noche en un pinar nevado, bajo una luna enorme. Un lobo transparente, lleno de estrellas, te guía por un sendero donde las campanillas de invierno se encienden a su paso. La manada te rodea y el lobo apoya su frente contra la tuya. Luego corres con ellos hasta que tus manos se vuelven patas. En lo alto de una colina, aúllas a la luna y el cielo responde con un puente de aurora boreal. Por él llegas a los anillos de hielo de un planeta lejano. De vuelta, junto a un fuego sagrado, el lobo que te guió se queda contigo.",
   "conseils": [
@@ -254,7 +269,7 @@
    ["¿Los lobos dan miedo?", "No. Son espíritus transparentes, llenos de estrellas, que te reciben como a alguien de la familia. El lobo que te guía apoya su frente contra la tuya."],
    ["¿Te conviertes en lobo?", "Por un rato, sí: mientras corres con la manada, tus manos se vuelven patas y tu cuerpo se llena de estrellas. Junto al fuego, vuelves a ser tú."],
    ["¿Qué es el fuego sagrado?", "Un pequeño fuego en un claro, al final del viaje. Te sientas a su lado con el lobo que te guió y dejas cerca de las llamas lo que cargas desde hace tiempo."],
-   ["¿Qué significa el lobo espiritual?", "En muchas tradiciones chamánicas se habla de un animal de poder, lobo, oso o águila, que protege y guía. El lobo simboliza el instinto, la lealtad a la manada y una fuerza tranquila. En este mundo es eso: un guía que se queda contigo."]
+   ["¿Qué es el lobo espiritual? Significado y símbolo", "En muchas tradiciones chamánicas se habla de un animal de poder, lobo, oso o águila, que protege y guía. El lobo simboliza el instinto, la lealtad a la manada y una fuerza tranquila. En esta meditación, animal de poder y animal tótem son lo mismo: un guía que se queda contigo."]
   ]
  }
 }
