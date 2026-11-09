@@ -7,11 +7,11 @@
     "es": "Aprendizaje"
    },
    "desc": {
-    "fr": "Huit séances pour poser les fondations : balayage corporel, souffle, pensées, cinq sens, yeux ouverts, première méditation silencieuse.",
-    "en": "Eight sessions to build the fundamentals: body scan, breath, thoughts, five senses, open eyes, your first silent meditation.",
-    "es": "Ocho sesiones para sentar las bases: escaneo corporal, respiración, pensamientos, cinco sentidos, ojos abiertos, primera meditación silenciosa."
+    "fr": "Neuf séances pour poser les fondations : attention, balayage corporel, souffle, pensées, cinq sens, yeux ouverts, première méditation silencieuse.",
+    "en": "Nine sessions to build the fundamentals: attention, body scan, breath, thoughts, five senses, open eyes, your first silent meditation.",
+    "es": "Nueve sesiones para sentar las bases: atención, escaneo corporal, respiración, pensamientos, cinco sentidos, ojos abiertos, primera meditación silenciosa."
    },
-   "count": 8,
+   "count": 9,
    "min": 5,
    "max": 19,
    "levels": [
@@ -38,9 +38,9 @@
      "dur": 13,
      "level": "beginner",
      "title": {
-      "fr": "Stabiliser l’attention sur le souffle — Le fil d’ariane",
+      "fr": "Stabiliser l’attention sur le souffle — Le fil d’Ariane",
       "en": "Stabilizing Attention on the Breath — Ariadne’s Thread",
-      "es": "Estabilizar la atención en la respiración — El hilo de ariadna"
+      "es": "Estabilizar la atención en la respiración — El hilo de Ariadna"
      },
      "desc": {
       "fr": "Faire du souffle un point de rendez-vous : y revenir chaque fois que l’attention s’éloigne, sans respirer parfaitement.",
@@ -136,6 +136,21 @@
       "fr": "Une première séance avec de vrais silences : ils ne sont pas du vide, ils sont la pratique elle-même.",
       "en": "A first session with real silences: they are not emptiness, they are the practice itself.",
       "es": "Una primera sesión con verdaderos silencios: no son vacío, son la práctica misma."
+     }
+    },
+    {
+     "id": "appren08",
+     "dur": 6,
+     "level": "beginner",
+     "title": {
+      "fr": "Première méditation — Comprendre et pratiquer l’attention",
+      "en": "First Meditation — Understanding and Practicing Attention",
+      "es": "Primera meditación — Comprender y practicar la atención"
+     },
+     "desc": {
+      "fr": "Comprendre ce qu’est méditer : remarquer où part l’attention, puis la ramener, encore et encore, sans se juger.",
+      "en": "Understand what meditating is: notice where attention goes, then bring it back, again and again, without judging yourself.",
+      "es": "Comprender qué es meditar: notar adónde va la atención y traerla de vuelta, una y otra vez, sin juzgarte."
      }
     }
    ]
@@ -336,8 +351,8 @@
     "en": "Breath, chakras, sound, deep relaxation and falling asleep.",
     "es": "Respiración, chakras, sonidos, relajación profunda y sueño."
    },
-   "count": 14,
-   "min": 13,
+   "count": 16,
+   "min": 7,
    "max": 30,
    "levels": [
     "intermediate"
@@ -345,7 +360,7 @@
    "meds": [
     {
      "id": "chakra01",
-     "dur": 27,
+     "dur": 28,
      "level": "intermediate",
      "title": {
       "fr": "La reconnaissance des sept chakras",
@@ -552,6 +567,36 @@
       "en": "A deeply calming guided journey through all seven chakras, narrated slowly with long, restful pauses.",
       "es": "Un viaje guiado profundamente relajante a través de los siete chakras, narrado lentamente con largas pausas reparadoras."
      }
+    },
+    {
+     "id": "corps06",
+     "dur": 22,
+     "level": "intermediate",
+     "title": {
+      "fr": "Apaiser la douleur, retrouver le confort",
+      "en": "Soothing Pain, Rediscovering Comfort",
+      "es": "Aliviar el dolor, recuperar el bienestar"
+     },
+     "desc": {
+      "fr": "Créer de l’espace et du calme autour d’une douleur, sans la combattre. Sans but médical : cette méditation ne remplace en rien un médecin.",
+      "en": "Create space and calm around pain, without fighting it. No medical purpose: this meditation in no way replaces a doctor.",
+      "es": "Crear espacio y calma alrededor del dolor, sin luchar contra él. Sin fin médico: esta meditación no sustituye en ningún caso a un médico."
+     }
+    },
+    {
+     "id": "corps07",
+     "dur": 7,
+     "level": "intermediate",
+     "title": {
+      "fr": "Apaiser une montée d’anxiété et de panique",
+      "en": "Soothing a Surge of Anxiety or Panic",
+      "es": "Calmar una subida de ansiedad o pánico"
+     },
+     "desc": {
+      "fr": "Quand l’anxiété monte : les yeux ouverts, les pieds au sol, et les sens qui ramènent au moment présent. Sans but médical : cette méditation ne remplace en rien un médecin.",
+      "en": "When anxiety rises: eyes open, feet on the ground, and the senses bringing you back to the present. No medical purpose: this meditation in no way replaces a doctor.",
+      "es": "Cuando sube la ansiedad: los ojos abiertos, los pies en el suelo y los sentidos que te devuelven al presente. Sin fin médico: esta meditación no sustituye en ningún caso a un médico."
+     }
     }
    ]
   },
@@ -566,8 +611,8 @@
     "en": "Love, gratitude, compassion, forgiveness — cultivate the inner heart.",
     "es": "Amor, gratitud, compasión, perdón — cultivar el corazón interior."
    },
-   "count": 8,
-   "min": 7,
+   "count": 10,
+   "min": 6,
    "max": 17,
    "levels": [
     "intermediate"
@@ -691,6 +736,36 @@
       "fr": "Envoyer mentalement des souhaits de paix, de sécurité et de bonheur à soi-même puis aux autres.",
       "en": "Send wishes of peace, safety, and happiness — first to yourself, then to others.",
       "es": "Enviar mentalmente deseos de paz, seguridad y felicidad a ti mismo y luego a los demás."
+     }
+    },
+    {
+     "id": "croiss08",
+     "dur": 7,
+     "level": "intermediate",
+     "title": {
+      "fr": "Prendre une décision en cinq minutes — Version approfondie",
+      "en": "Make a Decision in Five Minutes — Extended Practice",
+      "es": "Tomar una decisión en cinco minutos — Versión ampliada"
+     },
+     "desc": {
+      "fr": "Clarifier un choix pas à pas : séparer les faits des suppositions, choisir deux critères, puis un premier pas concret.",
+      "en": "Clarify a choice step by step: separate facts from assumptions, pick two criteria, then one concrete next step.",
+      "es": "Aclarar una elección paso a paso: separar los hechos de las suposiciones, elegir dos criterios y dar un primer paso concreto."
+     }
+    },
+    {
+     "id": "croiss09",
+     "dur": 6,
+     "level": "intermediate",
+     "title": {
+      "fr": "Booster sa confiance en soi — Par des preuves et des actes",
+      "en": "Building Self-Confidence Through Evidence and Action",
+      "es": "Fortalecer la confianza con hechos y acciones"
+     },
+     "desc": {
+      "fr": "La confiance se construit par des preuves : retrouver ce que tu as déjà réussi, puis choisir une petite action réelle.",
+      "en": "Confidence is built on evidence: recall what you have already managed, then choose one small, real action.",
+      "es": "La confianza se construye con pruebas: recordar lo que ya lograste y elegir una pequeña acción real."
      }
     }
    ]
@@ -1370,6 +1445,176 @@
     }
    ]
   },
+  "worldMeditations": {
+   "name": {
+    "fr": "Méditations du monde",
+    "en": "World Meditations",
+    "es": "Meditaciones del mundo"
+   },
+   "desc": {
+    "fr": "Dix pratiques des grandes traditions, du Tibet au Japon, de la prière chrétienne à la sagesse stoïcienne.",
+    "en": "Ten practices from the great traditions, from Tibet to Japan, from Christian prayer to Stoic wisdom.",
+    "es": "Diez prácticas de las grandes tradiciones, del Tíbet a Japón, de la oración cristiana a la sabiduría estoica."
+   },
+   "count": 10,
+   "min": 5,
+   "max": 7,
+   "levels": [
+    "intermediate"
+   ],
+   "meds": [
+    {
+     "id": "tradi01",
+     "dur": 7,
+     "level": "intermediate",
+     "title": {
+      "fr": "Initiation à Vipassana — Voir les sensations changer",
+      "en": "An Introduction to Vipassana — Noticing Change",
+      "es": "Introducción a Vipassana — Observar los cambios"
+     },
+     "desc": {
+      "fr": "Observer les sensations telles qu’elles sont, les nommer d’un mot, et voir qu’elles changent sans cesse.",
+      "en": "Observe sensations as they are, name them with one word, and see that they keep changing.",
+      "es": "Observar las sensaciones tal como son, nombrarlas con una palabra y ver que cambian sin cesar."
+     }
+    },
+    {
+     "id": "tradi02",
+     "dur": 6,
+     "level": "intermediate",
+     "title": {
+      "fr": "Shamatha — Tibet : Stabiliser une attention claire",
+      "en": "Shamatha — Tibet: Cultivating Clear, Stable Attention",
+      "es": "Shamatha — Tíbet: Cultivar una atención estable y clara"
+     },
+     "desc": {
+      "fr": "La pratique tibétaine du calme mental : une attention détendue, stable et claire, posée sur un seul point.",
+      "en": "The Tibetan practice of calm abiding: relaxed, stable, clear attention resting on a single point.",
+      "es": "La práctica tibetana de la calma mental: una atención relajada, estable y clara, posada en un solo punto."
+     }
+    },
+    {
+     "id": "tradi03",
+     "dur": 6,
+     "level": "intermediate",
+     "title": {
+      "fr": "Tonglen — Bouddhisme tibétain : Donner et recevoir",
+      "en": "Tonglen — Tibetan Buddhism: Giving and Receiving",
+      "es": "Tonglen — Budismo tibetano: Dar y recibir"
+     },
+     "desc": {
+      "fr": "Donner et recevoir avec la respiration : reconnaître une peine à l’inspiration, offrir du soulagement à l’expiration.",
+      "en": "Giving and receiving with the breath: recognize a pain on the inhale, offer relief on the exhale.",
+      "es": "Dar y recibir con la respiración: reconocer un dolor al inspirar y ofrecer alivio al espirar."
+     }
+    },
+    {
+     "id": "tradi04",
+     "dur": 6,
+     "level": "intermediate",
+     "title": {
+      "fr": "Naikan — Japon : Trois questions pour voir plus juste",
+      "en": "Naikan — Japan: Three Questions for Honest Reflection",
+      "es": "Naikan — Japón: Tres preguntas para reflexionar con honestidad"
+     },
+     "desc": {
+      "fr": "Trois questions venues du Japon pour regarder une relation avec justesse : ce que tu as reçu, donné, et causé.",
+      "en": "Three questions from Japan to look at a relationship honestly: what you received, gave, and caused.",
+      "es": "Tres preguntas de Japón para mirar una relación con honestidad: lo que recibiste, lo que diste y lo que causaste."
+     }
+    },
+    {
+     "id": "tradi05",
+     "dur": 6,
+     "level": "intermediate",
+     "title": {
+      "fr": "Shinrin-Yoku — Japon : Une marche sensorielle dans la nature",
+      "en": "Shinrin-Yoku — Japan: A Short Forest Bath",
+      "es": "Shinrin-Yoku — Japón: Un breve baño de bosque"
+     },
+     "desc": {
+      "fr": "Le bain de forêt japonais : marcher plus lentement et laisser les sons, les couleurs et l’air guider l’attention.",
+      "en": "Japanese forest bathing: walk more slowly and let sounds, colors and air guide your attention.",
+      "es": "El baño de bosque japonés: caminar más despacio y dejar que los sonidos, los colores y el aire guíen la atención."
+     }
+    },
+    {
+     "id": "tradi06",
+     "dur": 6,
+     "level": "intermediate",
+     "title": {
+      "fr": "Seon et Hwadu — Corée : Habiter une question vivante",
+      "en": "Seon and Hwadu — Korea: Staying With a Living Question",
+      "es": "Seon y Hwadu — Corea: Habitar una pregunta viva"
+     },
+     "desc": {
+      "fr": "Avec le Seon coréen, garder vivante une seule question, « Qu’est-ce que ceci ? », sans chercher à y répondre.",
+      "en": "With Korean Seon, keep a single question alive, “What is this?”, without rushing to answer it.",
+      "es": "Con el Seon coreano, mantener viva una sola pregunta, «¿Qué es esto?», sin apresurarse a responderla."
+     }
+    },
+    {
+     "id": "tradi07",
+     "dur": 7,
+     "level": "intermediate",
+     "title": {
+      "fr": "Le sourire intérieur — Taoïsme chinois : Une attention bienveillante au corps",
+      "en": "The Inner Smile — Chinese Taoist Practice",
+      "es": "La sonrisa interior — Práctica taoísta china"
+     },
+     "desc": {
+      "fr": "Une pratique taoïste : diriger un sourire intérieur vers le corps, avec gratitude et douceur.",
+      "en": "A Taoist practice: direct an inner smile toward your body, with gratitude and kindness.",
+      "es": "Una práctica taoísta: dirigir una sonrisa interior hacia el cuerpo, con gratitud y amabilidad."
+     }
+    },
+    {
+     "id": "tradi08",
+     "dur": 5,
+     "level": "intermediate",
+     "title": {
+      "fr": "Prière contemplative du silence — Tradition chrétienne",
+      "en": "Contemplative Prayer of Silence — Christianity",
+      "es": "Oración contemplativa del silencio — Cristianismo"
+     },
+     "desc": {
+      "fr": "La prière chrétienne du silence : un mot sacré pour revenir doucement et se rendre disponible à Dieu.",
+      "en": "The Christian prayer of silence: a sacred word to return gently and become available to God.",
+      "es": "La oración cristiana del silencio: una palabra sagrada para volver con suavidad y disponerse a Dios."
+     }
+    },
+    {
+     "id": "tradi09",
+     "dur": 6,
+     "level": "intermediate",
+     "title": {
+      "fr": "Hitbodedut — Judaïsme hassidique : Parler à Dieu avec ses propres mots",
+      "en": "Hitbodedut — Hasidic Judaism: Speaking to God in Your Own Words",
+      "es": "Hitbodedut — Judaísmo jasídico: Hablar con Dios con tus palabras"
+     },
+     "desc": {
+      "fr": "La prière personnelle du hassidisme : parler à Dieu avec tes propres mots, simplement et sincèrement.",
+      "en": "The personal prayer of Hasidism: speak to God in your own words, simply and sincerely.",
+      "es": "La oración personal del jasidismo: hablar con Dios con tus propias palabras, con sencillez y sinceridad."
+     }
+    },
+    {
+     "id": "tradi10",
+     "dur": 7,
+     "level": "intermediate",
+     "title": {
+      "fr": "Examen de conscience stoïcien — Grèce et Rome antiques",
+      "en": "A Stoic Evening Review — Ancient Greece and Rome",
+      "es": "Examen de conciencia estoico — Grecia y Roma antiguas"
+     },
+     "desc": {
+      "fr": "L’examen du soir des stoïciens : revoir ta journée pour progresser, sans te juger, et préparer demain.",
+      "en": "The Stoics’ evening review: look back on your day to improve, without judging yourself, and prepare for tomorrow.",
+      "es": "El examen nocturno de los estoicos: repasar tu día para mejorar, sin juzgarte, y preparar el mañana."
+     }
+    }
+   ]
+  },
   "qigong": {
    "name": {
     "fr": "Sensations & Qi Gong",
@@ -1708,7 +1953,7 @@
      "dur": 23,
      "level": "advanced",
      "title": {
-      "fr": "La porte d’ajna",
+      "fr": "La porte d’Ajna",
       "en": "The Door of Ajna",
       "es": "La puerta de Ajna"
      },
@@ -2005,7 +2250,7 @@
     },
     {
      "id": "trance06",
-     "dur": 20,
+     "dur": 21,
      "level": "advanced",
      "title": {
       "fr": "Le couloir aux mille portes",

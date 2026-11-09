@@ -1,24 +1,7 @@
 {
  "_note": "06-11 — catégories de l'app pas encore sorties sur l'App Store et Google Play : le site ne les montre pas (ni page, ni lien, ni compte sur l'accueil), même si le catalogue exporté les contient déjà. Retirer l'identifiant quand la version de l'app qui les contient est en production (accord d'Edouard). worldMeditations = « Méditations du monde » (tradi01 à tradi10), textes déjà prêts dans pages_<langue>.json, image assets/cats/catart-worldMeditations.png.",
- "categories": [
-  "worldMeditations"
- ],
- "meditations": [
-  "corps06",
-  "corps07",
-  "appren08",
-  "croiss08",
-  "croiss09",
-  "tradi01",
-  "tradi02",
-  "tradi03",
-  "tradi04",
-  "tradi05",
-  "tradi06",
-  "tradi07",
-  "tradi08",
-  "tradi09",
-  "tradi10"
- ],
- "_note_meditations": "06-11 — méditations pas encore sorties dans l'app des magasins : retirées des catégories du site (pages, comptes, durées) et des pages objectifs tant qu'elles sont listées ici, même si le catalogue exporté les contient. corps06 (douleur), corps07 (anxiété et panique), appren08 (première méditation), croiss08 (décision), croiss09 (confiance en soi), tradi01 à tradi10 (Méditations du monde). Retirer l'identifiant quand la version de l'app qui la contient est en production (accord d'Edouard)."
+ "categories": [],
+ "meditations": [],
+ "_note_meditations": "06-11 — méditations pas encore sorties dans l'app des magasins : retirées des catégories du site (pages, comptes, durées) et des pages objectifs tant qu'elles sont listées ici, même si le catalogue exporté les contient. corps06 (douleur), corps07 (anxiété et panique), appren08 (première méditation), croiss08 (décision), croiss09 (confiance en soi), tradi01 à tradi10 (Méditations du monde). Retirer l'identifiant quand la version de l'app qui la contient est en production (accord d'Edouard).",
+ "_note_0911": "09-11 — mise à jour de l'app EN PRODUCTION (59dd1a4e, version 2.0.0, accord d'Edouard dans la session « Méditations MeditaDream ») : worldMeditations et les 15 méditations (corps06, corps07, appren08, croiss08, croiss09, tradi01 à tradi10) retirées du verrou ; catalogue du site réexporté de l'app (_tools/app_catalog.json). Pour une prochaine nouveauté de l'app : remettre ici son identifiant jusqu'à sa mise en production."
 }
