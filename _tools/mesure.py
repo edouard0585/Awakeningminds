@@ -7,6 +7,10 @@ Usage : python3 _tools/mesure.py            (toutes les pages)
 import hashlib, os, re, sys
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GA = 'G-CFLRM9XKV2'
+# 14-11 (demande d'Edouard : « Cloudflare Web Analytics et Microsoft Clarity ») : jeton du site dans Cloudflare Web Analytics
+# (sans cookie, chargé pour tous les visiteurs) et projet Microsoft Clarity (chargé seulement après « Accepter »).
+CF_TOKEN = '06a7178e079143f4ae03c9187a022455'
+CLARITY = 'zdq328fktp'
 JS = os.path.join(RACINE, 'assets', 'mesure.js')
 BLOC = re.compile(r'\n?<!--mesure:debut-->.*?<!--mesure:fin-->', re.S)
 POLITIQUE = {'fr': '/fr/privacy.html#site-web', 'en': '/en/privacy.html#website', 'es': '/es/privacy.html#sitio-web'}
@@ -28,17 +32,18 @@ def bloc(rel, html):
     m = re.search(r'<html[^>]*\blang="([a-z]{2})', html)
     lang = m.group(1) if m else 'en'
     v = hashlib.md5(open(JS, 'rb').read()).hexdigest()[:8]
+    extra = (' data-cf="%s"' % CF_TOKEN if CF_TOKEN else '') + (' data-clarity="%s"' % CLARITY if CLARITY else '')
     return ('\n<!--mesure:debut--><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}'
             "gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});"
-            "try{var c=JSON.parse(localStorage.getItem('consent_mesure_v1'));if(c&&c.v==='oui'&&Date.now()-c.t<395*864e5)gtag('consent','update',{analytics_storage:'granted'})}catch(e){}"
+            "try{var k=['consent_mesure_v2','consent_mesure_v1'];for(var i=0;i<2;i++){var c=JSON.parse(localStorage.getItem(k[i]));if(c){if(c.v==='oui'&&Date.now()-c.t<395*864e5)gtag('consent','update',{analytics_storage:'granted'});break}}}catch(e){}"
             "gtag('js',new Date());gtag('config','%s',{content_language:'%s',page_type:'%s',content_group:'%s'})</script>"
             # 06-11 (vitesse, INP) : gtag.js chargé 1,5 s après l'événement « load » au lieu de pendant l'affichage (il bloquait le fil
             # principal jusqu'à 460 ms sur mobile) ; les appels faits avant sont gardés dans dataLayer et envoyés à son arrivée
             '<script>(function(){var f=function(){var s=document.createElement("script");s.async=true;'
             's.src="https://www.googletagmanager.com/gtag/js?id=%s";document.head.appendChild(s)};'
             'if(document.readyState==="complete")setTimeout(f,1500);else addEventListener("load",function(){setTimeout(f,1500)})})()</script>'
-            '<script src="/assets/mesure.js?v=%s" defer data-politique="%s" data-fond="#14142a" data-texte="#F5E6C8" data-accent="#D4AF6A" data-accent-texte="#0A0A14"></script>'
-            '<!--mesure:fin-->') % (GA, lang, type_page(rel), type_page(rel), GA, v, POLITIQUE.get(lang, POLITIQUE['en']))
+            '<script src="/assets/mesure.js?v=%s" defer data-politique="%s" data-ga="%s" data-type="%s"%s data-fond="#14142a" data-texte="#F5E6C8" data-accent="#D4AF6A" data-accent-texte="#0A0A14"></script>'
+            '<!--mesure:fin-->') % (GA, lang, type_page(rel), type_page(rel), GA, v, POLITIQUE.get(lang, POLITIQUE['en']), GA, type_page(rel), extra)
 
 def pages():
     for d, sous, fich in os.walk(RACINE):
