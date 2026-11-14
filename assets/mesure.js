@@ -65,13 +65,50 @@
     var h = a.getAttribute('href') || '';
     if (/^tel:/i.test(h)) g('event', 'contact_tel', {link_url: h});
     else if (/^mailto:/i.test(h)) g('event', 'contact_email', {link_url: h.split('?')[0]});
-    else if (/(apps|itunes)\.apple\.com/.test(h)) g('event', 'store_click', {store: 'app_store', link_url: h});
-    else if (/play\.google\.com/.test(h)) g('event', 'store_click', {store: 'google_play', link_url: h});
+    else if (/(apps|itunes)\.apple\.com/.test(h)) g('event', 'store_click', {store: 'app_store', link_url: h, emplacement: emplacement(a)});
+    else if (/play\.google\.com/.test(h)) g('event', 'store_click', {store: 'google_play', link_url: h, emplacement: emplacement(a)});
     else {
       var m = h.match(/^(?:https?:\/\/(?:www\.)?meditadream\.com)?\/(app-store|google-play|app)\/?(?:[?#].*)?$/i);
-      if (m) g('event', 'store_click', {store: {'app-store': 'app_store', 'google-play': 'google_play', app: 'auto'}[m[1].toLowerCase()], link_url: h});
+      if (m) g('event', 'store_click', {store: {'app-store': 'app_store', 'google-play': 'google_play', app: 'auto'}[m[1].toLowerCase()], link_url: h, emplacement: emplacement(a)});
     }
   }, true);
-  function init() { lienPied(); if (!lire()) ouvrir(); }
+  /* 14-11 (demande d'Edouard : tout le comportement des visiteurs) — quel bouton de téléchargement, profondeur de lecture,
+     vidéo de présentation, questions de la FAQ ouvertes. Noms d'événements de Google (scroll, video_*) pour ses dimensions. */
+  function emplacement(a) {
+    if (a.closest('footer')) return 'pied_de_page';
+    if (a.closest('aside.mdb')) return 'bandeau_haut';
+    if (a.closest('#download')) return 'section_telecharger';
+    if (a.closest('.cta')) return 'encadre_pratiquer';
+    if (a.closest('header,.hero')) return 'haut_de_page';
+    if (a.closest('article,main,section')) return 'contenu';
+    return 'autre';
+  }
+  var paliers = {};
+  function defil() {
+    var d = document.documentElement, haut = d.scrollHeight - window.innerHeight;
+    if (haut < 300) return;
+    var p = (window.pageYOffset || d.scrollTop) / haut * 100;
+    [25, 50, 75].forEach(function (x) { if (p >= x && !paliers[x]) { paliers[x] = 1; g('event', 'scroll', {percent_scrolled: x}); } });
+  }
+  window.addEventListener('scroll', defil, {passive: true});
+  function videos() {
+    [].forEach.call(document.querySelectorAll('video'), function (v) {
+      if (v.getAttribute('data-mesure')) return; v.setAttribute('data-mesure', '1');
+      var sec = v.closest('section'), h2 = sec && sec.querySelector('h2'), fait = {};
+      var titre = v.getAttribute('title') || (h2 && h2.textContent.trim()) || v.id || 'video';
+      var p = function (x) { var o = {video_title: titre, video_provider: 'meditadream', video_url: v.currentSrc || ''}; if (x) o.video_percent = x; return o; };
+      v.addEventListener('play', function () { if (!fait.debut) { fait.debut = 1; g('event', 'video_start', p()); } });
+      v.addEventListener('timeupdate', function () {
+        if (!v.duration) return; var q = v.currentTime / v.duration * 100;
+        [10, 25, 50, 75].forEach(function (x) { if (q >= x && !fait[x]) { fait[x] = 1; g('event', 'video_progress', p(x)); } });
+      });
+      v.addEventListener('ended', function () { if (!fait.fin) { fait.fin = 1; g('event', 'video_complete', p(100)); } });
+    });
+  }
+  document.addEventListener('toggle', function (e) {
+    var d = e.target; if (!d || d.tagName !== 'DETAILS' || !d.open || d.className) return;
+    var s = d.querySelector('summary'); if (s) g('event', 'faq_open', {question: s.textContent.trim().slice(0, 100)});
+  }, true);
+  function init() { lienPied(); videos(); if (!lire()) ouvrir(); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
