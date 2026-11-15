@@ -114,6 +114,8 @@ def section_theme(x, lang):
     if sh:
         h += (f'<figure class="ap-shot"><img src="/assets/shots/{sh["f"]}" alt="{E(sh["alt"])}" title="{E(sh["titre"])}" width="{sh["w"]}" height="{sh["h"]}" '
               f'loading="lazy" decoding="async"><figcaption>{E(sh["cap"].replace("{meds}", "").replace("{cats}", "").replace("{worlds}", ""))}</figcaption></figure>')
+    if x.get('liens'):   # 15-11 : sources externes [texte, adresse], en nofollow, avant les paragraphes (mentions)
+        h += '<ul class="ap-sources">' + ''.join(f'<li><a href="{E(u_)}" rel="nofollow noopener" target="_blank">{E(t_)}</a></li>' for t_, u_ in x['liens']) + '</ul>'
     h += ''.join(f'<p>{E(q)}</p>' for q in x.get('p', []))
     if x.get('ul'): h += '<ul>' + ''.join(f'<li>{E(b)}</li>' for b in x['ul']) + '</ul>'
     if x.get('ol'): h += '<ol class="ap-etapes">' + ''.join(f'<li>{E(b)}</li>' for b in x['ol']) + '</ol>'
@@ -122,8 +124,6 @@ def section_theme(x, lang):
         h += ('<div class="ap-table"><table><thead><tr>' + ''.join(f'<th scope="col">{E(c)}</th>' for c in tb['head']) + '</tr></thead><tbody>'
               + ''.join('<tr>' + ''.join(f'<th scope="row">{E(c)}</th>' if i == 0 else f'<td>{E(c)}</td>' for i, c in enumerate(r)) + '</tr>' for r in tb['rows'])
               + '</tbody></table></div>' + (f'<p class="ap-note">{E(tb["note"])}</p>' if tb.get('note') else ''))
-    if x.get('liens'):   # 15-11 : sources externes [texte, adresse], en nofollow
-        h += '<ul class="ap-sources">' + ''.join(f'<li><a href="{E(u_)}" rel="nofollow noopener" target="_blank">{E(t_)}</a></li>' for t_, u_ in x['liens']) + '</ul>'
     if x.get('dragons'):
         paresseux = ' loading="lazy" decoding="async"'
         figs = []
