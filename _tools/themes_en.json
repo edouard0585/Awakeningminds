@@ -562,5 +562,106 @@
     "Start with 5 or 10 minutes a day. Add five minutes when the session starts to feel short. Sitting every day counts more than sitting long."
    ]
   ]
+ },
+ "video": {
+  "slug": "meditation-app-demo-video",
+  "seo": "MeditaDream App Demo: Full Video Walkthrough (2:41)",
+  "desc": "Watch a 2:41 demo of MeditaDream, recorded on an iPhone: the Oracle, immersive worlds, the guided meditation library, your guides and your journals.",
+  "h1": "MeditaDream app demo: the meditation app, screen by screen",
+  "lead": "See the app in motion before you install it. This walkthrough was recorded on an iPhone, so you see exactly what opens on your phone. Tap any moment in the list to jump straight to it.",
+  "video": {
+   "name": "MeditaDream — the free meditation app in action",
+   "desc": "A tour of the app recorded on an iPhone: the Oracle, immersive worlds, the guided meditation library, sanctuaries, guides and journals — no subscription, offline once downloaded.",
+   "dur": "PT2M41S",
+   "secondes": 161,
+   "date": "2026-10-11",
+   "fichier": "tour-en"
+  },
+  "chap_t": "Moments in this video",
+  "chapitres": [
+   [
+    0,
+    "Home",
+    "The home screen shows your progress, the meditation the Oracle suggests today and your dragon companion, which grows as you practice."
+   ],
+   [
+    3,
+    "The Oracle",
+    "You type how you feel, in your own words. The Oracle answers with one sentence, then turns over three cards: three guided meditations for this moment. Below them, tips for your day."
+   ],
+   [
+    28,
+    "The worlds",
+    "Immersive worlds are complete journeys, like the Frozen Sanctuary hidden under the ice. Each one downloads once, then plays anywhere, even with no signal."
+   ],
+   [
+    43,
+    "Trance and astral projection",
+    "A whole category for deep states of consciousness, with guided astral projection protocols you follow step by step, such as the Rope Technique."
+   ],
+   [
+    48,
+    "The library",
+    "Every guided meditation, sorted by category: basics, 4-minute breaks, sleep, emotional growth and more. A search bar finds a session by topic."
+   ],
+   [
+    68,
+    "Timer, alarm and ambience",
+    "For days without a voice: a meditation timer with a bell, a gentle alarm and a timed ambience, sound only, that fades out."
+   ],
+   [
+    78,
+    "Your sanctuary",
+    "You build your own inner place: its name, its sky, its colors and sounds, even an entry ritual. You can return to it whenever you like."
+   ],
+   [
+    83,
+    "Your guides",
+    "You record the guides you meet in meditation, their messages and the gifts they bring. Each guide can be linked to your sanctuary."
+   ],
+   [
+    88,
+    "Learn to meditate",
+    "The Learning section covers the basics: posture, breath and attention. It also clears up the myths that stop beginners."
+   ],
+   [
+    103,
+    "Your journals",
+    "Several journals are ready for you: gratitude, emotions, signs and synchronicities, dreams. Writing takes seconds, and everything stays on your phone."
+   ],
+   [
+    118,
+    "Your history and reflections",
+    "Every finished meditation goes into your history. You can add your reflections: how you felt, what you sensed, what you want to keep."
+   ],
+   [
+    153,
+    "Settings",
+    "In Settings, you adjust the tips banner, retake the Oracle questions and find the privacy page."
+   ]
+  ],
+  "sections": [
+   {
+    "h2": "Everything in this demo is free",
+    "p": [
+     "Nothing in this video sits behind a paywall. There are no ads and no account to create.",
+     "You only need a connection to download a session the first time. After that it plays offline, on a train, a plane or a mountain trail."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Is this the real app?",
+    "Yes. It was recorded on an iPhone, in the same app you download. A few screens have changed a little since, and new meditations have been added."
+   ],
+   [
+    "Is MeditaDream on Android?",
+    "Yes: on the App Store for iPhone and iPad, and on Google Play for Android."
+   ],
+   [
+    "Is everything in the video free?",
+    "Yes, all of it: no subscription, no ads, no account. Your journals and notes stay on your phone."
+   ]
+  ]
  }
 }

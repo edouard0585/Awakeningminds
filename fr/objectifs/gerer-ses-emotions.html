@@ -311,6 +311,18 @@ article.post .ap-links a:hover{border-color:var(--gold);color:var(--gold)}
 .ap-shot{float:right;width:min(40%,250px);margin:6px 0 18px 24px}.ap-shot img{width:100%;height:auto;border-radius:26px;border:1px solid rgba(255,255,255,.12);box-shadow:0 18px 40px -18px rgba(0,0,0,.8)}
 .ap-shot figcaption{font-size:13px;line-height:1.45;color:var(--muted);margin-top:8px;text-align:center}
 .ap-clear{clear:both}
+.ap-table{overflow-x:auto;margin:14px 0 6px;border:1px solid var(--line);border-radius:14px}.ap-table table{border-collapse:collapse;width:100%;min-width:600px;font-size:14.5px;line-height:1.45}
+.ap-table th,.ap-table td{border-bottom:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top}.ap-table thead th{color:var(--gold);font-weight:500;background:rgba(212,175,106,.06)}
+.ap-table tbody th{font-weight:500;color:#fff7e8}.ap-table tr:last-child>*{border-bottom:0}.ap-note{font-size:13px;color:var(--muted);margin:6px 0 14px}.ap-sources{font-size:14px}
+.ap-video{display:grid;grid-template-columns:minmax(0,320px) minmax(0,1fr);gap:32px;align-items:start;margin:8px 0 26px}
+.ap-v-player video{width:100%;height:auto;display:block;border-radius:28px;background:#0e0c1c;aspect-ratio:720/1474;border:1px solid rgba(255,255,255,.12)}
+.ap-v-chap{min-width:0}.ap-v-chap h2{margin-top:0}ol.ap-chap{list-style:none;padding:0;margin:0;display:grid;gap:10px}
+.ap-chap li{border:1px solid var(--line);border-radius:14px;padding:10px 14px;background:rgba(255,255,255,.02)}
+.ap-chap button{display:flex;gap:12px;align-items:baseline;background:none;border:0;padding:0;color:inherit;font:inherit;cursor:pointer;text-align:left;width:100%}
+.ap-chap time{color:var(--gold);font-variant-numeric:tabular-nums;font-size:13px;min-width:34px}
+.ap-chap b{font-family:'Cormorant Garamond','Cormorant Fallback',Georgia,serif;font-size:19px;font-weight:500;color:#fff7e8}.ap-chap button.on b{color:var(--gold)}
+.ap-chap p{margin:4px 0 0 46px;font-size:15px;line-height:1.55}.ap-chap li:has(button.on){border-color:rgba(212,175,106,.7);background:rgba(212,175,106,.1)}
+@media(max-width:760px){.ap-video{grid-template-columns:1fr}.ap-v-player{max-width:300px;margin:0 auto;width:100%}}
 .ap-dstrip{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:14px 0 6px}.ap-dstrip figure{margin:0;text-align:center}
 .ap-dstrip img{width:100%;height:auto;max-width:150px}.ap-dstrip figcaption{font-size:13px;color:var(--muted);margin-top:4px}
 ol.ap-etapes{counter-reset:etape;list-style:none;padding:0;margin:12px 0 18px}ol.ap-etapes li{counter-increment:etape;position:relative;padding:4px 0 10px 46px}

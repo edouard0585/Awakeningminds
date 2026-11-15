@@ -447,5 +447,106 @@
     "Non. Ils restent sur ton téléphone."
    ]
   ]
+ },
+ "video": {
+  "slug": "video-application-meditation",
+  "seo": "MeditaDream en vidéo : visite de l’appli de méditation",
+  "desc": "Regarde MeditaDream filmée sur iPhone en 2 min 23 : l’Oracle, les mondes immersifs, la bibliothèque de méditations guidées, tes guides et tes journaux.",
+  "h1": "MeditaDream en vidéo : l’application de méditation, écran par écran",
+  "lead": "Avant de la télécharger, regarde-la tourner. Cette visite a été filmée sur un iPhone : tu vois l’application telle qu’elle s’affiche sur ton téléphone. Touche un moment de la liste pour y aller directement.",
+  "video": {
+   "name": "MeditaDream — l’application de méditation gratuite en vidéo",
+   "desc": "Visite de l’application filmée sur iPhone : l’Oracle, les mondes immersifs, la bibliothèque de méditations guidées, les sanctuaires, les guides et les journaux — 100 % gratuite, hors ligne une fois téléchargée.",
+   "dur": "PT2M23S",
+   "secondes": 143,
+   "date": "2026-10-11",
+   "fichier": "tour-fr"
+  },
+  "chap_t": "Les moments de la vidéo",
+  "chapitres": [
+   [
+    0,
+    "L’accueil",
+    "L’écran d’accueil montre ta progression, la méditation que l’Oracle te recommande et ton dragon compagnon, qui grandit avec ta pratique."
+   ],
+   [
+    3,
+    "L’Oracle",
+    "Tu écris comment tu te sens, avec tes mots. L’Oracle répond par une phrase, puis retourne trois cartes : trois méditations guidées pour ce moment. En dessous, des conseils pour ta journée."
+   ],
+   [
+    27,
+    "Les mondes",
+    "Les mondes immersifs sont des voyages complets, comme le Sanctuaire Gelé caché sous la glace. Chacun se télécharge une fois, puis s’écoute partout, même sans réseau."
+   ],
+   [
+    37,
+    "Transe et voyage astral",
+    "Une catégorie entière pour les états de conscience profonds : des protocoles de voyage astral guidés pas à pas, comme « La Corde » ou « La Chute Imaginaire »."
+   ],
+   [
+    47,
+    "La bibliothèque",
+    "Toutes les méditations guidées, rangées par catégorie : apprentissage, pauses de 4 minutes, sommeil, croissance émotionnelle… Une barre de recherche trouve une séance par son sujet."
+   ],
+   [
+    67,
+    "Minuteur, alarme et ambiance",
+    "Pour les jours sans voix : un minuteur avec cloche, une alarme douce et une ambiance minutée, le son seul, qui s’éteint en fondu."
+   ],
+   [
+    77,
+    "Ton sanctuaire",
+    "Tu crées ton propre lieu intérieur : son nom, son ciel, ses couleurs et ses sons, et même un rituel d’entrée. Tu y reviens quand tu veux."
+   ],
+   [
+    87,
+    "Tes guides",
+    "Tu notes les guides rencontrés en méditation, leurs messages et les présents qu’ils t’offrent. Chaque guide peut être relié à ton sanctuaire."
+   ],
+   [
+    102,
+    "Apprendre à méditer",
+    "La section Apprentissage pose les bases : la posture, le souffle et l’attention. Elle défait aussi les idées reçues qui bloquent les débutants."
+   ],
+   [
+    112,
+    "Tes journaux",
+    "Plusieurs journaux t’attendent : gratitude, émotions, signes et synchronicités, rêves. Tu écris en quelques secondes, et tout reste sur ton téléphone."
+   ],
+   [
+    132,
+    "Ton historique",
+    "Chaque méditation terminée s’inscrit dans ton historique. Tu peux y noter tes impressions : ton état, tes sensations, ce que tu gardes."
+   ],
+   [
+    137,
+    "Paramètres",
+    "Dans les paramètres, tu règles le bandeau de conseils, tu relances les questions de l’Oracle et tu retrouves la confidentialité."
+   ]
+  ],
+  "sections": [
+   {
+    "h2": "Tout ce que tu vois est gratuit",
+    "p": [
+     "Rien dans cette vidéo n’est réservé à un abonnement. Il n’y a pas de publicité et pas de compte à créer.",
+     "Une connexion sert seulement à télécharger une séance la première fois. Ensuite, elle s’écoute hors ligne, dans le train, en avion ou en montagne."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Cette vidéo montre-t-elle la vraie application ?",
+    "Oui. Elle a été filmée sur un iPhone, dans l’application telle que tu la télécharges. Quelques écrans ont un peu changé depuis, et de nouvelles méditations sont arrivées."
+   ],
+   [
+    "MeditaDream existe-t-elle sur Android ?",
+    "Oui : sur l’App Store pour iPhone et iPad, et sur Google Play pour Android."
+   ],
+   [
+    "Tout ce qu’on voit dans la vidéo est-il gratuit ?",
+    "Oui, tout : pas d’abonnement, pas de publicité, pas de compte. Tes journaux et tes notes restent sur ton téléphone."
+   ]
+  ]
  }
 }

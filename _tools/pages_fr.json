@@ -260,8 +260,8 @@
      "Cette méditation ho’oponopono dure 15 minutes : c’est la séance Ho’oponopono du Cœur. Tu y répètes, au rythme du souffle, les quatre phrases souvent résumées en « désolé, pardon, merci, je t’aime ». Aucune connaissance préalable n’est nécessaire : la voix t’accompagne du début à la fin."
     ],
     [
-     "Le travail de l’ombre, c’est quoi ?",
-     "C’est accueillir les parts de toi que tu caches ou rejettes, avec douceur. Les séances guidées t’y accompagnent pas à pas, à ton rythme."
+     "Comment commencer le travail de l’ombre ?",
+     "Par une seule peur, la plus simple à regarder. Les séances courtes comme « La peur du jugement » (7 min) ou « La peur de l’échec » (10 min) sont faites pour ça. Prends un moment calme, et note ensuite ce qui est venu dans ton journal."
     ],
     [
      "Que faire de la peur de l’abandon en amour ?",
@@ -459,7 +459,7 @@
   "buddhist": {
    "slug": "meditation-bouddhiste-guidee",
    "seo": "Méditation bouddhiste guidée en français, gratuite",
-   "desc": "Méditation bouddhiste guidée avec Avalokiteśvara, Tārā ou Mañjuśrī : {n} séances de {min} à {max} min pour la compassion et la clarté. Gratuit, sans pub.",
+   "desc": "Méditation bouddhiste guidée en français, avec Avalokiteśvara, Tārā ou Mañjuśrī : {n} séances de {min} à {max} min pour la compassion et la clarté. Gratuit.",
    "h1": "Méditation bouddhiste guidée",
    "intro": [
     "Huit séances de méditation bouddhiste, de 20 à 30 minutes, sur les pas des bodhisattvas. Tu suis le pèlerinage de Sudhana de maître en maître. Avec les onze visages d’Avalokiteśvara, bodhisattva de la compassion, tu apprends à répondre avec douceur, fermeté ou silence. L’épée de Mañjuśrī, elle, tranche les phrases qui tournent en boucle. D’autres séances t’accompagnent avec la lumière du bodhisattva Kṣitigarbha ou l’éléphant blanc de Samantabhadra. Tu montes aussi au jardin de Maitreya, bouddha à venir. Tārā, bouddha au féminin, te montre enfin la sortie de huit grands dangers.",
@@ -475,8 +475,8 @@
      "Dans le bouddhisme mahāyāna, un bodhisattva est un être qui chemine vers l’éveil en faisant le vœu d’aider tous les êtres. Avalokiteśvara incarne la compassion, Mañjuśrī la sagesse, Samantabhadra la pratique et les vœux. Zen, bouddhisme tibétain, écoles chinoises : toutes ces traditions les honorent."
     ],
     [
-     "Faut-il être bouddhiste pour suivre ces méditations ?",
-     "Non. Les bodhisattvas servent de support à l’imagination et à la bienveillance. Chacun peut les vivre à sa façon."
+     "Qu’est-ce que la méditation bouddhiste ?",
+     "C’est l’ensemble des pratiques transmises depuis le Bouddha pour apaiser l’esprit et voir clair. Ses deux piliers classiques sont le calme mental (samatha) et la vision profonde (vipassana). Ces séances y ajoutent la visualisation des bodhisattvas, courante dans le bouddhisme tibétain, pour cultiver la compassion."
     ],
     [
      "Avalokiteshvara, Chenrezig, Guanyin : est-ce le même bodhisattva ?",
@@ -536,6 +536,14 @@
    ],
    "guide": [
     {
+     "h2": "Méditation qi gong : corps, souffle et esprit",
+     "p": [
+      "La méditation qi gong repose sur ce que les maîtres chinois appellent les trois régulations : le corps, le souffle et l’esprit. On les ajuste l’un après l’autre, jusqu’à ce qu’ils se posent ensemble.",
+      "Elle prend deux formes. Le qi gong immobile se pratique assis ou debout, sans bouger, comme le zhan zhuang, la posture de l’arbre que reprend « L’arbre immobile ». Le qi gong en mouvement suit des gestes lents, comme dans « La danse du Qi ».",
+      "L’attention se pose souvent sur le dantian inférieur, quelques doigts sous le nombril. Ce point d’ancrage tout simple fait du qi gong une méditation, et pas seulement une gymnastique douce."
+     ]
+    },
+    {
      "h2": "Le Qi Gong, assis ou debout",
      "p": [
       "Le Qi Gong est une pratique chinoise qui relie souffle, attention et mouvements lents. Ici, tu le vis surtout de l’intérieur : chaleur, picotements, sensation d’énergie qui circule.",
@@ -569,8 +577,8 @@
      "Les séances consacrées à un seul sens durent de 16 à 18 minutes. Celles qui réunissent les trois sens, ainsi que La pièce que tu connais, durent de 27 à 29 minutes."
     ],
     [
-     "Je ne vois pas d’images, est-ce grave ?",
-     "Non, c’est très courant. Commence par l’ouïe et le toucher, souvent plus faciles. Les images viennent avec la pratique."
+     "Faut-il fermer les yeux pour visualiser ?",
+     "C’est plus facile, mais pas obligatoire. Les yeux fermés, rien autour ne vient déranger les images intérieures. Si fermer les yeux te gêne, garde-les mi-clos, le regard posé au sol devant toi."
     ],
     [
      "Ces séances sont-elles un exercice de visualisation positive ?",

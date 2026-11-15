@@ -436,5 +436,106 @@
     "No. Se quedan en tu teléfono."
    ]
   ]
+ },
+ "video": {
+  "slug": "video-app-meditacion",
+  "seo": "MeditaDream en vídeo: así funciona la app de meditación",
+  "desc": "Mira MeditaDream grabada en un iPhone, en 2:27: el Oráculo, los mundos inmersivos, la biblioteca de meditaciones guiadas, tus guías y tus diarios.",
+  "h1": "Así funciona MeditaDream: la app de meditación en vídeo",
+  "lead": "Antes de descargarla, mírala en marcha. Este recorrido se grabó en un iPhone: ves la app tal como se abre en tu teléfono. Toca un momento de la lista para ir directamente.",
+  "video": {
+   "name": "MeditaDream — la app de meditación gratis en vídeo",
+   "desc": "Un recorrido por la app grabado en un iPhone: el Oráculo, los mundos inmersivos, la biblioteca de meditaciones guiadas, los santuarios, los guías y los diarios — 100 % gratis, sin conexión una vez descargada.",
+   "dur": "PT2M27S",
+   "secondes": 147,
+   "date": "2026-10-11",
+   "fichier": "tour-es"
+  },
+  "chap_t": "Los momentos del vídeo",
+  "chapitres": [
+   [
+    0,
+    "Inicio",
+    "La pantalla de inicio muestra tu progreso, la meditación que te recomienda el Oráculo y tu dragón compañero, que crece con tu práctica."
+   ],
+   [
+    3,
+    "El Oráculo",
+    "Escribes cómo te sientes, con tus palabras. El Oráculo responde con una frase y da la vuelta a tres cartas: tres meditaciones guiadas para este momento. Debajo, consejos para tu día."
+   ],
+   [
+    38,
+    "Los mundos",
+    "Los mundos inmersivos son viajes completos, como el Santuario Helado escondido bajo el hielo. Cada uno se descarga una vez y luego se escucha en cualquier parte, incluso sin cobertura."
+   ],
+   [
+    48,
+    "Trance y viaje astral",
+    "Una categoría entera para los estados profundos de conciencia, con protocolos de viaje astral guiados paso a paso, como «La Cuerda»."
+   ],
+   [
+    53,
+    "La biblioteca",
+    "Todas las meditaciones guiadas, ordenadas por categoría: aprendizaje, pausas de 4 minutos, sueño, crecimiento emocional… Un buscador encuentra una sesión por su tema."
+   ],
+   [
+    78,
+    "Temporizador, alarma y ambiente",
+    "Para los días sin voz: un temporizador con campana, una alarma suave y un ambiente con temporizador, solo sonido, que se apaga en fundido."
+   ],
+   [
+    88,
+    "Tu santuario",
+    "Creas tu propio lugar interior: su nombre, su cielo, sus colores y sus sonidos, incluso un ritual de entrada. Vuelves a él cuando quieras."
+   ],
+   [
+    93,
+    "Tus guías",
+    "Anotas los guías que encuentras al meditar, sus mensajes y los regalos que te traen. Cada guía puede unirse a tu santuario."
+   ],
+   [
+    113,
+    "Aprender a meditar",
+    "La sección Aprendizaje explica lo básico: la postura, la respiración y la atención. También desmonta las ideas falsas que frenan a quien empieza."
+   ],
+   [
+    123,
+    "Tus diarios",
+    "Varios diarios te esperan: gratitud, emociones, señales y sincronicidades, sueños. Escribes en segundos, y todo se queda en tu teléfono."
+   ],
+   [
+    133,
+    "Tus impresiones",
+    "Cada meditación terminada queda en tu historial. Puedes anotar tus impresiones: cómo estabas, qué sentiste, qué te llevas."
+   ],
+   [
+    138,
+    "Ajustes",
+    "En Ajustes regulas la franja de consejos, vuelves a responder las preguntas del Oráculo y encuentras la privacidad."
+   ]
+  ],
+  "sections": [
+   {
+    "h2": "Todo lo que ves es gratis",
+    "p": [
+     "Nada de este vídeo está reservado a una suscripción. No hay anuncios ni cuenta que crear.",
+     "Solo necesitas conexión para descargar una sesión la primera vez. Después se escucha sin conexión, en el tren, en el avión o en la montaña."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "¿Es la app real?",
+    "Sí. Se grabó en un iPhone, en la misma app que descargas. Algunas pantallas han cambiado un poco desde entonces, y han llegado nuevas meditaciones."
+   ],
+   [
+    "¿MeditaDream está en Android?",
+    "Sí: en el App Store para iPhone y iPad, y en Google Play para Android."
+   ],
+   [
+    "¿Todo lo que se ve en el vídeo es gratis?",
+    "Sí, todo: sin suscripción, sin anuncios, sin cuenta. Tus diarios y tus notas se quedan en tu teléfono."
+   ]
+  ]
  }
 }

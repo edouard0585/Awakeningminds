@@ -69,23 +69,24 @@ XL = {  # libellés des blocs ajoutés le 09-10 (mondes étoffés, pages thémat
 }
 # Pages thématiques (mots-clés des recherches réelles, 09-10) : textes dans _tools/themes_<langue>.json ;
 # séances et sons ajoutés ici depuis les données de l'app (jamais recopiés à la main).
-THEMES = ('sons', 'gratitude', 'oracle', 'dragon', 'journaux', 'creer', 'minuteur')   # 23-10 : « reve » et « chakras » sont devenues des pages piliers ; 06-11 : pages des fonctionnalités ; 07-11 : minuteur (anglais seulement : « meditation timer », 1 000-10 000 recherches)
+THEMES = ('sons', 'gratitude', 'oracle', 'dragon', 'journaux', 'creer', 'minuteur', 'video', 'alternative')   # 15-11 : page vidéo et page « alternative gratuite » (pistes 2 et 3 du SEO)   # 23-10 : « reve » et « chakras » sont devenues des pages piliers ; 06-11 : pages des fonctionnalités ; 07-11 : minuteur (anglais seulement : « meditation timer », 1 000-10 000 recherches)
 THEME_PILIERS = {'sons': ['reve', 'mondes', 'chakras'], 'gratitude': ['emotions', 'guides', 'visualisation'],
                  'oracle': ['emotions', 'guides'], 'dragon': ['mondes'], 'journaux': ['reve', 'emotions', 'guides'], 'creer': ['visualisation', 'mondes'],
-                 'minuteur': ['qigong', 'emotions']}
+                 'minuteur': ['qigong', 'emotions'], 'video': ['mondes', 'emotions', 'reve'], 'alternative': ['emotions', 'reve', 'mondes']}
 PILIERS_T = {'fr': 'Les guides par thème', 'en': 'Guides by theme', 'es': 'Guías por tema'}
 THEME_IMG = {'sons': 'assets/worlds/mushroomForest.jpg', 'reve': 'assets/cats/catart-trance.png',
              'chakras': 'assets/cats/catart-calm.png', 'gratitude': 'assets/cats/catart-emotionalGrowth.png',
              'oracle': 'assets/worlds/celestialLibrary.jpg', 'dragon': 'assets/worlds/skyIsland.jpg',
              'journaux': 'assets/worlds/desertOasis.jpg', 'creer': 'assets/worlds/zenGarden.jpg',
-             'minuteur': 'assets/worlds/himalayanMonastery.jpg'}
+             'minuteur': 'assets/worlds/himalayanMonastery.jpg', 'video': None,   # 15-11 : la page vidéo montre l'affiche de la vidéo
+             'alternative': 'assets/worlds/crystalCave.jpg'}
 THEME_SEANCES = {'reve': ['reves01', 'reves02', 'corpsc03', 'consci02', 'consci05'],
                  'chakras': ['chakra01', 'chakra02', 'cons02', 'corpsc01'],
                  'gratitude': ['croiss03', '4minut03', 'guides01', 'croiss02', 'cons06']}
 THEME_CATS = {'sons': ['calm', 'fourMin'], 'reve': ['calm', 'trance'], 'chakras': ['calm', 'thirdEye', 'qigong'], 'gratitude': ['emotionalGrowth', 'fourMin'],
               'oracle': ['fourMin', 'emotionalGrowth', 'calm'], 'dragon': ['learningBasics', 'fourMin'],
               'journaux': ['calm', 'emotionalGrowth', 'shadow'], 'creer': ['learningBasics', 'visualisation'],
-              'minuteur': ['learningBasics', 'fourMin', 'buddhist', 'calm']}
+              'minuteur': ['learningBasics', 'fourMin', 'buddhist', 'calm'], 'video': ['learningBasics', 'fourMin', 'calm'], 'alternative': ['learningBasics', 'calm', 'fourMin']}
 # 06-11 : captures d'écran (assets/shots/manifest.json : alt et légende par langue) et stades du dragon dans les sections
 try:
     SHOTS = {x['f']: x for l, xs in json.load(open(os.path.join(ROOT, 'assets', 'shots', 'manifest.json'), encoding='utf-8')).items() for x in xs}
@@ -116,6 +117,13 @@ def section_theme(x, lang):
     h += ''.join(f'<p>{E(q)}</p>' for q in x.get('p', []))
     if x.get('ul'): h += '<ul>' + ''.join(f'<li>{E(b)}</li>' for b in x['ul']) + '</ul>'
     if x.get('ol'): h += '<ol class="ap-etapes">' + ''.join(f'<li>{E(b)}</li>' for b in x['ol']) + '</ol>'
+    if x.get('table'):   # 15-11 : tableau comparatif (première colonne = en-tête de ligne), défilement horizontal sur téléphone
+        tb = x['table']
+        h += ('<div class="ap-table"><table><thead><tr>' + ''.join(f'<th scope="col">{E(c)}</th>' for c in tb['head']) + '</tr></thead><tbody>'
+              + ''.join('<tr>' + ''.join(f'<th scope="row">{E(c)}</th>' if i == 0 else f'<td>{E(c)}</td>' for i, c in enumerate(r)) + '</tr>' for r in tb['rows'])
+              + '</tbody></table></div>' + (f'<p class="ap-note">{E(tb["note"])}</p>' if tb.get('note') else ''))
+    if x.get('liens'):   # 15-11 : sources externes [texte, adresse], en nofollow
+        h += '<ul class="ap-sources">' + ''.join(f'<li><a href="{E(u_)}" rel="nofollow noopener" target="_blank">{E(t_)}</a></li>' for t_, u_ in x['liens']) + '</ul>'
     if x.get('dragons'):
         paresseux = ' loading="lazy" decoding="async"'
         figs = []
@@ -220,6 +228,18 @@ CSS = """
 .ap-shot{float:right;width:min(40%,250px);margin:6px 0 18px 24px}.ap-shot img{width:100%;height:auto;border-radius:26px;border:1px solid rgba(255,255,255,.12);box-shadow:0 18px 40px -18px rgba(0,0,0,.8)}
 .ap-shot figcaption{font-size:13px;line-height:1.45;color:var(--muted);margin-top:8px;text-align:center}
 .ap-clear{clear:both}
+.ap-table{overflow-x:auto;margin:14px 0 6px;border:1px solid var(--line);border-radius:14px}.ap-table table{border-collapse:collapse;width:100%;min-width:600px;font-size:14.5px;line-height:1.45}
+.ap-table th,.ap-table td{border-bottom:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top}.ap-table thead th{color:var(--gold);font-weight:500;background:rgba(212,175,106,.06)}
+.ap-table tbody th{font-weight:500;color:#fff7e8}.ap-table tr:last-child>*{border-bottom:0}.ap-note{font-size:13px;color:var(--muted);margin:6px 0 14px}.ap-sources{font-size:14px}
+.ap-video{display:grid;grid-template-columns:minmax(0,320px) minmax(0,1fr);gap:32px;align-items:start;margin:8px 0 26px}
+.ap-v-player video{width:100%;height:auto;display:block;border-radius:28px;background:#0e0c1c;aspect-ratio:720/1474;border:1px solid rgba(255,255,255,.12)}
+.ap-v-chap{min-width:0}.ap-v-chap h2{margin-top:0}ol.ap-chap{list-style:none;padding:0;margin:0;display:grid;gap:10px}
+.ap-chap li{border:1px solid var(--line);border-radius:14px;padding:10px 14px;background:rgba(255,255,255,.02)}
+.ap-chap button{display:flex;gap:12px;align-items:baseline;background:none;border:0;padding:0;color:inherit;font:inherit;cursor:pointer;text-align:left;width:100%}
+.ap-chap time{color:var(--gold);font-variant-numeric:tabular-nums;font-size:13px;min-width:34px}
+.ap-chap b{font-family:'Cormorant Garamond',Georgia,serif;font-size:19px;font-weight:500;color:#fff7e8}.ap-chap button.on b{color:var(--gold)}
+.ap-chap p{margin:4px 0 0 46px;font-size:15px;line-height:1.55}.ap-chap li:has(button.on){border-color:rgba(212,175,106,.7);background:rgba(212,175,106,.1)}
+@media(max-width:760px){.ap-video{grid-template-columns:1fr}.ap-v-player{max-width:300px;margin:0 auto;width:100%}}
 .ap-dstrip{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:14px 0 6px}.ap-dstrip figure{margin:0;text-align:center}
 .ap-dstrip img{width:100%;height:auto;max-width:150px}.ap-dstrip figcaption{font-size:13px;color:var(--muted);margin-top:4px}
 ol.ap-etapes{counter-reset:etape;list-style:none;padding:0;margin:12px 0 18px}ol.ap-etapes li{counter-increment:etape;position:relative;padding:4px 0 10px 46px}
@@ -701,6 +721,41 @@ fetch('https://formsubmit.co/ajax/edouard@meditadream.com',{method:'POST',header
     return written
 
 
+# 15-11 (piste 2 du SEO) : page vidéo par langue. Google n'indexait pas la visite filmée des accueils (« Video isn't on a
+# watch page ») : ici la vidéo est en tête, chaque moment est décrit et cliquable, et le VideoObject (avec ses Clip) n'est
+# déclaré que sur cette page. Textes et secondes des moments : clé « video » de themes_<langue>.json.
+VIDEO_JS = ('<script>(function(){var v=document.getElementById("tour");if(!v)return;'
+            'var bts=[].slice.call(document.querySelectorAll(".ap-chap button"));'
+            'function aller(t){var go=function(){v.currentTime=t;var p=v.play();if(p&&p.catch)p.catch(function(){});};'
+            'if(v.readyState>=1)go();else{v.addEventListener("loadedmetadata",go,{once:true});v.load();}}'
+            'bts.forEach(function(b){b.addEventListener("click",function(){aller(+b.getAttribute("data-t"));'
+            'if(window.innerWidth<760)v.scrollIntoView({behavior:"smooth",block:"start"});});});'
+            'v.addEventListener("timeupdate",function(){var t=v.currentTime,cur=null;'
+            'bts.forEach(function(b){if(+b.getAttribute("data-t")<=t+0.2)cur=b;});'
+            'bts.forEach(function(b){b.classList.toggle("on",b===cur);});});'
+            'var q=new URLSearchParams(location.search).get("t");if(q&&!isNaN(+q))aller(+q);})();</script>')
+
+
+def video_bloc(s, vd):
+    ch = ''.join(f'<li><button type="button" data-t="{a}"><time datetime="PT{a // 60}M{a % 60}S">{a // 60}:{a % 60:02d}</time>'
+                 f'<b>{E(n)}</b></button><p>{E(tx)}</p></li>' for a, n, tx in s['chapitres'])
+    return (f'<div class="ap-video" id="video"><div class="ap-v-player"><video id="tour" controls playsinline preload="metadata" '
+            f'width="720" height="1474" poster="/assets/video/{vd["fichier"]}.webp" title="{E(vd["name"])}">'
+            f'<source src="/assets/video/{vd["fichier"]}.mp4" type="video/mp4"></video></div>'
+            f'<div class="ap-v-chap"><h2>{E(s["chap_t"])}</h2><ol class="ap-chap">{ch}</ol></div></div>' + VIDEO_JS)
+
+
+def video_ld(bb, path, src, vd, chapitres, lang):
+    fins = [a for a, _, _ in chapitres[1:]] + [vd['secondes']]
+    return {'@type': 'VideoObject', '@id': bb.BASE + path + '#video', 'name': vd['name'], 'description': vd['desc'],
+            'thumbnailUrl': bb.BASE + src, 'contentUrl': f'{bb.BASE}/assets/video/{vd["fichier"]}.mp4',
+            'duration': vd['dur'], 'uploadDate': vd['date'] + 'T12:00:00+02:00', 'inLanguage': lang,
+            'publisher': {'@type': 'Organization', 'name': 'MeditaDream', 'url': bb.BASE + '/',
+                          'logo': {'@type': 'ImageObject', 'url': bb.BASE + '/assets/brand/icon-512.png'}},
+            'hasPart': [{'@type': 'Clip', 'name': n, 'startOffset': a, 'endOffset': b, 'url': f'{bb.BASE}{path}?t={a}'}
+                        for (a, n, _), b in zip(chapitres, fins)]}
+
+
 def theme_path(lang, key):
     d = charge('themes', lang)
     return f'/{lang}/{d[key]["slug"]}.html' if d and key in d else None
@@ -719,13 +774,18 @@ def themes(bb, cat, P):
             if key not in D: continue
             s = D[key]; path = f'/{lang}/{s["slug"]}.html'
             alts = {x: theme_path(x, key) for x in P if theme_path(x, key)}
-            ik = THEME_IMG[key]
-            p_img, alt_img, titre_img = media(ik, lang, 960 if 'worlds' in ik else 640)
-            src = p_img or (img_world(ik.split('/')[-1][:-4]) if 'worlds' in ik else img_cat(ik.split('catart-')[-1][:-4]))
-            # 06-11 (vitesse) : sur téléphone, la copie de 480 px suffit (l'image de 960 px coûtait 2,2 s de LCP sur la page de l'Oracle)
-            p480 = media(ik, lang, 480)[0] if 'worlds' in ik else None
-            ss = f' srcset="{rel(p480, 1)} 480w, {rel(src, 1)} 960w" sizes="(max-width: 600px) 92vw, 760px"' if p480 and p_img else ''
-            hero = f'<img class="hero" src="{rel(src, 1)}"{ss} alt="{E(alt_img)}" title="{E(titre_img)}"{dims(src)} fetchpriority="high" decoding="async">'
+            vd = s.get('video') if key == 'video' else None
+            if vd:   # 15-11 (piste 2 du SEO) : la visite filmée est le contenu principal de la page
+                src = f'/assets/video/{vd["fichier"]}.webp'; alt_img = titre_img = vd['name']
+                hero = video_bloc(s, vd)
+            else:
+                ik = THEME_IMG[key]
+                p_img, alt_img, titre_img = media(ik, lang, 960 if 'worlds' in ik else 640)
+                src = p_img or (img_world(ik.split('/')[-1][:-4]) if 'worlds' in ik else img_cat(ik.split('catart-')[-1][:-4]))
+                # 06-11 (vitesse) : sur téléphone, la copie de 480 px suffit (l'image de 960 px coûtait 2,2 s de LCP sur la page de l'Oracle)
+                p480 = media(ik, lang, 480)[0] if 'worlds' in ik else None
+                ss = f' srcset="{rel(p480, 1)} 480w, {rel(src, 1)} 960w" sizes="(max-width: 600px) 92vw, 760px"' if p480 and p_img else ''
+                hero = f'<img class="hero" src="{rel(src, 1)}"{ss} alt="{E(alt_img)}" title="{E(titre_img)}"{dims(src)} fetchpriority="high" decoding="async">'
             secs = ''.join(section_theme(x, lang) for x in s['sections'])   # 06-11 : captures, étapes, stades du dragon
             bloc = ''
             items = []
@@ -753,6 +813,8 @@ def themes(bb, cat, P):
                       'about': {'@type': 'MobileApplication', 'name': 'MeditaDream', 'applicationCategory': 'LifestyleApplication',
                                 'operatingSystem': 'iOS, Android', 'offers': {'@type': 'Offer', 'price': '0', 'priceCurrency': 'EUR'}}},
                      bc_ld(bb, bc)]
+            if vd:
+                graph.append(video_ld(bb, path, src, vd, s['chapitres'], lang))
             if items:
                 graph.append({'@type': 'ItemList', 'name': xl['seances'], 'numberOfItems': len(items),
                               'itemListElement': [{'@type': 'ListItem', 'position': i + 1, 'name': n} for i, n in enumerate(items)]})
