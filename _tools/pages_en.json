@@ -4,12 +4,13 @@
   "seo": "Guided Meditation: {total} Free Sessions in {ncat} Categories",
   "desc": "{total} free guided meditations for sleep, anxiety, focus and inner journeys. No subscription, no ads, no account, and every session plays offline.",
   "h1": "Free guided meditations for every moment of your day",
+  "h2": "Pick a theme: {ncat} categories of meditation, no subscription",
   "intro": "MeditaDream brings together {total} guided meditations, organised into {ncat} categories so you can find the right session quickly. Start with the basics if you are new, take a four-minute pause between two tasks, unwind before sleep, or go further with visualization, qigong, Buddhist practice, trance and astral journeys. Every session is completely free, with no subscription, no ads and no account to create. Once downloaded, the meditations play offline on iPhone and Android, in English, French and Spanish. Pick a category below to see its sessions, their length and their level."
  },
  "categories": {
   "learningBasics": {
    "slug": "meditation-for-beginners",
-   "seo": "Free Meditation for Beginners: {n} Guided Sessions",
+   "seo": "Free Guided Meditation for Beginners: {n} Gentle Sessions",
    "desc": "Never meditated? This free meditation for beginners walks you through {n} guided sessions of {min} to {max} minutes. No subscription, no ads, works offline.",
    "h1": "Free meditation for beginners, guided step by step",
    "intro": [
@@ -249,7 +250,7 @@
   },
   "sacred": {
    "slug": "sacred-places-guided-meditation",
-   "seo": "Nature Meditation in Sacred Places and Temples",
+   "seo": "Guided Nature Meditation in Sacred Places and Temples",
    "desc": "Meditate in sacred places, from the Bodhi tree to Stonehenge and the northern lights: {n} guided nature meditations of {min} to {max} minutes. Free, offline.",
    "h1": "Guided nature meditation in sacred places",
    "intro": [
@@ -296,7 +297,7 @@
   },
   "guides": {
    "slug": "spirit-guide-meditation",
-   "seo": "Spirit Guide Meditation: {n} Free Guided Journeys",
+   "seo": "Spirit Guide Meditation: {n} Free Guided Journeys, {min}–{max} Min",
    "desc": "Spirit guide meditation, no dogma required: {n} guided journeys of {min} to {max} minutes to meet a guide of light and a council of guides. Free, no ads.",
    "h1": "Spirit guide meditation: guided journeys to meet your guides",
    "intro": [
@@ -429,7 +430,7 @@
   },
   "buddhist": {
    "slug": "buddhist-guided-meditation",
-   "seo": "Buddhist Meditation: Guided Bodhisattva Journeys",
+   "seo": "Buddhist Meditation: Free Guided Bodhisattva Journeys",
    "desc": "Guided Buddhist meditation with the bodhisattvas of Mahayana Buddhism: {n} sessions of {min} to {max} minutes for compassion and clarity. Free, no ads.",
    "h1": "Guided Buddhist meditation in the footsteps of the bodhisattvas",
    "intro": [
@@ -535,7 +536,7 @@
   },
   "visualisation": {
    "slug": "guided-visualization-meditation",
-   "seo": "Visualization Meditation: Train Your Inner Eye",
+   "seo": "Guided Visualization Meditation: Train Your Inner Eye",
    "desc": "Can’t “see” anything when you visualize? {n} guided visualization meditations of {min} to {max} minutes train one sense at a time. Free, no ads, offline.",
    "h1": "Guided visualization meditation to train your inner eye",
    "intro": [
@@ -978,7 +979,7 @@
   "antiqueTemple": {
    "slug": "ancient-temple-guided-visualization",
    "seo": "Temple Meditation: Guided Visualization, Candles and Rain",
-   "desc": "Temple meditation in the mountain mist: climb worn steps through the rain to a candle meditation among stone Buddhas. 20 minutes, free, no ads, offline.",
+   "desc": "Temple meditation in the mountain mist: climb worn steps through the rain to a candle meditation among stone Buddhas. 19 minutes, free, no ads, offline.",
    "h1": "The Ancient Temple: an immersive Buddhist temple meditation",
    "lead": "This temple meditation begins on a misty mountain path, behind a nine-tailed white fox. The path climbs all the way to a temple of candlelight and stone Buddhas. There, a masked guardian waits with a small candle. A red door opens onto a landscape that belongs only to you."
   },
@@ -1005,7 +1006,7 @@
   },
   "earthCore": {
    "slug": "grounding-earth-guided-visualization",
-   "seo": "Grounding Meditation: Journey to the Earth's Core",
+   "seo": "Guided Grounding Meditation: Journey to the Earth's Core",
    "desc": "Guided grounding meditation: descend through crystal caverns and rivers of warm light to the heart of the planet. 15 minutes, free, no ads, offline.",
    "h1": "The Heart of the Earth: an immersive grounding meditation",
    "lead": "This grounding meditation follows warm rivers of light deep underground. They lead to a hollow land with a gentle sun of its own. There, among giant ferns and glowing flowers, an amber egg is waiting to hatch in your hands."
@@ -1013,14 +1014,14 @@
   "antarcticBase": {
    "slug": "frozen-sanctuary-guided-meditation",
    "seo": "Winter Meditation: A Silent Frozen Sanctuary Under the Ice",
-   "desc": "Winter meditation beneath the Antarctic ice: follow a glowing polar fox to a crystal heart and the aurora. 16 minutes, free, no ads, works offline.",
+   "desc": "Winter meditation beneath the Antarctic ice: follow a glowing polar fox to a crystal heart and the aurora. 15 minutes, free, no ads, works offline.",
    "h1": "The Frozen Sanctuary: an immersive guided winter meditation",
    "lead": "In this winter meditation, you sink through ancient layers of ice to a sanctuary older than memory. A glowing polar fox shows you the way. Frost flowers, a beating crystal heart and an aurora await, before you step out under the open polar sky."
   },
   "skyIsland": {
    "slug": "floating-island-guided-visualization",
    "seo": "Safe Place Visualization: A Floating Island Meditation",
-   "desc": "A safe place visualization and floating meditation: rest on your own island above the clouds, beside a winged white stag. 20 minutes, free, no ads, offline.",
+   "desc": "A safe place visualization and floating meditation: rest on your own island above the clouds, beside a winged white stag. 19 minutes, free, no ads, offline.",
    "h1": "The Floating Island: a safe place visualization above the clouds",
    "lead": "This safe place visualization begins on a bridge of clouds, leading to a green island that is yours alone. Ride a great white bird and meet the winged stag who guards it. At nightfall, send a shining seed into the dark to start a tiny island."
   },
@@ -1034,7 +1035,7 @@
   "atlantis": {
    "slug": "atlantis-underwater-guided-meditation",
    "seo": "Underwater Meditation: A Guided Seahorse Ride to Atlantis",
-   "desc": "Underwater meditation: breathe freely and ride a golden seahorse through Atlantis, a lost city of coral and pearl. 18 minutes, free, no ads, offline.",
+   "desc": "Underwater meditation: breathe freely and ride a golden seahorse through Atlantis, a lost city of coral and pearl. 17 minutes, free, no ads, offline.",
    "h1": "Underwater Atlantis: an immersive underwater meditation",
    "lead": "This underwater meditation begins in a warm sea, where you breathe freely. A golden seahorse carries you through a lost city of coral towers. Kind hosts welcome you, and a pearl keeps one of your memories as the whole city lights up."
   },
@@ -1047,8 +1048,8 @@
   },
   "celestialLibrary": {
    "slug": "celestial-library-guided-meditation",
-   "seo": "Akashic Library Meditation Beneath the Stars",
-   "desc": "Akashic library meditation: wander endless glowing books and spiral staircases beneath moving constellations. 14 minutes, free, no ads, offline.",
+   "seo": "Akashic Library Meditation: Flying Books Beneath the Stars",
+   "desc": "Akashic library meditation: wander endless glowing books and spiral staircases beneath moving constellations. 13 minutes, free, no ads, offline.",
    "h1": "The Celestial Library: an immersive akashic library meditation",
    "lead": "Step through a great wooden door into an Akashic library lit by floating candles. Here, books glide down to any reader who raises a hand. A salamander of golden light keeps you company as two books open for you."
   },
@@ -1061,7 +1062,7 @@
   },
   "treeOfConsciousness": {
    "slug": "tree-of-life-guided-meditation",
-   "seo": "Tree of Life Meditation in a Glowing Night Forest",
+   "seo": "Tree of Life Meditation in a Glowing Night Forest, Free",
    "desc": "Tree of life meditation: sit among the roots of a vast glowing tree whose branches hold the stars, and feel connected to all life. 18 minutes, free.",
    "h1": "The Tree of Consciousness: an immersive tree of life meditation",
    "lead": "This tree of life meditation leads you through a forest that glows in the dark. At its heart stands a vast tree joining the earth and the stars. Its guardian of wood and moss lets you feel every life beating. Then a single leaf opens onto a gentle little world."
@@ -1069,7 +1070,7 @@
   "jungleRuins": {
    "slug": "jungle-ruins-guided-visualization",
    "seo": "Jungle Meditation: Guided Visualization of a Lost City",
-   "desc": "Jungle meditation: explore an overgrown temple where waterfalls pour over old stone and symbols glow. 19 minutes, free, no ads, works offline.",
+   "desc": "Jungle meditation: explore an overgrown temple where waterfalls pour over old stone and symbols glow. 18 minutes, free, no ads, works offline.",
    "h1": "The Forgotten Ruins: an immersive jungle meditation",
    "lead": "This jungle meditation begins as the mist lifts from a city lost beneath the trees. A little monkey of light leads you through its ruins. You dive to an older city under the water and see a tree spring from the seed you plant."
   },
@@ -1082,8 +1083,8 @@
   },
   "mirrorDimension": {
    "slug": "mirror-dimension-guided-meditation",
-   "seo": "Self-Awareness Meditation in the Mirror Dimension",
-   "desc": "Self-awareness meditation in a space of endless mirrors and soft white light: rest as the calm witness. 15 minutes, free, no ads, works offline.",
+   "seo": "Self-Awareness Meditation in the Mirror Dimension, Free",
+   "desc": "Self-awareness meditation in a space of endless mirrors and soft white light: rest as the calm witness. 16 minutes, free, no ads, works offline.",
    "h1": "The Mirror Dimension: an immersive self-awareness meditation",
    "lead": "This self-awareness meditation lets you drift weightless through white light and countless mirrors. One of them shows an animal guide instead of your face. Together you pass through small dreamlike worlds, then come back to the quiet awareness behind every reflection."
   },

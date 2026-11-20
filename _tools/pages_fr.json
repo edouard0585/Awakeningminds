@@ -4,6 +4,7 @@
   "seo": "Méditation gratuite : {total} méditations guidées en français",
   "desc": "Méditation gratuite pour de vrai : {total} méditations guidées en français, sommeil, débutants, 5 minutes, voyage astral. Sans pub, sans compte, hors ligne.",
   "h1": "Méditation gratuite : {total} méditations guidées",
+  "h2": "Méditation guidée gratuite : les {ncat} catégories",
   "intro": "MeditaDream réunit {total} méditations guidées en français, réparties en {ncat} catégories : des premières séances pour débutants aux pauses de 4 minutes, des relaxations pour s’endormir aux méditations bouddhistes, chamaniques ou au voyage astral. L’application est entièrement gratuite, sans abonnement, sans publicité et sans compte à créer. Une fois les séances téléchargées, elles fonctionnent hors ligne, et tes données de pratique restent sur ton téléphone. Choisis une catégorie ci-dessous pour découvrir les séances, leur durée et leur niveau, puis lance-toi à ton rythme, sur iPhone comme sur Android."
  },
  "categories": {
@@ -243,7 +244,7 @@
   },
   "shadow": {
    "slug": "meditation-travail-ombre",
-   "seo": "Enfant intérieur et part d’ombre : {n} méditations",
+   "seo": "Enfant intérieur, part d’ombre et peurs : {n} méditations",
    "desc": "Enfant intérieur et part d’ombre, en douceur : {n} méditations de {min} à {max} min, de la peur de l’abandon à celle du jugement, avec ho’oponopono. Gratuit.",
    "h1": "Enfant intérieur : apaiser tes peurs, accueillir ta part d’ombre",
    "intro": [
@@ -966,14 +967,14 @@
  "worlds": {
   "antiqueTemple": {
    "slug": "meditation-temple-ancien",
-   "seo": "Méditation : temple bouddhiste, pluie et bougies",
+   "seo": "Méditation : temple bouddhiste, pluie et bougies, 20 min",
    "desc": "Méditation, temple bouddhiste et pluie : monte dans la brume jusqu’aux bougies et aux grands Bouddhas de pierre. 20 min, gratuit, sans pub, hors ligne.",
    "h1": "Le Temple Ancien : méditation, temple bouddhiste et brume",
    "lead": "Dans la brume, une renarde à neuf queues t’attend sur le sentier. Elle te guide vers ta méditation : temple bouddhiste, encens et bougies, sous l’œil d’un vieux gardien masqué."
   },
   "cosmicTemple": {
    "slug": "meditation-temple-cosmique",
-   "seo": "Méditation : baleine céleste et Temple Cosmique",
+   "seo": "Méditation : baleine céleste et Temple Cosmique, 13 min",
    "desc": "Méditation : baleine céleste, temple de marbre suspendu dans le cosmos et étoile qui naît sous tes pieds. 13 min, gratuit, sans pub, hors ligne.",
    "h1": "Le Temple Cosmique : méditation, baleine et étoiles",
    "lead": "Le temps d’une méditation, baleine céleste et étoiles deviennent tes compagnes. La baleine te prend sur son dos et fait le tour d’un temple suspendu dans le cosmos. Puis une étoile naît."
@@ -987,7 +988,7 @@
   },
   "galaxy": {
    "slug": "meditation-voyage-galaxie",
-   "seo": "Méditation : univers, galaxie et train de lumière",
+   "seo": "Méditation : univers, galaxie et train de lumière, 19 min",
    "desc": "Méditation : univers, train de lumière, anneaux de Saturne et étoiles filantes, jusqu’à un marché sur un astéroïde. 19 min, gratuit, sans pub.",
    "h1": "Voyage à travers la galaxie : méditation, univers et étoiles filantes",
    "lead": "Ce soir, au milieu des étoiles, un train de lumière ralentit pour toi. Durant la méditation, univers et planètes défilent à sa fenêtre : Saturne, des étoiles filantes, un marché de nuit."
@@ -1029,7 +1030,7 @@
   },
   "himalayanMonastery": {
    "slug": "meditation-monastere-aube",
-   "seo": "Méditation : montagne, aube et monastère tibétain",
+   "seo": "Méditation : montagne, aube et monastère tibétain, 18 min",
    "desc": "Méditation, montagne et silence : l’aube dorée sur les sommets enneigés, les drapeaux de prière dans le vent froid. 18 min guidées, gratuites, sans pub.",
    "h1": "Le Monastère à l’Aube : méditation, montagne et lever du soleil",
    "lead": "Cette méditation, montagne et silence mêlés, commence avant l’aube. Un moine t’ouvre le portail de son monastère, sous un ciel encore bleu sombre. Plus tard, du haut d’un balcon de bois, tu regardes le jour se lever sur la neige."
@@ -1064,7 +1065,7 @@
   },
   "mushroomForest": {
    "slug": "meditation-foret-des-reves",
-   "seo": "Méditation en forêt onirique : la Forêt des Rêves",
+   "seo": "Méditation en forêt onirique : la Forêt des Rêves, 17 min",
    "desc": "Méditation en forêt enchantée : champignons-lanternes, galaxies à cueillir et pieuvre de lumière, pour rêver éveillé. 17 min, gratuit, sans pub.",
    "h1": "La Forêt des Rêves : méditation en forêt enchantée",
    "lead": "Dans cette méditation en forêt, les champignons s’allument comme des lanternes et les arbres portent des galaxies. Une fée vient se poser sur ta main, puis une pieuvre de lumière t’emporte au-dessus de la forêt."
@@ -1086,7 +1087,7 @@
  },
  "teams": {
   "slug": "meditation-en-entreprise",
-  "seo": "Méditation en entreprise : formation et ateliers",
+  "seo": "Méditation en entreprise : formation et ateliers sur mesure",
   "desc": "Méditation en entreprise : ateliers, formations et gestion du stress, sur site ou à distance, et une application gratuite, sans compte ni donnée collectée.",
   "h1": "Méditation en entreprise : formation, ateliers et gestion du stress",
   "sections": [

@@ -1,54 +1,54 @@
 {
  "https://meditadream.com/": {
-  "date": "2026-11-06",
-  "sha1": "24f6ceb28aa9970cd7b47dc84ebd853b3c0c1f2d"
+  "date": "2026-11-20",
+  "sha1": "de56a877f377192487f0bccb855b5293eead0063"
  },
  "https://meditadream.com/en/": {
-  "date": "2026-11-15",
-  "sha1": "829ca0376aab1d8c9f6e395f528c6a45b36f4e03"
+  "date": "2026-11-20",
+  "sha1": "ec98674f0644bc5385a8a8d5b483b8883d7d0b3f"
  },
  "https://meditadream.com/en/privacy.html": {
-  "date": "2026-11-15",
-  "sha1": "8b414ce3f13380126174aed786565d44d8dec6ab"
+  "date": "2026-11-20",
+  "sha1": "18f70d99e94989ac76f7ccceffd48de579c62e92"
  },
  "https://meditadream.com/en/support.html": {
-  "date": "2026-11-15",
-  "sha1": "49f1d2764d576c50197825dccdff727ad54ae1ef"
+  "date": "2026-11-20",
+  "sha1": "307289fb8493a8dd25e1d92f9b25ad8f04c5a16c"
  },
  "https://meditadream.com/en/terms.html": {
-  "date": "2026-11-15",
-  "sha1": "5057a27c0287c3179658df63e56e5c101d4625f7"
+  "date": "2026-11-20",
+  "sha1": "e01f3237eee0634b58e51756e4e3ca6b3b2df6af"
  },
  "https://meditadream.com/es/": {
-  "date": "2026-11-15",
-  "sha1": "da65f16f10e1e740133a2eb36a53939bc344aa35"
+  "date": "2026-11-20",
+  "sha1": "d32e7389b5c0d62d922cec1fa0258bbb079ab399"
  },
  "https://meditadream.com/es/privacy.html": {
-  "date": "2026-11-15",
-  "sha1": "392d63366a6a1092f23f764aa148a470cefd26bf"
+  "date": "2026-11-20",
+  "sha1": "42f45a6c0dc6fc1384abe2aa918dc09cfac2ee1c"
  },
  "https://meditadream.com/es/support.html": {
-  "date": "2026-11-15",
-  "sha1": "950ce64f347a90d5a1e83472c8669a6316087322"
+  "date": "2026-11-20",
+  "sha1": "5947f1170268507fb7063c8dc391c4acfa8038f3"
  },
  "https://meditadream.com/es/terms.html": {
-  "date": "2026-11-15",
-  "sha1": "2cdbb654af00ad58acc17a10594dbc257a997646"
+  "date": "2026-11-20",
+  "sha1": "e282424455193d5f13007f2353be65f1ffbae96d"
  },
  "https://meditadream.com/fr/": {
-  "date": "2026-11-15",
-  "sha1": "11f2e0a240b4dce1caf2ee9c744cc38d464924d5"
+  "date": "2026-11-20",
+  "sha1": "25e8ca1b55b7238af90946845d004472101ce572"
  },
  "https://meditadream.com/fr/privacy.html": {
-  "date": "2026-11-15",
-  "sha1": "d540eb2a7777d8df0b0e1280b9fbf8eff61f82f0"
+  "date": "2026-11-20",
+  "sha1": "0cc60bf2bfc213f8f24c5869cd06a1948643c9ae"
  },
  "https://meditadream.com/fr/support.html": {
-  "date": "2026-11-15",
-  "sha1": "19b0e2b47b678cc0d88b5dcc4d7c7cce26761b62"
+  "date": "2026-11-20",
+  "sha1": "d1e39175e378ca1ee38b5c6b54c7d62a39111291"
  },
  "https://meditadream.com/fr/terms.html": {
-  "date": "2026-11-15",
-  "sha1": "15aacbe9254b440213ba167f0fad75d892fc5771"
+  "date": "2026-11-20",
+  "sha1": "13b3b52031bc3f4fdb6f6086d0dd5ed3d6b3bcf2"
  }
 }

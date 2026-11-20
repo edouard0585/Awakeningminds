@@ -274,7 +274,8 @@ ol.ap-etapes li::before{content:counter(etape);position:absolute;left:0;top:2px;
 .ap-grid a:hover{border-color:rgba(212,175,106,.5)}
 .ap-grid img{width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;border-radius:12px;margin:0;border:0}
 .ap-grid img.sq{aspect-ratio:1;max-width:96px}
-.ap-grid b{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;color:#fff7e8;font-weight:500}
+.ap-grid b,.ap-grid h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:21px;color:#fff7e8;font-weight:500}
+.ap-grid h3{margin:0;line-height:1.2;letter-spacing:normal;text-transform:none}
 .ap-grid span{font-family:'Avenir Next',sans-serif;font-size:13px;color:var(--muted)}
 .ap-world img.hero{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin:4px 0 22px}
 .ap-scene{font-style:italic;font-size:21px;color:#fff7e8;border-left:2px solid var(--gold);padding:4px 0 4px 18px;margin:8px 0 20px;font-family:'Cormorant Garamond',Georgia,serif}
@@ -630,10 +631,12 @@ def build(bb):
         # --- index des catégories ---
         s = p['meditations_index']; path = u(lang, 'med'); alts = {x: u(x, 'med') for x in P}
         cards = ''.join(f'<li><a href="{p["categories"][k]["slug"]}.html">{VIG_CAT(k, lang)}'
-                        f'<b>{E(c["name"][lang])}</b><span>{c["count"]} {E(t["sessions"])} · {c["min"]}–{c["max"]} {E(t["min"])}</span></a></li>' for k, c in cats.items())
+                        f'<h3>{E(c["name"][lang])}</h3><span>{c["count"]} {E(t["sessions"])} · {c["min"]}–{c["max"]} {E(t["min"])}</span></a></li>' for k, c in cats.items())   # 20-11 : nom de catégorie en H3 (audit SEOptimer)
         bc = [(t['home'], f'/{lang}/'), (t['med'], None)]
         gp = piliers.links_li(sys.modules[__name__], lang, piliers.ORDRE)   # 23-10 : les guides complets par thème
-        body = (crumbs(lang, bc) + f'<h1>{E(s["h1"])}</h1><p class="lead">{E(s["intro"])}</p><ul class="ap-grid">{cards}</ul>'
+        body = (crumbs(lang, bc) + f'<h1>{E(s["h1"])}</h1><p class="lead">{E(s["intro"])}</p>'
+                + (f'<h2>{E(s["h2"])}</h2>' if s.get('h2') else '')   # 20-11 : intertitre avec le mot principal (pages_<l>.json)
+                + f'<ul class="ap-grid">{cards}</ul>'
                 + (f'<h2>{E(PILIERS_T[lang])}</h2><ul class="ap-links">{gp}</ul>' if gp else '')
                 + f'<ul class="ap-links"><li><a href="{u(lang, "world")}">{E(t["worlds"])}</a></li><li><a href="/{lang}/{p["teams"]["slug"]}.html">{E(p["teams"]["h1"])}</a></li></ul>' + cta(lang))
         ld = ld_tag({'@context': 'https://schema.org', '@graph': [{'@type': 'CollectionPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang}, bc_ld(bb, bc)]})

@@ -527,7 +527,9 @@ def render_article(a, lang, arts):
     path_of = lambda x: f'/{x}/blog/{a["slug"][x]}.html'
     art_kw = ', '.join(x for x in (a.get('kw', {}).get(lang, ''), SITE_KW[lang].split(', ', 1)[0]) if x)
     img_alt = HERO_ALTS.get((a.get('image'), lang), a['title'][lang]) if a.get('image') is not None else a['title'][lang]
-    h = head(lang, a['title'][lang], a['desc'][lang], path_of, path_of(lang), img, ld_tag, kw=art_kw, img_alt=img_alt)
+    # 20-11 (audit SEOptimer « Augmenter la longueur de la balise Title ») : « seo_title » facultatif, par langue, pour la
+    # balise <title> seule ; le H1 et le reste gardent « title »
+    h = head(lang, (a.get('seo_title') or {}).get(lang) or a['title'][lang], a['desc'][lang], path_of, path_of(lang), img, ld_tag, kw=art_kw, img_alt=img_alt)
     h += header_html(lang, lambda x: f'../../{x}/blog/{a["slug"][x]}.html')
     g = blog_hubs.SERIES_GROUP.get(a['id'], 'bases'); hl = blog_hubs.group_link(lang, g, HUB_ACT)
     h += PROGRESS_JS

@@ -1,7 +1,7 @@
 {
  "hub": {
   "slug": "objectifs",
-  "seo": "Pourquoi méditer ? 14 objectifs, une app gratuite",
+  "seo": "Pourquoi méditer ? 14 objectifs, une app gratuite sans pub",
   "desc": "Mieux dormir, réduire le stress ou apprendre à méditer : choisis ton objectif et découvre comment MeditaDream t’aide. Gratuit, sans pub, sans compte.",
   "h1": "Pourquoi méditer ? Choisis ton objectif",
   "intro": "Chacun vient à la méditation avec sa raison : des nuits trop courtes, un stress qui ne retombe pas, ou l’envie d’explorer plus loin. Voici quatorze objectifs, et pour chacun ce que MeditaDream t’apporte vraiment : les séances qui comptent, les mondes immersifs qui l’accompagnent et les fonctionnalités utiles. L’application est gratuite et en français, sans abonnement, sans publicité ni compte. Une fois les séances téléchargées, tout fonctionne hors ligne."
@@ -208,7 +208,7 @@
   },
   "02": {
    "slug": "reduire-le-stress",
-   "seo": "Réduire le stress et se relaxer : l’app gratuite",
+   "seo": "Réduire le stress et se relaxer : l’app anti-stress gratuite",
    "desc": "Réduire le stress en moins de 5 minutes : pauses guidées, exercice de respiration, sons apaisants. Application anti-stress : gratuit, sans pub, sans compte.",
    "h1": "Comment MeditaDream t’aide à réduire le stress",
    "titre_court": "Réduire le stress",
@@ -1898,7 +1898,7 @@
     ]
    ],
    "programme": {
-    "titre": "Défi méditation de 30 jours pour apprendre à méditer",
+    "titre": "Défi méditation de 30 jours : l’application pour apprendre à méditer",
     "intro": "Comment méditer quand on débute ? Pas à pas, quelques minutes par jour. Pour toi qui n’as jamais médité, ou qui as déjà abandonné, ce défi méditation de 30 jours va d’une première méditation guidée de 5 minutes à des séances de 20 minutes. Chaque étape t’apprend une base, du souffle jusqu’aux gestes de tous les jours. Le but : méditer ensuite seul, à ta façon.",
     "duree": "30 jours",
     "rythme": "3 à 20 min par jour",
@@ -2409,7 +2409,7 @@
   },
   "11": {
    "slug": "confiance-en-soi",
-   "seo": "Confiance en soi et motivation : l’app gratuite",
+   "seo": "Confiance en soi, estime de soi, motivation : l’app gratuite",
    "desc": "Confiance en soi, estime de soi, motivation : des méditations de 3 à 26 minutes pour oser, avancer et te parler avec douceur. Gratuit, sans pub, sans compte.",
    "h1": "Comment MeditaDream t’aide à développer ta confiance en soi",
    "titre_court": "Confiance en soi",
@@ -2723,7 +2723,7 @@
     ]
    ],
    "programme": {
-    "titre": "Rêve lucide : ta routine avant de dormir en 4 semaines",
+    "titre": "Rêve lucide en 4 semaines : routine du soir et journal de rêves",
     "intro": "Envie d’explorer tes nuits ? Ce programme t’aide à préparer le rêve lucide, avec une routine avant de dormir sur quatre semaines. Le soir, tu écoutes au lit une séance de 16 à 27 minutes. Le matin, tu notes tes rêves. Tu apprends d’abord à mieux t’en souvenir, puis à reconnaître que tu rêves. Sans pression : chaque rêve noté est déjà un pas.",
     "duree": "4 semaines",
     "rythme": "16 à 27 min au coucher",
@@ -2908,7 +2908,7 @@
     ]
    ],
    "programme": {
-    "titre": "Lâcher prise : un programme de méditation doux, à ton rythme",
+    "titre": "Méditation lâcher-prise : un programme doux, à ton rythme",
     "intro": "Ce programme de méditation n’a pas de calendrier. Pour toi qui traverses une perte, une blessure ou un changement, il propose quatre temps, de l’accueil de ta peine jusqu’au lâcher-prise. Prends seulement ceux qui te parlent, dans l’ordre qui te convient, et reviens en arrière quand tu en as besoin. Chaque séance peut s’arrêter à tout moment.",
     "duree": "À ton rythme",
     "rythme": "7 à 25 min, quand tu le sens",
@@ -2977,7 +2977,7 @@
   },
   "14": {
    "slug": "voyage-interieur-mondes-immersifs",
-   "seo": "Voyage intérieur : une app gratuite pour t’évader",
+   "seo": "Voyage intérieur : 17 mondes, une app gratuite pour t’évader",
    "desc": "Voyage intérieur et méditation immersive : 17 mondes, de l’Atlantide à la galaxie, et des aventures à Versailles ou Kyoto. Gratuit, sans pub, hors ligne.",
    "h1": "Un voyage intérieur pour t’évader, les yeux fermés",
    "titre_court": "Mondes immersifs",

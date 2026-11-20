@@ -173,6 +173,9 @@
    "en": "Best meditation posture: 4 positions that actually work",
    "es": "Posturas para meditar: 4 posiciones válidas"
   },
+  "seo_title": {
+   "es": "Posturas para meditar: 4 posiciones de meditación válidas"
+  },
   "desc": {
    "fr": "Choisir sa position : méditation sur chaise, en tailleur, en seiza ou allongé, sans forcer la position du lotus. Les 7 points d’une posture détendue.",
    "en": "Finding the best meditation posture: chair, cross-legged, seiza or lying down, with diagrams, plus the 7 points of a dignified, relaxed position.",
@@ -746,6 +749,11 @@
    "en": "5-minute meditation: 3 short formats that work",
    "es": "Meditación: 5 minutos que cuentan de verdad"
   },
+  "seo_title": {
+   "fr": "Méditation de 5 minutes : courte mais réelle, en 3 formats",
+   "en": "5-minute meditation: 3 short formats that work anywhere",
+   "es": "Meditación: 5 minutos que cuentan de verdad (3 ejercicios)"
+  },
   "desc": {
    "fr": "Méditation de 5 minutes : cohérence cardiaque, scan express ou ancrage 5-4-3-2-1, trois formats qui marchent et où les placer dans la journée.",
    "en": "Three 5-minute meditation formats that work (coherent breathing, express body scan, 5-4-3-2-1 grounding) and where to place them in your day.",
@@ -860,6 +868,9 @@
    "fr": "Méditation du matin en 10 minutes : bien lancer sa journée",
    "en": "10-minute morning meditation: how to start your day right",
    "es": "Meditación de la mañana: empieza bien el día"
+  },
+  "seo_title": {
+   "es": "Meditación de la mañana en 10 minutos: empieza bien el día"
   },
   "desc": {
    "fr": "La méditation du matin en 10 minutes : pourquoi elle change la journée, le rituel pas à pas, ses trois pièges et comment tenir sa routine matinale.",
@@ -984,6 +995,9 @@
    "en": "Meditation course for beginners: a 4-week program",
    "es": "Cómo meditar paso a paso: programa para principiantes"
   },
+  "seo_title": {
+   "en": "Meditation course for beginners: a free 4-week program"
+  },
   "desc": {
    "fr": "Un cours de méditation en ligne, gratuit et progressif : 4 semaines pour installer l’habitude, et les erreurs fréquentes des débutants à éviter.",
    "en": "A free meditation course for beginners: a progressive 4-week program to build a lasting habit, plus the most common mistakes and how to avoid them.",
@@ -1023,6 +1037,9 @@
    "en": "Meditation and mindfulness techniques, explained one by one",
    "es": "Tipos de meditación: las técnicas explicadas una a una"
   },
+  "seo_title": {
+   "fr": "Techniques de méditation : 14 exercices expliqués un à un"
+  },
   "desc": {
    "fr": "Les techniques de méditation, une à une : scan corporel, méditation marchée, bienveillance, RAIN, visualisation… avec leurs étapes et leur schéma.",
    "en": "The main mindfulness techniques and types of meditation: body scan, walking meditation, loving-kindness, RAIN, visualization… each with its steps and diagram.",
@@ -1061,6 +1078,9 @@
    "fr": "Méditation en marchant : la marche méditative, pas à pas",
    "en": "How to do walking meditation when you can't sit still",
    "es": "Meditación caminando: meditar sin sentarse"
+  },
+  "seo_title": {
+   "es": "Meditación caminando: 3 formas de meditar sin sentarse"
   },
   "desc": {
    "fr": "La méditation en marchant, idéale quand l'immobilité ne passe pas : les trois phases du pas, le parcours à suivre et trois façons de la pratiquer.",
@@ -1165,6 +1185,10 @@
    "en": "Metta loving-kindness meditation: how to practice it",
    "es": "Meditación metta o de bondad amorosa, paso a paso"
   },
+  "seo_title": {
+   "fr": "Metta bhavana : la méditation de bienveillance, pas à pas",
+   "es": "Meditación metta o de bondad amorosa: 4 frases, paso a paso"
+  },
   "desc": {
    "fr": "Metta, la méditation de bienveillance : les cinq cercles, les phrases à répéter et quoi faire quand ça résiste — pour soi comme pour les autres.",
    "en": "Metta loving-kindness meditation step by step, for yourself and others: the five circles, the phrases to repeat and what to do when it resists.",
@@ -1265,6 +1289,9 @@
    "fr": "Méditer tous les jours pour vivre en pleine conscience",
    "en": "Daily meditation: how to make the habit stick",
    "es": "Mindfulness en la vida cotidiana: tu rutina de meditación"
+  },
+  "seo_title": {
+   "en": "Daily meditation: how to start the habit and make it stick"
   },
   "desc": {
    "fr": "Comment méditer tous les jours et vivre en pleine conscience ? Le bon moment, une habitude d’ancrage, des pauses au travail, en famille ou dans le métro.",

@@ -1,9 +1,10 @@
 {
  "meditations_index": {
   "slug": "meditaciones-guiadas-gratis",
-  "seo": "Meditación guiada gratis en español, sin conexión",
+  "seo": "Meditación guiada gratis en español, sin conexión ni cuenta",
   "desc": "Meditación guiada gratis de verdad: {total} meditaciones en español para dormir, calmar la ansiedad o viajar hacia dentro. Sin suscripción ni anuncios.",
   "h1": "Meditación guiada: {total} meditaciones gratis en español",
+  "h2": "Meditación en español por categorías: {ncat} temas",
   "intro": "Aquí encontrarás todas las meditaciones guiadas de MeditaDream, organizadas en {ncat} categorías. Puedes empezar desde cero con sesiones para principiantes, tomarte una pausa de cuatro minutos en mitad del día, relajarte antes de dormir o explorar prácticas más profundas: meditación budista, viajes chamánicos, tercer ojo, trance o viaje astral. Cada categoría indica la duración y el nivel de sus sesiones para que elijas con calma. La app es gratuita, sin suscripción, sin publicidad y sin cuenta, y funciona sin conexión una vez descargadas las sesiones, en iPhone y Android."
  },
  "categories": {
@@ -183,7 +184,7 @@
   },
   "emotionalGrowth": {
    "slug": "meditacion-guiada-amor-propio",
-   "seo": "Meditación de amor propio y autoestima, gratis",
+   "seo": "Meditación de amor propio y autoestima, guiada y gratis",
    "desc": "Meditación de amor propio para subir la autoestima: {n} sesiones guiadas de {min} a {max} minutos con gratitud, compasión y perdón. Gratis y sin anuncios.",
    "h1": "Meditación de amor propio y autoestima: sesiones guiadas",
    "intro": [
@@ -336,7 +337,7 @@
   },
   "guides": {
    "slug": "meditacion-guias-espirituales",
-   "seo": "Meditación para conectar con tu guía interior",
+   "seo": "Meditación para conectar con tu guía interior o yo superior",
    "desc": "Meditación para conectar con tu guía interior, sin dogmas: {n} viajes de {min} a {max} minutos, el guía de luz y el consejo de los guías. Gratis.",
    "h1": "Meditación para conectar con tus guías: sesiones guiadas",
    "intro": [
@@ -1072,7 +1073,7 @@
   },
   "earthCore": {
    "slug": "meditacion-arraigo-corazon-de-la-tierra",
-   "seo": "Meditación de arraigo: el corazón de la Tierra",
+   "seo": "Meditación de arraigo: 15 minutos al corazón de la Tierra",
    "desc": "Meditación de arraigo: baja por cavernas de cristal y ríos de luz cálida hasta el corazón de la Tierra. 15 minutos, gratis, sin anuncios y sin conexión.",
    "h1": "Meditación de arraigo: viaje al Corazón de la Tierra",
    "lead": "Bajo la roca se esconde un mundo hueco, iluminado por un sol interior de color miel. Entre helechos gigantes, un huevo de ámbar late con la Tierra hasta que nace un pequeño dragón."
@@ -1121,7 +1122,7 @@
   },
   "desertOasis": {
    "slug": "meditacion-inmersiva-oasis-del-desierto",
-   "seo": "Meditación de la luna en un oasis del desierto",
+   "seo": "Meditación de la luna: 13 minutos en un oasis del desierto",
    "desc": "Meditación de la luna en un oasis del desierto: agua luminosa, una luna inmensa y un cielo de estrellas. 13 minutos de calma, gratis y sin anuncios.",
    "h1": "Meditación de la luna: el oasis del desierto bajo las estrellas",
    "lead": "Al caer la noche, esta meditación de la luna te lleva entre las dunas, a lomos de un camello blanco. Llegas a un oasis escondido. Allí te esperan un té de menta y una lámpara llena de mariposas de luz. Bajo el agua del estanque se esconde un jardín secreto."
@@ -1149,7 +1150,7 @@
   },
   "mirrorDimension": {
    "slug": "meditacion-inmersiva-dimension-de-espejos",
-   "seo": "Conciencia testigo: la meditación de los espejos",
+   "seo": "Conciencia testigo: la meditación de los espejos infinitos",
    "desc": "Conciencia testigo: flota entre espejos infinitos y una suave luz blanca, y observa la conciencia misma. Meditación de 16 minutos, gratis y sin anuncios.",
    "h1": "Meditación de los espejos y la conciencia testigo",
    "lead": "Flota en una luz blanca donde los espejos se multiplican sin fin. Un animal guía sale de uno de ellos y te lleva por mundos imposibles. Llegas a un espejo antiguo que guarda lo que sueltas. Al final descansas en la conciencia testigo, la que mira sin juzgar."
