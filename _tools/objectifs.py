@@ -393,7 +393,7 @@ def render(ap, bb, lang, num, D, cat, P):
             f'<figure class="pl-arch">{tag}</figure></div>'
             f'<div class="pl-body"><nav class="pl-toc" aria-label="{E(ol["toc"])}"><b>{E(ol["toc"])}</b><ol>'
             + ''.join(f'<li><a href="#{i}">{E(n)}</a></li>' for i, n in toc) + '</ol></nav><article class="pl-art">'
-            + f'<section id="pourquoi" class="ob-pitch"><h2>{E(ol["h_pitch"].format(t=tc))}</h2>' + ''.join(f'<p>{E(ty(lang, x))}</p>' for x in o['pitch']) + '</section>'
+            + f'<section id="pourquoi" class="ob-pitch"><h2>{E(ty(lang, o["h_pitch"]) if o.get("h_pitch") else ol["h_pitch"].format(t=tc))}</h2>' + ''.join(f'<p>{E(ty(lang, x))}</p>' for x in o['pitch']) + '</section>'
             + prog
             + f'<section id="seances"><h2>{E(ol["h_seances"].format(t=tc))}</h2>{bloc_seances}</section>'
             + f'<section id="fonctionnalites"><h2>{E(ol["h_feat"].format(t=tc))}</h2>{bloc_feat}</section>'

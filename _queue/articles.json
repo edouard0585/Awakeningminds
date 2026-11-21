@@ -1586,7 +1586,11 @@
   "photos": [
    "p28",
    "p05"
-  ]
+  ],
+  "seo_title": {
+   "en": "History of meditation: 3,500 years in seven landmarks",
+   "es": "Breve historia del mindfulness: 3500 años de meditación"
+  }
  },
  {
   "id": "emc",
@@ -1623,7 +1627,10 @@
   "photos": [
    "p23",
    "p17"
-  ]
+  ],
+  "seo_title": {
+   "fr": "États modifiés de conscience et transe méditative : guide"
+  }
  },
  {
   "id": "chakras",
@@ -1825,7 +1832,10 @@
   "photos": [
    "p38",
    "p51"
-  ]
+  ],
+  "seo_title": {
+   "fr": "Rêve conscient et rêve lucide : par où commencer, pas à pas"
+  }
  },
  {
   "id": "ombre",
@@ -1863,7 +1873,11 @@
   "photos": [
    "p20",
    "p03"
-  ]
+  ],
+  "seo_title": {
+   "en": "How to do shadow work: prompts to make peace with yourself",
+   "es": "Sombra interior: cómo reconciliarte contigo mismo meditando"
+  }
  },
  {
   "id": "symboles",
@@ -1937,7 +1951,12 @@
   "photos": [
    "p53",
    "p37"
-  ]
+  ],
+  "seo_title": {
+   "fr": "Comment faire un voyage astral : 3 marches pour débuter",
+   "en": "How to astral project: a step-by-step guide for beginners",
+   "es": "Cómo hacer un viaje astral paso a paso, para principiantes"
+  }
  },
  {
   "id": "interactives",
