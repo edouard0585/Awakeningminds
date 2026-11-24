@@ -35,6 +35,37 @@ GROUP_LABEL = {
 }
 
 CSS_FR = """
+article.invite .inv-mast{margin:16px auto 20px;max-width:420px}
+article.invite .inv-kicker{display:block;font-family:'Avenir Next','Segoe UI',sans-serif;font-size:11.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:12px}
+article.invite .inv-kicker::before,article.invite .inv-kicker::after{content:'';display:inline-block;width:30px;height:1px;background:rgba(212,175,106,.6);vertical-align:middle;margin:0 12px}
+article.invite .inv-logo{display:block;background:#fff;border-radius:22px;padding:14px 22px;box-shadow:0 0 0 1px rgba(212,175,106,.55),0 0 0 6px rgba(212,175,106,.08),0 22px 54px -24px rgba(212,175,106,.55)}
+article.invite .inv-logo img{display:block;width:100%;height:auto;margin:0;border:0;border-radius:0}
+article.invite h1{text-wrap:balance}
+article.invite .inv-banner{margin:6px 0 26px;border-radius:20px;overflow:hidden;box-shadow:0 0 0 1px rgba(212,175,106,.3),0 26px 60px -30px rgba(0,0,0,.9)}
+article.invite .inv-banner img{display:block;width:100%;height:auto;aspect-ratio:1600/596;margin:0;border:0;border-radius:0}
+article.invite p.lead{font-family:'Cormorant Garamond','Cormorant Fallback',Georgia,serif;font-style:italic;font-size:24px;line-height:1.4;text-align:center;color:var(--ink);max-width:640px;margin:0 auto 28px}
+article.invite .body>p:first-child::first-letter{float:left;font-family:'Cormorant Garamond','Cormorant Fallback',Georgia,serif;font-size:66px;line-height:.86;padding:6px 10px 0 0;color:var(--gold)}
+article.post .body ol.inv-frise{list-style:none;margin:16px 0 22px;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+article.post .body ol.inv-frise li{list-style:none;border:1px solid rgba(212,175,106,.35);border-radius:16px;padding:14px 18px;background:linear-gradient(135deg,rgba(212,175,106,.10),rgba(212,175,106,.02));margin:0}
+article .inv-frise time{display:block;font-family:'Cormorant Garamond','Cormorant Fallback',Georgia,serif;font-size:24px;color:var(--gold);margin-bottom:2px}
+article .inv-frise span{font-family:'Avenir Next','Segoe UI',sans-serif;font-size:14px;color:var(--muted)}
+article .inv-citation{margin:30px 0 8px;padding:22px 26px 22px 70px;position:relative;border:1px solid rgba(212,175,106,.32);border-radius:18px;background:linear-gradient(135deg,rgba(212,175,106,.13),rgba(212,175,106,.02))}
+article .inv-citation::before{content:'“';position:absolute;left:20px;top:4px;font-family:'Cormorant Garamond',Georgia,serif;font-size:78px;line-height:1;color:var(--gold)}
+article .inv-citation p{margin:0;font-family:'Cormorant Garamond','Cormorant Fallback',Georgia,serif;font-style:italic;font-size:24px;line-height:1.4;color:#fff7e8}
+article.post .body ul.inv-dims{list-style:none;display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 20px;padding:0}
+article.post .body ul.inv-dims li::before{content:none;display:none}
+article.post .body ul.inv-dims li{list-style:none;line-height:1.4;margin:0;font-family:'Avenir Next','Segoe UI',sans-serif;font-size:13.5px;color:var(--ink);border:1px solid rgba(212,175,106,.45);border-radius:99px;padding:6px 14px;background:rgba(212,175,106,.07)}
+article .inv-fin{margin:28px 0 0;padding:20px 24px;text-align:center;border-top:1px solid rgba(212,175,106,.3);border-bottom:1px solid rgba(212,175,106,.3);font-family:'Cormorant Garamond','Cormorant Fallback',Georgia,serif;font-size:22px;line-height:1.45;color:var(--ink)}
+article .inv-fin b{display:block;color:var(--gold);font-weight:500;font-size:25px;line-height:1.3;margin-bottom:6px}
+.inv-auteur{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:6px 16px;align-items:center;margin:30px 0 12px;padding:18px 22px;border:1px solid rgba(212,175,106,.4);border-radius:20px;background:rgba(255,255,255,.03)}
+.inv-av{width:56px;height:56px;border-radius:50%;display:flex;align-items:center;justify-content:center;background:#fff;color:#111;font-family:'Avenir Next','Segoe UI',sans-serif;font-weight:700;font-size:17px;letter-spacing:.04em;box-shadow:0 0 0 3px rgba(212,175,106,.5)}
+.inv-auteur b{display:block;font-family:'Cormorant Garamond','Cormorant Fallback',Georgia,serif;font-size:22px;font-weight:500;color:#fff7e8}
+.inv-auteur div span{font-family:'Avenir Next','Segoe UI',sans-serif;font-size:13.5px;color:var(--muted)}
+.inv-auteur .inv-btn{font-family:'Avenir Next','Segoe UI',sans-serif;font-size:14px;font-weight:600;color:#1a1408;background:linear-gradient(135deg,#e9cf95,#d4af6a);border-radius:99px;padding:10px 18px;text-decoration:none;white-space:nowrap}
+.inv-auteur .inv-btn:hover{filter:brightness(1.08)}
+.inv-auteur small{grid-column:2/-1;font-family:'Avenir Next','Segoe UI',sans-serif;font-size:12.5px;color:var(--dim)}
+@media(max-width:600px){article.post .body ol.inv-frise{grid-template-columns:1fr}article .inv-citation{padding-left:56px}article .inv-citation p{font-size:21px}
+.inv-auteur{grid-template-columns:auto minmax(0,1fr)}.inv-auteur .inv-btn{grid-column:1/-1;text-align:center}.inv-auteur small{grid-column:1/-1;text-align:center}}
 article .hero-photo{margin:4px 0 24px}
 article .hero-photo img{width:100%;aspect-ratio:1376/768;object-fit:cover;margin:0;border-radius:18px}
 article h2.sec{display:flex;align-items:baseline;gap:12px;border-bottom:1px solid rgba(212,175,106,.28);padding-bottom:10px;margin:42px 0 16px}
@@ -219,7 +250,8 @@ def render_article(bb, a0, arts, lang='fr'):
          'datePublished': a['published'], 'dateModified': a.get('modified', a['published']), 'inLanguage': lang,
          'keywords': a.get('kw', ''), 'articleSection': GL.get(a['group'], 'Meditation'),
          'mainEntityOfPage': BASE + url, 'wordCount': bb.words(body),
-         'author': {'@type': 'Organization', 'name': 'MeditaDream', 'url': BASE + '/'},
+         'author': ({'@type': 'Person', 'name': a0['invite']['auteur'], 'url': a0['invite']['site']} if a0.get('invite')
+                    else {'@type': 'Organization', 'name': 'MeditaDream', 'url': BASE + '/'}),
          'publisher': {'@type': 'Organization', 'name': 'MeditaDream',
                        'logo': {'@type': 'ImageObject', 'url': f'{BASE}/assets/brand/logo.png'}}},
         {'@type': 'BreadcrumbList', 'itemListElement': [
@@ -237,19 +269,28 @@ def render_article(bb, a0, arts, lang='fr'):
     import blog_hubs as hubs
     hl = hubs.group_link(lang, a['group'], getattr(bb, 'HUB_ACT', {}))
     h += bb.PROGRESS_JS
-    h += (f'<main class="wrap post-main"><article class="post"><div class="post-head"><nav class="crumbs"><a href="../">MeditaDream</a>'
+    inv = a0.get('invite')   # 24-11 : article invité (logo de l'invité en tête, bannière éventuelle sous le titre, carte de l'auteur)
+    ui = inv['ui'][lang] if inv else {}
+    h += (f'<main class="wrap post-main"><article class="post{" invite" if inv else ""}"><div class="post-head"><nav class="crumbs"><a href="../">MeditaDream</a>'
           f'<span>›</span><a href="./">{E(t["blog"])}</a>'
           + (f'<span>›</span><a href="{hl}">{E(hubs.HUBS[lang][a["group"]]["h1"])}</a>' if hl else '')
           + '</nav>'
+          + (f'<div class="inv-mast"><span class="inv-kicker">{E(ui["kicker"])}</span><span class="inv-logo"><img src="../../assets/blog/{inv["logo"]["src"]}" '
+             f'srcset="../../assets/blog/{inv["logo"]["src_s"]} 480w, ../../assets/blog/{inv["logo"]["src"]} 900w" sizes="(max-width:600px) 76vw, 400px" '
+             f'alt="{E(ui["logo_alt"])}" width="{inv["logo"]["w"]}" height="{inv["logo"]["h"]}" fetchpriority="high" decoding="async"></span></div>' if inv else '')
           + (f'<a class="cat" href="{hl}">' if hl else '<span class="cat">') + E(GL.get(a["group"], "Meditation"))
           + ('</a>' if hl else '</span>') + f'<h1>{E(a["title"])}</h1>')
     h += (f'<div class="meta"><span>{E(t["published_on"])} {E(bb.fmt_date(a["published"], lang))}</span>'
           f'<span>{mins} {E(t["read"])}</span></div></div>')
     p = a['photo']
-    h += (f'<figure class="hero-photo"><img src="../../assets/blog/{p["src"]}" '
+    ban = (inv.get('banniere') or {}).get(lang) if inv else None
+    if ban:
+        h += (f'<figure class="inv-banner"><img src="../../assets/blog/{ban["src"]}" srcset="../../assets/blog/{ban["src_s"]} 800w, ../../assets/blog/{ban["src"]} 1600w" '
+              f'sizes="(max-width:800px) 100vw, 780px" alt="{E(p["alt"])}" width="{ban["w"]}" height="{ban["h"]}" decoding="async"></figure>')
+    if not inv: h += (f'<figure class="hero-photo"><img src="../../assets/blog/{p["src"]}" '
           f'srcset="../../assets/blog/{p["src_s"]} 640w, ../../assets/blog/{p["src"]} 1200w" sizes="(max-width:800px) 100vw, 780px" '
           f'alt="{E(p["alt"])}" width="{p["w"]}" height="{p["h"]}" fetchpriority="high" decoding="async"></figure>')
-    h += f'<p class="lead">{E(a["desc"])}</p>'
+    h += f'<p class="lead">{E(a.get("lead") or a["desc"])}</p>'
     # 06-11 : en haut de l'article, la catégorie de séances du sujet (lien visible) et le bouton de téléchargement
     try:
         import app_pages as _ap0
@@ -257,6 +298,10 @@ def render_article(bb, a0, arts, lang='fr'):
     except Exception:
         pass
     h += toc + f'<div class="body">{body}</div>'
+    if inv:
+        h += (f'<aside class="inv-auteur"><span class="inv-av" aria-hidden="true">{E(inv["initiales"])}</span><div><b>{E(inv["auteur"])}</b>'
+              f'<span>{E(ui["role"])}</span></div><a class="inv-btn" href="{inv["site"]}" target="_blank" rel="noopener">{E(ui["btn"])} →</a>'
+              f'<small>{E(ui["note"])}</small></aside>')
     if a.get('faq'):
         qa = ''.join(f'<details><summary>{E(q)}</summary><p>{E(r)}</p></details>' for q, r in a['faq'])
         h += f'<section class="afaq"><h2>{E(bb.FAQ_LABEL[lang])}</h2>{qa}</section>'

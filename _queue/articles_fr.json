@@ -11842,5 +11842,115 @@
    "p51",
    "p42"
   ]
+ },
+ {
+  "slug": "aprendeblog-communaute-du-savoir",
+  "title": "Aprendeblog : le savoir partagé comme chemin vers le bien-être et la transformation personnelle",
+  "seo_title": "Aprendeblog : la communauté du savoir et du bien-être",
+  "desc": "Aprendeblog, la communauté du savoir : un projet indépendant qui relie des personnes, des expériences et des idées pour continuer à apprendre et à grandir.",
+  "lead": "Un projet indépendant qui relie des personnes, des expériences et des idées pour continuer à apprendre et à grandir.",
+  "kw": "aprendeblog, communauté du savoir, bien-être global, transformation personnelle, apprendre, développement personnel, connaissance de soi, méditation, intelligence émotionnelle",
+  "photo": {
+   "src": "invites/aprendeblog-vignette.webp",
+   "src_s": "invites/aprendeblog-vignette-640.webp",
+   "w": 1200,
+   "h": 750,
+   "alt": "Logo d’Aprendeblog, la communauté du savoir"
+  },
+  "schemas": [],
+  "insert": null,
+  "faq": [],
+  "sources": [],
+  "modified": "2026-11-24",
+  "num": 1001,
+  "group": "psy",
+  "photos": [],
+  "publish_at": "2026-11-24T12:00",
+  "published": "2026-11-24",
+  "invite": {
+   "site": "https://aprendeblog.com/",
+   "auteur": "Marco Aurelio Delgado",
+   "initiales": "MA",
+   "logo": {
+    "src": "invites/aprendeblog-logo.webp",
+    "src_s": "invites/aprendeblog-logo-480.webp",
+    "w": 900,
+    "h": 335
+   },
+   "banniere": {
+    "es": {
+     "src": "invites/aprendeblog-banniere.webp",
+     "src_s": "invites/aprendeblog-banniere-800.webp",
+     "w": 1600,
+     "h": 596
+    }
+   },
+   "ui": {
+    "es": {
+     "kicker": "Artículo invitado",
+     "role": "Fundador de Aprendeblog",
+     "btn": "Descubre Aprendeblog",
+     "note": "aprendeblog.com",
+     "logo_alt": "Logotipo de Aprendeblog, la comunidad del conocimiento",
+     "banner_alt": "Banner de Aprendeblog: «La Comunidad del Conocimiento. Transforma tu vida, empieza hoy.» sobre un cielo estrellado"
+    },
+    "fr": {
+     "kicker": "Article invité",
+     "role": "Fondateur d’Aprendeblog",
+     "btn": "Découvrir Aprendeblog",
+     "note": "aprendeblog.com · site en espagnol",
+     "logo_alt": "Logo d’Aprendeblog, la communauté du savoir",
+     "banner_alt": ""
+    },
+    "en": {
+     "kicker": "Guest article",
+     "role": "Founder of Aprendeblog",
+     "btn": "Visit Aprendeblog",
+     "note": "aprendeblog.com · website in Spanish",
+     "logo_alt": "Aprendeblog logo, the community of knowledge",
+     "banner_alt": ""
+    }
+   }
+  },
+  "en": {
+   "slug": "aprendeblog-community-of-knowledge",
+   "title": "Aprendeblog: Shared Knowledge as a Path to Well-Being and Personal Transformation",
+   "seo_title": "Aprendeblog: A Community of Knowledge for Well-Being",
+   "desc": "Aprendeblog, the community of knowledge: an independent project that connects people, experiences and ideas so we can keep learning and growing.",
+   "lead": "An independent project that connects people, experiences and ideas so we can keep learning and growing.",
+   "kw": "aprendeblog, community of knowledge, holistic well-being, personal transformation, lifelong learning, personal development, self-knowledge, meditation, emotional intelligence",
+   "photo": {
+    "src": "invites/aprendeblog-vignette.webp",
+    "src_s": "invites/aprendeblog-vignette-640.webp",
+    "w": 1200,
+    "h": 750,
+    "alt": "Aprendeblog logo, the community of knowledge"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [],
+   "sources": [],
+   "modified": "2026-11-24"
+  },
+  "es": {
+   "slug": "aprendeblog-comunidad-del-conocimiento",
+   "title": "Aprendeblog: el conocimiento compartido como camino hacia el bienestar y la transformación personal",
+   "seo_title": "Aprendeblog: la comunidad del conocimiento y el bienestar",
+   "desc": "Aprendeblog, la comunidad del conocimiento: un proyecto independiente que conecta personas, experiencias e ideas para seguir aprendiendo y creciendo.",
+   "lead": "Un proyecto independiente que conecta personas, experiencias e ideas para seguir aprendiendo y creciendo.",
+   "kw": "aprendeblog, comunidad del conocimiento, bienestar integral, transformación personal, aprendizaje, desarrollo personal, autoconocimiento, meditación, inteligencia emocional",
+   "photo": {
+    "src": "invites/aprendeblog-banniere.webp",
+    "src_s": "invites/aprendeblog-vignette-640.webp",
+    "w": 1600,
+    "h": 596,
+    "alt": "Banner de Aprendeblog: «La Comunidad del Conocimiento. Transforma tu vida, empieza hoy.» sobre un cielo estrellado"
+   },
+   "schemas": [],
+   "insert": null,
+   "faq": [],
+   "sources": [],
+   "modified": "2026-11-24"
+  }
  }
 ]
