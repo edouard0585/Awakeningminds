@@ -271,7 +271,8 @@ def render_article(bb, a0, arts, lang='fr'):
     h += bb.PROGRESS_JS
     inv = a0.get('invite')   # 24-11 : article invité (logo de l'invité en tête, bannière éventuelle sous le titre, carte de l'auteur)
     ui = inv['ui'][lang] if inv else {}
-    h += (f'<main class="wrap post-main"><article class="post{" invite" if inv else ""}"><div class="post-head"><nav class="crumbs"><a href="../">MeditaDream</a>'
+    sans_app = bool(inv and inv.get('sans_app'))   # 25-11 : article invité sans bandeau ni bouton de téléchargement de l'app
+    h += (f'<main class="wrap post-main"><article class="post{" invite" if inv else ""}"{" data-sans-app" if sans_app else ""}><div class="post-head"><nav class="crumbs"><a href="../">MeditaDream</a>'
           f'<span>›</span><a href="./">{E(t["blog"])}</a>'
           + (f'<span>›</span><a href="{hl}">{E(hubs.HUBS[lang][a["group"]]["h1"])}</a>' if hl else '')
           + '</nav>'
@@ -294,7 +295,7 @@ def render_article(bb, a0, arts, lang='fr'):
     # 06-11 : en haut de l'article, la catégorie de séances du sujet (lien visible) et le bouton de téléchargement
     try:
         import app_pages as _ap0
-        h += _ap0.practice_card(lang, a0['slug'], a0.get('group'))
+        if not sans_app: h += _ap0.practice_card(lang, a0['slug'], a0.get('group'))
     except Exception:
         pass
     h += toc + f'<div class="body">{body}</div>'
@@ -312,10 +313,10 @@ def render_article(bb, a0, arts, lang='fr'):
         import app_pages as _ap
         # 23-10 : le champ s'appelle « group » (« groupe » n'existait pas : tous les articles renvoyaient vers les bases)
         g = a0.get('groupe') or a0.get('group') or 'bases'
-        h += _ap.practice_links(lang, 'bases' if g == 'vie' else g)
+        if not sans_app: h += _ap.practice_links(lang, 'bases' if g == 'vie' else g)
     except Exception:
         pass
-    h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="../#download">✦ {E(t["cta_b"])}</a></div>'
+    if not sans_app: h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="../#download">✦ {E(t["cta_b"])}</a></div>'
     rel = related(a0, arts, lang)
     if rel:
         h += f'<section class="rel"><h2>{E(t["other"])}</h2><ul class="rel-grid">'

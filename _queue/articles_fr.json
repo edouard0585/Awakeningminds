@@ -11910,7 +11910,8 @@
      "logo_alt": "Aprendeblog logo, the community of knowledge",
      "banner_alt": ""
     }
-   }
+   },
+   "sans_app": true
   },
   "en": {
    "slug": "aprendeblog-community-of-knowledge",

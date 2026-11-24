@@ -42,6 +42,8 @@ def ajoute(s, l, r):
     s = BLOC.sub('', s)
     if r in EXCLUS or r.startswith(PREFIXES_EXCLUS):
         return s
+    if 'data-sans-app' in s:   # 25-11 : article invité sans l'app (blog_fr, invite.sans_app)
+        return s
     m = re.search(r'<body[^>]*>', s)
     if not m:
         return s
