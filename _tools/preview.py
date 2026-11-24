@@ -21,7 +21,8 @@ if len(sys.argv) > 2 and os.path.exists(sys.argv[2]):
 p = key.split(':')
 bb.SCHEMA_FILES = {int(k): v for k, v in bb._load_schema_files().items()}
 bb._scan_hero_alts()
-MEDIA = 'https://espace.awakeningminds.app/media/'
+MEDIA = 'https://espace.meditadream.com/media/'   # 25-11 : adresse MeditaDream ; l'ancienne reste reconnue
+MEDIAS = (MEDIA, 'https://espace.awakeningminds.app/media/')
 
 if p[0] in ('fr', 'en'):
     arts = blog_fr.load()
@@ -33,7 +34,7 @@ if p[0] in ('fr', 'en'):
         for k in ('title', 'seo_title', 'desc'):
             if isinstance(e.get(k), str) and e[k].strip(): t[k] = e[k].strip()
         if e.get('media_inline'): t['media_inline'] = True
-        if isinstance(e.get('photo'), str) and e['photo'].startswith(MEDIA):
+        if isinstance(e.get('photo'), str) and e['photo'].startswith(MEDIAS):
             t['photo'] = dict(t['photo'], src=e['photo'], src_s=e['photo'])
         if lang == 'fr' and isinstance(e.get('publish_at'), str): a['publish_at'] = e['publish_at']
         if isinstance(e.get('body'), str) and e['body'].strip(): t['_body'] = e['body']
@@ -60,5 +61,5 @@ else:
 
 # les chemins relatifs (../../assets, ../, article.html) doivent viser le site en ligne
 html = html.replace('<head>', f'<head><base href="https://meditadream.com/{lang}/blog/">', 1)
-html = html.replace('../../assets/blog/' + MEDIA, MEDIA)  # médias envoyés depuis l'espace privé
+for _m in MEDIAS: html = html.replace('../../assets/blog/' + _m, _m)  # médias envoyés depuis l'espace privé
 sys.stdout.write(html)

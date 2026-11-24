@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reporte sur le site les modifications faites dans l'espace privé (https://espace.awakeningminds.app/admin/).
+"""Reporte sur le site les modifications faites dans l'espace privé (https://espace.meditadream.com/admin/).
 
 Lit /am/edits.json : {"items": {"fr:<num>": {...}, "en:<num>": {...}, "q:<id>:<lang>": {...}}}
   fr/en : title, seo_title, desc, body (HTML), et pour fr : publish_at, hold
@@ -8,18 +8,27 @@ Idempotent : réappliquer les mêmes valeurs ne change rien. Reconstruit le blog
 """
 import json, os, re, sys, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-URL = 'https://espace.awakeningminds.app/edits.json'
-try:
-    req = urllib.request.Request(URL, headers={'User-Agent': 'MeditaDream-blog-sync/1.0 (+https://meditadream.com)', 'Accept': 'application/json'})
-    E = json.load(urllib.request.urlopen(req, timeout=20)).get('items') or {}
-    if not isinstance(E, dict): E = {}
-except Exception as e:
-    print(f'Espace privé injoignable ({e}) : rien à appliquer.'); sys.exit(0)
+# 25-11 : l'espace privé est lu à son adresse MeditaDream (Worker Cloudflare « meditadream-espace ») ; l'ancienne adresse
+# awakeningminds.app ne sert plus que de secours. Les médias peuvent être cités sous l'une ou l'autre adresse.
+HOTES = ['https://espace.meditadream.com', 'https://espace.awakeningminds.app']
+E, HOTE, err = None, None, None
+for h in HOTES:
+    try:
+        req = urllib.request.Request(h + '/edits.json', headers={'User-Agent': 'MeditaDream-blog-sync/1.0 (+https://meditadream.com)', 'Accept': 'application/json'})
+        E = json.load(urllib.request.urlopen(req, timeout=20)).get('items') or {}
+        HOTE = h
+        break
+    except Exception as e:
+        err = e
+if E is None:
+    print(f'Espace privé injoignable ({err}) : rien à appliquer.'); sys.exit(0)
+if not isinstance(E, dict): E = {}
 FRQ = f'{ROOT}/_queue/articles_fr.json'; Q3 = f'{ROOT}/_queue/articles.json'
 fr = json.load(open(FRQ, encoding='utf-8')); q3 = json.load(open(Q3, encoding='utf-8'))
 by = {str(a['num']): a for a in fr}; byq = {a['id']: a for a in q3}
 changed = []
-MEDIA = 'https://espace.awakeningminds.app/media/'
+MEDIA = HOTE + '/media/'
+MEDIAS = tuple(h + '/media/' for h in HOTES)
 UP = f'{ROOT}/assets/blog/up'
 def fetch_media(url):
     """Copie dans assets/blog/up/ une photo ou vidéo envoyée depuis l'éditeur ; renvoie son chemin relatif."""
@@ -36,7 +45,7 @@ def localize(body):
     def sub(m):
         rel = fetch_media(m.group(1))
         return f'../../assets/blog/{rel}' if rel else m.group(0)
-    body = re.sub(re.escape(MEDIA) + r'([A-Za-z0-9._-]+)', lambda m: sub(m), body)
+    body = re.sub('(?:' + '|'.join(re.escape(x) for x in MEDIAS) + r')([A-Za-z0-9._-]+)', lambda m: sub(m), body)
     return body.replace('https://meditadream.com/assets/blog/', '../../assets/blog/')
 def put(obj, k, v, label):
     if obj.get(k) != v: obj[k] = v; changed.append(label)
@@ -56,7 +65,7 @@ for key, e in E.items():
             if open(f, encoding='utf-8').read() != body:
                 open(f, 'w', encoding='utf-8').write(body); changed.append(f'{key} texte')
         if e.get('media_inline'): put(t, 'media_inline', True, f'{key} mise en page')
-        if isinstance(e.get('photo'), str) and e['photo'].startswith(MEDIA):
+        if isinstance(e.get('photo'), str) and e['photo'].startswith(MEDIAS):
             rel = fetch_media(e['photo'])
             if rel and t['photo'].get('src') != rel:
                 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
