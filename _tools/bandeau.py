@@ -42,7 +42,7 @@ def ajoute(s, l, r):
     s = BLOC.sub('', s)
     if r in EXCLUS or r.startswith(PREFIXES_EXCLUS):
         return s
-    if 'data-sans-app' in s:   # 25-11 : article invité sans l'app (blog_fr, invite.sans_app)
+    if 'data-sans-app' in s:   # 25-11 : article invité : pas de bandeau en haut (blog_fr, invite.sans_app) ; le bas de page garde le téléchargement
         return s
     m = re.search(r'<body[^>]*>', s)
     if not m:

@@ -74,8 +74,6 @@ def ajoute(s, l, r):
     s = BLOC.sub('', s)
     if r in EXCLUS or r.startswith(EXCLUS[2:]):
         return s
-    if 'data-sans-app' in s:   # 25-11 : article invité sans l'app (blog_fr, invite.sans_app)
-        return s
     # 1. encadrés « cta » : sous le texte, avant le bouton (jamais hors de l'encadré : bornes vérifiées)
     morceaux, pos = [], 0
     for m in re.finditer(r'<div class="cta">', s):
