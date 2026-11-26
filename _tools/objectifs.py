@@ -318,7 +318,7 @@ def programme_html(ap, lang, o, meds, P):
             + '<ol class="ob-road" aria-hidden="true">' + ''.join(
                 f'<li><b>{i}</b><span>{E(ty(lang, e["periode"]))}</span><em>{E(ty(lang, e["titre"]))}</em></li>' for i, e in enumerate(pr['etapes'], 1)) + '</ol>'
             f'<ol class="ob-tl">{etapes}</ol><p class="ob-prog-fin"><span aria-hidden="true">✦</span>{E(ty(lang, pr["apres"]))}</p>'
-            f'<p class="ob-prog-cta"><a href="/{lang}/#download">✦ {E(ol["prog_cta"])}</a></p></section>')
+            f'<p class="ob-prog-cta"><a href="/app/">✦ {E(ol["prog_cta"])}</a></p></section>')
 
 
 def plus_loin(ap, bb, lang, num, sel):
@@ -388,7 +388,7 @@ def render(ap, bb, lang, num, D, cat, P):
     body = (f'<div class="pl ob" style="--acc-rgb:{ACC[num]}">' + ap.crumbs(lang, bc)
             + f'<div class="pl-hero"><div class="pl-ht"><p class="pl-eye"><span aria-hidden="true">✦</span>{E(ol["eye"].format(n=int(num), t=len(D["objectifs"])))}</p>'
             f'<h1>{E(ty(lang, o["h1"]))}</h1><p class="pl-lead">{E(ty(lang, o["accroche"]))}</p><ul class="pl-facts">{faits(lang, len(sel), nb_cats, len(ws))}</ul>'
-            f'<p class="pl-cta"><a class="b1" href="/{lang}/#download">✦ {E(ol["dl"])}</a>'
+            f'<p class="pl-cta"><a class="b1" href="/app/">✦ {E(ol["dl"])}</a>'
             + (f'<a class="b2" href="#programme">{E(ol["see_prog"])} ↓</a>' if prog else f'<a class="b2" href="#seances">{E(ol["see"])} ↓</a>') + '</p></div>'
             f'<figure class="pl-arch">{tag}</figure></div>'
             f'<div class="pl-body"><nav class="pl-toc" aria-label="{E(ol["toc"])}"><b>{E(ol["toc"])}</b><ol>'
@@ -445,7 +445,7 @@ def render_hub(ap, bb, lang, D, cat, P):
     body = (f'<div class="pl ob" style="--acc-rgb:{ACC["hub"]}">' + ap.crumbs(lang, bc)
             + f'<div class="pl-hero"><div class="pl-ht"><p class="pl-eye"><span aria-hidden="true">✦</span>{E(ol["eye_hub"].format(t=len(D["objectifs"])))}</p>'
             f'<h1>{E(ty(lang, h["h1"]))}</h1><p class="pl-lead">{E(ty(lang, h["intro"]))}</p><ul class="pl-facts">{faits(lang, total, len(cat["categories"]), len(cat["worlds"]))}</ul>'
-            f'<p class="pl-cta"><a class="b1" href="/{lang}/#download">✦ {E(ol["dl"])}</a><a class="b2" href="#objectifs">{E(ol["h_hub"])} ↓</a></p></div>'
+            f'<p class="pl-cta"><a class="b1" href="/app/">✦ {E(ol["dl"])}</a><a class="b2" href="#objectifs">{E(ol["h_hub"])} ↓</a></p></div>'
             f'<figure class="pl-arch">{tag}</figure></div>'
             f'<div class="ob-hubw" id="objectifs"><ul class="ob-hub">{cartes}</ul>{ap.cta(lang)}</div></div>')
     url = bb.BASE + me

@@ -469,7 +469,7 @@ def bc_ld(bb, items):
 
 def cta(lang):
     t = L[lang]
-    return f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="/{lang}/#download">✦ {E(t["cta_b"])}</a></div>'
+    return f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="/app/">✦ {E(t["cta_b"])}</a></div>'
 
 
 # 06-11 (Edouard : « Sur les pages de méditation, réponds à « Quelle durée choisir ? », « Peut-on méditer allongé ? »,

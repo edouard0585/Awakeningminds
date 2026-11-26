@@ -489,7 +489,7 @@ def render(ap, bb, lang, key, D, cat, P):
     body = (f'<div class="pl" style="--acc-rgb:{c["acc"]}">' + ap.crumbs(lang, bc)
             + f'<div class="pl-hero"><div class="pl-ht"><p class="pl-eye"><span aria-hidden="true">✦</span>{E(s.get("eyebrow", ""))}</p>'
             f'<h1>{E(s["h1"])}</h1><p class="pl-lead">{rich(s.get("lead", ""))}</p><ul class="pl-facts">{facts(ap, lang, key, cat)}</ul>'
-            f'<p class="pl-cta"><a class="b1" href="/{lang}/#download">✦ {E(lb["practice"])}</a><a class="b2" href="#definition">{E(lb["read_def"])} ↓</a></p></div>'
+            f'<p class="pl-cta"><a class="b1" href="/app/">✦ {E(lb["practice"])}</a><a class="b2" href="#definition">{E(lb["read_def"])} ↓</a></p></div>'
             f'<figure class="pl-arch">{tag}</figure></div>'
             f'<div class="pl-body"><nav class="pl-toc" aria-label="{E(lb["toc"])}"><b>{E(lb["toc"])}</b><ol>'
             + ''.join(f'<li><a href="#{E(i)}">{E(n)}</a></li>' for i, n in toc) + '</ol></nav>'

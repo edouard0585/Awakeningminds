@@ -575,7 +575,7 @@ def render_article(a, lang, arts):
         h += app_pages.practice_links(lang, blog_hubs.SERIES_GROUP.get(a['id'], 'bases'))
     except Exception:
         pass
-    h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="../#download">✦ {E(t["cta_b"])}</a></div>'
+    h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="/app/">✦ {E(t["cta_b"])}</a></div>'
     by_id = {o['id']: o for o in arts}
     others = [by_id[r] for r in RELATED.get(a['id'], []) if by_id.get(r, {}).get('published')]
     if not others:

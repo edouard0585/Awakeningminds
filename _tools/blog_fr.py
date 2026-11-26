@@ -316,7 +316,7 @@ def render_article(bb, a0, arts, lang='fr'):
         if not sans_app: h += _ap.practice_links(lang, 'bases' if g == 'vie' else g)
     except Exception:
         pass
-    h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="../#download">✦ {E(t["cta_b"])}</a></div>'   # 25-11 : gardé aussi pour un article invité (Edouard : « laisse le bouton et la bannière en bas de page »)
+    h += f'<div class="cta"><h2>{E(t["cta_t"])}</h2><p>{E(t["cta_p"])}</p><a href="/app/">✦ {E(t["cta_b"])}</a></div>'   # 25-11 : gardé aussi pour un article invité (Edouard : « laisse le bouton et la bannière en bas de page »)
     rel = related(a0, arts, lang)
     if rel:
         h += f'<section class="rel"><h2>{E(t["other"])}</h2><ul class="rel-grid">'

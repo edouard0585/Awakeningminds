@@ -109,6 +109,11 @@
     else {
       var m = h.match(/^(?:https?:\/\/(?:www\.)?meditadream\.com)?\/(app-store|google-play|app)\/?(?:[?#].*)?$/i);
       if (m) store = {'app-store': 'app_store', 'google-play': 'google_play', app: 'auto'}[m[1].toLowerCase()];
+      if (store === 'auto') {   // 26-11 : /app envoie l'iPhone/iPad vers l'App Store et Android vers Google Play (même test que la page /app,
+        var ua = navigator.userAgent || '';   // qui ne recompte plus le clic venu du site) ; ordinateur = 'auto' (page aux deux boutons)
+        if (/iPhone|iPad|iPod/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1)) store = 'app_store';
+        else if (/Android/.test(ua)) store = 'google_play';
+      }
     }
     var txt = (a.textContent || '').trim();
     if (/^(FR|EN|ES)$/.test(txt) && !a.classList.contains('on') && a.closest('header,nav,.langs,.lang,.lg')) {
