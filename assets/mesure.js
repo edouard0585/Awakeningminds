@@ -110,6 +110,12 @@
       var m = h.match(/^(?:https?:\/\/(?:www\.)?meditadream\.com)?\/(app-store|google-play|app)\/?(?:[?#].*)?$/i);
       if (m) store = {'app-store': 'app_store', 'google-play': 'google_play', app: 'auto'}[m[1].toLowerCase()];
     }
+    var txt = (a.textContent || '').trim();
+    if (/^(FR|EN|ES)$/.test(txt) && !a.classList.contains('on') && a.closest('header,nav,.langs,.lang,.lg')) {
+      ev('lang_switch', {langue_choisie: txt.toLowerCase(), link_url: h});   // 26-11 : changement de langue
+    } else if (/\bap-prat-p\b/.test(a.className || '')) {
+      ev('clic_programme', {link_url: h});   // 26-11 : « Voir les séances » / programme depuis l'encadré d'un article
+    }
     if (store) {
       var e2 = emplacement(a);
       ev('store_click', {store: store, link_url: h, emplacement: e2});
@@ -123,9 +129,24 @@
     if (a.closest('aside.mdb')) return 'bandeau_haut';
     if (a.closest('#download')) return 'section_telecharger';
     if (a.closest('.cta')) return 'encadre_pratiquer';
+    if (a.closest('.ap-prat') || /\bap-prat-/.test(a.className || '')) return 'encadre_haut_article';
     if (a.closest('header,.hero')) return 'haut_de_page';
     if (a.closest('article,main,section')) return 'contenu';
     return 'autre';
+  }
+  /* 26-11 (Edouard : statistiques utiles en plus du clic) — view_download : un bouton App Store / Google Play est apparu
+     à l'écran (moitié visible), une fois par emplacement et par page ; store_click ÷ view_download = taux de clic. */
+  function boutonsVus() {
+    if (!('IntersectionObserver' in window)) return;
+    var vus = {}, rx = /(apps|itunes)\.apple\.com|play\.google\.com|^(?:https?:\/\/(?:www\.)?meditadream\.com)?\/(app-store|google-play|app)\/?(?:[?#].*)?$/i;
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (en) {
+        if (!en.isIntersecting) return;
+        var e3 = emplacement(en.target); io.unobserve(en.target);
+        if (vus[e3]) return; vus[e3] = 1; g('event', 'view_download', {emplacement: e3});
+      });
+    }, {threshold: 0.5});
+    [].forEach.call(document.querySelectorAll('a[href]'), function (a) { if (rx.test(a.getAttribute('href') || '')) io.observe(a); });
   }
   var paliers = {};
   function defil() {
@@ -160,6 +181,7 @@
     document.body.appendChild(d); setTimeout(function () { d.remove(); }, 5000);
   }
   function init() {
+    boutonsVus();
     lienPied(); videos();
     if (BASCULE) avis(BASCULE);
     var c = lire();
