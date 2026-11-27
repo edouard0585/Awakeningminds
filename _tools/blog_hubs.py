@@ -23,6 +23,8 @@ SERIES_GROUP = {
     'science': 'bases', 'histoire': 'bases', 'interactives': 'bases',
     'dormir': 'sommeil', 'reve': 'sommeil', 'emc': 'transe', 'chakras': 'energie', 'ombre': 'psy',
     'symboles': 'lieux', 'astral': 'astral',
+    # 27-11 : cinq articles sur les sujets demandés par Edouard (voyage astral, rêve lucide, guides spirituels)
+    'astral-signes': 'astral', 'astral-dangers': 'astral', 'lucide-risques': 'sommeil', 'guide-trouver': 'astral', 'guide-signes': 'astral',
 }
 ORDER = ['bases', 'sommeil', 'energie', 'psy', 'transe', 'vie', 'lieux', 'chamanisme', 'astral']
 # 06-11 (Edouard : « pour le blog MeditaDream, divise les articles en catégories ») : nom court de chaque catégorie,
@@ -63,8 +65,8 @@ CATS_T = {'fr': ('Les catégories du blog', 'Tous les articles « {n} »'), 'en'
 HUBS = {
  'fr': {
   'bases': dict(slug='pratique-de-la-meditation',
-    seo="Comment pratiquer la méditation : guides pour débutants",
-    desc="Comment pratiquer la méditation chez toi, même cinq minutes par jour : posture, marche méditative, méditation du matin. Des guides pour apprendre à méditer.",
+    seo="Comment pratiquer la méditation : 7 étapes pour débutants",
+    desc="Comment pratiquer la méditation chez toi : 7 étapes simples, de la posture au souffle, puis des guides gratuits pour aller plus loin.",
     h1="Comment pratiquer la méditation, pas à pas",
     h2="Comment pratiquer la méditation : les guides à lire",
     intro="Comment pratiquer la méditation quand tu débutes ? Tu t'assois, tu reviens au souffle et tu recommences. Ces guides reprennent les bases une à une, de la posture aux pensées, pour méditer à ton rythme. Tu y trouveras des schémas clairs et des exercices de quelques minutes."),
@@ -119,9 +121,9 @@ HUBS = {
  },
  'en': {
   'bases': dict(slug='meditation-practice',
-    seo="Beginners' Guide to Meditation: Breath, Posture and Focus",
-    desc="A beginners' guide to meditation in short, clear lessons: posture, breathing and wandering thoughts. Learn how to meditate on your own, for free.",
-    h1="A beginners' guide to meditation practice",
+    seo="How to Do Meditation Correctly: Beginners' Guide in 7 Steps",
+    desc="How to do meditation correctly in 7 simple steps: posture, breath and focus when thoughts wander. Then a beginners' guide to meditation, lesson by lesson.",
+    h1="How to meditate correctly: a beginners' guide to meditation practice",
     h2="Beginners guide to meditation: every article",
     intro="This beginners' guide to meditation keeps things simple: all you need is a seat, your breath and a few minutes. The articles walk you through the essentials, from posture to breathing to wandering thoughts. Most come with clear diagrams and an exercise you can try at home."),
   'sommeil': dict(slug='sleep-and-dreams',
@@ -175,9 +177,9 @@ HUBS = {
  },
  'es': {
   'bases': dict(slug='practica-de-la-meditacion',
-    seo="Guía para meditar: prácticas paso a paso para principiantes",
-    desc="Guía para meditar en casa, paso a paso: de la respiración al escaneo corporal y la meditación caminando. Aprende cómo meditar sin tecnicismos y gratis.",
-    h1="Guía para meditar en casa, a tu ritmo",
+    seo="Guía para meditar: cómo meditar correctamente en 7 pasos",
+    desc="Guía para meditar desde cero: cómo meditar correctamente en 7 pasos, con la postura, la respiración y qué hacer con los pensamientos. Gratis.",
+    h1="Guía para meditar en casa, paso a paso y a tu ritmo",
     h2="Guía para meditar: todos los artículos",
     intro="Esta guía para meditar está pensada para quien empieza desde cero, sin tecnicismos ni prisas. Los artículos repasan lo esencial, de la postura a los pensamientos, para practicar unos minutos al día. Si te preguntas cómo meditar sin complicarte, aquí tienes esquemas claros y ejercicios concretos."),
   'sommeil': dict(slug='sueno-y-suenos',
@@ -269,8 +271,17 @@ def hub_path(lang, g):
     return f"/{lang}/blog/{HUBS[lang][g]['slug']}.html"
 
 
+def _blocs():
+    """27-11 : HTML ajouté en tête de certaines pages de thème : {langue: {groupe: html}} (_tools/hubs_blocs.json)."""
+    f = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'hubs_blocs.json')
+    try:
+        return json.load(open(f, encoding='utf-8'))
+    except Exception:
+        return {}
+
+
 def render(bb, lang, g, act, by):
-    H = HUBS[lang][g]; L = LBL[lang]; BASE = bb.BASE
+    H = dict(HUBS[lang][g], bloc=_blocs().get(lang, {}).get(g)); L = LBL[lang]; BASE = bb.BASE
     langs = [x for x in ('fr', 'en', 'es') if g in act[x]]
     path_of = lambda x: hub_path(x, g)
     arts = by[g]
@@ -293,7 +304,9 @@ def render(bb, lang, g, act, by):
     h += bb.header_html(lang, lambda x: f'../../{x}/blog/{HUBS[x][g]["slug"]}.html' if x in langs else f'../../{x}/blog/')
     h += (f'<main class="wrap"><nav class="crumbs"><a href="../">MeditaDream</a><span>›</span>'
           f'<a href="./">{E(L["blog"])}</a></nav><h1>{E(H["h1"])}</h1>'
-          f'<p class="lead">{E(H["intro"])}</p>' + (f'<h2>{E(H["h2"])}</h2>' if H.get('h2') else '')   # 20-11 : intertitre avec le mot principal (audit SEOptimer)
+          f'<p class="lead">{E(H["intro"])}</p>'
+          + (H.get('bloc') or '')   # 27-11 : bloc de réponse directe en tête (ex. EN « How to meditate correctly » en 7 étapes), HTML de _tools/hubs_blocs.json
+          + (f'<h2>{E(H["h2"])}</h2>' if H.get('h2') else '')   # 20-11 : intertitre avec le mot principal (audit SEOptimer)
           + f'<p class="meta">{len(arts)} {E(L["n"])}</p><ul class="alist">')
     for _, _, x in arts:
         th = (f'<span class="th"><img src="../../assets/blog/{x["img"]}" alt="{E(x.get("alt", ""))}" loading="lazy" width="88" height="88"></span>'

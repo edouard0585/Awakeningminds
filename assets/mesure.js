@@ -141,6 +141,16 @@
   }
   /* 26-11 (Edouard : statistiques utiles en plus du clic) — view_download : un bouton App Store / Google Play est apparu
      à l'écran (moitié visible), une fois par emplacement et par page ; store_click ÷ view_download = taux de clic. */
+  /* 27-11 — extraits audio des méditations : extrait_audio quand un visiteur lance un extrait (une fois par extrait et par page),
+     extrait_audio_fin quand il l'écoute jusqu'au bout. */
+  var ecoutes = {};
+  document.addEventListener('play', function (e) {
+    var a = e.target; if (!a || a.tagName !== 'AUDIO' || !a.getAttribute('data-extrait')) return;
+    var id = a.getAttribute('data-extrait'); if (ecoutes[id]) return; ecoutes[id] = 1; ev('extrait_audio', {extrait: id});
+  }, true);
+  document.addEventListener('ended', function (e) {
+    var a = e.target; if (a && a.tagName === 'AUDIO' && a.getAttribute('data-extrait')) ev('extrait_audio_fin', {extrait: a.getAttribute('data-extrait')});
+  }, true);
   function boutonsVus() {
     if (!('IntersectionObserver' in window)) return;
     var vus = {}, rx = /(apps|itunes)\.apple\.com|play\.google\.com|^(?:https?:\/\/(?:www\.)?meditadream\.com)?\/(app-store|google-play|app)\/?(?:[?#].*)?$/i;

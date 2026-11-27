@@ -126,6 +126,10 @@ RELATED = {
  'pleineconscience': ['pensees', 'intro', 'quotidien'],
  'marche': ['techniques', 'scan', 'cinqminutes'],
  'bienveillance': ['techniques', 'ombre', 'pleineconscience'],
+ # 27-11 : nouveaux articles (voyage astral, rêve lucide, guides spirituels)
+ 'astral-signes': ['astral', 'astral-dangers', 'emc'], 'astral-dangers': ['astral', 'astral-signes', 'emc'],
+ 'lucide-risques': ['reve', 'dormir', 'emc'], 'guide-trouver': ['guide-signes', 'symboles', 'emc'],
+ 'guide-signes': ['guide-trouver', 'symboles', 'ombre'],
 }
 MONTHS = {
  'fr': ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'],
@@ -242,6 +246,7 @@ footer .wrap{padding:22px 20px;color:var(--dim);font-size:14px;font-family:'Aven
 footer a{color:var(--muted)}
 """
 
+CSS += app_pages.EXT_CSS.replace('.ap-ext', 'article.post .ap-ext')
 CSS += app_pages.piliers.MENU_CSS   # 24-10 : menu « Guides » (pages piliers), partagé par le blog et les pages de l’application
 
 # Mise en page éditoriale des articles (classe .post sur <article>) et de l'index (.bidx).
@@ -494,9 +499,26 @@ def header_html(lang, blog_path_of):
     mnu = app_pages.piliers.menu_html(lang, extra=[(t['blog'], f'/{lang}/blog/')])   # 24-10 : les 9 pages piliers dans le menu principal
     return f'<header><div class="wrap"><a href="../" class="b">{E(t["back"])}</a><a href="./" class="hx">{E(t["blog"])}</a>{mnu}<div class="lg">{lg}</div></div></header>' + app_pages.piliers.MENU_JS
 
+APROPOS_T = {'fr': 'À propos', 'en': 'About', 'es': 'Quiénes somos'}
+
+def apropos_path(lang):
+    """27-11 : adresse de la page « À propos » de la langue (clé apropos de _tools/themes_<langue>.json), ou None."""
+    try:
+        d = json.load(open(f'{ROOT}/_tools/themes_{lang}.json', encoding='utf-8'))
+        return f'/{lang}/{d["apropos"]["slug"]}.html' if 'apropos' in d else None
+    except Exception:
+        return None
+
 def footer_html(lang):
     villes = '<a href="/fr/formation-meditation/">Formations par ville</a>' if lang == 'fr' else ''
-    return f'<footer><div class="wrap"><span>MeditaDream</span><a href="../">meditadream.com/{lang}</a><a href="./">{E(T[lang]["blog"])}</a>{villes}</div></footer>'
+    ap = apropos_path(lang)
+    apropos = f'<a href="{ap}">{E(APROPOS_T.get(lang, "About"))}</a>' if ap else ''
+    return f'<footer><div class="wrap"><span>MeditaDream</span><a href="../">meditadream.com/{lang}</a><a href="./">{E(T[lang]["blog"])}</a>{villes}{apropos}</div></footer>'
+
+# 27-11 : article du lundi → séance dont l'extrait s'écoute dans l'article
+EXTRAIT_ARTICLE = {'intro': 'appren08', 'scan': 'appren01', 'dormir': 'corpsc03', 'cinqminutes': '4minut01', 'chakras': 'chakra01',
+                   'reve': 'reves01', 'astral': 'microd01'}
+
 
 def render_article(a, lang, arts):
     t = T[lang]
@@ -510,7 +532,7 @@ def render_article(a, lang, arts):
              'image': BASE + img, 'datePublished': a['published'], 'dateModified': a.get('modified', a['published']), 'inLanguage': lang,
              'keywords': a.get('kw', {}).get(lang, ''), 'articleSection': SECTION_LABEL[lang],
              'mainEntityOfPage': f'{BASE}/{lang}/blog/{a["slug"][lang]}.html',
-             'author': {'@type': 'Organization', 'name': 'MeditaDream', 'url': BASE + '/'},
+             'author': {'@type': 'Organization', 'name': 'MeditaDream', 'url': BASE + (apropos_path(lang) or '/')},   # 27-11 : l'auteur renvoie à la page « À propos »
              'publisher': {'@type': 'Organization', 'name': 'MeditaDream',
                            'logo': {'@type': 'ImageObject', 'url': f'{BASE}/assets/brand/logo.png'}}},
             {'@type': 'WebSite', 'name': 'MeditaDream', 'url': BASE + '/', 'inLanguage': lang},
@@ -561,6 +583,12 @@ def render_article(a, lang, arts):
     # 06-11 : en haut de l'article, la catégorie de séances du sujet (lien visible) et le bouton de téléchargement
     try:
         h += app_pages.practice_card(lang, a['slug']['fr'], g)
+    except Exception:
+        pass
+    # 27-11 : extrait à écouter de la séance du sujet (articles du lundi qui parlent d'une pratique précise)
+    try:
+        xid = EXTRAIT_ARTICLE.get(a['id'])
+        if xid: h += app_pages.extrait_audio(sys.modules[__name__], lang, xid)[0]
     except Exception:
         pass
     h += toc + f'<div class="body">{body}</div>'
@@ -694,7 +722,7 @@ def _scan_hero_alts():
     inv = {v[lang]: (n, lang) for n, v in SCHEMA_FILES.items() for lang in LANGS}
     for lang in LANGS:
         d = f'{ROOT}/_queue/sections/{lang}'
-        for fn in os.listdir(d):
+        for fn in sorted(os.listdir(d)):   # 28-11 : ordre fixe (l'ordre du disque différait entre le Mac et les robots GitHub : les textes des schémas changeaient d'une construction à l'autre)
             for m in re.finditer(r'src="\.\./\.\./assets/blog/([^"]+)-(?:fr|en|es)\.webp"[^>]*alt="([^"]+)"',
                                  open(f'{d}/{fn}', encoding='utf-8').read()):
                 key = inv.get(m.group(1))
@@ -722,6 +750,26 @@ def render_feed(lang, arts):
             f'<atom:link href="{BASE}/{lang}/blog/feed.xml" rel="self" type="application/rss+xml"/>'
             + items + '</channel></rss>')
 
+def liens_morts():
+    """27-11 — les textes peuvent citer des articles programmés (ex. un article du lundi qui renvoie à un article de la série française
+    qui sort plus tard). Tant que la page visée n'existe pas, le lien est retiré et son texte gardé ; chaque publication reconstruit
+    le blog, donc le lien revient de lui-même le jour où la page est en ligne. Liens internes absolus seulement (/fr/…, /en/…, /es/…)."""
+    n = 0
+    rx = re.compile(r'<a\b[^>]*\bhref="(/(?:fr|en|es)/[^"#?]*)(?:[#?][^"]*)?"[^>]*>(.*?)</a>', re.S)
+    for lang in LANGS:
+        for dp, dn, fn in os.walk(f'{ROOT}/{lang}'):
+            for f in fn:
+                if not f.endswith('.html'): continue
+                p = os.path.join(dp, f); s = open(p, encoding='utf-8').read()
+                def rempl(m):
+                    cible = ROOT + m.group(1) + ('index.html' if m.group(1).endswith('/') else '')
+                    return m.group(0) if os.path.exists(cible) else m.group(2)
+                s2 = rx.sub(rempl, s)
+                if s2 != s:
+                    n += len(rx.findall(s)) - len(rx.findall(s2)); open(p, 'w', encoding='utf-8').write(s2)
+    if n: print(f'✓ liens vers des pages pas encore en ligne retirés (texte gardé) : {n}')
+
+
 def build():
     global SCHEMA_FILES
     SCHEMA_FILES = {int(k): v for k, v in _load_schema_files().items()}
@@ -746,6 +794,7 @@ def build():
     print(f'✓ articles en français seul : {len(blog_fr.published(fr_seuls))} publié(s), {len(fr_seuls) - len(blog_fr.published(fr_seuls))} programmé(s)')
     pub = sum(1 for a in arts if a.get('published'))
     print(f'✓ blog reconstruit : {pub} article(s) publié(s) × 3 langues + index + sitemap-blog.xml')
+    liens_morts()   # 27-11 : un lien vers un article pas encore paru devient du texte simple
     import liens_auto; liens_auto.main()  # 07-11 : liens internes automatiques vers les pages en ligne (mots-clés de la carte)
     import seo_medias; seo_medias.main()  # texte alternatif + titre de chaque image, sitemaps images et vidéos
     import mesure; mesure.main(False)  # balise Google Analytics + consentement sur toutes les pages

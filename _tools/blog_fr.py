@@ -251,7 +251,7 @@ def render_article(bb, a0, arts, lang='fr'):
          'keywords': a.get('kw', ''), 'articleSection': GL.get(a['group'], 'Meditation'),
          'mainEntityOfPage': BASE + url, 'wordCount': bb.words(body),
          'author': ({'@type': 'Person', 'name': a0['invite']['auteur'], 'url': a0['invite']['site']} if a0.get('invite')
-                    else {'@type': 'Organization', 'name': 'MeditaDream', 'url': BASE + '/'}),
+                    else {'@type': 'Organization', 'name': 'MeditaDream', 'url': BASE + (bb.apropos_path(lang) or '/')}),   # 27-11 : vers « À propos »
          'publisher': {'@type': 'Organization', 'name': 'MeditaDream',
                        'logo': {'@type': 'ImageObject', 'url': f'{BASE}/assets/brand/logo.png'}}},
         {'@type': 'BreadcrumbList', 'itemListElement': [

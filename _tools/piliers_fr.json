@@ -232,12 +232,12 @@
  "astral": {
   "slug": "voyage-astral",
   "seo": "Voyage astral : définition, techniques et méditation guidée",
-  "desc": "Voyage astral, ou astral projection : définition, techniques connues, témoignages, précautions et méditations guidées gratuites pour t’y préparer.",
+  "desc": "Voyage astral, ou astral projection : définition, méthode pas à pas, signes, dangers réels et précautions, avec des méditations guidées gratuites.",
   "h1": "Voyage astral : comprendre la sortie hors du corps et s'y préparer",
   "eyebrow": "Guide complet",
-  "lead": "Le voyage astral fascine depuis plus d’un siècle. Voici ce que recouvrent les mots et ce que la science a observé. Tu trouveras aussi les techniques connues, et une façon douce de t’y préparer.",
+  "lead": "Le voyage astral fascine depuis plus d’un siècle. Voici ce que recouvrent les mots et ce que la science a observé. Tu trouveras aussi une méthode pas à pas, les signes à reconnaître et les vrais dangers, pour t’y préparer en douceur.",
   "def": "Le **voyage astral** est l’impression de quitter son corps physique et de percevoir le monde depuis un autre point de vue, souvent au-dessus de soi. Les traditions ésotériques y voient un « corps astral » qui se détache. La science parle d’expérience de sortie de corps, sans se prononcer sur un second corps.",
-  "kw": "voyage astral, astral projection, plan astral, corps astral, voyage astral c’est quoi, voyage astral danger, voyage astral témoignages, sortie de corps astral",
+  "kw": "voyage astral, astral projection, plan astral, corps astral, voyage astral c’est quoi, voyage astral danger, voyage astral témoignages, sortie de corps astral, comment faire un voyage astral, projection astrale, sortie astrale, signes voyage astral, comment savoir si on a fait un voyage astral, comment se fait le voyage astral",
   "sections": [
    {
     "id": "c-est-quoi",
@@ -294,8 +294,9 @@
    },
    {
     "id": "ressenti",
-    "h2": "Voyage astral : témoignages et sensations",
+    "h2": "Quels sont les signes d’un voyage astral ? Témoignages et sensations",
     "p": [
+     "Les signes les plus cités sont des vibrations, une impression de flotter et une vue de la pièce depuis un autre point. Ils apparaissent surtout au bord du sommeil, quand le corps s’endort et que l’esprit reste éveillé.",
      "Les témoignages de voyage astral se ressemblent d’une personne à l’autre. Personne ne vit tout cela, et il n’existe aucun passage obligé. Voici ce que les pratiquants décrivent le plus souvent."
     ],
     "tip": "Si la paralysie du sommeil survient, respire lentement et bouge doucement un doigt. Elle vient du sommeil paradoxal, et elle passe d’elle-même.",
@@ -304,6 +305,8 @@
      "Une sensation de lourdeur, puis de légèreté, comme si le corps devenait vaporeux.",
      "L’impression de flotter, de se redresser ou de glisser hors de soi.",
      "Une vue de la pièce depuis un autre point, souvent près du plafond.",
+     "Au retour, une petite secousse, puis un réveil net.",
+     "Après coup, un souvenir très clair, souvent plus précis que celui d’un rêve ordinaire.",
      "Au réveil, parfois, un court moment où le corps ne bouge pas encore : la paralysie du sommeil."
     ]
    },
@@ -340,6 +343,67 @@
      ]
     ],
     "tip": "Choisis un moment où tu es reposé. Beaucoup de pratiquants préfèrent le petit matin, après quelques heures de sommeil. Le soir, la fatigue endort souvent trop vite."
+   },
+   {
+    "id": "methode",
+    "h2": "Comment se fait le voyage astral, étape par étape ?",
+    "p": [
+     "Le voyage astral se fait le plus souvent allongé, en trois temps. Le corps se détend profondément, puis il glisse vers le sommeil pendant que l’esprit reste éveillé. Un geste imaginé, comme la corde, peut enfin déclencher la sortie astrale.",
+     "Voici une séance type, à suivre telle quelle les premières semaines. Compte environ quarante-cinq minutes. Si rien ne se passe, la séance reste un vrai exercice de détente, et elle prépare la suivante."
+    ],
+    "steps": [
+     [
+      "Choisir le moment",
+      "Mets un réveil quatre à six heures après ton coucher. Lève-toi quelques minutes, puis recouche-toi : tu es reposé, et le sommeil revient vite."
+     ],
+     [
+      "Préparer la chambre",
+      "Une pièce calme, peu de lumière, une température douce. Pose un carnet et un stylo à portée de main."
+     ],
+     [
+      "T’allonger sur le dos",
+      "Les bras le long du corps, sans croiser les jambes. Si tu t’endors trop vite, garde un avant-bras levé : s’il tombe, il te réveille."
+     ],
+     [
+      "Détendre tout le corps",
+      "Pendant dix à quinze minutes, relâche le corps zone par zone, des pieds vers la tête. Laisse le souffle ralentir tout seul."
+     ],
+     [
+      "Rester au seuil",
+      "Ne bouge plus, et garde ton attention éveillée. Des images, des sons ou des vibrations peuvent venir : observe-les sans réagir."
+     ],
+     [
+      "Lancer une seule technique",
+      "Quand le corps semble lourd et lointain, essaie la corde ou le rouleau. Garde la même technique jusqu’à la fin de la séance."
+     ],
+     [
+      "Rester calme si tu sors",
+      "Si la sortie commence, ne cherche pas à aller loin. Regarde la pièce, puis éloigne-toi d’un ou deux mètres seulement."
+     ],
+     [
+      "Revenir et noter",
+      "Pense à ton corps et bouge un doigt : pour la plupart des pratiquants, le retour se fait alors en un instant. Note aussitôt ce que tu as vécu."
+     ]
+    ],
+    "tip": "Deux ou trois séances par semaine suffisent. Les autres nuits, dors normalement : la fatigue rend la pratique plus difficile."
+   },
+   {
+    "id": "savoir",
+    "h2": "Comment savoir si on a fait un voyage astral ?",
+    "p": [
+     "Aucun test ne permet de le prouver. Tu peux seulement observer ce que tu vis, et le noter avec soin. Deux repères reviennent dans les récits : ta conscience reste claire, et tu perçois depuis un point situé hors de ton corps.",
+     "La continuité est un autre indice. Tu te souviens d’être allongé, puis de la sortie, sans coupure entre les deux. Le décor ressemble à ta chambre, parfois avec de petites différences.",
+     "À l’inverse, des images au bord du sommeil, ou un rêve où tu voles, ne suffisent pas. Ces expériences sont très fréquentes, et elles appartiennent d’abord au sommeil ordinaire.",
+     "Pour t’y retrouver, tiens un carnet après chaque séance. La séance « Astral · Cible à vérifier » (19 min) va plus loin : tu notes ce que tu perçois d’une cible avant de la vérifier, sans rien corriger après."
+    ],
+    "ul": [
+     "L’heure, ta position et la durée de la détente.",
+     "Les signes du début : lourdeur, vibrations, bourdonnement.",
+     "Le moment où tu t’es senti hors du corps, s’il est venu.",
+     "Ce que tu as vu ou entendu, décrit avant d’être interprété.",
+     "La façon dont tu es revenu, et ton état au réveil."
+    ],
+    "tip": "Relis ton carnet après un mois. Les repères fiables se dessinent sur plusieurs semaines, rarement sur une seule nuit."
    },
    {
     "id": "reve-lucide",
@@ -394,6 +458,8 @@
     "p": [
      "Pratiqué comme un exercice d’imagination et de détente, le voyage astral reste une pratique douce. Le principal inconfort vient de la peur : vibrations soudaines, paralysie du sommeil, impression d’une présence.",
      "Ces sensations sont fréquentes au bord du sommeil, et elles passent d’elles-mêmes. Respire lentement. Rappelle-toi que tu es en sécurité, dans ton lit.",
+     "Les peurs les plus répandues viennent surtout des livres et des films. Rester bloqué hors de son corps, voir se rompre la « corde d’argent », être possédé : aucun de ces récits n’a jamais été confirmé. Pendant l’exercice, ton corps continue de respirer et de veiller sur lui-même, comme chaque nuit.",
+     "Les vrais risques sont plus ordinaires. À force de réveils, tu peux manquer de sommeil. Et ces expériences peuvent prendre trop de place : garde une vie bien ancrée, avec du mouvement, des proches et la lumière du jour.",
      "Après chaque séance, prends le temps de t’ancrer. Sens le poids de ton corps, le sol, la température de la pièce. Le monde [Le Cœur de la Terre](/fr/mondes/meditation-ancrage-coeur-terre.html) est une belle façon de revenir vers ce qui est stable."
     ],
     "warn": "Évite de pratiquer quand tu manques de sommeil ou que tu traverses une période fragile. Si cela te pèse ou revient souvent, demande conseil à un professionnel."
@@ -504,6 +570,18 @@
    [
     "Peut-on découvrir ses vies antérieures en voyage astral ?",
     "Certains pratiquants le racontent, mais rien ne permet de le vérifier. L’hindouisme et le bouddhisme enseignent une suite de renaissances. L’ésotérisme moderne parle, lui, d’annales akashiques qui garderaient la mémoire de chaque vie. Si une image d’une autre époque surgit, accueille-la comme un symbole. Note-la, sans en faire une certitude."
+   ],
+   [
+    "Combien de temps faut-il pour réussir un voyage astral ?",
+    "Personne ne peut te donner un délai. Certains pratiquants racontent une sortie dès les premières semaines, d’autres après des mois, d’autres jamais. La régularité compte plus que l’effort : deux ou trois séances par semaine valent mieux qu’une nuit entière d’essais. Note chaque séance, même sans sortie : tu verras ce qui progresse."
+   ],
+   [
+    "Peut-on rester bloqué hors de son corps ?",
+    "Rien ne le montre. L’expérience se termine toujours, par un réveil ou en glissant dans le sommeil. Les pratiquants se plaignent même plutôt d’un retour trop rapide : une émotion, un bruit ou une pensée pour le corps suffit. Pour revenir, pense à ta main et bouge un doigt."
+   ],
+   [
+    "Qu’est-ce que la corde d’argent ?",
+    "C’est un lien lumineux qui relierait le corps astral au corps physique, selon certains auteurs ésotériques. L’image vient en partie de la Bible : l’Ecclésiaste parle d’un « cordon d’argent » qui se détache à la fin de la vie. Sylvan Muldoon l’a rendue célèbre en 1929, dans un livre sur la projection astrale. Beaucoup de pratiquants ne la voient jamais."
    ]
   ],
   "blog": {
@@ -1127,21 +1205,37 @@
  },
  "reve": {
   "slug": "reve-lucide",
-  "seo": "Rêve lucide : définition, techniques et méditation guidée",
-  "desc": "Rêve lucide : définition, techniques reconnues (MILD, WBTB), journal et interprétation des rêves, paralysie du sommeil, et une méditation guidée gratuite.",
+  "seo": "Rêve lucide : définition, 5 techniques et méditation guidée",
+  "desc": "Rêve lucide : définition simple, méthode pas à pas pour en faire un rapidement, effets sur le sommeil, vrais risques et méditation guidée gratuite.",
   "h1": "Rêve lucide : savoir que l'on rêve, et apprendre à le faire",
   "eyebrow": "Guide complet",
-  "lead": "Le rêve lucide, c’est ce moment où tu comprends, en plein rêve, que tu rêves. Voici ce que la science en sait, le meilleur moment de la nuit et les techniques reconnues. Tu verras aussi comment traverser calmement une paralysie du sommeil.",
+  "lead": "Le rêve lucide, c’est ce moment où tu comprends, en plein rêve, que tu rêves. Voici ce que la science en sait, le meilleur moment de la nuit et les techniques reconnues. Une méthode pas à pas t’aide à commencer. Tu verras aussi les effets possibles du rêve lucide, et comment traverser calmement une paralysie du sommeil.",
   "def": "Le **rêve lucide** est un rêve pendant lequel tu sais que tu rêves. Le rêve continue, mais une part de ton esprit reste consciente. Tu peux alors observer le décor, parfois agir dessus. Il survient surtout pendant le sommeil paradoxal, et des chercheurs l’ont démontré en laboratoire dès 1975.",
-  "kw": "rêve lucide, rêve lucide c’est quoi, rêve lucide dangereux, rêve lucide signification",
+  "kw": "rêve lucide, rêve lucide c’est quoi, rêve lucide dangereux, rêve lucide signification, rêve lucide définition, comment faire un rêve lucide, comment faire un rêve lucide rapidement, rêve lucide conséquences, rêver éveillé, faux réveil",
   "sections": [
    {
     "id": "c-est-quoi",
-    "h2": "Rêve lucide, c’est quoi ?",
+    "h2": "Rêve lucide, c’est quoi ? Définition simple",
     "p": [
      "Dans un rêve ordinaire, tu crois à tout, même à l’impossible. Dans un **rêve lucide**, un déclic se produit : tu comprends que tu rêves. Le rêve, lui, continue autour de toi.",
      "On parle aussi de rêve conscient. La lucidité peut être brève ou durer longtemps. Elle peut rester légère, ou devenir très claire. Certains rêveurs se contentent d’observer, d’autres changent le décor ou se mettent à voler.",
      "Contrôler ses rêves n’est pas le but premier. La lucidité ne donne pas toujours le contrôle, et le rêve garde souvent sa propre volonté. Beaucoup de pratiquants préfèrent simplement regarder, avec curiosité."
+    ]
+   },
+   {
+    "id": "deroulement",
+    "h2": "Comment se passe un rêve lucide ?",
+    "p": [
+     "Le plus souvent, un détail étrange t’alerte, et tu comprends soudain que tu rêves. Le décor reste en place, souvent très net. Tu peux alors observer, parfois agir, jusqu’au réveil.",
+     "Les premières secondes sont fragiles : la joie de la découverte suffit souvent à te réveiller. Beaucoup de rêveurs stabilisent le rêve en regardant leurs mains, en touchant le sol, ou en frottant leurs paumes l’une contre l’autre.",
+     "Ensuite, chaque rêve suit sa voie. Certains rêveurs volent, d’autres parlent à un personnage ou visitent un lieu aimé. Le contrôle reste partiel : le rêve garde souvent sa propre logique.",
+     "La lucidité dure de quelques secondes à plusieurs minutes. Elle s’achève par un réveil, par un retour au rêve ordinaire, ou par un faux réveil : tu crois te lever, alors que tu rêves encore.",
+     "Voici les déclencheurs de lucidité les plus souvent décrits :"
+    ],
+    "ul": [
+     "Une chose impossible : voler, respirer sous l’eau, une porte qui change de place.",
+     "Un texte qui change quand tu le relis, ou une montre qui affiche une heure impossible.",
+     "Une personne disparue, ou un lieu de ton enfance tel qu’il était autrefois."
     ]
    },
    {
@@ -1195,6 +1289,45 @@
     "tip": "Pour une technique de rêve lucide simple, commence ce soir par le journal des rêves. Il prépare tout le reste."
    },
    {
+    "id": "rapidement",
+    "h2": "Comment faire un rêve lucide rapidement ?",
+    "p": [
+     "La voie la plus rapide connue associe deux techniques : un réveil en fin de nuit, puis MILD juste avant de te rendormir. Rien n’est garanti, mais c’est l’association qui donne les meilleurs résultats dans plusieurs études.",
+     "Voici le plan d’une nuit d’essai. Suis-le deux ou trois nuits par semaine, et dors normalement les autres."
+    ],
+    "steps": [
+     [
+      "Poser l’intention le soir",
+      "Couche-toi à heure régulière. Dis-toi calmement : « Cette nuit, je me souviendrai de mes rêves. »"
+     ],
+     [
+      "Régler un réveil",
+      "Programme-le environ cinq heures après l’heure où tu t’endors. Les longues phases de rêve viennent ensuite."
+     ],
+     [
+      "Noter tes rêves",
+      "Au réveil, reste immobile un instant, les yeux fermés. Puis écris ce dont tu te souviens, même un fragment."
+     ],
+     [
+      "Rester éveillé un peu",
+      "Lève-toi quelques minutes, sous une lumière douce. Relis ton journal et repère un signe de rêve qui revient."
+     ],
+     [
+      "Pratiquer MILD",
+      "Recouché, revis ton dernier rêve. Imagine que tu y remarques ce signe et que tu deviens lucide. Répète : « La prochaine fois que je rêve, je saurai que je rêve. »"
+     ],
+     [
+      "Te rendormir vite",
+      "Garde cette intention jusqu’au sommeil, sans forcer. Dans une étude australienne de 2017, MILD a surtout réussi aux personnes qui se rendormaient en quelques minutes."
+     ],
+     [
+      "Stabiliser, puis noter",
+      "Si tu deviens lucide, regarde tes mains et respire calmement. Au réveil suivant, note tout, même si rien ne s’est passé."
+     ]
+    ],
+    "tip": "Ne fais pas ce réveil toutes les nuits. Un sommeil trop souvent coupé fatigue, et la méthode perd alors tout son intérêt."
+   },
+   {
     "id": "souvenir",
     "h2": "Comment se souvenir de ses rêves ?",
     "p": [
@@ -1246,12 +1379,39 @@
     "warn": "Si la paralysie du sommeil te pèse ou revient souvent, demande conseil à un professionnel."
    },
    {
+    "id": "consequences",
+    "h2": "Quelles sont les conséquences possibles du rêve lucide ?",
+    "p": [
+     "Le plus souvent, elles sont agréables : un rêve marquant, de la joie, un sentiment de liberté au réveil. Les effets moins bons viennent surtout des techniques, quand elles coupent trop souvent la nuit.",
+     "Des chercheurs ont étudié des usages plus précis. Devenir lucide dans un cauchemar qui revient permet parfois de le changer, ou de le regarder sans fuir. Les premiers résultats sont encourageants, mais les études restent petites.",
+     "En 2010, une petite étude allemande a suggéré qu’on peut s’entraîner à un geste simple en rêve lucide : lancer une pièce dans une tasse. Au réveil, les rêveurs entraînés réussissaient un peu mieux.",
+     "Sur le sommeil lui-même, les études ne montrent pas, à ce jour, d’effet nuisible clair des rêves lucides. Des chercheurs s’inquiètent plutôt des réveils programmés, quand ils se répètent, et du flou entre rêve et réalité chez quelques personnes."
+    ]
+   },
+   {
     "id": "danger",
     "h2": "Rêve lucide : dangereux ou sans danger ?",
     "p": [
      "Pour la plupart des gens, le rêve lucide est une expérience sans danger, et souvent joyeuse. Le rêve reste un rêve : tu finis toujours par te réveiller.",
      "Deux points méritent pourtant ton attention. Les réveils programmés, comme le WBTB, coupent ta nuit : ne les pratique pas tous les jours si tu te sens fatigué. La technique WILD, elle, peut mener à une paralysie du sommeil, qui impressionne la première fois.",
-     "Garde aussi une frontière nette entre le rêve et le jour. Si cela te pèse ou revient souvent, demande conseil à un professionnel."
+     "Garde aussi une frontière nette entre le rêve et le jour. Si cela te pèse ou revient souvent, demande conseil à un professionnel.",
+     "Certains signes invitent à faire une pause de quelques semaines :"
+    ],
+    "ul": [
+     "Tu te sens fatigué dans la journée, plusieurs jours de suite.",
+     "Tu as du mal à savoir si un souvenir vient d’un rêve ou de la veille.",
+     "Le coucher devient une source d’inquiétude plutôt que de curiosité."
+    ],
+    "tip": "Après une pause, reprends en douceur avec le journal des rêves seul, sans réveil programmé."
+   },
+   {
+    "id": "reve-eveille",
+    "h2": "Est-il possible de rêver éveillé ?",
+    "p": [
+     "Oui, en un sens. Les yeux ouverts, l’esprit part souvent dans des rêveries : des scènes, des souvenirs, des projets. Mais ce n’est pas un rêve de la nuit, qui demande le sommeil.",
+     "Ces rêveries tiennent une grande place. Une étude publiée en 2010 dans la revue Science a suivi 2 250 adultes grâce à une application sur téléphone. Leur esprit vagabondait pendant près de la moitié de leurs moments éveillés.",
+     "Il existe aussi des états entre les deux. Au bord du sommeil, des images surgissent toutes seules : ce sont les images hypnagogiques. Le rêve éveillé dirigé, présenté juste après, se vit les yeux fermés, sans dormir.",
+     "Le rêve lucide, lui, demande vraiment de dormir. Tu es endormi, et une part de toi sait que tu rêves."
     ]
    },
    {
@@ -1366,6 +1526,18 @@
    [
     "Rêve lucide : signification, faut-il y lire un message ?",
     "En lui-même, un rêve lucide n’annonce rien : c’est un état de conscience, pas un symbole. Il montre qu’une part de ton esprit est restée attentive pendant le sommeil paradoxal. Le mot vient du latin lucidus, « clair, lumineux ». Ce que tu y vois se lit, en revanche, comme tout rêve : note ce que chaque image évoque pour toi."
+   ],
+   [
+    "Combien de temps dure un rêve lucide ?",
+    "De quelques secondes à plusieurs minutes, parfois plus. La lucidité s’arrête quand l’émotion te réveille, ou quand tu glisses dans un rêve ordinaire. En fin de nuit, les phases de sommeil paradoxal s’allongent, ce qui laisse plus de temps au rêve. Regarder tes mains ou toucher le sol aide à prolonger le moment."
+   ],
+   [
+    "Qu’est-ce qu’un faux réveil ?",
+    "C’est un rêve où tu crois te réveiller. Tu te lèves, tu commences ta journée, puis tu découvres que tu dormais encore. Les faux réveils sont fréquents chez les personnes qui pratiquent le rêve lucide. Un test de réalité, comme relire un texte, aide à les reconnaître."
+   ],
+   [
+    "Peut-on rester coincé dans un rêve lucide ?",
+    "Non. Le sommeil paradoxal ne dure qu’un temps, et chaque rêve finit par s’arrêter. Si tu veux te réveiller, ferme les yeux dans le rêve et concentre-toi sur ton corps qui dort. Une suite de faux réveils peut donner l’impression d’être pris au piège, mais elle se termine elle aussi."
    ]
   ],
   "blog": {
@@ -1803,13 +1975,13 @@
  },
  "guides": {
   "slug": "guides-spirituels",
-  "seo": "Ange gardien et guides spirituels : qui sont-ils ?",
-  "desc": "Ange gardien, guides spirituels, animal spirituel, bodhisattvas, maîtres ascensionnés : les traditions, les signes et des méditations guidées gratuites.",
+  "seo": "Ange gardien et guides spirituels : qui sont-ils vraiment ?",
+  "desc": "Qui sont les guides spirituels ? Ange gardien, animal, ancêtre, archanges : leur rôle, leurs signes, les noms connus et une méthode pour trouver le tien.",
   "h1": "Guides spirituels et ange gardien : comment entrer en contact",
   "eyebrow": "Guide complet",
-  "lead": "Ange gardien, animal spirituel, ancêtre, maître ou guide intérieur : les guides spirituels prennent bien des visages. Voici ce qu’en disent les traditions, une lecture psychologique possible et une façon douce d’entrer en contact en méditation.",
+  "lead": "Ange gardien, animal spirituel, ancêtre, maître ou guide intérieur : les guides spirituels prennent bien des visages. Voici qui ils sont selon les traditions, leur rôle, une lecture psychologique possible et une méthode douce pour savoir qui est ton guide.",
   "def": "Les **guides spirituels** sont des présences bienveillantes qui, selon de nombreuses traditions, accompagnent une personne sur son chemin. Ce peut être un ange gardien, un animal, un ancêtre, un sage ou une part plus profonde de soi. En méditation, on les rencontre par l’imagination, pour recevoir un conseil, un réconfort ou une direction.",
-  "kw": "ange gardien, guides spirituels, guide spirituel, maître ascensionné, anges et archanges, ange protecteur, mon ange gardien, comment contacter ses guides spirituels, signes des guides spirituels",
+  "kw": "ange gardien, guides spirituels, guide spirituel, maître ascensionné, anges et archanges, ange protecteur, mon ange gardien, comment contacter ses guides spirituels, signes des guides spirituels, qui sont les guides spirituels, rôle d’un guide spirituel, différence entre ange gardien et guide spirituel, liste des noms des guides spirituels, comment savoir qui est mon guide spirituel, prière pour appeler ses guides, comment se manifeste un guide spirituel",
   "sections": [
    {
     "id": "c-est-quoi",
@@ -1822,7 +1994,7 @@
    },
    {
     "id": "traditions",
-    "h2": "Les guides spirituels selon les traditions",
+    "h2": "Qui sont les guides spirituels selon les traditions ?",
     "p": [
      "Chaque tradition a ses guides. Voici les plus connus, sans hiérarchie entre eux.",
      "Pour l’animal de pouvoir et les voyages chamaniques, lis notre page sur la [transe chamanique](/fr/transe-chamanique.html). Le chemin de Sudhana se vit dans la catégorie [Méditations bouddhistes](/fr/meditations/meditation-bouddhiste-guidee.html), avec « Le voyage de Sudhana — Les maîtres du chemin » (30 min)."
@@ -1855,6 +2027,32 @@
     ]
    },
    {
+    "id": "role",
+    "h2": "Quel est le rôle d’un guide spirituel ?",
+    "p": [
+     "Selon les traditions, un guide spirituel accompagne, protège et éclaire. Il ne vit pas ta vie à ta place : il t’aide à voir plus clair, puis il te laisse choisir.",
+     "Dans la plupart des traditions, un guide bienveillant ne presse pas, ne menace pas et ne flatte pas. La rencontre te laisse plus calme et plus libre. C’est le meilleur repère pour le reconnaître."
+    ],
+    "cards": [
+     [
+      "Accompagner",
+      "Être présent dans les passages difficiles, comme un deuil, un départ ou un choix. Beaucoup de gens décrivent d’abord un sentiment de compagnie."
+     ],
+     [
+      "Protéger",
+      "Dans le christianisme, l’ange gardien veille sur une personne. Dans le chamanisme, l’animal de pouvoir protège le voyageur."
+     ],
+     [
+      "Éclairer",
+      "Une image, un mot ou une intuition qui aide à comprendre une situation. La réponse vient souvent sous forme de symbole."
+     ],
+     [
+      "Rappeler ta propre sagesse",
+      "Selon une lecture psychologique, le guide donne une voix à ce que tu sais déjà au fond de toi. Il te rend plus libre, pas plus dépendant."
+     ]
+    ]
+   },
+   {
     "id": "bouddhisme",
     "h2": "Bouddhisme : le Bouddha, les bodhisattvas, Guanyin et Tārā",
     "p": [
@@ -1874,12 +2072,102 @@
     ]
    },
    {
+    "id": "difference",
+    "h2": "Quelle différence entre ange gardien et guide spirituel ?",
+    "p": [
+     "L’ange gardien est une figure précise de la tradition chrétienne : un ange attaché à une personne, pour toute sa vie. Le guide spirituel est une notion plus large, qui réunit des figures de nombreuses traditions.",
+     "L’ange gardien peut donc être vu comme un guide spirituel parmi d’autres. Mais tous les guides ne sont pas des anges : un animal, un ancêtre ou un sage peuvent aussi jouer ce rôle."
+    ],
+    "table": {
+     "head": [
+      "",
+      "Ange gardien",
+      "Guide spirituel"
+     ],
+     "rows": [
+      [
+       "Origine",
+       "La Bible et la tradition chrétienne",
+       "De nombreuses traditions, et des spiritualités modernes"
+      ],
+      [
+       "Nature",
+       "Un ange, créé par Dieu selon la foi chrétienne",
+       "Un ange, un animal, un ancêtre, un sage ou une part de soi"
+      ],
+      [
+       "Nombre",
+       "Un par personne, selon l’Église catholique",
+       "Un ou plusieurs, selon les courants"
+      ],
+      [
+       "Durée",
+       "Toute la vie",
+       "Une étape de la vie, ou bien plus longtemps"
+      ],
+      [
+       "Lien",
+       "La prière et la confiance",
+       "La méditation, le rêve, le voyage intérieur"
+      ]
+     ]
+    }
+   },
+   {
+    "id": "noms",
+    "h2": "Existe-t-il une liste des noms des guides spirituels ?",
+    "p": [
+     "Il n’existe aucune liste officielle des noms des guides spirituels. Chaque tradition donne ses propres noms, et beaucoup de guides se présentent sans nom. Voici les plus connus, rangés par tradition."
+    ],
+    "cards": [
+     [
+      "Les archanges",
+      "Michel, Gabriel et Raphaël, fêtés le 29 septembre par l’Église catholique. D’autres traditions y ajoutent Uriel."
+     ],
+     [
+      "Les 72 anges de la kabbale",
+      "Une liste ésotérique tirée de trois versets de l’Exode. Elle commence par Vehuiah, Jeliel et Sitael."
+     ],
+     [
+      "Les bodhisattvas",
+      "Avalokiteśvara, nommé Guanyin en Chine, mais aussi Tārā, Mañjuśrī et Kṣitigarbha, que le Japon appelle Jizō."
+     ],
+     [
+      "Les maîtres ascensionnés",
+      "Saint-Germain, El Morya ou Kuthumi, dans des courants issus de la théosophie. Ces noms n’appartiennent à aucune religion établie."
+     ],
+     [
+      "Les animaux de pouvoir",
+      "Le loup, l’ours ou l’aigle, par exemple. Dans le chamanisme, l’animal se présente lui-même, et son espèce compte plus qu’un nom."
+     ],
+     [
+      "Les ancêtres",
+      "Un grand-parent, ou un aïeul que tu n’as pas connu. On l’appelle souvent par son prénom, ou par son lien avec toi."
+     ]
+    ],
+    "tip": "Ton guide ne dit pas son nom ? Ce n’est pas un échec. Tu peux lui en donner un, ou attendre qu’un nom te vienne, par exemple avec la séance « Le nom et le signe » (16 min)."
+   },
+   {
     "id": "existent",
     "h2": "Les guides spirituels existent-ils ?",
     "p": [
      "Personne ne peut le prouver, ni prouver le contraire. Les traditions affirment leur existence. La science, elle, ne sait pas les mesurer.",
      "Une lecture psychologique est possible. Carl Gustav Jung dialoguait avec des figures intérieures, dont un vieux sage qu’il appelait Philémon. Il nommait cette méthode l’imagination active. Pour lui, ces figures portaient une sagesse que la conscience ordinaire ignore.",
      "Tu n’as pas à trancher. Que ton guide vienne d’ailleurs ou de toi, la rencontre peut t’apporter du calme et de la clarté. MeditaDream laisse cette question ouverte, et respecte ta réponse."
+    ]
+   },
+   {
+    "id": "manifestation",
+    "h2": "Comment se manifeste un guide spirituel ?",
+    "p": [
+     "Le plus souvent, par des moyens discrets : une image en méditation, un rêve très net, une phrase intérieure ou une sensation de présence. Les récits parlent rarement d’une apparition visible, les yeux ouverts.",
+     "Ces manifestations se reconnaissent moins à leur forme qu’à leur effet : elles apaisent et elles éclairent. Voici les formes les plus souvent décrites."
+    ],
+    "ul": [
+     "En méditation : une silhouette, une lumière, un animal, ou une simple chaleur.",
+     "En rêve : une figure qui revient, souvent avec un message court.",
+     "Dans la journée : une intuition calme, une phrase qui s’impose au bon moment.",
+     "Dans le corps : un frisson, une détente soudaine, l’impression d’une main posée sur l’épaule."
     ]
    },
    {
@@ -1890,6 +2178,37 @@
      "Garde pourtant ton esprit critique. Quand tu attends un signe, tu remarques davantage ce qui y ressemble. Note les faits tels qu’ils sont, sans les forcer à dire quelque chose.",
      "Le carnet « Signes & Synchronicités » du « Journal » sert à cela. Tu y notes ce qui t’a frappé, puis tu relis avec du recul. Un vrai motif se dessine avec le temps."
     ]
+   },
+   {
+    "id": "savoir-qui",
+    "h2": "Comment savoir qui est mon guide spirituel ?",
+    "p": [
+     "Aucun test, ni aucune date de naissance, ne peut te le dire. On le découvre par la rencontre : en méditation, sur plusieurs séances, en notant ce qui revient.",
+     "Voici une méthode simple, sur trois semaines. La méditation de contact décrite juste après en est le cœur."
+    ],
+    "steps": [
+     [
+      "Clarifier ta demande",
+      "Demande-toi ce que tu cherches : du réconfort, une protection ou un conseil. Ta demande oriente la rencontre."
+     ],
+     [
+      "Préparer ton lieu sûr",
+      "Crée-le dans « Ton Sanctuaire » : son décor, ses couleurs, ses sons. Tu y reviendras à chaque séance."
+     ],
+     [
+      "Méditer trois fois par semaine",
+      "Suis la méditation de contact, ou « Le guide de lumière » (24 min). Laisse venir une présence, sans la choisir."
+     ],
+     [
+      "Noter, puis relire",
+      "Après chaque séance, note la forme de la présence, son attitude et ce que tu as ressenti. Au bout de trois semaines, relis tout : ce qui revient forme un repère."
+     ],
+     [
+      "Vérifier la qualité de la présence",
+      "Un guide bienveillant t’apaise et respecte ta liberté. Si la présence te presse ou te fait peur, remercie-la et reviens doucement."
+     ]
+    ],
+    "tip": "Ton guide peut changer avec le temps. Garde une fiche pour chaque guide dans « Tes Guides », et ajoute une entrée dans « Réapparitions » quand il revient."
    },
    {
     "id": "contact",
@@ -1925,6 +2244,17 @@
     ],
     "tip": "Tu peux construire ce lieu sûr à l’avance dans « Ton Sanctuaire ». Tu y décris son environnement, ses couleurs, ses sons, et même la présence d’un guide.",
     "warn": "Si une présence te met mal à l’aise, remercie-la, puis reviens doucement. Si cela te pèse ou revient souvent, demande conseil à un professionnel."
+   },
+   {
+    "id": "priere",
+    "h2": "Quelle prière pour appeler ses guides ?",
+    "p": [
+     "Il n’existe pas de prière unique. Chaque tradition a ses mots, et une phrase simple, dite avec sincérité, suffit souvent pour commencer.",
+     "Les catholiques adressent à leur ange gardien une prière ancienne, « Ange de Dieu », Angele Dei en latin. Elle lui demande d’éclairer, de garder et de guider la personne qui prie.",
+     "Dans le bouddhisme tibétain, on récite des mantras. « Om mani padme hum » est lié à Avalokiteśvara, le bodhisattva de la compassion. « Om tare tuttare ture soha » appelle Tārā, la protectrice.",
+     "Dans le chamanisme, les esprits alliés sont souvent appelés par un chant, au son du tambour. Le voyage commence ainsi.",
+     "Si aucune tradition ne te parle, voici une formule simple, à dire avant ta méditation : « Je t’accueille, guide bienveillant. Aide-moi à voir clair, dans le respect de ma liberté. » Puis laisse le silence répondre."
+    ]
    },
    {
     "id": "types",
@@ -2048,6 +2378,18 @@
    [
     "Quelle différence entre anges et archanges ?",
     "Le mot archange vient du grec et signifie « chef des anges ». Dans la tradition chrétienne, les archanges sont des anges chargés de grandes missions. L’Église catholique en vénère trois, fêtés ensemble le 29 septembre : Michel, Gabriel, qui annonce à Marie la naissance de Jésus, et Raphaël. L’ange gardien, lui, accompagne une seule personne, au quotidien."
+   ],
+   [
+    "Combien de guides spirituels avons-nous ?",
+    "Les traditions ne s’accordent pas. Pour l’Église catholique, chaque personne a un ange gardien. Dans le chamanisme, un voyageur peut avoir plusieurs esprits alliés. Beaucoup de spiritualités modernes parlent de plusieurs guides, qui changent selon les étapes de la vie. Personne ne peut fixer ce nombre à ta place."
+   ],
+   [
+    "Un proche décédé peut-il devenir un guide spirituel ?",
+    "De nombreuses cultures le pensent : les ancêtres y veillent sur les vivants, et l’on se tourne vers eux pour demander conseil. Rien ne permet de le prouver, ni de l’exclure. En méditation, sentir la présence d’un proche disparu peut apporter beaucoup de douceur. « Le jardin des retrouvailles » (25 min) t’invite à lui dire les mots restés en suspens."
+   ],
+   [
+    "Peut-on avoir un guide spirituel sans être croyant ?",
+    "Oui. Tu peux voir ton guide comme une figure de ton imagination, qui t’aide à écouter ta propre sagesse. Cette lecture s’inspire de Carl Gustav Jung, qui dialoguait avec des figures intérieures. La méditation se pratique de la même façon, que tu croies ou non. Ce qui compte, c’est ce que la rencontre t’apporte."
    ]
   ],
   "blog": {

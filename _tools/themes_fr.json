@@ -753,5 +753,83 @@
     "Oui. Pas d’abonnement, pas de publicité, pas d’achat intégré. Les points qui ouvrent la seconde moitié des méditations se gagnent en pratiquant, jamais en payant."
    ]
   ]
+ },
+ "apropos": {
+  "slug": "a-propos",
+  "seo": "À propos de MeditaDream : une app de méditation gratuite",
+  "desc": "MeditaDream, l’app de méditation 100 % gratuite par choix, sans publicité ni compte : qui l’a créée, comment sont faits les articles et les méditations.",
+  "h1": "MeditaDream, une application de méditation gratuite par choix",
+  "lead": "MeditaDream est une application de méditation guidée, gratuite et sans publicité. Elle s’utilise sans compte, et hors ligne une fois les séances téléchargées. Voici pourquoi nous l’avons voulue ainsi, et comment nous travaillons.",
+  "sections": [
+   {
+    "h2": "Notre mission : la méditation gratuite, pour tout le monde",
+    "p": [
+     "MeditaDream est 100 % gratuite, par choix. Nous voulons que chacun puisse méditer, quels que soient ses moyens.",
+     "Il n’y a ni publicité, ni abonnement, ni compte à créer. Tu installes l’application, et tu commences.",
+     "La moitié des méditations et tous les mondes sont ouverts dès l’installation. Les autres se débloquent avec des points gagnés en pratiquant, jamais en payant."
+    ]
+   },
+   {
+    "h2": "Qui est derrière MeditaDream ?",
+    "p": [
+     "MeditaDream a été créée par Edouard Richemond.",
+     "L’application poursuit un but simple : proposer des méditations belles et sérieuses, sans pression ni promesse, à toutes celles et tous ceux qui en ont besoin."
+    ]
+   },
+   {
+    "h2": "Comment les méditations et les mondes sont-ils faits ?",
+    "p": [
+     "Chaque méditation est écrite pour l’application, puis relue avec soin, phrase après phrase. Nous cherchons des textes beaux mais simples, faciles à suivre les yeux fermés.",
+     "Les séances existent en trois langues : français, anglais et espagnol. Chaque version est relue dans sa langue, pour sonner juste à l’oreille. Les voix sont douces et posées, choisies pour accompagner sans distraire.",
+     "Les 17 mondes immersifs sont des voyages complets : un lieu, des sons et un récit, du premier pas jusqu’au retour. Ils sont écrits avec la même attention au rythme et aux silences.",
+     "Nous réécoutons les séances, et nous corrigeons ce qui sonne mal. L’application s’améliore ainsi au fil des mises à jour."
+    ]
+   },
+   {
+    "h2": "Ce que tu trouves dans l’application",
+    "p": [
+     "L’application réunit 144 méditations guidées, classées par thème, de quelques minutes à plus d’une demi-heure. Autour d’elles, des outils t’aident à pratiquer à ton rythme :"
+    ],
+    "ul": [
+     "des mondes immersifs à explorer les yeux fermés ;",
+     "l’Oracle, qui te propose trois méditations selon ce que tu ressens ;",
+     "des journaux, dont un journal des rêves ;",
+     "des sons d’ambiance avec minuteur ;",
+     "un créateur de méditations, un dragon compagnon et un passeport zen."
+    ]
+   },
+   {
+    "h2": "Comment sont écrits les articles du blog ?",
+    "p": [
+     "Les articles expliquent la méditation et les traditions qui l’entourent, comme le voyage astral, le rêve lucide ou le chamanisme. Quand c’est possible, nous citons nos sources : études, ouvrages de référence ou textes des traditions.",
+     "Nous séparons toujours ce que la science a montré, ce que disent les traditions et ce qui reste inconnu. Nous ne promettons aucun résultat.",
+     "Nos articles ne donnent pas de conseil médical. La méditation ne remplace pas l’avis d’un professionnel, et nous le rappelons chaque fois que c’est utile."
+    ]
+   },
+   {
+    "h2": "Comment nous contacter ?",
+    "p": [
+     "Une question, une idée, une erreur repérée dans un texte ? Écris-nous depuis la page Assistance du site, ou par e-mail à l’adresse qui y est indiquée. De vraies personnes lisent chaque message."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "MeditaDream est-elle vraiment gratuite ?",
+    "Oui. L’application est gratuite, sans publicité et sans compte. Certaines séances se débloquent avec des points gagnés en pratiquant, jamais en payant."
+   ],
+   [
+    "Qui a créé MeditaDream ?",
+    "MeditaDream a été créée par Edouard Richemond. Pour nous écrire, passe par la page Assistance du site."
+   ],
+   [
+    "Mes données restent-elles sur mon téléphone ?",
+    "Oui. Sans compte, tes journaux, tes guides et tes notes restent sur ton appareil. Si tu désinstalles l’application, ces données sont effacées."
+   ],
+   [
+    "Les méditations remplacent-elles un accompagnement ?",
+    "Non. Elles sont faites pour la détente, l’exploration intérieure et le bien-être. Si tu traverses une période difficile, parles-en à un professionnel."
+   ]
+  ]
  }
 }

@@ -886,5 +886,75 @@
     "Yes. No subscription, no ads, no in-app purchases. The points that open the second half of the meditations are earned by practicing, never bought."
    ]
   ]
+ },
+ "apropos": {
+  "slug": "about",
+  "seo": "About MeditaDream: The Free Meditation App and Its Mission",
+  "desc": "Why MeditaDream is free by choice, with no ads and no account: who created it, how its meditations, worlds and articles are made, and how to reach us.",
+  "h1": "About MeditaDream: a free meditation app, made with care",
+  "lead": "MeditaDream is a meditation app that asks for nothing in return: no subscription, no ads, no account. Here is why it exists, who is behind it, and how its meditations, immersive worlds and articles are made.",
+  "sections": [
+   {
+    "h2": "Why is MeditaDream free?",
+    "p": [
+     "Because that is the whole point. MeditaDream is 100% free by choice. There is no subscription, no advertising and no account to create.",
+     "Meditation should not depend on what you can afford. So every guided meditation and every immersive world is free, and plays offline once downloaded. Half of the meditations and all the worlds are open from the start. The others unlock with points you earn by practicing, never with money.",
+     "The app collects no personal data. What you write in your journals stays on your phone."
+    ]
+   },
+   {
+    "h2": "Who created MeditaDream?",
+    "p": [
+     "MeditaDream was created by Edouard Richemond."
+    ]
+   },
+   {
+    "h2": "What will you find in the app?",
+    "p": [
+     "You will find guided meditations for every moment of the day. They range from your very first steps to sleep, deep relaxation and inner journeys. Immersive worlds take you on complete journeys, and illustrated lessons explain the practice.",
+     "A few tools support your practice. The Oracle suggests three meditations for how you feel. Private journals keep your notes, and ambient sounds come with a timer. A dragon companion grows with your practice."
+    ]
+   },
+   {
+    "h2": "How are the meditations and worlds made?",
+    "p": [
+     "Every meditation is written with care, then read again, line by line, before it goes into the app. The pace is slow, the sentences are simple, and silences leave room to breathe.",
+     "The sessions play in three languages, English, French and Spanish, with two soft voices to choose from in each. Every session is checked again before release.",
+     "The immersive worlds get the same care. Each one is a complete journey, with its own scenery, light, sounds and story. They range from a temple in the mountain mist to a moonlit forest guarded by wolf spirits."
+    ]
+   },
+   {
+    "h2": "How are the articles written?",
+    "p": [
+     "The articles on this site explain meditation, sleep, dreams and inner journeys in plain words. They draw on recognized sources, from research papers to classic books, and most list them at the end.",
+     "When science has not settled a question, we say so. Spiritual ideas are presented as beliefs, not as facts. We make no promises, and we stay cautious about anything that touches on health.",
+     "Nothing on this site is medical advice. The meditations support well-being, and they never replace the help of a qualified professional."
+    ]
+   },
+   {
+    "h2": "How can you contact us?",
+    "p": [
+     "A question, an idea or a bug to report? Write to us from the Support page. Every message is read, and we usually reply within three business days."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "Is MeditaDream really free?",
+    "Yes. There is no subscription, no advertising and no account. Half of the meditations and all the worlds are open from the start. The rest unlock with points earned by practicing, never with money."
+   ],
+   [
+    "Do I need an internet connection?",
+    "Only to download a session the first time. After that, it plays offline, wherever you are."
+   ],
+   [
+    "Does MeditaDream replace professional help?",
+    "No. The meditations are designed for relaxation, inner exploration and well-being. If you are going through a hard time, talk to someone close to you or to a professional."
+   ],
+   [
+    "In which languages is MeditaDream available?",
+    "In English, French and Spanish, with two voices to choose from in each language."
+   ]
+  ]
  }
 }

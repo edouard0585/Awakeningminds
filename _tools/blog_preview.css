@@ -100,6 +100,16 @@ footer{border-top:1px solid var(--line);margin-top:40px}
 footer .wrap{padding:22px 20px;color:var(--dim);font-size:14px;font-family:'Avenir Next',sans-serif;display:flex;gap:10px;flex-wrap:wrap}
 footer a{color:var(--muted)}
 
+article.post .ap-ext{margin:26px 0 30px;padding:18px 18px 16px;border:1px solid rgba(212,175,106,.38);border-radius:20px;background:linear-gradient(135deg,rgba(212,175,106,.09),rgba(255,255,255,.02))}
+article.post .ap-ext h2{margin:0 0 4px!important;font-size:24px;line-height:1.25}
+article.post .ap-ext .d{color:var(--muted);font-size:14.5px;line-height:1.5;margin:0 0 12px}
+article.post .ap-ext audio{width:100%;display:block;margin:0 0 12px;border-radius:999px}
+article.post .ap-ext .go{display:inline-block;color:var(--gold);font-size:15px;text-decoration:none;font-weight:600}
+article.post .ap-ext .go:hover{text-decoration:underline}
+article.post .ap-ext details{margin-top:12px;border-top:1px solid rgba(255,255,255,.08);padding-top:10px}
+article.post .ap-ext summary{cursor:pointer;color:var(--muted);font-size:14.5px}
+article.post .ap-ext .tx p{font-size:15.5px;line-height:1.7;color:var(--muted);margin:10px 0 0}
+
 details.mnu{border:0;border-radius:0;background:none;margin:0;padding:0}
 details.mnu>summary{padding:0;font-family:'Cormorant Garamond',Georgia,serif;font-size:17px;color:var(--ink)}
 @media(max-width:600px){details.mnu>summary{font-size:15px}}

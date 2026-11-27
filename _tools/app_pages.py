@@ -69,24 +69,26 @@ XL = {  # libellés des blocs ajoutés le 09-10 (mondes étoffés, pages thémat
 }
 # Pages thématiques (mots-clés des recherches réelles, 09-10) : textes dans _tools/themes_<langue>.json ;
 # séances et sons ajoutés ici depuis les données de l'app (jamais recopiés à la main).
-THEMES = ('sons', 'gratitude', 'oracle', 'dragon', 'journaux', 'creer', 'minuteur', 'video', 'alternative')   # 15-11 : page vidéo et page « alternative gratuite » (pistes 2 et 3 du SEO)   # 23-10 : « reve » et « chakras » sont devenues des pages piliers ; 06-11 : pages des fonctionnalités ; 07-11 : minuteur (anglais seulement : « meditation timer », 1 000-10 000 recherches)
+THEMES = ('sons', 'gratitude', 'oracle', 'dragon', 'journaux', 'creer', 'minuteur', 'video', 'alternative', 'apropos')   # 27-11 : page « À propos » (confiance : qui est derrière, comment c'est fait)   # 15-11 : page vidéo et page « alternative gratuite » (pistes 2 et 3 du SEO)   # 23-10 : « reve » et « chakras » sont devenues des pages piliers ; 06-11 : pages des fonctionnalités ; 07-11 : minuteur (anglais seulement : « meditation timer », 1 000-10 000 recherches)
 THEME_PILIERS = {'sons': ['reve', 'mondes', 'chakras'], 'gratitude': ['emotions', 'guides', 'visualisation'],
                  'oracle': ['emotions', 'guides'], 'dragon': ['mondes'], 'journaux': ['reve', 'emotions', 'guides'], 'creer': ['visualisation', 'mondes'],
-                 'minuteur': ['qigong', 'emotions'], 'video': ['mondes', 'emotions', 'reve'], 'alternative': ['emotions', 'reve', 'mondes']}
+                 'minuteur': ['qigong', 'emotions'], 'video': ['mondes', 'emotions', 'reve'], 'alternative': ['emotions', 'reve', 'mondes'],
+                 'apropos': ['mondes', 'emotions', 'guides']}
 PILIERS_T = {'fr': 'Les guides par thème', 'en': 'Guides by theme', 'es': 'Guías por tema'}
 THEME_IMG = {'sons': 'assets/worlds/mushroomForest.jpg', 'reve': 'assets/cats/catart-trance.png',
              'chakras': 'assets/cats/catart-calm.png', 'gratitude': 'assets/cats/catart-emotionalGrowth.png',
              'oracle': 'assets/worlds/celestialLibrary.jpg', 'dragon': 'assets/worlds/skyIsland.jpg',
              'journaux': 'assets/worlds/desertOasis.jpg', 'creer': 'assets/worlds/zenGarden.jpg',
              'minuteur': 'assets/worlds/himalayanMonastery.jpg', 'video': None,   # 15-11 : la page vidéo montre l'affiche de la vidéo
-             'alternative': 'assets/worlds/crystalCave.jpg'}
+             'alternative': 'assets/worlds/crystalCave.jpg', 'apropos': 'assets/worlds/treeOfConsciousness.jpg'}
 THEME_SEANCES = {'reve': ['reves01', 'reves02', 'corpsc03', 'consci02', 'consci05'],
                  'chakras': ['chakra01', 'chakra02', 'cons02', 'corpsc01'],
                  'gratitude': ['croiss03', '4minut03', 'guides01', 'croiss02', 'cons06']}
 THEME_CATS = {'sons': ['calm', 'fourMin'], 'reve': ['calm', 'trance'], 'chakras': ['calm', 'thirdEye', 'qigong'], 'gratitude': ['emotionalGrowth', 'fourMin'],
               'oracle': ['fourMin', 'emotionalGrowth', 'calm'], 'dragon': ['learningBasics', 'fourMin'],
               'journaux': ['calm', 'emotionalGrowth', 'shadow'], 'creer': ['learningBasics', 'visualisation'],
-              'minuteur': ['learningBasics', 'fourMin', 'buddhist', 'calm'], 'video': ['learningBasics', 'fourMin', 'calm'], 'alternative': ['learningBasics', 'calm', 'fourMin']}
+              'minuteur': ['learningBasics', 'fourMin', 'buddhist', 'calm'], 'video': ['learningBasics', 'fourMin', 'calm'], 'alternative': ['learningBasics', 'calm', 'fourMin'],
+              'apropos': ['learningBasics', 'calm', 'fourMin']}
 # 06-11 : captures d'écran (assets/shots/manifest.json : alt et légende par langue) et stades du dragon dans les sections
 try:
     SHOTS = {x['f']: x for l, xs in json.load(open(os.path.join(ROOT, 'assets', 'shots', 'manifest.json'), encoding='utf-8')).items() for x in xs}
@@ -211,12 +213,78 @@ SONS = [('nature', ['sousbois', 'grandsBois', 'apresAverse', 'torrent', 'ressac'
         ('nappes_et_drones', ['nebuleuse', 'theta', 'monolithe'])]
 
 
+# 27-11 (accord d'Edouard : « oui fais tout, 4 et 7 aussi ») — extraits à écouter sur le site : le début de 13 séances par langue,
+# rendu comme l'app le joue (3 à 5 min, sans synthèse), hébergé sur R2 sous am-social/ (préfixe public). Données : _tools/extraits.json
+# {langue: {id de séance: {titre, duree (s), texte: [phrases]}}}. Lecteur + texte de l'extrait (replié) + données AudioObject.
+EXTRAITS_BASE = 'https://audio.meditadream.com/am-social/extraits-site/v1'
+EXT_T = {
+ 'fr': {'h': 'Écoute un extrait : {t}', 'd': 'Extrait de {m} min. La séance complète ({n} min) est dans l’application, gratuite et sans compte.',
+        'go': 'Écouter la séance complète dans l’app', 'tx': 'Lire le texte de cet extrait', 'desc': 'Extrait de la méditation guidée « {t} » de MeditaDream.'},
+ 'en': {'h': 'Listen to an excerpt: {t}', 'd': '{m}-minute excerpt. The full session ({n} min) is in the app, free and with no account.',
+        'go': 'Listen to the full session in the app', 'tx': 'Read the transcript of this excerpt', 'desc': 'Excerpt from the guided meditation “{t}” by MeditaDream.'},
+ 'es': {'h': 'Escucha un fragmento: {t}', 'd': 'Fragmento de {m} min. La sesión completa ({n} min) está en la app, gratis y sin cuenta.',
+        'go': 'Escuchar la sesión completa en la app', 'tx': 'Leer el texto de este fragmento', 'desc': 'Fragmento de la meditación guiada «{t}» de MeditaDream.'},
+}
+EXT_CSS = """
+.ap-ext{margin:26px 0 30px;padding:18px 18px 16px;border:1px solid rgba(212,175,106,.38);border-radius:20px;background:linear-gradient(135deg,rgba(212,175,106,.09),rgba(255,255,255,.02))}
+.ap-ext h2{margin:0 0 4px!important;font-size:24px;line-height:1.25}
+.ap-ext .d{color:var(--muted);font-size:14.5px;line-height:1.5;margin:0 0 12px}
+.ap-ext audio{width:100%;display:block;margin:0 0 12px;border-radius:999px}
+.ap-ext .go{display:inline-block;color:var(--gold);font-size:15px;text-decoration:none;font-weight:600}
+.ap-ext .go:hover{text-decoration:underline}
+.ap-ext details{margin-top:12px;border-top:1px solid rgba(255,255,255,.08);padding-top:10px}
+.ap-ext summary{cursor:pointer;color:var(--muted);font-size:14.5px}
+.ap-ext .tx p{font-size:15.5px;line-height:1.7;color:var(--muted);margin:10px 0 0}
+"""
+# 27-11 : lien vers la page d'assistance, sous la dernière section de la page « À propos » (« Comment nous contacter ? »)
+CONTACT_T = {'fr': ('', 'Ouvrir la page d’assistance →', ''), 'en': ('', 'Open the support page →', ''), 'es': ('', 'Abrir la página de ayuda →', '')}
+_EXT = None
+# catégorie → séance dont on propose l'extrait quand la catégorie en a plusieurs
+EXTRAIT_CAT = {'learningBasics': 'appren08'}
+
+
+def _extraits():
+    global _EXT
+    if _EXT is None:
+        f = os.path.join(T, 'extraits.json')
+        _EXT = json.load(open(f, encoding='utf-8')) if os.path.exists(f) else {}
+    return _EXT
+
+
+def extrait_de(lang, ids):
+    """premier identifiant de la liste qui a un extrait dans cette langue (ou None)."""
+    X = _extraits().get(lang, {})
+    return next((i for i in ids if i in X), None)
+
+
+def extrait_audio(bb, lang, mid, minutes=None, titre=None):
+    """(html, données AudioObject) du bloc « Écoute un extrait » d'une séance, ou ('', None) s'il n'y a pas d'extrait."""
+    x = _extraits().get(lang, {}).get(mid)
+    if not x: return '', None
+    t = EXT_T[lang]; nom = titre or x['titre']
+    src = f'{EXTRAITS_BASE}/{lang}/{mid}.mp3'
+    m = max(1, round(x['duree'] / 60)); n = minutes or x.get('minutes') or m
+    # texte de l'extrait, par paragraphes de quatre phrases (le texte exact de la séance)
+    ph = x.get('texte') or []
+    paras = ''.join('<p>' + E(' '.join(ph[i:i + 4])) + '</p>' for i in range(0, len(ph), 4))
+    html_ = (f'<section class="ap-ext" id="extrait"><h2>{E(t["h"].format(t=nom))}</h2><p class="d">{E(t["d"].format(m=m, n=n))}</p>'
+             f'<audio controls preload="none" src="{src}" data-extrait="{mid}" title="{E(nom)}"></audio>'
+             f'<a class="go" href="/app/">✦ {E(t["go"])}</a>'
+             + (f'<details><summary>{E(t["tx"])}</summary><div class="tx">{paras}</div></details>' if paras else '') + '</section>')
+    s = int(round(x['duree']))
+    ld = {'@type': 'AudioObject', 'name': nom, 'description': t['desc'].format(t=nom), 'contentUrl': src, 'encodingFormat': 'audio/mpeg',
+          'duration': f'PT{s // 60}M{s % 60}S', 'inLanguage': lang, 'isAccessibleForFree': True,
+          'creator': {'@type': 'Organization', 'name': 'MeditaDream', 'url': bb.BASE + '/'}}
+    if ph: ld['transcript'] = ' '.join(ph)
+    return html_, ld
+
+
 def charge(nom, lang):
     f = os.path.join(T, f'{nom}_{lang}.json')
     return json.load(open(f, encoding='utf-8')) if os.path.exists(f) else None
 
 
-CSS = """
+CSS = EXT_CSS + """
 .ap-blog{margin:34px 0 10px}.ap-blog ul{list-style:none;padding:0;margin:12px 0 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
 .ap-blog li a{display:flex;flex-direction:column;height:100%;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:rgba(255,255,255,.02);text-decoration:none;color:inherit}
 .ap-blog li a:hover{border-color:rgba(212,175,106,.55)}.ap-blog img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;display:block}
@@ -613,9 +681,15 @@ def build(bb):
             others = ''.join(f'<li><a href="{u(lang, "med", p["categories"][k]["slug"])}">{E(ancre(p["categories"][k], cats[k]["name"][lang]))}</a></li>' for k in sib)
             bc = [(t['home'], f'/{lang}/'), (t['med'], u(lang, 'med')), (cats[cid]['name'][lang], None)]
             faq = faq_categorie(lang, cid, c, s.get('faq'))   # 06-11 : durée, position, connexion en tête
+            # 27-11 : extrait à écouter d'une séance de la catégorie
+            ids = [m['id'] for m in c['meds'] if m['title'][lang]]
+            xid = extrait_de(lang, ([EXTRAIT_CAT[cid]] if cid in EXTRAIT_CAT else []) + ids)
+            xmed = next((m for m in c['meds'] if m['id'] == xid), None)
+            ext_html, ext_ld = extrait_audio(bb, lang, xid, xmed['dur'] if xmed else None, xmed['title'][lang] if xmed else None) if xid else ('', None)
             body = (crumbs(lang, bc) + f'<article><div class="ap-hero">{HERO_CAT(cid, lang)}'
                     f'<div><h1>{E(s["h1"])}</h1>{meta}</div></div>'
                     + ''.join(f'<p class="lead">{E(x)}</p>' if i == 0 else f'<p class="intro">{E(x)}</p>' for i, x in enumerate(s['intro']))
+                    + ext_html
                     + f'<h2>{E(t["list"])}</h2><ol class="ap-list">{items}</ol>'
                     # 15-10 : guide propre à chaque langue (pages qui visent une requête « comment faire »)
                     + ''.join(f'<h2>{E(g["h2"])}</h2>' + ''.join(f'<p>{E(x)}</p>' for x in g['p']) for g in s.get('guide', []))
@@ -625,7 +699,7 @@ def build(bb):
                 {'@type': 'CollectionPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang,
                  'mainEntity': {'@type': 'ItemList', 'numberOfItems': len(c['meds']), 'itemListElement': [
                      {'@type': 'ListItem', 'position': i + 1, 'name': m['title'][lang], 'url': bb.BASE + path + '#' + m['id']} for i, m in enumerate(c['meds'])]}},
-                bc_ld(bb, bc)] + ([{'@type': 'FAQPage', 'mainEntity': [{'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': r}} for q, r in faq]}] if faq else [])})
+                bc_ld(bb, bc)] + ([ext_ld] if ext_ld else []) + ([{'@type': 'FAQPage', 'mainEntity': [{'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': r}} for q, r in faq]}] if faq else [])})
             _write(path, page(bb, lang, s['seo'], s['desc'], path, alts, img_cat(cid), ld, body, cats[cid]['name'][lang]))
             written.append((path, alts))
         # --- index des catégories ---
@@ -790,6 +864,9 @@ def themes(bb, cat, P):
                 ss = f' srcset="{rel(p480, 1)} 480w, {rel(src, 1)} 960w" sizes="(max-width: 600px) 92vw, 760px"' if p480 and p_img else ''
                 hero = f'<img class="hero" src="{rel(src, 1)}"{ss} alt="{E(alt_img)}" title="{E(titre_img)}"{dims(src)} fetchpriority="high" decoding="async">'
             secs = ''.join(section_theme(x, lang) for x in s['sections'])   # 06-11 : captures, étapes, stades du dragon
+            if key == 'apropos':   # 27-11 : pour nous écrire (le texte des sections n'accepte pas de lien)
+                c1, c2, c3 = CONTACT_T[lang]
+                secs += f'<p class="intro">{E(c1)}<a href="/{lang}/support.html">{E(c2)}</a>{E(c3)}</p>'
             bloc = ''
             items = []
             if key == 'sons' and I18N_SONS:
@@ -816,6 +893,10 @@ def themes(bb, cat, P):
                       'about': {'@type': 'MobileApplication', 'name': 'MeditaDream', 'applicationCategory': 'LifestyleApplication',
                                 'operatingSystem': 'iOS, Android', 'offers': {'@type': 'Offer', 'price': '0', 'priceCurrency': 'EUR'}}},
                      bc_ld(bb, bc)]
+            if key == 'apropos':   # 27-11 : page « À propos » = AboutPage, l'organisation et son fondateur
+                graph[0]['@type'] = 'AboutPage'
+                graph[0]['mainEntity'] = {'@type': 'Organization', 'name': 'MeditaDream', 'url': bb.BASE + '/',
+                                          'logo': bb.BASE + '/assets/brand/logo.png', 'founder': {'@type': 'Person', 'name': 'Edouard Richemond'}}
             if vd:
                 graph.append(video_ld(bb, path, src, vd, s['chapitres'], lang))
             if items:

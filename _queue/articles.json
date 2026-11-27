@@ -17,8 +17,8 @@
   },
   "desc": {
    "fr": "Comment méditer en partant de zéro ? Un guide gratuit pour apprendre à méditer : ce qu'est la méditation, comment commencer et les 5 idées reçues à éviter.",
-   "en": "How to meditate when you've never tried: how to start meditating, what meditation is, why it's worth it, the 5 myths that block beginners. Free and simple.",
-   "es": "Cómo empezar a meditar desde cero: qué es meditar, por qué hacerlo y las 5 ideas falsas que frenan a los principiantes. Una guía sencilla y gratis."
+   "en": "How to meditate when you've never tried: how to start meditating with a 5-step first session, how long to sit and the myths that stop beginners. Free.",
+   "es": "Qué es meditar y cómo empezar desde cero: tu primera sesión de 5 minutos paso a paso, la postura, la respiración y las 5 ideas falsas que te frenan."
   },
   "published": "2026-08-28",
   "hero": 9,
@@ -36,7 +36,10 @@
    "p02",
    "p41"
   ],
-  "modified": "2026-11-06"
+  "modified": "2026-11-06",
+  "seo_title": {
+   "en": "How to Meditate for Beginners: Your First Session in 5 Steps"
+  }
  },
  {
   "id": "dormir",
@@ -174,12 +177,12 @@
    "es": "Posturas para meditar: 4 posiciones válidas"
   },
   "seo_title": {
-   "es": "Posturas para meditar: 4 posiciones de meditación válidas"
+   "es": "Posturas para meditar: 4 posiciones cómodas, paso a paso"
   },
   "desc": {
    "fr": "Choisir sa position : méditation sur chaise, en tailleur, en seiza ou allongé, sans forcer la position du lotus. Les 7 points d’une posture détendue.",
    "en": "Finding the best meditation posture: chair, cross-legged, seiza or lying down, with diagrams, plus the 7 points of a dignified, relaxed position.",
-   "es": "Las 4 posturas para meditar, con esquemas: silla, piernas cruzadas, seiza o tumbado. Además, los 7 puntos de una postura de meditación digna y relajada."
+   "es": "Posturas para meditar con comodidad: en silla, con las piernas cruzadas, en seiza o acostado, con esquemas y los 7 puntos de una buena postura."
   },
   "published": "2026-08-31",
   "intro": {
@@ -411,7 +414,7 @@
   },
   "desc": {
    "fr": "La méditation scan corporel, ou body scan, pas à pas et avec son schéma : le trajet des pieds à la tête, quoi faire quand on ne sent rien, ses trois usages.",
-   "en": "Body scan meditation explained step by step, with its diagram: the feet-to-head route, what to do when you feel nothing, and its three uses.",
+   "en": "Body scan meditation in 5 steps, with a diagram: move your attention from feet to head, know what to do if you feel nothing, then try a free guided session.",
    "es": "La meditación body scan, o escaneo corporal, paso a paso y con su esquema: el recorrido de pies a cabeza, qué hacer si no sientes nada y sus tres usos."
   },
   "intro": {
@@ -501,7 +504,10 @@
    "p09",
    "p49"
   ],
-  "modified": "2026-11-06"
+  "modified": "2026-11-06",
+  "seo_title": {
+   "en": "Body Scan Meditation: 5 Steps to Relax, From Feet to Head"
+  }
  },
  {
   "id": "pensees",
@@ -1488,250 +1494,46 @@
   ]
  },
  {
-  "id": "histoire",
+  "id": "astral",
   "sections": [
-   "histoire"
+   "astral-progression"
   ],
-  "image": 15,
+  "image": 18,
   "slug": {
-   "fr": "histoire-de-la-meditation",
-   "en": "history-of-meditation",
-   "es": "historia-del-mindfulness-y-la-meditacion"
+   "fr": "voyage-astral-progression",
+   "en": "astral-projection-step-by-step",
+   "es": "como-hacer-un-viaje-astral"
   },
   "title": {
-   "fr": "Histoire de la méditation : 3 500 ans de traditions",
-   "en": "History of meditation: 3,500 years at a glance",
-   "es": "Historia del mindfulness: 3500 años de meditación"
+   "fr": "Comment faire un voyage astral, marche par marche",
+   "en": "How to astral project: a step-by-step progression",
+   "es": "Cómo hacer un viaje astral, paso a paso"
   },
   "desc": {
-   "fr": "L’histoire de la méditation, de l’Inde védique au zen japonais et aux applications mobiles : d’où viennent les pratiques d’aujourd’hui.",
-   "en": "A short history of meditation, from its origins in Vedic India to Japanese Zen and mobile apps: where today’s practices actually come from.",
-   "es": "La historia del mindfulness y de la meditación, de la India védica al zen japonés y a las apps móviles: de dónde vienen las prácticas que usamos hoy."
+   "fr": "Comment faire un voyage astral ? Guide du voyage astral pour débutant : de la détente profonde aux techniques de sortie, sans sensationnalisme.",
+   "en": "Learn how to astral project step by step, from deep relaxation to exit techniques. A clear ladder toward an out-of-body experience, without sensationalism.",
+   "es": "Cómo hacer un viaje astral sin sensacionalismo: una escalera de progresión, de la relajación profunda a las técnicas para salir del cuerpo."
   },
   "published": null,
   "intro": {
-   "fr": "Avant d'être une application dans ta poche, la méditation a traversé 3 500 ans d'histoire : l'Inde védique, le bouddhisme, le zen japonais, les monastères chrétiens, la pleine conscience moderne. Comprendre d'où viennent ces pratiques change la façon de les pratiquer.",
-   "en": "Before it was an app in your pocket, meditation crossed 3,500 years of history: Vedic India, Buddhism, Japanese Zen, Christian monasteries, modern mindfulness. Knowing where these practices come from changes how you practice them.",
-   "es": "Antes de ser una app en tu bolsillo, la meditación atravesó 3500 años: la India védica, el budismo, el zen japonés, los monasterios cristianos y, por fin, la atención plena moderna. Conocer la historia del mindfulness cambia la manera de practicarlo."
-  },
-  "faq": {
-   "fr": [
-    [
-     "Qui a inventé la méditation ?",
-     "Personne en particulier : les premières traces écrites viennent de l'Inde védique, il y a environ 3 500 ans, mais des pratiques contemplatives existent dans presque toutes les cultures du monde."
-    ],
-    [
-     "La méditation est-elle religieuse ?",
-     "Elle est née dans des traditions spirituelles, mais ses techniques — attention, respiration, bienveillance — se pratiquent aujourd'hui de façon entièrement laïque. À chacun d'y mettre le sens qu'il souhaite."
-    ],
-    [
-     "D'où vient la pleine conscience moderne ?",
-     "De la rencontre entre les pratiques bouddhistes et l'Occident au XXᵉ siècle, popularisée à partir des années 1970 — jusqu'aux méditations guidées que tu écoutes sur ton téléphone."
-    ]
-   ],
-   "en": [
-    [
-     "Who invented meditation?",
-     "No one in particular: the earliest written traces come from Vedic India, about 3,500 years ago, but contemplative practices exist in nearly every culture in the world."
-    ],
-    [
-     "Is meditation religious?",
-     "It was born within spiritual traditions, but its techniques — attention, breathing, kindness — are practiced today in an entirely secular way. Everyone brings the meaning they wish."
-    ],
-    [
-     "Where does modern mindfulness come from?",
-     "From the meeting of Buddhist practices and the West in the 20th century, popularized from the 1970s onward — all the way to the guided meditations you listen to on your phone."
-    ]
-   ],
-   "es": [
-    [
-     "¿Quién inventó la meditación?",
-     "Nadie en particular: las primeras huellas escritas vienen de la India védica, hace unos 3500 años, pero existen prácticas contemplativas en casi todas las culturas del mundo."
-    ],
-    [
-     "¿La meditación es religiosa?",
-     "Nació dentro de tradiciones espirituales, pero sus técnicas — atención, respiración, bondad — se practican hoy de forma totalmente laica. Cada cual le da el sentido que desea."
-    ],
-    [
-     "¿De dónde viene la atención plena moderna?",
-     "Del encuentro entre las prácticas budistas y Occidente en el siglo XX, popularizado desde los años setenta — hasta las meditaciones guiadas que escuchas en tu teléfono."
-    ]
-   ]
-  },
-  "takeaways": {
-   "fr": [
-    "3 500 ans d'histoire, de l'Inde védique aux applications mobiles.",
-    "Chaque tradition a apporté sa technique — et toutes convergent vers l'attention.",
-    "La pleine conscience moderne est la rencontre du bouddhisme et de l'Occident.",
-    "Connaître l'origine d'une pratique enrichit la pratique elle-même."
-   ],
-   "en": [
-    "3,500 years of history, from Vedic India to mobile apps.",
-    "Each tradition contributed its technique — all converge on attention.",
-    "Modern mindfulness is the meeting of Buddhism and the West.",
-    "Knowing where a practice comes from enriches the practice itself."
-   ],
-   "es": [
-    "3500 años de historia, de la India védica a las apps móviles.",
-    "Cada tradición aportó su técnica — y todas convergen en la atención.",
-    "La atención plena moderna es el encuentro del budismo y Occidente.",
-    "Conocer el origen de una práctica enriquece la práctica misma."
-   ]
+   "fr": "Le voyage astral fascine et inquiète à la fois. Ici, pas de sensationnalisme : une échelle de progression claire, de la détente profonde aux techniques de sortie, où chaque marche se pratique à son rythme — et reste, en soi, une belle méditation.",
+   "en": "Learning how to astral project fascinates and unsettles in equal measure. No sensationalism in this astral projection guide: a clear progression ladder, from deep relaxation to exit techniques, where each rung is practiced at your own pace — and is, in itself, a rewarding meditation.",
+   "es": "El viaje astral fascina e inquieta a partes iguales. Aprender cómo hacer un viaje astral paso a paso es, ante todo, una cuestión de orden: cada peldaño se practica a tu ritmo — y es, en sí mismo, una buena meditación."
   },
   "kw": {
-   "fr": "histoire de la méditation, origine méditation, traditions méditation, histoire pleine conscience, origine de la méditation, d’où vient la méditation, méditation védique",
-   "en": "history of meditation, origin of meditation, meditation traditions, mindfulness history, where did meditation originate, who invented meditation",
-   "es": "historia del mindfulness, historia de la meditación, origen de la meditación, tradiciones de meditación, historia atención plena"
+   "fr": "comment faire un voyage astral, guide voyage astral, voyage astral pour débutant, voyage astral, sortie hors du corps, projection astrale, techniques voyage astral, sortie astrale, comment sortir de son corps, voyage astral méthode",
+   "en": "how to astral project, how to astral travel, learn astral projection, achieving astral projection, astral projection guide, how to astral project for beginners, how to have an out of body experience, astral projection while sleeping, astral projection step by step, astral projection",
+   "es": "cómo hacer un viaje astral, iniciarse en el viaje astral, cómo hacer un viaje astral paso a paso, viaje astral para principiantes, técnicas de viaje astral, experiencia fuera del cuerpo, cómo hacer una proyección astral, cómo salir del cuerpo"
   },
   "photos": [
-   "p28",
-   "p05"
+   "p53",
+   "p37"
   ],
   "seo_title": {
-   "en": "History of meditation: 3,500 years in seven landmarks",
-   "es": "Breve historia del mindfulness: 3500 años de meditación"
+   "fr": "Comment faire un voyage astral : 3 marches pour débuter",
+   "en": "How to astral project: a step-by-step guide for beginners",
+   "es": "Cómo hacer un viaje astral paso a paso, para principiantes"
   }
- },
- {
-  "id": "emc",
-  "sections": [
-   "emc"
-  ],
-  "image": 16,
-  "slug": {
-   "fr": "etats-modifies-de-conscience",
-   "en": "altered-states-of-consciousness",
-   "es": "estados-modificados-de-conciencia"
-  },
-  "title": {
-   "fr": "États modifiés de conscience et transe méditative",
-   "en": "Altered states of consciousness, explained with examples",
-   "es": "Estados de conciencia: de la ensoñación al trance meditativo"
-  },
-  "desc": {
-   "fr": "Le spectre des états modifiés de conscience, la transe méditative et les pratiques profondes : un guide clair, honnête et sans mystification.",
-   "en": "What are altered states of consciousness? Examples, the spectrum they form, meditative trance and deep practices: a clear, honest guide without the hype.",
-   "es": "Del sueño a la hipnosis y al flow, hay muchos tipos de estados de conciencia. Qué son y cómo la meditación profunda te lleva a ellos de forma natural."
-  },
-  "published": null,
-  "intro": {
-   "fr": "Rêverie, flow, hypnose, transe méditative : la conscience n'est pas un interrupteur mais un spectre d'états. Ce guide clarifie ce que sont les états modifiés de conscience, comment la méditation profonde y conduit naturellement, et comment les explorer sans mystification.",
-   "en": "Daydreaming, flow, hypnosis, meditative trance: these altered states of consciousness show that consciousness isn't a switch but a spectrum of states. This guide clarifies what they are, how deep meditation leads there naturally, and how to explore them without the hype.",
-   "es": "Ensoñación, flow, hipnosis, trance meditativo: la conciencia no es un interruptor sino un espectro de estados. Esta guía aclara qué son los estados modificados de conciencia, cómo la meditación profunda conduce a ellos de forma natural y cómo explorarlos sin misticismo barato."
-  },
-  "kw": {
-   "fr": "états modifiés de conscience, transe méditative, conscience profonde, relaxation profonde, état de transe, méditation état modifié de conscience, méditation profonde, état modifié de conscience définition",
-   "en": "altered states of consciousness, what is an altered state of consciousness, examples of altered states of consciousness, altered state of consciousness examples, what are altered states of consciousness, types of altered states of consciousness, meditative trance, altered consciousness, deep relaxation, deep consciousness",
-   "es": "estados de conciencia, tipos de estados de conciencia, estados modificados de conciencia, ensoñación, trance meditativo, niveles de conciencia, conciencia profunda, relajación profunda"
-  },
-  "photos": [
-   "p23",
-   "p17"
-  ],
-  "seo_title": {
-   "fr": "États modifiés de conscience et transe méditative : guide"
-  }
- },
- {
-  "id": "chakras",
-  "sections": [
-   "chakras"
-  ],
-  "image": 17,
-  "slug": {
-   "fr": "chakras-et-leurs-roles",
-   "en": "chakra-locations-explained",
-   "es": "chakras-del-cuerpo"
-  },
-  "title": {
-   "fr": "Les chakras et leurs rôles : la carte utilisée en méditation",
-   "en": "Chakra locations: the 7 chakras explained as a body map",
-   "es": "Los 7 chakras del cuerpo: un mapa simbólico para meditar"
-  },
-  "desc": {
-   "fr": "Les chakras et leurs rôles expliqués simplement : les 7 chakras, leurs couleurs et une carte symbolique pour guider l’attention en méditation, sans dogme.",
-   "en": "The 7 chakra locations explained simply, with no dogma: a symbolic body map used to guide attention in meditation, and how to meditate on them.",
-   "es": "Los 7 chakras del cuerpo, explicados sin dogmas: un mapa simbólico para guiar la atención al meditar, de la base de la columna a la coronilla."
-  },
-  "published": null,
-  "intro": {
-   "fr": "Les sept chakras forment une carte symbolique du corps utilisée depuis des siècles par la méditation : sept zones où poser l'attention, de la base de la colonne au sommet du crâne. Voici les chakras et leurs rôles expliqués simplement, et comment utiliser cette carte dans une méditation guidée des chakras.",
-   "en": "The seven chakras form a symbolic body map that meditation has used for centuries: seven chakra locations to rest your attention on, in order from the base of the spine to the crown. Here's that map explained simply, and how to use it in a guided chakra meditation.",
-   "es": "Los siete chakras del cuerpo forman un mapa simbólico que la meditación usa desde hace siglos: siete zonas donde posar la atención, de la base de la columna a la coronilla. Aquí tienes ese mapa explicado con sencillez, y cómo usarlo en una meditación guiada de los chakras."
-  },
-  "faq": {
-   "fr": [
-    [
-     "Les chakras existent-ils vraiment ?",
-     "C'est une carte symbolique, pas une anatomie : la science n'en fait pas des organes. Mais comme support d'attention pour la méditation guidée, cette carte fonctionne remarquablement depuis des siècles."
-    ],
-    [
-     "Comment méditer sur les chakras ?",
-     "On parcourt les sept zones de bas en haut, quelques respirations sur chacune — couleur, sensation, image. Une méditation guidée des chakras fait le trajet pour toi, à ton rythme."
-    ],
-    [
-     "Qu'est-ce qu'un chakra « bloqué » ?",
-     "Dans ce langage symbolique, une zone de vie où l'énergie circule mal — sécurité, créativité, parole… Le travail méditatif consiste à ramener l'attention et la respiration dans cette zone."
-    ]
-   ],
-   "en": [
-    [
-     "Do chakras really exist?",
-     "It's a symbolic map, not anatomy: science doesn't treat them as organs. But as a support for attention in guided meditation, this map has worked remarkably well for centuries."
-    ],
-    [
-     "How do you meditate on the chakras?",
-     "You travel the seven regions from bottom to top, a few breaths on each — color, sensation, image. A guided chakra meditation makes the journey for you, at your pace."
-    ],
-    [
-     "What is a “blocked” chakra?",
-     "In this symbolic language, an area of life where energy flows poorly — safety, creativity, voice… The meditative work is bringing attention and breath back into that region."
-    ]
-   ],
-   "es": [
-    [
-     "¿Los chakras existen de verdad?",
-     "Es un mapa simbólico, no una anatomía: la ciencia no los trata como órganos. Pero como soporte de atención para la meditación guiada, este mapa funciona notablemente bien desde hace siglos."
-    ],
-    [
-     "¿Cómo se medita sobre los chakras?",
-     "Se recorren las siete zonas de abajo arriba, unas respiraciones en cada una — color, sensación, imagen. Una meditación guiada de los chakras hace el recorrido por ti, a tu ritmo."
-    ],
-    [
-     "¿Qué es un chakra «bloqueado»?",
-     "En este lenguaje simbólico, una zona de la vida donde la energía circula mal — seguridad, creatividad, palabra… El trabajo meditativo consiste en devolver la atención y la respiración a esa zona."
-    ]
-   ]
-  },
-  "takeaways": {
-   "fr": [
-    "Une carte symbolique du corps — pas une anatomie.",
-    "Sept zones, de la base de la colonne au sommet du crâne.",
-    "Le trajet se fait de bas en haut, quelques respirations par zone.",
-    "Utile même sans y « croire » : c'est un support d'attention."
-   ],
-   "en": [
-    "A symbolic map of the body — not anatomy.",
-    "Seven regions, from the base of the spine to the crown.",
-    "The journey runs bottom to top, a few breaths per region.",
-    "Useful even without “believing”: it's a support for attention."
-   ],
-   "es": [
-    "Un mapa simbólico del cuerpo — no una anatomía.",
-    "Siete zonas, de la base de la columna a la coronilla.",
-    "El recorrido va de abajo arriba, unas respiraciones por zona.",
-    "Útil incluso sin «creer»: es un soporte para la atención."
-   ]
-  },
-  "kw": {
-   "fr": "les chakras et leurs rôles, chakras, 7 chakras, les 7 chakras, méditation chakras, chakras significations, c'est quoi les chakras, équilibrer les chakras, couleur des chakras, symbolique des chakras",
-   "en": "chakra locations, chakras, 7 chakras, chakra meditation, chakras explained, what are the 7 chakras, chakra order, chakra system, balance chakras, how to meditate on chakras",
-   "es": "chakras del cuerpo, los 7 chakras del cuerpo, chakra del cuerpo humano, 7 chakras, los 7 chakras, qué son los chakras, los 7 chakras y su significado, meditación de chakras, equilibrar chakras, cuerpo sutil"
-  },
-  "photos": [
-   "p50",
-   "p07"
-  ]
  },
  {
   "id": "reve",
@@ -1838,6 +1640,703 @@
   }
  },
  {
+  "id": "guide-trouver",
+  "sections": [
+   "guide-trouver"
+  ],
+  "image": null,
+  "slug": {
+   "fr": "comment-savoir-qui-est-mon-guide-spirituel",
+   "en": "how-to-find-your-spirit-guide",
+   "es": "como-saber-quien-es-mi-guia-espiritual"
+  },
+  "title": {
+   "fr": "Comment savoir qui est mon guide spirituel : la méthode par la méditation",
+   "en": "How to find your spirit guide: a gentle meditation approach",
+   "es": "Cómo saber quién es mi guía espiritual: encontrarlo meditando"
+  },
+  "desc": {
+   "fr": "Comment savoir qui est ton guide spirituel ? Ni test ni date de naissance : une méditation de rencontre en 7 étapes, et des repères pour le reconnaître.",
+   "en": "How to find your spirit guide in meditation, in 7 gentle steps: how to recognize a guide, learn its name, tell it from wishful thinking and avoid pitfalls.",
+   "es": "Cómo saber quién es tu guía espiritual sin tests ni promesas: lo que dicen las tradiciones, una meditación en 7 pasos y cómo reconocer a un guía de verdad."
+  },
+  "published": null,
+  "intro": {
+   "fr": "Comment savoir qui est mon guide spirituel ? Aucun test en ligne ni aucune date de naissance ne peut te le dire. La rencontre, elle, se prépare. Voici une méthode douce, par la méditation, pour laisser venir ton guide et apprendre à le reconnaître.",
+   "en": "Maybe you have felt a presence beside you, or met a wise figure in a dream. Many people wonder who their spirit guide is, and how to meet it. No quiz or reading can tell you for sure. But meditation offers a calm, honest way to find out, one meeting at a time.",
+   "es": "¿Sientes que alguien te acompaña y te preguntas quién es? Muchas personas quieren saber quién es su guía espiritual. Aquí no encontrarás un test, sino un camino más sereno: lo que cuentan las tradiciones, una meditación sencilla para encontrarlo y unas pistas para reconocerlo sin engañarte."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Faut-il voir son guide pour le rencontrer ?",
+     "Non. Beaucoup de gens ne voient rien de précis : ils sentent une chaleur, une présence, ou reçoivent un mot. Une rencontre peut être forte sans aucune image. Note ce que tu ressens : c'est déjà une réponse."
+    ],
+    [
+     "Combien de temps faut-il pour connaître son guide ?",
+     "Il n'y a pas de délai. Certaines personnes sentent une présence dès la première séance, d'autres après plusieurs semaines. Trois séances par semaine pendant trois semaines forment une bonne base, et tu peux reprendre ce cycle autant de fois que tu le souhaites."
+    ],
+    [
+     "Peut-on avoir plusieurs guides spirituels ?",
+     "Oui, selon de nombreuses traditions. Des guides différents accompagnent parfois des étapes différentes de la vie, ou des questions différentes. Garde une fiche pour chacun : avec le temps, tu verras lesquels reviennent."
+    ],
+    [
+     "Et si la présence me fait peur ?",
+     "Remercie-la, puis reviens doucement à ton corps et ouvre les yeux. Un guide bienveillant n'inspire pas la peur. Retourne à ton lieu sûr lors de la séance suivante, ou fais une pause de quelques jours."
+    ]
+   ],
+   "en": [
+    [
+     "Can you have more than one spirit guide?",
+     "Many traditions say so. Some people meet one main guide, others several, sometimes at different stages of life. In the app, The Council of Guides, 26 minutes, lets you consult five guides about one question."
+    ],
+    [
+     "Can an online quiz tell you who your spirit guide is?",
+     "Not really. A quiz can be fun, and it may make you think about what you need. But a guide is something you meet and recognize over time, not something a test can assign."
+    ],
+    [
+     "How long does it take to meet your spirit guide?",
+     "It varies a lot. Some people sense a presence in their first session, others after several weeks. Short, regular practice works better than one long attempt, and dreams sometimes bring the first meeting."
+    ]
+   ],
+   "es": [
+    [
+     "¿Todo el mundo tiene un guía espiritual?",
+     "Según muchas tradiciones, sí: el cristianismo habla de un ángel de la guarda para cada persona, y muchas culturas honran a sus ancestros como protectores. No hay forma de comprobarlo. Si lo vives como una figura interior, cualquiera puede encontrar esa parte más sabia de sí mismo."
+    ],
+    [
+     "¿Mi guía espiritual puede ser un familiar fallecido?",
+     "Muchas personas lo sienten así, sobre todo con un abuelo o una abuela. En muchas culturas, los ancestros acompañan a los vivos. Si en meditación aparece un ser querido, acoge el encuentro con cariño, sin pedirle respuestas que nadie puede verificar."
+    ],
+    [
+     "¿Hay un test para saber quién es mi guía espiritual?",
+     "No hay un test fiable. Los cuestionarios que circulan en internet no vienen de ninguna tradición. Lo más fiel a las tradiciones es preguntarlo en meditación o en sueños y observar lo que vuelve con el tiempo."
+    ],
+    [
+     "¿Cuánto tiempo se tarda en conocer a tu guía?",
+     "Depende de cada persona. Algunas lo encuentran en la primera meditación; otras, tras semanas o meses de práctica. La regularidad ayuda más que la duración: unos minutos varias veces por semana bastan."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Aucun test ne dira qui est ton guide : la rencontre se vit.",
+    "Un lieu sûr, une intention claire et un carnet suffisent pour commencer.",
+    "Un vrai guide apaise et respecte ta liberté, jamais l'inverse."
+   ],
+   "en": [
+    "No quiz can tell you who your guide is: it is the presence that keeps returning, with kindness.",
+    "Meet it in meditation, ask one simple question at a time and write down what comes.",
+    "A true guide leaves you calmer and freer: end any meeting that frightens or flatters you."
+   ],
+   "es": [
+    "Tu guía se reconoce porque vuelve, te hace bien y respeta tu libertad.",
+    "Medita con una intención sencilla y acoge lo que llegue, sin forzar.",
+    "Si no aparece nadie, sigue: el silencio y la calma ya forman parte del encuentro."
+   ]
+  },
+  "kw": {
+   "fr": "comment savoir qui est mon guide spirituel, trouver son guide spirituel, connaître son guide spirituel, rencontrer son guide spirituel, méditation guide spirituel, nom de mon guide spirituel, ange gardien, guides spirituels",
+   "en": "how to find your spirit guide, who is my spirit guide, how to know who your spirit guide is, how to meet your spirit guide, meet your spirit guide meditation, spirit guide meditation, how to connect with your spirit guides, spirit guide names, animal spirit guide, spirit guides",
+   "es": "cómo saber quién es mi guía espiritual, cómo encontrar a mi guía espiritual, cómo conocer a mi guía espiritual, quién es mi guía espiritual, meditación para encontrar tu guía espiritual, nombre de mi guía espiritual, cómo contactar con mi guía espiritual, test guía espiritual, guía espiritual, guías espirituales"
+  },
+  "photos": [
+   "p47",
+   "p30"
+  ],
+  "seo_title": {
+   "fr": "Comment savoir qui est mon guide spirituel : 7 étapes",
+   "en": "How to Find Your Spirit Guide: A 7-Step Meditation Method",
+   "es": "Cómo saber quién es mi guía espiritual: medita en 7 pasos"
+  }
+ },
+ {
+  "id": "astral-signes",
+  "sections": [
+   "astral-signes"
+  ],
+  "image": null,
+  "slug": {
+   "fr": "comment-savoir-si-on-a-fait-un-voyage-astral",
+   "en": "how-to-know-if-you-astral-projected",
+   "es": "senales-de-un-viaje-astral"
+  },
+  "title": {
+   "fr": "Comment savoir si on a fait un voyage astral : signes et sensations",
+   "en": "How do you know if you astral projected? Signs and sensations",
+   "es": "Cómo saber si hiciste un viaje astral: señales y sensaciones"
+  },
+  "desc": {
+   "fr": "Comment savoir si on a fait un voyage astral ? Les 7 signes décrits avant, pendant et après, la différence avec un rêve et comment noter ce que tu vis.",
+   "en": "How do you know if you astral projected? The signs people describe, from vibrations to seeing your own body, what they prove, and a fair test to try.",
+   "es": "Cómo saber si hiciste un viaje astral: las señales y sensaciones más citadas, antes, durante y después, y cómo distinguirlas de un sueño muy vivo."
+  },
+  "published": null,
+  "intro": {
+   "fr": "Des vibrations, puis l'impression de flotter au-dessus de ton lit ? Voici comment savoir si on a fait un voyage astral : les signes décrits avant, pendant et après, ce qui les distingue d'un rêve, et une façon simple de garder une trace fiable de ce que tu vis.",
+   "en": "You wake up with a strange memory. You were floating near the ceiling, your body buzzing, the room seen from above. Was it astral projection, a dream or something else? Here are the signs people describe and what each one can and cannot prove. You will also learn to look at your own experience with a clear mind.",
+   "es": "¿Te despertaste con la impresión de haber salido de tu cuerpo? Saber si hiciste un viaje astral no siempre es fácil, porque la experiencia se parece a un sueño muy vivo. Aquí tienes las señales de un viaje astral que más se repiten en los relatos, antes, durante y después, y cinco preguntas sencillas para orientarte."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Peut-on faire un voyage astral sans s'en rendre compte ?",
+     "Beaucoup de gens racontent une sortie de corps vécue une seule fois, sans l'avoir cherchée, souvent à l'endormissement ou au réveil. Sur le moment, ils n'avaient pas de mot pour la nommer. En revanche, une expérience oubliée ne laisse aucune trace : personne ne peut donc affirmer en avoir vécu une sans s'en souvenir."
+    ],
+    [
+     "Les vibrations veulent-elles dire que je vais sortir de mon corps ?",
+     "Pas forcément. Les vibrations sont l'un des signes les plus cités au seuil du voyage astral, mais elles s'arrêtent souvent là. Accueille-les sans t'agiter : la peur ou l'excitation te réveillent. Même sans sortie, elles montrent que ta détente devient très profonde."
+    ],
+    [
+     "Est-ce normal d'être fatigué après un voyage astral ?",
+     "Une légère fatigue arrive surtout quand la séance a coupé ta nuit. D'autres personnes se sentent au contraire reposées et calmes. Si la fatigue dure plusieurs jours, espace les séances et dors davantage."
+    ],
+    [
+     "Combien de temps dure un voyage astral ?",
+     "Souvent quelques secondes ou quelques minutes, même si le temps paraît plus long sur le moment. L'expérience s'arrête d'elle-même, par un réveil ou en glissant dans le sommeil. Avec la pratique, certains disent rester plus longtemps, en gardant leur calme."
+    ]
+   ],
+   "en": [
+    [
+     "Can you astral project without knowing it?",
+     "Some people describe a brief experience at the edge of sleep that they only recognize later, while writing it down. Like dreams, these memories fade quickly. A notebook by the bed helps you catch them."
+    ],
+    [
+     "Are vibrations a sure sign of astral projection?",
+     "No. Vibrations are common at the edge of sleep and during sleep paralysis. Many people feel them without leaving their body. Others report an exit with no vibrations at all."
+    ],
+    [
+     "How long does an astral projection last?",
+     "Most reports describe a few seconds to a few minutes. Strong emotions, such as fear or excitement, often end the experience. Time also feels unreliable in these states, so a short episode can seem long."
+    ],
+    [
+     "Why do I feel tired after trying to astral project?",
+     "Usually because of broken sleep, not the experience itself. Night attempts and alarms cut into rest. Keep attempts to once or twice a week, and choose moments when you are already rested."
+    ]
+   ],
+   "es": [
+    [
+     "¿Las vibraciones significan que voy a hacer un viaje astral?",
+     "No siempre. Las vibraciones forman parte de las sensaciones del umbral del sueño, y muchas personas las sienten sin salir nunca del cuerpo. En la tradición del viaje astral se ven como una puerta posible. Si aparecen, obsérvalas con calma, sin miedo y sin forzar nada."
+    ],
+    [
+     "¿Se puede hacer un viaje astral sin recordarlo?",
+     "Algunos practicantes lo creen, pero no hay forma de comprobarlo. Lo que sí se sabe es que el recuerdo de lo vivido cerca del sueño se borra deprisa si no lo anotas. Por eso conviene escribir en cuanto despiertes, aunque sea una sola palabra."
+    ],
+    [
+     "¿Es normal sentir miedo después de un viaje astral?",
+     "Sí, es frecuente, sobre todo la primera vez: la sensación de separarte del cuerpo es muy nueva. Respira despacio, mueve el cuerpo y habla de ello si lo necesitas. Si el miedo se queda o vuelve a menudo, pide consejo a un profesional."
+    ],
+    [
+     "¿Cómo saber si tuve un viaje astral involuntario?",
+     "Si de pronto sentiste que te veías desde fuera, al dormirte o al despertar, sin haberlo buscado, es lo que se llama un viaje astral involuntario o una experiencia extracorporal espontánea. Suele durar poco y no hay pruebas de que sea peligroso, aunque puede impresionar. Anótalo y observa si se repite."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Aucun test ne prouve un voyage astral : on observe et on note.",
+    "Vibrations, flottement et vue d'en haut sont les signes les plus décrits.",
+    "Un carnet tenu après chaque séance vaut mieux qu'une certitude."
+   ],
+   "en": [
+    "Vibrations, lightness and a view from outside your body are the signs people describe most.",
+    "A sign is not proof: write down what you felt before drawing any conclusion.",
+    "Test fairly with a hidden target, and value the experience for what it teaches you."
+   ],
+   "es": [
+    "La señal más clara es haber sentido tu punto de vista fuera del cuerpo; las demás son pistas.",
+    "Las vibraciones, el zumbido y la inmovilidad son sensaciones del umbral del sueño, no pruebas.",
+    "Anota todo al despertar y hazte cinco preguntas antes de interpretar."
+   ]
+  },
+  "kw": {
+   "fr": "comment savoir si on a fait un voyage astral, signes voyage astral, sensations voyage astral, voyage astral vibrations, voyage astral ressenti, que ressent-on pendant un voyage astral, sortie hors du corps, projection astrale, voyage astral",
+   "en": "how do you know if you astral projected, signs of astral projection, how to know if you are astral projecting, astral projection vibrations, astral projection sensations, what does astral projection feel like, out of body feeling, astral projection or dream, astral projection test, astral projection",
+   "es": "cómo saber si hice un viaje astral, señales de un viaje astral, sensaciones de un viaje astral, cómo saber si tuve un viaje astral, qué se siente en un viaje astral, vibraciones viaje astral, viaje astral o sueño, viaje astral involuntario, experiencia extracorporal, viaje astral"
+  },
+  "photos": [
+   "p41",
+   "p40"
+  ],
+  "seo_title": {
+   "fr": "Comment savoir si on a fait un voyage astral : 7 signes",
+   "en": "How to Know If You Astral Projected: Signs and Sensations"
+  }
+ },
+ {
+  "id": "lucide-risques",
+  "sections": [
+   "lucide-risques"
+  ],
+  "image": null,
+  "slug": {
+   "fr": "reve-lucide-risques-bienfaits",
+   "en": "is-lucid-dreaming-bad-for-you",
+   "es": "suenos-lucidos-peligros-y-beneficios"
+  },
+  "title": {
+   "fr": "Rêve lucide : conséquences, risques, bienfaits et quand arrêter",
+   "en": "Is lucid dreaming bad for you? Risks, benefits and when to stop",
+   "es": "Sueños lúcidos: peligros, beneficios y cuándo parar"
+  },
+  "desc": {
+   "fr": "Rêve lucide : quelles conséquences sur ton sommeil et ton humeur ? Les bienfaits étudiés, les vrais risques et les signes qui invitent à faire une pause.",
+   "en": "Is lucid dreaming bad for you? What research says about sleep, nightmares and the line between dream and reality, the real benefits, and when to stop.",
+   "es": "¿Son peligrosos los sueños lúcidos? Lo que dice la investigación sobre sus riesgos y beneficios, las señales para hacer una pausa y cómo no dormir peor."
+  },
+  "published": null,
+  "intro": {
+   "fr": "Le rêve lucide fait rêver, au sens propre. Mais quelles sont ses conséquences, sur ton sommeil comme sur tes journées ? Voici ce que la recherche a observé : les bienfaits, les risques réels, et les signes qui doivent t'inviter à faire une pause.",
+   "en": "Lucid dreaming is fascinating: you fly, talk with dream characters and know you are dreaming while the dream goes on. But is it good for you? Here is what research really says about its risks and benefits. You will also see when to slow down, and how to keep lucid dreaming a pleasure.",
+   "es": "Volar, hablar con un personaje del sueño, mirar de frente una pesadilla: los sueños lúcidos atraen. Pero ¿tienen consecuencias? Aquí tienes lo que la investigación sabe de verdad sobre los peligros y los beneficios de los sueños lúcidos, y las señales que indican que es momento de hacer una pausa."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Peut-on faire des rêves lucides sans le vouloir ?",
+     "Oui, c'est même fréquent : environ une personne sur deux en a déjà vécu au moins un, souvent sans rien chercher. Ces rêves spontanés sont en général courts et agréables. S'ils te dérangent, un sommeil régulier et l'arrêt des tests de réalité peuvent les rendre plus rares."
+    ],
+    [
+     "Le rêve lucide fatigue-t-il le lendemain ?",
+     "Le rêve lucide lui-même ne semble pas fatiguer : il se déroule pendant une phase normale du sommeil. La fatigue vient surtout des réveils programmés, quand ils se répètent. Garde-les pour deux ou trois nuits par semaine, et dors normalement les autres."
+    ],
+    [
+     "Le rêve lucide est-il dangereux pour le cerveau ?",
+     "Rien ne l'indique à ce jour. En laboratoire, les rêves lucides apparaissent pendant le sommeil paradoxal, une phase normale de chaque nuit. Les précautions concernent surtout le sommeil : ne le sacrifie pas pour multiplier les essais."
+    ]
+   ],
+   "en": [
+    [
+     "Can lucid dreaming make you tired?",
+     "The lucid dream itself rarely does. The methods can: alarms, night wake-ups and staying up to practice all cut into rest. If you wake up tired, switch to gentle methods for a while."
+    ],
+    [
+     "Can lucid dreaming become an obsession?",
+     "For some people, it takes up too much room in their life. They think about it all day, or give up sleep for it. If that happens, take a break of a few weeks and keep only your dream journal."
+    ],
+    [
+     "Do lucid dreams affect your mood the next day?",
+     "Many lucid dreamers say they wake up in a good mood, curious or full of energy. A lucid nightmare can leave the opposite feeling. If bad mornings become frequent, slow down and protect your sleep."
+    ]
+   ],
+   "es": [
+    [
+     "¿Los sueños lúcidos cansan?",
+     "Un sueño lúcido espontáneo no suele cansar. Lo que cansa son las técnicas que interrumpen la noche, como despertarte de madrugada para practicar. Si te levantas cansado, reduce esas técnicas y protege tus horas de sueño."
+    ],
+    [
+     "¿Puede un sueño lúcido volverse una pesadilla?",
+     "Sí, a veces. La lucidez no garantiza un sueño agradable. Pero saber que sueñas te permite recordar que nada puede hacerte daño de verdad, y elegir: mirar la escena con calma o despertarte."
+    ],
+    [
+     "¿Se puede quedar uno atrapado en un sueño lúcido?",
+     "No. Todo sueño termina, y la lucidez no lo alarga sin fin. Lo que sí puede pasar es encadenar falsos despertares: crees despertar y sigues soñando. Una prueba de realidad tranquila, o intentar mover un dedo del cuerpo real, ayuda a salir."
+    ],
+    [
+     "¿Los niños pueden tener sueños lúcidos?",
+     "Sí. Los estudios indican que los sueños lúcidos espontáneos son más frecuentes en la infancia y la adolescencia. No hace falta enseñarles técnicas: basta con escucharlos con interés y tranquilizarlos si un sueño les da miedo."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Pour la plupart des gens, le rêve lucide est une expérience sans danger.",
+    "Les risques viennent surtout des techniques qui coupent la nuit.",
+    "Fatigue, confusion ou peur du coucher : c'est le signal d'une pause."
+   ],
+   "en": [
+    "Lucid dreams are common and happen in normal sleep: the risk lies in how you chase them.",
+    "Protect your sleep first, with night wake-up techniques two or three nights a week at most.",
+    "Pause when you feel tired, confused or afraid, and ask for advice if it lasts."
+   ],
+   "es": [
+    "No hay pruebas de que los sueños lúcidos sean peligrosos en sí; algunas técnicas pueden hacerte dormir peor.",
+    "Beneficios posibles: menos miedo a las pesadillas, ensayo mental y creatividad.",
+    "Haz una pausa si te despiertas cansado, te angustia dormir o dudas de estar despierto."
+   ]
+  },
+  "kw": {
+   "fr": "rêve lucide conséquences, rêve lucide risques, rêve lucide dangereux, bienfaits du rêve lucide, rêve lucide fatigue, faux réveil, rêve lucide cauchemar, arrêter les rêves lucides, rêve lucide",
+   "en": "is lucid dreaming bad, is lucid dreaming bad for you, lucid dreaming dangers, lucid dreaming risks, lucid dreaming benefits, is lucid dreaming safe, lucid nightmare, false awakening, how to stop lucid dreaming, lucid dreaming",
+   "es": "sueños lúcidos peligros, son peligrosos los sueños lúcidos, consecuencias de los sueños lúcidos, beneficios de los sueños lúcidos, riesgos de los sueños lúcidos, falso despertar, pesadillas lúcidas, sueños lúcidos y parálisis del sueño, cuándo dejar los sueños lúcidos, sueños lúcidos"
+  },
+  "photos": [
+   "p29",
+   "p11"
+  ],
+  "seo_title": {
+   "fr": "Rêve lucide : conséquences, risques et bienfaits réels",
+   "en": "Is Lucid Dreaming Bad for You? Risks, Benefits, When to Stop"
+  }
+ },
+ {
+  "id": "guide-signes",
+  "sections": [
+   "guide-signes"
+  ],
+  "image": null,
+  "slug": {
+   "fr": "comment-se-manifeste-un-guide-spirituel",
+   "en": "signs-from-spirit-guides",
+   "es": "como-se-manifiesta-un-guia-espiritual"
+  },
+  "title": {
+   "fr": "Comment se manifeste un guide spirituel : signes, présence et rôle",
+   "en": "Signs from spirit guides: how they communicate and what they do",
+   "es": "Cómo se manifiesta un guía espiritual: señales y función"
+  },
+  "desc": {
+   "fr": "Comment se manifeste un guide spirituel ? Rêves, intuitions, présence en méditation : les signes décrits, son rôle selon les traditions, et ton discernement.",
+   "en": "Signs from spirit guides: recurring animals, feathers, synchronicities and dreams. How guides are said to speak, what they do, and how to read signs clearly.",
+   "es": "Cómo se manifiesta un guía espiritual: en meditación, en sueños y en la vida diaria. Su función, las señales más citadas y cómo leerlas sin engañarte."
+  },
+  "published": null,
+  "intro": {
+   "fr": "Comment se manifeste un guide spirituel ? Rarement par une apparition spectaculaire. Le plus souvent par des signes discrets : un rêve net, une intuition calme, une présence en méditation. Voici les manifestations les plus décrites, le rôle que les traditions prêtent aux guides, et comment garder ton discernement.",
+   "en": "A song that answers your question. The same animal three days in a row. A dream so clear it feels like a message. Many people read these moments as signs from their spirit guides. Here is how guides are said to communicate, what role they play, and how to read signs without fooling yourself.",
+   "es": "Una pluma en el camino, un sueño que se repite, una calma repentina: muchas personas sienten que su guía les habla así. Pero ¿cómo se manifiesta un guía espiritual, y para qué está ahí? Aquí tienes su función según las tradiciones, las señales más citadas y una forma serena de leerlas."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Un guide spirituel peut-il se manifester par un animal ?",
+     "Oui, selon de nombreuses traditions : c'est l'une des formes les plus anciennes. Dans le chamanisme, l'animal de pouvoir se présente en voyage ou en rêve. Dans la vie courante, certaines personnes remarquent un animal qui revient. Note-le sans en faire une certitude : c'est la répétition, dans un contexte qui a du sens, qui compte."
+    ],
+    [
+     "Mon guide spirituel peut-il me parler ?",
+     "Beaucoup de gens décrivent une phrase intérieure, courte et calme, plutôt qu'une voix venue de l'extérieur. Si tu entends des voix qui t'inquiètent, qui te donnent des ordres ou qui t'empêchent de dormir, ce n'est plus de la méditation : parles-en à un professionnel."
+    ],
+    [
+     "Les heures miroirs, comme 11 h 11, sont-elles un signe des guides ?",
+     "C'est une croyance moderne très répandue, mais rien ne permet de la confirmer. On regarde l'heure très souvent, et l'esprit retient surtout les heures remarquables. Si 11 h 11 t'invite à respirer et à revenir à toi, c'est déjà un bon usage."
+    ],
+    [
+     "Comment remercier son guide spirituel ?",
+     "Par un mot intérieur à la fin de chaque méditation, par une pensée le soir, ou par un geste concret pour les autres. Dans MeditaDream, « Gratitude aux guides » (23 min) t'invite à remercier une à une les personnes qui ont compté."
+    ]
+   ],
+   "en": [
+    [
+     "What does it mean when you keep seeing 11:11?",
+     "Popular culture calls repeated numbers like 11:11 angel numbers. No evidence shows they carry a message, and clock times are easy to notice once you look for them. You can still use them as a cue to pause and breathe."
+    ],
+    [
+     "Is a white feather a sign from a spirit guide?",
+     "Many people see it as one, often linked to angels or to a loved one who has died. It cannot be proven, and birds lose feathers every day. Its meaning comes from what it stirs in you."
+    ],
+    [
+     "Can spirit guides speak through dreams?",
+     "Many people say so. A guide may appear, speak a few words or show a symbol. Write these dreams down as soon as you wake up. Their meaning often becomes clearer when you reread them weeks later."
+    ],
+    [
+     "Do spirit guides warn you of danger?",
+     "Some people describe a sudden gut feeling before a bad decision, and read it as a warning. Listen to it, but check the facts too. Intuition is a useful signal, not a guarantee."
+    ]
+   ],
+   "es": [
+    [
+     "¿Cómo saber si una señal viene de mi guía espiritual?",
+     "No hay forma de saberlo con certeza. Una buena pista es el efecto: una señal que te calma, se repite y te ayuda a actuar con más bondad merece tu atención. Si te asusta o te empuja a decidir deprisa, déjala pasar."
+    ],
+    [
+     "¿Los guías espirituales pueden comunicarse con olores o sonidos?",
+     "Muchos relatos lo cuentan: un perfume familiar, una música, un sonido sin causa aparente. No hay forma de comprobarlo. Si te ocurre, anótalo con calma y observa si se repite y qué sentiste."
+    ],
+    [
+     "¿Qué hago si siento una presencia que me da miedo?",
+     "Abre los ojos, enciende la luz y respira despacio. Según las tradiciones, un guía acompaña con bondad: una presencia que asusta no es un guía. Si estas sensaciones vuelven a menudo o te angustian, pide consejo a un profesional."
+    ],
+    [
+     "¿Mi ángel de la guarda me envía señales?",
+     "Para muchas personas creyentes, sí: una protección inesperada, una calma en un momento difícil, una pluma blanca. La tradición cristiana no fija una lista de señales. Puedes acogerlas con gratitud, sin necesidad de pruebas."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Un guide se manifeste surtout par des signes discrets, rarement spectaculaires.",
+    "Son rôle : accompagner, éclairer, protéger, sans décider à ta place.",
+    "Note les signes et relis-les : la répétition compte plus qu'un moment isolé."
+   ],
+   "en": [
+    "Guides are said to speak through images, dreams, feelings and coincidences, rarely in words.",
+    "A sign matters when it helps you and holds up over weeks, not when you force it.",
+    "Keep a journal and your critical mind, and never let signs make your decisions for you."
+   ],
+   "es": [
+    "Un guía se manifiesta casi siempre de forma interior: imagen, sueño, intuición o coincidencia.",
+    "Su función es acompañar, proteger y aconsejar, nunca decidir por ti ni asustarte.",
+    "Anota las señales y espera antes de interpretarlas: las que importan vuelven."
+   ]
+  },
+  "kw": {
+   "fr": "comment se manifeste un guide spirituel, signes d'un guide spirituel, rôle d'un guide spirituel, présence d'un guide spirituel, guide spirituel en rêve, signes des guides spirituels, ange gardien signes, guides spirituels",
+   "en": "signs from spirit guides, signs your spirit guide is trying to contact you, how do spirit guides communicate, role of a spirit guide, spirit guide signs, synchronicity, angel numbers, white feather meaning, signs from deceased loved ones, spirit guides",
+   "es": "cómo se manifiesta un guía espiritual, señales de los guías espirituales, función de un guía espiritual, señales de que tu guía espiritual está contigo, guías espirituales en sueños, diferencia entre ángel de la guarda y guía espiritual, sincronicidades, números repetidos, guía espiritual, guías espirituales"
+  },
+  "photos": [
+   "p10",
+   "p02"
+  ],
+  "seo_title": {
+   "fr": "Comment se manifeste un guide spirituel : signes et rôle",
+   "en": "Signs From Spirit Guides: How They Communicate, Their Role"
+  }
+ },
+ {
+  "id": "astral-dangers",
+  "sections": [
+   "astral-dangers"
+  ],
+  "image": null,
+  "slug": {
+   "fr": "voyage-astral-dangers-precautions",
+   "en": "astral-projection-dangers",
+   "es": "peligros-del-viaje-astral"
+  },
+  "title": {
+   "fr": "Voyage astral : dangers réels, peurs courantes et précautions",
+   "en": "Astral projection dangers: real risks, common fears and precautions",
+   "es": "Peligros del viaje astral: riesgos reales, miedos y precauciones"
+  },
+  "desc": {
+   "fr": "Voyage astral : rester bloqué, corde d'argent, mauvaises rencontres. Ce que valent ces peurs, les vrais risques et 7 précautions pour pratiquer sereinement.",
+   "en": "Is astral projection dangerous? The real risks, from lost sleep to lingering fear, the myths of getting stuck or a broken silver cord, and 7 precautions.",
+   "es": "¿Es peligroso hacer un viaje astral? Los riesgos reales, los miedos más comunes (no volver, las entidades) y las precauciones para practicar con calma."
+  },
+  "published": null,
+  "intro": {
+   "fr": "Le voyage astral attire, mais il fait aussi peur. Rester bloqué hors de son corps, voir la corde d'argent se rompre, croiser une présence hostile : ces craintes reviennent sans cesse. Voici ce qu'elles valent vraiment, les vrais risques, et sept précautions simples pour pratiquer en confiance.",
+   "en": "Few practices stir up as many fears as astral projection. People worry about getting stuck outside the body, a snapping silver cord or dark presences at the edge of sleep. What is myth, and what are the real risks? Here is a calm, honest look, with the precautions that make the practice safer.",
+   "es": "El viaje astral atrae, pero también da miedo: no poder volver, cruzarse con algo hostil, perder el control. ¿Cuáles son de verdad los peligros del viaje astral, y cuáles son solo leyendas? Aquí los separamos con calma, con lo que dicen la ciencia y los relatos de quienes practican, y unas precauciones sencillas."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Faut-il se protéger avant un voyage astral ?",
+     "Rien ne prouve qu'une protection soit nécessaire. Un court rituel peut pourtant te rassurer : une intention claire, une lumière imaginée autour de toi, ou une prière de ta tradition. La meilleure protection reste simple : être reposé, calme, et savoir comment revenir."
+    ],
+    [
+     "Le voyage astral peut-il provoquer une paralysie du sommeil ?",
+     "Les deux se produisent au même endroit, à la frontière entre la veille et le sommeil. Il arrive donc qu'une tentative se termine par une courte paralysie du sommeil. Elle est impressionnante, mais elle passe d'elle-même, en général en quelques secondes ou quelques minutes. Respire lentement et bouge un doigt."
+    ],
+    [
+     "Le voyage astral est-il interdit par la religion ?",
+     "Aucun grand texte religieux ne parle du voyage astral sous ce nom. Certaines autorités chrétiennes mettent en garde contre les pratiques occultes en général. D'autres traditions, comme le chamanisme, valorisent au contraire le voyage de l'esprit. Si ta foi compte pour toi, parles-en à une personne de confiance dans ta tradition."
+    ]
+   ],
+   "en": [
+    [
+     "Can astral projection kill you?",
+     "There is no evidence that it can. The experience happens during deep relaxation or at the edge of sleep, while your body keeps breathing on its own. Frightening sensations can be intense, but they pass."
+    ],
+    [
+     "Is astral projection safe for beginners?",
+     "For most people, yes, if you go gently. Start with relaxation and small exercises, keep sessions short and avoid night wake-ups at first. Skip it during hard periods, or if you often feel detached from yourself."
+    ],
+    [
+     "Can something follow you back from the astral plane?",
+     "This fear is common, but nothing supports it. Images from a vivid experience can stay in your memory for a while, like a strong dream. Ground yourself, talk about it and take a break if it lingers."
+    ],
+    [
+     "Should you practice astral projection alone?",
+     "Most people practice alone, in their own bed. If you feel anxious, try in daylight and let someone know what you are doing. A guided session that brings you back at the end also helps."
+    ]
+   ],
+   "es": [
+    [
+     "¿Te puedes quedar atrapado en un viaje astral?",
+     "No. No hay ningún caso documentado de alguien que no pudiera volver. La experiencia termina sola: al pensar en el cuerpo, al moverte, con un ruido o al despertar. Lo frecuente es lo contrario: que dure muy poco."
+    ],
+    [
+     "¿Un viaje astral puede hacerte daño?",
+     "La práctica en sí es relajación e imaginación. Lo que puede afectarte es dormir poco, asustarte o practicar en una etapa frágil. Descansar bien, poner un límite de tiempo y tener un ancla de regreso ayuda a practicar con calma."
+    ],
+    [
+     "¿Qué pasa si alguien te despierta durante un viaje astral?",
+     "Te despiertas, quizá con un sobresalto, como cuando alguien interrumpe un sueño profundo. Nada indica que una parte de ti pueda quedarse fuera. Respira, mueve el cuerpo y tómate un momento antes de levantarte."
+    ],
+    [
+     "¿Es pecado hacer un viaje astral?",
+     "Depende de tu tradición. Algunas iglesias desaconsejan las prácticas esotéricas; otras tradiciones, como ciertas escuelas de yoga, describen experiencias parecidas. Si tu fe es importante para ti, puedes hablarlo con alguien de tu comunidad. Las técnicas de relajación y de atención, en sí, no piden creer en nada."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Rester bloqué ou perdre son corps : aucun cas sérieux ne le montre.",
+    "Les vrais risques sont ordinaires : fatigue, peur, période fragile.",
+    "Pratique reposé, deux ou trois fois par semaine, et ancre-toi après."
+   ],
+   "en": [
+    "Nobody gets stuck: every experience ends, and fear itself tends to bring you back.",
+    "The real risks are lost sleep, fear and feeling detached, not entities or a broken cord.",
+    "Practice rested, keep it short, ground yourself afterward and pause if it unsettles you."
+   ],
+   "es": [
+    "No hay ningún caso documentado de alguien que no volviera: el regreso llega siempre.",
+    "Los riesgos reales son dormir poco, asustarte y practicar en una etapa frágil.",
+    "Descanso, un límite de tiempo y un ancla de regreso ayudan a practicar con calma."
+   ]
+  },
+  "kw": {
+   "fr": "voyage astral dangers, dangers du voyage astral, voyage astral danger, peut-on rester bloqué hors de son corps, corde d'argent, peut-on mourir pendant un voyage astral, voyage astral peur, précautions voyage astral, projection astrale danger",
+   "en": "astral projection dangers, is astral projection dangerous, astral projection risks, can you get stuck astral projecting, how to astral project safely, astral projection safety, astral projection fear, silver cord, astral projection sleep paralysis, astral projection",
+   "es": "peligros del viaje astral, es peligroso hacer un viaje astral, viaje astral peligros, qué pasa si no vuelves de un viaje astral, cordón de plata, entidades del plano astral, es malo hacer un viaje astral, riesgos del viaje astral, precauciones viaje astral, viaje astral"
+  },
+  "photos": [
+   "p35",
+   "p08"
+  ],
+  "seo_title": {
+   "fr": "Voyage astral : vrais dangers, peurs infondées, précautions",
+   "en": "Astral Projection Dangers: Real Risks, Myths and Precautions",
+   "es": "Peligros del viaje astral: riesgos reales y precauciones"
+  }
+ },
+ {
+  "id": "chakras",
+  "sections": [
+   "chakras"
+  ],
+  "image": 17,
+  "slug": {
+   "fr": "chakras-et-leurs-roles",
+   "en": "chakra-locations-explained",
+   "es": "chakras-del-cuerpo"
+  },
+  "title": {
+   "fr": "Les chakras et leurs rôles : la carte utilisée en méditation",
+   "en": "Chakra locations: the 7 chakras explained as a body map",
+   "es": "Los 7 chakras del cuerpo: un mapa simbólico para meditar"
+  },
+  "desc": {
+   "fr": "Les chakras et leurs rôles expliqués simplement : les 7 chakras, leurs couleurs et une carte symbolique pour guider l’attention en méditation, sans dogme.",
+   "en": "The 7 chakra locations explained simply, with no dogma: a symbolic body map used to guide attention in meditation, and how to meditate on them.",
+   "es": "Los 7 chakras del cuerpo, explicados sin dogmas: un mapa simbólico para guiar la atención al meditar, de la base de la columna a la coronilla."
+  },
+  "published": null,
+  "intro": {
+   "fr": "Les sept chakras forment une carte symbolique du corps utilisée depuis des siècles par la méditation : sept zones où poser l'attention, de la base de la colonne au sommet du crâne. Voici les chakras et leurs rôles expliqués simplement, et comment utiliser cette carte dans une méditation guidée des chakras.",
+   "en": "The seven chakras form a symbolic body map that meditation has used for centuries: seven chakra locations to rest your attention on, in order from the base of the spine to the crown. Here's that map explained simply, and how to use it in a guided chakra meditation.",
+   "es": "Los siete chakras del cuerpo forman un mapa simbólico que la meditación usa desde hace siglos: siete zonas donde posar la atención, de la base de la columna a la coronilla. Aquí tienes ese mapa explicado con sencillez, y cómo usarlo en una meditación guiada de los chakras."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Les chakras existent-ils vraiment ?",
+     "C'est une carte symbolique, pas une anatomie : la science n'en fait pas des organes. Mais comme support d'attention pour la méditation guidée, cette carte fonctionne remarquablement depuis des siècles."
+    ],
+    [
+     "Comment méditer sur les chakras ?",
+     "On parcourt les sept zones de bas en haut, quelques respirations sur chacune — couleur, sensation, image. Une méditation guidée des chakras fait le trajet pour toi, à ton rythme."
+    ],
+    [
+     "Qu'est-ce qu'un chakra « bloqué » ?",
+     "Dans ce langage symbolique, une zone de vie où l'énergie circule mal — sécurité, créativité, parole… Le travail méditatif consiste à ramener l'attention et la respiration dans cette zone."
+    ]
+   ],
+   "en": [
+    [
+     "Do chakras really exist?",
+     "It's a symbolic map, not anatomy: science doesn't treat them as organs. But as a support for attention in guided meditation, this map has worked remarkably well for centuries."
+    ],
+    [
+     "How do you meditate on the chakras?",
+     "You travel the seven regions from bottom to top, a few breaths on each — color, sensation, image. A guided chakra meditation makes the journey for you, at your pace."
+    ],
+    [
+     "What is a “blocked” chakra?",
+     "In this symbolic language, an area of life where energy flows poorly — safety, creativity, voice… The meditative work is bringing attention and breath back into that region."
+    ]
+   ],
+   "es": [
+    [
+     "¿Los chakras existen de verdad?",
+     "Es un mapa simbólico, no una anatomía: la ciencia no los trata como órganos. Pero como soporte de atención para la meditación guiada, este mapa funciona notablemente bien desde hace siglos."
+    ],
+    [
+     "¿Cómo se medita sobre los chakras?",
+     "Se recorren las siete zonas de abajo arriba, unas respiraciones en cada una — color, sensación, imagen. Una meditación guiada de los chakras hace el recorrido por ti, a tu ritmo."
+    ],
+    [
+     "¿Qué es un chakra «bloqueado»?",
+     "En este lenguaje simbólico, una zona de la vida donde la energía circula mal — seguridad, creatividad, palabra… El trabajo meditativo consiste en devolver la atención y la respiración a esa zona."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "Une carte symbolique du corps — pas une anatomie.",
+    "Sept zones, de la base de la colonne au sommet du crâne.",
+    "Le trajet se fait de bas en haut, quelques respirations par zone.",
+    "Utile même sans y « croire » : c'est un support d'attention."
+   ],
+   "en": [
+    "A symbolic map of the body — not anatomy.",
+    "Seven regions, from the base of the spine to the crown.",
+    "The journey runs bottom to top, a few breaths per region.",
+    "Useful even without “believing”: it's a support for attention."
+   ],
+   "es": [
+    "Un mapa simbólico del cuerpo — no una anatomía.",
+    "Siete zonas, de la base de la columna a la coronilla.",
+    "El recorrido va de abajo arriba, unas respiraciones por zona.",
+    "Útil incluso sin «creer»: es un soporte para la atención."
+   ]
+  },
+  "kw": {
+   "fr": "les chakras et leurs rôles, chakras, 7 chakras, les 7 chakras, méditation chakras, chakras significations, c'est quoi les chakras, équilibrer les chakras, couleur des chakras, symbolique des chakras",
+   "en": "chakra locations, chakras, 7 chakras, chakra meditation, chakras explained, what are the 7 chakras, chakra order, chakra system, balance chakras, how to meditate on chakras",
+   "es": "chakras del cuerpo, los 7 chakras del cuerpo, chakra del cuerpo humano, 7 chakras, los 7 chakras, qué son los chakras, los 7 chakras y su significado, meditación de chakras, equilibrar chakras, cuerpo sutil"
+  },
+  "photos": [
+   "p50",
+   "p07"
+  ]
+ },
+ {
+  "id": "emc",
+  "sections": [
+   "emc"
+  ],
+  "image": 16,
+  "slug": {
+   "fr": "etats-modifies-de-conscience",
+   "en": "altered-states-of-consciousness",
+   "es": "estados-modificados-de-conciencia"
+  },
+  "title": {
+   "fr": "États modifiés de conscience et transe méditative",
+   "en": "Altered states of consciousness, explained with examples",
+   "es": "Estados de conciencia: de la ensoñación al trance meditativo"
+  },
+  "desc": {
+   "fr": "Le spectre des états modifiés de conscience, la transe méditative et les pratiques profondes : un guide clair, honnête et sans mystification.",
+   "en": "What are altered states of consciousness? Examples, the spectrum they form, meditative trance and deep practices: a clear, honest guide without the hype.",
+   "es": "Del sueño a la hipnosis y al flow, hay muchos tipos de estados de conciencia. Qué son y cómo la meditación profunda te lleva a ellos de forma natural."
+  },
+  "published": null,
+  "intro": {
+   "fr": "Rêverie, flow, hypnose, transe méditative : la conscience n'est pas un interrupteur mais un spectre d'états. Ce guide clarifie ce que sont les états modifiés de conscience, comment la méditation profonde y conduit naturellement, et comment les explorer sans mystification.",
+   "en": "Daydreaming, flow, hypnosis, meditative trance: these altered states of consciousness show that consciousness isn't a switch but a spectrum of states. This guide clarifies what they are, how deep meditation leads there naturally, and how to explore them without the hype.",
+   "es": "Ensoñación, flow, hipnosis, trance meditativo: la conciencia no es un interruptor sino un espectro de estados. Esta guía aclara qué son los estados modificados de conciencia, cómo la meditación profunda conduce a ellos de forma natural y cómo explorarlos sin misticismo barato."
+  },
+  "kw": {
+   "fr": "états modifiés de conscience, transe méditative, conscience profonde, relaxation profonde, état de transe, méditation état modifié de conscience, méditation profonde, état modifié de conscience définition",
+   "en": "altered states of consciousness, what is an altered state of consciousness, examples of altered states of consciousness, altered state of consciousness examples, what are altered states of consciousness, types of altered states of consciousness, meditative trance, altered consciousness, deep relaxation, deep consciousness",
+   "es": "estados de conciencia, tipos de estados de conciencia, estados modificados de conciencia, ensoñación, trance meditativo, niveles de conciencia, conciencia profunda, relajación profunda"
+  },
+  "photos": [
+   "p23",
+   "p17"
+  ],
+  "seo_title": {
+   "fr": "États modifiés de conscience et transe méditative : guide"
+  }
+ },
+ {
   "id": "ombre",
   "sections": [
    "ombre"
@@ -1917,45 +2416,108 @@
   ]
  },
  {
-  "id": "astral",
+  "id": "histoire",
   "sections": [
-   "astral-progression"
+   "histoire"
   ],
-  "image": 18,
+  "image": 15,
   "slug": {
-   "fr": "voyage-astral-progression",
-   "en": "astral-projection-step-by-step",
-   "es": "como-hacer-un-viaje-astral"
+   "fr": "histoire-de-la-meditation",
+   "en": "history-of-meditation",
+   "es": "historia-del-mindfulness-y-la-meditacion"
   },
   "title": {
-   "fr": "Comment faire un voyage astral, marche par marche",
-   "en": "How to astral project: a step-by-step progression",
-   "es": "Cómo hacer un viaje astral, paso a paso"
+   "fr": "Histoire de la méditation : 3 500 ans de traditions",
+   "en": "History of meditation: 3,500 years at a glance",
+   "es": "Historia del mindfulness: 3500 años de meditación"
   },
   "desc": {
-   "fr": "Comment faire un voyage astral ? Guide du voyage astral pour débutant : de la détente profonde aux techniques de sortie, sans sensationnalisme.",
-   "en": "Learn how to astral project step by step, from deep relaxation to exit techniques. A clear ladder toward an out-of-body experience, without sensationalism.",
-   "es": "Cómo hacer un viaje astral sin sensacionalismo: una escalera de progresión, de la relajación profunda a las técnicas para salir del cuerpo."
+   "fr": "L’histoire de la méditation, de l’Inde védique au zen japonais et aux applications mobiles : d’où viennent les pratiques d’aujourd’hui.",
+   "en": "A short history of meditation, from its origins in Vedic India to Japanese Zen and mobile apps: where today’s practices actually come from.",
+   "es": "La historia del mindfulness y de la meditación, de la India védica al zen japonés y a las apps móviles: de dónde vienen las prácticas que usamos hoy."
   },
   "published": null,
   "intro": {
-   "fr": "Le voyage astral fascine et inquiète à la fois. Ici, pas de sensationnalisme : une échelle de progression claire, de la détente profonde aux techniques de sortie, où chaque marche se pratique à son rythme — et reste, en soi, une belle méditation.",
-   "en": "Learning how to astral project fascinates and unsettles in equal measure. No sensationalism in this astral projection guide: a clear progression ladder, from deep relaxation to exit techniques, where each rung is practiced at your own pace — and is, in itself, a rewarding meditation.",
-   "es": "El viaje astral fascina e inquieta a partes iguales. Aprender cómo hacer un viaje astral paso a paso es, ante todo, una cuestión de orden: cada peldaño se practica a tu ritmo — y es, en sí mismo, una buena meditación."
+   "fr": "Avant d'être une application dans ta poche, la méditation a traversé 3 500 ans d'histoire : l'Inde védique, le bouddhisme, le zen japonais, les monastères chrétiens, la pleine conscience moderne. Comprendre d'où viennent ces pratiques change la façon de les pratiquer.",
+   "en": "Before it was an app in your pocket, meditation crossed 3,500 years of history: Vedic India, Buddhism, Japanese Zen, Christian monasteries, modern mindfulness. Knowing where these practices come from changes how you practice them.",
+   "es": "Antes de ser una app en tu bolsillo, la meditación atravesó 3500 años: la India védica, el budismo, el zen japonés, los monasterios cristianos y, por fin, la atención plena moderna. Conocer la historia del mindfulness cambia la manera de practicarlo."
+  },
+  "faq": {
+   "fr": [
+    [
+     "Qui a inventé la méditation ?",
+     "Personne en particulier : les premières traces écrites viennent de l'Inde védique, il y a environ 3 500 ans, mais des pratiques contemplatives existent dans presque toutes les cultures du monde."
+    ],
+    [
+     "La méditation est-elle religieuse ?",
+     "Elle est née dans des traditions spirituelles, mais ses techniques — attention, respiration, bienveillance — se pratiquent aujourd'hui de façon entièrement laïque. À chacun d'y mettre le sens qu'il souhaite."
+    ],
+    [
+     "D'où vient la pleine conscience moderne ?",
+     "De la rencontre entre les pratiques bouddhistes et l'Occident au XXᵉ siècle, popularisée à partir des années 1970 — jusqu'aux méditations guidées que tu écoutes sur ton téléphone."
+    ]
+   ],
+   "en": [
+    [
+     "Who invented meditation?",
+     "No one in particular: the earliest written traces come from Vedic India, about 3,500 years ago, but contemplative practices exist in nearly every culture in the world."
+    ],
+    [
+     "Is meditation religious?",
+     "It was born within spiritual traditions, but its techniques — attention, breathing, kindness — are practiced today in an entirely secular way. Everyone brings the meaning they wish."
+    ],
+    [
+     "Where does modern mindfulness come from?",
+     "From the meeting of Buddhist practices and the West in the 20th century, popularized from the 1970s onward — all the way to the guided meditations you listen to on your phone."
+    ]
+   ],
+   "es": [
+    [
+     "¿Quién inventó la meditación?",
+     "Nadie en particular: las primeras huellas escritas vienen de la India védica, hace unos 3500 años, pero existen prácticas contemplativas en casi todas las culturas del mundo."
+    ],
+    [
+     "¿La meditación es religiosa?",
+     "Nació dentro de tradiciones espirituales, pero sus técnicas — atención, respiración, bondad — se practican hoy de forma totalmente laica. Cada cual le da el sentido que desea."
+    ],
+    [
+     "¿De dónde viene la atención plena moderna?",
+     "Del encuentro entre las prácticas budistas y Occidente en el siglo XX, popularizado desde los años setenta — hasta las meditaciones guiadas que escuchas en tu teléfono."
+    ]
+   ]
+  },
+  "takeaways": {
+   "fr": [
+    "3 500 ans d'histoire, de l'Inde védique aux applications mobiles.",
+    "Chaque tradition a apporté sa technique — et toutes convergent vers l'attention.",
+    "La pleine conscience moderne est la rencontre du bouddhisme et de l'Occident.",
+    "Connaître l'origine d'une pratique enrichit la pratique elle-même."
+   ],
+   "en": [
+    "3,500 years of history, from Vedic India to mobile apps.",
+    "Each tradition contributed its technique — all converge on attention.",
+    "Modern mindfulness is the meeting of Buddhism and the West.",
+    "Knowing where a practice comes from enriches the practice itself."
+   ],
+   "es": [
+    "3500 años de historia, de la India védica a las apps móviles.",
+    "Cada tradición aportó su técnica — y todas convergen en la atención.",
+    "La atención plena moderna es el encuentro del budismo y Occidente.",
+    "Conocer el origen de una práctica enriquece la práctica misma."
+   ]
   },
   "kw": {
-   "fr": "comment faire un voyage astral, guide voyage astral, voyage astral pour débutant, voyage astral, sortie hors du corps, projection astrale, techniques voyage astral, sortie astrale, comment sortir de son corps, voyage astral méthode",
-   "en": "how to astral project, how to astral travel, learn astral projection, achieving astral projection, astral projection guide, how to astral project for beginners, how to have an out of body experience, astral projection while sleeping, astral projection step by step, astral projection",
-   "es": "cómo hacer un viaje astral, iniciarse en el viaje astral, cómo hacer un viaje astral paso a paso, viaje astral para principiantes, técnicas de viaje astral, experiencia fuera del cuerpo, cómo hacer una proyección astral, cómo salir del cuerpo"
+   "fr": "histoire de la méditation, origine méditation, traditions méditation, histoire pleine conscience, origine de la méditation, d’où vient la méditation, méditation védique",
+   "en": "history of meditation, origin of meditation, meditation traditions, mindfulness history, where did meditation originate, who invented meditation",
+   "es": "historia del mindfulness, historia de la meditación, origen de la meditación, tradiciones de meditación, historia atención plena"
   },
   "photos": [
-   "p53",
-   "p37"
+   "p28",
+   "p05"
   ],
   "seo_title": {
-   "fr": "Comment faire un voyage astral : 3 marches pour débuter",
-   "en": "How to astral project: a step-by-step guide for beginners",
-   "es": "Cómo hacer un viaje astral paso a paso, para principiantes"
+   "en": "History of meditation: 3,500 years in seven landmarks",
+   "es": "Breve historia del mindfulness: 3500 años de meditación"
   }
  },
  {

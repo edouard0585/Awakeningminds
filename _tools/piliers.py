@@ -461,6 +461,11 @@ TOC_JS = ('<script>(function(){var l=document.querySelectorAll(".pl-toc a");if(!
           '{rootMargin:"-30% 0px -60% 0px"});Object.keys(m).forEach(function(k){var s=document.getElementById(k);if(s)o.observe(s)})})();</script>')
 
 
+# 27-11 : séance dont l'extrait est proposé sur chaque page pilier
+EXTRAIT_PILIER = {'astral': 'microd01', 'reve': 'reves01', 'guides': 'guides01', 'chakras': 'chakra01', 'qigong': 'chi01',
+                  'transe': 'shaman01', 'visualisation': 'visual02', 'emotions': 'croiss01'}
+
+
 def render(ap, bb, lang, key, D, cat, P):
     s = D[key]; lb = LBL[lang]; t = ap.L[lang]; c = CFG[key]
     me = path(ap, lang, key, D)
@@ -486,6 +491,10 @@ def render(ap, bb, lang, key, D, cat, P):
     if blog: toc.append(('blog', s.get('blog', {}).get('h2', 'Blog')))
     bc = [(t['home'], f'/{lang}/'), (t['worlds'] if key == 'mondes' else lb['short'][key], None)]
     faq = [tuple(q) for q in s.get('faq', [])]
+    # 27-11 : extrait à écouter d'une séance du thème, juste après la définition
+    _meds = {m['id']: m for x in cat['categories'].values() for m in x['meds']}
+    xid = ap.extrait_de(lang, [EXTRAIT_PILIER[key]] if key in EXTRAIT_PILIER else list(c.get('seances', [])))
+    ext_html, ext_ld = ap.extrait_audio(bb, lang, xid, _meds[xid]['dur'] if xid in _meds else None, _meds[xid]['title'][lang] if xid in _meds else None) if xid else ('', None)
     body = (f'<div class="pl" style="--acc-rgb:{c["acc"]}">' + ap.crumbs(lang, bc)
             + f'<div class="pl-hero"><div class="pl-ht"><p class="pl-eye"><span aria-hidden="true">✦</span>{E(s.get("eyebrow", ""))}</p>'
             f'<h1>{E(s["h1"])}</h1><p class="pl-lead">{rich(s.get("lead", ""))}</p><ul class="pl-facts">{facts(ap, lang, key, cat)}</ul>'
@@ -494,7 +503,7 @@ def render(ap, bb, lang, key, D, cat, P):
             f'<div class="pl-body"><nav class="pl-toc" aria-label="{E(lb["toc"])}"><b>{E(lb["toc"])}</b><ol>'
             + ''.join(f'<li><a href="#{E(i)}">{E(n)}</a></li>' for i, n in toc) + '</ol></nav>'
             f'<article class="pl-art"><section id="definition" class="pl-def"><h2>{E(lb["defl"])}</h2><p>{rich(s.get("def", ""))}</p></section>'
-            + corps + app_block(ap, lang, key, s, cat, P)
+            + ext_html + corps + app_block(ap, lang, key, s, cat, P)
             + (ap.faq_html(lang, faq).replace('<section class="afaq">', '<section class="afaq" id="faq">') if faq else '')
             + blog + ap.cta(lang) + '</article></div>' + explore_block(ap, lang, key, D, cat) + '</div>' + TOC_JS)
     # données structurées
@@ -508,6 +517,7 @@ def render(ap, bb, lang, key, D, cat, P):
               'mentions': {'@type': 'MobileApplication', 'name': 'MeditaDream', 'applicationCategory': 'LifestyleApplication',
                            'operatingSystem': 'iOS, Android', 'offers': {'@type': 'Offer', 'price': '0', 'priceCurrency': 'EUR'}}},
              ap.bc_ld(bb, bc)]
+    if ext_ld: graph.append(ext_ld)
     sel = [meds[i] for i in c['seances'] if i in meds]
     if key == 'mondes':
         graph.append({'@type': 'ItemList', 'name': lb['gallery_all'], 'numberOfItems': len(cat['worlds']), 'itemListElement': [

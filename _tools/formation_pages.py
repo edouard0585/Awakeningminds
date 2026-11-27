@@ -81,16 +81,19 @@ def build(bb, ap):
         if len(titre) > 60: titre = f'Méditation {v["a"]} : formation, ateliers, app gratuite'
         h1 = f'Méditation {v["a"]} : formation, ateliers en entreprise et pratique gratuite'
         d = desc(v)
+        # 28-11 (mots-clés page par page) : une ville peut donner son propre title (« seo »), H1, description, des sections et des questions
+        titre = v.get('seo') or titre; h1 = v.get('h1') or h1; d = v.get('desc') or d
+        plus = ''.join(f'<h2>{E(s["h2"])}</h2>' + ''.join(f'<p>{E(x)}</p>' for x in s['p']) for s in v.get('sections', []))
         bc = [(t['home'], '/fr/'), ('Formations à la méditation', base), (v['nom'], None)]
         q = [v['faq'],
              ['Combien coûte une formation ?', 'Chaque proposition est construite sur mesure, selon le format, la durée et le nombre de participants. L’application, elle, est gratuite pour tous, sans abonnement ni version payante.'],
-             ['Quelles données sont collectées sur les participants ?', 'Aucune. L’application ne demande pas de compte et ne collecte aucune donnée personnelle : les données de pratique restent sur le téléphone de chacun.']]
+             ['Quelles données sont collectées sur les participants ?', 'Aucune. L’application ne demande pas de compte et ne collecte aucune donnée personnelle : les données de pratique restent sur le téléphone de chacun.']] + [list(x) for x in v.get('faq_plus', [])]
         autres = [x for x in villes if x['pays'] == v['pays'] and x is not v] + [x for x in villes if x['pays'] != v['pays']]   # 17-10 : toutes les villes (Luxembourg, Genève, Lausanne n'avaient que 1-2 liens entrants)
         liens = ''.join(f'<li><a href="{x["slug"]}.html">{E(x["nom"])}</a></li>' for x in autres)
         liens += f'<li><a href="./">Toutes les villes</a></li><li><a href="../{teams["slug"]}.html">{E(t["teams"])}</a></li>'
         body = (ap.crumbs('fr', bc) + f'<article><h1>{E(h1)}</h1><p class="lead">{E(d)}</p>'
                 f'<h2>Méditer au travail {E(v["a"])}</h2><p>{E(v["contexte"])}</p>'
-                f'<h2>Sur site ou à distance</h2><p>{E(lieux(v))}</p>'
+                f'<h2>Sur site ou à distance</h2><p>{E(lieux(v))}</p>' + plus +
                 f'<h2>Au programme</h2><ul>' + ''.join(f'<li>{E(b)}</li>' for b in D['programme']) + f'</ul><p>{E(DEROULE[i % 3])}</p>'
                 f'<h2>Apprendre à méditer {E(v["a"])}, gratuitement</h2><p>{E(APP[i % 3].format(a=v["a"]))}</p><ul class="ap-links">{app_links}</ul>'
                 + form(ap, f'Formation méditation — {v["nom"]}') + ap.cta('fr') + ap.faq_html('fr', q)

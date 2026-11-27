@@ -754,5 +754,79 @@
     "Sí. Sin suscripción, sin anuncios y sin compras dentro de la app. Los puntos que abren la segunda mitad de las meditaciones se ganan practicando, nunca se compran."
    ]
   ]
+ },
+ "apropos": {
+  "slug": "acerca-de",
+  "seo": "Acerca de MeditaDream: meditación gratis y sin anuncios",
+  "desc": "Quién está detrás de MeditaDream, por qué la app es gratis y sin anuncios, y cómo se escriben sus meditaciones, sus mundos y los artículos del blog.",
+  "h1": "MeditaDream: una app de meditación gratis, por elección",
+  "lead": "MeditaDream nació de una idea sencilla: que meditar no cueste nada. La app es gratis, sin anuncios ni cuenta, y funciona sin conexión una vez descargadas las sesiones. Aquí te contamos quién la creó, cómo se hacen sus meditaciones y cómo se escribe el blog.",
+  "sections": [
+   {
+    "h2": "¿Por qué MeditaDream es gratis?",
+    "p": [
+     "MeditaDream es gratis por elección. No hay anuncios ni suscripción, y no hace falta crear una cuenta: abres la app y empiezas.",
+     "Una parte de las meditaciones se abre desde la instalación. Las demás se desbloquean con los puntos que ganas al practicar, nunca con dinero. La idea es sencilla: que cualquiera pueda aprender a meditar, dormir mejor o explorar su vida interior, sea cual sea su presupuesto."
+    ]
+   },
+   {
+    "h2": "¿Quién creó MeditaDream?",
+    "p": [
+     "MeditaDream fue creada por Edouard Richemond.",
+     "La app está disponible en español, francés e inglés, en iPhone y en Android."
+    ]
+   },
+   {
+    "h2": "¿Cómo se crean las meditaciones y los mundos?",
+    "p": [
+     "Cada meditación se escribe y se relee con cuidado, frase por frase. Se cuidan el ritmo, los silencios y las palabras, porque se escuchan con los ojos cerrados. Las voces son suaves y pausadas, en español, francés e inglés.",
+     "La app reúne 144 meditaciones guiadas: para dormir, calmar la ansiedad, aprender a meditar o explorar estados como el trance o el viaje astral. Sus 17 mundos inmersivos son viajes por paisajes imaginarios, como un templo bajo la lluvia o una biblioteca bajo las estrellas.",
+     "Ninguna sesión promete un resultado. Las meditaciones acompañan tu bienestar, pero no sustituyen el consejo de un profesional de la salud."
+    ]
+   },
+   {
+    "h2": "¿Para quién es MeditaDream?",
+    "p": [
+     "Para quien empieza desde cero, con sesiones cortas de cinco minutos. Para quien quiere dormir mejor, calmar la ansiedad o hacer una pausa en el día. Y para quien desea explorar estados más profundos, como el sueño lúcido, el trance o el viaje astral. Cada categoría indica su nivel, de principiante a avanzado, para que avances a tu ritmo."
+    ]
+   },
+   {
+    "h2": "¿Qué más encontrarás en la app?",
+    "p": [
+     "Además de las meditaciones y los mundos, la app incluye el Oráculo, cinco diarios, sonidos de ambiente con temporizador y un creador de meditaciones. Un dragón compañero crece contigo a medida que practicas. Tus notas y tu progreso se guardan en tu teléfono."
+    ]
+   },
+   {
+    "h2": "¿Cómo se escriben los artículos del blog?",
+    "p": [
+     "Los artículos del blog buscan ser útiles, claros y honestos. Cuando hablan de investigación, citan sus fuentes, como estudios, libros o autores, para que puedas comprobarlas.",
+     "En los temas espirituales, como el viaje astral o los guías espirituales, separamos lo que cuentan las tradiciones de lo que ha medido la ciencia. Nunca damos consejos médicos: si algo te preocupa, pide consejo a un profesional."
+    ]
+   },
+   {
+    "h2": "¿Cómo contactar con MeditaDream?",
+    "p": [
+     "¿Una pregunta, una idea o un error que señalar? Escríbenos desde la página de soporte, por correo o con su formulario. Personas reales leen cada mensaje y responden en un plazo de tres días laborables."
+    ]
+   }
+  ],
+  "faq": [
+   [
+    "¿MeditaDream es de verdad gratis?",
+    "Sí. Las meditaciones, los mundos, los diarios y el Oráculo son gratis, sin suscripción ni anuncios. Algunas sesiones se desbloquean con los puntos que ganas al practicar, nunca con dinero."
+   ],
+   [
+    "¿Hace falta crear una cuenta?",
+    "No. Abres la app y empiezas. Tus diarios y tu historial se guardan en tu teléfono."
+   ],
+   [
+    "¿Funciona sin internet?",
+    "Sí. Una vez descargadas, las sesiones funcionan sin conexión, incluso en modo avión."
+   ],
+   [
+    "¿En qué idiomas está la app?",
+    "En español, francés e inglés. Puedes cambiar de idioma en la app cuando quieras."
+   ]
+  ]
  }
 }

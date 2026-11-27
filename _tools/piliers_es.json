@@ -237,7 +237,7 @@
  "astral": {
   "slug": "viaje-astral",
   "seo": "Viaje astral: qué es, desdoblamiento y meditación guiada",
-  "desc": "Qué es el viaje astral, qué se siente y cómo prepararte: técnicas clásicas, el plano astral, precauciones y meditaciones guiadas gratis en español.",
+  "desc": "Viaje astral o desdoblamiento: qué es, qué pasa y cómo hacerlo en 7 pasos, con señales, riesgos reales y meditaciones guiadas gratis en español.",
   "h1": "Qué es el viaje astral y cómo iniciarse paso a paso",
   "eyebrow": "Guía completa",
   "lead": "El viaje astral fascina desde hace siglos: la sensación de salir del cuerpo y verlo desde fuera. Aquí encontrarás qué es, qué ha observado la ciencia, las técnicas clásicas paso a paso y cómo prepararte con calma.",
@@ -265,12 +265,30 @@
    },
    {
     "id": "es-real",
-    "h2": "¿El viaje astral es real? La experiencia extracorporal según la ciencia",
+    "h2": "¿Es real el desdoblamiento astral? La experiencia extracorporal según la ciencia",
     "p": [
      "La ciencia no se pronuncia sobre la existencia de un cuerpo astral. Lo que sí estudia es la experiencia extracorporal: la sensación, muy real para quien la vive, de percibir el mundo desde fuera del propio cuerpo. Muchas personas cuentan haberla vivido al menos una vez, a menudo de forma espontánea.",
+     "Según varias encuestas, cerca de una de cada diez personas ha vivido al menos una salida del cuerpo. Suele ocurrir al dormirse, al despertar o en una relajación muy profunda.",
      "En 2002, un equipo dirigido por Olaf Blanke publicó en la revista Nature un caso muy citado. Durante un examen cerebral, los investigadores estimularon con electricidad el giro angular derecho de una mujer. Ella sintió entonces que flotaba y que se veía desde arriba. El estudio muestra que el cerebro puede producir esa vivencia.",
+     "En 2007, dos equipos de investigación provocaron una ilusión parecida en voluntarios sanos. Usaron unas gafas de realidad virtual conectadas a una cámara colocada detrás de cada persona. Muchos sintieron que ya no estaban del todo dentro de su cuerpo, sino un poco más atrás o más adelante.",
+     "Para la ciencia, esto muestra que el cerebro construye a cada instante la sensación de estar dentro del cuerpo. Combina lo que ves, lo que tocas y lo que indica el oído interno, que guía el equilibrio. Si esas señales no coinciden, el «yo» puede sentirse en otro lugar.",
      "Eso no prueba que la conciencia salga del cuerpo, ni lo contrario. Las pruebas que se han intentado, como leer un número escondido en lo alto de una habitación, no han dado resultados concluyentes. Lo honesto es decir que la experiencia existe y que su interpretación sigue abierta."
     ]
+   },
+   {
+    "id": "que-pasa",
+    "h2": "¿Qué pasa en un viaje astral? Las fases de la experiencia",
+    "p": [
+     "En un viaje astral, los relatos describen casi siempre las mismas fases: el umbral, la separación, la exploración y el regreso. No siempre aparecen todas, y a veces todo dura apenas unos segundos.",
+     "No es una regla, sino lo que más se repite en los testimonios de quienes practican. Así suelen describirse las cuatro fases:"
+    ],
+    "ul": [
+     "**El umbral.** El cuerpo se vuelve pesado e inmóvil mientras la mente sigue despierta. Pueden llegar vibraciones, un zumbido o imágenes sueltas.",
+     "**La separación.** Llega la impresión de flotar, de rodar a un lado o de incorporarte sin mover el cuerpo. Algunos describen un pequeño «clic» o una caída suave.",
+     "**La exploración.** La habitación aparece vista desde otro punto, a menudo desde arriba. Para moverte, basta con pensar en un lugar. La luz y los colores pueden ser distintos de lo habitual.",
+     "**El regreso.** Suele ser rápido: basta con pensar en el cuerpo, sentir miedo o intentar mover un dedo. Muchas personas se despiertan entonces con el corazón acelerado y un recuerdo muy vivo."
+    ],
+    "tip": "Después quedan a menudo una emoción fuerte y la sensación de que fue «más real que un sueño». Anota todo enseguida, antes de interpretarlo. Y si durante meses solo vives el umbral, no es un fracaso: una relajación profunda con la mente clara ya es una experiencia valiosa."
    },
    {
     "id": "que-se-siente",
@@ -290,9 +308,10 @@
    },
    {
     "id": "como-hacer",
-    "h2": "Cómo hacer un viaje astral paso a paso",
+    "h2": "¿Cómo hacer un viaje astral paso a paso?",
     "p": [
-     "Para iniciarse en el viaje astral, no hace falta ningún don especial. Estas son las técnicas clásicas que se transmiten en los libros y en los grupos de práctica. Se viven como ejercicios de imaginación y de atención, sin ninguna garantía de resultado. Lo ideal es practicarlas acostado, en un momento tranquilo, por ejemplo al despertar de madrugada."
+     "Para iniciarse en el viaje astral, no hace falta ningún don especial. Estas son las técnicas clásicas que se transmiten en los libros y en los grupos de práctica. Se viven como ejercicios de imaginación y de atención, sin ninguna garantía de resultado. Lo ideal es practicarlas acostado, en un momento tranquilo, por ejemplo al despertar de madrugada.",
+     "Antes de empezar, elige bien el momento. El mejor suele ser de madrugada, tras unas cinco horas de sueño. El cuerpo está descansado, y el sueño REM, el de los sueños más vivos, está cerca. Una o dos sesiones por semana bastan. Si prefieres empezar por gestos más pequeños, prueba los [ejercicios de desdoblamiento astral](/es/meditaciones/ejercicios-de-desdoblamiento-astral.html), de 16 a 20 minutos."
     ],
     "steps": [
      [
@@ -323,7 +342,8 @@
       "El regreso",
       "Termina siempre volviendo al cuerpo: siente su peso, mueve los dedos, respira hondo y abre los ojos despacio."
      ]
-    ]
+    ],
+    "tip": "Si no pasa nada, no es un fracaso: la mayoría de las sesiones terminan en una relajación profunda o en un sueño. Anota lo que sentiste y vuelve a intentarlo otro día, sin forzar."
    },
    {
     "id": "suenos-lucidos",
@@ -363,11 +383,45 @@
     }
    },
    {
+    "id": "suenos-astrales",
+    "h2": "¿Cómo son los sueños astrales?",
+    "p": [
+     "Un sueño astral es un sueño en el que sientes que sales de tu cuerpo mientras duermes. También se habla de viaje astral en sueños o de desdoblamiento del sueño. Suele llegar de madrugada, durante el sueño REM.",
+     "A menudo empieza con un falso despertar. Crees que te despiertas en tu habitación, pero algo es ligeramente distinto: la luz es extraña, un mueble ha cambiado de sitio o puedes atravesar la pared. Otras veces empieza con la sensación de volar sobre tu casa o sobre tu barrio.",
+     "Estos son los rasgos que más se repiten en los relatos:"
+    ],
+    "ul": [
+     "Una claridad mayor que en un sueño corriente, con colores vivos y detalles nítidos.",
+     "Un lugar conocido, casi siempre tu habitación o tu casa, con pequeñas diferencias.",
+     "La impresión de moverte con el pensamiento, flotando o atravesando paredes.",
+     "Un recuerdo muy preciso al despertar, que no se borra como el de otros sueños."
+    ],
+    "tip": "¿Fue un sueño o un viaje astral? Al despertar, hazte dos preguntas: ¿sabía que soñaba? ¿Me sentía fuera de mi cuerpo? Anota las respuestas: con el tiempo, verás qué tipo de experiencia vives más a menudo."
+   },
+   {
+    "id": "inconsciente",
+    "h2": "¿Existe el viaje astral inconsciente o involuntario?",
+    "p": [
+     "Sí: muchas experiencias astrales llegan sin buscarlas. Se habla entonces de viaje astral inconsciente, involuntario o espontáneo. Suele ocurrir al dormirse, al despertar de madrugada o en una relajación muy profunda, a veces tras un gran cansancio.",
+     "Algunas personas lo viven también en un momento de gran tensión, como un accidente o un susto fuerte. La sensación de verse desde fuera aparece de golpe y se va igual de rápido.",
+     "El viaje astral involuntario va unido a menudo a la parálisis del sueño. Te despiertas sin poder moverte y, de pronto, sientes que flotas o que te ves desde arriba. Impresiona, pero termina por sí solo en unos segundos o en pocos minutos. Si te ocurre sin buscarlo:"
+    ],
+    "ul": [
+     "Respira despacio y recuerda que es pasajero.",
+     "Intenta mover un dedo de la mano o del pie para volver del todo.",
+     "Al despertar, anota lo que viviste, sin buscar enseguida una explicación.",
+     "Si se repite y te inquieta, cuida tu sueño: horarios regulares y menos pantallas por la noche."
+    ],
+    "warn": "Si te ocurre a menudo o te deja con angustia, pide consejo a un profesional. Es más común de lo que se cree, y hablarlo ayuda."
+   },
+   {
     "id": "es-malo",
     "h2": "¿Es malo hacer un viaje astral? Precauciones y regreso",
     "p": [
      "Las técnicas descritas aquí son ejercicios de relajación y de imaginación. Lo que más suele inquietar es lo desconocido: las vibraciones, un ruido interior o la breve parálisis al despertar. Saber que forman parte de la transición hacia el sueño ayuda mucho a vivirlas con calma.",
-     "Algunas tradiciones hablan de entidades o de peligros en el plano astral. No hay ninguna prueba de ello, pero el miedo sí es real, y conviene respetarlo. Si algo te incomoda, vuelve al cuerpo: mueve los dedos, respira hondo y abre los ojos."
+     "Algunas tradiciones hablan de entidades o de peligros en el plano astral. No hay ninguna prueba de ello, pero el miedo sí es real, y conviene respetarlo. Si algo te incomoda, vuelve al cuerpo: mueve los dedos, respira hondo y abre los ojos.",
+     "¿Qué pasa si no vuelves? Es el miedo más citado, y no hay ningún caso documentado de alguien que se quedara «fuera». En los relatos, el regreso llega siempre: con un ruido, un movimiento o al despertar del todo. La imagen del cordón de plata que podría romperse viene de una lectura esotérica de un versículo del Eclesiastés, no de un hecho observado.",
+     "Hay momentos en que es mejor no practicar: si duermes mal, si atraviesas una etapa muy difícil o si a menudo te sientes desconectado de ti mismo. En esos casos, las prácticas que te devuelven al cuerpo, como la respiración lenta o el escaneo corporal, pueden ayudarte más."
     ],
     "ul": [
      "Practica descansado, nunca para escapar de un momento difícil.",
@@ -501,6 +555,18 @@
    [
     "Parálisis del sueño: ¿cómo tenerla a propósito?",
     "Algunos practicantes la buscan como puerta hacia el viaje astral. Se despiertan de madrugada, se quedan inmóviles y observan el umbral del sueño con la mente atenta. Ningún método la garantiza, y puede asustar. Si la parálisis del sueño te pesa o vuelve a menudo, no la busques y pide consejo a un profesional."
+   ],
+   [
+    "¿Qué es el cordón de plata en el viaje astral?",
+    "Según muchos relatos esotéricos, es un hilo luminoso que une el cuerpo astral al cuerpo físico durante el viaje. La expresión viene de un versículo del Eclesiastés, en la Biblia, donde es una imagen de la vida. En el siglo XX, autores como Sylvan Muldoon lo describieron como un lazo visible. No todos los practicantes lo ven, y nada indica que pueda romperse."
+   ],
+   [
+    "¿Cuánto tiempo se tarda en tener un primer viaje astral?",
+    "No hay un plazo fijo. Algunas personas lo viven en las primeras semanas; otras practican meses sin pasar del umbral, y muchas nunca sienten una salida completa. La regularidad ayuda más que la intensidad: una o dos sesiones tranquilas por semana, con un diario. El camino ya te enseña a relajarte y a observar."
+   ],
+   [
+    "¿Se puede visitar a otra persona en un viaje astral?",
+    "Muchos relatos lo cuentan, pero ningún estudio ha comprobado que alguien vea de verdad lo que pasa lejos de su cuerpo. Si sientes que visitas a alguien, vívelo como una imagen interior. No saques conclusiones sobre esa persona, y no uses nunca la práctica para vigilar a nadie."
    ]
   ],
   "blog": {
@@ -1056,7 +1122,7 @@
  "reve": {
   "slug": "suenos-lucidos",
   "seo": "Sueños lúcidos y significado de los sueños: cómo tenerlos",
-  "desc": "Qué son los sueños lúcidos y cómo tenerlos: técnicas MILD y WBTB, significado de los sueños, parálisis del sueño y una meditación guiada gratis.",
+  "desc": "Qué es un sueño lúcido, qué hay detrás y cómo tenerlo: técnicas MILD y WBTB paso a paso, qué no hacer, riesgos y una meditación guiada gratis.",
   "h1": "Sueños lúcidos: qué son y cómo tener tu primer sueño lúcido",
   "eyebrow": "Guía completa",
   "lead": "Los sueños lúcidos son esos momentos en que, en pleno sueño, te das cuenta de que estás soñando. Aquí descubrirás qué ha medido la ciencia, las técnicas más conocidas y cómo vivir la parálisis del sueño con calma.",
@@ -1074,11 +1140,23 @@
    },
    {
     "id": "ciencia",
-    "h2": "Lo que ha descubierto la ciencia sobre los sueños conscientes",
+    "h2": "¿Qué hay detrás de los sueños lúcidos? Lo que ha descubierto la ciencia",
     "p": [
      "Durante mucho tiempo, los sueños lúcidos parecieron imposibles de demostrar: ¿cómo probar que alguien es consciente mientras duerme? La respuesta llegó por los ojos. Durante el sueño REM, el cuerpo está casi inmóvil, pero los ojos siguen moviéndose.",
      "En 1975, el investigador británico Keith Hearne registró por primera vez señales oculares voluntarias enviadas por un soñador lúcido. Eran movimientos de izquierda a derecha, acordados antes de dormir. En los años ochenta, Stephen LaBerge confirmó y amplió estos trabajos en la Universidad de Stanford.",
-     "LaBerge desarrolló además la técnica MILD, que sigue siendo una de las más citadas. Desde entonces, los sueños conscientes se estudian en laboratorio. Se sabe que la lucidez aparece sobre todo en el sueño REM, cuando los sueños son más largos y vivos."
+     "LaBerge desarrolló además la técnica MILD, que sigue siendo una de las más citadas. Desde entonces, los sueños conscientes se estudian en laboratorio. Se sabe que la lucidez aparece sobre todo en el sueño REM, cuando los sueños son más largos y vivos.",
+     "Las imágenes del cerebro ayudan a entender qué hay detrás. Durante la lucidez, algunas zonas de la parte delantera del cerebro se activan más que en un sueño corriente. Son zonas ligadas a la reflexión y a la conciencia de uno mismo. Es como si una parte de la mente despierta se encendiera dentro del sueño.",
+     "En 2021, cuatro equipos de Estados Unidos, Francia, Alemania y los Países Bajos fueron aún más lejos. Plantearon preguntas sencillas, como restas, a soñadores lúcidos dormidos. Varios respondieron desde el sueño con movimientos de los ojos o de la cara, y algunas respuestas fueron correctas.",
+     "¿Son frecuentes? Una revisión de 2016, que reunió cincuenta años de estudios, estimó que algo más de la mitad de las personas ha tenido al menos un sueño lúcido. Cerca de una de cada cuatro los tiene una vez al mes o más."
+    ]
+   },
+   {
+    "id": "que-significa",
+    "h2": "¿Qué significa tener sueños lúcidos?",
+    "p": [
+     "Tener sueños lúcidos significa que una parte de tu atención sigue despierta mientras sueñas. No es señal de que algo vaya mal: es una capacidad natural, que muchas personas viven alguna vez. Suele aparecer cuando recuerdas bien tus sueños o cuando un detalle extraño te llama la atención.",
+     "Algunas personas los tienen a menudo desde la infancia, sin haberlos buscado. Los estudios indican que son más frecuentes en la niñez y la adolescencia, y que luego disminuyen. También se han observado más en personas que meditan con regularidad, aunque esa relación aún se estudia.",
+     "¿Y si tienes sueños lúcidos muy a menudo, sin quererlo? Si duermes bien y lo vives con gusto, no hay nada que cambiar. Si te despierta, te cansa o te inquieta, vuelve a noches sencillas y deja las técnicas de lucidez. Las tradiciones espirituales lo leen de muchas formas, y ninguna lectura es obligatoria."
     ]
    },
    {
@@ -1094,7 +1172,8 @@
     "id": "tecnicas",
     "h2": "Cómo tener sueños lúcidos: técnicas paso a paso",
     "p": [
-     "No existe un método que garantice un sueño lúcido. Estas técnicas para sueños lúcidos son las más estudiadas y las más practicadas. Puedes combinarlas, pero empieza por la primera: es la base de todas."
+     "No existe un método que garantice un sueño lúcido. Estas técnicas para sueños lúcidos son las más estudiadas y las más practicadas. Puedes combinarlas, pero empieza por la primera: es la base de todas.",
+     "¿Cuál funciona mejor? En 2020, un estudio internacional con 355 participantes comparó varias técnicas practicadas en casa. MILD y SSILD, usadas tras un despertar breve de madrugada, aumentaron las probabilidades de tener un sueño lúcido. Las pruebas de realidad, por sí solas, no mostraron un efecto claro."
     ],
     "steps": [
      [
@@ -1112,6 +1191,10 @@
      [
       "WBTB: despertarte y volver a dormir",
       "Pon un despertador suave unas cinco horas después de acostarte. Quédate despierto entre diez y treinta minutos, relee tu diario y vuelve a dormirte con la intención de MILD."
+     ],
+     [
+      "SSILD: los ciclos de los sentidos",
+      "Tras el despertar breve de WBTB, vuelve a acostarte y recorre tus sentidos en ciclos: la oscuridad tras los párpados, los sonidos de la habitación y el peso del cuerpo. Haz varios ciclos rápidos, luego otros más lentos, y duérmete sin esfuerzo."
      ],
      [
       "WILD, con prudencia",
@@ -1143,6 +1226,7 @@
     "p": [
      "Muchas personas viven los sueños lúcidos como una experiencia agradable, a veces maravillosa. No hay pruebas de que sean dañinos por sí mismos. Aun así, conviene cuidar dos cosas.",
      "La primera es el descanso. Despertarte en mitad de la noche para la técnica WBTB acorta tu sueño, así que no la practiques todas las noches. Cuida también tu higiene del sueño: horarios regulares, una habitación oscura y un rato sin pantallas antes de acostarte. La segunda es la frontera entre sueño y realidad: si alguna vez te cuesta distinguirlos, deja de practicar y vuelve a noches sencillas.",
+     "En 2019, los investigadores Raphael Vallat y Perrine Ruby se preguntaron si es buena idea cultivar los sueños lúcidos. Ven beneficios posibles, como vivir mejor las pesadillas. También piden prudencia con las técnicas que interrumpen el sueño, sobre todo en personas a las que ya les cuesta separar el sueño de la realidad.",
      "Si lo que buscas es sobre todo conciliar el sueño, una meditación para dormir te servirá más que una técnica de lucidez. Prueba la categoría [Cuerpo, calma y sueño](/es/meditaciones/meditacion-guiada-para-dormir.html) o los [sonidos para dormir](/es/sonidos-para-dormir.html). Te acompañan con suavidad, sin ninguna técnica que aprender."
     ]
    },
@@ -1153,6 +1237,21 @@
      "El primer reto es mantener la lucidez, porque la emoción del descubrimiento suele despertar. Para quedarte, frótate las manos dentro del sueño, mira el suelo o gira sobre ti mismo. Son trucos clásicos de los practicantes para estabilizar la escena.",
      "Después, casi todo es posible: volar, visitar un lugar querido, hablar con un personaje del sueño o hacerle una pregunta. Controlar los sueños por completo es raro, y tampoco es necesario. Muchos soñadores lúcidos prefieren observar y dejar que el sueño los sorprenda.",
      "Hay quien usa la lucidez para mirar de frente un sueño que se repite. En las pesadillas lúcidas, en lugar de huir, se gira y pregunta: «¿quién eres?». Es una forma suave de cambiar la relación con lo que asusta, sin forzarla."
+    ]
+   },
+   {
+    "id": "que-no-hacer",
+    "h2": "¿Qué no hacer en un sueño lúcido?",
+    "p": [
+     "En un sueño lúcido, conviene evitar sobre todo dos cosas: forzar el sueño y descuidar tu descanso. Estos son los errores más comunes al empezar, y cómo evitarlos:"
+    ],
+    "ul": [
+     "**Dejarte llevar por la euforia.** La emoción fuerte suele despertarte. Respira, frótate las manos y mira el suelo antes de hacer nada.",
+     "**Querer controlarlo todo de golpe.** Cambiar el escenario a la fuerza vuelve el sueño confuso o lo interrumpe. Empieza por un deseo pequeño, como tocar una pared.",
+     "**Mirar fijamente un solo punto.** Muchos soñadores cuentan que la escena se borra así. Mueve la mirada y toca lo que te rodea.",
+     "**Probar algo arriesgado para saber si sueñas.** Si dudas, haz una prueba de realidad tranquila, como releer una frase o mirarte las manos. Nunca hagas una prueba que sería peligrosa si estuvieras despierto.",
+     "**Obligarte a enfrentar lo que te asusta.** Mirar de frente una pesadilla puede ayudar, pero solo si te sientes con fuerzas. Despertarte también está permitido.",
+     "**Practicar todas las noches.** Las técnicas que te despiertan de madrugada acortan el descanso. Dos o tres noches por semana bastan."
     ]
    },
    {
@@ -1259,6 +1358,18 @@
    [
     "¿Tienen los sueños lúcidos significado espiritual?",
     "Para varias tradiciones, sí. En el budismo tibetano, el yoga del sueño usa la lucidez como entrenamiento. Reconocer que sueñas ayuda a soltar el apego a lo que ves. Otras corrientes ven en ella una puerta hacia el viaje astral. Ninguna de estas lecturas se ha comprobado. La lucidez, en cambio, sí se mide en laboratorio."
+   ],
+   [
+    "¿Cuánto dura un sueño lúcido?",
+    "A menudo, solo unos segundos: la emoción del descubrimiento te despierta. Con práctica, la lucidez puede durar varios minutos, a veces más. Los trucos de estabilización pueden ayudar, como frotarte las manos o girar sobre ti mismo dentro del sueño. En laboratorio, los soñadores lúcidos marcan el principio y el final con movimientos de los ojos."
+   ],
+   [
+    "¿Se puede tener un sueño lúcido todas las noches?",
+    "Algunas personas lo consiguen durante un tiempo, pero no es lo habitual ni hace falta. Lo más frecuente, incluso con práctica, es vivir unos pocos al mes. Proteger tu sueño importa más que la cantidad: no uses las técnicas que te despiertan de madrugada más de dos o tres noches por semana."
+   ],
+   [
+    "¿Los sueños lúcidos ayudan con las pesadillas?",
+    "Pueden ayudar a algunas personas. Saber que sueñas permite mirar la escena con más calma, e incluso cambiarla, y algunos estudios pequeños lo apoyan. No funciona igual para todo el mundo. Si las pesadillas son frecuentes o te pesan durante el día, pide consejo a un profesional."
    ]
   ],
   "blog": {
@@ -1721,7 +1832,7 @@
  "guides": {
   "slug": "guias-espirituales",
   "seo": "Guías espirituales y ángel de la guarda: quiénes son",
-  "desc": "Quiénes son los guías espirituales: ángel de la guarda, animal espiritual, maestros ascendidos, Buda y los bodhisattvas, con meditaciones guiadas gratis.",
+  "desc": "Quiénes son los guías espirituales y cómo saber cuál es el tuyo: ángel de la guarda, señales, una oración y una meditación en 6 pasos, gratis.",
   "h1": "Guías espirituales: quiénes son y cómo conectar con ellos",
   "eyebrow": "Guía completa",
   "lead": "Ángel de la guarda, animal espiritual, ancestro o maestro interior: los guías espirituales tienen muchos rostros. Aquí descubrirás lo que dicen las tradiciones, cómo conectar con ellos en meditación y cómo llevar un registro de tus encuentros.",
@@ -1735,6 +1846,22 @@
      "Un **guía espiritual** es una presencia que acompaña a alguien en su camino interior. Según las tradiciones, puede ser un ángel, un antepasado, un animal, un maestro o una parte más sabia de uno mismo. ¿Qué son los **guías espirituales**, entonces? Presencias con una misma función: acompañar, proteger, inspirar o aconsejar.",
      "Algunas personas los viven como seres reales, con su propia existencia. Otras los entienden como figuras de la vida interior, que dan forma a la intuición y a los recursos que ya llevamos dentro. Esta página respeta las dos lecturas. Para meditar con ellos, no necesitas decidir cuál es la tuya."
     ]
+   },
+   {
+    "id": "funcion",
+    "h2": "¿Cuál es la función de un guía espiritual?",
+    "p": [
+     "La función de un guía espiritual es acompañarte en tu camino interior: protegerte, aconsejarte e inspirarte, sin decidir por ti. Así lo describen casi todas las tradiciones, del ángel de la guarda al animal de poder. El guía no hace el camino en tu lugar: te ayuda a ver más claro.",
+     "En español, «guía espiritual» nombra también a una persona. En el cristianismo existe el acompañamiento espiritual, o dirección espiritual: alguien con experiencia ayuda a otra persona a discernir su camino. San Ignacio de Loyola le dio un lugar central en sus «Ejercicios espirituales», en el siglo XVI. En el budismo, ese papel lo tiene el maestro.",
+     "En los dos casos, invisible o de carne y hueso, un buen guía cumple funciones parecidas:"
+    ],
+    "ul": [
+     "**Acompañar.** Una presencia que te recuerda que no estás solo en los momentos difíciles.",
+     "**Proteger.** Una sensación de amparo, como la que se atribuye al ángel de la guarda.",
+     "**Aconsejar.** Una palabra, una imagen o una intuición que aclara una duda.",
+     "**Enseñar.** Una lección que vuelve hasta que la entiendes, a veces a través de los sueños."
+    ],
+    "tip": "Lo que no hace un guía también cuenta. Un guía, en el sentido de las tradiciones, no da órdenes, no asusta y no exige obediencia ni dinero. Si una figura interior, o una persona, hace algo así, toma distancia."
    },
    {
     "id": "tradiciones",
@@ -1789,6 +1916,30 @@
     ]
    },
    {
+    "id": "como-saber",
+    "h2": "¿Cómo saber quién es mi guía espiritual? Cuatro pistas",
+    "p": [
+     "Para saber quién es tu guía espiritual, lo más fiable es la experiencia repetida: una figura que vuelve, que te calma y que te ayuda. No hay test ni fecha de nacimiento que lo diga. Y no hace falta que tenga rostro: para muchas personas, el guía es una calma que se instala.",
+     "Ten paciencia. A veces el primer encuentro llega en la primera meditación; otras, tras semanas de práctica. Estas cuatro pistas te ayudan a reconocerlo:"
+    ],
+    "ul": [
+     "**Lo que aparece en meditación.** Una figura, un animal, una luz o una voz que se presenta cuando formulas la intención de conocer a tu guía.",
+     "**Lo que se repite en tus sueños.** Un personaje sabio o un animal que vuelve, sobre todo en los momentos importantes.",
+     "**Lo que te atrae desde siempre.** Un santo, un animal o un antepasado que te acompaña desde la infancia, sin que sepas bien por qué.",
+     "**Lo que sientes, más que lo que ves.** Una sensación de compañía o una intuición clara, sin imagen."
+    ],
+    "tip": "Una buena señal es el efecto: después del encuentro te sientes más tranquilo, más amable y con la mente más clara. Si te sientes juzgado, inquieto o empujado a actuar deprisa, desconfía."
+   },
+   {
+    "id": "manifiesta",
+    "h2": "¿Cómo se manifiesta un guía espiritual?",
+    "p": [
+     "Un guía espiritual se manifiesta sobre todo de forma interior: una imagen, una voz suave, una sensación de presencia o un calor en el pecho. Según los relatos, rara vez aparece como una visión exterior. Suele hacerlo en tres lugares: la meditación, los sueños y la vida diaria.",
+     "En meditación, llega a menudo como una figura en tu lugar seguro, o como una luz que se acerca. En sueños, aparece como un personaje sabio, un ser querido o un animal, con un mensaje sencillo que recuerdas al despertar. Muchas personas cuentan estas visitas en épocas de cambio.",
+     "En la vida diaria, la manifestación toma la forma de señales: coincidencias, palabras que llegan en el momento justo, un animal que se cruza varias veces en tu camino. Es la parte más delicada de interpretar, como verás a continuación."
+    ]
+   },
+   {
     "id": "senales",
     "h2": "Señales de los guías espirituales y pensamiento crítico",
     "p": [
@@ -1831,6 +1982,28 @@
      ]
     ],
     "warn": "Si en meditación aparece una figura que te asusta o te da órdenes, abre los ojos y para. Un guía, tal como lo describen las tradiciones, acompaña con bondad."
+   },
+   {
+    "id": "oracion",
+    "h2": "¿Qué oración sirve para llamar a tus guías espirituales?",
+    "p": [
+     "Cualquier oración sencilla y sincera sirve para llamar a tus guías espirituales: lo que cuenta es la intención, no la fórmula. Cada tradición tiene sus palabras. Aquí tienes tres posibilidades, de la más tradicional a la más libre."
+    ],
+    "cards": [
+     [
+      "La oración al ángel de la guarda",
+      "En la tradición católica, muchas personas la aprenden en la infancia: «Ángel de la guarda, dulce compañía, no me desampares ni de noche ni de día». Se reza al acostarse o al empezar el día."
+     ],
+     [
+      "El mantra de Tara verde",
+      "En el budismo tibetano, el mantra «Om Tare Tuttare Ture Soha» se recita para pedir la protección de Tara. Se repite despacio, en voz baja o en silencio."
+     ],
+     [
+      "Una invocación con tus palabras",
+      "Si no te identificas con ninguna religión, puedes usar tus propias palabras. Por ejemplo: «Invito a los guías que me acompañan con bondad a estar presentes. Me abro a lo que tengan que mostrarme, para mi bien y el de los demás. Gracias»."
+     ]
+    ],
+    "tip": "Para decirla, busca un momento tranquilo, respira hondo unas cuantas veces y habla despacio, en voz alta o por dentro. Después, quédate unos minutos en silencio, sin esperar nada concreto. Si llega una respuesta, suele llegar más tarde: en una meditación, un sueño o una idea clara."
    },
    {
     "id": "tipos",
@@ -1971,6 +2144,18 @@
    [
     "¿Los guías espirituales te eligen o los eliges tú?",
     "Muchas tradiciones dicen que el guía se presenta: no lo eliges tú, igual que el animal de poder del chamanismo. En meditación, basta con formular una intención y acoger lo que llegue. Si una figura no te hace bien, puedes despedirla: un guía acompaña con bondad."
+   ],
+   [
+    "¿Cuántos guías espirituales tiene una persona?",
+    "No hay una cifra común a todas las tradiciones. El cristianismo habla de un ángel de la guarda para cada persona. En la espiritualidad actual se suele decir que tenemos un guía principal y otros que llegan según la etapa de la vida. Lo importante no es contarlos, sino escuchar al que se presenta."
+   ],
+   [
+    "¿Cómo saber el nombre de mi guía espiritual?",
+    "Pregúntaselo en meditación y acoge la primera palabra que llegue, aunque te parezca extraña o banal. A veces no llega ningún nombre: puedes darle uno tú, con respeto, para llamarlo con facilidad. En la app, la meditación «El nombre y la señal», de 16 minutos, está pensada para eso."
+   ],
+   [
+    "¿Qué significa ver números repetidos, como 111 o 333?",
+    "Para muchas personas, son una señal de sus guías o una invitación a prestar atención. Ninguna tradición antigua fija su sentido, y el cerebro tiende a recordar las coincidencias que le llaman la atención. Puedes anotarlos sin interpretarlos enseguida, por ejemplo en «Signos y Sincronías», y ver con el tiempo si te dicen algo."
    ]
   ],
   "blog": {
