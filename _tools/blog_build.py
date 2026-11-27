@@ -595,6 +595,8 @@ def _img_slug(a, lang):
     from_slug = SCHEMA_FILES[a['image']][lang]
     return f'{from_slug}-{lang}.webp'
 
+DERNIERS = {'fr': 'Derniers articles', 'en': 'Latest articles', 'es': 'Últimos artículos'}
+
 def render_index(lang, arts):
     t = T[lang]
     pub = [a for a in arts if a.get('published')]
@@ -623,22 +625,27 @@ def render_index(lang, arts):
     CT, CTT = blog_hubs.CATS[lang], blog_hubs.CATS_T[lang]
     h += (f'<nav class="themes topnav" aria-label="{E(CTT[0])}"><h2>{E(CTT[0])}</h2><ul class="pill-list">'
           + ''.join(f'<li><a href="#cat-{g}">{E(CT[g][0])} <span class="nb">{len(par_cat[g])}</span></a></li>' for g in cats) + '</ul></nav>')
+    def carte(kind, a):
+        if kind == 'f':
+            th = f'<span class="th"><img src="../../assets/blog/{a["thumb"]}" alt="{E(a["alt"])}" loading="lazy" width="640" height="400"></span>'
+            return (f'<li><a href="{a["slug"]}.html">{th}<span class="tw"><h3>{E(a["title"])}</h3>'
+                    f'<p>{E(a["desc"])}</p><span class="d">{E(fmt_date(a["published"], lang))}</span></span></a></li>')
+        if a.get('image') is not None:
+            sl = SCHEMA_FILES[a['image']][lang]
+            alt = SCHEMA_PREFIX.sub('', HERO_ALTS.get((a['image'], lang), a['title'][lang]))
+            th = f'<span class="th"><img src="../../assets/blog/{sl}-{lang}.webp" alt="{E(alt)}" loading="lazy" width="88" height="88"></span>'
+        else:
+            th = '<span class="th n">✦</span>'
+        return (f'<li><a href="{a["slug"][lang]}.html">{th}<span class="tw"><h3>{E(a["title"][lang])}</h3>'
+                f'<p>{E(a["desc"][lang])}</p><span class="d">{E(fmt_date(a["published"], lang))}</span></span></a></li>')
+    # 27-11 (Edouard : « sur le site je ne vois aucun article de blog entre le 9/11 et le 23/11 ») : les articles étaient en ligne,
+    # mais rangés par catégorie — la première passait du 23 au 9 novembre. Les 7 derniers parus, toutes catégories, en tête du blog.
+    h += (f'<section class="bcat" id="derniers"><h2>{E(DERNIERS[lang])}</h2><ul class="alist">'
+          + ''.join(carte(kind, a) for kind, _, _, a, _ in entries[:7]) + '</ul></section>')
     for g in cats:
         h += f'<section class="bcat" id="cat-{g}"><h2>{E(CT[g][0])}</h2><p class="bcat-i">{E(CT[g][1])}</p><ul class="alist">'
         for kind, _, _, a, _ in par_cat[g]:
-            if kind == 'f':
-                th = f'<span class="th"><img src="../../assets/blog/{a["thumb"]}" alt="{E(a["alt"])}" loading="lazy" width="640" height="400"></span>'
-                h += (f'<li><a href="{a["slug"]}.html">{th}<span class="tw"><h3>{E(a["title"])}</h3>'
-                      f'<p>{E(a["desc"])}</p><span class="d">{E(fmt_date(a["published"], lang))}</span></span></a></li>')
-                continue
-            if a.get('image') is not None:
-                sl = SCHEMA_FILES[a['image']][lang]
-                alt = SCHEMA_PREFIX.sub('', HERO_ALTS.get((a['image'], lang), a['title'][lang]))
-                th = f'<span class="th"><img src="../../assets/blog/{sl}-{lang}.webp" alt="{E(alt)}" loading="lazy" width="88" height="88"></span>'
-            else:
-                th = '<span class="th n">✦</span>'
-            h += (f'<li><a href="{a["slug"][lang]}.html">{th}<span class="tw"><h3>{E(a["title"][lang])}</h3>'
-                  f'<p>{E(a["desc"][lang])}</p><span class="d">{E(fmt_date(a["published"], lang))}</span></span></a></li>')
+            h += carte(kind, a)
         h += '</ul>'
         hub = blog_hubs.group_link(lang, g, HUB_ACT)
         if hub: h += f'<p class="bcat-l"><a href="{hub}">{E(CTT[1].format(n=CT[g][0]))} →</a></p>'
