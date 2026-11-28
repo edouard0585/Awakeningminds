@@ -10,7 +10,7 @@
     "h2": "Des sons pour dormir venus de la nature",
     "p": [
      "Plutôt qu’une musique nature pour dormir, la famille Nature réunit cinq vrais enregistrements. Sous-bois et Grands Bois font entendre les bruits de la forêt et ses oiseaux, des Pays-Bas au grand Nord. Torrent suit un ruisseau des Highlands écossais. Vagues, enfin, t’offre le bruit des vagues pour dormir : celles de l’océan, qui viennent et repartent.",
-     "Si tu cherches un bruit de pluie pour dormir, choisis Après l’averse. C’est un son tout simple : la pluie y tombe sur une forêt tropicale. Tu préfères une histoire ? Le monde du Temple Ancien commence lui aussi sous une pluie douce, sur de vieilles pierres. Pour un bruit de pluie et d’orage, écoute le monde des Ruines Oubliées : un tonnerre lointain y gronde.",
+     "Si tu cherches un bruit de pluie pour dormir, choisis Après l’averse. Ce son de pluie pour dormir est tout simple : la pluie y tombe sur une forêt tropicale. Tu préfères une histoire ? Le monde du Temple Ancien commence lui aussi sous une pluie douce, sur de vieilles pierres. Pour un bruit de pluie et d’orage, écoute le monde des Ruines Oubliées : un tonnerre lointain y gronde.",
      "Ces sons de la nature pour dormir sont des prises de son réelles, pas des imitations. Tu aimes le bruit de la mer pour dormir ? Ferme les yeux : avec Vagues, l’océan s’installe dans la pièce."
     ]
    },
@@ -38,7 +38,7 @@
     ]
    },
    {
-    "h2": "Un minuteur pour un son seul, de 5 à 60 minutes",
+    "h2": "Musique pour dormir sans pub, avec minuteur de 5 à 60 minutes",
     "p": [
      "L’Ambiance minutée joue un son d’ambiance seul, pendant le temps que tu choisis : 5, 10, 15, 20, 30, 45 ou 60 minutes. À la fin, le son s’éteint dans un fondu de six secondes. Il continue même si l’écran se verrouille.",
      "Au coucher, c’est le plus simple : tu choisis un son et une durée, puis tu poses le téléphone. Tu n’as plus rien à faire. Tu veux une musique relaxante pour dormir 30 minutes, puis le silence ? Règle le minuteur sur 30.",
@@ -64,7 +64,7 @@
   "faq": [
    [
     "Les sons pour dormir sont-ils vraiment gratuits ?",
-    "Oui. Dans l’application, sons pour dormir, minuteur et méditations sont tous gratuits, sans abonnement ni achat intégré. Elle est disponible sur l’App Store et Google Play."
+    "Oui. Dans l’application, sons pour dormir, minuteur et méditations sont tous gratuits, sans abonnement ni achat intégré. C’est une musique gratuite pour dormir, sans pub, sur l’App Store comme sur Google Play."
    ],
    [
     "Y a-t-il du bruit blanc dans l’application ?",
@@ -206,7 +206,7 @@
   "lead": "Tu ne sais pas quelle méditation choisir ? Dis à l’Oracle comment tu te sens, avec tes propres mots. Il bat les cartes et en retourne trois : trois méditations guidées choisies pour ce moment précis.",
   "sections": [
    {
-    "h2": "Comment fonctionne l’Oracle ?",
+    "h2": "Comment l’Oracle t’aide à savoir quelle méditation choisir",
     "shot": "fr-03-oracle.webp",
     "p": [
      "En haut de l’écran, une seule question : « Comment te sens-tu ? ». Tu réponds comme tu parlerais à un ami : « je stresse avant mon entretien », « je n’arrive pas à dormir », « je me sens seul ce soir ».",
@@ -235,7 +235,7 @@
     ]
    },
    {
-    "h2": "Pourquoi un oracle pour méditer ?",
+    "h2": "Pourquoi un oracle de méditation ?",
     "p": [
      "Le plus difficile, souvent, n’est pas de méditer, c’est de choisir. Devant tant de séances, on hésite, on fait défiler, puis on repose le téléphone. L’Oracle ramène ce choix à une question simple et à trois réponses.",
      "Ce n’est pas de la divination : l’Oracle relie tes mots à des méditations. Tu cherches une guidance spirituelle gratuite ? Vois-le comme un compagnon de pratique, pas comme une prédiction. Le tirage des cartes est simplement une façon douce d’accueillir ce qui vient."
@@ -257,7 +257,7 @@
    ],
    [
     "L’Oracle remplace-t-il un professionnel ?",
-    "Non. Il propose des méditations de bien-être. Si tu traverses une période difficile, parles-en à un proche ou à un professionnel."
+    "Non. C’est un oracle de bien-être, qui propose des méditations. Si tu traverses une période difficile, parles-en à un proche ou à un professionnel."
    ],
    [
     "L’Oracle aide-t-il à améliorer son humeur ?",
@@ -265,7 +265,7 @@
    ],
    [
     "Comment savoir quelle méditation est faite pour moi ?",
-    "Pars de ce que tu ressens maintenant, pas d’une méthode idéale. Écris-le à l’Oracle en une phrase : il retourne trois cartes, trois séances possibles. Essaie celle qui t’attire, puis note ce qu’elle t’a apporté dans ton historique. Au fil des séances, tes préférences se dessinent d’elles-mêmes."
+    "Pour savoir quelle méditation choisir, pars de ce que tu ressens maintenant, pas d’une méthode idéale. Écris-le à l’Oracle en une phrase : il retourne trois cartes, trois séances possibles. Essaie celle qui t’attire, puis note ce qu’elle t’a apporté dans ton historique. Au fil des séances, tes préférences se dessinent d’elles-mêmes."
    ],
    [
     "Quel type de méditation choisir quand on débute ?",
@@ -276,12 +276,12 @@
  "dragon": {
   "slug": "dragon-compagnon-meditation",
   "seo": "Dragon compagnon : il grandit à chaque minute de méditation",
-  "desc": "Un œuf au départ, un dragon cosmique au bout : ton compagnon grandit avec tes minutes de méditation, en onze stades, sur son île. Gratuit, sans pub.",
+  "desc": "Un œuf au départ, un dragon cosmique au bout : ton dragon compagnon grandit avec tes minutes de méditation, en onze stades, sur son île. Gratuit, sans pub.",
   "h1": "Ton dragon compagnon grandit avec ta méditation",
-  "lead": "Dans MeditaDream, chaque minute de méditation fait grandir un compagnon : un dragon qui naît d’un œuf, change d’île en mûrissant, vole dans un ciel qui suit l’heure de ta journée et te parle avec un humour bien à lui.",
+  "lead": "Dans MeditaDream, chaque minute de méditation fait grandir ton dragon compagnon : il naît d’un œuf, change d’île en mûrissant, vole dans un ciel qui suit l’heure de ta journée et te parle avec un humour bien à lui.",
   "sections": [
    {
-    "h2": "Comment ton dragon grandit-il ?",
+    "h2": "Comment ton dragon compagnon grandit-il ?",
     "shot": "fr-01-accueil.webp",
     "p": [
      "Il grandit avec le total de tes minutes de méditation, en onze stades. L’œuf éclot après 10 minutes, le jeune dragon arrive au bout d’une heure de pratique, l’explorateur à 300 minutes, le gardien à 1 000, et le dragon cosmique, le dernier stade, à 4 000 minutes."
@@ -337,14 +337,14 @@
   "faq": [
    [
     "Le dragon grandit-il avec les méditations courtes ?",
-    "Oui : il compte toutes tes minutes, celles des pauses de 3 minutes comme celles des voyages de 40 minutes."
+    "Oui : il compte toutes tes minutes, celles d’une méditation de 3 minutes comme celles des voyages de 40 minutes."
    ],
    [
     "Que se passe-t-il si j’arrête quelques jours ?",
     "Il ne rétrécit pas et ne perd rien : il s’ennuie un peu, puis il se réjouit de ton retour."
    ],
    [
-    "Le dragon est-il payant ?",
+    "Le dragon compagnon est-il payant ?",
     "Non. Comme toute l’application, il est gratuit, sans publicité ni compte."
    ],
    [
@@ -374,8 +374,8 @@
    {
     "h2": "Comment tenir un journal de rêves ?",
     "ol": [
-     "Garde ton téléphone près du lit et ouvre le journal des rêves dès le réveil, avant de te lever : c’est le meilleur moment pour noter tes rêves.",
-     "Note ce qui reste, même un fragment : une image, un lieu, une émotion. Ne cherche pas à tout raconter. Noter chaque matin peut aussi t’aider à te souvenir de tes rêves.",
+     "Garde ton téléphone près du lit et ouvre le journal des rêves dès le réveil, avant de te lever : c’est le meilleur moment pour noter ses rêves.",
+     "Note ce qui reste, même un fragment : une image, un lieu, une émotion. Ne cherche pas à tout raconter. Noter chaque matin peut aussi aider à se souvenir de ses rêves.",
      "Ajoute un mot sur ce que le rêve t’a fait ressentir.",
      "Relis tes notes chaque semaine : les rêves qui reviennent et les symboles qui insistent apparaissent d’eux-mêmes. C’est aussi le premier pas vers le rêve lucide."
     ]
@@ -388,7 +388,7 @@
     ]
    },
    {
-    "h2": "Tes écrits restent à toi",
+    "h2": "Ton journal personnel reste à toi",
     "p": [
      "Tout reste sur ton téléphone : pas de compte, pas de nuage, rien n’est envoyé. Chaque entrée te rapporte un point, comme chaque méditation, et l’Oracle s’appuie sur tes journaux, sur place, pour te proposer des conseils qui te ressemblent. Ce n’est donc pas un journal personnel en ligne : c’est un journal intime qui ne quitte pas ta poche."
     ]
@@ -397,7 +397,7 @@
   "faq": [
    [
     "Les journaux sont-ils privés ?",
-    "Oui. Ils restent sur ton téléphone, sans compte ni envoi."
+    "Oui. Ton journal personnel reste sur ton téléphone, sans compte ni envoi."
    ],
    [
     "Combien coûtent les journaux ?",
@@ -415,9 +415,9 @@
  },
  "creer": {
   "slug": "creer-sa-meditation-guidee",
-  "seo": "Créer sa propre méditation guidée gratuite : écris ton texte",
+  "seo": "Créer une méditation guidée gratuite : écris ton texte",
   "desc": "Comment créer une méditation guidée ? Il suffit d’écrire ton texte, une phrase par ligne : l’app le lit à voix haute, pauses comprises, hors ligne. Gratuit.",
-  "h1": "Mes méditations : écris ta propre méditation guidée",
+  "h1": "Mes méditations : créer une méditation guidée avec ton texte",
   "lead": "Une phrase qui t’aide, un rituel du matin, une visualisation à toi : dans « Mes méditations », tu écris tes propres textes, et l’application te les lit à voix haute, avec les silences que tu choisis. Créer une méditation guidée ne demande ni micro ni montage : il suffit de l’écrire, et tu obtiens une méditation personnalisée.",
   "sections": [
    {
@@ -474,11 +474,11 @@
    ],
    [
     "Comment écrire une méditation guidée quand on débute ?",
-    "Commence court : cinq à dix phrases, au présent, une consigne par ligne. Suis un ordre naturel : s’installer, respirer, porter l’attention sur une chose, puis revenir. Laisse des silences, et relis ton texte à voix haute avant de l’enregistrer."
+    "Pour créer une méditation guidée, commence court : cinq à dix phrases, au présent, une consigne par ligne. Suis un ordre naturel : s’installer, respirer, porter l’attention sur une chose, puis revenir. Laisse des silences, et relis ton texte à voix haute avant de l’enregistrer."
    ],
    [
     "Puis-je faire lire un texte de méditation que j’ai déjà ?",
-    "Oui. Colle dans « Mes méditations » un texte de méditation à lire, un script de relaxation guidée ou tout autre texte, une phrase par ligne, puis relis-le. L’application le lit à voix haute, pauses comprises. Garde-le pour ton usage personnel s’il n’est pas de toi."
+    "Oui. Colle dans « Mes méditations » un texte de méditation à lire, un script de méditation guidée, un texte de relaxation guidée ou tout autre texte, une phrase par ligne, puis relis-le. L’application le lit à voix haute, pauses comprises. Garde-le pour ton usage personnel s’il n’est pas de toi."
    ]
   ]
  },
@@ -486,7 +486,7 @@
   "slug": "video-application-meditation",
   "seo": "MeditaDream en vidéo : visite de l’appli de méditation",
   "desc": "Regarde l’appli de méditation MeditaDream filmée sur iPhone en 2 min 23 : l’Oracle, les mondes immersifs, les méditations guidées, tes guides et tes journaux.",
-  "h1": "MeditaDream en vidéo : l’application de méditation, écran par écran",
+  "h1": "L’appli de méditation MeditaDream en vidéo, écran par écran",
   "lead": "Avant de télécharger cette appli de méditation, regarde-la tourner. Cette visite a été filmée sur un iPhone : tu vois l’application de méditation guidée telle qu’elle s’affiche sur ton téléphone. Touche un moment de la liste pour y aller directement.",
   "video": {
    "name": "MeditaDream — l’application de méditation gratuite en vidéo",
@@ -561,7 +561,7 @@
   ],
   "sections": [
    {
-    "h2": "Tout ce que tu vois est gratuit",
+    "h2": "Tout ce que tu vois dans l’appli de méditation est gratuit",
     "p": [
      "MeditaDream est une application de méditation gratuite, sans abonnement : rien de ce que montre cette vidéo n’est payant. Il n’y a pas de publicité et pas de compte à créer.",
      "Une connexion sert seulement à télécharger une séance la première fois. Ensuite, elle s’écoute hors ligne, dans le train, en avion ou en montagne."
@@ -579,14 +579,14 @@
    ],
    [
     "Tout ce qu’on voit dans la vidéo est-il gratuit ?",
-    "Oui, tout : pas d’abonnement, pas de publicité, pas de compte. Tes journaux et tes notes restent sur ton téléphone."
+    "Oui, tout : dans cette appli de méditation, pas d’abonnement, pas de publicité, pas de compte. Tes journaux et tes notes restent sur ton téléphone."
    ],
    [
     "L’application de méditation est-elle en français ?",
     "Oui. La vidéo montre la version française : les écrans, les voix et les méditations guidées sont en français. L’application existe aussi en anglais et en espagnol, sur iPhone comme sur Android, et tu peux changer de langue à tout moment dans les paramètres."
    ],
    [
-    "Comment se faire un avis sur une application de méditation ?",
+    "Application de méditation : avis ou essai, comment se décider ?",
     "Le plus simple est de la voir fonctionner. Cette vidéo montre les écrans tels qu’ils s’affichent sur un iPhone, sans mise en scène. Tu peux aussi lire les avis laissés sur l’App Store et sur Google Play. Et comme l’application est gratuite, l’essayer ne t’engage à rien."
    ]
   ]
@@ -595,13 +595,13 @@
   "slug": "alternative-gratuite-petit-bambou-calm-headspace",
   "seo": "Appli de méditation gratuite sans abonnement vs Petit BamBou",
   "desc": "Petit BamBou, Calm ou Headspace : prix, essai gratuit et compte comparés (15/11/2026). MeditaDream, application de méditation gratuite sans abonnement.",
-  "h1": "Une alternative gratuite à Petit BamBou, Calm et Headspace : l’application de méditation sans abonnement",
+  "h1": "L’application de méditation gratuite sans abonnement : une alternative à Petit BamBou, Calm et Headspace",
   "lead": "Petit BamBou, Calm et Headspace sont des applications soignées. Mais au-delà d’un essai gratuit ou d’une version découverte, elles demandent un abonnement. MeditaDream est une application de méditation gratuite sans abonnement : pas de pub, pas de compte, et des méditations guidées en français, même hors ligne.",
   "sections": [
    {
     "h2": "Petit BamBou, Calm, Headspace : le prix de chaque abonnement",
     "p": [
-     "Voici un comparatif des applications de méditation, pour un même besoin : écouter des méditations guidées sur ton téléphone. Les prix sont ceux affichés sur l’App Store France."
+     "Voici un comparatif des applications de méditation gratuites et payantes : Petit BamBou, Calm, Headspace, Insight Timer et MeditaDream. Le besoin est le même pour toutes : écouter des méditations guidées sur ton téléphone. Les prix sont ceux affichés sur l’App Store France."
     ],
     "table": {
      "head": [
@@ -692,8 +692,8 @@
    {
     "h2": "Petit BamBou est-il gratuit ou payant ?",
     "p": [
-     "Les deux. Sans abonnement, Petit BamBou propose une version gratuite sans limite de temps : un programme de découverte de la méditation, des séances du jour et un exercice de cohérence cardiaque. Elle demande de créer un compte, gratuit, mais pas de carte bancaire.",
-     "Pour le reste du catalogue, il faut s’abonner : 9,99 € par mois, 41,99 € pour six mois ou 69,99 € par an sur l’App Store France."
+     "Les deux. Petit BamBou, sans abonnement, propose une version gratuite sans limite de temps : un programme de découverte de la méditation, des séances du jour et un exercice de cohérence cardiaque. Elle demande de créer un compte, gratuit, mais pas de carte bancaire.",
+     "Pour le reste du catalogue, il faut s’abonner : chez Petit BamBou, le prix de l’abonnement est de 9,99 € par mois, 41,99 € pour six mois ou 69,99 € par an sur l’App Store France."
     ]
    },
    {
@@ -783,7 +783,7 @@
     "En partie : selon sa fiche, une partie des programmes est gratuite. L’abonnement se règle par achats intégrés, de 12,99 € à 64,99 € sur l’App Store France (relevé le 15 novembre 2026)."
    ],
    [
-    "Peut-on utiliser Petit BamBou sans inscription ?",
+    "Petit BamBou gratuit sans inscription : est-ce possible ?",
     "Non : sa version gratuite demande un compte, gratuit. MeditaDream ne demande ni compte ni email."
    ],
    [
@@ -796,7 +796,7 @@
    ],
    [
     "Quelle est la meilleure application de méditation gratuite ?",
-    "Ça dépend de ce que tu cherches. Regarde trois points : ce qui est vraiment gratuit, s’il faut un compte et si l’écoute marche hors ligne. MeditaDream est gratuite en entier, sans compte, et s’écoute hors ligne, en français."
+    "Ça dépend de ce que tu cherches. Regarde trois points : ce qui est vraiment gratuit, s’il faut un compte et si l’écoute marche hors ligne. MeditaDream est une application de méditation gratuite sans abonnement ni compte, qui s’écoute hors ligne, en français."
    ],
    [
     "MeditaDream est-elle vraiment gratuite ?",
@@ -809,7 +809,7 @@
   "seo": "À propos de MeditaDream : une app de méditation gratuite",
   "desc": "MeditaDream, application de méditation totalement gratuite, sans publicité ni compte : qui l’a créée, comment sont faits ses articles et ses méditations.",
   "h1": "MeditaDream, une application de méditation gratuite par choix",
-  "lead": "MeditaDream est une application de méditation guidée en français, totalement gratuite et sans publicité. Elle s’utilise sans compte, et hors ligne une fois les séances téléchargées. Voici pourquoi nous l’avons voulue ainsi, et comment nous travaillons.",
+  "lead": "MeditaDream est une application de méditation guidée en français, totalement gratuite et sans publicité. Elle s’utilise sans compte, et la méditation se fait hors ligne une fois les séances téléchargées. Voici pourquoi nous l’avons voulue ainsi, et comment nous travaillons.",
   "sections": [
    {
     "h2": "Notre mission : la méditation gratuite, pour tout le monde",
@@ -866,7 +866,7 @@
   "faq": [
    [
     "MeditaDream, c’est quoi ?",
-    "Une application de méditation guidée pour iPhone et Android, en français, en anglais et en espagnol. Elle réunit 144 méditations guidées, 17 mondes immersifs, des journaux et des sons d’ambiance. Elle est gratuite, sans publicité ni compte. Tu peux télécharger MeditaDream sur l’App Store et sur Google Play, puis l’utiliser hors ligne une fois les séances téléchargées."
+    "Une application de méditation guidée gratuite, en français, en anglais et en espagnol, pour iPhone et Android. Elle réunit 144 méditations guidées, 17 mondes immersifs, des journaux et des sons d’ambiance, sans publicité ni compte. Tu peux télécharger MeditaDream sur l’App Store et sur Google Play, puis l’utiliser hors ligne une fois les séances téléchargées."
    ],
    [
     "MeditaDream est-elle vraiment gratuite ?",
@@ -885,7 +885,7 @@
     "Non. Elles sont faites pour la détente, l’exploration intérieure et le bien-être. Si tu traverses une période difficile, parles-en à un professionnel."
    ],
    [
-    "Où lire des avis sur MeditaDream ?",
+    "MeditaDream : quels avis, et où les lire ?",
     "Sur la fiche de l’application, dans l’App Store et sur Google Play : chacun peut y noter MeditaDream et y laisser un avis. Si tu utilises l’application, ton avis aide d’autres personnes à la découvrir. Pour une question ou un problème, passe plutôt par la page Assistance du site : de vraies personnes lisent chaque message."
    ]
   ]

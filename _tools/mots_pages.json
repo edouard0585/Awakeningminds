@@ -1,0 +1,1607 @@
+{
+ "_note": "28-11 — mot principal et second de chaque page (chantier SEO) : lus par mots_medias.py (images, partage, audio).",
+ "/en/": {
+  "p": "free meditation app",
+  "s": "guided meditation app"
+ },
+ "/en/about.html": {
+  "p": "MeditaDream",
+  "s": null
+ },
+ "/en/astral-projection.html": {
+  "p": "astral projection",
+  "s": "astral travel"
+ },
+ "/en/blog/": {
+  "p": "meditation blog",
+  "s": "learn how to meditate"
+ },
+ "/en/blog/4-week-beginner-meditation-program.html": {
+  "p": "meditation course for beginners",
+  "s": "free meditation course"
+ },
+ "/en/blog/5-minute-meditation.html": {
+  "p": "5 minute mindfulness meditation",
+  "s": null
+ },
+ "/en/blog/altered-states-of-consciousness.html": {
+  "p": "what is an altered state of consciousness",
+  "s": "examples of altered states of consciousness"
+ },
+ "/en/blog/aprendeblog-community-of-knowledge.html": {
+  "p": "Aprendeblog",
+  "s": "community of knowledge"
+ },
+ "/en/blog/bedtime-routine-15-minutes-before-sleep.html": {
+  "p": "bedtime routine",
+  "s": "night routine"
+ },
+ "/en/blog/best-time-to-meditate-morning-or-evening.html": {
+  "p": "best time to meditate",
+  "s": "meditate in the morning or at night"
+ },
+ "/en/blog/blocked-root-chakra-signs-grounding.html": {
+  "p": "root chakra",
+  "s": "grounding exercises"
+ },
+ "/en/blog/body-scan-meditation.html": {
+  "p": "body scan meditation",
+  "s": "relax the body"
+ },
+ "/en/blog/breathing-exercises-to-calm-down.html": {
+  "p": "box breathing",
+  "s": "4-7-8 breathing"
+ },
+ "/en/blog/breathing-techniques-meditation.html": {
+  "p": "breathing exercises",
+  "s": "breathing techniques"
+ },
+ "/en/blog/chakra-locations-explained.html": {
+  "p": "chakra locations",
+  "s": "chakras explained"
+ },
+ "/en/blog/chakras-and-energy.html": {
+  "p": "life force energy",
+  "s": "chi energy"
+ },
+ "/en/blog/crying-during-meditation-is-it-normal.html": {
+  "p": "crying during meditation",
+  "s": "why do I cry when I meditate"
+ },
+ "/en/blog/daily-meditation-habit.html": {
+  "p": "daily meditation",
+  "s": "how to start a daily meditation practice"
+ },
+ "/en/blog/emotions-and-inner-life.html": {
+  "p": "how to process emotions",
+  "s": "calm the mind"
+ },
+ "/en/blog/find-your-power-animal-shamanic-journey.html": {
+  "p": "spirit animal",
+  "s": "power animal"
+ },
+ "/en/blog/guided-sleep-meditation.html": {
+  "p": "how to fall asleep fast",
+  "s": "how to fall back asleep"
+ },
+ "/en/blog/happiness-skill-learn-to-be-happy.html": {
+  "p": "positive psychology",
+  "s": "is happiness a choice"
+ },
+ "/en/blog/how-to-astral-project-step-by-step.html": {
+  "p": "how to astral project",
+  "s": "how to astral travel"
+ },
+ "/en/blog/how-to-deal-with-thoughts-in-meditation.html": {
+  "p": "mindfulness for overthinking",
+  "s": "how to meditate and clear your mind"
+ },
+ "/en/blog/how-to-do-shadow-work.html": {
+  "p": "how to do shadow work",
+  "s": "shadow work prompts"
+ },
+ "/en/blog/how-to-lucid-dream.html": {
+  "p": "how to lucid dream",
+  "s": "how to lucid dream tonight"
+ },
+ "/en/blog/how-to-open-heart-chakra.html": {
+  "p": "how to open your heart chakra",
+  "s": "heart chakra meditation"
+ },
+ "/en/blog/how-to-start-meditating-beginners-guide.html": {
+  "p": "how to meditate",
+  "s": "meditation guide"
+ },
+ "/en/blog/hypnosis-vs-meditation-differences.html": {
+  "p": "hypnosis vs meditation",
+  "s": "how does hypnosis work"
+ },
+ "/en/blog/loving-kindness-meditation.html": {
+  "p": "metta loving kindness meditation",
+  "s": "loving kindness meditation script"
+ },
+ "/en/blog/meditation-benefits-science.html": {
+  "p": "benefits of meditation",
+  "s": "benefits of meditation science"
+ },
+ "/en/blog/meditation-posture-4-positions.html": {
+  "p": "best meditation posture",
+  "s": "meditation positions"
+ },
+ "/en/blog/meditation-practice.html": {
+  "p": "how to do meditation correctly",
+  "s": "beginners guide to meditation"
+ },
+ "/en/blog/meditation-symbols-and-meanings.html": {
+  "p": "meditation symbols",
+  "s": "meditation symbols and meanings"
+ },
+ "/en/blog/meditation-techniques-complete-guide.html": {
+  "p": "mindfulness techniques",
+  "s": "types of meditation"
+ },
+ "/en/blog/morning-meditation.html": {
+  "p": "10 minute morning meditation",
+  "s": "morning meditation routine"
+ },
+ "/en/blog/pilgrimage-without-religion-camino-shikoku.html": {
+  "p": "camino de santiago pilgrimage",
+  "s": "shikoku pilgrimage"
+ },
+ "/en/blog/qigong-for-beginners-5-movements.html": {
+  "p": "qigong exercises",
+  "s": "10 minute qigong"
+ },
+ "/en/blog/sacred-places-and-wisdom.html": {
+  "p": "spiritual pilgrimage",
+  "s": "sacred geography"
+ },
+ "/en/blog/shadow-work-jung-hidden-strengths.html": {
+  "p": "shadow work",
+  "s": "jungian shadow"
+ },
+ "/en/blog/shamanism.html": {
+  "p": "history of shamanism",
+  "s": "shamanic traditions"
+ },
+ "/en/blog/sleep-and-dreams.html": {
+  "p": "how to sleep better",
+  "s": "what to do when you can't sleep"
+ },
+ "/en/blog/third-eye-pineal-gland-intuition.html": {
+  "p": "third eye meaning",
+  "s": "pineal gland third eye"
+ },
+ "/en/blog/three-worlds-shamanism-lower-middle-upper.html": {
+  "p": "world tree",
+  "s": "axis mundi"
+ },
+ "/en/blog/trance-and-altered-states.html": {
+  "p": "altered states of consciousness",
+  "s": "meditation and trance"
+ },
+ "/en/blog/walking-meditation.html": {
+  "p": "walking meditation",
+  "s": "walking mindfulness"
+ },
+ "/en/blog/what-is-mindfulness.html": {
+  "p": "what is mindfulness",
+  "s": "how to practice mindfulness"
+ },
+ "/en/blog/what-is-trance-altered-state.html": {
+  "p": "trance meaning",
+  "s": "trance state"
+ },
+ "/en/blog/yoga-nidra-benefits-sleep-nsdr.html": {
+  "p": "yoga nidra for sleep",
+  "s": "10 minute yoga nidra"
+ },
+ "/en/chakra-meditation.html": {
+  "p": "chakras",
+  "s": "chakra meditation"
+ },
+ "/en/dream-journal-app.html": {
+  "p": "dream journal",
+  "s": "dream diary"
+ },
+ "/en/emotional-growth.html": {
+  "p": "emotion wheel",
+  "s": "feelings wheel"
+ },
+ "/en/free-headspace-alternative.html": {
+  "p": "free headspace alternative",
+  "s": "is headspace free"
+ },
+ "/en/gratitude-journal.html": {
+  "p": "gratitude journal app",
+  "s": "gratitude meditation"
+ },
+ "/en/guided-breathing-exercises.html": {
+  "p": "guided breathing exercises",
+  "s": "4 7 8 breathing"
+ },
+ "/en/guided-imagery-visualization.html": {
+  "p": "guided imagery",
+  "s": "visualization techniques"
+ },
+ "/en/lucid-dreaming-meditation.html": {
+  "p": "lucid dreaming",
+  "s": "how to have a lucid dream"
+ },
+ "/en/meditation-app-demo-video.html": {
+  "p": "meditation app demo",
+  "s": "meditation app features"
+ },
+ "/en/meditation-app-for-teams.html": {
+  "p": "workplace meditation",
+  "s": "mindfulness in the workplace"
+ },
+ "/en/meditation-dragon-companion.html": {
+  "p": "dragon meditation",
+  "s": "meditation motivation"
+ },
+ "/en/meditation-oracle.html": {
+  "p": "which meditation is right for me",
+  "s": "meditation oracle"
+ },
+ "/en/meditation-timer.html": {
+  "p": "meditation timer app",
+  "s": "silent meditation"
+ },
+ "/en/meditations/": {
+  "p": "free guided meditation",
+  "s": "guided meditation for sleep and anxiety"
+ },
+ "/en/meditations/4-minute-meditation.html": {
+  "p": "quick meditation for anxiety",
+  "s": "5 minute meditation for anxiety"
+ },
+ "/en/meditations/akashic-records-meditation.html": {
+  "p": "akashic records",
+  "s": "grief meditation"
+ },
+ "/en/meditations/astral-projection-exercises.html": {
+  "p": "out of body experience",
+  "s": "astral projection for beginners"
+ },
+ "/en/meditations/buddhist-guided-meditation.html": {
+  "p": "buddhist meditation",
+  "s": "bodhisattva"
+ },
+ "/en/meditations/deep-trance-journey-techniques.html": {
+  "p": "how to do self hypnosis",
+  "s": "deep trance"
+ },
+ "/en/meditations/guided-astral-projection-meditation.html": {
+  "p": "guided astral projection meditation",
+  "s": "guided astral travel meditation"
+ },
+ "/en/meditations/guided-journey-meditation.html": {
+  "p": "story meditation",
+  "s": null
+ },
+ "/en/meditations/guided-sleep-meditation.html": {
+  "p": "sleep meditation",
+  "s": "bedtime meditation"
+ },
+ "/en/meditations/guided-trance-meditation.html": {
+  "p": "waking dream",
+  "s": "trance meditation"
+ },
+ "/en/meditations/guided-visualization-meditation.html": {
+  "p": "visualization meditation",
+  "s": "guided imagery meditation"
+ },
+ "/en/meditations/meditation-for-beginners.html": {
+  "p": "guided meditation for beginners",
+  "s": "guided mindfulness meditation"
+ },
+ "/en/meditations/non-dual-awareness-meditation.html": {
+  "p": "spiritual awakening",
+  "s": "non dual meditation"
+ },
+ "/en/meditations/qigong-meditation.html": {
+  "p": "qigong meditation",
+  "s": "qigong for beginners"
+ },
+ "/en/meditations/sacred-places-guided-meditation.html": {
+  "p": "sacred places",
+  "s": "nature meditation"
+ },
+ "/en/meditations/self-love-and-gratitude-meditation.html": {
+  "p": "self compassion",
+  "s": "self love meditation"
+ },
+ "/en/meditations/shadow-work-meditation.html": {
+  "p": "shadow work meditation",
+  "s": "inner child meditation"
+ },
+ "/en/meditations/shamanic-journey-meditation.html": {
+  "p": "shamanic journey meditation",
+  "s": "shamanic meditation"
+ },
+ "/en/meditations/spirit-guide-meditation.html": {
+  "p": "spirit guide meditation",
+  "s": "how to meet your spirit guide"
+ },
+ "/en/meditations/third-eye-meditation.html": {
+  "p": "third eye chakra meditation",
+  "s": "how to open your third eye"
+ },
+ "/en/meditations/world-meditations.html": {
+  "p": "forest bathing",
+  "s": null
+ },
+ "/en/qigong.html": {
+  "p": "qigong",
+  "s": "tai chi vs qigong"
+ },
+ "/en/sessions/bodhi-tree-meditation.html": {
+  "p": "bodhi tree meditation",
+  "s": "buddha's enlightenment"
+ },
+ "/en/sessions/bodhisattva-tara-meditation.html": {
+  "p": "bodhisattva tara",
+  "s": "tibetan buddhism"
+ },
+ "/en/sessions/breathing-exercises-for-sleep.html": {
+  "p": "breathing exercises for sleep",
+  "s": "relaxation for sleep"
+ },
+ "/en/sessions/chakra-sleep-meditation.html": {
+  "p": "chakra sleep meditation",
+  "s": "seven chakras"
+ },
+ "/en/sessions/deep-sleep-meditation.html": {
+  "p": "deep sleep meditation",
+  "s": "night meditation"
+ },
+ "/en/sessions/fear-of-abandonment-meditation.html": {
+  "p": "fear of abandonment",
+  "s": "guided meditation for anxiety"
+ },
+ "/en/sessions/fear-of-failure-meditation.html": {
+  "p": "fear of failure",
+  "s": "10 minute meditation for anxiety"
+ },
+ "/en/sessions/guanyin-bodhisattva-meditation.html": {
+  "p": "guanyin bodhisattva",
+  "s": "buddhist compassion meditation"
+ },
+ "/en/sessions/guided-breathing-meditation.html": {
+  "p": "breathing meditation",
+  "s": "mindfulness exercises"
+ },
+ "/en/sessions/guided-compassion-meditation.html": {
+  "p": "compassion meditation",
+  "s": "inner compassion"
+ },
+ "/en/sessions/guided-forgiveness-meditation.html": {
+  "p": "forgiveness meditation",
+  "s": "guided forgiveness meditation"
+ },
+ "/en/sessions/guided-gratitude-meditation.html": {
+  "p": "gratitude meditation",
+  "s": "meditation and gratitude"
+ },
+ "/en/sessions/how-to-calm-down-quickly.html": {
+  "p": "how to calm down quickly",
+  "s": "how to relieve anxiety quickly"
+ },
+ "/en/sessions/how-to-do-vipassana-meditation.html": {
+  "p": "how to do vipassana meditation",
+  "s": "vipassana buddhism"
+ },
+ "/en/sessions/maitreya-buddha-meditation.html": {
+  "p": "maitreya buddha",
+  "s": "gautama buddha"
+ },
+ "/en/sessions/meditation-and-anger.html": {
+  "p": "meditation and anger",
+  "s": "3 minute meditation"
+ },
+ "/en/sessions/microcosmic-orbit-meditation.html": {
+  "p": "microcosmic orbit meditation",
+  "s": "qigong breathing"
+ },
+ "/en/sessions/past-life-meditation.html": {
+  "p": "past life meditation",
+  "s": "past lives"
+ },
+ "/en/sessions/self-forgiveness-meditation.html": {
+  "p": "self forgiveness meditation",
+  "s": "how to process guilt"
+ },
+ "/en/sessions/standing-tree-meditation.html": {
+  "p": "tree meditation",
+  "s": null
+ },
+ "/en/shamanic-trance.html": {
+  "p": "shamanism",
+  "s": "shamanic trance"
+ },
+ "/en/sleep-sounds.html": {
+  "p": "sleep sounds no ads",
+  "s": "rain sounds for sleep"
+ },
+ "/en/spirit-guides.html": {
+  "p": "spirit guides",
+  "s": "how to connect with your spirit guides"
+ },
+ "/en/worlds/": {
+  "p": "immersive meditation",
+  "s": "guided visualization"
+ },
+ "/en/worlds/ancient-temple-guided-visualization.html": {
+  "p": "temple meditation",
+  "s": "candle meditation"
+ },
+ "/en/worlds/atlantis-underwater-guided-meditation.html": {
+  "p": "underwater meditation",
+  "s": "ocean meditation"
+ },
+ "/en/worlds/celestial-library-guided-meditation.html": {
+  "p": "akashic library",
+  "s": "akashic meditation"
+ },
+ "/en/worlds/cosmic-temple-guided-meditation.html": {
+  "p": "cosmic meditation",
+  "s": "guided journey meditation"
+ },
+ "/en/worlds/crystal-cave-guided-visualization.html": {
+  "p": "crystal cave meditation",
+  "s": "clarity meditation"
+ },
+ "/en/worlds/desert-oasis-guided-visualization.html": {
+  "p": "oasis meditation",
+  "s": "desert meditation"
+ },
+ "/en/worlds/enchanted-forest-guided-meditation.html": {
+  "p": "enchanted forest meditation",
+  "s": "forest visualization"
+ },
+ "/en/worlds/floating-island-guided-visualization.html": {
+  "p": "safe place visualization",
+  "s": "island meditation"
+ },
+ "/en/worlds/frozen-sanctuary-guided-meditation.html": {
+  "p": "winter meditation",
+  "s": "ice meditation"
+ },
+ "/en/worlds/galaxy-guided-meditation.html": {
+  "p": "space meditation",
+  "s": "galaxy meditation"
+ },
+ "/en/worlds/grounding-earth-guided-visualization.html": {
+  "p": "grounding meditation",
+  "s": "earth meditation"
+ },
+ "/en/worlds/himalayan-monastery-sunrise-meditation.html": {
+  "p": "mountain meditation",
+  "s": "sunrise meditation"
+ },
+ "/en/worlds/jungle-ruins-guided-visualization.html": {
+  "p": "jungle meditation",
+  "s": "rainforest meditation"
+ },
+ "/en/worlds/mirror-dimension-guided-meditation.html": {
+  "p": "self awareness meditation",
+  "s": "mirror meditation"
+ },
+ "/en/worlds/tree-of-life-guided-meditation.html": {
+  "p": "tree of life meditation",
+  "s": "tree visualization"
+ },
+ "/en/worlds/wolf-spirit-guided-meditation.html": {
+  "p": "wolf spirit animal",
+  "s": "wolf meditation"
+ },
+ "/en/worlds/zen-garden-guided-meditation.html": {
+  "p": "zen meditation",
+  "s": "zen garden meditation"
+ },
+ "/en/write-your-own-meditation.html": {
+  "p": "guided meditation script free",
+  "s": "custom guided meditation"
+ },
+ "/es/": {
+  "p": "meditación guiada",
+  "s": "app de meditación gratis"
+ },
+ "/es/acerca-de.html": {
+  "p": "MeditaDream",
+  "s": "app para meditar totalmente gratis"
+ },
+ "/es/alternativa-gratis-headspace-calm.html": {
+  "p": "headspace vs calm app",
+  "s": "mejor app para meditar gratis"
+ },
+ "/es/app-de-meditacion-para-empresas.html": {
+  "p": "bienestar en el trabajo",
+  "s": "meditación para empresas"
+ },
+ "/es/blog/": {
+  "p": "blog de meditación",
+  "s": "cómo meditar"
+ },
+ "/es/blog/aprendeblog-comunidad-del-conocimiento.html": {
+  "p": "Aprendeblog",
+  "s": "comunidad del conocimiento"
+ },
+ "/es/blog/aprender-a-ser-feliz-habilidad.html": {
+  "p": "aprender a ser feliz",
+  "s": "psicología positiva"
+ },
+ "/es/blog/beneficios-de-la-meditacion-segun-la-ciencia.html": {
+  "p": "beneficios de la meditación según la ciencia",
+  "s": null
+ },
+ "/es/blog/chakra-raiz-bloqueado-senales-ejercicios.html": {
+  "p": "chakra raíz",
+  "s": "chakra Muladhara"
+ },
+ "/es/blog/chakras-del-cuerpo.html": {
+  "p": "chakras del cuerpo",
+  "s": "ubicación de los chakras"
+ },
+ "/es/blog/chakras-y-energia.html": {
+  "p": "energía vital",
+  "s": "chakras bloqueados"
+ },
+ "/es/blog/chamanismo.html": {
+  "p": "tipos de chamanismo",
+  "s": "qué es el chamanismo"
+ },
+ "/es/blog/como-abrir-el-chakra-del-corazon.html": {
+  "p": "chakra del corazón",
+  "s": "chakra Anahata"
+ },
+ "/es/blog/como-concentrarse-en-el-trabajo.html": {
+  "p": "cómo concentrarse en el trabajo",
+  "s": "mindfulness en el trabajo"
+ },
+ "/es/blog/como-empezar-a-meditar-guia-principiantes.html": {
+  "p": "qué es meditar y cómo se hace",
+  "s": "cómo empezar a meditar"
+ },
+ "/es/blog/como-encontrar-tu-animal-de-poder.html": {
+  "p": "animal espiritual",
+  "s": "animal de poder"
+ },
+ "/es/blog/como-hacer-un-viaje-astral.html": {
+  "p": "cómo hacer un viaje astral",
+  "s": "viaje astral para principiantes"
+ },
+ "/es/blog/como-hacer-una-meditacion-guiada.html": {
+  "p": "cómo hacer una meditación guiada",
+  "s": "consejos para meditar"
+ },
+ "/es/blog/diario-de-suenos-sueno-lucido.html": {
+  "p": "el diario de los sueños",
+  "s": "primer sueño lúcido"
+ },
+ "/es/blog/diferencia-entre-hipnosis-y-meditacion.html": {
+  "p": "diferencia entre hipnosis y meditación",
+  "s": "hipnosis para dormir"
+ },
+ "/es/blog/ejercicios-de-respiracion-para-calmarse.html": {
+  "p": "ejercicios de respiración para la ansiedad",
+  "s": "cómo calmar la ansiedad"
+ },
+ "/es/blog/emociones-y-vida-interior.html": {
+  "p": "cómo calmar la mente",
+  "s": "cómo dejar de tener pensamientos negativos"
+ },
+ "/es/blog/escaneo-corporal-meditacion.html": {
+  "p": "escaneo corporal",
+  "s": "body scan"
+ },
+ "/es/blog/escucha-activa-y-consciente.html": {
+  "p": "escucha activa en pareja",
+  "s": "mindfulness en pareja"
+ },
+ "/es/blog/estados-modificados-de-conciencia.html": {
+  "p": "estados de conciencia",
+  "s": "tipos de estados de conciencia"
+ },
+ "/es/blog/gestionar-los-pensamientos-al-meditar.html": {
+  "p": "cómo poner la mente en blanco",
+  "s": "cómo dejar de pensar"
+ },
+ "/es/blog/higiene-del-sueno-rutina-antes-de-dormir.html": {
+  "p": "rutina antes de dormir",
+  "s": "higiene del sueño"
+ },
+ "/es/blog/historia-del-mindfulness-y-la-meditacion.html": {
+  "p": "historia del mindfulness",
+  "s": "historia de la meditación"
+ },
+ "/es/blog/llorar-durante-la-meditacion.html": {
+  "p": "llorar al meditar",
+  "s": "liberación emocional"
+ },
+ "/es/blog/meditacion-caminando.html": {
+  "p": "meditación caminando",
+  "s": "kinhin"
+ },
+ "/es/blog/meditacion-de-5-minutos.html": {
+  "p": "meditación 5 minutos",
+  "s": "meditación guiada 5 minutos"
+ },
+ "/es/blog/meditacion-de-la-manana.html": {
+  "p": "meditación de 10 minutos para la mañana",
+  "s": "meditación al despertar"
+ },
+ "/es/blog/meditacion-en-el-dia-a-dia.html": {
+  "p": "meditación diaria",
+  "s": "atención plena en la vida cotidiana"
+ },
+ "/es/blog/meditacion-metta-bondad-amorosa.html": {
+  "p": "meditación metta",
+  "s": "meditación de bondad amorosa"
+ },
+ "/es/blog/meditacion-para-dormir.html": {
+  "p": "cómo dormir rápido",
+  "s": "respiración 4 7 8"
+ },
+ "/es/blog/mejor-hora-para-meditar.html": {
+  "p": "cuál es la mejor hora para meditar",
+  "s": "meditar por la mañana o por la noche"
+ },
+ "/es/blog/peregrinacion-sin-religion-camino-santiago-shikoku.html": {
+  "p": "camino de santiago experiencia espiritual",
+  "s": "88 templos de Shikoku"
+ },
+ "/es/blog/postura-de-meditacion-4-posiciones.html": {
+  "p": "posturas para meditar",
+  "s": "posición de meditación"
+ },
+ "/es/blog/practica-de-la-meditacion.html": {
+  "p": "guía para meditar",
+  "s": "cómo meditar correctamente"
+ },
+ "/es/blog/programa-de-meditacion-para-principiantes-4-semanas.html": {
+  "p": "cómo meditar paso a paso",
+  "s": "curso de meditación gratis"
+ },
+ "/es/blog/qi-gong-para-principiantes-5-movimientos.html": {
+  "p": "ejercicios de qi gong",
+  "s": "chi kung para principiantes"
+ },
+ "/es/blog/que-es-el-trance-estado-alterado.html": {
+  "p": "trance significado",
+  "s": "qué es el trance"
+ },
+ "/es/blog/que-es-la-atencion-plena.html": {
+  "p": "mindfulness qué es y cómo se practica",
+  "s": "atención plena"
+ },
+ "/es/blog/rutina-de-meditacion.html": {
+  "p": "mindfulness en la vida cotidiana",
+  "s": "rutina de meditación"
+ },
+ "/es/blog/simbolos-espirituales-y-arquetipos.html": {
+  "p": "símbolos espirituales",
+  "s": "arquetipos"
+ },
+ "/es/blog/simbolos-y-sabiduria.html": {
+  "p": "caminos de peregrinación",
+  "s": "símbolos y arquetipos"
+ },
+ "/es/blog/sombra-interior-y-meditacion.html": {
+  "p": "sombra interior",
+  "s": "ejercicios para trabajar la sombra"
+ },
+ "/es/blog/sueno-y-suenos.html": {
+  "p": "cómo dormir mejor",
+  "s": "rutina para dormir"
+ },
+ "/es/blog/tecnicas-de-respiracion-para-meditar.html": {
+  "p": "técnicas de respiración",
+  "s": "respiración para meditar"
+ },
+ "/es/blog/tercer-ojo-glandula-pineal-intuicion.html": {
+  "p": "glándula pineal tercer ojo",
+  "s": "chakra del tercer ojo"
+ },
+ "/es/blog/tipos-de-meditacion.html": {
+  "p": "tipos de meditación",
+  "s": "técnicas de meditación"
+ },
+ "/es/blog/trabajo-de-sombra-jung-defectos.html": {
+  "p": "trabajo de sombra",
+  "s": "la sombra según Jung"
+ },
+ "/es/blog/trance-y-estados-de-conciencia.html": {
+  "p": "estados alterados de conciencia",
+  "s": null
+ },
+ "/es/blog/tres-mundos-del-chamanismo.html": {
+  "p": "axis mundi",
+  "s": "tres mundos del chamanismo"
+ },
+ "/es/blog/yoga-nidra-beneficios-sueno.html": {
+  "p": "yoga nidra para dormir",
+  "s": "yoga nidra 10 minutos"
+ },
+ "/es/crea-tu-propia-meditacion.html": {
+  "p": "meditación guiada escrita",
+  "s": "guion de meditación guiada"
+ },
+ "/es/diario-de-gratitud.html": {
+  "p": "diario de gratitud",
+  "s": "meditación de gratitud"
+ },
+ "/es/diario-de-suenos-y-diarios.html": {
+  "p": "diario de sueños",
+  "s": "diario emocional"
+ },
+ "/es/dragon-companero-meditacion.html": {
+  "p": "dragón compañero",
+  "s": "mascota virtual"
+ },
+ "/es/ejercicios-de-respiracion-guiados.html": {
+  "p": "ejercicios de respiración",
+  "s": "respiración 4 7 8"
+ },
+ "/es/gestion-de-las-emociones.html": {
+  "p": "gestión emocional",
+  "s": "rueda de las emociones"
+ },
+ "/es/guias-espirituales.html": {
+  "p": "guías espirituales",
+  "s": "ángel de la guarda"
+ },
+ "/es/meditacion-chakras.html": {
+  "p": "chakras",
+  "s": "los 7 chakras"
+ },
+ "/es/meditaciones/": {
+  "p": "meditaciones guiadas gratis",
+  "s": "tipos de meditación guiada"
+ },
+ "/es/meditaciones/ejercicios-de-desdoblamiento-astral.html": {
+  "p": "desdoblamiento astral paso a paso",
+  "s": "desprendimiento astral"
+ },
+ "/es/meditaciones/meditacion-budista-guiada.html": {
+  "p": "meditación budista",
+  "s": "meditación buda"
+ },
+ "/es/meditaciones/meditacion-chamanica-guiada.html": {
+  "p": "meditación chamánica guiada",
+  "s": "viaje chamánico guiado"
+ },
+ "/es/meditaciones/meditacion-corta-4-minutos.html": {
+  "p": "meditación corta guiada",
+  "s": "meditación para la ansiedad"
+ },
+ "/es/meditaciones/meditacion-de-trance-guiada.html": {
+  "p": "meditación profunda",
+  "s": "soñar despierto"
+ },
+ "/es/meditaciones/meditacion-de-visualizacion-guiada.html": {
+  "p": "meditación visualización",
+  "s": "visualización guiada"
+ },
+ "/es/meditaciones/meditacion-guiada-amor-propio.html": {
+  "p": "amor propio",
+  "s": "autoestima"
+ },
+ "/es/meditaciones/meditacion-guiada-para-dormir.html": {
+  "p": "meditación para dormir",
+  "s": "relajación guiada para dormir"
+ },
+ "/es/meditaciones/meditacion-guiada-viaje-imaginario.html": {
+  "p": "meditación viaje en el tiempo",
+  "s": "viaje imaginario"
+ },
+ "/es/meditaciones/meditacion-guias-espirituales.html": {
+  "p": "meditación guías espirituales",
+  "s": "yo superior"
+ },
+ "/es/meditaciones/meditacion-lugares-sagrados.html": {
+  "p": "lugares sagrados",
+  "s": "meditación naturaleza"
+ },
+ "/es/meditaciones/meditacion-no-dual-guiada.html": {
+  "p": "despertar espiritual",
+  "s": "no dualidad"
+ },
+ "/es/meditaciones/meditacion-para-principiantes.html": {
+  "p": "meditación guiada para principiantes",
+  "s": "meditación guiada mindfulness"
+ },
+ "/es/meditaciones/meditacion-qigong-guiada.html": {
+  "p": "chi kung",
+  "s": "meditación qigong"
+ },
+ "/es/meditaciones/meditacion-registros-akashicos.html": {
+  "p": "registros akáshicos",
+  "s": "meditación para el duelo"
+ },
+ "/es/meditaciones/meditacion-tercer-ojo-guiada.html": {
+  "p": "cómo abrir el tercer ojo",
+  "s": "chakra ajna"
+ },
+ "/es/meditaciones/meditacion-trabajo-de-sombra.html": {
+  "p": "trabajo con la sombra",
+  "s": "meditación niño interior"
+ },
+ "/es/meditaciones/meditacion-viaje-astral-guiada.html": {
+  "p": "viaje astral guiado",
+  "s": "proyección astral"
+ },
+ "/es/meditaciones/meditaciones-del-mundo.html": {
+  "p": "baño de bosque",
+  "s": "meditación guiada vipassana"
+ },
+ "/es/meditaciones/tecnicas-de-trance-guiado.html": {
+  "p": "autohipnosis",
+  "s": "cómo entrar en trance"
+ },
+ "/es/mundos/": {
+  "p": "meditación inmersiva",
+  "s": "mundo interior"
+ },
+ "/es/mundos/meditacion-arbol-de-la-conciencia.html": {
+  "p": "meditación del árbol",
+  "s": "meditación para conectar con la naturaleza"
+ },
+ "/es/mundos/meditacion-arraigo-corazon-de-la-tierra.html": {
+  "p": "meditación de arraigo",
+  "s": "meditación para conectar con la madre tierra"
+ },
+ "/es/mundos/meditacion-guiada-jardin-zen.html": {
+  "p": "meditación zen guiada",
+  "s": "jardín zen japonés"
+ },
+ "/es/mundos/meditacion-guiada-viaje-por-la-galaxia.html": {
+  "p": "meditación del universo",
+  "s": "meditación para soltar"
+ },
+ "/es/mundos/meditacion-inmersiva-atlantida.html": {
+  "p": "meditación del mar",
+  "s": "atlántida"
+ },
+ "/es/mundos/meditacion-inmersiva-biblioteca-celeste.html": {
+  "p": "biblioteca akáshica",
+  "s": "meditación akáshica"
+ },
+ "/es/mundos/meditacion-inmersiva-bosque-de-los-suenos.html": {
+  "p": "meditación bosque encantado",
+  "s": "visualización guiada bosque"
+ },
+ "/es/mundos/meditacion-inmersiva-dimension-de-espejos.html": {
+  "p": "conciencia testigo",
+  "s": "meditación espejo"
+ },
+ "/es/mundos/meditacion-inmersiva-espiritus-lobo.html": {
+  "p": "animal de poder lobo",
+  "s": "lobo espiritual"
+ },
+ "/es/mundos/meditacion-inmersiva-gruta-de-cristal.html": {
+  "p": "meditación con cristales",
+  "s": "meditación claridad mental"
+ },
+ "/es/mundos/meditacion-inmersiva-isla-flotante.html": {
+  "p": "meditación lugar seguro",
+  "s": "visualización lugar seguro"
+ },
+ "/es/mundos/meditacion-inmersiva-oasis-del-desierto.html": {
+  "p": "meditación de la luna",
+  "s": "meditación luna llena"
+ },
+ "/es/mundos/meditacion-inmersiva-ruinas-en-la-selva.html": {
+  "p": "meditación en la selva",
+  "s": "sonidos de la selva"
+ },
+ "/es/mundos/meditacion-inmersiva-santuario-helado.html": {
+  "p": "meditación de invierno",
+  "s": "meditación del silencio"
+ },
+ "/es/mundos/meditacion-inmersiva-templo-antiguo.html": {
+  "p": "meditación con velas",
+  "s": "meditación con lluvia"
+ },
+ "/es/mundos/meditacion-inmersiva-templo-cosmico.html": {
+  "p": "meditación cósmica",
+  "s": "meditación para expandir la conciencia"
+ },
+ "/es/mundos/meditacion-monasterio-al-amanecer.html": {
+  "p": "meditación para empezar el día",
+  "s": "meditación al amanecer"
+ },
+ "/es/oraculo-meditacion.html": {
+  "p": "oráculo de meditación",
+  "s": "cartas de meditación"
+ },
+ "/es/qigong.html": {
+  "p": "qi gong",
+  "s": "tai chi"
+ },
+ "/es/sesiones/buda-de-la-compasion-avalokiteshvara.html": {
+  "p": "buda de la compasión",
+  "s": "bodhisattva avalokiteshvara"
+ },
+ "/es/sesiones/buda-de-la-sabiduria-manjushri.html": {
+  "p": "buda de la sabiduría",
+  "s": "bodhisattva"
+ },
+ "/es/sesiones/buda-maitreya-meditacion-guiada.html": {
+  "p": "buda maitreya",
+  "s": null
+ },
+ "/es/sesiones/buda-tara-ocho-grandes-peligros.html": {
+  "p": "buda tara",
+  "s": "budismo tibetano"
+ },
+ "/es/sesiones/como-calmar-los-nervios.html": {
+  "p": "cómo calmar los nervios",
+  "s": "como relajar los nervios"
+ },
+ "/es/sesiones/como-quererse-a-uno-mismo.html": {
+  "p": "cómo quererse a uno mismo",
+  "s": "ejemplos de amor propio"
+ },
+ "/es/sesiones/estado-hipnagogico-meditacion-guiada.html": {
+  "p": "estado hipnagógico",
+  "s": "cuerpo dormido mente despierta"
+ },
+ "/es/sesiones/meditacion-de-autocompasion.html": {
+  "p": "autocompasión",
+  "s": "tener amor propio"
+ },
+ "/es/sesiones/meditacion-de-compasion-guiada.html": {
+  "p": "meditación compasión",
+  "s": null
+ },
+ "/es/sesiones/meditacion-de-gratitud-cotidiana.html": {
+  "p": "meditación de gratitud",
+  "s": "cómo practicar la gratitud"
+ },
+ "/es/sesiones/meditacion-de-respiracion-consciente.html": {
+  "p": "respiración consciente",
+  "s": "ejercicios de mindfulness"
+ },
+ "/es/sesiones/meditacion-duelo-por-mascota.html": {
+  "p": "duelo por mascota",
+  "s": "cómo superar el duelo"
+ },
+ "/es/sesiones/meditacion-miedo-al-abandono.html": {
+  "p": "miedo al abandono",
+  "s": "meditación para el miedo"
+ },
+ "/es/sesiones/meditacion-miedo-al-fracaso.html": {
+  "p": "miedo al fracaso",
+  "s": "meditación miedo al fracaso"
+ },
+ "/es/sesiones/meditacion-para-dormir-profundamente.html": {
+  "p": "meditación para dormir profundamente",
+  "s": "conciliar el sueño"
+ },
+ "/es/sesiones/meditacion-vidas-pasadas.html": {
+  "p": "meditación vidas pasadas",
+  "s": "vidas pasadas"
+ },
+ "/es/sonidos-para-dormir.html": {
+  "p": "sonidos para dormir",
+  "s": "sonido de lluvia para dormir"
+ },
+ "/es/suenos-lucidos.html": {
+  "p": "sueños lúcidos",
+  "s": "significado de los sueños"
+ },
+ "/es/trance-chamanico.html": {
+  "p": "trance chamánico",
+  "s": "qué es el chamanismo"
+ },
+ "/es/viaje-astral.html": {
+  "p": "viaje astral",
+  "s": "plano astral"
+ },
+ "/es/video-app-meditacion.html": {
+  "p": "cómo funciona MeditaDream",
+  "s": "app de meditación"
+ },
+ "/es/visualizacion.html": {
+  "p": "visualización",
+  "s": "visualización creativa"
+ },
+ "/fr/": {
+  "p": "méditation guidée",
+  "s": "application méditation gratuite"
+ },
+ "/fr/a-propos.html": {
+  "p": "MeditaDream",
+  "s": "application méditation totalement gratuite"
+ },
+ "/fr/alternative-gratuite-petit-bambou-calm-headspace.html": {
+  "p": "application méditation gratuite sans abonnement",
+  "s": "petit bambou gratuit"
+ },
+ "/fr/blog/": {
+  "p": "apprendre à méditer seul",
+  "s": "blog méditation"
+ },
+ "/fr/blog/accueillir-ses-emotions-et-son-ombre.html": {
+  "p": "accueillir ses émotions",
+  "s": "émotions refoulées"
+ },
+ "/fr/blog/apprendre-a-mediter-guide-debutant.html": {
+  "p": "comment méditer",
+  "s": "commencer à méditer"
+ },
+ "/fr/blog/aprendeblog-communaute-du-savoir.html": {
+  "p": "Aprendeblog",
+  "s": "communauté du savoir"
+ },
+ "/fr/blog/bienfaits-de-la-meditation-science.html": {
+  "p": "bienfaits de la méditation",
+  "s": "effets de la méditation"
+ },
+ "/fr/blog/bonheur-competence-apprendre.html": {
+  "p": "qu’est-ce que le bonheur",
+  "s": "psychologie positive"
+ },
+ "/fr/blog/chakra-racine-bloque-ancrage.html": {
+  "p": "chakra racine",
+  "s": "exercices d’ancrage"
+ },
+ "/fr/blog/chakras-et-energie.html": {
+  "p": "énergie vitale",
+  "s": "le qi"
+ },
+ "/fr/blog/chakras-et-leurs-roles.html": {
+  "p": "les chakras et leurs rôles",
+  "s": "les 7 chakras et leurs couleurs"
+ },
+ "/fr/blog/chamanisme.html": {
+  "p": "chamanisme définition",
+  "s": "qu’est-ce que le chamanisme"
+ },
+ "/fr/blog/comment-bien-mediter-seance-guidee.html": {
+  "p": "comment bien méditer",
+  "s": "séance de méditation"
+ },
+ "/fr/blog/comment-faire-un-voyage-astral.html": {
+  "p": "comment faire un voyage astral",
+  "s": "voyage astral pour débutant"
+ },
+ "/fr/blog/difference-hypnose-meditation.html": {
+  "p": "hypnose et méditation",
+  "s": "hypnose du sommeil"
+ },
+ "/fr/blog/emotions-et-vie-interieure.html": {
+  "p": "vie intérieure",
+  "s": "méditation émotions"
+ },
+ "/fr/blog/etats-modifies-de-conscience.html": {
+  "p": "état modifié de conscience définition",
+  "s": "transe méditative"
+ },
+ "/fr/blog/exercices-respiration-pour-se-calmer.html": {
+  "p": "exercice de respiration",
+  "s": "respiration 4-7-8"
+ },
+ "/fr/blog/gerer-ses-pensees-meditation.html": {
+  "p": "comment faire le vide dans sa tête",
+  "s": "pensées parasites"
+ },
+ "/fr/blog/lieux-sacres-et-sagesses.html": {
+  "p": "lieux de pèlerinage",
+  "s": "chemins de pèlerinage"
+ },
+ "/fr/blog/meditation-5-minutes.html": {
+  "p": "méditation de 5 minutes",
+  "s": "cohérence cardiaque 5 minutes"
+ },
+ "/fr/blog/meditation-au-quotidien.html": {
+  "p": "méditation au quotidien",
+  "s": "pleine conscience au quotidien"
+ },
+ "/fr/blog/meditation-bienveillance-metta.html": {
+  "p": "metta",
+  "s": "méditation de bienveillance"
+ },
+ "/fr/blog/meditation-du-matin.html": {
+  "p": "méditation du matin",
+  "s": "routine matinale"
+ },
+ "/fr/blog/meditation-en-marchant.html": {
+  "p": "méditation en marchant",
+  "s": "marche méditative"
+ },
+ "/fr/blog/meditation-et-productivite-travail.html": {
+  "p": "méditation au travail",
+  "s": "gestion du stress au travail"
+ },
+ "/fr/blog/meditation-et-relations-ecoute.html": {
+  "p": "communication dans le couple",
+  "s": "mieux communiquer en couple"
+ },
+ "/fr/blog/meditation-pour-dormir.html": {
+  "p": "méditation pour s'endormir",
+  "s": "comment s'endormir rapidement"
+ },
+ "/fr/blog/mediter-matin-ou-soir.html": {
+  "p": "méditation matin ou soir",
+  "s": "meilleur moment pour méditer"
+ },
+ "/fr/blog/mediter-tous-les-jours.html": {
+  "p": "vivre en pleine conscience",
+  "s": "méditer tous les jours"
+ },
+ "/fr/blog/ouvrir-chakra-du-coeur.html": {
+  "p": "chakra du cœur",
+  "s": "chakra Anahata"
+ },
+ "/fr/blog/pelerinage-sans-religion-compostelle-shikoku.html": {
+  "p": "chemin de Compostelle",
+  "s": "pèlerinage de Shikoku"
+ },
+ "/fr/blog/pleine-conscience-definition.html": {
+  "p": "pleine conscience",
+  "s": "mindfulness pleine conscience"
+ },
+ "/fr/blog/pleurer-pendant-meditation.html": {
+  "p": "pleurer pendant une méditation",
+  "s": "libération émotionnelle"
+ },
+ "/fr/blog/posture-meditation-4-positions.html": {
+  "p": "position de méditation",
+  "s": "posture de méditation"
+ },
+ "/fr/blog/pratique-de-la-meditation.html": {
+  "p": "comment pratiquer la méditation",
+  "s": "commencer la méditation"
+ },
+ "/fr/blog/programme-meditation-debutant-4-semaines.html": {
+  "p": "cours de méditation en ligne",
+  "s": "débuter en méditation"
+ },
+ "/fr/blog/qi-gong-debutant-5-mouvements.html": {
+  "p": "qi gong débutant",
+  "s": "mouvements de qi gong"
+ },
+ "/fr/blog/qu-est-ce-que-la-transe.html": {
+  "p": "transe définition",
+  "s": "état de transe"
+ },
+ "/fr/blog/reve-lucide-sommeil-conscient.html": {
+  "p": "rêve conscient",
+  "s": "sommeil conscient"
+ },
+ "/fr/blog/rituel-avant-de-dormir.html": {
+  "p": "rituel du soir",
+  "s": "relaxation avant de dormir"
+ },
+ "/fr/blog/scan-corporel-meditation.html": {
+  "p": "scan corporel",
+  "s": "body scan méditation"
+ },
+ "/fr/blog/sommeil-et-reves.html": {
+  "p": "sommeil et rêves",
+  "s": "comprendre ses rêves"
+ },
+ "/fr/blog/symboles-archetypes-mondes-interieurs.html": {
+  "p": "archétypes",
+  "s": "archétypes de Jung"
+ },
+ "/fr/blog/techniques-de-meditation-guide-complet.html": {
+  "p": "techniques de méditation",
+  "s": "exercices de méditation"
+ },
+ "/fr/blog/techniques-respiration-meditation.html": {
+  "p": "respiration abdominale",
+  "s": "techniques de respiration"
+ },
+ "/fr/blog/transe-et-etats-de-conscience.html": {
+  "p": "états modifiés de conscience",
+  "s": "hypnose"
+ },
+ "/fr/blog/travail-de-l-ombre-jung.html": {
+  "p": "travail de l’ombre",
+  "s": "shadow work"
+ },
+ "/fr/blog/trois-mondes-chamanisme.html": {
+  "p": "axis mundi",
+  "s": "arbre du monde"
+ },
+ "/fr/blog/troisieme-oeil-glande-pineale-intuition.html": {
+  "p": "glande pinéale troisième œil",
+  "s": "chakra du troisième œil"
+ },
+ "/fr/blog/trouver-son-animal-de-pouvoir.html": {
+  "p": "trouver son animal totem",
+  "s": "animal de pouvoir"
+ },
+ "/fr/blog/yoga-nidra-bienfaits-sommeil.html": {
+  "p": "yoga nidra",
+  "s": "yoga du sommeil"
+ },
+ "/fr/creer-sa-meditation-guidee.html": {
+  "p": "créer une méditation guidée",
+  "s": "écrire une méditation guidée"
+ },
+ "/fr/dragon-compagnon-meditation.html": {
+  "p": "dragon compagnon",
+  "s": null
+ },
+ "/fr/exercice-de-respiration-coherence-cardiaque.html": {
+  "p": "cohérence cardiaque 5 minutes",
+  "s": "exercice de cohérence cardiaque"
+ },
+ "/fr/formation-meditation/": {
+  "p": "formation méditation",
+  "s": "atelier méditation"
+ },
+ "/fr/formation-meditation/bordeaux.html": {
+  "p": "formation méditation bordeaux",
+  "s": "cours de méditation bordeaux"
+ },
+ "/fr/formation-meditation/bruxelles.html": {
+  "p": "formation méditation bruxelles",
+  "s": "cours de méditation bruxelles"
+ },
+ "/fr/formation-meditation/geneve.html": {
+  "p": "formation méditation genève",
+  "s": "cours de méditation genève"
+ },
+ "/fr/formation-meditation/grenoble.html": {
+  "p": "formation méditation grenoble",
+  "s": "cours de méditation grenoble"
+ },
+ "/fr/formation-meditation/lausanne.html": {
+  "p": "formation méditation lausanne",
+  "s": "cours de méditation lausanne"
+ },
+ "/fr/formation-meditation/liege.html": {
+  "p": "formation méditation liège",
+  "s": "cours de méditation liège"
+ },
+ "/fr/formation-meditation/lille.html": {
+  "p": "formation méditation lille",
+  "s": "cours de méditation lille"
+ },
+ "/fr/formation-meditation/luxembourg.html": {
+  "p": "formation méditation luxembourg",
+  "s": "cours de méditation luxembourg"
+ },
+ "/fr/formation-meditation/lyon.html": {
+  "p": "formation méditation lyon",
+  "s": "cours de méditation lyon"
+ },
+ "/fr/formation-meditation/marseille.html": {
+  "p": "formation méditation marseille",
+  "s": "cours de méditation marseille"
+ },
+ "/fr/formation-meditation/montpellier.html": {
+  "p": "formation méditation montpellier",
+  "s": "cours de méditation montpellier"
+ },
+ "/fr/formation-meditation/namur.html": {
+  "p": "méditation namur",
+  "s": "pleine conscience namur"
+ },
+ "/fr/formation-meditation/nantes.html": {
+  "p": "formation méditation nantes",
+  "s": "cours de méditation nantes"
+ },
+ "/fr/formation-meditation/nice.html": {
+  "p": "formation méditation nice",
+  "s": "cours de méditation nice"
+ },
+ "/fr/formation-meditation/paris.html": {
+  "p": "méditation paris",
+  "s": "cours de méditation paris"
+ },
+ "/fr/formation-meditation/rennes.html": {
+  "p": "formation méditation rennes",
+  "s": "cours de méditation rennes"
+ },
+ "/fr/formation-meditation/strasbourg.html": {
+  "p": "formation méditation strasbourg",
+  "s": "cours de méditation strasbourg"
+ },
+ "/fr/formation-meditation/toulouse.html": {
+  "p": "formation méditation toulouse",
+  "s": "cours de méditation toulouse"
+ },
+ "/fr/gestion-des-emotions.html": {
+  "p": "gestion des émotions",
+  "s": "roue des émotions"
+ },
+ "/fr/guides-spirituels.html": {
+  "p": "guide spirituel",
+  "s": "ange gardien"
+ },
+ "/fr/journal-de-gratitude.html": {
+  "p": "journal de gratitude",
+  "s": "carnet de gratitude"
+ },
+ "/fr/journal-de-reves-et-journaux.html": {
+  "p": "journal personnel",
+  "s": "carnet de rêves"
+ },
+ "/fr/meditation-chakras.html": {
+  "p": "chakras",
+  "s": "méditation chakras"
+ },
+ "/fr/meditation-en-entreprise.html": {
+  "p": "méditation en entreprise",
+  "s": "gestion du stress en entreprise"
+ },
+ "/fr/meditations/": {
+  "p": "méditation gratuite",
+  "s": "méditation guidée gratuite"
+ },
+ "/fr/meditations/exercices-de-decorporation.html": {
+  "p": "décorporation",
+  "s": "sortie hors du corps"
+ },
+ "/fr/meditations/meditation-amour-de-soi-gratitude.html": {
+  "p": "l’amour de soi",
+  "s": "méditation confiance en soi"
+ },
+ "/fr/meditations/meditation-annales-akashiques.html": {
+  "p": "annales akashiques",
+  "s": "archives akashiques"
+ },
+ "/fr/meditations/meditation-bouddhiste-guidee.html": {
+  "p": "méditation bouddhiste",
+  "s": null
+ },
+ "/fr/meditations/meditation-chamanique-guidee.html": {
+  "p": "méditation chamanique",
+  "s": "voyage chamanique"
+ },
+ "/fr/meditations/meditation-courte-4-minutes.html": {
+  "p": "méditation rapide",
+  "s": "méditation 5 minutes"
+ },
+ "/fr/meditations/meditation-guidee-debutant.html": {
+  "p": "méditation pour débutants",
+  "s": "apprendre à méditer"
+ },
+ "/fr/meditations/meditation-guidee-pour-dormir.html": {
+  "p": "méditation pour dormir et lâcher prise",
+  "s": "relaxation pour dormir"
+ },
+ "/fr/meditations/meditation-guides-spirituels.html": {
+  "p": "rencontrer son guide spirituel",
+  "s": "méditation guide spirituel"
+ },
+ "/fr/meditations/meditation-lieux-sacres.html": {
+  "p": "lieux sacrés",
+  "s": "méditation spirituelle guidée"
+ },
+ "/fr/meditations/meditation-non-duelle-guidee.html": {
+  "p": "éveil spirituel",
+  "s": "non dualité"
+ },
+ "/fr/meditations/meditation-qi-gong-guidee.html": {
+  "p": "qi gong en ligne",
+  "s": "méditation qi gong"
+ },
+ "/fr/meditations/meditation-reve-eveille-transe.html": {
+  "p": "rêve éveillé",
+  "s": null
+ },
+ "/fr/meditations/meditation-travail-ombre.html": {
+  "p": "enfant intérieur",
+  "s": "peur de l abandon"
+ },
+ "/fr/meditations/meditation-troisieme-oeil.html": {
+  "p": "troisième œil",
+  "s": "ajna chakra"
+ },
+ "/fr/meditations/meditation-voyage-astral-guidee.html": {
+  "p": "projection astrale",
+  "s": "méditation voyage astral"
+ },
+ "/fr/meditations/meditation-voyage-imaginaire.html": {
+  "p": "voyage imaginaire",
+  "s": null
+ },
+ "/fr/meditations/meditations-du-monde.html": {
+  "p": "bain de forêt",
+  "s": "types de méditation"
+ },
+ "/fr/meditations/techniques-de-transe-guidee.html": {
+  "p": "auto hypnose",
+  "s": "entrer en transe"
+ },
+ "/fr/meditations/visualisation-guidee.html": {
+  "p": "visualisation mentale",
+  "s": "techniques de visualisation"
+ },
+ "/fr/mondes/": {
+  "p": "méditation immersive",
+  "s": "méditation voyage intérieur"
+ },
+ "/fr/mondes/meditation-ancrage-coeur-terre.html": {
+  "p": "méditation ancrage",
+  "s": "méditation enracinement"
+ },
+ "/fr/mondes/meditation-arbre-de-conscience.html": {
+  "p": "méditation de l’arbre",
+  "s": "méditation arbre de vie"
+ },
+ "/fr/mondes/meditation-atlantide-sous-marine.html": {
+  "p": "méditation mer",
+  "s": "méditation Atlantide"
+ },
+ "/fr/mondes/meditation-bibliotheque-celeste.html": {
+  "p": "bibliothèque akashique",
+  "s": null
+ },
+ "/fr/mondes/meditation-dimension-des-miroirs.html": {
+  "p": "méditation miroir",
+  "s": "animal guide"
+ },
+ "/fr/mondes/meditation-foret-des-reves.html": {
+  "p": "méditation en forêt",
+  "s": null
+ },
+ "/fr/mondes/meditation-foret-esprits-loups.html": {
+  "p": "loup animal totem",
+  "s": "méditation animal totem"
+ },
+ "/fr/mondes/meditation-grotte-de-cristal.html": {
+  "p": "méditation grotte de cristal",
+  "s": "nettoyage énergétique"
+ },
+ "/fr/mondes/meditation-ile-flottante.html": {
+  "p": "méditation paix intérieure",
+  "s": "méditation lieu sûr"
+ },
+ "/fr/mondes/meditation-jardin-zen.html": {
+  "p": "méditation zen",
+  "s": "jardin japonais"
+ },
+ "/fr/mondes/meditation-monastere-aube.html": {
+  "p": "méditation guidée du matin",
+  "s": "méditation montagne"
+ },
+ "/fr/mondes/meditation-oasis-desert.html": {
+  "p": "méditation dans le désert",
+  "s": "méditation lune"
+ },
+ "/fr/mondes/meditation-ruines-jungle.html": {
+  "p": "méditation jungle",
+  "s": "méditation cascade"
+ },
+ "/fr/mondes/meditation-sanctuaire-gele.html": {
+  "p": "silence intérieur",
+  "s": null
+ },
+ "/fr/mondes/meditation-temple-ancien.html": {
+  "p": "méditation temple bouddhiste",
+  "s": "méditation bruit de la pluie"
+ },
+ "/fr/mondes/meditation-temple-cosmique.html": {
+  "p": "méditation baleine",
+  "s": "expansion de conscience"
+ },
+ "/fr/mondes/meditation-voyage-galaxie.html": {
+  "p": "méditation univers",
+  "s": null
+ },
+ "/fr/oracle-meditation.html": {
+  "p": "quelle méditation choisir",
+  "s": "oracle méditation"
+ },
+ "/fr/qi-gong.html": {
+  "p": "qi gong",
+  "s": "bienfaits du qi gong"
+ },
+ "/fr/reve-lucide.html": {
+  "p": "rêve lucide",
+  "s": "rêve lucide c’est quoi"
+ },
+ "/fr/seances/arbre-de-la-bodhi-meditation-guidee.html": {
+  "p": "arbre de la bodhi",
+  "s": "bouddha méditation arbre"
+ },
+ "/fr/seances/bodhisattva-guanyin-onze-visages.html": {
+  "p": "bodhisattva guanyin",
+  "s": "avalokitesvara bodhisattva"
+ },
+ "/fr/seances/bouddha-maitreya-meditation-guidee.html": {
+  "p": "bouddha maitreya",
+  "s": "les différents bouddha"
+ },
+ "/fr/seances/comment-calmer-sa-colere.html": {
+  "p": "comment calmer sa colère",
+  "s": "méditation anti stress"
+ },
+ "/fr/seances/comment-se-calmer-rapidement.html": {
+  "p": "comment se calmer rapidement",
+  "s": "exercice anti stress"
+ },
+ "/fr/seances/expansion-de-conscience-corps-de-lumiere.html": {
+  "p": "expansion de conscience",
+  "s": "corps de lumière"
+ },
+ "/fr/seances/la-peur-de-l-echec-meditation.html": {
+  "p": "la peur de l echec",
+  "s": null
+ },
+ "/fr/seances/manger-en-pleine-conscience.html": {
+  "p": "manger en pleine conscience",
+  "s": "exercice de pleine conscience"
+ },
+ "/fr/seances/meditation-ange-gardien-guide-de-lumiere.html": {
+  "p": "méditation ange gardien",
+  "s": "ange de lumiere"
+ },
+ "/fr/seances/meditation-auto-compassion.html": {
+  "p": "auto compassion",
+  "s": "self compassion"
+ },
+ "/fr/seances/meditation-de-gratitude-guidee.html": {
+  "p": "méditation de gratitude",
+  "s": "cultiver la gratitude"
+ },
+ "/fr/seances/meditation-pour-se-rendormir.html": {
+  "p": "méditation pour se rendormir",
+  "s": "méditation guidée pour dormir"
+ },
+ "/fr/seances/meditation-sommeil-profond.html": {
+  "p": "méditation sommeil profond",
+  "s": "relaxation guidée"
+ },
+ "/fr/seances/meditation-vie-anterieure.html": {
+  "p": "vie antérieure",
+  "s": "méditation vies antérieures"
+ },
+ "/fr/seances/peur-du-jugement.html": {
+  "p": "peur du jugement",
+  "s": "exercice anti stress"
+ },
+ "/fr/seances/peur-du-noir-meditation-guidee.html": {
+  "p": "peur du noir",
+  "s": "peur dans le noir"
+ },
+ "/fr/seances/posture-de-l-arbre-qi-gong.html": {
+  "p": "posture de l arbre qi gong",
+  "s": "qi gong du matin"
+ },
+ "/fr/seances/relaxation-5-minutes.html": {
+  "p": "relaxation 5 minutes",
+  "s": "méditation 3 minutes"
+ },
+ "/fr/seances/respiration-en-pleine-conscience.html": {
+  "p": "respiration en pleine conscience",
+  "s": "méditation de la pleine conscience"
+ },
+ "/fr/seances/respiration-pour-dormir.html": {
+  "p": "respiration pour dormir",
+  "s": "respiration relaxante"
+ },
+ "/fr/seances/tara-bouddha-huit-dangers.html": {
+  "p": "tara bouddha",
+  "s": "bouddhisme tibétain"
+ },
+ "/fr/sons-pour-dormir.html": {
+  "p": "musique pour dormir sans pub",
+  "s": "sons pour dormir"
+ },
+ "/fr/transe-chamanique.html": {
+  "p": "chamanisme",
+  "s": "transe chamanique"
+ },
+ "/fr/video-application-meditation.html": {
+  "p": "appli de méditation",
+  "s": null
+ },
+ "/fr/visualisation.html": {
+  "p": "visualisation",
+  "s": "imagerie mentale"
+ },
+ "/fr/voyage-astral.html": {
+  "p": "voyage astral",
+  "s": "sortie hors du corps"
+ }
+}

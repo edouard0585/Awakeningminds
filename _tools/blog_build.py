@@ -80,21 +80,21 @@ T = {
  'fr': dict(blog='Le blog', back='← MeditaDream', idx_title="Apprendre à méditer seul : le blog",
    idx_seo="Apprendre à méditer seul : blog de méditation · MeditaDream",
    idx_desc="Le blog de méditation de MeditaDream : des guides gratuits et des schémas pour apprendre à méditer seul. Posture, respiration, pensées, techniques, pas à pas.",
-   read='min de lecture', published_on='Publié le', soon="De nouveaux articles arrivent chaque semaine.",
+   read='min de lecture', published_on='Publié le', soon="De nouveaux articles arrivent chaque semaine. Apprendre à méditer, c’est gratuit : chaque guide de méditation reste en accès libre.",
    cta_t="Envie de pratiquer plutôt que de lire ?",
    cta_p="Tout ce que décrit cet article se pratique dans MeditaDream, application de méditation gratuite : {meds} méditations guidées et {worlds} mondes immersifs en français, sans abonnement, sans publicité, sans compte, et tout fonctionne hors ligne.",
    cta_b="Découvrir l'application gratuite", other="À lire ensuite"),
  'en': dict(blog='The blog', back='← MeditaDream', idx_title="Learn how to meditate: the MeditaDream meditation blog",
    idx_seo="Meditation Blog: How to Meditate, Free Guides · MeditaDream",
-   idx_desc="A meditation and mindfulness blog to learn how to meditate for free: guides, tips and articles for beginners, with diagrams, from the MeditaDream app.",
+   idx_desc="A meditation and mindfulness blog for beginners, to learn how to meditate for free: guides, meditation tips and articles with diagrams, from MeditaDream.",
    read='min read', published_on='Published', soon="More articles are coming — one every week.",
    cta_t="Rather practice than read?",
    cta_p="Everything in this article can be practiced in MeditaDream, a free meditation app: {meds} guided meditations and {worlds} immersive worlds, with no subscription, no ads, no account, and fully offline.",
    cta_b="Discover the free app", other="Read next"),
- 'es': dict(blog='El blog', back='← MeditaDream', idx_title="Blog de meditación: cómo meditar y aprender a tu ritmo",
+ 'es': dict(blog='El blog', back='← MeditaDream', idx_title="Blog de meditación: cómo aprender a meditar a tu ritmo",
    idx_seo="Blog de meditación: cómo meditar, guías gratis · MeditaDream",
-   idx_desc="Blog de meditación y mindfulness de la app MeditaDream: cómo meditar desde cero, con artículos, consejos y guías gratis sobre postura, respiración y técnicas.",
-   read='min de lectura', published_on='Publicado el', soon="Llegan más artículos — uno por semana.",
+   idx_desc="Blog de meditación y mindfulness de MeditaDream: cómo meditar y aprender meditación desde cero, con guías de meditación gratis sobre postura y respiración.",
+   read='min de lectura', published_on='Publicado el', soon="Cada semana llegan nuevos artículos sobre meditación.",
    cta_t="¿Prefieres practicar antes que leer?",
    cta_p="Todo lo que describe este artículo se practica en MeditaDream, una app de meditación gratis: {meds} meditaciones guiadas y {worlds} mundos inmersivos en español, sin suscripción, sin anuncios, sin cuenta y sin conexión.",
    cta_b="Descubre la app gratis", other="Sigue leyendo"),
@@ -628,7 +628,7 @@ def _img_slug(a, lang):
     from_slug = SCHEMA_FILES[a['image']][lang]
     return f'{from_slug}-{lang}.webp'
 
-DERNIERS = {'fr': 'Derniers articles', 'en': 'Latest articles', 'es': 'Últimos artículos'}
+DERNIERS = {'fr': 'Derniers articles pour apprendre à méditer seul', 'en': 'Latest on the meditation blog', 'es': 'Últimos artículos'}
 
 def render_index(lang, arts):
     t = T[lang]
@@ -802,6 +802,7 @@ def build():
     liens_morts()   # 27-11 : un lien vers un article pas encore paru devient du texte simple
     import liens_auto; liens_auto.main()  # 07-11 : liens internes automatiques vers les pages en ligne (mots-clés de la carte)
     import seo_medias; seo_medias.main()  # texte alternatif + titre de chaque image, sitemaps images et vidéos
+    import mots_medias; mots_medias.main()  # 28-11 : mot principal de la page dans ses médias (image principale, partage, audio, sitemap images)
     import mesure; mesure.main(False)  # balise Google Analytics + consentement sur toutes les pages
 
 if __name__ == '__main__':

@@ -11,12 +11,12 @@ discrètes : un lien en pied de page et un lien sur la page « Méditation en en
 """
 import json, os
 
-APP = ["Pour apprendre à méditer {a} sans attendre, l’application MeditaDream est gratuite : sans abonnement, sans publicité, sans compte. Elle propose un parcours pour débutants, des séances de 4 minutes et plus de cent méditations guidées en français, et fonctionne hors ligne.",
-       "Pas besoin d’attendre un atelier pour commencer : l’application MeditaDream est gratuite, sans abonnement ni compte. On y trouve un parcours pour débutants, des séances de 4 minutes pour une pause, et plus de cent méditations guidées en français, à écouter même hors ligne.",
-       "Entre deux séances, ou pour débuter seul {a}, l’application MeditaDream accompagne chacun gratuitement : aucun abonnement, aucune publicité, aucun compte à créer. Parcours pour débutants, séances de 4 minutes, plus de cent méditations guidées en français, utilisables hors ligne."]
-DEROULE = ["Tout commence par un échange sur vos attentes : taille de l’équipe, horaires, lieu. Nous vous adressons ensuite une proposition sur mesure. Entre deux séances, chacun continue librement avec l’application.",
-           "Un premier échange permet de comprendre votre contexte : nombre de participants, moments possibles dans la journée, salle ou visioconférence. Vous recevez ensuite une proposition écrite, puis les séances démarrent à la date qui vous convient.",
-           "Vous nous décrivez votre équipe et vos contraintes ; nous proposons un format, un rythme et un nombre de séances. Rien n’est imposé : on commence souvent par une séance de découverte, et l’on décide de la suite ensemble."]
+APP = ["Pour apprendre la méditation seul {a}, sans attendre, l’application MeditaDream est gratuite : sans abonnement, sans publicité, sans compte. Elle propose un parcours pour débutants, des séances de 4 minutes et plus de cent méditations guidées en français, et fonctionne hors ligne.",
+       "Pas besoin d’attendre un atelier pour apprendre la méditation seul : l’application MeditaDream est gratuite, sans abonnement ni compte. On y trouve un parcours pour débutants, des séances de 4 minutes pour une pause, et plus de cent méditations guidées en français, à écouter même hors ligne.",
+       "Entre deux séances, ou pour apprendre la méditation seul {a}, l’application MeditaDream accompagne chacun gratuitement : aucun abonnement, aucune publicité, aucun compte à créer. Parcours pour débutants, séances de 4 minutes, plus de cent méditations guidées en français, utilisables hors ligne."]
+DEROULE = ["Tout commence par un échange sur vos attentes : taille de l’équipe, horaires, lieu. Nous vous adressons ensuite une proposition sur mesure, d’une séance de découverte à un cours de méditation en entreprise sur plusieurs semaines. Entre deux séances, chacun continue librement avec l’application.",
+           "Un premier échange permet de comprendre votre contexte : nombre de participants, moments possibles dans la journée, salle ou visioconférence. Vous recevez ensuite une proposition écrite, puis le cours de méditation en entreprise démarre à la date qui vous convient.",
+           "Vous nous décrivez votre équipe et vos contraintes ; nous proposons un format, un rythme et un nombre de séances. Rien n’est imposé : on commence souvent par une séance de découverte, puis l’on décide ensemble d’un éventuel cours de méditation en entreprise."]
 
 
 def lieux(v):
@@ -24,8 +24,8 @@ def lieux(v):
     if v.get('local'):
         return f"Les séances ont lieu dans vos locaux, {v['a']} et en proche banlieue ({v['voisins']}), ou à distance en visioconférence."
     if v['pays'] == 'France':
-        return f"Les séances se tiennent à distance, en visioconférence, ou dans vos locaux {v['a']} et alentour ({v['voisins']}) lorsque le déplacement est possible."
-    return f"Les séances se tiennent à distance, en visioconférence. Un déplacement dans vos locaux, {v['a']} et alentour ({v['voisins']}), s’organise sur demande."
+        return f"Chaque atelier de méditation {v['a']} se tient à distance, en visioconférence, ou dans vos locaux, en ville et alentour ({v['voisins']}), lorsque le déplacement est possible."
+    return f"Chaque atelier de méditation {v['a']} se tient à distance, en visioconférence. Un déplacement dans vos locaux, sur place et alentour ({v['voisins']}), s’organise sur demande."
 
 
 def desc(v):
@@ -86,13 +86,13 @@ def build(bb, ap):
         plus = ''.join(f'<h2>{E(s["h2"])}</h2>' + ''.join(f'<p>{E(x)}</p>' for x in s['p']) for s in v.get('sections', []))
         bc = [(t['home'], '/fr/'), ('Formations à la méditation', base), (v['nom'], None)]
         q = [v['faq'],
-             ['Combien coûte une formation ?', 'Chaque proposition est construite sur mesure, selon le format, la durée et le nombre de participants. L’application, elle, est gratuite pour tous, sans abonnement ni version payante.'],
+             [f'Combien coûte une formation à la méditation {v["a"]} ?', f'Chaque proposition est construite sur mesure, selon le format, la durée et le nombre de participants. Pour pratiquer seul, la méditation {v["a"]}, c’est gratuit avec l’application, sans abonnement.'],
              ['Quelles données sont collectées sur les participants ?', 'Aucune. L’application ne demande pas de compte et ne collecte aucune donnée personnelle : les données de pratique restent sur le téléphone de chacun.']] + [list(x) for x in v.get('faq_plus', [])]
         autres = [x for x in villes if x['pays'] == v['pays'] and x is not v] + [x for x in villes if x['pays'] != v['pays']]   # 17-10 : toutes les villes (Luxembourg, Genève, Lausanne n'avaient que 1-2 liens entrants)
         liens = ''.join(f'<li><a href="{x["slug"]}.html">{E(x["nom"])}</a></li>' for x in autres)
         liens += f'<li><a href="./">Toutes les villes</a></li><li><a href="../{teams["slug"]}.html">{E(t["teams"])}</a></li>'
         body = (ap.crumbs('fr', bc) + f'<article><h1>{E(h1)}</h1><p class="lead">{E(d)}</p>'
-                f'<h2>Méditer au travail {E(v["a"])}</h2><p>{E(v["contexte"])}</p>'
+                f'<h2>Formation à la méditation {E(v["a"])} : méditer au travail</h2><p>{E(v["contexte"])}</p>'
                 f'<h2>Sur site ou à distance</h2><p>{E(lieux(v))}</p>' + plus +
                 f'<h2>Au programme</h2><ul>' + ''.join(f'<li>{E(b)}</li>' for b in D['programme']) + f'</ul><p>{E(DEROULE[i % 3])}</p>'
                 f'<h2>Apprendre à méditer {E(v["a"])}, gratuitement</h2><p>{E(APP[i % 3].format(a=v["a"]))}</p><ul class="ap-links">{app_links}</ul>'
@@ -118,7 +118,7 @@ def build(bb, ap):
                   + ''.join(f'<li><a href="{x["slug"]}.html">Formation méditation {E(x["a"])}</a></li>' for x in vs) + '</ul>')
     body = (ap.crumbs('fr', bc) + f'<article><h1>{E(hub["h1"])}</h1><p class="lead">{E(hub["intro"])}</p>'
             f'<h2>{E(hub["formats_h2"])}</h2><ul class="ap-list">{formats}</ul>{blocs}'
-            f'<h2>Pour les entreprises</h2><p>Le détail des ateliers, le déroulement et le formulaire de contact se trouvent sur la page '
+            f'<h2>Formation à la méditation pour les entreprises</h2><p>Le détail des ateliers, le déroulement et le formulaire de contact se trouvent sur la page '
             f'<a href="../{teams["slug"]}.html">{E(teams["h1"].split(" :")[0])}</a>.</p>' + ap.cta('fr') + '</article>')
     ld = ap.ld_tag({'@context': 'https://schema.org', '@graph': [
         {'@type': 'CollectionPage', 'name': hub['h1'], 'description': hub['desc'], 'url': bb.BASE + base, 'inLanguage': 'fr'},

@@ -13,7 +13,7 @@
   "title": {
    "fr": "Comment méditer : le guide du débutant pour commencer",
    "en": "How to Meditate: A Beginner’s Guide to Your First Session",
-   "es": "Qué es meditar y cómo empezar: guía para principiantes"
+   "es": "Qué es meditar y cómo se hace, y cómo empezar: guía para principiantes"
   },
   "desc": {
    "fr": "Comment méditer en partant de zéro ? Un guide gratuit pour apprendre à méditer : ce qu'est la méditation, comment commencer et les 5 idées reçues à éviter.",
@@ -39,7 +39,7 @@
   "modified": "2026-11-28",
   "seo_title": {
    "en": "How to Meditate for Beginners: A 5-Step Meditation Guide",
-   "es": "Qué es meditar, cómo se hace y cómo empezar (principiantes)",
+   "es": "Qué es meditar y cómo se hace: cómo empezar (principiantes)",
    "fr": "Comment méditer : guide gratuit du débutant pour commencer"
   },
   "faq": {
@@ -49,7 +49,7 @@
      "Meditar es entrenar la atención. ¿Cómo se medita? Te sientas con la espalda recta, eliges un punto de apoyo — casi siempre la respiración — y, cada vez que la mente se va, lo notas y vuelves con suavidad. Ese regreso, repetido, es toda la práctica. Para empezar bastan 5 minutos al día."
     ],
     [
-     "¿Cómo empezar a meditar si eres principiante?",
+     "¿Cómo empezar a meditar? Consejos para principiantes",
      "Empieza con sesiones cortas y regulares: 5 minutos, a la misma hora, sentado en una silla. Lleva la atención a la respiración y vuelve a ella cada vez que te distraigas. La primera semana, intenta meditar seis de los siete días, siempre con la misma técnica. Una sesión guiada ayuda: en MeditaDream, «Primera meditación silenciosa» dura 5 minutos y es gratis."
     ],
     [
@@ -76,11 +76,15 @@
     ],
     [
      "Faut-il une méditation guidée quand on est débutant ?",
-     "Ce n'est pas obligatoire, mais c'est le plus simple. Pour débuter en méditation, une voix qui te guide t'évite de te demander si tu fais bien, et te ramène quand tu t'égares. Dans MeditaDream, les séances de méditation pour débutants de la catégorie Apprentissage sont gratuites et durent de 5 à 19 minutes. Plus tard, tu pourras alterner avec des séances en silence."
+     "Ce n'est pas obligatoire, mais c'est le plus simple. Pour débuter en méditation, une voix qui te guide t'évite de te demander si tu fais bien, et te ramène quand tu t'égares. Dans MeditaDream, les séances de méditation guidée pour débutants de la catégorie Apprentissage sont gratuites et durent de 5 à 19 minutes. Plus tard, tu pourras alterner avec des séances en silence."
     ],
     [
      "Peut-on apprendre à méditer seul, sans professeur ?",
      "Oui. Tu peux apprendre seul les gestes de base, chez toi : une posture stable, l'attention sur le souffle, et le retour patient quand l'esprit s'échappe. Pour démarrer, un guide écrit et quelques séances guidées suffisent. Un professeur ou un groupe sera utile plus tard, si tu veux approfondir ou si la pratique fait remonter des émotions difficiles."
+    ],
+    [
+     "Peut-on apprendre à méditer gratuitement ?",
+     "Oui. Ce guide est en accès libre, et apprendre à méditer reste gratuit avec MeditaDream. Les séances guidées de la catégorie Apprentissage sont sans abonnement, sans publicité et sans compte. Une fois l'application téléchargée, elles fonctionnent même hors ligne. Ce que tu investis, ce sont quelques minutes par jour."
     ]
    ]
   },
@@ -116,7 +120,7 @@
    "es": "Cómo dormir rápido sin perseguir el sueño: la respiración 4-7-8 paso a paso, una meditación guiada para dormir y qué hacer si te despiertas a las 3."
   },
   "intro": {
-   "fr": "Une méditation pour dormir ne cherche pas à t'endormir de force : elle occupe doucement l'esprit jusqu'à ce qu'il lâche prise tout seul. Posture allongée, respiration 4-7-8, scan corporel du soir, réveil de 3 h du matin : voici comment t'endormir plus facilement, ce soir.",
+   "fr": "Une méditation pour dormir ne cherche pas à t'endormir de force : elle occupe doucement l'esprit jusqu'à ce qu'il lâche prise tout seul. Posture allongée, respiration 4-7-8, scan corporel du soir, réveil de 3 h du matin : voici comment s'endormir plus facilement, dès ce soir.",
    "en": "A sleep meditation doesn't force you to sleep: it gently occupies the mind until it lets go on its own. Lying posture, 4-7-8 breathing, the evening body scan, the 3 a.m. wake-up: here's how to meditate for sleep and drift off more easily, starting tonight.",
    "es": "Una meditación para dormir no te fuerza a dormir: ocupa suavemente la mente hasta que suelta por sí sola. Postura tumbada, técnica de respiración 4-7-8, escaneo corporal nocturno, el despertar de las 3: así puedes dormirte más fácil, esta misma noche."
   },
@@ -128,7 +132,7 @@
   "faq": {
    "fr": [
     [
-     "Peut-on s'endormir pendant une méditation guidée ?",
+     "Peut-on s'endormir pendant la méditation guidée ?",
      "Le soir, c'est même le but : les méditations pour dormir sont écrites pour être quittées en route. Choisis une séance qui se termine en silence, et laisse la voix continuer sans toi."
     ],
     [
@@ -174,7 +178,7 @@
      "It's a quick relaxation routine named after its use in training military pilots. You soften the face, drop the shoulders and arms, then the legs, breathing out slowly each time. Then you picture a calm scene for about ten seconds. It works like an express body scan, and pairs well with 4-7-8 breathing."
     ],
     [
-     "What should you do when you can't sleep?",
+     "What to do when you can't sleep?",
      "Stop trying: the effort itself keeps you awake. Dim the lights, put the phone out of reach, and give your attention one slow, simple thing: a long exhale, the weight of your body on the mattress, a quiet voice. If the mind keeps listing tomorrow's tasks, write them down on paper, then come back to the breath."
     ],
     [
@@ -200,7 +204,7 @@
      "Túmbate boca arriba, haz unos ciclos de respiración 4-7-8 y pon una meditación guiada de 10 a 20 minutos. No intentes dormirte: sigue la voz y deja que el sueño llegue solo."
     ],
     [
-     "¿Cuántas veces hay que hacer la respiración 4-7-8?",
+     "Respiración 4-7-8: ¿cuántas veces hay que hacerla?",
      "De cuatro a ocho ciclos seguidos, ya acostado. Al principio quédate en cuatro: las retenciones pueden marear si no tienes costumbre. Hacer más no la vuelve más eficaz; lo que cuenta es la exhalación lenta y repetirla cada noche. Ante cualquier mareo, vuelve a respirar con normalidad."
     ],
     [
@@ -256,7 +260,7 @@
    "es": "postura-de-meditacion-4-posiciones"
   },
   "title": {
-   "fr": "Position méditation : 4 choix et 7 points de posture",
+   "fr": "Position de méditation : 4 choix et 7 points de posture",
    "en": "Best meditation posture: 4 positions that actually work",
    "es": "Posturas para meditar: 4 posiciones válidas"
   },
@@ -265,21 +269,21 @@
    "fr": "Position de méditation : 4 postures pour méditer sans forcer"
   },
   "desc": {
-   "fr": "Quelle position pour méditer ? Chaise, tailleur, seiza ou allongé, sans forcer la position du lotus : les 7 points d’une posture de méditation détendue.",
+   "fr": "Quelle position pour méditer ? Chaise, tailleur, seiza ou allongé : 4 positions de méditation sans lotus forcé, et les 7 points d’une posture de méditation.",
    "en": "The best meditation posture, with diagrams: 4 meditation positions and poses (chair, cross-legged, seiza, lying down) and the 7 points of a dignified posture.",
    "es": "Posturas para meditar con comodidad: en silla, con las piernas cruzadas, en seiza o acostado. Los 7 puntos de una buena posición de meditación, sin dolor."
   },
   "published": "2026-08-31",
   "intro": {
    "fr": "La posture de méditation n'exige ni souplesse ni lotus. Quelle que soit ta position de méditation — sur une chaise, en tailleur, à genoux ou allongé —, l'essentiel tient en sept points simples. Voici comment t'installer pour méditer confortablement, sans douleur, dès ta première séance guidée.",
-   "en": "A meditation posture requires neither flexibility nor the lotus: whichever of the four meditation positions you choose — chair, cross-legged, kneeling or lying down — it all comes down to seven simple points. Here's how to sit comfortably and meditate without pain, from your very first guided session.",
+   "en": "A meditation posture requires neither flexibility nor the lotus: whichever of the four meditation positions you choose — chair, cross-legged, kneeling or lying down — it all comes down to seven simple points. Here's how to sit for meditation comfortably and without pain, from your very first guided session.",
    "es": "La postura de meditación no exige flexibilidad ni la flor de loto: en una silla, con las piernas cruzadas, de rodillas o tumbado, todo cabe en siete puntos sencillos. Así puedes sentarte cómodo y meditar sin dolor desde tu primera sesión guiada."
   },
   "faq": {
    "fr": [
     [
      "Faut-il méditer en lotus ?",
-     "Non. Le lotus n'a rien d'obligatoire : une chaise donne exactement la même qualité de méditation. Le seul critère est de tenir la position sans douleur pendant toute la séance, dos droit et corps relâché."
+     "Non. Le lotus n'a rien d'obligatoire : une chaise donne exactement la même qualité de méditation. Le seul critère d'une bonne position de méditation : la tenir sans douleur pendant toute la séance, dos droit et corps relâché."
     ],
     [
      "Comment méditer allongé ?",
@@ -293,21 +297,21 @@
    "en": [
     [
      "Do I need the lotus position to meditate?",
-     "No. The lotus is the classic Buddha meditation posture, but it is not required: a chair gives exactly the same quality of meditation. The only test is holding the position without pain for the whole session, back straight and body relaxed."
+     "No. The lotus is the classic Buddha meditation posture, but it is not required: a chair gives exactly the same quality of meditation. The best meditation posture passes one test: holding it without pain for the whole session, back straight and body relaxed."
     ],
     [
      "Can you meditate lying down?",
      "Yes — especially for the body scan, deep relaxation and meditation for sleep. If you're wondering how to meditate in bed, lie on your back, arms alongside the body. The risk is falling asleep: if that isn't the goal, keep a forearm raised or choose a seated position."
     ],
     [
-     "What if my back hurts while meditating?",
+     "Meditation posture and back pain: what if my back hurts?",
      "Start on a chair, feet flat, sitting toward the front edge so the spine holds itself. If sharp pain appears, in the back or the knees, change position without hesitation: a good meditation posture stays comfortable."
     ]
    ],
    "es": [
     [
      "¿Hay que meditar en la postura de loto?",
-     "No. El loto no es obligatorio: una silla da exactamente la misma calidad de meditación. El único criterio es mantener la posición sin dolor durante toda la sesión, con la espalda erguida y el cuerpo suelto."
+     "No. El loto no es obligatorio: una silla da exactamente la misma calidad de meditación. El único criterio, en todas las posturas para meditar, es mantener la posición sin dolor durante toda la sesión, con la espalda erguida y el cuerpo suelto."
     ],
     [
      "¿Se puede meditar tumbado?",
@@ -330,7 +334,7 @@
      "Sentado en una silla: no exige flexibilidad y la espalda se sostiene sola. Apoya los pies planos en el suelo, deja las rodillas en ángulo recto, sepárate del respaldo y posa las manos sobre los muslos. Cuando la mantengas diez minutos sin esfuerzo, prueba el cojín o el banco."
     ],
     [
-     "¿Cómo se llama la posición de meditación?",
+     "Posición de meditación: ¿cómo se llama?",
      "Depende de la postura. Con las piernas cruzadas, la más sencilla es sukhasana, «postura fácil» en sánscrito; el loto se llama padmasana; de rodillas sobre los talones, vajrasana en el yoga y seiza en Japón; y tumbado boca arriba, savasana. No necesitas recordar los nombres para meditar bien."
     ]
    ]
@@ -409,7 +413,7 @@
     ],
     [
      "La cohérence cardiaque, c'est quoi ?",
-     "Une respiration lente et régulière, à six cycles par minute : cinq secondes d'inspiration, cinq secondes d'expiration — d'où son autre nom, la respiration 5-5. À cette cadence, le rythme du cœur se cale sur celui du souffle, ce qui favorise le retour au calme. Elle se pratique assis, le dos droit, pendant cinq minutes."
+     "Une respiration lente et régulière, à six cycles par minute : cinq secondes d'inspiration, cinq secondes d'expiration — d'où son autre nom, la respiration 5-5. À cette cadence, le rythme du cœur se cale sur celui du souffle, ce qui favorise le retour au calme. Elle se pratique assis, le dos droit, en respiration abdominale, pendant cinq minutes."
     ],
     [
      "Respiration et méditation : faut-il contrôler son souffle ?",
@@ -559,7 +563,7 @@
      "Parce que ça marche ! Si ce n'est pas le but, pratique assis, en journée, les yeux mi-clos — et garde la version allongée pour le coucher."
     ],
     [
-     "Comment faire un scan corporel (body scan) pour dormir ?",
+     "Comment faire un scan corporel (body scan) en méditation pour dormir ?",
      "Allonge-toi sur le dos, lumière éteinte, et commence la méditation par les pieds : parcours le corps très lentement, jusqu'à la tête, en laissant chaque zone s'alourdir sur le matelas à l'expiration. Ne cherche pas le sommeil : contente-toi de sentir. Si tu arrives au sommet du crâne encore éveillé, repars des pieds, plus lentement encore."
     ]
    ],
@@ -678,7 +682,7 @@
      "Oui, complètement. Un esprit qui produit des pensées est un esprit qui fonctionne. La méditation ne vise pas le vide mental : elle entraîne le retour de l'attention, des dizaines de fois par séance."
     ],
     [
-     "La méditation de pleine conscience, c'est quoi exactement ?",
+     "C'est quoi, la pleine conscience, exactement ?",
      "Porter l'attention sur l'instant présent, sans juger ce qui s'y trouve : la respiration, les sons, les pensées qui passent. C'est la base de la plupart des méditations guidées pour débutant."
     ],
     [
@@ -695,7 +699,7 @@
     ],
     [
      "Je n'arrive pas à méditer, je pense trop : que faire ?",
-     "Remarquer que tu penses trop, c'est déjà méditer : c'est l'étape 3 du cycle. Raccourcis la séance à cinq minutes. La respiration 4-7-8 aide aussi : elle ne sert pas à arrêter les pensées, mais elle calme le corps, et le mental suit."
+     "Remarquer que tu penses trop, c'est déjà méditer : c'est l'étape 3 du cycle. Raccourcis la séance à cinq minutes. Tu cherches à arrêter les pensées ? La respiration 4-7-8 ne les coupe pas, mais elle calme le corps, et le mental suit."
     ]
    ],
    "en": [
@@ -720,7 +724,7 @@
      "It can help, because it trains the one move overthinking lacks: noticing that you're caught in a loop, and stepping back. Many people find the loops loosen with regular practice, though this varies from person to person. It's a practice, not a quick fix, and it doesn't replace professional support when thoughts become overwhelming."
     ],
     [
-     "How do you practice mindfulness for overthinking?",
+     "How to practice mindfulness for overthinking?",
      "Choose one anchor: the breath at the nostrils, or your feet on the floor. When you notice you're lost in a thought, name it with one neutral word — “planning,” “replaying” — and come back to the anchor. Repeat as often as needed, five minutes a day to start. The aim isn't fewer thoughts; it's less pull."
     ]
    ],
@@ -743,7 +747,7 @@
     ],
     [
      "¿Cómo poner la mente en blanco para dormir?",
-     "Tampoco hace falta dejar la mente en blanco: dale algo sencillo que seguir. Acostado, cuenta las exhalaciones del 1 al 10; cuando aparezca un pensamiento, ponle una palabra — «plan», «recuerdo» — y vuelve a la cuenta. No intentes dormirte: deja que el sueño llegue solo."
+     "Tampoco hace falta saber cómo dejar la mente en blanco: dale algo sencillo que seguir. Acostado, cuenta las exhalaciones del 1 al 10; cuando aparezca un pensamiento, ponle una palabra — «plan», «recuerdo» — y vuelve a la cuenta. No intentes dormirte: deja que el sueño llegue solo."
     ],
     [
      "¿Cómo calmar la mente cuando no para?",
@@ -800,13 +804,13 @@
   },
   "title": {
    "fr": "Mindfulness ou pleine conscience : définition et geste clé",
-   "en": "Mindfulness in simple terms: what it is, how to practice it",
+   "en": "What is mindfulness in simple terms, and how do you practice it?",
    "es": "Mindfulness: qué es y cómo se practica la atención plena"
   },
   "desc": {
    "fr": "Qu’est-ce que la pleine conscience (mindfulness) ? Définition en une phrase, quatre idées reçues et le geste à pratiquer, en méditation comme au quotidien.",
    "en": "What is mindfulness in simple terms? A one-sentence definition, four stubborn myths, and how to practice mindfulness in meditation and in everyday life.",
-   "es": "Qué es y cómo se practica el mindfulness, o atención plena: su definición en una frase, cuatro malentendidos tenaces y tres ejercicios para empezar hoy."
+   "es": "Mindfulness, qué es y cómo se practica: la atención plena y su definición en una frase, cuatro malentendidos tenaces y tres ejercicios para empezar hoy."
   },
   "intro": {
    "fr": "« Pleine conscience », ou mindfulness, est partout, et rarement définie. C'est pourtant simple : porter son attention sur l'instant présent, délibérément, sans juger. Voici ce que ça veut dire concrètement, ce que ce n'est pas, et comment la pratiquer — en méditation guidée comme dans la vraie vie.",
@@ -881,6 +885,10 @@
    ],
    "es": [
     [
+     "Mindfulness: ¿qué es y cómo se practica?",
+     "Es poner la atención en el momento presente, a propósito y sin juzgar. Se practica de dos formas: sentado, unos minutos al día, con la respiración como ancla, y en la vida diaria, al fregar, al caminar o al escuchar a alguien."
+    ],
+    [
      "¿Qué diferencia hay entre meditación y mindfulness?",
      "El mindfulness, o atención plena, es una manera de prestar atención; la meditación es el tiempo dedicado en el que se entrena. Puedes estar en atención plena fregando los platos — esa es la práctica informal."
     ],
@@ -893,7 +901,7 @@
      "La relajación aparece en las primeras sesiones; el cambio en la forma de reaccionar en el día a día suele tardar unas semanas de práctica regular."
     ],
     [
-     "¿Qué es el mindfulness y para qué sirve?",
+     "Mindfulness: ¿qué es y para qué sirve?",
      "Es prestar atención al momento presente, a propósito y sin juzgar. Sirve para entrenar la atención: notar antes cuándo la mente se ha ido, volver con más facilidad y responder a lo que pasa en lugar de reaccionar en automático. No es una solución para todo ni sustituye un acompañamiento profesional: es una práctica, y se afina con la regularidad."
     ]
    ]
@@ -943,7 +951,7 @@
   },
   "title": {
    "fr": "Méditation de 5 minutes : courte, mais réelle",
-   "en": "5-minute meditation: 3 short mindfulness practices that work",
+   "en": "5-minute mindfulness meditation: 3 short practices for busy days",
    "es": "Meditación: 5 minutos que cuentan de verdad"
   },
   "seo_title": {
@@ -957,7 +965,7 @@
    "es": "Meditación de 5 minutos: tres ejercicios que funcionan (respiración coherente, escaneo exprés, técnica 5-4-3-2-1) y una meditación guiada de 5 minutos."
   },
   "intro": {
-   "fr": "Pas le temps de méditer ? Cinq minutes suffisent — pas comme version au rabais, mais comme un outil à part entière : la pause courte interrompt l'emballement de la journée et construit l'habitude. Trois formats express, et les meilleurs moments pour les placer.",
+   "fr": "Pas le temps de méditer ? Cinq minutes suffisent — pas comme version au rabais, mais comme un outil à part entière : la méditation courte interrompt l'emballement de la journée et construit l'habitude. Trois formats express, et les meilleurs moments pour les placer.",
    "en": "No time to meditate? Five minutes is enough — not as a cut-rate version, but as a tool in its own right: a 5-minute mindfulness meditation interrupts a runaway day and builds the habit. Three express formats, and the best moments to place them.",
    "es": "¿Sin tiempo para meditar? Cinco minutos bastan — no como versión rebajada, sino como herramienta propia: la pausa corta interrumpe un día desbocado y construye el hábito. Tres formatos exprés, y los mejores momentos para colocarlos."
   },
@@ -973,7 +981,7 @@
      "Tenues chaque jour, elles installent le réflexe de revenir au calme — et c'est ce réflexe, plus que la durée, qui change les journées. Beaucoup allongent naturellement leurs séances au bout de quelques semaines."
     ],
     [
-     "Méditation 5 minutes : matin ou soir ?",
+     "Méditation de 5 minutes : matin ou soir ?",
      "Le moment que tu peux tenir. Le matin protège la séance des imprévus ; les transitions (avant une réunion, en rentrant) donnent l'effet le plus immédiat."
     ],
     [
@@ -1076,17 +1084,17 @@
   "title": {
    "fr": "Méditation du matin en 10 minutes : bien lancer sa journée",
    "en": "10-minute morning meditation: how to start your day right",
-   "es": "Meditación de la mañana en 10 minutos: empieza bien el día"
+   "es": "Meditación de 10 minutos para la mañana: empieza bien el día"
   },
   "seo_title": {
-   "es": "Meditación de la mañana: 5 o 10 minutos al despertar",
+   "es": "Meditación de 10 minutos para la mañana: ritual al despertar",
    "en": "10-minute morning meditation: a simple 5-step routine",
    "fr": "Méditation du matin : une routine matinale en 10 minutes"
   },
   "desc": {
    "fr": "La méditation du matin en 10 minutes : pourquoi elle change la journée, le rituel pas à pas, ses trois pièges et comment tenir sa routine matinale.",
    "en": "A 10-minute morning meditation routine in 5 steps: belly breathing, attention, one intention. Why it changes your day, and three traps to avoid.",
-   "es": "Meditación de la mañana en 10 minutos (o en 5): un ritual al despertar con respiración abdominal, atención e intención, y las tres trampas que lo sabotean."
+   "es": "Meditación de 10 minutos para la mañana (o de 5): un ritual al despertar con respiración abdominal, atención e intención, y las tres trampas que lo sabotean."
   },
   "intro": {
    "fr": "Dix minutes de méditation le matin, avant le premier écran, et la journée démarre depuis le calme au lieu de l'urgence. Voici un rituel simple et tenable — réveil, posture, respiration abdominale, intention — et comment déjouer les pièges qui le sabotent.",
@@ -1102,7 +1110,7 @@
    "fr": [
     [
      "À quelle heure méditer le matin ?",
-     "Juste après le réveil, avant le téléphone et si possible avant le petit-déjeuner : l'esprit est encore calme, et rien n'a encore pu annuler la séance."
+     "Au réveil, avant le téléphone et si possible avant le petit-déjeuner : l'esprit est encore calme, et rien n'a encore pu annuler la séance."
     ],
     [
      "Café avant ou après ?",
@@ -1114,7 +1122,7 @@
     ],
     [
      "Peut-on faire une méditation du matin en 5 minutes ?",
-     "Oui. Garde l'ossature du rituel : une minute assis au bord du lit, trois minutes de respiration abdominale, une minute pour poser ton intention. Les jours pressés, cette version courte suffit à démarrer depuis le calme ; reviens aux dix minutes dès que tu le peux."
+     "Oui. Une méditation de 5 minutes le matin garde l'ossature du rituel : une minute assis au bord du lit, trois minutes de respiration abdominale, une minute pour poser ton intention. Les jours pressés, cette version courte suffit à démarrer depuis le calme ; reviens aux dix minutes dès que tu le peux."
     ]
    ],
    "en": [
@@ -1131,7 +1139,7 @@
      "The ritual folds down to five or three minutes, seated on the edge of the bed. And if nothing works, meditate at your true morning hinge: on the train, or before opening your email."
     ],
     [
-     "Is a 5-minute meditation, morning after morning, really enough?",
+     "Is a 5-minute morning meditation, day after day, really enough?",
      "Yes. In a morning meditation for beginners, regularity matters more than length: five minutes kept every day build the habit. You can lengthen later; on rushed days, even three minutes keep the thread."
     ],
     [
@@ -1147,7 +1155,7 @@
      "It's better not to: in the morning, lying down tells the body it's still time to sleep, and you drift off. Get out of bed if you can, sit on a chair near a window, turn the light on and keep your eyes half-open. Save lying down for evening sessions."
     ],
     [
-     "Can a 10-minute morning meditation give you positive energy?",
+     "Does a 10-minute morning meditation for positive energy really work?",
      "It doesn't add energy the way coffee does; it changes the tone. You start from calm, with one clear intention, and the day often feels lighter for it. For the most upbeat version of the ritual, end with the gratitude step: name one thing you're grateful for before you open your eyes."
     ]
    ],
@@ -1173,7 +1181,7 @@
      "La que vas a hacer de verdad cada día. Una meditación de 10 minutos para la mañana basta: respiración abdominal, atención e intención. Con prisa, cinco minutos también cuentan."
     ],
     [
-     "¿Se puede hacer una meditación de 10 minutos por la mañana, tumbado?",
+     "¿Se puede hacer meditación por la mañana, 10 minutos, tumbado?",
      "Se puede, pero no en la cama: tumbado y bajo las sábanas, lo más probable es que te vuelvas a dormir. Si prefieres esa postura, hazlo sobre una esterilla, con la luz encendida y los ojos entreabiertos. Sentado, la mente se mantiene despierta con menos esfuerzo."
     ]
    ]
@@ -1326,22 +1334,22 @@
      "There is no official count: traditions name dozens. In practice, most fall into a few families — concentration, open awareness, body-based, heart-based and visualization practices. This guide covers 14 of the most common, from mindful breathing for beginners to Vipassana and zazen for experienced meditators."
     ],
     [
-     "What is the best meditation technique for beginners?",
+     "What are the best meditation techniques for beginners?",
      "Mindful breathing: five to ten minutes of attention on the breath, coming back each time the mind wanders. Every other technique builds on it. If sitting still is hard, try walking meditation, or the body scan lying down; all three are meditation techniques for beginners, and none requires experience."
     ],
     [
-     "Which mindfulness techniques help with stress?",
+     "Which mindfulness techniques for stress should you try?",
      "For a spike of stress, use the short ones: the physiological sigh, the STOP method or 5-4-3-2-1 grounding take three minutes at most. For tension that builds over the day, the body scan and mindful breathing work better. They are tools for everyday stress; they do not replace support from a professional when it becomes too heavy."
     ],
     [
-     "What are some examples of mindfulness techniques?",
+     "What are the main mindfulness techniques, with examples?",
      "Mindful breathing, the body scan, mindful eating (the raisin exercise), walking meditation and listening to sounds are the classic examples. Each one trains the same move: placing attention on something present, noticing when it has drifted, and bringing it back without judging."
     ]
    ],
    "es": [
     [
      "¿Cuántos tipos de meditación hay?",
-     "No hay una cifra oficial: cada tradición cuenta las suyas y existen decenas. Para orientarte bastan cuatro familias: concentración, presencia abierta, cultivo de una cualidad y prácticas del cuerpo o de los sentidos. Esta guía explica 14 técnicas, de la respiración consciente a la meditación sonora."
+     "No hay una cifra oficial: cada tradición cuenta las suyas y existen decenas de tipos de meditación, como la trascendental o el zazen. Para orientarte bastan cuatro familias: concentración, presencia abierta, cultivo de una cualidad y prácticas del cuerpo o de los sentidos. Esta guía explica 14 técnicas, de la respiración consciente a la meditación sonora."
     ],
     [
      "¿Cuáles son los tipos de meditación para principiantes?",
@@ -1361,7 +1369,7 @@
     ],
     [
      "¿Qué técnicas de meditación ayudan con el estrés y la ansiedad?",
-     "Las que pasan por el cuerpo son las más directas: escaneo corporal, respiración con exhalación larga y micromeditaciones como STOP o el anclaje 5-4-3-2-1. Para una emoción fuerte, el método RAIN ayuda a atravesarla sin pelear con ella. Son apoyos para el día a día: si la ansiedad es intensa o frecuente, habla con un profesional de la salud."
+     "Entre las técnicas de meditación para el estrés, las que pasan por el cuerpo son las más directas: escaneo corporal, respiración con exhalación larga y micromeditaciones como STOP o el anclaje 5-4-3-2-1. Para una emoción fuerte, el método RAIN ayuda a atravesarla sin pelear con ella. Son apoyos para el día a día: si la ansiedad es intensa o frecuente, habla con un profesional de la salud."
     ]
    ],
    "fr": [
@@ -1371,7 +1379,7 @@
     ],
     [
      "Quelle technique de méditation pour débutant ?",
-     "Commence par la respiration consciente : cinq à dix minutes par jour, le temps que le geste devienne familier. Ajoute ensuite le scan corporel, puis la marche méditative si rester assis te pèse. Huit des quatorze techniques de ce guide portent le badge Débutant ; garde Vipassana et zazen pour plus tard, quand quinze minutes d'attention au souffle te seront devenues faciles."
+     "Commence par la respiration consciente : cinq à dix minutes par jour, le temps que le geste devienne familier. Ajoute ensuite le scan corporel, puis la marche méditative si rester assis te pèse. Huit des quatorze techniques de méditation de ce guide portent le badge Débutant ; garde Vipassana et zazen pour plus tard, quand quinze minutes d'attention au souffle te seront devenues faciles."
     ],
     [
      "Quel type de méditation choisir ?",
@@ -1579,7 +1587,7 @@
     ],
     [
      "Comment pratiquer la méditation de bienveillance envers soi-même ?",
-     "En 5 minutes, c'est possible. Assieds-toi, une main sur le cœur si le geste t'aide, et répète lentement les quatre souhaits pour toi : que je sois en sécurité, en paix, en bonne santé, que ma vie soit douce. Si c'est trop difficile, pense d'abord à un proche, puis reviens vers toi."
+     "Une méditation de bienveillance de 5 minutes suffit. Assieds-toi, une main sur le cœur si le geste t'aide, et répète lentement les quatre souhaits pour toi : que je sois en sécurité, en paix, en bonne santé, que ma vie soit douce. Si c'est trop difficile, pense d'abord à un proche, puis reviens vers toi."
     ],
     [
      "Quelle différence entre metta et méditation de compassion ?",
@@ -1589,7 +1597,7 @@
    "en": [
     [
      "Do I need to feel something for it to work?",
-     "No — that's the most common misunderstanding. You repeat an intention, not an emotion. Warmth shows up later, sometimes after several weeks of practice."
+     "No — that's the most common misunderstanding. In metta loving-kindness meditation, you repeat an intention, not an emotion. Warmth shows up later, sometimes after several weeks of practice."
     ],
     [
      "Can I skip the 'yourself' step?",
@@ -1623,7 +1631,7 @@
     ],
     [
      "¿Qué beneficios tiene la meditación metta?",
-     "Lo que entrena es un tono interior más amable: menos dureza contigo y algo más de paciencia con los demás. Los estudios sobre la bondad amorosa apuntan a más emociones positivas cuando se practica con regularidad, con efectos modestos y distintos en cada persona. Es un entrenamiento, no un sustituto de la ayuda profesional."
+     "Lo que entrena es un tono interior más amable: menos dureza contigo y algo más de paciencia con los demás. Los estudios sobre la meditación metta y sus beneficios apuntan a más emociones positivas cuando se practica con regularidad, con efectos modestos y distintos en cada persona. Es un entrenamiento, no un sustituto de la ayuda profesional."
     ]
    ]
   },
@@ -1701,7 +1709,7 @@
     ],
     [
      "Comment pratiquer la méditation au quotidien quand on manque de temps ?",
-     "Glisse-la dans ce que tu fais déjà. Trois respirations avant une réunion, une minute d'écoute dans le métro, un scan après le sport : tout compte. Ces micro-pratiques entraînent la même attention, par petites touches."
+     "Glisse-la dans ce que tu fais déjà. Trois respirations avant une réunion, une minute d'écoute dans le métro, un scan après le sport : tout compte. Ces micro-pratiques entraînent la même attention, par petites touches : vivre en pleine conscience, c'est exactement cela."
     ],
     [
      "Pourquoi méditer tous les jours ?",
@@ -1741,7 +1749,7 @@
     ],
     [
      "¿Hay que meditar todos los días?",
-     "No es una obligación, pero ayuda: la atención se entrena por repetición, y cinco minutos diarios dejan más huella que una hora el domingo. Si un día no puedes, no has perdido nada: retoma al siguiente, aunque sea con dos minutos. Lo que conviene evitar es convertir la práctica en una deuda."
+     "No es una obligación, pero ayuda: la atención se entrena por repetición, y cinco minutos diarios dejan más huella que una hora el domingo. Si un día no puedes, no has perdido nada: retoma al siguiente, aunque sea con dos minutos. Lo que conviene evitar es convertir la práctica en una deuda. El mindfulness en la vida cotidiana también cuenta: tres respiraciones conscientes ya son práctica."
     ]
    ]
   },
@@ -1842,7 +1850,7 @@
     ],
     [
      "Are the benefits of meditation scientifically proven?",
-     "Some are well supported, others are not. The effects on everyday stress, attention and sleep hold up when people who meditate are compared with people who don't. Claims about immunity or slower aging remain promising rather than proven. And results vary from one person to the next: meditation is a practice, not a guarantee."
+     "Some are well supported, others are not. The effects on everyday stress, attention and sleep come closest to scientifically proven benefits of meditation: they hold up when people who meditate are compared with people who don't. Claims about immunity or slower aging remain promising rather than proven. And results vary from one person to the next: meditation is a practice, not a guarantee."
     ]
    ],
    "es": [
@@ -1905,8 +1913,8 @@
   ],
   "image": 18,
   "slug": {
-   "fr": "voyage-astral-progression",
-   "en": "astral-projection-step-by-step",
+   "fr": "comment-faire-un-voyage-astral",
+   "en": "how-to-astral-project-step-by-step",
    "es": "como-hacer-un-viaje-astral"
   },
   "title": {
@@ -2000,7 +2008,7 @@
   "image": null,
   "slug": {
    "fr": "reve-lucide-sommeil-conscient",
-   "en": "lucid-dreaming-conscious-sleep",
+   "en": "how-to-lucid-dream",
    "es": "diario-de-suenos-sueno-lucido"
   },
   "title": {
@@ -3027,8 +3035,8 @@
   "image": null,
   "slug": {
    "fr": "symboles-archetypes-mondes-interieurs",
-   "en": "symbols-archetypes-inner-worlds",
-   "es": "simbolos-arquetipos-mundos-interiores"
+   "en": "meditation-symbols-and-meanings",
+   "es": "simbolos-espirituales-y-arquetipos"
   },
   "title": {
    "fr": "Archétypes et symboles en méditation : les mondes intérieurs",
@@ -3222,7 +3230,7 @@
   ],
   "image": 19,
   "slug": {
-   "fr": "seance-de-meditation-guidee",
+   "fr": "comment-bien-mediter-seance-guidee",
    "en": "guided-meditation-tips",
    "es": "como-hacer-una-meditacion-guiada"
   },

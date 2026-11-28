@@ -3,7 +3,7 @@
 """Outils en ligne du site, par langue (27-11-2026) : des pages où l'on PRATIQUE tout de suite, dans le navigateur.
 
   « respiration » : cohérence cardiaque (5-5), respiration 4-7-8, respiration carrée (4-4-4-4), guidées par un cercle
-      /fr/exercice-de-respiration.html   /en/breathing-exercise.html   /es/ejercicio-de-respiracion.html
+      /fr/exercice-de-respiration-coherence-cardiaque.html   /en/guided-breathing-exercises.html   /es/ejercicios-de-respiracion-guiados.html
 
 Textes : _tools/outils_<langue>.json, une clé par outil :
   slug, seo (balise title), desc, h1, fil (fil d'Ariane), lead (la phrase sous le H1), image_alt (image de partage),

@@ -1,6 +1,6 @@
 {
  "respiration": {
-  "slug": "breathing-exercise",
+  "slug": "guided-breathing-exercises",
   "mots": {
    "_note": "27-11 — volumes Keyword Planner (réservoirs du 06-11). « breathing exercises » et « box breathing » sont déjà les mots principaux de deux articles du blog : cette page vise l’intention outil (suivre un guide tout de suite), avec « guided breathing exercises » (+900 % sur un an).",
    "principal": {
@@ -103,7 +103,7 @@
   "sections": [
    {
     "id": "how-it-works",
-    "h2": "How does this breathing timer work?",
+    "h2": "How do these guided breathing exercises work?",
     "p": [
      "Nothing to download and no account to create. The timer runs on this page, on your phone or your computer."
     ],
@@ -211,7 +211,7 @@
     "monde": "antiqueTemple",
     "monde_cap": "{monde}, one of the {worlds} immersive worlds in the app.",
     "p": [
-     "Here, a circle paces your breath. In the MeditaDream app, a voice guides you: {meds} guided meditations, {cats} categories and {worlds} immersive worlds."
+     "Here, a circle paces your breath. In MeditaDream, a [free meditation app](/en/), a voice guides you: {meds} guided meditations, {cats} categories and {worlds} immersive worlds."
     ],
     "ul": [
      {
