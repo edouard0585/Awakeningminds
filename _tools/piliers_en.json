@@ -1,13 +1,13 @@
 {
  "mondes": {
   "slug": "",
-  "seo": "Immersive Meditation: 17 Guided Visualization Journeys",
-  "desc": "17 immersive meditation worlds: a mountain temple, Atlantis, a wolf spirit forest. Guided visualization journeys of 13 to 20 minutes, free and offline.",
+  "seo": "Immersive Meditation: 17 Free Guided Visualization Journeys",
+  "desc": "17 immersive meditation worlds: a mountain temple, Atlantis, a wolf spirit forest. Guided visualization journeys of 13 to 19 minutes, free and offline.",
   "h1": "Immersive meditation worlds: guided journeys for the mind",
   "eyebrow": "Complete guide",
   "lead": "Some days, watching your breath is not enough to quiet a busy mind. An immersive meditation takes you somewhere else: a temple in the mist, a city under the sea, a forest guarded by wolves. Here is how it works.",
   "def": "**Immersive meditation** is a guided visualization set in one imaginary place, explored from beginning to end. A voice guides you through an opening scene, a soundscape, a few simple actions and a clear intention, then brings you gently back. Because the scene absorbs your attention, busy thoughts have less room to take over.",
-  "kw": "immersive meditation, guided visualization, sleep stories for adults, adult bed time stories, sleep stories, guided sleep stories, best sleep stories, night time stories for adults, best guided visualization meditation, immersive meditation experience",
+  "kw": "immersive meditation, guided visualization, guided visualization meditation, immersive meditation experience, immersive guided meditation, immersive meditation app, sleep stories for adults, bedtime stories for adults, guided meditation journey, best guided visualization meditation",
   "sections": [
    {
     "id": "what-is",
@@ -36,6 +36,14 @@
     ]
    },
    {
+    "id": "experience",
+    "h2": "Where can you have an immersive meditation experience? Rooms, headsets and imagination",
+    "p": [
+     "The phrase covers three different things. Some studios and museums offer an immersive meditation room, with images projected on the walls and sound coming from every side. Some apps use a virtual reality headset to place a landscape in front of your eyes. The third kind needs no equipment: a voice, a soundscape and your own imagination.",
+     "The 17 worlds belong to this third family. You close your eyes, put on ordinary headphones and let the place build itself, detail by detail. The images are your own, so no two journeys look alike, and you can practice anywhere quiet, even offline."
+    ]
+   },
+   {
     "id": "why-it-calms",
     "h2": "Why a guided meditation journey calms the mind",
     "p": [
@@ -50,7 +58,7 @@
     "h2": "How to choose a world by intention",
     "p": [
      "All 17 worlds last between 13 and 19 minutes. What sets them apart is their atmosphere and their intention. The best guided visualization meditation is the one that fits your day. Start from what you need, rather than from the most spectacular place.",
-     "On a scattered day, try [The Heart of the Earth](/en/worlds/grounding-earth-guided-visualization.html). This 15-minute guided visualization meditation takes you down toward something steady and ancient. If you love the sea, [Underwater Atlantis](/en/worlds/atlantis-underwater-guided-meditation.html) lets you rest in flow rather than effort. Journey Through the Galaxy is a galaxy meditation on a train of light. The Dream Forest, an enchanted [forest meditation](/en/worlds/enchanted-forest-guided-meditation.html), is full of glowing mushrooms. Short on time? The Cosmic Temple, The Celestial Library and The Desert Oasis each last 13 minutes. Drawn to the idea of an Akashic library, a place where every story is kept? The Celestial Library opens onto shelves without end."
+     "On a scattered day, try [The Heart of the Earth](/en/worlds/grounding-earth-guided-visualization.html). This 15-minute guided visualization meditation takes you down toward something steady and ancient. If you love the sea, [Underwater Atlantis](/en/worlds/atlantis-underwater-guided-meditation.html) lets you rest in flow rather than effort. Journey Through the Galaxy is a galaxy meditation on a train of light. The Dream Forest, an enchanted [forest meditation](/en/worlds/enchanted-forest-guided-meditation.html), is full of glowing mushrooms. Need somewhere to feel sheltered? The Floating Island works as a [safe place visualization](/en/worlds/floating-island-guided-visualization.html), high above the clouds. Short on time? The Cosmic Temple, The Celestial Library and The Desert Oasis each last 13 minutes. Drawn to the idea of an [Akashic library](/en/worlds/celestial-library-guided-meditation.html), a place where every story is kept? The Celestial Library opens onto shelves without end."
     ],
     "table": {
      "head": [
@@ -107,7 +115,7 @@
     "id": "how-it-unfolds",
     "h2": "How an immersive meditation unfolds",
     "p": [
-     "Every world has its own story, but the rhythm is always the same. Here is how it goes in [The Wolf Spirit Forest](/en/worlds/wolf-spirit-guided-meditation.html), a 15-minute world for times when you need to feel protected and guided."
+     "Every world has its own story, but the rhythm is always the same. Here is how it goes in [The Wolf Spirit Forest](/en/worlds/wolf-spirit-guided-meditation.html), a 15-minute wolf meditation for times when you need to feel protected and guided."
     ],
     "steps": [
      [
@@ -153,7 +161,7 @@
     "h2": "Immersive meditation, guided meditation or guided journey?",
     "p": [
      "The words overlap, so here is how they differ in the app. A classic guided meditation, like those in [Learning Basics](/en/meditations/meditation-for-beginners.html), keeps you here, in your body. An immersive world takes you to one imaginary place. A guided journey, in [the Mini Adventures](/en/meditations/guided-journey-meditation.html), tells a whole story set in a place and a time.",
-     "Worlds and Mini Adventures are both forms of visualization meditation. The Mini Adventures are meditation stories for adults, each with a beginning, a middle and an end. For a guided imagery journey through history, try Versailles — a Day in 1700 or Japan — on the Road to Kyoto in 1600."
+     "Worlds and Mini Adventures are both forms of [visualization meditation](/en/meditations/guided-visualization-meditation.html). The Mini Adventures are meditation stories for adults, each with a beginning, a middle and an end. For a guided imagery journey through history, try Versailles — a Day in 1700 or Japan — on the Road to Kyoto in 1600."
     ],
     "table": {
      "head": [
@@ -178,7 +186,7 @@
       [
        "Length in the app",
        "5 to 19 min in Learning Basics",
-       "13 to 20 min",
+       "13 to 19 min",
        "17 to 34 min"
       ],
       [
@@ -220,18 +228,18 @@
   ],
   "visual": {
    "title": "The 17 meditation worlds",
-   "caption": "Each world is a complete guided journey of 13 to 20 minutes, from a temple in the mist to a forest guarded by wolves."
+   "caption": "Each world is a complete guided journey of 13 to 19 minutes, from a temple in the mist to a forest guarded by wolves."
   },
   "app": {
    "h2": "Immersive meditation in MeditaDream",
    "intro": [
     "The Meditation Worlds screen gathers all 17 worlds, from The Ancient Temple to The Wolf Spirit Forest. Choose one, tap Enter this world, and let the journey begin. Each world downloads once, then plays offline, wherever you are.",
-    "Like everything in the app, the worlds are free, with no subscription, no ads, no in-app purchases and no account. They exist in English, French and Spanish."
+    "Like everything in the app, the worlds are free, with no subscription, no ads, no in-app purchases and no account. They exist in English, French and Spanish. If you were looking for an immersive meditation app, this is the part of MeditaDream to open first."
    ],
    "features": [
     [
      "Meditation Worlds",
-     "Browse the 17 worlds by atmosphere and length, then tap Enter this world to start a journey of 13 to 20 minutes."
+     "Browse the 17 worlds by atmosphere and length, then tap Enter this world to start a journey of 13 to 19 minutes."
     ],
     [
      "Capture this",
@@ -253,6 +261,14 @@
     "An immersive meditation is a guided visualization set in one imaginary place and explored from start to finish. You follow an opening scene, a soundscape and a few simple actions, carried by a clear intention. At the end, you return gently to your body. The absorbing scene gives a busy mind something calm to hold, which many people find easier than focusing on the breath alone."
    ],
    [
+    "What makes a guided meditation immersive?",
+    "Three things. First, a single place, described through several senses rather than sight alone. Second, sound: each world has its own soundscape, so the journey is also an immersive sound meditation. Third, small actions you carry out in imagination, such as opening a door or following an animal. An immersive guided meditation does not only tell you to relax: it gives your mind somewhere to be."
+   ],
+   [
+    "Is an immersive meditation the same as a guided visualization?",
+    "Almost. Every immersive meditation is a guided visualization, but not every guided visualization is immersive. A short visualization may ask you to picture a single image, such as a light or a color. An immersive meditation builds a whole place, with its sounds, its small actions and its own story, and stays there for about a quarter of an hour."
+   ],
+   [
     "Are the worlds free guided meditations?",
     "Yes. MeditaDream is completely free, with no subscription, no ads, no in-app purchases and no account to create. All 17 worlds are included, along with 144 guided meditations in 20 categories. Each world downloads once, then plays offline. The app is made for iPhone and Android, in English, French and Spanish."
    ],
@@ -262,7 +278,7 @@
    ],
    [
     "Can I fall asleep during an immersive meditation?",
-    "You can, and nothing bad happens if you do. But the worlds are not sleep stories: they are designed to keep you gently present, and they end with a soft return. If sleep is your goal, choose Drifting into Sleep, which has no wake-up at the end, or let a sleep sound play with a gentle fade."
+    "You can, and nothing bad happens if you do. But the worlds are not sleep stories or bedtime stories for adults: they are designed to keep you gently present, and they end with a soft return. If sleep is your goal, choose Drifting into Sleep, which has no wake-up at the end, or let a sleep sound play with a gentle fade."
    ],
    [
     "What if I can't see the images?",
@@ -293,12 +309,12 @@
   "h1": "Astral projection: what it means and how people practice it",
   "eyebrow": "Complete guide",
   "lead": "Floating above your own body and looking down at the room: for many people, it is a lifelong curiosity. Here is what astral projection means, where the idea comes from, what science has observed and how people practice it.",
-  "def": "**Astral projection** is the experience of feeling your awareness leave your physical body and perceive from outside it. Esoteric traditions say your awareness travels in a subtle double, the astral body. Researchers call it an out-of-body experience, or OBE. They study the sensation itself, without ruling on whether anything actually leaves.",
-  "kw": "astral projection, astral plane, out of body experience, what is astral projection, astral dimension, astral body, astral plane meaning, out of body experience meaning, spiritual plane, astral realm",
+  "def": "**Astral projection**, also called astral travel, is the experience of feeling your awareness leave your physical body and perceive from outside it. Esoteric traditions say your awareness travels in a subtle double, the astral body. Researchers call it an out-of-body experience, or OBE. They study the sensation itself, without ruling on whether anything actually leaves.",
+  "kw": "astral projection, astral travel, astral projection meaning, what is astral projection, astral projection meditation, how to do astral projection, astral plane meaning, out of body experience meaning, astral projection techniques, is astral projection real, astral body, astral realm",
   "sections": [
    {
     "id": "meaning",
-    "h2": "Astral projection and astral plane meaning: the key words",
+    "h2": "Astral projection, astral travel and astral plane meaning: the key words",
     "p": [
      "The astral projection definition is simple: you feel that your awareness has left your body, and you perceive from somewhere outside it. People often describe seeing their body from above, or floating near the ceiling.",
      "The word astral comes from the Latin for “of the stars.” It reflects an old idea: a subtle body made of finer, luminous matter. Around it, a whole vocabulary has grown. Researchers speak of an out-of-body experience, meaning that you perceive from outside your body, whatever the cause. Astral projection carries a spiritual view of the world."
@@ -391,7 +407,7 @@
     "id": "how-to",
     "h2": "How to astral project: classic techniques for beginners",
     "p": [
-     "If you are wondering how to astral project, most methods share the same base: a deeply relaxed body and an awake mind. People usually practice lying down, at the edge of sleep, or after waking early in the morning. Here is the sequence that astral projection for beginners often follows."
+     "If you are wondering how to astral project, most methods share the same base: a deeply relaxed body and an awake mind. People usually practice lying down, at the edge of sleep, or after waking early in the morning. The best-known astral projection techniques, such as the rope and the roll-out, all start from this state. Here is the sequence that astral projection for beginners often follows."
     ],
     "steps": [
      [
@@ -425,7 +441,7 @@
     "id": "first-session",
     "h2": "Can you astral project while meditating? A first session, step by step",
     "p": [
-     "Yes, meditation is the usual starting point. Every classic technique begins with a deeply relaxed body and an awake mind, which is exactly what meditation trains. Here is a simple first session of about 30 minutes."
+     "Yes, meditation is the usual starting point. Every classic technique begins with a deeply relaxed body and an awake mind, which is exactly what meditation trains. An astral projection meditation adds one precise exercise to that calm. Here is a simple first session of about 30 minutes."
     ],
     "steps": [
      [
@@ -531,8 +547,8 @@
     "h2": "Does God forbid astral projection?",
     "p": [
      "The Bible never mentions astral projection, so there is no single answer. Views differ between faiths, and often within the same church.",
-     "Some Christians point to Deuteronomy 18, which forbids divination and consulting the dead. They see out-of-body practice as too close to the occult. Others recall a passage from Saint Paul (2 Corinthians 12). He tells of a man caught up to the third heaven. Whether this happened “in the body” or “out of the body,” he says he cannot tell. Many read it as a gift received, not a technique to practice.",
-     "Other traditions have their own teachings. Some warn against anything that looks like contact with spirits. Others, in Hinduism and Buddhism, describe subtle bodies and dream practices, with teachers as guides.",
+     "People who look for astral projection in the Bible usually find two passages quoted. Some Christians point to Deuteronomy 18, which forbids divination and consulting the dead. They see out-of-body practice as too close to the occult. Others recall a passage from Saint Paul (2 Corinthians 12). He tells of a man caught up to the third heaven. Whether this happened “in the body” or “out of the body,” he says he cannot tell. Many read it as a gift received, not a technique to practice.",
+     "Other traditions have their own teachings. Some warn against anything that looks like contact with spirits. In Islam, many scholars advise against practicing astral projection on purpose. Discussions often quote a verse of the Quran (39:42) that speaks of God taking souls at death and during sleep. Others, in Hinduism and Buddhism, describe subtle bodies and dream practices, with teachers as guides.",
      "If faith matters to you, talk it over with someone you trust in your tradition. In MeditaDream, the astral sessions are guided relaxation and imagination. You remain free to understand them in light of your own beliefs."
     ]
    },
@@ -540,9 +556,10 @@
     "id": "path",
     "h2": "Astral projection guided meditation: the path in the app",
     "p": [
-     "In MeditaDream, astral practice is a progression rather than a single trick. It lives in the Astral tab of the Trance & Astral Projection screen, under the heading Non-Ordinary States. The path has three stages.",
+     "If you would rather be guided than work out how to do astral projection alone, the app offers a complete path. In MeditaDream, astral practice is a progression rather than a single trick. It lives in the Astral tab of the Trance & Astral Projection screen, under the heading Non-Ordinary States. The path has three stages.",
      "[Micro-Detachment](/en/meditations/astral-projection-exercises.html) comes first, with five short exercises such as The Ceiling Magnet and The Point Behind Your Head. Separation Techniques then gathers six exit methods, from floating toward the ceiling to the rope, the imaginary fall and the target.",
-     "Astral Plane Exercises adds five more, for what comes after separation: a target to verify, an encounter protocol, movement, vision and visualizing the double. Astral · Movement Techniques, 20 minutes, rehearses what practitioners call astral flying: walking, gliding, then changing place in an instant. All of these [guided astral projection sessions](/en/meditations/guided-astral-projection-meditation.html) are marked as advanced. Some unlock as you practice, with points earned by meditating. The Trances tab, right beside it, leads to [shamanic trance](/en/shamanic-trance.html) and other inner journeys."
+     "Astral Plane Exercises adds five more, for what comes after separation: a target to verify, an encounter protocol, movement, vision and visualizing the double. Astral · Encounter Protocol, 16 minutes, deals with a sensed presence: you describe before you interpret, at the distance you choose. For the wider idea of inner guides, see our page on [spirit guides](/en/spirit-guides.html). Astral · Movement Techniques, 20 minutes, rehearses what practitioners call astral flying: walking, gliding, then changing place in an instant. All of these [guided astral projection sessions](/en/meditations/guided-astral-projection-meditation.html) are marked as advanced. Some unlock as you practice, with points earned by meditating. The Trances tab, right beside it, leads to [shamanic trance](/en/shamanic-trance.html) and other inner journeys.",
+     "For a week-by-week route, our goal page on [astral travel meditation](/en/goals/trance-shamanism-astral-travel.html) lays out a six-week path, from a safe inner place to the classic techniques."
     ],
     "visual": true
    }
@@ -566,10 +583,11 @@
    ]
   },
   "app": {
-   "h2": "Astral projection in MeditaDream",
+   "h2": "Astral projection meditation in MeditaDream",
    "intro": [
     "Each astral session is a guided meditation: a voice guides you through deep relaxation, then through one precise exercise. Astral · Rope Technique lasts 29 minutes, and Astral · Imaginary Fall 41 minutes. For gentler first steps, The Tiny Shift trains you to move the outline of your body by a tiny distance, in imagination.",
-    "The sessions download once, then play offline. Like everything in MeditaDream, they are free, with no subscription, no ads and no account."
+    "The sessions download once, then play offline. Like everything in MeditaDream, they are free, with no subscription, no ads and no account.",
+    "During a session, you can add a background sound under the voice. Theta, one of the app's [sleep sounds](/en/sleep-sounds.html), uses binaural beats at 4 Hz and needs headphones."
    ],
    "features": [
     [
@@ -600,6 +618,10 @@
     "An out-of-body experience, or OBE, is the feeling of perceiving the world from a point outside your physical body. People often describe floating near the ceiling and seeing their own body below. It can happen by surprise, at the edge of sleep or in deep relaxation. Researchers link it to the way the brain combines vision, balance and body sensations, without ruling on what it means."
    ],
    [
+    "What is astral travel?",
+    "Astral travel is another name for astral projection: the feeling that your awareness leaves your body and moves about without it. The phrase stresses the journey itself, through your room, distant places or what esoteric traditions call the astral plane. Researchers describe the same experience as an out-of-body experience, and do not rule on whether anything actually travels."
+   ],
+   [
     "How do I astral project for the first time?",
     "Choose a time when you are well rested, such as early morning or a quiet afternoon. Lie on your back, relax your body completely and keep your mind gently alert. Then try one technique, such as the rope or the roll-out, for a few minutes, without forcing. Most first attempts end in calm rest or sleep. Note what you felt and try again another day."
    ],
@@ -612,8 +634,12 @@
     "People often describe vibrations or buzzing, a sudden lightness, a sense of rolling or floating, and the feeling of looking at the room from above. Some see their own body. Others feel a double rising without seeing anything. The experience can be brief and dreamlike. Many practitioners say that staying calm is what lets it last a little longer."
    ],
    [
+    "What do you see during astral projection?",
+    "Most reports begin in a familiar place: your own room, seen from near the ceiling or from beside the bed, sometimes with small differences from the real one. Some people see their body lying below. Others describe landscapes, lights or figures, much as in a vivid dream. Traditions read these scenes as the astral plane; researchers see images built by the brain."
+   ],
+   [
     "What is the astral plane?",
-    "In Theosophy and later esoteric teachings, the astral plane, or astral realm, is a dimension of finer matter where the astral body is said to travel. It is often described as fluid, luminous and shaped by thought and feeling. This is a spiritual model, not a scientific finding. In meditation, you can explore it as an inner landscape."
+    "In Theosophy and later esoteric teachings, the astral plane, or astral realm, is a dimension of finer matter where the astral body is said to travel. It is often described as fluid, luminous and shaped by thought and feeling. This is a spiritual model, not a scientific finding. In meditation, you can explore it as an inner landscape. Online, some people call traveling there “astral planing.”"
    ],
    [
     "What is the difference between astral projection and lucid dreaming?",
@@ -626,6 +652,10 @@
    [
     "How long does it take to learn how to astral travel?",
     "There is no fixed timeline. Some people have a spontaneous experience early, while others practice for months and mostly find deep relaxation. Short, regular sessions tend to work better than long, tense attempts. See the relaxation itself as the practice, and any feeling of separation as a bonus."
+   ],
+   [
+    "Do binaural beats or a special frequency help astral projection?",
+    "A steady, quiet sound can help you relax and stay at the edge of sleep, where most attempts happen. Robert Monroe built his Hemi-Sync recordings on binaural beats: two slightly different tones, one in each ear. Studies of binaural beats give mixed results, and there is no evidence that any frequency produces an out-of-body experience on its own. Use headphones, keep the volume low and treat the sound as an aid."
    ],
    [
     "What are the Akashic records?",
@@ -650,6 +680,14 @@
    [
     "What should you do if you feel scared during astral projection?",
     "Come back. Open your eyes, move your fingers and feel the weight of your body on the bed. Fear usually ends the experience on its own. Next time, try in daylight or with a guided session, and keep it short."
+   ],
+   [
+    "How do you get back to your body after astral projection?",
+    "Usually, you do not have to do anything. Most experiences are brief and end on their own, often as soon as you think of your body or feel a strong emotion. To come back on purpose, think of your body, wiggle a finger or a toe and open your eyes. There is no evidence that anyone has stayed stuck outside the body."
+   ],
+   [
+    "How do you stop astral projection?",
+    "To end an experience, move a finger or a toe, take a deeper breath and open your eyes. If experiences come when you do not want them, skip the techniques at bedtime and keep regular sleep hours. Try falling asleep on your side, too: sleep paralysis, which often goes with these experiences, is more common on your back. If they keep coming or frighten you, ask a professional for advice."
    ]
   ],
   "blog": {
@@ -663,9 +701,9 @@
   "desc": "The 7 chakras explained: meaning, color and location of each chakra from root to crown, chakra balancing, aura colors and free chakra meditations.",
   "h1": "The 7 chakras: meanings, colors and a guided chakra meditation",
   "eyebrow": "Complete guide",
-  "lead": "Root, sacral, solar plexus, heart, throat, third eye, crown: the 7 chakras have become a shared map for yoga and meditation. Here is what each chakra means, where the colors come from and how to meditate with them, simply.",
+  "lead": "Root, sacral, solar plexus, heart, throat, third eye, crown: the 7 chakras have become a shared map for yoga and meditation. Here is what each chakra means, where the colors come from and how to do a simple chakra meditation.",
   "def": "The **7 chakras** are seven centers of subtle energy that yogic and tantric traditions place along the spine, from its base to the crown of the head. Chakra means “wheel” in Sanskrit. Each one is linked to a place in the body, a theme and, in modern teaching, a color of the rainbow.",
-  "kw": "chakras, 7 chakras, chakra meaning, chakra meditation, chakra colors, throat chakra, solar plexus chakra, sacral chakra, crown chakra, how to open your third eye chakra",
+  "kw": "chakras, 7 chakras, chakra meaning, chakra meditation, chakra colors, throat chakra, solar plexus chakra, sacral chakra, crown chakra, how to open your third eye chakra, root chakra meditation, how to open your chakras, aura colors meaning",
   "sections": [
    {
     "id": "origins",
@@ -737,7 +775,7 @@
     "h2": "Blocked, open, balanced: what chakra balancing means",
     "p": [
      "Many books describe a blocked chakra as a center where energy no longer flows well, and an open chakra as one where it flows freely. Chakra balancing means bringing all seven back into harmony. Chakra alignment, chakra cleansing and chakra clearing are other names for the same idea. These are images from a spiritual tradition, not measurements.",
-     "In meditation, these images become something practical. You rest your attention on one area of the body, breathe there and notice what you feel. You may picture a color, a turning wheel or a soft light. A tight throat or a warm chest simply becomes something to observe.",
+     "In a chakra balancing meditation, these images become something practical. You rest your attention on one area of the body, breathe there and notice what you feel. You may picture a color, a turning wheel or a soft light. A tight throat or a warm chest simply becomes something to observe.",
      "What people mean by chakra healing usually lies here: a calm, attentive time spent with each center, often with breath and imagery. It is a practice of well-being and attention. It is not a way to repair the body, and the sessions in the app make no such promise."
     ],
     "tip": "Do not try to work out which chakra is blocked, or force yourself to unblock chakras. Simply notice which areas feel easy to sense and which feel vague, and give the vague ones a little more time."
@@ -790,6 +828,44 @@
      [
       "Come back down",
       "Bring your attention back to your feet and the ground before you open your eyes."
+     ]
+    ],
+    "tip": "You can use these six steps as a chakra meditation script: read them slowly, or record them in your own voice. In the app, My Meditations lets you [write your own guided meditation script, free](/en/write-your-own-meditation.html), and hear it read aloud with the silences you choose."
+   },
+   {
+    "id": "each-chakra",
+    "h2": "A short chakra meditation for each center, from root to crown",
+    "p": [
+     "Once you know the whole sequence, you can give a full session to a single center. Here is one simple practice for each chakra, two to five minutes long. They are ways of paying attention, with no promise about the body."
+    ],
+    "steps": [
+     [
+      "Root chakra meditation",
+      "Sit or stand and feel the weight of your body on the ground. Breathe low, toward the base of the spine. Our article on the [root chakra](/en/blog/blocked-root-chakra-signs-grounding.html) adds five grounding exercises."
+     ],
+     [
+      "Sacral chakra meditation",
+      "Rest a hand on your lower belly. Let the breath move it like a slow wave, and notice any warmth or movement there, without judging it."
+     ],
+     [
+      "Solar plexus chakra meditation",
+      "Bring your attention above the navel. Breathe into the upper belly and picture a small, steady warmth, like a low flame. Keep your shoulders loose."
+     ],
+     [
+      "Heart chakra meditation",
+      "Place a hand on the center of your chest and feel it rise and fall. Think of someone, or something, you are grateful for. Our article on the [heart chakra](/en/blog/how-to-open-heart-chakra.html) goes further."
+     ],
+     [
+      "Throat chakra meditation",
+      "Relax your jaw and your tongue. Follow the air through your throat, then hum softly on a few out-breaths and feel the vibration."
+     ],
+     [
+      "Third eye chakra meditation",
+      "Rest your attention between the eyebrows, without squinting. The next section goes further."
+     ],
+     [
+      "Crown chakra meditation",
+      "Feel the top of your head, as if a thread drew it gently upward. Then let every image go and simply rest, aware of your whole body breathing."
      ]
     ]
    },
@@ -854,7 +930,7 @@
   "app": {
    "h2": "Chakra meditation in MeditaDream",
    "intro": [
-    "Wondering which is the best guided chakra meditation to start with? Try Recognizing the Seven Chakras, 27 minutes. It maps the seven points in your body before giving them any color or meaning. To realign chakras, choose Aligning the Seven Chakras, 30 minutes. It places them on a single line from base to crown. Chakra Reset, 18 minutes, travels slowly through all seven with long, restful pauses, which suits the evening.",
+    "Wondering which is the best guided chakra meditation to start with? Try Recognizing the Seven Chakras, 28 minutes. It maps the seven points in your body before giving them any color or meaning. To realign chakras, choose Aligning the Seven Chakras, 30 minutes. It places them on a single line from base to crown. Chakra Reset, 18 minutes, travels slowly through all seven with long, restful pauses, which suits the evening.",
     "Activating the Energy Body, 27 minutes, explores the body's subtle sensations without forcing them to appear. The five sessions of the Third Eye category then take you further with Ajna. All of them are free and play offline once downloaded."
    ],
    "features": [
@@ -886,12 +962,24 @@
     "In the modern system, the root chakra is red, the sacral chakra orange and the solar plexus chakra yellow. The heart chakra is green, the throat chakra blue, the third eye indigo and the crown violet or white. These rainbow colors are a Western association of the twentieth century. The old tantric texts describe the lotuses with other colors."
    ],
    [
+    "What do aura colors mean?",
+    "There is no single code: meanings change from one author to another. Popular charts often borrow the themes of the chakra of the same color: red for energy and grounding, orange for creativity, yellow for confidence, green for love, blue for expression, indigo for intuition and violet for spiritual life. No instrument has measured an aura, so read these aura colors and their meaning as a symbolic language."
+   ],
+   [
     "How do you balance your chakras?",
     "In meditation, chakra balancing usually means visiting each center with calm attention. You breathe into each area, from the root to the crown, and notice what you feel without trying to fix it. Many people add a color or a turning wheel as imagery. See it as a practice of attention and well-being, with no promise about the body."
    ],
    [
+    "How do you open your chakras?",
+    "In meditation, opening a chakra simply means giving it calm, steady attention. Sit or lie down, rest your attention on one center and breathe there for a minute or two. Notice what you feel, then move to the next one, from the root to the crown. Tradition speaks of energy flowing freely again. In practice, you are training attention, with no promise about the body."
+   ],
+   [
     "What is a blocked chakra?",
     "In spiritual teaching, a blocked chakra is a center where energy is said to flow poorly. People often link it to the chakra's theme, such as a blocked throat chakra and difficulty speaking up. This is a symbolic language, not a measurable state. In meditation, you can simply notice which areas feel vague and give them gentle attention."
+   ],
+   [
+    "What blocks each of the 7 chakras?",
+    "A popular list names the 7 chakras and what blocks them: fear for the root, guilt for the sacral, shame for the solar plexus, grief for the heart, lies for the throat, illusion for the third eye and attachment for the crown. Anodea Judith described these obstacles in her 1996 book Eastern Body, Western Mind, and the animated series Avatar: The Last Airbender made the list famous. It is a modern reading, not found in the old tantric texts."
    ],
    [
     "How do I open my third eye?",
@@ -920,6 +1008,10 @@
    [
     "How are yoga and chakras linked?",
     "Chakras come from the tantric side of yoga, where breath, postures and attention work with the subtle body. Many modern classes link poses to chakras, such as backbends to the heart chakra, and some call this chakra yoga. You do not need postures, though. Meditation and chakras go together naturally: calm, seated attention is enough."
+   ],
+   [
+    "How long should a chakra meditation be?",
+    "Ten to twenty minutes is enough for all seven. A 10-minute chakra meditation gives each center about a minute, with a moment to settle and to come back. A 20-minute chakra meditation leaves room for silence between the centers. Guided sessions can run longer: Recognizing the Seven Chakras, in the app, lasts 28 minutes."
    ]
   ],
   "blog": {
@@ -929,17 +1021,17 @@
  },
  "qigong": {
   "slug": "qigong",
-  "seo": "What Is Qigong? Benefits, Exercises and Guided Sessions",
-  "desc": "What is qigong (chi gong)? Origins, benefits, qigong vs tai chi, Ba Duan Jin and simple qigong exercises for beginners, with free guided sessions.",
+  "seo": "What Is Qigong? Benefits, 3 Exercises, Qigong vs Tai Chi",
+  "desc": "What is qigong (qi gong, chi gong)? Meaning, benefits, qigong vs tai chi, Ba Duan Jin and 3 simple exercises for beginners, with free guided sessions.",
   "h1": "What is qigong? Benefits, exercises and how to start",
   "eyebrow": "Complete guide",
-  "lead": "Slow movements, deep breathing, a quiet mind: qigong has been practiced in China for centuries, in parks at dawn and in quiet rooms. Here is what it is, how it differs from tai chi and how to begin at home.",
-  "def": "**Qigong** is a Chinese practice that combines slow movement or still postures, regulated breathing and focused attention. The name joins qi, meaning breath or vital energy, and gong, meaning work or skill. It is often translated as “energy work.” Also spelled qi gong, chi gong or chi kung, it is practiced for calm, balance and self-cultivation.",
-  "kw": "qigong, what is qigong, tai chi vs qigong, tai chi and qigong, qigong benefits, qigong routine, eight brocade qigong, practicing qigong, qi gong for anxiety, qi gong for sleep",
+  "lead": "Slow movements, deep breathing, a quiet mind: qigong has been practiced in China for centuries, in parks at dawn and in quiet rooms. Here is what it is, how it works, how it differs from tai chi and how to begin at home.",
+  "def": "**Qigong**, pronounced “chee-gong,” is a Chinese practice that combines slow movement or still postures, regulated breathing and focused attention. The name joins qi, meaning breath or vital energy, and gong, meaning work or skill. It is often translated as “energy work.” Also spelled qi gong, chi gong or chi kung, it is practiced for calm, balance and self-cultivation.",
+  "kw": "qigong, what is qigong, what is qi gong, chi gong, tai chi vs qigong, tai chi and qigong, qigong benefits, qigong for beginners, ba duan jin qigong, qigong breathing exercises, 10 minute morning qigong, qigong and yoga, qigong for seniors",
   "sections": [
    {
     "id": "meaning",
-    "h2": "What is qigong? The meaning of qi and gong",
+    "h2": "What is qigong (qi gong)? The meaning of qi and gong",
     "p": [
      "Qi (气) is one of the central ideas of Chinese thought. The character first evoked vapor or breath. Over time, it came to mean the vital energy that animates all living things. Many English speakers write it chi, which is why you will see “chi energy” and “chi gong.” Chi and qi are simply two spellings of the same word.",
      "Gong (功) means work, skill or achievement: something gained through steady effort. The same word appears in kung fu, gongfu in Chinese. Qigong is therefore the art of cultivating qi, the breath and energy of life, day after day.",
@@ -957,9 +1049,9 @@
    },
    {
     "id": "regulations",
-    "h2": "The three regulations: body, breath and mind",
+    "h2": "How does qigong work? The three regulations: body, breath and mind",
     "p": [
-     "Chinese teachers often sum up qigong in three regulations, or tiáo. You regulate the body, the breath and the mind, and the practice happens when all three come together.",
+     "Qigong works by tuning three things at the same time: posture, breathing and attention. Chinese teachers often sum up qigong in three regulations, or tiáo. You regulate the body, the breath and the mind, and the practice happens when all three come together.",
      "No single one is enough on its own. A perfect posture with a restless mind is just exercise. A calm mind in a slumped body is just rest. Qigong lives where the three meet.",
      "Chinese tradition also has energy centers of its own, the dantian. The lower dantian, below the navel, is where many exercises gather attention, much as Indian traditions work with the [7 chakras](/en/chakra-meditation.html)."
     ],
@@ -993,7 +1085,7 @@
       "Daoist and Buddhist methods centered on stillness, inner circulation and self-cultivation."
      ]
     ],
-    "tip": "Standing qigong deserves a special mention. In zhan zhuang, “standing like a post,” often called standing like a tree, you hold one simple posture for several minutes, and it goes surprisingly deep."
+    "tip": "Standing qigong deserves a special mention. In zhan zhuang, “standing like a post,” often called standing like a tree, you hold one simple posture for several minutes, and it goes surprisingly deep. The Still Tree, one of the four [qigong meditation](/en/meditations/qigong-meditation.html) sessions in the app, is built on this posture."
    },
    {
     "id": "ba-duan-jin",
@@ -1018,7 +1110,8 @@
     "h2": "Tai chi vs qigong: what is the difference?",
     "p": [
      "Tai chi, short for tai chi chuan (taijiquan), looks a lot like qigong: both are slow, flowing and centered on the breath. Many teachers even see tai chi as a form of qigong. The main differences lie in their purpose and their complexity.",
-     "If you are starting from scratch, qigong is usually the easier door. You can learn a single movement today and practice it tomorrow morning."
+     "If you are starting from scratch, qigong is usually the easier door. You can learn a single movement today and practice it tomorrow morning.",
+     "You will also see the two names joined. Tai chi qigong usually means short sets that borrow the flowing gestures of tai chi and repeat each one several times, the qigong way. The best known is Shibashi, a set of 18 movements created in Shanghai in 1979 by Lin Housheng. Many schools teach tai chi and qigong side by side."
     ],
     "table": {
      "head": [
@@ -1069,8 +1162,9 @@
     "id": "beginners",
     "h2": "Qigong for beginners: three simple exercises",
     "p": [
-     "Practicing qigong at home is easy: a quiet corner is all you need. These qigong exercises form a 10-minute morning qigong routine, with no equipment. Morning practice is a long tradition, so try them after waking, near an open window. Wear loose clothes and stand with your feet hip-width apart, knees soft.",
-     "For guided practice, the [Sensations & Qigong](/en/meditations/qigong-meditation.html) category offers four sessions built on the same ideas. Afterward, [Monastery at Sunrise](/en/worlds/himalayan-monastery-sunrise-meditation.html), a world made for the morning, can carry the calm into your day."
+     "What is a qigong exercise? Simply one slow movement repeated with the breath, or one still posture held with full attention. Practicing qigong at home is easy: a quiet corner is all you need. These qigong exercises form a 10-minute morning qigong routine, with no equipment. Morning practice is a long tradition, so try them after waking, near an open window. Wear loose clothes and stand with your feet hip-width apart, knees soft.",
+     "For guided practice, the [Sensations & Qigong](/en/meditations/qigong-meditation.html) category offers four sessions built on the same ideas. Afterward, [Monastery at Sunrise](/en/worlds/himalayan-monastery-sunrise-meditation.html), a world made for the morning, can carry the calm into your day.",
+     "For a fuller sequence, our article on [qigong exercises](/en/blog/qigong-for-beginners-5-movements.html) for beginners describes a 10-minute routine of five movements, starting from the Wuji stance."
     ],
     "steps": [
      [
@@ -1144,16 +1238,36 @@
     "Qigong is a Chinese practice that combines slow movement or still postures, regulated breathing and focused attention. Its name joins qi, breath or vital energy, and gong, work or skill. It grew out of ancient exercises called daoyin and took its modern name in 1950s China. Today it is practiced around the world for calm, balance and self-cultivation."
    ],
    [
+    "How do you pronounce qigong?",
+    "Qigong is pronounced “chee-gong,” with a hard g as in “go.” In pinyin, the letter q sounds close to the English ch, which is why older systems wrote the word chi kung. In Mandarin, the first syllable falls and the second stays high and level: qìgōng. The pronunciation is the same whatever the spelling: qigong, qi gong, chi gong or chi kung."
+   ],
+   [
+    "What is qigong good for?",
+    "Qigong is good for slowing down. A few minutes of slow movement give the joints time to loosen, the breath time to lengthen and your attention a way back into the body. People who practice regularly most often describe three benefits of qigong: a calmer mind, a more supple body and steadier balance. It remains a gentle practice, so the effects are modest and differ from one person to the next."
+   ],
+   [
     "What is the difference between tai chi and qigong?",
     "Tai chi is a martial art built on a long, choreographed sequence called a form, which takes months to learn. Qigong is broader and simpler: often a few movements repeated, or a posture held in stillness, with a strong focus on the breath. Many teachers consider tai chi a form of qigong. Beginners usually find qigong easier to start."
+   ],
+   [
+    "What is the difference between qigong and yoga?",
+    "Qigong and yoga work with the same three ingredients: posture, breath and attention. But they grew up in different worlds. Yoga comes from India and, in its modern form, often means holding stretched postures on a mat. Qigong comes from China and is mostly practiced standing, with small, slow, repeated movements and no equipment. Yoga speaks of prana and chakras, qigong of qi and the dantian. Many people practice both."
    ],
    [
     "Is qigong good for beginners?",
     "Yes. Qigong for beginners can be as simple as one movement repeated slowly with the breath. There is no complex choreography to memorize, and most exercises can be adapted to your range of motion, standing or seated. Start with a few minutes a day, move gently and stay within what feels comfortable."
    ],
    [
+    "Is qigong good for seniors?",
+    "Yes. Qigong for seniors is taught in many community centers and parks, because the practice is slow, gentle on the joints and easy to adapt. Most movements can be made smaller or done seated, and there are only a few gestures to remember. Keep a chair within reach for balance, move within a comfortable range and, if something worries you, ask a professional for advice first."
+   ],
+   [
     "How long should you practice qigong?",
     "Ten to twenty minutes a day is a good rhythm for most people. Regularity matters more than length: a short daily practice usually feels richer than one long session a week. Many people like morning qigong, right after waking. The guided sessions in the app last 20 to 25 minutes, and the Timer suits shorter practice."
+   ],
+   [
+    "What is a qigong class like?",
+    "A qigong class usually lasts 45 to 60 minutes. It often opens with a gentle warm-up, moves on to a set such as the Eight Brocades, repeated slowly with the breath, and ends with a few minutes of standing or seated stillness. Everyone follows the teacher together, with no partner work and no equipment. Wear loose clothes and flat shoes, and tell the teacher if you need to practice seated."
    ],
    [
     "What is qi, or chi energy?",
@@ -1168,12 +1282,16 @@
     "Qigong meditation is the still side of qigong. You sit or stand without moving, regulate your breath and guide your attention through the body, often to the lower belly or along an inner circuit. The Small Circulation, a 22-minute session in the app, follows this kind of path. It is calmer than moving qigong, but just as attentive."
    ],
    [
-    "Is chi gong the same as qigong?",
-    "Yes. Chi gong, chi kung, qi gong and qigong all name the same practice. The differences come from how Chinese is written in Latin letters. Pinyin gives qigong, the older Wade-Giles system gives chi kung, and chi gong mixes the two. Whatever the spelling, you will find the same slow movements, regulated breathing and calm attention."
+    "What is qi gong, or chi gong? Is it the same as qigong?",
+    "Yes. Only the spelling changes. Chi gong, chi kung, qi gong and qigong all name the same practice. The differences come from how Chinese is written in Latin letters. Pinyin gives qigong, the older Wade-Giles system gives chi kung, and chi gong mixes the two. Whatever the spelling, you will find the same slow movements, regulated breathing and calm attention."
    ],
    [
     "What is a good daily qigong routine?",
     "A simple daily qigong routine can take ten minutes. Rub your palms and feel the warmth between them. Raise your hands overhead six to eight times with the breath. Stand like a tree for one to three minutes, then rest your hands on your lower belly. Morning practice is traditional, but any regular time of day works."
+   ],
+   [
+    "What is qigong breathing?",
+    "Qigong breathing is slow, quiet breathing through the nose, led by the lower belly rather than the chest. In the most common form, natural abdominal breathing, the belly swells gently as you breathe in and settles as you breathe out. Some Daoist methods reverse the movement and draw the belly in on the in-breath. Beginners are usually told to start with the natural form and never to force the breath."
    ],
    [
     "What are good qi gong breathing exercises for beginners?",
@@ -1187,13 +1305,13 @@
  },
  "reve": {
   "slug": "lucid-dreaming-meditation",
-  "seo": "Lucid Dreaming and Dream Interpretation: How to Start",
-  "desc": "What is lucid dreaming? How to lucid dream with MILD and WBTB, keep a dream journal, explore dream interpretation and try a free lucid dream meditation.",
+  "seo": "Lucid Dreaming and Meditation: How to Have a Lucid Dream",
+  "desc": "What is lucid dreaming? Learn how to have a lucid dream with MILD and WBTB, a dream journal and a free lucid dreaming meditation, plus dream interpretation.",
   "h1": "Lucid dreaming: what it is and how to have a lucid dream",
   "eyebrow": "Complete guide",
-  "lead": "You are flying over a city, and suddenly you realize: this is a dream. That moment of clarity is a lucid dream. Here is what science knows about lucid dreaming, the techniques people use most and how to start tonight, calmly.",
+  "lead": "You are flying over a city, and suddenly you realize: this is a dream. That moment of clarity is a lucid dream. Here is what science knows about lucid dreaming, how to have a lucid dream with the techniques people use most and how to start tonight, calmly.",
   "def": "**Lucid dreaming** is being aware that you are dreaming while the dream continues. You stay asleep, usually in REM sleep, yet part of your mind recognizes the dream for what it is. Some lucid dreamers simply watch; others learn to steer the story a little. Lucid dreams can happen by chance or be cultivated.",
-  "kw": "lucid dreaming, what is lucid dreaming, how to lucid dream, lucid dreaming meditation, vivid dreams, lucid sleep, how do you get out of a lucid dream, how do lucid dreams work, what to do in a lucid dream, how to control what you dream about",
+  "kw": "lucid dreaming, how to have a lucid dream, what is lucid dreaming, how to lucid dream, lucid dreaming meditation, vivid dreams, lucid sleep, how do you get out of a lucid dream, how do lucid dreams work, what to do in a lucid dream, what not to do in a lucid dream, what does a lucid dream feel like, how to control what you dream about",
   "sections": [
    {
     "id": "what-is",
@@ -1208,7 +1326,7 @@
     "id": "science",
     "h2": "How do lucid dreams work? What science knows, from Hearne to LaBerge",
     "p": [
-     "For a long time, scientists doubted that lucid dreams were real. How could anyone prove they were aware while asleep? The answer came from the eyes. During REM sleep, most muscles are relaxed, but the eyes still move freely.",
+     "Is lucid dreaming real? Yes, and it took a clever experiment to show it. For a long time, scientists doubted that lucid dreams were real. How could anyone prove they were aware while asleep? The answer came from the eyes. During REM sleep, most muscles are relaxed, but the eyes still move freely.",
      "In 1975, at the University of Hull in England, Keith Hearne recorded the first signals sent from inside a lucid dream. His volunteer, Alan Worsley, moved his eyes left and right in a pattern agreed in advance. At that moment, the sleep recording showed he was in REM sleep.",
      "In the early 1980s, Stephen LaBerge confirmed the method at Stanford University and helped turn lucid dreaming into a field of study. He also developed one of the best-known techniques, MILD. Since then, brain studies have suggested that frontal areas linked to self-reflection become more active during lucidity."
     ]
@@ -1232,7 +1350,7 @@
     "id": "lucid-meaning",
     "h2": "What does it mean if you have lucid dreams?",
     "p": [
-     "Usually, it simply means that part of your mind woke up inside a dream. It is common. A 2016 review pooled 50 years of studies. About 55 percent of people reported at least one lucid dream. Around 23 percent had them once a month or more.",
+     "Usually, it simply means that part of your mind woke up inside a dream. It is common. How common is lucid dreaming, exactly? A 2016 review pooled 50 years of studies. About 55 percent of people reported at least one lucid dream. Around 23 percent had them once a month or more.",
      "Frequent lucid dreams are not, in themselves, a sign that something is wrong. Some people have had them since childhood. Others notice more of them after starting a dream journal or a meditation practice. Some spiritual paths see them as a sign of growing awareness.",
      "What matters is how they leave you feeling. If you wake up curious and rested, enjoy them. If they come with fear, confusion or broken sleep, take a break and ask a professional for advice."
     ]
@@ -1250,7 +1368,7 @@
     "id": "techniques",
     "h2": "How to lucid dream: the main techniques",
     "p": [
-     "If you want to know how to have a lucid dream, start with dream recall, then add one technique at a time. These lucid dream techniques are among the most widely used. None of them guarantees a result, but together they invite you to pay closer attention to your nights."
+     "If you want to know how to have a lucid dream, start with dream recall, then add one technique at a time. That is also how to start lucid dreaming as a beginner: give your dream journal a few days before you try a technique. These lucid dream techniques are among the most widely used. None of them guarantees a result, but together they invite you to pay closer attention to your nights."
     ],
     "steps": [
      [
@@ -1274,7 +1392,7 @@
       "Wake-Initiated Lucid Dream. After waking early, you stay aware while your body falls asleep, through the drifting images of hypnagogia, and enter the dream directly. It is the most demanding technique and can bring sleep paralysis, so try it only once you feel at ease."
      ]
     ],
-    "tip": "Reality checks are a personal habit: the app does not include them. Its role is to help you prepare in the evening and keep your Dream Journal."
+    "tip": "Reality checks are a personal habit: the app does not include them. Its role is to help you prepare in the evening and keep your Dream Journal. To see how MeditaDream works as a [lucid dreaming app](/en/goals/lucid-dreams.html), with a four-week routine, visit our goal page."
    },
    {
     "id": "lucid-meditation",
@@ -1312,7 +1430,7 @@
       "If you are still awake after a while, return to your breath and drift off. The intention stays with you."
      ]
     ],
-    "tip": "This sequence borrows from MILD. It works best after a few days of dream journaling, once you know your own dream signs."
+    "tip": "This sequence borrows from MILD. It works best after a few days of dream journaling, once you know your own dream signs. If you prefer a guided meditation for lucid dreaming, Lucid Dream Preparation, in the app, works toward the same goal."
    },
    {
     "id": "dream-journal",
@@ -1338,6 +1456,20 @@
      "Your own associations matter most. Ask what each image reminds you of, and what you felt in the dream. The Symbolism & interpretation section of the Dream Journal is made for these notes, and Recurring dreams helps you spot patterns.",
      "Lucidity adds one more option. If you wonder what to do in a lucid dream, start small. Some lucid dreamers simply ask a dream figure what it stands for."
     ]
+   },
+   {
+    "id": "what-to-do",
+    "h2": "What to do in a lucid dream, and what not to do",
+    "p": [
+     "What can you do in a lucid dream? Almost anything the dream allows: fly, walk through a wall, visit a place you love or talk to a dream figure. Most lucid dreamers begin with modest goals, because strong excitement tends to wake them up."
+    ],
+    "ul": [
+     "Steady the dream first: look at your hands, touch something and remind yourself that you are dreaming.",
+     "Explore slowly: look around, open a door, change one small detail.",
+     "Try what is impossible when awake, such as flying or breathing underwater.",
+     "Ask a dream figure a question, or rehearse a gesture you want to learn."
+    ],
+    "warn": "What not to do in a lucid dream is mostly common sense. Do not try to control everything: the dream often resists, and frustration wakes you up. Do not keep your dream eyes closed if you want to stay, since that tends to end the dream. And never test whether you are dreaming with an act that would be dangerous if you were awake. Use a harmless reality check, such as reading a line of text twice."
    },
    {
     "id": "sleep-paralysis",
@@ -1396,7 +1528,7 @@
     "id": "dangerous",
     "h2": "Is lucid dreaming dangerous, or is it safe?",
     "p": [
-     "For most people, lucid dreaming is a safe and fascinating experience. The main risk is losing sleep, because waking in the night too often can leave you tired. Keep techniques like WBTB for a few nights a week, and never sacrifice your rest for them.",
+     "For most people, lucid dreaming is a safe and fascinating experience. The main risk is losing sleep, because waking in the night too often can leave you tired. Keep techniques like WBTB for a few nights a week, and never sacrifice your rest for them. If your nights are already short, start with our articles on [how to sleep better](/en/blog/sleep-and-dreams.html).",
      "Some people feel briefly confused about what was dreamed and what was real. A false awakening, a dream within a dream in which you dream that you wake up, can add to this. What is a lucid nightmare? It is a bad dream in which you know you are dreaming, yet still feel stuck. Intense dreams like these, or sleep paralysis, can make bedtime uneasy. If that happens, take a break. On those evenings, a [sleep sound](/en/sleep-sounds.html) or a session from [Body, Calm & Sleep](/en/meditations/guided-sleep-meditation.html) is a gentler choice.",
      "So, is lucid dreaming safe? For most people, yes, as long as you protect your sleep. And you cannot get stuck in a lucid dream. Like every dream, it ends on its own, at the latest with its REM period. A false awakening may feel like a loop, but it always ends in a real awakening."
     ],
@@ -1484,6 +1616,10 @@
     "Lucid dreaming means knowing that you are dreaming while the dream goes on. You remain asleep, usually in REM sleep, but part of your mind is clear and aware. Some lucid dreams last only seconds; others let you explore or steer the dream. Researchers first recorded it in 1975, when a dreamer sent eye signals from inside a dream."
    ],
    [
+    "What does a lucid dream feel like?",
+    "Descriptions of a lucid dream often sound alike: it feels like waking up inside the dream. The scene stays, but you know your body is asleep in bed, and colors and details can seem sharper than usual. Many people feel a rush of joy, which often wakes them within seconds. With practice, some lucid dreams last several minutes."
+   ],
+   [
     "How do you get out of a lucid dream?",
     "Most lucid dreams end on their own, often when excitement wakes you up. To leave on purpose, many people close their dream eyes, blink hard or call out that they want to wake up. Focusing on your physical body, such as your hands resting on the bed, also helps. If you wake into sleep paralysis, breathe slowly and wiggle a finger."
    ],
@@ -1514,6 +1650,10 @@
    [
     "What causes sleep paralysis?",
     "Sleep paralysis happens when you wake during REM sleep while your muscles are still relaxed. For a few seconds, you are aware but cannot move, and dream images may spill into the room. It is more common after short or irregular nights, when sleeping on your back and in periods of stress. If it frightens you or keeps returning, ask a professional for advice."
+   ],
+   [
+    "What is the difference between lucid dreaming and sleep paralysis?",
+    "In a lucid dream, you are asleep and dreaming, and you know it. In sleep paralysis, you are awake, or nearly, but your body is still in the muscle relaxation of REM sleep, so for a moment you cannot move. Both happen at the edge of REM sleep. That is why one can lead to the other, especially with the WILD technique."
    ],
    [
     "What is the difference between lucid and vivid dreaming?",
@@ -1547,20 +1687,20 @@
  },
  "transe": {
   "slug": "shamanic-trance",
-  "seo": "What Is Shamanism? Shamanic Trance and the Shamanic Path",
-  "desc": "Shamanism and shamanic trance explained: what a shaman does, drumming, the three worlds and power animals, with free guided shamanic meditations.",
+  "seo": "What Is Shamanism? Shamanic Trance, Journeying and Drumming",
+  "desc": "Shamanism and shamanic trance explained: what a shaman does, drumming, the three worlds, power animals and the shamanic path, with free guided meditations.",
   "h1": "Shamanic trance: what shamanism is and how journeying works",
   "eyebrow": "Complete guide",
   "lead": "To the steady beat of a drum, the shaman travels to other worlds and returns with something for the community. Here is what shamanism is, how a shamanic trance works and how to explore it respectfully, as a guided meditation.",
   "def": "**Shamanic trance** is an altered state of consciousness in which a shaman, often carried by a drum, journeys in spirit to other worlds. **Shamanism** is the family of traditions built around this figure, found from Siberia to the Americas. In these traditions, the journey serves the community: seeking guidance, protection or balance.",
-  "kw": "shamanism, shaman definition, what is shamanism, shamanic path, history of shamanism, shamanic trance, shamanic journey, shamanic drumming, power animal, shamanic meditation",
+  "kw": "shamanism, shamanic trance, what is shamanism, shaman definition, shamanism religion, shamanism meaning, shamanic journeying, shamanic drumming, power animal, shamanic path, shamanic meditation, neo-shamanism, animism and shamanism",
   "sections": [
    {
     "id": "what-is-a-shaman",
     "h2": "What is a shaman? Shaman definition and origin of the word",
     "p": [
-     "The word shaman comes from Evenki, a Tungusic language of Siberia. Among the Evenki, the šaman is the person who enters trance to communicate with the spirits on behalf of the community. The word reached European languages through Russian.",
-     "Anthropologists later used it for similar figures around the world: in Mongolia, among the Sámi of northern Europe, in the Amazon, in North America. Each tradition has its own name, language and rituals. In Korean shamanism, for example, the mudang, most often women, lead a ritual called gut. Speaking of shamanism in the singular is a convenience; in reality, there are many shamanisms. Many of them rest on animism, the view that animals, plants and places have a spirit of their own.",
+     "The word shaman comes from Evenki, a Tungusic language of Siberia. Among the Evenki, the šaman is the person who enters trance to communicate with the spirits on behalf of the community. The word reached European languages through Russian. In English, it is pronounced “SHAH-mun” or “SHAY-mun.”",
+     "Anthropologists later used it for similar figures around the world: in Mongolia, among the Sámi of northern Europe, in the Amazon, in North America. That is how the meaning of shamanism widened, from one Siberian practice to a whole family of traditions. Each tradition has its own name, language and rituals. In Korean shamanism, for example, the mudang, most often women, lead a ritual called gut. Among the Hmong of southern China and Southeast Asia, the shaman, called txiv neeb, enters trance to bring back a soul that has wandered. Speaking of shamanism in the singular is a convenience; in reality, there are many shamanisms. Many of them rest on animism, the view that animals, plants and places have a spirit of their own.",
      "So what does a shaman do? Depending on the culture, a shaman may seek guidance for the group or look for the cause of a misfortune. Some also accompany the souls of the dead or help the hunt. At the heart of it lies the journey: a trance in which the shaman travels in spirit and comes back with something useful."
     ]
    },
@@ -1570,15 +1710,23 @@
     "p": [
      "Two books mark the modern history of shamanism in the West. In 1951, the historian of religions Mircea Eliade published the book known in English as Shamanism: Archaic Techniques of Ecstasy. He described the shaman as a specialist of ecstasy, whose soul leaves the body to travel to the sky or the underworld. He also gave great weight to shamanic initiation, often a long and demanding ordeal. His work shaped how the West sees shamanism.",
      "In 1980, the American anthropologist Michael Harner published The Way of the Shaman. He drew together elements shared by many cultures: the drum, the journey, the three worlds and the power animal. He called the result core shamanism, a practice without the rituals of any one people.",
-     "Core shamanism has made the shamanic path accessible to many, but it also raises questions. Many Indigenous peoples ask that their ceremonies not be copied or sold. The respectful attitude is simple: learn from the source cultures, do not claim their titles and call your practice by its true name."
+     "Core shamanism has made the shamanic path accessible to many, but it also raises questions. Together with other modern adaptations, it is often called neo-shamanism, to set it apart from the traditions of the peoples themselves. Many Indigenous peoples ask that their ceremonies not be copied or sold. The respectful attitude is simple: learn from the source cultures, do not claim their titles and call your practice by its true name."
     ],
     "tip": "The sessions in MeditaDream are guided meditations inspired by these traditions. They are not an initiation, and they do not make anyone a shaman."
+   },
+   {
+    "id": "religion",
+    "h2": "Is shamanism a religion?",
+    "p": [
+     "Not in the usual sense of the word. Shamanism has no founder, no holy book, no shared creed and no central authority. Scholars generally describe it as a set of practices and beliefs centered on the shaman's trance, which can live inside very different religions. Eliade's own subtitle speaks of techniques, not of a faith.",
+     "In practice, the two often mix. In Korea, Mongolia or Siberia, many people who consult a shaman also call themselves Buddhist or Christian. Some communities do speak of shamanism as their religion, and their choice of words deserves respect. A guided meditation, for its part, asks for no belief: you can explore this imagery whatever your convictions."
+    ]
    },
    {
     "id": "trance",
     "h2": "What is trance? Shamanic trance and altered states of consciousness",
     "p": [
-     "A trance is an altered state of consciousness in which attention turns inward and becomes deeply absorbed. The outside world fades, inner images grow vivid and the sense of time shifts. You already know light versions of it, such as being lost in music.",
+     "A trance is an altered state of consciousness in which attention turns inward and becomes deeply absorbed. The outside world fades, inner images grow vivid and the sense of time shifts. You already know light versions of it, such as being lost in music. Our article on [trance meaning](/en/blog/what-is-trance-altered-state.html) looks at these everyday forms.",
      "The phrase altered states of consciousness became widely known through a 1969 book of that name, edited by the psychologist Charles Tart. It covers dreaming, hypnosis, meditation and the trance state brought on by rhythm. In the app, the [Consciousness & Trance](/en/meditations/guided-trance-meditation.html) category explores several of these doorways.",
      "In a shamanic trance, the person usually stays aware and remembers the journey. It is less a loss of control than a shift of focus, held by an intention and a rhythm."
     ]
@@ -1589,6 +1737,7 @@
     "p": [
      "In many traditions, the drum carries the journey. In Siberia, it is often called the shaman's horse. The shamanic drum is usually a frame drum: a hide stretched over a wooden hoop, struck with a beater. The beat is steady, fast and repetitive, with no melody to follow. Rattles, chanting or dancing can play the same role.",
      "Drumming for a shamanic journey usually follows a simple structure. A steady beat accompanies the traveler for a set time. Then a change in rhythm calls the traveler back, often a few sharp beats followed by a faster roll.",
+     "Shamanic trance music, at its root, is very plain: one drum at a fast, even pace, sometimes joined by a rattle or a voice. Recordings made for journeying usually last between 10 and 30 minutes and end with this call-back signal. In some traditions, the trance is danced rather than experienced lying still: the shaman moves, sings and drums at once. Modern trance dance borrows from this, without being a shamanic ritual.",
      "Researchers have studied how repetitive drumming affects attention and brain activity. Small studies suggest that rhythm makes it easier to turn inward and stay absorbed. Science, however, does not describe what the traveler meets."
     ]
    },
@@ -1596,7 +1745,7 @@
     "id": "three-worlds",
     "h2": "The three worlds of the shamanic journey",
     "p": [
-     "Many shamanic traditions describe the universe in three levels, connected by a central axis: a world tree, a mountain or a pillar. The shaman climbs or descends along it. Eliade called it the axis of the world, or axis mundi.",
+     "Many shamanic traditions describe the universe in three levels, connected by a central axis: a [world tree](/en/blog/three-worlds-shamanism-lower-middle-upper.html), a mountain or a pillar. The shaman climbs or descends along it. Eliade called it the axis of the world, or axis mundi.",
      "In core shamanism, the lower world is often reached through an opening in the earth, such as a cave, a hollow tree or a spring. The upper world is reached by climbing a tree, a ladder or rising smoke. In the app, Journey to the Lower World and Journey to the Upper World, in [Trances & Techniques](/en/meditations/deep-trance-journey-techniques.html), follow these two paths."
     ],
     "visual": true
@@ -1607,14 +1756,14 @@
     "p": [
      "A power animal is a protective spirit that appears in animal form and accompanies the shaman. In many cultures, these allies are met during the journey, often in the lower world. Some traditions also link an animal to a person or a clan for life. The word totem, behind the phrase totem animals, comes from Ojibwe, a language of North America.",
      "Finding your power animal in a guided meditation is simple. You set the intention, travel inward and notice which animal shows itself, often more than once. It may be humble, like a mouse, or majestic, like a bear. What matters is how it behaves and what it brings you.",
-     "The phrase spirit animal comes from Indigenous traditions, and many people now prefer animal guide out of respect. If you wonder how to find out what your spirit animal is, the shamanic answer is the journey itself, not a list or your birth month. Our page on [spirit guides](/en/spirit-guides.html) explores these figures further. In [The Wolf Spirit Forest](/en/worlds/wolf-spirit-guided-meditation.html), a starry wolf becomes your guide for 15 minutes."
+     "The phrase spirit animal comes from Indigenous traditions, and many people now prefer animal guide out of respect. If you wonder how to find out what your spirit animal is, the shamanic answer is the journey itself, not a list or your birth month. Our page on [spirit guides](/en/spirit-guides.html) explores these figures further, and our article on finding your [spirit animal](/en/blog/find-your-power-animal-shamanic-journey.html) walks through the journey in five steps. In [The Wolf Spirit Forest](/en/worlds/wolf-spirit-guided-meditation.html), a starry wolf becomes your guide for 15 minutes."
     ]
    },
    {
     "id": "journey",
     "h2": "What is a shamanic journey? How a guided shamanic meditation unfolds",
     "p": [
-     "A shamanic journey is a trance voyage with a clear intention, made in the imagination and lived with all the senses. Here is how a guided shamanic meditation usually unfolds. For four complete journeys, see the [Shamanic Trance](/en/meditations/shamanic-journey-meditation.html) category."
+     "A shamanic journey is a trance voyage with a clear intention, made in the imagination and lived with all the senses. Shamanic journeying, the name core shamanism gives to the practice, can be learned step by step. Here is how a guided shamanic meditation usually unfolds. For four complete journeys, see the [Shamanic Trance](/en/meditations/shamanic-journey-meditation.html) category."
     ],
     "steps": [
      [
@@ -1682,7 +1831,7 @@
    ]
   },
   "app": {
-   "h2": "Shamanic trance in MeditaDream",
+   "h2": "Shamanic trance meditation in MeditaDream",
    "intro": [
     "The Shamanic Trance category offers four journeys of 23 to 30 minutes. The Vision Quest, 30 minutes, follows the old pattern of walking, waiting and letting what needs to be seen arrive. The Fire of the Ancients, The Circle of Protection and Returning with a Power Object complete it.",
     "In the Trances tab of the Trance & Astral Projection screen, Journey to the Lower World, 30 minutes, follows an animal to the sound of the drum. Journey to the Upper World, 25 minutes, rises through wind and light. The Consciousness & Trance category explores other doorways, such as The 33-level Spiral."
@@ -1713,7 +1862,15 @@
    ],
    [
     "What is shamanism?",
-    "Shamanism is the family of traditions built around the shaman, a person who enters trance to communicate with the spirit world for the community. It has been described from Siberia, where the word comes from, to Korea, the Arctic and the Americas. Each culture has its own rituals and names. Many rest on animism, the view that animals, plants and places have a spirit."
+    "In simple terms, shamanism is the family of traditions built around the shaman, a person who enters trance to communicate with the spirit world for the community. It has been described from Siberia, where the word comes from, to Korea, the Arctic and the Americas. Each culture has its own rituals and names. Many rest on animism, the view that animals, plants and places have a spirit."
+   ],
+   [
+    "What is a shamanic trance?",
+    "A shamanic trance is an altered state of consciousness in which attention turns fully inward, usually carried by a steady drumbeat. This state is usually light enough for the person to stay aware, hold an intention and remember the journey afterward. In traditional cultures, it is the shaman's working state. In a guided meditation, it is a deep, focused form of imagination that you can leave at any moment."
+   ],
+   [
+    "What is the difference between shamanism and animism?",
+    "Animism is a view of the world; shamanism is a practice. Animism holds that animals, plants, rivers and places have a spirit of their own. Shamanism adds a specialist, the shaman, who enters trance to deal with those spirits on behalf of the community. Animism and shamanism often go together, but a people can be animist without having shamans."
    ],
    [
     "What does a shaman do?",
@@ -1755,13 +1912,13 @@
  },
  "visualisation": {
   "slug": "guided-imagery-visualization",
-  "seo": "Guided Imagery and Visualization: Techniques That Work",
-  "desc": "Guided imagery and mental imagery explained: creative visualization, visualization techniques, simple exercises and free guided imagery meditations.",
+  "seo": "Guided Imagery and Visualization: Techniques and 5 Exercises",
+  "desc": "Guided imagery and mental imagery explained: creative visualization, visualization techniques, 5 simple exercises and free guided imagery meditations.",
   "h1": "Guided imagery: how visualization works and how to practice",
   "eyebrow": "Complete guide",
-  "lead": "Close your eyes and picture a lemon: its color, its weight, the sharp smell as you cut it. That small experiment is mental imagery. Here is how guided imagery works, what research shows and how to visualize better, one sense at a time.",
+  "lead": "Close your eyes and picture a lemon: its color, its weight, the sharp smell as you cut it. That small experiment is mental imagery. Here is how guided imagery works, what research shows and which visualization techniques help you visualize better, one sense at a time.",
   "def": "**Guided imagery** is a practice in which you follow a guide's words to create detailed mental images, using all your senses. You might see a beach, hear the waves, feel warm sand and smell salt in the air. It is used for relaxation, mental rehearsal and meditation, and it can be learned like any other skill.",
-  "kw": "guided imagery, visualization techniques, how to visualize, creative visualization, guided imagery for anxiety, imagery for relaxation, visualization for anxiety, manifestation journaling, manifestation journal prompts, athlete visualization",
+  "kw": "guided imagery, visualization techniques, how to visualize, creative visualization, guided imagery for anxiety, imagery for relaxation, visualization for anxiety, manifestation journaling, manifestation journal prompts, athlete visualization, guided imagery script, visualization exercises, guided imagery meditation",
   "sections": [
    {
     "id": "what-is",
@@ -1821,7 +1978,7 @@
     "p": [
      "The most reliable way to train imagery is to work sense by sense, then combine them. This is the progression of the [Visualization](/en/meditations/guided-visualization-meditation.html) category in MeditaDream, six sessions of 16 to 29 minutes.",
      "You start with sight: in Film — a Butterfly Flies Beside You, you follow a butterfly's path and the gust that pushes it off course. Touch comes next, with Touch — the Key in Your Hand: its weight, its coldness, the slight pull when you lift it. Then hearing, with Hearing — the Distant Singing Bowl, where you follow both distance and direction.",
-     "Finally, two long sessions bring the three senses together, on the summit of an extinct volcano and in a spaceship's cockpit. The Room You Know asks you to rebuild a familiar room and let the evening light fall into it. When you feel ready, the [Third Eye](/en/meditations/third-eye-meditation.html) category goes further, with images that appear on their own."
+     "Finally, two long sessions bring the three senses together, on the summit of an extinct volcano and in a spaceship's cockpit. The Room You Know asks you to rebuild a familiar room and let the evening light fall into it. When you feel ready, the [Third Eye](/en/meditations/third-eye-meditation.html) category goes further, with images that appear on their own. The same inner senses are at work in [lucid dreaming](/en/lucid-dreaming-meditation.html) techniques and in [astral projection](/en/astral-projection.html) exercises, which both lean on vivid imagination."
     ],
     "visual": true
    },
@@ -1853,6 +2010,44 @@
       "Choose a place you love and add one sense at a time: sight, then sound, then touch, then smell."
      ]
     ]
+   },
+   {
+    "id": "script",
+    "h2": "How to do guided imagery: a short beach script",
+    "p": [
+     "To do guided imagery on your own, you need a quiet spot, a few minutes and a scene described slowly, one sense at a time. Read this short guided imagery script to yourself, or record it, and pause for a breath or two after each line."
+    ],
+    "steps": [
+     [
+      "Arrive",
+      "Close your eyes and breathe out slowly. You are standing barefoot on a wide, quiet beach."
+     ],
+     [
+      "See",
+      "Look at the water: its color, the line of the horizon, the light moving on the waves."
+     ],
+     [
+      "Hear",
+      "Listen to a wave rolling in, then drawing back over the sand. Let your breath follow it."
+     ],
+     [
+      "Feel",
+      "Notice the warm sand under your feet, and a light breeze on your face and arms."
+     ],
+     [
+      "Smell and taste",
+      "Breathe in the salt air. Notice a trace of it on your lips."
+     ],
+     [
+      "Stay",
+      "Sit down in the sand and simply watch three waves come and go."
+     ],
+     [
+      "Return",
+      "Feel the chair or the bed under you, move your fingers and open your eyes."
+     ]
+    ],
+    "tip": "In the app, My Meditations lets you [write your own guided meditation script, free](/en/write-your-own-meditation.html), and hear it read aloud with the silences you choose."
    },
    {
     "id": "daily-life",
@@ -1917,7 +2112,7 @@
    "h2": "Guided imagery meditation in MeditaDream",
    "intro": [
     "The Visualization category is built as a training of the inner senses: sight, touch, hearing, then all three together. Bringing the Three Senses Together — Summit of a Volcano lasts 29 minutes, and The Room You Know 27 minutes.",
-    "Once your images feel steadier, the five advanced sessions of the Third Eye category, such as The Image that Appears on its Own, take you further. The 17 worlds then turn guided imagery into a full journey, from The Zen Garden to Underwater Atlantis. Everything is free and plays offline once downloaded."
+    "Once your images feel steadier, the five advanced sessions of the Third Eye category, such as The Image that Appears on its Own, take you further. The 17 worlds then turn guided imagery into a full journey, from The Zen Garden to Underwater Atlantis. MeditaDream is a guided imagery app with no ads and no account. Everything is free and plays offline once downloaded."
    ],
    "features": [
     [
@@ -1926,7 +2121,7 @@
     ],
     [
      "Meditation Worlds",
-     "Enter one of the 17 worlds for a complete guided visualization of 13 to 20 minutes, then note it with Capture this."
+     "Enter one of the 17 worlds for a complete guided visualization of 13 to 19 minutes, then note it with Capture this."
     ],
     [
      "Meditation history",
@@ -1942,6 +2137,14 @@
    [
     "What is guided imagery?",
     "Guided imagery is a relaxation and meditation technique in which you follow a guide's words to build a detailed inner scene. It uses all the senses: sight, sound, touch, smell and movement. People use it to relax, to rehearse a skill or an event, and to explore their inner world. It is a learnable skill that grows with regular practice."
+   ],
+   [
+    "What is the difference between guided imagery and visualization?",
+    "Very little in everyday use. Visualization is the general skill of forming images in your mind, and strictly speaking it concerns sight. Guided imagery is visualization led by someone else's words, in person or in a recording, and it calls on all the senses. Guided visualization and visualization meditation overlap with both, which is why people often use these terms interchangeably."
+   ],
+   [
+    "What do guided imagery and visualization help with?",
+    "People use them for three main things: to relax, to prepare and to explore. A calm scene helps many people unwind or settle before sleep. A mental rehearsal helps you prepare for a talk, an exam or a race. In meditation, an image steadies attention or opens an inner landscape. Imagery supports these moments, but it does not replace action, or the advice of a professional."
    ],
    [
     "What is mental imagery?",
@@ -1987,20 +2190,20 @@
  },
  "guides": {
   "slug": "spirit-guides",
-  "seo": "Spirit Guides and Angels: Who They Are and How to Connect",
-  "desc": "What are spirit guides? Guardian angels, spirit animals, ancestors, bodhisattvas, the higher self, signs people describe and free spirit guide meditations.",
+  "seo": "Spirit Guides and Angels: What They Are and How to Connect",
+  "desc": "What are spirit guides? Guardian angels, spirit animals, the higher self, signs people describe and how to connect with your spirit guides. Free meditations.",
   "h1": "Spirit guides and your higher self: who they are and how to connect",
   "eyebrow": "Complete guide",
   "lead": "A wise presence at your side, an animal that keeps appearing, a grandmother you still feel near: many people sense they are not walking alone. Here is what spirit guides are in different traditions, and how to connect with yours in meditation.",
-  "def": "**Spirit guides** are presences believed to accompany, protect and advise a person on their life path. Depending on the tradition, they take the form of guardian angels, animal spirits, ancestors, ascended masters or the higher self. Some see them as beings in their own right, others as wise parts of the psyche. Both views can meet in meditation.",
-  "kw": "spirit guides, what are spirit guides, guardian angel, spiritual guidance, higher self, animal spirit guides, ascended masters, how to talk to your spirit guides, how to connect with your guardian angel, signs from spirit guides",
+  "def": "**Spirit guides**, also called spiritual guides or guiding spirits, are presences believed to accompany, protect and advise a person on their life path. Depending on the tradition, they take the form of guardian angels, animal spirits, ancestors, ascended masters or the higher self. Some see them as beings in their own right, others as wise parts of the psyche. Both views can meet in meditation.",
+  "kw": "spirit guides, what are spirit guides, what is a spirit guide, how to connect with your spirit guides, guardian angel, higher self, animal spirit guides, spirit guide names, spirit guides meaning, signs from spirit guides, how to talk to your spirit guides, spiritual guide",
   "sections": [
    {
     "id": "what-are",
-    "h2": "What are spirit guides?",
+    "h2": "What are spirit guides? Meaning and origins of the idea",
     "p": [
-     "The idea of a guiding presence is found in almost every culture. It answers a simple human feeling: that help, wisdom or protection can come from somewhere beyond our everyday mind.",
-     "The phrase spirit guide became common in nineteenth-century Spiritualism, where mediums spoke of guides who helped them contact the beyond. Today, it is used broadly for any presence that offers spiritual guidance, whatever its form.",
+     "What is a spirit guide? In a few words, a presence, seen or only felt, that is believed to watch over one person and offer guidance. The idea of a guiding presence is found in almost every culture. It answers a simple human feeling: that help, wisdom or protection can come from somewhere beyond our everyday mind.",
+     "The phrase spirit guide became common in nineteenth-century Spiritualism, where mediums spoke of guides who helped them contact the beyond. Today, it is used broadly for any presence that offers spiritual guidance, whatever its form. Some people say spiritual guide instead, though in everyday English that phrase can also mean a human teacher or mentor, such as a priest, a guru or a spiritual director.",
      "The intuition itself is much older. In ancient Athens, Socrates spoke of his daimonion, an inner sign that warned him when he was about to make a mistake. Many traditions since have given this inner wisdom a face and a name."
     ]
    },
@@ -2107,7 +2310,7 @@
     "p": [
      "Animal spirit guides are among the most widespread. In shamanic traditions, the power animal protects and teaches. Many Indigenous peoples of North America also know totem animals, linked to a person or a clan. The word totem itself comes from Ojibwe.",
      "The phrase spirit animal comes from these Indigenous traditions, and its casual use in pop culture can feel disrespectful to them. Many people now prefer animal guide or power animal. In the app, the guide type is called Spirit Animal.",
-     "To find your animal guide in meditation, set the intention, travel to a natural place in imagination and notice which animal approaches. Pay attention to animals that return in your dreams and journeys. [The Wolf Spirit Forest](/en/worlds/wolf-spirit-guided-meditation.html) is built around this kind of encounter, with a wolf spirit guide made of stars. Our page on [shamanic trance](/en/shamanic-trance.html) explains the tradition behind it."
+     "To find your animal guide in meditation, set the intention, travel to a natural place in imagination and notice which animal approaches. Pay attention to animals that return in your dreams and journeys. [The Wolf Spirit Forest](/en/worlds/wolf-spirit-guided-meditation.html) is built around this kind of encounter, with a wolf spirit guide made of stars. Our page on [shamanic trance](/en/shamanic-trance.html) explains the tradition behind it. For a step-by-step method, see our article on finding your [spirit animal](/en/blog/find-your-power-animal-shamanic-journey.html)."
     ]
    },
    {
@@ -2119,8 +2322,9 @@
     "ul": [
      "Repeated encounters: a bird, an animal or a symbol that keeps appearing.",
      "Synchronicities: meaningful coincidences, like hearing the answer to a question you just asked yourself. Jung coined the word.",
+     "Repeating numbers, such as 11:11 or 222, which many people call angel numbers.",
      "A sudden inner knowing, a calm certainty that arrives without reasoning.",
-     "Dreams in which a guide speaks, or a figure that returns night after night.",
+     "Dreams in which a guide speaks, or a figure that returns night after night. Some people also describe meeting a guide during [lucid dreaming](/en/lucid-dreaming-meditation.html) or [astral projection](/en/astral-projection.html).",
      "Physical sensations: warmth, a light touch, a feeling of presence."
     ],
     "tip": "Write signs down as they happen, then look back after a few weeks. A real pattern holds up over time; a forced one fades."
@@ -2166,6 +2370,14 @@
      "No test can tell you, whatever online quizzes promise. Most people who feel guided recognize their guide over time, through a figure that keeps returning.",
      "Watch for three clues. The same figure appears in several meditations or dreams. Its presence feels calm and kind, even when it says something hard to hear. And what it brings helps you in daily life.",
      "Your guide may look like a person, an animal or a light. It may also come only as a voice or a feeling. A name may come later, or never. Many people simply choose a name that feels right, and note it on the guide's page in Your Guides."
+    ]
+   },
+   {
+    "id": "names",
+    "h2": "Spirit guide names: known names and how to learn yours",
+    "p": [
+     "The best-known names of guiding figures come from the traditions themselves. Christianity names the archangels Michael, Gabriel and Raphael. Buddhism reveres Guanyin and Tara. Theosophy and its heirs speak of masters such as Saint Germain. In the twentieth century, British Spiritualist mediums spoke of guides called Silver Birch or White Eagle. These names drew on Native American imagery, a habit many question today. Jung called his inner figure Philemon.",
+     "Your own guide's name is another matter. Ask for it once in meditation, then take the first thing that comes: a word, a syllable, a single letter. Do not force it: some names arrive weeks later, and some guides stay nameless. In The Name and the Sign, a 16-minute session in the app, you ask a guide one question: “What name can I use to return to this presence?”"
     ]
    },
    {
@@ -2273,6 +2485,10 @@
     "Spirit guides are presences believed to accompany and advise a person through life. Traditions describe them as guardian angels, ancestors, animal spirits, ascended masters or the higher self. Some people see them as independent beings, others as wise parts of the psyche. In meditation, you can meet them with an open mind, whichever view you hold."
    ],
    [
+    "How are spirit guides assigned?",
+    "Traditions answer this in different ways. In Catholic teaching, a guardian angel watches over each person from the beginning of life. Many Spiritualist and New Age authors write that a main guide agrees to accompany a soul before birth, while other guides come for a period or a task. In shamanic traditions, helping spirits are met during journeys. These are beliefs, and none of them can be verified."
+   ],
+   [
     "How do I connect with my spirit guides?",
     "Find a quiet moment, close your eyes and imagine a safe, peaceful place. Set the intention to meet a guide who wishes you well, then notice who or what approaches. Ask one simple question and listen without forcing. Thank your guide, return slowly and write down what you received. Repeating the practice helps the connection feel familiar."
    ],
@@ -2287,6 +2503,10 @@
    [
     "What is the higher self?",
     "The higher self is a wiser, deeper part of your own being, described in Theosophy and many modern spiritual paths. It is said to see your life with more clarity and love than your everyday mind. Connecting with it usually means quieting down and listening inwardly. In this view, your most trusted guide is not outside you, but within."
+   ],
+   [
+    "Is your spirit guide your higher self?",
+    "It depends on whom you ask. In Theosophy and many modern spiritual paths, the higher self is the deepest part of you, while a spirit guide is described as a separate being who walks beside you. Psychology tends to read both as inner figures that voice a wider wisdom than everyday thinking. In meditation, the difference matters less than the quality of what you receive."
    ],
    [
     "What are ascended masters?",
@@ -2309,6 +2529,14 @@
     "In Christian tradition, a guardian angel is a personal protector who accompanies one person through life. Archangels hold a higher rank and carry great missions. The Bible names Michael and Gabriel, and the Book of Tobit names Raphael. Popular spirituality sometimes calls an archangel a guardian, but classic teaching keeps the two roles apart."
    ],
    [
+    "Are spirit guides and guardian angels the same?",
+    "Not in the traditions they come from. A guardian angel belongs to Christian teaching: a spiritual being created by God, who was never human and watches over one person. Spirit guide is a broader term from Spiritualism and New Age writing, and often means a soul who once lived, an ancestor or an animal spirit. In everyday speech, though, many people use both for any protective presence."
+   ],
+   [
+    "Are spirit guides in the Bible?",
+    "The phrase spirit guide does not appear in the Bible. What Scripture describes is closer to guardian angels: angels who watch over people, for example in Psalm 91 and Matthew 18:10, and whom the Letter to the Hebrews calls ministering spirits. Deuteronomy 18 also warns against consulting mediums and the spirits of the dead. For that reason, many Christians keep to prayer and do not seek spirit guides."
+   ],
+   [
     "Can you meet spirit guides in sleep?",
     "Many people say so. A guide may speak in a dream, or the same figure may return night after night. Write these dreams down as soon as you wake. In the app, the Dream Journal keeps them, and Your Guides lets you log each reappearance."
    ],
@@ -2327,6 +2555,10 @@
    [
     "Do spirit guides speak in words?",
     "Rarely in full sentences. People describe an image, a feeling, a sudden knowing or a single word. Some hear a voice in their mind, close to their own inner voice. Write down what comes, even if it seems small: the meaning often appears later."
+   ],
+   [
+    "What are the spirit guides in Coco and in Mexican tradition?",
+    "In the Pixar film Coco, set on the Day of the Dead, the spirit guides are alebrijes: brightly colored fantastic animals, such as the winged jaguar Pepita, that guide souls in the Land of the Dead. Alebrijes are a real Mexican folk art, invented in Mexico City by the artisan Pedro Linares in the twentieth century. Their role as guides comes from the film. An older Aztec belief says the Xoloitzcuintli dog leads the dead through the underworld."
    ]
   ],
   "blog": {
@@ -2337,19 +2569,19 @@
  "emotions": {
   "slug": "emotional-growth",
   "seo": "Emotion Wheel and Feelings Wheel: Name What You Feel",
-  "desc": "Use an emotion wheel to name what you feel. Then grow with emotional regulation, self-compassion and self-esteem: free guided meditations, no ads.",
+  "desc": "Use an emotion wheel or feelings wheel to name what you feel. A guide to emotional growth: regulation, self-compassion, free guided meditations, no ads.",
   "h1": "The emotion wheel: name your feelings, regulate them, grow",
   "eyebrow": "Complete guide",
-  "lead": "An emotion wheel helps you put a precise word on what you feel. Feelings are not problems to solve. They are messages to understand. Here is how emotional growth works in practice. You name the feeling, regulate it gently and offer yourself the kindness you would give a friend.",
+  "lead": "An emotion wheel, or feelings wheel, helps you find the precise word for what you feel. Feelings are not problems to solve. They are messages to understand. Here is how emotional growth works in practice. You name the feeling, regulate it gently and offer yourself the kindness you would give a friend.",
   "def": "**Emotional growth** is the gradual process of learning to welcome your feelings, name them precisely, understand what they signal and choose how to respond. It is not about feeling less, but about feeling more clearly. It rests on simple skills, such as noticing, naming, self-compassion and emotional regulation, and all of them can be practiced in meditation.",
-  "kw": "emotion wheel, feelings wheel, plutchik's wheel of emotions, emotional regulation, mindful self compassion, self esteem, self love, emotional regulation skills, how to process emotions, emotional growth",
+  "kw": "emotion wheel, feelings wheel, plutchik's wheel of emotions, emotional regulation, mindful self compassion, self esteem, self love, emotional regulation skills, how to process emotions, emotional growth, what is an emotion wheel, emotion wheel chart",
   "sections": [
    {
     "id": "what-is",
     "h2": "What is emotional growth?",
     "p": [
      "Emotional growth is one of the deepest forms of personal growth. It does not mean becoming calm all the time, or never feeling anger or sadness again. It means meeting your feelings with more space and more skill.",
-     "You can picture it as four simple movements. In the app, the [Emotional Growth](/en/meditations/self-love-and-gratitude-meditation.html) category follows this path, with eight sessions of 7 to 17 minutes."
+     "You can picture it as four simple movements. In the app, the [Emotional Growth](/en/meditations/self-love-and-gratitude-meditation.html) category follows this path, with ten sessions of 6 to 17 minutes."
     ],
     "cards": [
      [
@@ -2374,8 +2606,8 @@
     "id": "plutchik",
     "h2": "Plutchik's wheel of emotions: the classic emotion wheel",
     "p": [
-     "In 1980, the psychologist Robert Plutchik proposed a model of eight basic emotions: joy, trust, fear, surprise, sadness, disgust, anger and anticipation. He arranged them in a wheel, each one facing its opposite. Joy faces sadness, trust faces disgust, fear faces anger, and surprise faces anticipation.",
-     "Each emotion comes in degrees. Annoyance can grow into anger, then rage. Serenity can deepen into joy, then ecstasy. Neighboring emotions also combine: joy and trust give love, while anticipation and joy give optimism. His model is also a color wheel for emotions: each emotion has its own color, deeper as the feeling grows stronger."
+     "An emotion wheel is a circular chart of feeling words, in which related emotions sit side by side. In 1980, the psychologist Robert Plutchik proposed a model of eight basic emotions: joy, trust, fear, surprise, sadness, disgust, anger and anticipation. He arranged them in a wheel, each one facing its opposite. Joy faces sadness, trust faces disgust, fear faces anger, and surprise faces anticipation.",
+     "Each emotion comes in degrees. Annoyance can grow into anger, then rage. Serenity can deepen into joy, then ecstasy. Neighboring emotions also combine: joy and trust give love, while anticipation and joy give optimism. His model is also a color wheel for emotions: each emotion has its own color, deeper as the feeling grows stronger. The emotion wheel chart below shows his eight emotions, each with a milder form in the outer ring."
     ],
     "visual": true
    },
@@ -2383,7 +2615,7 @@
     "id": "feelings-wheel",
     "h2": "How to use a feelings wheel or emotion wheel",
     "p": [
-     "A feelings wheel, or emotion wheel, helps you move from a vague state to a precise word. Plutchik's is one model. Another, widely shared, is the Feeling Wheel created by Gloria Willcox in 1982. Its center holds six core feelings: sad, mad, scared, joyful, powerful and peaceful. The outer rings offer finer nuances."
+     "A feelings wheel, or emotion wheel, helps you move from a vague state to a precise word. Plutchik's is one model. Another, widely shared, is the Feeling Wheel created by Gloria Willcox in 1982. Its center holds six core feelings: sad, mad, scared, joyful, powerful and peaceful. The outer rings offer finer nuances. Willcox first designed it as a poster for her office. It works as a feelings wheel for adults, and simpler versions, with fewer words, are used with children."
     ],
     "steps": [
      [
@@ -2473,7 +2705,7 @@
     "h2": "Mindful self-compassion and self-love: learning to love yourself",
     "p": [
      "Kristin Neff, a researcher at the University of Texas at Austin, describes self-compassion in three components. Self-kindness means speaking to yourself with warmth rather than harsh judgment. Common humanity means remembering that struggle and imperfection are part of every human life. Mindfulness means seeing your difficult feelings clearly, without exaggerating or ignoring them.",
-     "With Christopher Germer, Neff developed the Mindful Self-Compassion program, now taught in many countries. Its core idea is simple: offer yourself the care you would give a good friend. Loving-kindness meditation, metta in Pali, extends this warmth to others. Compassion Meditation, 7 minutes, follows its classic pattern: wishes of peace, safety and happiness, first for yourself, then for others.",
+     "With Christopher Germer, Neff developed the Mindful Self-Compassion program, now taught in many countries. Its core idea is simple: offer yourself the care you would give a good friend. [Loving-kindness meditation](/en/blog/loving-kindness-meditation.html), metta in Pali, extends this warmth to others. Compassion Meditation, 7 minutes, follows its classic pattern: wishes of peace, safety and happiness, first for yourself, then for others.",
      "Self-love grows from there. It is not vanity, and it does not mean believing you are perfect. Learning to love yourself means recognizing your real qualities, like perseverance or curiosity, and caring for yourself as someone worth caring for. Developing Self-love, a 15-minute session, starts exactly there. Simple self-love activities then make it concrete: a kind word after a mistake, an early night, a walk alone."
     ]
    },
@@ -2484,7 +2716,7 @@
      "To explain self-esteem simply: it is how you value yourself as a person. Self-confidence is trust in your ability to act, face a challenge or learn. You can have one without the other: a skilled person may still feel they are worth little.",
      "Low self-esteem often shows up as a harsh inner critic, constant comparison or a fear of failure and rejection. Kristin Neff's research suggests that self-compassion offers a steadier base than self-esteem. It does not depend on succeeding, or on being better than others.",
      "An affirmation for self-esteem can help, as long as you believe it. Some research suggests that repeating praise you do not believe can backfire. The best self-esteem exercises rest on small, real proofs: a gesture you got right, a quality you can show.",
-     "In the app, three sessions help. Before a hard moment, Finding Your Confidence Before a Challenge, 4 minutes, recalls a gesture you already got right. It is a quick way to boost self-esteem and confidence. Fear of Failure, 10 minutes, practices separating “I failed” from “I am a failure.” Releasing Comparison, 13 minutes, looks at comparison as it shows up today."
+     "In the app, four sessions help. Before a hard moment, Finding Your Confidence Before a Challenge, 4 minutes, recalls a gesture you already got right. It is a quick way to boost self-esteem and confidence. Fear of Failure, 10 minutes, practices separating “I failed” from “I am a failure.” Releasing Comparison, 13 minutes, looks at comparison as it shows up today. A fourth, Building Self-Confidence Through Evidence and Action, 6 minutes, ends with one small, real action to take."
     ]
    },
    {
@@ -2494,7 +2726,7 @@
      "Gratitude trains your attention to notice what is going well, which a stressed mind tends to overlook. A daily gratitude journal, or gratitude diary, needs only a few precise lines each evening. You can add journal prompts for self-love, such as: what did I handle well today? Our page on the [gratitude journal](/en/gratitude-journal.html) shows how to keep one.",
      "Forgiveness is often misunderstood. It does not mean excusing or forgetting. It means deciding what you want to carry, and what you are ready to set down. The session Forgiving Without Forgetting lets you decide for yourself, while keeping what you learned.",
      "Ho’oponopono, a Hawaiian practice of reconciliation, offers a simple way in. Its name is often translated as “to make right.” Its modern form rests on four phrases: I'm sorry, please forgive me, thank you, I love you. Heart-Centered Ho’oponopono, a 15-minute session in Shadow & Well-being, repeats them with the rhythm of the breath.",
-     "Shadow work means working with the shadow self, an idea from Carl Jung. You meet the parts of yourself you usually avoid, such as anger, envy or shame. Seen with kindness, they often turn out to be protecting something. The [Shadow & Well-being](/en/meditations/shadow-work-meditation.html) category offers ten sessions for this, from Shadow Work to Inner Child Serenity."
+     "[Shadow work](/en/blog/shadow-work-jung-hidden-strengths.html) means working with the shadow self, an idea from Carl Jung. You meet the parts of yourself you usually avoid, such as anger, envy or shame. Seen with kindness, they often turn out to be protecting something. The [Shadow & Well-being](/en/meditations/shadow-work-meditation.html) category offers ten sessions for this, from Shadow Work to Inner Child Serenity."
     ]
    }
   ],
@@ -2573,6 +2805,18 @@
    [
     "What is emotional growth?",
     "Emotional growth is the gradual process of learning to welcome your feelings, name them precisely, understand what they signal and choose how to respond. It is not about feeling less or staying calm all the time. It is about meeting emotions with more space and skill. Meditation, journaling and self-compassion are three simple ways to practice it."
+   ],
+   [
+    "What are examples of emotional growth?",
+    "Small, visible changes. You pause before answering in anger. You say “I'm disappointed” instead of “I'm fine.” You can apologize without sinking into shame, and you ask for help a little earlier. A setback still hurts, but it no longer defines you. Emotional growth shows less in what you feel than in how you respond."
+   ],
+   [
+    "What is an emotion wheel?",
+    "An emotion wheel is a circular chart that groups feeling words into families, so you can move from a vague state, such as “bad,” to a precise word, such as “disappointed.” The two best-known versions are Robert Plutchik's wheel of eight basic emotions, from 1980, and Gloria Willcox's Feeling Wheel, from 1982. You start from a broad family, then look for the finer word that fits."
+   ],
+   [
+    "What is the difference between an emotion wheel and a feelings wheel?",
+    "In everyday use, there is none: both names describe a circle of feeling words that helps you find the right one. Strictly speaking, “emotion wheel” often points to Plutchik's model of eight basic emotions and their intensities. “Feelings wheel” points to Gloria Willcox's chart, with six core feelings at the center and finer words around them."
    ],
    [
     "How do you use a feelings wheel?",

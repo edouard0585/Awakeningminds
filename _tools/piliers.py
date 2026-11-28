@@ -282,7 +282,7 @@ def chip_seance(ap, lang, cat, P, mid):
         for m in c['meds']:
             if m['id'] == mid:
                 return (f'<a class="chip" href="{ap.u(lang, "med", P[lang]["categories"][cid]["slug"])}">'
-                        f'{E(m["title"][lang])} · {m["dur"]} {E(LBL[lang]["min"])}</a>')
+                        f'{E(m["title"][lang])} · {ap.dmin(m, lang)} {E(LBL[lang]["min"])}</a>')
     return ''
 
 
@@ -299,7 +299,7 @@ def fig_astral(ap, lang, v, cat, P):
     cols = ''
     for i, ((n, t), (cid, ids)) in enumerate(zip(v.get('steps', [])[:3], ASTRAL_ETAPES)):
         href = ap.u(lang, 'med', P[lang]['categories'][cid]['slug'])
-        li = ''.join(f'<li><a href="{href}">{E(meds[x]["title"][lang])}</a><span>{meds[x]["dur"]} {E(LBL[lang]["min"])}</span></li>' for x in ids if x in meds)
+        li = ''.join(f'<li><a href="{href}">{E(meds[x]["title"][lang])}</a><span>{ap.dmin(meds[x], lang)} {E(LBL[lang]["min"])}</span></li>' for x in ids if x in meds)
         cols += f'<li><em>{E(LBL[lang]["step"])} {i + 1}</em><b>{E(n)}</b><p>{E(t)}</p><ul>{li}</ul></li>'
     return (f'<figure class="pl-fig pl-ladder"><figcaption class="ft">{E(v.get("title", ""))}</figcaption>'
             f'<ol>{cols}</ol><p class="fc">{E(v.get("caption", ""))}</p></figure>')
@@ -375,14 +375,14 @@ def app_block(ap, lang, key, s, cat, P):
             x = cats[cid]; lv = ', '.join(t['level'][l] for l in x['levels'])
             h += (f'<li><a href="{ap.u(lang, "med", P[lang]["categories"][cid]["slug"])}">{ap.VIG_CAT(cid, lang).replace("../../", "../" * depth(key))}'
                   f'<span><b>{E(x["name"][lang])}</b><em>{x["count"]} {E(lb["seances"] if x["count"] > 1 else lb["seance"])} · '
-                  f'{E(lb["range"].format(a=x["min"], b=x["max"]))} · {E(lv)}</em></span></a></li>')
+                  f'{E(lb["range"].format(a=ap.plage(x, lang)[0], b=ap.plage(x, lang)[1]))} · {E(lv)}</em></span></a></li>')
         h += '</ul>'
     meds = {m['id']: (cid, m) for cid, x in cats.items() for m in x['meds']}
     sel = [meds[i] for i in c['seances'] if i in meds]
     if sel:
         h += f'<h3>{E(lb["app_seances"])}</h3><ol class="pl-med">' + ''.join(
             f'<li><a href="{ap.u(lang, "med", P[lang]["categories"][cid]["slug"])}"><b>{E(m["title"][lang])}</b>'
-            f'<em>{m["dur"]} {E(lb["min"])} · {E(t["level"].get(m["level"], m["level"]))} · {E(cats[cid]["name"][lang])}</em>'
+            f'<em>{ap.dmin(m, lang)} {E(lb["min"])} · {E(t["level"].get(m["level"], m["level"]))} · {E(cats[cid]["name"][lang])}</em>'
             f'<span>{E(m["desc"][lang])}</span></a></li>' for cid, m in sel) + '</ol>'
     if a.get('features'):
         h += f'<h3>{E(lb["app_feat"])}</h3><ul class="pl-feat">' + ''.join(f'<li><b>{E(n)}</b><p>{rich(d)}</p></li>' for n, d in a['features']) + '</ul>'
@@ -451,7 +451,7 @@ def facts(ap, lang, key, cat):
     else:
         allm = {m['id']: m for x in cat['categories'].values() for m in x['meds']}
         ms = [m for x in CORE[key] for m in (cat['categories'][x]['meds'] if x in cat['categories'] else [allm[x]] if x in allm else [])]
-        out = [f'{len(ms)} {lb["seances"]}', lb['range'].format(a=min(m['dur'] for m in ms), b=max(m['dur'] for m in ms))]
+        out = [f'{len(ms)} {lb["seances"]}', lb['range'].format(a=min(ap.dmin(m, lang) for m in ms), b=max(ap.dmin(m, lang) for m in ms))]
     return ''.join(f'<li>{E(x)}</li>' for x in out + [lb['free'], lb['offline']])
 
 
@@ -494,7 +494,7 @@ def render(ap, bb, lang, key, D, cat, P):
     # 27-11 : extrait à écouter d'une séance du thème, juste après la définition
     _meds = {m['id']: m for x in cat['categories'].values() for m in x['meds']}
     xid = ap.extrait_de(lang, [EXTRAIT_PILIER[key]] if key in EXTRAIT_PILIER else list(c.get('seances', [])))
-    ext_html, ext_ld = ap.extrait_audio(bb, lang, xid, _meds[xid]['dur'] if xid in _meds else None, _meds[xid]['title'][lang] if xid in _meds else None) if xid else ('', None)
+    ext_html, ext_ld = ap.extrait_audio(bb, lang, xid, ap.dmin(_meds[xid], lang) if xid in _meds else None, _meds[xid]['title'][lang] if xid in _meds else None) if xid else ('', None)
     body = (f'<div class="pl" style="--acc-rgb:{c["acc"]}">' + ap.crumbs(lang, bc)
             + f'<div class="pl-hero"><div class="pl-ht"><p class="pl-eye"><span aria-hidden="true">✦</span>{E(s.get("eyebrow", ""))}</p>'
             f'<h1>{E(s["h1"])}</h1><p class="pl-lead">{rich(s.get("lead", ""))}</p><ul class="pl-facts">{facts(ap, lang, key, cat)}</ul>'

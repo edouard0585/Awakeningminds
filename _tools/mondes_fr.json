@@ -1,14 +1,16 @@
 {
  "antiqueTemple": {
   "h2": {
-   "deroule": "Méditation temple bouddhiste : comment se déroule la séance ?"
+   "deroule": "Méditation temple bouddhiste : comment se déroule la séance ?",
+   "qui": "Méditation et bruit de la pluie : pour qui, et à quel moment ?"
   },
   "pour_qui": "Le Temple Ancien est un abri pour les soirs où tu portes trop de choses. Si les lieux sacrés et la lueur des bougies t’apaisent, ce monde est pour toi. Pendant la méditation, bruit de la pluie et son de cloche t’invitent à ralentir. Choisis-le quand tu cherches à te sentir en sécurité, ancré, comme hors du temps.",
   "deroule": "Tout commence sur des marches de pierre, sous la pluie, dans la brume de la montagne. Une renarde blanche aux neuf queues te guide jusqu’à une porte immense, qui s’ouvre sous ta paume. À l’intérieur, des centaines de bougies brillent devant de grands bouddhas de pierre, et une cloche sonne un seul coup. Un vieux gardien au masque de bois te remet une petite bougie. Tu lui confies un poids, puis tu la laisses monter rejoindre des milliers d’autres. Une petite porte rouge s’ouvre ensuite sur ton paysage intérieur. À la fin, l’aube dore le temple et les bougies pâlissent.",
   "conseils": [
-   "Assieds-toi sur un coussin, au sol si tu peux, comme les moines du temple.",
+   "Assieds-toi sur un coussin, au sol si tu peux, comme un moine bouddhiste en méditation.",
    "Choisis avant de commencer le poids que tu confieras à la bougie.",
-   "Pour prolonger, lance l’Ambiance minutée avec Résonance et son bol chantant."
+   "Pour prolonger, lance l’Ambiance minutée avec Résonance et son bol chantant.",
+   "Pour aller plus loin dans la tradition, les séances de méditation bouddhiste de l’application te font rencontrer Tārā, Mañjuśrī ou Maitreya."
   ],
   "faq": [
    [
@@ -17,24 +19,34 @@
    ],
    [
     "Qui t’accompagne jusqu’au temple ?",
-    "Une renarde blanche aux neuf queues te montre le chemin. Dans le temple, un vieux gardien au masque de bois prend le relais."
+    "Une renarde blanche aux neuf queues te montre le chemin. Dans le temple, un vieux gardien au masque de bois prend le relais. Dans les légendes du Japon, ce renard à neuf queues est un kitsune : un esprit rusé, souvent messager de la divinité Inari."
    ],
    [
     "Faut-il être bouddhiste pour suivre ce monde ?",
     "Non. Les statues forment un décor paisible. Si tu t’inclines devant l’une d’elles, c’est seulement pour dire « je suis là ». Devant un grand Bouddha, relaxation et silence te suffisent."
+   ],
+   [
+    "Est-ce une méditation à la bougie ?",
+    "Pas au sens habituel. La méditation à la bougie consiste à fixer une vraie flamme, les yeux ouverts. Ici, les bougies sont dans l’image : des centaines brillent devant les bouddhas, et tu en laisses monter une avec ce qui te pèse."
+   ],
+   [
+    "Peut-on dormir avec le bruit de la pluie de ce monde ?",
+    "Tu peux l’écouter au lit, mais la séance se termine à l’aube, quand la pluie cesse et qu’un oiseau chante. Pour dormir avec le bruit de la pluie, lance plutôt Après l’averse dans l’Ambiance minutée : une pluie sur la forêt, qui s’éteint toute seule."
    ]
   ]
  },
  "cosmicTemple": {
   "h2": {
-   "deroule": "Méditation baleine : comment se déroule le voyage ?"
+   "deroule": "Méditation baleine : comment se déroule le voyage ?",
+   "qui": "Expansion de conscience : pour qui, et à quel moment ?"
   },
-  "pour_qui": "Le Temple Cosmique s’adresse aux esprits qui aiment l’immensité et les grandes questions. Dans cette méditation, expansion de conscience et sérénité vont de pair. Les amoureux des étoiles y croiseront aussi une baleine céleste. Quand la journée t’a semblé étroite, il t’ouvre un espace sans limite. Comme il est court, tu peux l’écouter en fin d’après-midi comme le soir, pour goûter un calme vaste.",
+  "pour_qui": "Le Temple Cosmique s’adresse aux esprits qui aiment l’immensité et les grandes questions. Dans cette méditation, expansion de conscience et sérénité vont de pair. Les amoureux des étoiles y croiseront aussi une baleine céleste. Quand la journée t’a semblé étroite, il t’ouvre un espace sans limite. Comme il est court, tu peux l’écouter en fin d’après-midi comme le soir, pour goûter un calme vaste. Un voyage intérieur vers les étoiles, sans effort.",
   "deroule": "Tu t’élèves d’abord sans poids, dans une obscurité violette et chaude. Une baleine céleste, grande comme une colline, te prend sur son dos et fait le tour d’un temple de marbre blanc. Elle t’offre une sphère de cristal où tourne une galaxie miniature. Dans le temple, tu marches sur un sol transparent, au-dessus des étoiles. Une horloge des âges te montre la naissance d’un peuple de lumière, sur une planète lointaine. Au centre, tu t’assieds dans un grand cercle, et une étoile naît sous tes pieds. Puis le temple s’efface en un point de lumière dorée.",
   "conseils": [
    "Allonge-toi si tu peux : la séance commence par une sensation de flotter.",
    "Prépare une question avant d’entrer : tu pourras la confier aux étoiles.",
-   "Après la séance, garde un instant l’image de ta petite galaxie avant de te lever."
+   "Après la séance, garde un instant l’image de ta petite galaxie avant de te lever.",
+   "Pour aller plus loin, la catégorie Cosmique & Vide propose deux longues séances d’éveil spirituel, dont « Expansion du corps de lumière »."
   ],
   "faq": [
    [
@@ -48,16 +60,33 @@
    [
     "Que se passe-t-il au centre du temple ?",
     "Tu t’assieds dans un grand cercle de lumière, et une étoile naît sous tes pieds. Si une question te vient, tu la laisses monter parmi les étoiles."
+   ],
+   [
+    "Entend-on le chant des baleines ?",
+    "Oui. Le chant d’une baleine céleste revient au fil de la méditation, mêlé à la note grave du cosmos. C’est lui qui donne à cette relaxation sa lenteur."
+   ],
+   [
+    "Que symbolise la baleine, animal totem ?",
+    "La profondeur et le lien, le plus souvent : son chant porte très loin sous l’eau, et elle traverse les océans. Ici, elle est céleste : grande comme une colline, elle te porte sur son dos jusqu’au temple."
+   ],
+   [
+    "Peut-on poser une question à l’univers pendant la séance ?",
+    "Oui, c’est même prévu. Au centre du temple, assis dans le cercle de lumière, tu laisses monter ta question parmi les étoiles. Aucune réponse n’est promise : parfois une image vient, parfois seulement du calme."
    ]
   ]
  },
  "crystalCave": {
-  "pour_qui": "La Grotte de Cristal est faite pour les moments où tu te sens lourd ou encombré, et où tu rêves de clarté. Les lieux secrets, l’eau calme et la lumière te font rêver ? Garde-la pour un soir ou un jour de repos, quand tu as le temps de te laisser surprendre.",
+  "h2": {
+   "qui": "Méditation et sérénité : pour qui, et à quel moment ?",
+   "deroule": "Comment se déroule la méditation dans la grotte ?"
+  },
+  "pour_qui": "La Grotte de Cristal est faite pour les moments où tu te sens lourd ou encombré, et où tu rêves de clarté. Les lieux secrets, l’eau calme et la lumière te font rêver ? Garde-la pour un soir ou un jour de repos, quand tu as le temps de te laisser surprendre. C’est une méditation de sérénité et de clarté mentale : un voyage intérieur où tu n’as rien à réussir.",
   "deroule": "Un chemin en pente douce t’emmène sous la terre, jusqu’à une fissure que tu franchis en expirant. Derrière s’ouvre une caverne immense, où des cristaux géants s’illuminent de l’intérieur. Un papillon de cristal te guide vers des bassins calmes comme des miroirs, où chante une sirène. Sous ta main, un cristal se met à sonner, et toute la grotte lui répond. Une barque transparente t’emporte ensuite jusqu’à un petit dragon de cristal. Au cœur de la grotte, une ville minuscule chante avec toi, puis le dragon te raccompagne.",
   "conseils": [
    "Expire longuement au passage de la fissure : c’est par ce souffle que tu entres dans la grotte.",
    "Garde les mains libres, posées sur tes cuisses : tu toucheras un cristal en chemin.",
-   "Si la voix t’invite à chanter, fredonne tout bas, même sans mots."
+   "Si la voix t’invite à chanter, fredonne tout bas, même sans mots.",
+   "Pour prolonger la méditation et le chant des cristaux, lance l’Ambiance minutée avec Résonance et son bol chantant."
   ],
   "faq": [
    [
@@ -70,20 +99,31 @@
    ],
    [
     "Pourquoi parle-t-on de nettoyage énergétique dans ce monde ?",
-    "La lumière des cristaux emporte ce qui pèse, comme une brume qui s’envole. C’est une image pour te sentir plus léger, pas une promesse."
+    "La lumière des cristaux emporte ce qui pèse, comme une brume qui s’envole. C’est une image pour te sentir plus léger, pas une promesse. D’autres parlent de purification énergétique : l’idée est la même."
+   ],
+   [
+    "Faut-il des cristaux pour cette méditation ?",
+    "Non. Tout se passe en imagination : tu n’as besoin d’aucune pierre. Si tu aimes méditer avec un cristal de roche, pose-le près de toi, mais garde les mains libres : dans la grotte, tu en toucheras un en pensée."
+   ],
+   [
+    "La Grotte de Cristal existe-t-elle vraiment ?",
+    "Celle-ci est imaginaire. Mais une grotte de cristaux géants existe bien, à Naica, au Mexique : ses plus grands cristaux de gypse dépassent dix mètres de long. Il y fait si chaud qu’on ne la visite pas. Ici, tu y entres les yeux fermés, dans un air frais et pur."
    ]
   ]
  },
  "galaxy": {
   "h2": {
-   "deroule": "Méditation univers : comment se déroule le voyage ?"
+   "deroule": "Méditation univers : comment se déroule le voyage ?",
+   "qui": "Méditation et lâcher-prise : pour qui, et à quel moment ?"
   },
-  "pour_qui": "Ce voyage s’adresse aux rêveurs, et à tous ceux qui gardent l’émerveillement d’un enfant devant le ciel étoilé. Il tombe bien quand tu veux lâcher prise et regarder loin, très loin de ta journée. Le soir, profite-en bien installé, dans un fauteuil ou dans ton lit.",
-  "deroule": "Tu flottes d’abord dans une obscurité bleue, pleine de grains d’argent. Un train de lumière s’arrête près de toi, et tu prends place près d’une grande fenêtre. Une baleine de lumière longe le wagon, puis un guide vient s’asseoir à tes côtés. Le train traverse les anneaux de Saturne et une pluie d’étoiles filantes. Sur un astéroïde, un marchand t’offre une fiole où tourne une planète minuscule. Un anneau de lumière te mène à l’autre bout de la galaxie, où tu laisses partir un poids par la vitre. Puis le train te ramène, la fiole dans la main.",
+  "pour_qui": "Ce voyage s’adresse aux rêveurs, et à tous ceux qui gardent l’émerveillement d’un enfant devant le ciel étoilé. Il tombe bien quand tu veux lâcher prise et regarder loin, très loin de ta journée. C’est une méditation de lâcher-prise au sens propre : tu laisses un poids traverser la vitre et s’éloigner. Le soir, profite-en bien installé, dans un fauteuil ou dans ton lit.",
+  "deroule": "Tu flottes d’abord dans une obscurité bleue, pleine de grains d’argent. Un train de lumière s’arrête près de toi, et tu prends place près d’une grande fenêtre. Une baleine de lumière longe le wagon, puis un guide vient s’asseoir à tes côtés. Le train traverse les anneaux de Saturne et une pluie d’étoiles filantes. Sur un astéroïde, un marchand t’offre une fiole où tourne une planète minuscule. Dans un nuage d’étoiles, tu respires avec l’univers : une méditation de connexion toute simple. Un anneau de lumière te mène à l’autre bout de la galaxie, où tu laisses partir un poids par la vitre. Puis le train te ramène, la fiole dans la main.",
   "conseils": [
    "Pense à un souhait avant de partir : une étoile filante pourra l’emporter.",
    "Garde une main ouverte sur tes genoux pour recevoir la fiole du marchand.",
-   "Écoute-le lumière éteinte, comme on regarde la nuit par la fenêtre d’un train."
+   "Écoute-le lumière éteinte, comme on regarde la nuit par la fenêtre d’un train.",
+   "Tu aimes les trains et les planètes ? Deux autres voyages imaginaires t’attendent dans les mini-aventures : « Le train des souvenirs » et « La planète inconnue ».",
+   "Pour prolonger la méditation, lance Nébuleuse dans l’Ambiance minutée : une nappe très douce, comme une musique de l’univers."
   ],
   "faq": [
    [
@@ -97,19 +137,29 @@
    [
     "Que représente la fiole offerte par le marchand ?",
     "Une planète minuscule y tourne. En y repensant, tu peux retrouver ce calme quand le monde devient trop bruyant."
+   ],
+   [
+    "Peut-on l’écouter comme une histoire pour dormir ?",
+    "Oui. C’est une histoire pour dormir, version adulte : un voyage dans l’espace à bord d’un train, lent et sans suspense. La voix te ramène doucement à la fin, mais rien ne t’empêche de t’endormir avant, bercé par le train."
+   ],
+   [
+    "Peut-on faire un vœu sur une étoile filante ?",
+    "Oui. Pendant la pluie d’étoiles filantes, la voix te propose de confier un souhait à l’une d’elles, sans rien attendre en retour. Dans cette méditation, ce vœu peut devenir ta demande à l’univers, le temps de dire ce que tu espères."
    ]
   ]
  },
  "earthCore": {
   "h2": {
-   "qui": "Méditation ancrage, matin ou soir : pour qui ?"
+   "qui": "Méditation ancrage, matin ou soir : pour qui ?",
+   "deroule": "Comment se déroule cette méditation d’enracinement ?"
   },
-  "pour_qui": "Tu te sens dispersé ou pressé ? Voici une méditation pour se recentrer. Le Cœur de la Terre t’emmène tout en bas, vers ce qui ne bouge pas. Il plaira aux amoureux de la pierre, des grottes et des mondes très anciens. Écoute-le au réveil pour partir stable, ou après une journée chargée.",
+  "pour_qui": "Tu te sens dispersé ou pressé ? Voici une méditation pour se recentrer. Le Cœur de la Terre t’emmène tout en bas, vers ce qui ne bouge pas. C’est un ancrage à la terre au sens propre : ce voyage intérieur te fait descendre jusqu’à son centre. Il plaira aux amoureux de la pierre, des grottes et des mondes très anciens. Écoute-le au réveil pour partir stable, ou après une journée chargée.",
   "deroule": "Tu descends lentement sous la surface, par une ouverture d’où sort un air chaud. Le chemin longe des veines de cristal jusqu’à une caverne aux pierres bleues, vertes et dorées. Ta main se pose sur la paroi, qui s’éclaire au rythme de ton souffle. Des rivières de lumière orange te mènent à un monde caché, éclairé par un soleil intérieur couleur de miel. Au pied d’un arbre immense, tu poses les mains sur un œuf d’ambre, d’où sort un petit dragon. Un peuple lumineux te confie un message, puis une colonne de lumière te remonte à la surface.",
   "conseils": [
    "Assieds-toi les pieds bien à plat, pour sentir le sol pendant toute la descente.",
    "Garde un petit galet dans ta poche : la fin de la séance en parle.",
-   "Quand l’œuf se met à battre, laisse ta respiration ralentir avec lui."
+   "Quand l’œuf se met à battre, laisse ta respiration ralentir avec lui.",
+   "Si tu connais les chakras, porte ton attention sur le chakra racine, à la base de la colonne : c’est celui de l’ancrage."
   ],
   "faq": [
    [
@@ -127,16 +177,25 @@
    [
     "Ancrage ou enracinement, quelle différence ?",
     "Les deux mots disent presque la même chose : te sentir porté par le sol, stable et présent. Dans cette méditation, enracinement et descente vont ensemble : plus tu descends, plus tu te poses."
+   ],
+   [
+    "Quelle différence avec la technique d’ancrage 5-4-3-2-1 ?",
+    "La technique 5-4-3-2-1 est l’un des exercices d’ancrage les plus connus. Tu nommes cinq choses que tu vois, quatre que tu touches, trois que tu entends, deux que tu sens et une que tu goûtes. Elle se fait les yeux ouverts, en une minute ou deux. Ce monde est une méditation guidée d’ancrage plus longue : tu fermes les yeux et tu descends en images."
    ]
   ]
  },
  "antarcticBase": {
-  "pour_qui": "Le Sanctuaire Gelé attire ceux qui aiment le silence, le mystère et les grands espaces blancs. Il est précieux les jours où ta tête est pleine et où tu rêves d’un endroit immobile. Écoute-le seul, sans bruit autour, pour retrouver un silence intérieur, dans une immobilité très ancienne.",
+  "h2": {
+   "qui": "Besoin de silence : pour qui, et à quel moment ?",
+   "deroule": "Comment se déroule cette méditation sous la glace ?"
+  },
+  "pour_qui": "Le Sanctuaire Gelé attire ceux qui aiment le silence, le mystère et les grands espaces blancs. Il est précieux les jours où ta tête est pleine et où tu rêves d’un endroit immobile. Écoute-le seul, sans bruit autour, pour retrouver un silence intérieur, dans une immobilité très ancienne. C’est une méditation d’hiver, toute de neige et de glace : un voyage intérieur vers le calme.",
   "deroule": "Tu descends à travers des couches de glace, chacune faite de la neige d’un seul hiver. Sur le seuil, un renard polaire lumineux te guide dans un tunnel d’un bleu profond. Des symboles bleus flottent dans l’air : il suffit de les regarder. Dans une vaste chambre, un jardin de givre s’ouvre en tintant devant un grand cœur de cristal. Tu t’assieds et tu respires avec sa lumière. Un livre gelé te montre une cité blanche, d’avant la glace. Puis une aurore te mène à l’air libre, sur la neige de l’Antarctique.",
   "conseils": [
    "Garde une couverture à portée de main : le voyage se passe dans le froid.",
    "Coupe les notifications avant de commencer : ce monde repose sur le silence.",
-   "Si une pensée arrive, laisse-la résonner puis s’effacer, comme la note de cristal."
+   "Si une pensée arrive, laisse-la résonner puis s’effacer, comme la note de cristal.",
+   "Tu aimes la glace et les aurores ? Parmi les lieux sacrés de l’application, deux séances t’attendent : « La grotte de glace bleue » et « Les aurores boréales et le cercle de cristaux »."
   ],
   "faq": [
    [
@@ -150,14 +209,23 @@
    [
     "Quelle est la durée du Sanctuaire Gelé ?",
     "16 minutes. La fin se passe à l’air libre, sous une aurore verte et rose."
+   ],
+   [
+    "Que symbolise le renard, animal totem ?",
+    "Sa signification la plus courante : la ruse, bien sûr, mais aussi la discrétion et l’art de trouver son chemin. Le renard polaire change de pelage avec les saisons : on en fait souvent un symbole d’adaptation. Dans ce monde, libre à toi de voir en lui ce qui te parle."
+   ],
+   [
+    "Est-ce une méditation silencieuse ?",
+    "Pas tout à fait : une voix te guide du début à la fin. Mais le silence est le sujet même du voyage, et les sons restent très discrets : un vent lointain, quelques carillons de cristal. Pour apprivoiser de vrais silences, la catégorie Apprentissage propose une « Première méditation silencieuse »."
    ]
   ]
  },
  "skyIsland": {
   "h2": {
-   "qui": "Méditation paix intérieure : pour qui, et à quel moment ?"
+   "qui": "Méditation paix intérieure : pour qui, et à quel moment ?",
+   "deroule": "Comment se déroule cette méditation du lieu sûr ?"
   },
-  "pour_qui": "L’Île Flottante est ton refuge personnel, haut au-dessus des nuages. Les grands oiseaux, les cascades et les arbres anciens y règnent. Un lieu sûr, rien qu’à toi, où tu te sens libre et loin du bruit. Comme le voyage suit la fin du jour, écoute-la plutôt au coucher du soleil ou en début de soirée.",
+  "pour_qui": "L’Île Flottante est ton refuge personnel, haut au-dessus des nuages. Les grands oiseaux, les cascades et les arbres anciens y règnent. Un lieu sûr, rien qu’à toi, où tu te sens libre et loin du bruit. Comme ce voyage intérieur suit la fin du jour, écoute-la plutôt au coucher du soleil ou en début de soirée. C’est une méditation du soir guidée jusqu’aux premières étoiles.",
   "deroule": "Un pont de nuages se déroule jusqu’à ton île, verte dessus et dorée sur les bords. Tu marches dans l’herbe chaude, puis tu t’assieds au bord d’une cascade, les pieds dans le ciel. Un grand oiseau blanc et doré te porte jusqu’à l’arbre ancien du centre. Là, ton dos repose contre le tronc, et un cerf blanc ailé te confie une graine. Au coucher du soleil, une baleine blanche passe sous l’île. Le soir venu, les lanternes s’allument, et tu souffles la graine vers le ciel ou l’océan : une toute petite île commence à naître.",
   "conseils": [
    "Écoute-la près d’une fenêtre ouverte, si l’air du soir est doux.",
@@ -167,7 +235,7 @@
   "faq": [
    [
     "Pourquoi dit-on que cette île est à toi ?",
-    "La séance la présente comme ton sanctuaire personnel : un lieu sûr où tu peux être simplement toi."
+    "La séance la présente comme ton sanctuaire personnel : un lieu sûr où tu peux être simplement toi. C’est le principe d’une visualisation guidée du lieu sûr : un endroit imaginaire, toujours le même, où tu te sens bien."
    ],
    [
     "À quoi sert la graine du cerf blanc ?",
@@ -180,24 +248,34 @@
    [
     "Animal totem : cerf, oiseau ou baleine, lequel t’accompagne ?",
     "Les trois veillent sur l’île. Le grand oiseau te porte, et le cerf blanc ailé te confie une graine. La baleine, elle, passe sous l’île au coucher du soleil. Choisis celui qui te parle, sans te forcer."
+   ],
+   [
+    "Que symbolise le cerf, animal totem ?",
+    "Le renouveau, le plus souvent : ses bois tombent et repoussent chaque année. On lui prête aussi la douceur et la vigilance. Ici, sa graine fait justement naître une nouvelle île. Libre à toi d’en faire ton animal totem."
+   ],
+   [
+    "Comment retrouver la paix intérieure avec cette méditation ?",
+    "En y revenant souvent : c’est une méditation de sécurité intérieure, pas une promesse de calme. L’île est toujours la même : le pont de nuages, la cascade, le grand arbre. À force, tu la retrouves plus vite, comme un endroit à toi où rien ne presse."
    ]
   ]
  },
  "zenGarden": {
   "h2": {
-   "deroule": "Comment se déroule cette méditation zen ?"
+   "deroule": "Comment se déroule cette méditation zen ?",
+   "qui": "Méditation au jardin japonais : pour qui, et à quel moment ?"
   },
-  "pour_qui": "Le Jardin Zen est là pour les jours où tout va trop vite et où tu cherches l’équilibre. Si tu aimes les jardins japonais, le thé et les gestes lents, tu t’y sentiras chez toi. Écoute-le en fin de journée ou un matin tranquille, pour un calme simple et élégant.",
+  "pour_qui": "Le Jardin Zen est là pour les jours où tout va trop vite et où tu cherches l’équilibre. Si tu aimes les jardins japonais, le thé et les gestes lents, tu t’y sentiras chez toi. Écoute-le en fin de journée ou un matin tranquille, pour un calme simple et élégant. Un voyage intérieur à petits pas, sans rien à apprendre.",
   "deroule": "Tu entres dans un jardin japonais juste après une pluie douce, au son lointain d’une cloche. Un cerisier s’ouvre d’un seul coup au-dessus du chemin, et une pluie de pétales roses t’entoure. Sur un petit pont de bois, tu nourris les carpes, et la carpe d’or vient frôler tes doigts. Une fontaine de bambou bat la mesure. Près du sable ratissé, un vieux jardinier te sert un thé : dans la vapeur passent un dragon et un phénix. Le soir, les lanternes de pierre s’allument, et le bois de bambous se met à chanter parmi les lucioles.",
   "conseils": [
    "Prépare un thé chaud avant de commencer : tu le boiras avec le jardinier.",
    "Quand la fontaine de bambou sonne, ne compte pas : attends simplement le coup suivant.",
-   "Prolonge la promenade : lance Flûte chinoise dans l’Ambiance minutée."
+   "Prolonge la promenade : lance Flûte chinoise dans l’Ambiance minutée. C’est une musique zen pour dormir, ou simplement pour rêver.",
+   "Pour aller plus loin dans la tradition, va voir les séances de méditation bouddhiste de l’application."
   ],
   "faq": [
    [
     "Faut-il connaître le zen pour suivre ce monde ?",
-    "Non. Cette méditation zen guidée se vit comme une promenade : tu marches, tu regardes, tu respires. Aucune connaissance n’est demandée."
+    "Non. Cette méditation zen guidée se vit comme une promenade : tu marches, tu regardes, tu respires. Aucune connaissance n’est demandée : débutant ou habitué, tu suis simplement la voix."
    ],
    [
     "Que fait-on avec le vieux jardinier ?",
@@ -206,16 +284,32 @@
    [
     "La promenade dure combien de temps ?",
     "18 minutes, de l’entrée après la pluie jusqu’au retour à la lueur des lanternes."
+   ],
+   [
+    "Qu’est-ce qu’un jardin zen japonais ?",
+    "Un jardin sec, appelé karesansui : du gravier ratissé, quelques rochers, de la mousse. Les moines zen le contemplent assis, sans y marcher. Celui de ce monde est plus vaste, avec son bassin, ses carpes et son bois de bambous."
+   ],
+   [
+    "Est-ce du zazen ?",
+    "Non. Le zazen est la méditation assise du bouddhisme zen : le dos droit, les yeux mi-clos, sans rien imaginer. Ici, tu te promènes en images dans un jardin."
+   ],
+   [
+    "Peut-on écouter cette méditation zen pour dormir ?",
+    "Oui, en fin de journée : la promenade s’achève à la lueur des lanternes. Pour t’endormir vraiment, préfère « Glissement vers le sommeil », dans Corps, calme & sommeil : cette séance se termine sans réveil."
    ]
   ]
  },
  "atlantis": {
-  "pour_qui": "L’Atlantide s’adresse aux amoureux de la mer, à ceux qui aiment se laisser porter. Tu y croiseras une cité perdue, Atlantide la légendaire, avec ses méduses et son hippocampe géant. Elle accompagne bien les jours où une émotion cherche à passer, sans que tu aies à la nommer. Le soir, elle offre de la profondeur et une grande sérénité.",
+  "h2": {
+   "qui": "Méditation mer : pour qui, et à quel moment ?",
+   "deroule": "Comment se déroule cette méditation en Atlantide ?"
+  },
+  "pour_qui": "L’Atlantide s’adresse aux amoureux de la mer et de l’océan, à ceux qui aiment se laisser porter. Tu y croiseras une cité perdue, Atlantide la légendaire, avec ses méduses et son hippocampe géant. Elle accompagne bien les jours où une émotion cherche à passer, sans que tu aies à la nommer. Le soir, elle offre de la profondeur et une grande sérénité : un voyage intérieur au fil de l’eau.",
   "deroule": "Tu flottes d’abord sur une mer chaude, puis tu descends doucement et découvres que tu respires sous l’eau. Les tours d’un château de nacre apparaissent, au cœur d’une cité ancienne. Un hippocampe géant et doré te prend sur son dos, entre les temples et les méduses. Deux habitants t’accueillent dans leur maison ronde et t’offrent une bulle dorée à boire. Dans leur jardin de corail, une perle tiède te montre un souvenir doux. Sur une terrasse de corail, une baleine chante au loin. À la fin, toute la cité s’illumine, et le courant te ramène vers la surface.",
   "conseils": [
    "Allonge-toi : l’eau te porte pendant tout le voyage.",
    "Laisse ton souffle suivre les méduses, qui s’ouvrent et se referment lentement.",
-   "Pour prolonger la méditation, bruit de la mer compris, lance l’Ambiance minutée avec le son Vagues."
+   "Pour prolonger la méditation, lance l’Ambiance minutée avec le son Vagues : un bruit de la mer pour dormir, qui s’éteint tout seul."
   ],
   "faq": [
    [
@@ -229,19 +323,29 @@
    [
     "Combien de temps reste-t-on sous la mer ?",
     "La séance dure 18 minutes. Avant la remontée, tu regardes toute la cité s’illuminer depuis le sommet du château."
+   ],
+   [
+    "L’Atlantide, c’est quoi ?",
+    "Une île de légende, racontée par le philosophe grec Platon il y a environ 2 400 ans : une cité puissante, engloutie par la mer en un jour et une nuit. C’est un mythe. Ici, elle sert de décor : une cité de nacre paisible, à visiter les yeux fermés."
+   ],
+   [
+    "L’Atlantide a-t-elle vraiment existé ?",
+    "Rien ne le prouve. Platon la plaçait au-delà des colonnes d’Hercule, dans l’océan Atlantique, et beaucoup l’ont cherchée depuis, de Santorin au Sahara. Aucune trace n’a été trouvée. Ce monde ne cherche pas où se trouve l’Atlantide : il te la fait rêver, le temps d’une méditation."
    ]
   ]
  },
  "himalayanMonastery": {
   "h2": {
-   "qui": "Méditation montagne : pour qui, et à quel moment ?"
+   "qui": "Méditation montagne : pour qui, et à quel moment ?",
+   "deroule": "Comment se déroule cette méditation guidée du matin ?"
   },
-  "pour_qui": "Le Monastère à l’Aube est une méditation guidée du matin. Il accompagne tous les moments où tu veux commencer quelque chose avec clarté. La montagne, le silence et la méditation tibétaine te parlent ? Tu y vivras le lever du jour comme un départ paisible, guidé par un vieux moine.",
+  "pour_qui": "Le Monastère à l’Aube est une méditation guidée du matin. Il accompagne tous les moments où tu veux commencer quelque chose avec clarté. La montagne, le silence et la méditation tibétaine te parlent ? Tu y vivras le lever du jour comme un départ paisible, guidé par un vieux moine : un voyage intérieur pour bien commencer la journée.",
   "deroule": "Tout commence avant l’aube, devant le portail d’un monastère de montagne. Un vieux moine en robe rouge sombre t’accueille, une lampe à beurre à la main. Il te mène dans un jardin couvert de givre, où tu fais tourner des moulins à prières. Dans la cour, tu confies une pensée tendre au cheval de vent d’un drapeau de prière. Sur un balcon de bois, un bol de thé entre les mains, tu écoutes l’histoire du monastère. Puis le soleil se lève sur les sommets enneigés, et sa lumière descend jusqu’à toi. La vallée s’éveille, et tu repars avec cette clarté.",
   "conseils": [
    "Écoute-le le matin, assis, le dos bien droit, comme au début de la séance.",
    "Avant d’entrer dans la cour des drapeaux, pense à quelqu’un que tu aimes.",
-   "Le chant de gorge Khöömei, dans l’Ambiance minutée, prolonge l’air de la montagne."
+   "Le chant de gorge Khöömei, dans l’Ambiance minutée, prolonge l’air de la montagne.",
+   "Pour en faire une habitude, l’article sur la méditation du matin propose un rituel de dix minutes."
   ],
   "faq": [
    [
@@ -259,6 +363,14 @@
    [
     "Que veut dire om mani padme hum ?",
     "Définition : om mani padme hum est le mantra tibétain de la compassion. On le traduit souvent par « le joyau dans le lotus ». Dans les monastères, il est gravé sur les moulins à prières. Ici, tu en fais tourner toute une rangée, dans un jardin couvert de givre."
+   ],
+   [
+    "À quoi sert un moulin à prières ?",
+    "C’est un cylindre gravé ou rempli de mantras, que l’on fait tourner dans le sens des aiguilles d’une montre. Dans le bouddhisme tibétain, chaque tour vaut une récitation. Dans ce monde, les clochettes des moulins tintent dans le givre."
+   ],
+   [
+    "Est-ce la « méditation de la montagne » ?",
+    "Non. Dans cet exercice bien connu, tu t’imagines devenir une montagne, stable sous les saisons. Ici, tu entres dans un monastère de montagne et tu regardes le soleil se lever. Les deux partagent pourtant la même idée : rester posé pendant que tout change."
    ]
   ]
  },
@@ -266,12 +378,13 @@
   "h2": {
    "deroule": "Comment se déroule la visite de la bibliothèque akashique ?"
   },
-  "pour_qui": "La Bibliothèque Céleste convient aux esprits curieux, qui aiment réfléchir sans effort. Les amoureux des livres s’y sentiront chez eux. Elle accompagne bien une question personnelle, ou un moment où tu veux voir un peu plus loin. Assez courte, elle se glisse facilement dans une soirée calme, au fond d’un fauteuil.",
+  "pour_qui": "La Bibliothèque Céleste convient aux esprits curieux, qui aiment réfléchir sans effort. Les amoureux des livres s’y sentiront chez eux, comme dans une bibliothèque d’Alexandrie qui n’aurait jamais brûlé. Elle accompagne bien une question personnelle, ou un moment où tu veux voir un peu plus loin. Assez courte, elle se glisse facilement dans une soirée calme, au fond d’un fauteuil.",
   "deroule": "Une grande porte de vieux bois s’ouvre sur une bibliothèque sans fin, éclairée de bougies flottantes. L’air sent le vieux papier, et une horloge ancienne fait tic-tac. Des livres lumineux volent vers leurs lecteurs, sous un plafond d’étoiles. Une bougie te guide en haut d’un escalier en spirale, jusqu’aux livres des mondes disparus. Un livre d’argent t’ouvre un monde à deux lunes. Dans un vieux fauteuil, une salamandre de feu se blottit contre ton bras, et un livre sans mots te montre un avenir possible. En partant, tu reçois une petite clé d’or.",
   "conseils": [
    "Avant de commencer, choisis un sujet de ta vie qui te tient à cœur aujourd’hui.",
    "Si aucune image ne vient, garde simplement la sensation du livre tiède dans tes mains.",
-   "Laisse ta respiration suivre celle de la salamandre, lente et chaude."
+   "Laisse ta respiration suivre celle de la salamandre, lente et chaude.",
+   "Pour aller plus loin, écoute « Le gardien des archives », la méditation des annales akashiques de la catégorie Savoirs Supérieurs & Au-delà."
   ],
   "faq": [
    [
@@ -285,16 +398,29 @@
    [
     "Est-ce une séance courte ?",
     "Oui, elle dure 14 minutes, de la grande porte jusqu’à la clé d’or."
+   ],
+   [
+    "Une bibliothèque akashique, c’est quoi ?",
+    "Une image : celle d’une bibliothèque immense où serait gardée la mémoire de tout ce qui a été vécu. On parle aussi d’annales, d’archives ou de mémoire akashique. Le mot vient du sanskrit akasha, l’espace. Rien ne prouve qu’elle existe. Ici, c’est un décor pour réfléchir et rêver."
+   ],
+   [
+    "Est-ce une lecture akashique ?",
+    "Non. Une lecture akashique est une consultation donnée par un praticien, qui dit lire ces annales pour toi. Ici, personne ne lit à ta place : tu visites une bibliothèque imaginaire, et tu accueilles l’image qui vient. Aucune réponse n’est promise."
    ]
   ]
  },
  "desertOasis": {
-  "pour_qui": "L’Oasis du Désert est pour les soirs où tu veux être seul avec toi-même, sans personne à qui répondre. Dans cette méditation, solitude rime avec douceur. Elle accueille les émotions sans t’obliger à les nommer. C’est un monde d’immobilité et de réflexion, à écouter après le coucher du soleil, quand la maison devient calme.",
+  "h2": {
+   "qui": "Méditation et solitude : pour qui, et à quel moment ?",
+   "deroule": "Comment se déroule cette méditation dans le désert ?"
+  },
+  "pour_qui": "L’Oasis du Désert est pour les soirs où tu veux être seul avec toi-même, sans personne à qui répondre. Dans cette méditation, solitude rime avec douceur. Elle accueille les émotions sans t’obliger à les nommer. C’est un monde d’immobilité et de réflexion, à écouter après le coucher du soleil, quand la maison devient calme. Une courte méditation du soir, et un vrai voyage intérieur.",
   "deroule": "Tu marches sur les dunes au coucher du soleil, vers une oasis encore cachée. Un esprit fait de sable doré appelle un chameau blanc, qui te porte sous les premières étoiles. Dans l’oasis, un marché de nuit brille de mille flammes, et un vieux marchand te sert un thé à la menthe. Il t’offre une petite lampe d’où sortent des papillons lumineux. Ils te mènent à un bassin qui reflète les étoiles, puis à un jardin caché sous l’eau. Près d’un petit feu, sous une lune énorme, tu confies une phrase vraie à la nuit.",
   "conseils": [
    "Laisse ton souffle prendre le balancement lent du chameau.",
    "Au bord du bassin, imagine vraiment la fraîcheur de l’eau sur tes pieds.",
-   "Éteins la lumière : presque tout le voyage se passe sous les étoiles."
+   "Éteins la lumière : c’est une méditation de nuit, et presque tout le voyage se passe sous les étoiles.",
+   "Si une émotion monte près du feu, laisse-la venir sans la nommer : c’est déjà un pas vers la gestion des émotions."
   ],
   "faq": [
    [
@@ -308,19 +434,29 @@
    [
     "Peut-on l’écouter quand on a peu de temps ?",
     "Oui, elle dure 13 minutes, autant que le Temple Cosmique. Aucun autre monde n’est plus court."
+   ],
+   [
+    "Peut-on l’écouter un soir de pleine lune ?",
+    "Oui, c’est même un beau moment pour l’écouter : dans ce monde, une lune énorme veille sur l’oasis. Éteins les lampes, et écoute. Une méditation de la pleine lune toute simple, sans rituel à préparer."
+   ],
+   [
+    "Est-ce une méditation guidée avec une histoire ?",
+    "Oui. Elle se suit comme un conte des Mille et Une Nuits : un chameau blanc, un marché de nuit, une lampe pleine de papillons. La voix raconte lentement, et tu n’as qu’à regarder."
    ]
   ]
  },
  "treeOfConsciousness": {
   "h2": {
-   "deroule": "Comment se déroule la méditation de l’arbre ?"
+   "deroule": "Comment se déroule la méditation de l’arbre ?",
+   "qui": "Méditation avec les arbres : pour qui, et à quel moment ?"
   },
-  "pour_qui": "L’Arbre de Conscience accompagne les moments de solitude, quand tu te sens coupé du reste et que tu cherches un lien. Les forêts, les animaux et les très grands arbres te touchent ? Cette méditation avec les arbres est pour toi. Avec ses feuilles, son eau et ses oiseaux, c’est aussi une vraie méditation nature. Écoute-la le soir, pour finir la journée relié à tout ce qui vit.",
+  "pour_qui": "L’Arbre de Conscience accompagne les moments de solitude, quand tu te sens coupé du reste et que tu cherches un lien. Les forêts, les animaux et les très grands arbres te touchent ? Cette méditation avec les arbres est pour toi. Avec ses feuilles, son eau et ses oiseaux, c’est aussi une vraie méditation nature. Écoute-la le soir, pour finir la journée relié à tout ce qui vit. Un voyage intérieur très doux, sans rien à réussir.",
   "deroule": "Tu traverses une forêt lumineuse, la nuit, jusqu’à une grande clairière. Au centre se dresse un arbre colossal, dont la cime touche les étoiles. Sous ta main, l’écorce bat lentement, comme un souffle. Le gardien de l’arbre, fait de bois et de mousse, te prend la main. La terre devient alors transparente, et tu sens battre toutes les vies qu’elle relie. Tu montes avec lui par un escalier de racines jusqu’aux branches. Un papillon détache une feuille, où tu découvres un petit monde plein de bonté. À la fin, tu te reposes contre le tronc chaud.",
   "conseils": [
    "Assieds-toi le dos contre un mur ou un coussin, comme contre le grand tronc.",
    "À la fin, garde une main posée sur le cœur, là où tu tiens la feuille.",
-   "Choisis un moment sans hâte : la fin laisse plusieurs respirations en silence."
+   "Choisis un moment sans hâte : la fin laisse plusieurs respirations en silence.",
+   "Pour prolonger, la séance « Sous l’arbre de la Bodhi », parmi les lieux sacrés de l’application, t’assoit au pied d’un autre grand arbre."
   ],
   "faq": [
    [
@@ -337,21 +473,34 @@
    ],
    [
     "Quel arbre rencontre-t-on dans cette méditation ?",
-    "Arbre de vie, arbre du monde : beaucoup de traditions en parlent. Celui de ce monde n’appartient à aucune d’elles. Il est relié à toute la vie, et sa cime touche les étoiles."
+    "Arbre de vie, arbre du monde, arbre cosmique : beaucoup de traditions en parlent. Celui de ce monde n’appartient à aucune d’elles. Il est relié à toute la vie, et sa cime touche les étoiles."
    ],
    [
     "Quel lien avec l’arbre de la Bodhi ?",
     "Aucun lien direct : c’est un arbre imaginaire, cousin de celui sous lequel le Bouddha s’est éveillé. La catégorie Lieux Sacrés propose aussi une séance sous l’arbre du Bouddha."
+   ],
+   [
+    "Quel est le symbole de l’arbre dans cette méditation ?",
+    "Le lien. Ses racines tiennent la terre, sa cime touche les étoiles, et sa sève passe de l’une aux autres. Sous ta main, l’écorce bat très lentement : tout ce qui vit est relié. Tu n’as rien à croire : c’est une image, à regarder comme on regarde un grand arbre."
+   ],
+   [
+    "Cette méditation de l’arbre sert-elle à l’ancrage ?",
+    "Oui, en partie. La main sur l’écorce, l’escalier de racines, le dos contre le tronc : le corps se pose peu à peu. Mais son intention première est le lien avec tout ce qui vit. Pour un ancrage plus direct, écoute Le Cœur de la Terre, qui te fait descendre sous tes pieds."
    ]
   ]
  },
  "jungleRuins": {
-  "pour_qui": "Les Ruines Oubliées conviennent aux explorateurs dans l’âme, à ceux qu’un mystère rend curieux. Si tu aimes les vieilles pierres et l’eau vive, tu y seras bien. Au fil de la méditation, cascades et escaliers de mousse se dévoilent un à un. On y ralentit sans s’ennuyer, car chaque passage cache une découverte. Écoute ce monde un après-midi tranquille ou un soir de pluie, pour une aventure calme.",
+  "h2": {
+   "deroule": "Comment se déroule cette méditation dans la jungle ?"
+  },
+  "pour_qui": "Les Ruines Oubliées conviennent aux explorateurs dans l’âme, à ceux qu’un mystère rend curieux. Si tu aimes les vieilles pierres et l’eau vive, tu y seras bien. Au fil de la méditation, cascades et escaliers de mousse se dévoilent un à un. On y ralentit sans s’ennuyer, car chaque passage cache une découverte. Écoute ce monde un après-midi tranquille ou un soir de pluie, pour une aventure calme. Entre méditation et relaxation, la jungle te berce de ses bruits d’eau et d’insectes : un voyage intérieur en forme d’exploration.",
   "deroule": "Tu arrives au bord d’une jungle chaude, devant un temple couvert de lianes. La brume s’écarte sur toute une cité endormie sous la forêt. Tu poses au pied d’un mur ce que tu portes, puis tu montes un escalier de mousse. Près d’une cascade, des insectes lumineux forment un petit singe de lumière, ton guide. Une ondine faite d’eau s’assied près de toi, puis tu suis du doigt des spirales gravées. Par un puits, tu descends vers un océan caché et une cité plus ancienne encore. À la fin, tu plantes une graine, et une pluie douce tombe.",
   "conseils": [
    "Au début, laisse ton regard intérieur s’habituer à la pénombre verte, sans te presser.",
    "Quand la voix t’invite à suivre une spirale, trace-la du bout du doigt sur ta paume.",
-   "Pour garder la pluie de la fin, lance l’Ambiance minutée avec Après l’averse."
+   "Pour garder la pluie de la fin, lance l’Ambiance minutée avec Après l’averse.",
+   "Tu aimes explorer ? Les mini-aventures de l’application proposent d’autres voyages imaginaires, de Versailles à Kyoto.",
+   "Pour une méditation en forêt plus douce, sans ruines ni mystère, essaie ensuite la Forêt des Rêves."
   ],
   "faq": [
    [
@@ -365,19 +514,25 @@
    [
     "Combien de temps faut-il pour explorer les ruines ?",
     "La séance dure 19 minutes, de l’orée de la jungle jusqu’à la pluie douce de la fin."
+   ],
+   [
+    "Quels sons de la jungle entend-on ?",
+    "L’eau des cascades, le bourdonnement des insectes, un orage lointain. Sous l’eau, de grandes créatures chantent d’une voix grave. Et tout à la fin de la méditation, le bruit d’une pluie douce qui se met à tomber."
    ]
   ]
  },
  "mushroomForest": {
   "h2": {
-   "deroule": "Comment se déroule cette méditation en forêt ?"
+   "deroule": "Comment se déroule cette méditation en forêt magique ?",
+   "qui": "Méditation et émerveillement : pour qui, et à quel moment ?"
   },
-  "pour_qui": "La Forêt des Rêves est faite pour ceux qui ont gardé un cœur d’enfant, ou qui aimeraient le retrouver. Fées, papillons et créatures de lumière y vivent en paix. Légèreté, imagination, évasion : voilà ce qu’elle t’offre. Écoute-la un soir ou un dimanche après-midi, simplement pour le plaisir de rêver.",
+  "pour_qui": "La Forêt des Rêves est faite pour ceux qui ont gardé un cœur d’enfant, ou qui aimeraient le retrouver. Fées, papillons et créatures de lumière y vivent en paix. Légèreté, imagination, évasion : voilà ce qu’elle t’offre. Écoute-la un soir ou un dimanche après-midi, simplement pour le plaisir de rêver. C’est un rêve éveillé : tu restes conscient, et tu suis les images comme elles viennent.",
   "deroule": "Tu arrives directement dans une forêt de rêve, baignée de violet et de rose. Des champignons géants brillent comme des lanternes, et une petite fée se pose sur ta main. Sur des arbres d’argent poussent de petites galaxies : tu en cueilles une, et un mot monte vers toi. Une rivière de lumière tinte comme des clochettes. Dans une clairière, des milliers de papillons s’envolent, et l’un d’eux te montre une image de toi, heureux. Puis une pieuvre de lumière te soulève au-dessus de la forêt, d’où tu vois des cerfs de cristal et des oiseaux-lanternes.",
   "conseils": [
    "Laisse ton esprit redevenir curieux, comme celui d’un enfant : ici, rien ne peut te faire de mal.",
    "Retiens le mot reçu de la galaxie : tu repartiras avec lui.",
-   "Juste après, le son Féerie, avec l’Ambiance minutée, garde l’atmosphère de conte."
+   "Juste après, le son Féerie, avec l’Ambiance minutée, garde l’atmosphère de conte.",
+   "Tu préfères une vraie forêt ? La séance Shinrin-Yoku, dans les Méditations du monde, propose un bain de forêt de quelques minutes."
   ],
   "faq": [
    [
@@ -391,16 +546,25 @@
    [
     "Quelle durée pour ce voyage ?",
     "17 minutes, de la mousse tiède du début jusqu’au retour, le mot de la galaxie en tête."
+   ],
+   [
+    "Qu’est-ce qu’une méditation d’émerveillement ?",
+    "Une séance qui laisse faire l’imagination, sans effort ni concentration. La voix te montre une fée, une galaxie à cueillir, une rivière de lumière, et tu regardes comme un enfant. C’est l’intention de la Forêt des Rêves : retrouver un regard doux et curieux."
    ]
   ]
  },
  "mirrorDimension": {
-  "pour_qui": "La Dimension des Miroirs s’adresse à ceux qui aiment les questions intérieures. Elle convient quand tu veux prendre du recul sur un moment difficile, ou simplement observer ton esprit avec calme. Écoute-la quand rien ne presse, dans un endroit tranquille, pour goûter la clarté et l’immobilité.",
-  "deroule": "Tu flottes sans poids dans une lumière blanche, guidé par une note pure. Des miroirs t’entourent et se reflètent à l’infini. Dans l’un d’eux, ce n’est pas ton reflet qui apparaît, mais ton animal-guide. Il sort du miroir et t’emmène ailleurs. Tu traverses une prairie où la pluie monte vers le ciel, puis tu flottes parmi des bulles qui contiennent de petits mondes. Devant un vieux miroir rond, tu déposes l’image d’un moment difficile, et une perle de lumière te revient. Enfin, face à ton propre visage, tu te demandes qui regarde.",
+  "h2": {
+   "qui": "Méditation miroir : pour qui, et à quel moment ?",
+   "deroule": "Comment se passe la rencontre avec ton animal-guide ?"
+  },
+  "pour_qui": "La Dimension des Miroirs s’adresse à ceux qui aiment les questions intérieures. Elle convient quand tu veux prendre du recul sur un moment difficile, ou simplement observer ton esprit avec calme. Écoute-la quand rien ne presse, dans un endroit tranquille, pour goûter la clarté et l’immobilité. C’est un voyage intérieur en compagnie d’un animal-guide que tu ne choisis pas.",
+  "deroule": "Tu flottes sans poids dans une lumière blanche, guidé par une note pure. Des miroirs t’entourent et se reflètent à l’infini. Dans l’un d’eux, ce n’est pas ton reflet qui apparaît, mais ton animal-guide : d’autres diraient que tu viens de rencontrer ton animal totem. Il sort du miroir et t’emmène ailleurs. Tu traverses une prairie où la pluie monte vers le ciel, puis tu flottes parmi des bulles qui contiennent de petits mondes. Devant un vieux miroir rond, tu déposes l’image d’un moment difficile, et une perle de lumière te revient. Enfin, face à ton propre visage, tu te demandes qui regarde.",
   "conseils": [
    "Ne choisis pas ton animal-guide à l’avance : accueille celui qui apparaît.",
    "Pour le miroir rond, pense à un souvenir moyen, pas au plus lourd.",
-   "Assieds-toi plutôt que de t’allonger, pour rester présent jusqu’à la dernière question."
+   "Assieds-toi plutôt que de t’allonger, pour rester présent jusqu’à la dernière question.",
+   "La dernière question, « qui regarde ? », rappelle les méditations de non-dualité : ne cherche pas de réponse, laisse-la résonner."
   ],
   "faq": [
    [
@@ -418,19 +582,29 @@
    [
     "À quoi sert la lumière blanche du début ?",
     "C’est le seuil de la méditation : lumière blanche, note pure, corps sans poids. Elle t’aide à quitter le quotidien en douceur, avant les miroirs."
+   ],
+   [
+    "Que veut dire la question « qui regarde ? » ?",
+    "C’est une façon simple de tourner l’attention vers celui qui observe. Devant ton propre visage, tu ne cherches pas de réponse en mots : tu remarques seulement qu’une conscience tranquille regarde. Les méditations du « qui suis-je ? » posent la même question."
+   ],
+   [
+    "Est-ce l’exercice du miroir ?",
+    "Non. L’exercice du miroir se fait devant une vraie glace : on se regarde dans les yeux et on se dit des mots bienveillants. Ici, tout se passe les yeux fermés, dans des miroirs imaginaires. À la fin pourtant, ton propre visage te regarde, avec des yeux doux qui ne jugent rien."
    ]
   ]
  },
  "wolfForest": {
   "h2": {
-   "qui": "Méditation animal totem : pour qui, et à quel moment ?"
+   "qui": "Méditation animal totem : pour qui, et à quel moment ?",
+   "deroule": "Comment se déroule cette méditation avec le loup ?"
   },
-  "pour_qui": "La Forêt des Esprits Loups est pour toi si tu cherches un animal totem protecteur. Il te guide et te rend plus fort à l’intérieur. Elle plaît aussi à ceux qui aiment les animaux spirituels et les aurores boréales. La nuit, la neige et les animaux sauvages y tiennent la première place. Écoute-la le soir, pour retrouver ton instinct et une force tranquille.",
+  "pour_qui": "La Forêt des Esprits Loups est pour toi si tu cherches un animal totem protecteur. Il te guide et te rend plus fort à l’intérieur. Elle plaît aussi à ceux qui aiment les animaux spirituels et les aurores boréales. La nuit, la neige et les animaux sauvages y tiennent la première place. Ici, les esprits de la forêt ont la forme de loups. Écoute-la le soir, pour retrouver ton instinct et une force tranquille, le temps d’un voyage intérieur.",
   "deroule": "Tu entres de nuit parmi de grands pins couverts de neige. Au-dessus, la lune est immense. Un loup transparent, plein d’étoiles, apparaît sur le sentier : des perce-neige s’allument sous ses pattes. La meute d’esprits loups t’entoure, et le loup du sentier pose son front contre le tien. Puis tu cours avec eux, sans effort, jusqu’à devenir loup toi-même. Sur une colline, la meute chante vers la lune, puis un pont d’aurore boréale t’emporte dans le ciel. Au retour, tu te reposes près d’un feu sacré, avec la force tranquille du loup.",
   "conseils": [
    "Baisse la lumière avant de commencer : tout le voyage se passe de nuit.",
    "Près du feu, pose une main sur ta poitrine : c’est là que la voix t’invite à garder cette force.",
-   "Prolonge la nuit avec l’Ambiance minutée et Grands Bois, une grande forêt du Nord."
+   "Prolonge la nuit avec l’Ambiance minutée et Grands Bois, une grande forêt du Nord.",
+   "Tu ne sais pas encore quel animal est le tien ? Un article du blog explique comment trouver son animal totem."
   ],
   "faq": [
    [
@@ -452,6 +626,14 @@
    [
     "Que symbolise le loup totem ?",
     "Signification la plus courante : l’instinct, la force tranquille et la protection. Le loup vit en meute, où chacun veille sur les autres. Dans ce monde, tu cours avec la meute jusqu’à devenir loup toi-même."
+   ],
+   [
+    "Le loup est-il mon animal totem ?",
+    "Peut-être. Dans ce monde, le loup vient à toi sans que tu l’aies choisi : observe ce que tu ressens en courant avec la meute. S’il te parle, garde-le. Sinon, la Dimension des Miroirs te laisse découvrir ton propre animal-guide, sans rien imposer."
+   ],
+   [
+    "Le loup, animal totem amérindien ou chamanique ?",
+    "Les deux. Le mot « totem » vient de l’ojibwé, une langue amérindienne, où il désigne le clan. Le chamanisme de Sibérie parle plutôt d’esprits alliés. Dans beaucoup de ces traditions, le loup est un animal respecté. Ce monde s’en inspire librement, sans reproduire aucun rite."
    ]
   ]
  }

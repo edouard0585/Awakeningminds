@@ -1,0 +1,229 @@
+{
+ "respiration": {
+  "slug": "ejercicio-de-respiracion",
+  "mots": {
+   "_note": "27-11 — volumes Keyword Planner (réservoirs du 06-11). « ejercicios de respiración » n’est le mot principal d’aucune page (secondaire de l’article /es/blog/ejercicios-de-respiracion-para-calmarse.html, dont le principal est « cómo calmar la ansiedad ») ; il est contenu dans « ejercicios de respiración de google » (10 000-100 000), repris dans la FAQ.",
+   "principal": {
+    "mot": "ejercicios de respiración",
+    "volume": "1 000-10 000"
+   },
+   "second": {
+    "mot": "respiración 4 7 8",
+    "volume": "1 000-10 000"
+   },
+   "autres": [
+    {
+     "mot": "ejercicios de respiración de google",
+     "volume": "10 000-100 000"
+    },
+    {
+     "mot": "respiración cuadrada",
+     "volume": "1 000-10 000"
+    },
+    {
+     "mot": "coherencia cardíaca",
+     "volume": "1 000-10 000"
+    },
+    {
+     "mot": "respiracion guiada",
+     "volume": "100-1 000"
+    },
+    {
+     "mot": "coherencia cardiaca 5 minutos",
+     "volume": "100-1 000"
+    },
+    {
+     "mot": "respiración en caja",
+     "volume": "100-1 000"
+    },
+    {
+     "mot": "respiración 4 7 8 para dormir",
+     "volume": "10-100"
+    }
+   ]
+  },
+  "seo": "Ejercicios de respiración guiados online: 4-7-8 y cuadrada",
+  "desc": "Ejercicios de respiración guiados, gratis y en español: respiración 4-7-8, respiración cuadrada y coherencia cardíaca. Sigue el círculo, sin registro.",
+  "h1": "Ejercicios de respiración online, guiados y en español",
+  "image_alt": "Círculo dorado sobre un fondo de noche: la guía de respiración online de MeditaDream",
+  "fil": "Ejercicio de respiración",
+  "lead": "Tres ejercicios de respiración para hacer ahora mismo, gratis y sin registro: coherencia cardíaca, respiración 4-7-8 y respiración cuadrada.",
+  "outil": {
+   "nom": "Ejercicios de respiración guiados MeditaDream",
+   "aria": "Guía de respiración",
+   "ordre": [
+    "coherence",
+    "478",
+    "carree"
+   ],
+   "technique": "Técnica de respiración",
+   "duree": "Duración",
+   "techniques": {
+    "coherence": "Coherencia cardíaca",
+    "478": "Respiración 4-7-8",
+    "carree": "Respiración cuadrada"
+   },
+   "phases": {
+    "inspire": "Inhala",
+    "retiens": "Retén",
+    "expire": "Exhala",
+    "pause": "Pausa"
+   },
+   "secondes": "segundos",
+   "min": "{n} min",
+   "cycles": "{n} ciclos",
+   "pret": "Cuando quieras",
+   "demarrer": "Comenzar",
+   "pause": "Pausar",
+   "reprendre": "Reanudar",
+   "recommencer": "Reiniciar",
+   "en_pause": "En pausa",
+   "son": "Sonido",
+   "restant": "Tiempo restante",
+   "cycle": "Ciclo {i} de {n}",
+   "fin_t": "Sesión terminada",
+   "fin_p": "Quédate así un momento más. Deja que la respiración vuelva sola a su ritmo.",
+   "fin_b": "Sigue con la app gratis",
+   "dire_pause": "Ejercicio en pausa",
+   "dire_fin": "Sesión terminada",
+   "sansjs": "La guía animada necesita JavaScript. Mientras tanto, estos son los ritmos para contar por tu cuenta."
+  },
+  "sections": [
+   {
+    "id": "como-se-usa",
+    "h2": "¿Cómo se usa esta respiración guiada?",
+    "p": [
+     "No hay que instalar nada ni crear una cuenta. Todo ocurre en esta página, en el navegador de cualquier dispositivo."
+    ],
+    "ol": [
+     "Siéntate con la espalda recta y los hombros sueltos.",
+     "Elige un ejercicio y su duración.",
+     "Pulsa Comenzar.",
+     "Inhala cuando el círculo crece y exhala cuando se encoge. Si se queda quieto, retén el aire."
+    ],
+    "p2": [
+     "En el centro, una palabra te dice qué hacer y un número cuenta los segundos. Puedes pausar, reanudar o reiniciar cuando quieras.",
+     "El botón Sonido añade una nota muy suave en cada cambio, útil si prefieres cerrar los ojos. En la mayoría de los dispositivos, la pantalla sigue encendida durante el ejercicio."
+    ]
+   },
+   {
+    "id": "coherencia-cardiaca",
+    "h2": "¿Qué es la coherencia cardíaca y cómo se practica?",
+    "rythme": "coherence",
+    "p": [
+     "La coherencia cardíaca es una respiración lenta y regular. Inhalas 5 segundos y exhalas 5 segundos, sin pausa. Son unas 6 respiraciones por minuto.",
+     "Respira por la nariz si puedes, sin forzar. Deja que el abdomen suba y baje, como una ola. Es una de las [técnicas de respiración](/es/blog/tecnicas-de-respiracion-para-meditar.html) más sencillas.",
+     "A ese ritmo, el corazón se acelera un poco al inhalar y se frena al exhalar. Es un ritmo natural, y la respiración lenta lo hace más marcado. El efecto no es igual para todos: guíate por lo que sientes.",
+     "Puedes elegir 3, 5 o 10 minutos. La opción más habitual para empezar: coherencia cardíaca, 5 minutos."
+    ],
+    "essayer": "coherence",
+    "essayer_t": "Comenzar la coherencia cardíaca"
+   },
+   {
+    "id": "respiracion-4-7-8",
+    "h2": "¿Cómo se hace la respiración 4-7-8?",
+    "rythme": "478",
+    "p": [
+     "Son tres tiempos, siempre en el mismo orden. Inhalas por la nariz durante 4 segundos. Retienes el aire 7 segundos. Exhalas despacio por la boca durante 8 segundos.",
+     "La dio a conocer el estadounidense Andrew Weil. Aconseja no pasar de 4 ciclos al principio y llegar, como mucho, a 8 con la práctica. Son las dos opciones de esta herramienta.",
+     "Mucha gente usa la respiración 4-7-8 para dormir, ya en la cama. La exhalación dura el doble que la inhalación, y eso vuelve el ritmo muy lento.",
+     "¿Te incomoda retener el aire 7 segundos? No insistas. Prueba la coherencia cardíaca, que no tiene retención."
+    ],
+    "essayer": "478",
+    "essayer_t": "Comenzar la respiración 4-7-8"
+   },
+   {
+    "id": "respiracion-cuadrada",
+    "h2": "¿Para qué sirve la respiración cuadrada?",
+    "rythme": "carree",
+    "p": [
+     "La respiración cuadrada tiene cuatro tiempos iguales, como los lados de un cuadrado. Inhalas 4 segundos y retienes 4. Exhalas 4 y te quedas otros 4 con los pulmones vacíos.",
+     "También se llama respiración en caja o box breathing. Se enseña en cursos de manejo del estrés. Contar los cuatro tiempos ocupa la mente y deja menos sitio a los pensamientos que dan vueltas.",
+     "Úsala antes de una reunión, un examen o una llamada difícil, cuando necesites calma y concentración.",
+     "Puedes elegir 2, 4 o 5 minutos. La herramienta termina siempre el ciclo empezado, así que la sesión puede durar unos segundos más.",
+     "Si los nervios aprietan, nuestra guía sobre [cómo calmar la ansiedad](/es/blog/ejercicios-de-respiracion-para-calmarse.html) explica qué respiración usar en cada caso."
+    ],
+    "essayer": "carree",
+    "essayer_t": "Comenzar la respiración cuadrada"
+   },
+   {
+    "id": "cuanto-tiempo",
+    "h2": "¿Cuánto tiempo respirar y cuántas veces al día?",
+    "p": [
+     "Bastan unos minutos. Vale más practicar 3 minutos cada día que 20 minutos una vez al mes."
+    ],
+    "ul": [
+     "Coherencia cardíaca: 5 minutos, hasta 3 veces al día.",
+     "Respiración 4-7-8: 4 ciclos, dos veces al día, por ejemplo al levantarte y al acostarte.",
+     "Respiración cuadrada: de 2 a 5 minutos, en el momento en que la necesites."
+    ],
+    "p2": [
+     "Asócialo a algo que ya haces: después del café, antes de abrir el correo, al meterte en la cama."
+    ]
+   },
+   {
+    "id": "precauciones",
+    "h2": "¿Qué precauciones conviene tomar?",
+    "p": [
+     "Son respiraciones suaves. Aun así, escucha a tu cuerpo."
+    ],
+    "ul": [
+     "¿Mareo, hormigueo o sensación de ahogo? Para y respira con normalidad.",
+     "No fuerces nunca una retención. Acórtala o elige la coherencia cardíaca.",
+     "Practica sentado o acostado, nunca al volante ni dentro del agua.",
+     "¿Estás embarazada o tienes algún problema de corazón o de pulmones? Consulta antes con tu médico."
+    ],
+    "p2": [
+     "Esta herramienta es una guía de bienestar. No sustituye el consejo de un médico."
+    ]
+   },
+   {
+    "id": "app-meditadream",
+    "h2": "¿Qué añade la app MeditaDream?",
+    "monde": "antiqueTemple",
+    "monde_cap": "{monde}, uno de los {worlds} mundos inmersivos de la app.",
+    "p": [
+     "Aquí, un círculo marca el ritmo. En la app MeditaDream te guía una voz en español: {meds} meditaciones guiadas, {cats} categorías y {worlds} mundos inmersivos."
+    ],
+    "ul": [
+     {
+      "si": "gong",
+      "t": "El Temporizador tiene un «gong alterno» que marca el ritmo: inhalas hasta el primer gong y exhalas hasta el segundo. Tú eliges cada duración, de 1 a 30 segundos."
+     },
+     "Sesiones guiadas en torno a la respiración, para escuchar con los ojos cerrados.",
+     "Pausas guiadas de 3 o 4 minutos, para cuando todo va demasiado deprisa."
+    ],
+    "p2": [
+     "La app es gratis, sin anuncios y sin cuenta. Cuando descargas una sesión, puedes escucharla sin conexión."
+    ]
+   }
+  ],
+  "seances_t": "Las sesiones de la app en torno a la respiración",
+  "faq": [
+   [
+    "¿Es como los ejercicios de respiración de Google?",
+    "Se parece, pero no es lo mismo. En algunas búsquedas, Google muestra un ejercicio de respiración de un minuto. Esta página ofrece tres técnicas, sesiones más largas y un sonido opcional."
+   ],
+   [
+    "¿Estos ejercicios de respiración son gratis?",
+    "Sí. Son gratis, sin registro y sin anuncios. Funcionan en el navegador de tu teléfono o de cualquier otro dispositivo."
+   ],
+   [
+    "¿Se respira por la nariz o por la boca?",
+    "Inhala por la nariz. En la coherencia cardíaca y la respiración cuadrada, exhala como te resulte más cómodo. En la respiración 4-7-8, exhala por la boca."
+   ],
+   [
+    "¿Qué respiración elegir para dormir?",
+    "La respiración 4-7-8 se usa mucho al acostarse, por su exhalación larga. Si la retención te incomoda, prueba 5 minutos de coherencia cardíaca. Ninguna técnica garantiza el sueño."
+   ],
+   [
+    "¿Puedo hacerlo con los ojos cerrados?",
+    "Sí. Activa el botón Sonido: una nota suave marca cada cambio. Es más aguda al inhalar y más grave al exhalar. En iPhone, el sonido respeta el modo silencio: desactívalo antes."
+   ],
+   [
+    "¿Funciona sin conexión?",
+    "Con la página ya abierta, sí: la guía no necesita internet. Para practicar en cualquier parte, la app MeditaDream funciona sin conexión cuando ya has descargado tus sesiones."
+   ]
+  ]
+ }
+}

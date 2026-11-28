@@ -298,7 +298,7 @@ def programme_html(ap, lang, o, meds, P):
             cid, m = meds[mid]; n_s += 1
             url = ap.u(lang, 'med', P[lang]['categories'][cid]['slug']) + '#' + mid
             ss += (f'<li><a href="{url}">{icone_med(ap, lang, mid, m["title"][lang])}<span>{E(m["title"][lang])}'
-                   f'<em>{m["dur"]} {E(ol["min"])} · {E(ap.L[lang]["level"].get(m["level"], m["level"]))}</em></span></a></li>')
+                   f'<em>{ap.dmin(m, lang)} {E(ol["min"])} · {E(ap.L[lang]["level"].get(m["level"], m["level"]))}</em></span></a></li>')
         fs = ''
         for nf in e.get('fonctions', []):
             ic = (I.get('fonctions') or {}).get(nf) or {}
@@ -359,7 +359,7 @@ def render(ap, bb, lang, num, D, cat, P):
                          f'<em data-calc>{len(ms)} {E(ol["seances"] if len(ms) > 1 else ol["seance"])} {E(ol["dans"])} · {E(ol["voir_cat"])} →</em></span></a>'
                          '<ol class="ob-med">' + ''.join(
                              f'<li><a href="{url_cat}#{E(m["id"])}">{icone_med(ap, lang, m["id"], m["title"][lang])}<span><b>{E(m["title"][lang])}</b>'
-                             f'<em>{m["dur"]} {E(ol["min"])} · {E(t["level"].get(m["level"], m["level"]))}</em><span>{E(ty(lang, interet))}</span></span></a></li>'
+                             f'<em>{ap.dmin(m, lang)} {E(ol["min"])} · {E(t["level"].get(m["level"], m["level"]))}</em><span>{E(ty(lang, interet))}</span></span></a></li>'
                              for m, interet in ms) + '</ol></div>')
     # fonctionnalités
     bloc_feat = '<ul class="ob-feat">'

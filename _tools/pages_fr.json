@@ -5,17 +5,17 @@
   "desc": "Méditation gratuite pour de vrai : {total} méditations guidées en français, sommeil, débutants, 5 minutes, voyage astral. Sans pub, sans compte, hors ligne.",
   "h1": "Méditation gratuite : {total} méditations guidées",
   "h2": "Méditation guidée gratuite : les {ncat} catégories",
-  "intro": "MeditaDream réunit {total} méditations guidées en français, réparties en {ncat} catégories : des premières séances pour débutants aux pauses de 4 minutes, des relaxations pour s’endormir aux méditations bouddhistes, chamaniques ou au voyage astral. L’application est entièrement gratuite, sans abonnement, sans publicité et sans compte à créer. Une fois les séances téléchargées, elles fonctionnent hors ligne, et tes données de pratique restent sur ton téléphone. Choisis une catégorie ci-dessous pour découvrir les séances, leur durée et leur niveau, puis lance-toi à ton rythme, sur iPhone comme sur Android."
+  "intro": "MeditaDream réunit {total} méditations guidées en français, réparties en {ncat} catégories : des premières séances pour débutants aux pauses de 4 minutes, des relaxations guidées pour s’endormir aux méditations bouddhistes, chamaniques ou au voyage astral. Toutes sont des séances de méditation gratuites : l’application est sans abonnement, sans publicité et sans compte à créer. Une fois les séances téléchargées, elles fonctionnent hors ligne, et tes données de pratique restent sur ton téléphone. Tu cherches une méditation en ligne ? Plusieurs catégories proposent un extrait à écouter sur leur page ; les séances complètes s’écoutent ensuite dans l’application. Choisis une catégorie ci-dessous pour découvrir les séances, leur durée et leur niveau, puis lance-toi à ton rythme, sur iPhone comme sur Android. Tu trouveras aussi bien une méditation gratuite de 5 ou 10 minutes qu’une méditation guidée pour le sommeil."
  },
  "categories": {
   "learningBasics": {
    "slug": "meditation-guidee-debutant",
    "seo": "Méditation pour débutants : apprendre à méditer, {n} séances",
-   "desc": "Méditation pour débutants : jamais médité ? {n} exercices de pleine conscience guidés, de {min} à {max} min. Gratuit, sans pub, même hors ligne.",
-   "h1": "Méditation pour débutants, guidée pas à pas",
+   "desc": "Méditation pour débutants : {n} exercices de pleine conscience guidés pour apprendre à méditer, de {min} à {max} min. Gratuit, sans pub, même hors ligne.",
+   "h1": "Méditation pour débutants : la pleine conscience guidée pas à pas",
    "intro": [
-    "Cette catégorie de méditation pour débutants pose les bases en {n} séances guidées, de {min} à {max} minutes. Tu y apprends à parcourir le corps région par région, à revenir au souffle quand l’attention s’éloigne, à distinguer sensation, émotion et pensée, puis à regarder passer les pensées sans les suivre. D’autres séances te font méditer les yeux ouverts ou ouvrir les cinq sens un à un. Une autre t’apprend à manger en pleine conscience, le temps d’une bouchée.",
-    "Ces exercices de méditation pour débutants s’adressent à qui n’a jamais médité, ou veut reprendre les fondamentaux. C’est une vraie initiation : pleine conscience du corps, du souffle, puis des pensées. Toutes les séances sont de niveau débutant. La dernière, une première méditation silencieuse de 5 minutes, te fait découvrir que les silences ne sont pas du vide : ils font partie de la pratique."
+    "Cette catégorie de méditation pour débutants pose les bases en {n} séances guidées, de {min} à {max} minutes. Si tu veux apprendre à méditer, commence ici. Tu y apprends à parcourir le corps région par région, à revenir au souffle quand l’attention s’éloigne, à distinguer sensation, émotion et pensée, puis à regarder passer les pensées sans les suivre. D’autres séances te font méditer les yeux ouverts ou ouvrir les cinq sens un à un. Une autre t’apprend à manger en pleine conscience, le temps d’une bouchée.",
+    "Tu te demandes comment faire pour méditer ? Ces exercices de méditation pour débutants s’adressent à qui n’a jamais médité, ou veut reprendre les fondamentaux. C’est une vraie initiation : pleine conscience du corps, du souffle, puis des pensées. Chaque séance est une méditation de pleine conscience, guidée par la voix. Toutes les séances sont de niveau débutant. La dernière, une première méditation silencieuse de 5 minutes, te fait découvrir que les silences ne sont pas du vide : ils font partie de la pratique."
    ],
    "faq": [
     [
@@ -37,6 +37,10 @@
     [
      "Qu’est-ce que la méditation pleine conscience ?",
      "C’est porter ton attention sur l’instant présent, sans juger : le souffle, le corps, les sons, les pensées. Ces séances t’y initient pas à pas, un exercice à la fois. Tu n’as rien à réussir : remarquer que ton esprit s’est échappé fait déjà partie de la pratique."
+    ],
+    [
+     "L’exercice 5-4-3-2-1 de pleine conscience, c’est quoi ?",
+     "C’est un exercice d’ancrage par les sens : tu nommes cinq choses que tu vois, quatre que tu touches, trois que tu entends, deux que tu sens et une que tu goûtes. Il ramène vite l’attention au présent. « La conscience des cinq sens » suit la même idée, plus lentement : elle ouvre les sens un à un, en dix-neuf minutes."
     ]
    ],
    "guide": [
@@ -44,14 +48,16 @@
      "h2": "Méditation pour débutants : apprendre à méditer seul, chez toi",
      "p": [
       "En méditation pleine conscience, débutant comme confirmé, tu n’as besoin ni de cours ni de matériel. Une chaise, un coussin ou ton lit suffisent. Le dos reste droit sans être raide, les épaules se relâchent.",
-      "Pour pratiquer la pleine conscience, choisis un moment facile à tenir : au réveil, après le travail ou avant de dormir. Mieux vaut cinq minutes chaque jour qu’une longue séance de temps en temps."
+      "Pour pratiquer la pleine conscience, choisis un moment facile à tenir : au réveil, après le travail ou avant de dormir. Mieux vaut cinq minutes chaque jour qu’une longue séance de temps en temps.",
+      "Et après ? Le guide « Comment méditer » du blog t’accompagne pendant ta première semaine."
      ]
     },
     {
      "h2": "Quels exercices de pleine conscience faire en premier ?",
      "p": [
       "Commence par le balayage corporel : il t’apprend à sentir ton corps de l’intérieur. Passe ensuite à la respiration : pleine conscience du souffle, sans chercher à bien respirer. C’est ton point d’appui pour revenir au présent.",
-      "Quand ces deux bases te semblent familières, essaie l’observation des pensées, puis les cinq sens. La première méditation silencieuse, cinq minutes sans consigne, vient en dernier."
+      "Quand ces deux bases te semblent familières, essaie l’observation des pensées, puis les cinq sens. La première méditation silencieuse, cinq minutes sans consigne, vient en dernier.",
+      "Le balayage corporel porte aussi le nom de scan corporel, ou body scan. Avec le souffle et l’observation des pensées, ce sont les trois techniques qu’un débutant en méditation gagne à connaître d’abord."
      ]
     },
     {
@@ -96,6 +102,14 @@
     [
      "Comment calmer sa colère après une dispute ?",
      "Prends trois minutes avec « Se calmer après une dispute ». La séance t’aide à desserrer ce qui s’est crispé, puis à revenir à ce qui t’entoure. Tu regardes ensuite la scène avec un peu de recul."
+    ],
+    [
+     "Quelle méditation de 5 minutes faire le matin ?",
+     "Une seule séance suffit : « La gratitude précise », trois minutes, ouvre la journée sur une chose que tu apprécies vraiment. Avant une journée chargée, préfère « Retrouver confiance avant une épreuve », quatre minutes : elle sépare ce qui dépend de toi du reste. Écoute-la assis au bord du lit, avant d’ouvrir tes messages."
+    ],
+    [
+     "Comment méditer tous les jours quand on manque de temps ?",
+     "Accroche une séance de trois minutes à un geste que tu fais déjà : le café du matin, le trajet, la pause de midi. Même heure, même endroit : au bout de quelques jours, tu n’as plus à y penser. Si tu sautes un jour, reprends le lendemain sans te juger. La régularité compte plus que la durée."
     ]
    ],
    "guide": [
@@ -103,7 +117,7 @@
      "h2": "Juste 5 minutes : méditation express, n’importe où",
      "p": [
       "Chaque séance dure trois ou quatre minutes. Tu peux la faire au bureau, dans le train ou avant une réunion, les yeux ouverts ou fermés.",
-      "Pour une vraie pause de dix minutes, enchaîne deux ou trois séances."
+      "Pour une vraie pause, enchaîne deux ou trois séances : tu obtiens une méditation de 10 minutes sur mesure."
      ]
     },
     {
@@ -114,16 +128,23 @@
       "Quand le moral flanche : « Quand tu manques de motivation » (3 min) ne garde que le premier geste concret ; « Quand tu as envie de tout abandonner » (3 min) distingue la fatigue du moment de la décision ; « Quand tu te sens observé ou jugé » (4 min) fait la part entre ce que tu sais et ce que tu imagines.",
       "Pour une pause douce : « Le refuge instantané » (4 min), un petit lieu à toi où déposer les soucis ; « Le souvenir heureux en trois sens » (4 min), qui réchauffe le présent ; « La gratitude précise » (3 min), pour finir la journée."
      ]
+    },
+    {
+     "h2": "Méditation anti-stress : pourquoi trois minutes suffisent pour souffler",
+     "p": [
+      "Sous le coup du stress, l’attention se colle au problème et le souffle se raccourcit. Une méditation rapide anti-stress fait l’inverse : elle ramène l’attention dans le corps, vers les pieds, les mains et le souffle, puis laisse l’expiration s’allonger.",
+      "Le problème n’a pas disparu, mais tu le regardes d’un peu plus loin. Ces pauses ne remplacent pas un vrai repos : elles t’aident à ne pas porter la même tension toute la journée."
+     ]
     }
    ]
   },
   "calm": {
    "slug": "meditation-guidee-pour-dormir",
-   "seo": "Méditation pour dormir : {n} séances guidées de relaxation",
-   "desc": "Méditation pour dormir et lâcher prise : {n} séances guidées de {min} à {max} min, au lit, lumière éteinte. Gratuit, sans pub, même en mode avion.",
-   "h1": "Méditation pour dormir et relaxation guidée",
+   "seo": "Méditation pour dormir et lâcher prise : {n} séances guidées",
+   "desc": "Méditation pour dormir et lâcher prise, au lit, lumière éteinte : {n} séances guidées de {min} à {max} min, avec de la relaxation pour dormir. Gratuit, sans pub.",
+   "h1": "Méditation pour dormir, lâcher prise et relaxation guidée",
    "intro": [
-    "Tu cherches une méditation pour dormir, ou juste un moment de calme ? Cette catégorie rassemble {n} séances de {min} à {max} minutes autour du corps, du calme et du sommeil. Certaines accompagnent l’endormissement, comme le voyage du sommeil ou le glissement vers le sommeil, qui se termine sans réveil. D’autres travaillent la respiration avec tout le corps, la détente sous une cascade imaginaire ou la reconnaissance et l’alignement des sept chakras. On y trouve aussi une préparation au rêve lucide.",
+    "Tu cherches une méditation pour dormir et lâcher prise, ou juste un moment de calme ? Cette catégorie rassemble {n} séances de {min} à {max} minutes autour du corps, du calme et du sommeil. Certaines sont de véritables relaxations pour dormir : elles accompagnent l’endormissement, comme le voyage du sommeil ou le glissement vers le sommeil, qui se termine sans réveil. D’autres travaillent la respiration avec tout le corps, la détente sous une cascade imaginaire ou la reconnaissance et l’alignement des sept chakras. On y trouve aussi une préparation au rêve lucide.",
     "Ces séances sont de niveau intermédiaire : elles s’apprécient mieux une fois les bases acquises, mais rien ne t’empêche de commencer par elles. Pour le soir, installe-toi allongé, baisse la lumière et laisse la voix te guider jusqu’au sommeil."
    ],
    "faq": [
@@ -158,6 +179,14 @@
     [
      "Méditation, relaxation : quelle différence ?",
      "La relaxation détend surtout le corps. La méditation entraîne aussi l’attention, qui se pose et revient. Ces séances mêlent les deux : le corps se relâche pendant que l’esprit suit la voix."
+    ],
+    [
+     "Comment s’endormir rapidement avec une méditation ?",
+     "Prépare tout avant de te coucher : séance téléchargée, téléphone en mode avion, lumière éteinte. Lance « Glissement vers le sommeil » et ne cherche pas à dormir : suis seulement la voix. C’est souvent quand tu cesses d’essayer que le sommeil vient. Aucune méthode ne garantit de s’endormir en cinq minutes, mais ce rituel met les chances de ton côté."
+    ],
+    [
+     "Quelle méditation pour se rendormir en pleine nuit ?",
+     "« Glissement vers le sommeil » convient bien : seize minutes, aucun réveil à la fin. Garde le téléphone en mode avion, la luminosité au minimum, et relance la séance sans regarder l’heure. Si l’esprit s’agite, commence par « Respirer avec tout le corps » : elle ramène d’abord l’attention dans le corps."
     ]
    ],
    "guide": [
@@ -165,31 +194,40 @@
      "h2": "Relaxation guidée pour dormir : comment l’écouter ?",
      "p": [
       "Lance la séance une fois au lit, lumière éteinte. Pose le téléphone à côté de toi, écran retourné. Tu n’as rien à faire, seulement écouter.",
-      "Si tu t’endors avant la fin, c’est parfait. Après la méditation, sommeil profond ou simple repos : dans les deux cas, la séance a fait son travail."
+      "Si tu t’endors avant la fin, c’est parfait. Après la méditation, sommeil profond ou simple repos : dans les deux cas, la séance a fait son travail.",
+      "Toutes ces méditations pour dormir sont gratuites et s’écoutent hors ligne une fois téléchargées."
      ]
     },
     {
      "h2": "Quelle méditation guidée pour dormir ce soir ?",
      "p": [
       "Envie d’une méditation courte pour dormir ? Prends « Glissement vers le sommeil », seize minutes très douces. C’est une méditation pour dormir et lâcher prise, sans réveil à la fin. Pour un long moment de détente, choisis « Voyage du sommeil ».",
-      "Si ton corps reste tendu, commence par « Respirer avec tout le corps ». Et si tu aimes rêver, « Préparation au rêve lucide » t’accompagne jusqu’au sommeil. Une méditation pleine conscience pour dormir ? Le balayage corporel, dans la catégorie Apprentissage, se pratique aussi au lit."
+      "Si ton corps reste tendu, commence par « Respirer avec tout le corps ». Et si tu aimes rêver, « Préparation au rêve lucide » t’accompagne jusqu’au sommeil. Une méditation pleine conscience pour dormir ? Le balayage corporel, dans la catégorie Apprentissage, se pratique aussi au lit. Ce scan corporel pour dormir te fait parcourir le corps région par région.",
+      "Tu veux une méditation du soir pour dormir, à retrouver chaque nuit ? Garde la même séance une semaine entière : la voix devient un repère, et l’écoute, ton signal du coucher."
      ]
     },
     {
      "h2": "Méditation pour dormir : avec ou sans voix ?",
      "p": [
-      "Certains soirs, tu préfères te passer de voix. L’application propose aussi des sons seuls, comme la pluie ou les vagues, avec un minuteur qui baisse doucement le volume."
+      "Certains soirs, tu préfères te passer de voix. L’application propose aussi des sons seuls, comme la pluie ou les vagues, avec un minuteur qui baisse doucement le volume. Si tu cherches surtout un son pour dormir, c’est ce qu’il te faut."
+     ]
+    },
+    {
+     "h2": "Méditation pour dormir et lâcher prise : déposer la journée",
+     "p": [
+      "Au moment d’éteindre, les pensées de la journée se bousculent. Lâcher prise ne veut pas dire faire le vide : c’est cesser de retenir. Note sur un papier ce qui t’attend demain, puis laisse la séance prendre le relais.",
+      "Une méditation avant de dormir sert à cela. « Glissement vers le sommeil » relâche peu à peu tout effort ; « Voyage du sommeil » t’invite à ne plus rien vérifier. C’est le principe d’une méditation guidée de lâcher-prise : cesser de vouloir dormir, et laisser le sommeil venir."
      ]
     }
    ]
   },
   "emotionalGrowth": {
    "slug": "meditation-amour-de-soi-gratitude",
-   "seo": "Méditation pour l’amour de soi : confiance et lâcher-prise",
-   "desc": "Développer l’amour de soi : {n} méditations guidées de {min} à {max} min pour la confiance, la gratitude et le pardon. Gratuit, sans pub, même hors ligne.",
+   "seo": "Amour de soi et confiance en soi : {n} méditations guidées",
+   "desc": "Développer l’amour de soi : {n} méditations guidées de {min} à {max} min pour la confiance en soi, la gratitude et le pardon. Gratuit, sans pub, même hors ligne.",
    "h1": "Cultiver l’amour de soi : confiance, gratitude et lâcher-prise",
    "intro": [
-    "Cette catégorie réunit {n} séances de {min} à {max} minutes pour cultiver l’amour de soi et ouvrir le cœur. Tu y apprends à accueillir une émotion difficile en l’observant avec bienveillance. Tu pars de qualités bien réelles pour mieux t’aimer. Puis tu vis une méditation de gratitude concrète, qui commence dans le corps. D’autres séances explorent le pardon, sans obligation d’oublier, et la sortie de la comparaison avec les autres. La méditation de compassion, elle, adresse des souhaits de paix à soi-même, puis aux autres.",
+    "Cette catégorie réunit {n} séances de {min} à {max} minutes pour cultiver l’amour de soi et ouvrir le cœur. Tu y apprends à accueillir une émotion difficile en l’observant avec bienveillance. Tu pars de qualités bien réelles pour mieux t’aimer. Une courte méditation pour la confiance en soi t’invite à t’appuyer sur ce que tu as déjà réussi. Puis tu vis une méditation de gratitude concrète, qui commence dans le corps. D’autres séances explorent le pardon, sans obligation d’oublier, et la sortie de la comparaison avec les autres. La méditation de compassion, elle, adresse des souhaits de paix à soi-même, puis aux autres.",
     "Ces séances sont de niveau intermédiaire. Elles conviennent à celles et ceux qui souhaitent travailler leur relation à eux-mêmes et aux autres, avec douceur, sans chercher à forcer un sentiment. La méditation de compassion, de 7 minutes, est une bonne porte d’entrée. Elle t’initie à la self-compassion, ou auto-compassion. Méditation après méditation, bienveillance envers soi et envers les autres vont de pair."
    ],
    "faq": [
@@ -203,7 +241,7 @@
     ],
     [
      "Quelle méditation pour la confiance en soi ?",
-     "Commence par « Développer l’amour de soi », puis « Se libérer de la comparaison ». Pratiquées régulièrement, elles t’aident à te regarder avec plus de douceur."
+     "Commence par « Développer l’amour de soi », puis « Se libérer de la comparaison ». Pratiquées régulièrement, elles t’aident à te regarder avec plus de douceur. Pour un coup de pouce rapide, essaie « Booster sa confiance en soi », une séance de six minutes."
     ],
     [
      "Qu’est-ce que l’amour de soi ?",
@@ -224,6 +262,10 @@
     [
      "Méditation gratitude du matin ou du soir : que choisir ?",
      "Les deux se valent : garde le moment que tu tiendras chaque jour. En méditation du soir, « Gratitude quotidienne » revient sur ce que ton corps a fait pour toi. Le matin, choisis une seule chose que tu apprécies, et donne-lui toute ton attention."
+    ],
+    [
+     "Comment cultiver la gratitude au quotidien ?",
+     "Par petites touches, chaque jour : remercier ton corps au réveil, noter le soir ce qui t’a fait du bien, dire merci à quelqu’un. « Gratitude quotidienne » t’y entraîne en quatorze minutes. Le journal de gratitude de l’application garde ensuite la trace de ce que tu notes."
     ]
    ],
    "guide": [
@@ -237,14 +279,22 @@
     {
      "h2": "Méditation amour de soi : par où commencer ?",
      "p": [
-      "Un thème par méditation guidée : amour de soi, gratitude, pardon. Pour commencer, « Développer l’amour de soi », quinze minutes. Pour une émotion qui pèse, « Accueillir une émotion difficile ». Et si tu as peu de temps, la « Méditation de compassion » dure sept minutes."
+      "Un thème par méditation guidée : amour de soi, gratitude, pardon. Pour commencer, « Développer l’amour de soi », quinze minutes. Pour une émotion qui pèse, « Accueillir une émotion difficile ». Et si tu as peu de temps, la « Méditation de compassion » dure sept minutes.",
+      "Pour une méditation du pardon, choisis « Pardonner sans oublier ». C’est aussi une méditation de lâcher-prise : tu décides toi-même ce que tu déposes et ce que tu gardes."
+     ]
+    },
+    {
+     "h2": "Amour de soi, estime de soi, confiance en soi : quelle différence ?",
+     "p": [
+      "Ces trois notions se ressemblent, mais ne disent pas la même chose. L’estime de soi, c’est le jugement que tu portes sur ta propre valeur. La confiance en soi, c’est te sentir capable d’agir : passer un entretien, dire non, essayer. L’amour de soi ne dépend ni de tes résultats ni du regard des autres : c’est la douceur que tu t’accordes, même les jours ratés.",
+      "Confiance en soi et estime de soi grandissent mieux sur ce socle. Voilà pourquoi les premières séances apprennent à accueillir ses émotions et à se parler avec bienveillance, avant de passer aux actes avec « Booster sa confiance en soi »."
      ]
     }
    ]
   },
   "shadow": {
    "slug": "meditation-travail-ombre",
-   "seo": "Enfant intérieur, part d’ombre et peurs : {n} méditations",
+   "seo": "Enfant intérieur et peur de l’abandon : {n} méditations",
    "desc": "Enfant intérieur et part d’ombre, en douceur : {n} méditations de {min} à {max} min, de la peur de l’abandon à celle du jugement, avec ho’oponopono. Gratuit.",
    "h1": "Enfant intérieur : apaiser tes peurs, accueillir ta part d’ombre",
    "intro": [
@@ -271,32 +321,52 @@
     [
      "Peut-on encore avoir peur du noir, adulte ?",
      "Oui, et c’est plus fréquent qu’on ne le croit. « La peur du noir », treize minutes, t’aide à apprivoiser l’obscurité peu à peu. Tu y découvres que le noir n’est pas un danger."
+    ],
+    [
+     "Enfant intérieur blessé : quelle méditation pour l’apaiser ?",
+     "Commence par « Sérénité de l’Enfant Intérieur », dix-neuf minutes. Tu y retrouves l’enfant que tu étais, sans l’interroger : tu le laisses choisir la distance, puis tu joues avec lui. Une méditation de l’enfant intérieur ne répare pas le passé : elle t’apprend à te rassurer aujourd’hui. Si des souvenirs lourds remontent, arrête-toi et parles-en à une personne de confiance."
     ]
    ],
    "guide": [
     {
+     "h2": "Qu’est-ce que l’enfant intérieur ? Définition, de Jung à aujourd’hui",
+     "p": [
+      "L’enfant intérieur, c’est la part de toi qui garde les élans, les émotions et les blessures de l’enfance. L’image vient de la psychologie : Jung parlait déjà de l’archétype de l’enfant, et d’autres auteurs l’ont rendue populaire à la fin du siècle dernier.",
+      "Ce n’est pas un enfant caché quelque part. C’est une façon de t’adresser à ce qui, en toi, réagit encore comme autrefois, avec la même peur ou la même joie."
+     ]
+    },
+    {
      "h2": "Comment travailler sur son ombre, en douceur ?",
      "p": [
-      "L’ombre, c’est ce que tu préfères ne pas voir en toi : une peur, une colère, la blessure d’abandon. La méditation t’aide à la regarder avec bienveillance, à ton rythme.",
+      "L’ombre, selon Jung, c’est ce que tu préfères ne pas voir en toi : une peur, une colère, la blessure d’abandon. La méditation t’aide à la regarder avec bienveillance, à ton rythme.",
       "Tu restes toujours libre de t’arrêter. Rien ne t’oblige à aller plus loin que ce qui te semble juste."
+     ]
+    },
+    {
+     "h2": "D’où vient la peur de l’abandon ?",
+     "p": [
+      "Le plus souvent, de loin : une séparation, une absence, un adulte qui n’était pas toujours disponible. L’enfant en garde une alerte, et l’adulte la retrouve intacte quand un message tarde ou qu’un proche s’éloigne.",
+      "C’est là que l’enfant intérieur aide : au lieu de te reprocher ta réaction, tu t’adresses à celui qui a eu peur. « La peur de l’abandon », dix minutes, te fait poser une main sur la poitrine et lui dire : « Je reste avec toi pendant que ça passe. »"
      ]
     },
     {
      "h2": "Par où commencer",
      "p": [
-      "Les séances sur les peurs sont courtes, de sept à treize minutes : « La peur du jugement », « La peur de l’échec ». Pour aller plus loin, essaie « Travail de l’Ombre ». Pour le pardon de soi, choisis « Se Pardonner à Soi-Même » : une méditation pour se pardonner sans s’accabler."
+      "Les séances sur les peurs sont courtes, de sept à treize minutes : « La peur du jugement », « La peur de l’échec ». Pour aller plus loin, essaie « Travail de l’Ombre ». Pour le pardon de soi, choisis « Se Pardonner à Soi-Même » : une méditation pour se pardonner sans s’accabler.",
+      "Si c’est la peur du jugement des autres qui te pèse, « La peur du jugement » aide, en sept minutes, à desserrer l’impression d’être observé.",
+      "Comment ne plus avoir peur ? On ne fait pas taire une peur : on apprend à rester près d’elle sans se laisser emporter. C’est ce que t’apprennent ces séances courtes, une peur à la fois."
      ]
     }
    ]
   },
   "sacred": {
    "slug": "meditation-lieux-sacres",
-   "seo": "Méditation spirituelle guidée dans des lieux sacrés",
-   "desc": "Méditation spirituelle guidée dans des lieux sacrés : l’arbre de la Bodhi, Stonehenge, les aurores. {n} séances de {min} à {max} min, gratuites, sans pub.",
+   "seo": "Lieux sacrés du monde : {n} méditations spirituelles guidées",
+   "desc": "Méditation spirituelle guidée dans les lieux sacrés du monde : l’arbre de la Bodhi, Stonehenge, les aurores. {n} séances de {min} à {max} min, gratuites, sans pub.",
    "h1": "Les lieux sacrés du monde, en méditation guidée",
    "intro": [
-    "Sept séances de 13 à 17 minutes t’emmènent, en imagination, dans des lieux sacrés chargés de silence. Tu t’assieds sous l’arbre de la Bodhi, près d’une pagode ancienne au milieu des lotus, dans un sanctuaire taoïste au-dessus d’une mer de nuages ou au centre de Stonehenge avant l’aube. D’autres séances te conduisent sur une falaise écossaise face à l’océan, dans une grotte de glace bleue ou sous les aurores boréales.",
-    "Ces séances de niveau intermédiaire s’appuient sur des images précises — le vent, la pluie, la lumière — pour stabiliser l’attention. Elles conviennent à celles et ceux qui aiment méditer à travers un paysage plutôt qu’à partir du seul souffle."
+    "Sept séances de 13 à 17 minutes t’emmènent, en imagination, dans des lieux sacrés chargés de silence. Chacune est une méditation spirituelle guidée, ouverte à toutes les convictions. Tu t’assieds sous l’arbre de la Bodhi, près d’une pagode ancienne au milieu des lotus, dans un sanctuaire taoïste au-dessus d’une mer de nuages ou au centre de Stonehenge avant l’aube. D’autres séances te conduisent sur une falaise écossaise face à l’océan, dans une grotte de glace bleue ou sous les aurores boréales.",
+    "Ces séances de niveau intermédiaire s’appuient sur des images précises — le vent, la pluie, la lumière — pour stabiliser l’attention. Elles conviennent à celles et ceux qui aiment méditer à travers un paysage plutôt qu’à partir du seul souffle. C’est un petit pèlerinage spirituel, sans quitter ta chambre."
    ],
    "faq": [
     [
@@ -310,6 +380,10 @@
     [
      "Faut-il connaître ces lieux pour méditer ?",
      "Non. La voix décrit chaque lieu en détail. Tu n’as qu’à te laisser guider."
+    ],
+    [
+     "Ces lieux sacrés sont-ils des lieux énergétiques ?",
+     "Beaucoup de visiteurs disent ressentir une énergie particulière à Stonehenge ou au pied de l’arbre de la Bodhi. Rien ne permet de la mesurer. Ce qui est sûr, c’est que le silence, l’ancienneté et la beauté d’un lieu aident l’attention à se poser. Les séances s’appuient là-dessus, sans rien te demander de croire."
     ]
    ],
    "guide": [
@@ -317,13 +391,22 @@
      "h2": "Méditer dans les lieux sacrés du monde",
      "p": [
       "Chaque séance t’emmène, en imagination, dans un lieu où l’on médite depuis longtemps : sous l’arbre de la Bodhi, au centre de Stonehenge, dans un sanctuaire taoïste.",
-      "Tu y poses ton attention, tu écoutes, tu respires avec le lieu."
+      "Tu y poses ton attention, tu écoutes, tu respires avec le lieu.",
+      "L’arbre de la Bodhi est sans doute le plus vénéré de ces lieux : selon la tradition, le Bouddha y a atteint l’éveil, à Bodh-Gaya, en Inde. Tu aimes la méditation de l’arbre ? Elle t’attend aussi dans L’Arbre de Conscience, l’un des 17 mondes immersifs."
      ]
     },
     {
      "h2": "Pour un premier voyage",
      "p": [
-      "« Au centre de Stonehenge » et « La falaise écossaise face à l’océan » durent treize minutes : une belle porte d’entrée."
+      "« Au centre de Stonehenge » et « La falaise écossaise face à l’océan » durent treize minutes : une belle porte d’entrée.",
+      "Envie d’un voyage spirituel plus long ? Enchaîne deux lieux, par exemple la falaise écossaise puis Stonehenge : vingt-six minutes loin de tout."
+     ]
+    },
+    {
+     "h2": "Comment faire une méditation spirituelle ?",
+     "p": [
+      "Une méditation spirituelle n’a pas besoin de dogme. Il lui faut un lieu qui t’inspire le respect, un moment de silence et une intention simple, comme remercier ou poser une question.",
+      "Assieds-toi, ferme les yeux, laisse le souffle ralentir. Puis entre dans le lieu : regarde, écoute, sens l’air sur ta peau. Tu ne cherches rien de spectaculaire. Tu restes là, attentif, un peu plus longtemps que d’habitude. Chaque séance te guide ainsi, puis te laisse du silence."
      ]
     }
    ]
@@ -334,7 +417,7 @@
    "desc": "Méditation pour rencontrer son guide spirituel : {n} voyages de {min} à {max} min, guide de lumière, conseil des guides. Sans dogme, gratuit, sans pub.",
    "h1": "Méditation pour rencontrer son guide spirituel",
    "intro": [
-    "Cinq séances de 16 à 26 minutes pour rencontrer les voix qui t’accompagnent. Tu peux recevoir la chaleur d’un guide de lumière et la garder quand il se retire, consulter un conseil de cinq guides sur une question avant de prendre toi-même la sixième place, ou remercier une à une les personnes qui ont compté. Une séance te donne un nom et un signe pour retrouver cet état intérieur, une autre descend dix marches vers une eau calme.",
+    "Cinq séances de méditation guidée, de 16 à 26 minutes, pour rencontrer ton guide spirituel et les voix qui t’accompagnent. Tu peux recevoir la chaleur d’un guide de lumière et la garder quand il se retire, consulter un conseil de cinq guides sur une question avant de prendre toi-même la sixième place, ou remercier une à une les personnes qui ont compté. Une séance te donne un nom et un signe pour retrouver cet état intérieur, une autre descend dix marches vers une eau calme.",
     "Ces séances sont de niveau intermédiaire. Chacun reste libre d’interpréter ce qu’il rencontre : une présence, une figure symbolique ou un guide intérieur. L’essentiel est ce que tu vis pendant la séance."
    ],
    "faq": [
@@ -353,6 +436,14 @@
     [
      "Comment communiquer avec ses guides spirituels ?",
      "Commence par te détendre, puis pose une question simple. Laisse venir ce qui se présente : une image, un mot, une sensation. « Le conseil des guides » t’apprend à consulter cinq guides sur un problème, puis à prendre toi-même la sixième place."
+    ],
+    [
+     "Existe-t-il une méditation pour rencontrer son ange gardien ?",
+     "Si c’est ainsi que tu nommes la présence qui t’accompagne, oui. « Le guide de lumière » te laisse libre de lui donner le visage qui te parle : ange gardien, ancêtre ou figure de sagesse. La séance ne tranche pas. Elle t’invite à recevoir la chaleur de ce guide, puis à la garder quand il se retire."
+    ],
+    [
+     "Comment connaître le nom de son guide spirituel ?",
+     "Dans « Le nom et le signe », tu demandes simplement un nom, puis tu accueilles le premier qui vient, sans le juger : un prénom, un mot, parfois un son. Il n’a pas à figurer dans une liste. Il te sert surtout de repère pour retrouver plus vite cet état intérieur."
     ]
    ],
    "guide": [
@@ -360,7 +451,8 @@
      "h2": "Rencontrer son guide spirituel, pas à pas",
      "p": [
       "Tu commences par te détendre et créer un lieu intérieur paisible. Puis une présence vient à ta rencontre. Pour certains, c’est un ange de lumière. Pour d’autres, une silhouette, un animal ou une simple sensation.",
-      "Il n’y a pas de bonne forme. Accueille ce qui se présente, sans forcer."
+      "Il n’y a pas de bonne forme. Accueille ce qui se présente, sans forcer.",
+      "Après la séance, note ce que tu as reçu dans le journal spirituel de l’application, même si c’est peu de chose. Relis-le quelques jours plus tard : le recul fait le tri."
      ]
     },
     {
@@ -373,11 +465,11 @@
   },
   "higherKnowledge": {
    "slug": "meditation-annales-akashiques",
-   "seo": "Annales akashiques : méditation guidée et retrouvailles",
-   "desc": "Annales akashiques : {n} méditations guidées de {min} à {max} min pour consulter le gardien des archives et retrouver un être cher disparu. Gratuit, sans pub.",
+   "seo": "Annales akashiques : méditation guidée gratuite de 24 min",
+   "desc": "Annales akashiques, ou archives akashiques : {n} méditations guidées de {min} à {max} min pour consulter le gardien des archives et retrouver un proche disparu.",
    "h1": "Annales akashiques et retrouvailles : savoirs supérieurs",
    "intro": [
-    "Trois séances de 24 à 25 minutes pour un voyage vers ce qui te dépasse, des annales akashiques aux retrouvailles. Le gardien des archives t’apprend à distinguer ce que l’esprit invente de ce qui semble venir tout seul. Le jardin des retrouvailles t’invite à dire les mots restés en suspens, puis à sentir ce qui se transmet d’une génération à l’autre. Mon animal parti t’aide à retrouver le lien avec un animal disparu à travers les souvenirs du quotidien.",
+    "Trois séances de 24 à 25 minutes pour un voyage vers ce qui te dépasse, des annales akashiques (ou archives akashiques) aux retrouvailles. Le gardien des archives t’apprend à distinguer ce que l’esprit invente de ce qui semble venir tout seul. Le jardin des retrouvailles t’invite à dire les mots restés en suspens, puis à sentir ce qui se transmet d’une génération à l’autre. Mon animal parti t’aide à retrouver le lien avec un animal disparu à travers les souvenirs du quotidien.",
     "Ces séances sont de niveau intermédiaire. Chaque méditation guidée, annales akashiques comprises, relève de l’exploration intérieure. Aucune ne prétend établir un fait. Toutes offrent un espace pour se souvenir, remercier et faire la part entre imagination et intuition. Prends le temps de revenir doucement à la fin de chaque séance."
    ],
    "faq": [
@@ -396,28 +488,45 @@
     [
      "Peut-on vraiment accéder aux annales akashiques ?",
      "Personne ne peut le prouver, et la séance ne le prétend pas. Dans cette méditation, annales akashiques et bibliothèque restent des images, pour explorer ton intuition avec prudence. Ce que tu y vis t’appartient."
+    ],
+    [
+     "Les annales akashiques présentent-elles un danger ?",
+     "La séance est un voyage imaginaire, que tu peux interrompre à tout moment. Le vrai risque est ailleurs : prendre une image pour une certitude, ou décider quelque chose d’important sur cette seule base. Garde du recul. Après un deuil récent, avance doucement."
+    ],
+    [
+     "Faut-il une consultation pour lire les annales akashiques ?",
+     "Non. Des praticiens proposent une lecture des annales akashiques en consultation, souvent payante. Ici, tu explores seul, gratuitement et à ton rythme. Ce que tu y trouves reste une piste de réflexion, jamais un verdict."
     ]
    ],
    "guide": [
     {
+     "h2": "Les annales akashiques, c’est quoi ?",
+     "p": [
+      "Définition courte : les annales akashiques seraient une mémoire immatérielle où resterait la trace de chaque vie, de chaque parole, de chaque pensée. Le mot vient du sanskrit ākāśa, « éther » ou « espace ». À la fin du XIXe siècle, la théosophie en a fait une sorte de grand livre de l’univers. On parle aussi de mémoires ou de registres akashiques.",
+      "Rien de cela ne se prouve : c’est une croyance pour les uns, une image pour les autres."
+     ]
+    },
+    {
      "h2": "Les annales akashiques, une bibliothèque intérieure",
      "p": [
       "Selon certaines traditions, les annales akashiques gardent la mémoire de chaque âme. Ici, tu les explores comme une bibliothèque intérieure, avec un gardien qui t’accueille.",
-      "Ces mémoires akashiques se vivent comme un voyage symbolique, sans attente ni promesse."
+      "Ces mémoires akashiques se vivent comme un voyage symbolique, sans attente ni promesse.",
+      "La bibliothèque akashique sert aussi de décor à La Bibliothèque Céleste, l’un des 17 mondes immersifs de l’application."
      ]
     },
     {
      "h2": "Des retrouvailles en douceur",
      "p": [
-      "« Le jardin des retrouvailles » et « Mon animal parti » t’offrent un moment de tendresse avec un être aimé, dans un cadre doux et paisible."
+      "« Le jardin des retrouvailles » et « Mon animal parti » t’offrent un moment de tendresse avec un être aimé, dans un cadre doux et paisible.",
+      "« Mon animal parti » est une méditation de deuil animal, tout en douceur, autour des souvenirs du quotidien."
      ]
     }
    ]
   },
   "shamanic": {
    "slug": "meditation-chamanique-guidee",
-   "seo": "Méditation chamanique : quête de vision et objet de pouvoir",
-   "desc": "Méditation chamanique : {n} voyages guidés de {min} à {max} min, quête de vision chamanique, feu des anciens, objet de pouvoir. Gratuit, sans pub.",
+   "seo": "Méditation chamanique : {n} voyages guidés, quête de vision",
+   "desc": "Méditation chamanique : {n} voyages chamaniques guidés de {min} à {max} min, quête de vision, feu des anciens, objet de pouvoir. Gratuit, sans pub, hors ligne.",
    "h1": "Méditation chamanique guidée",
    "intro": [
     "Quatre voyages de méditation chamanique, de 23 à 30 minutes, inspirés des mondes d’en bas, d’en haut et du milieu. La quête de vision te fait marcher, attendre et laisser venir ce qui doit être vu. Au feu des anciens, tu observes les figures qui s’y rassemblent sans leur imposer de message. Tu traces aussi un cercle de protection à partir d’un élément — terre, eau, feu ou air — et reviens d’un voyage avec un objet de pouvoir.",
@@ -439,6 +548,14 @@
     [
      "Qu’est-ce qu’une quête de vision chamanique ?",
      "Dans plusieurs traditions, c’est un temps passé seul dans la nature, à attendre qu’une vision se présente. La séance La quête de vision s’en inspire, en imagination. Tu marches, tu attends, puis tu laisses venir ce qui doit être vu."
+    ],
+    [
+     "Peut-on écouter une méditation chamanique pour dormir ?",
+     "Ce n’est pas leur rôle : ces voyages demandent de rester éveillé, et chacun se termine par un retour pas à pas. Si tu t’endors en route, rien de grave : tu auras simplement manqué la fin. Pour le coucher, choisis plutôt « Glissement vers le sommeil », dans la catégorie Corps, calme & sommeil."
+    ],
+    [
+     "Quelle est la méditation chamanique la plus puissante ?",
+     "Aucune ne l’est par nature : tout dépend de ce que tu traverses. La plus dépouillée est « La quête de vision » : trente minutes où tu marches, attends et laisses venir. Ce qui donne de la force à une séance, c’est surtout le temps que tu lui accordes : un lieu calme, des écouteurs, quelques minutes de silence ensuite."
     ]
    ],
    "guide": [
@@ -446,13 +563,20 @@
      "h2": "Le voyage chamanique guidé",
      "p": [
       "Dans les traditions chamaniques, le tambour accompagne un voyage intérieur. Tu traverses un paysage, tu rencontres des présences et tu reviens avec quelque chose : une image, un objet, une réponse.",
-      "Ici, pas de tambour chamanique. Méditation et voyage suivent la voix, à l’aller comme au retour, au rythme du souffle."
+      "Ici, pas de tambour chamanique. Méditation et voyage suivent la voix, à l’aller comme au retour, au rythme du souffle.",
+      "Dans l’application, ces voyages forment la catégorie Transe Chamanique : une transe légère, où tu restes conscient du début à la fin."
      ]
     },
     {
      "h2": "Par quelle méditation chamanique commencer ?",
      "p": [
       "« Le cercle de protection », vingt-trois minutes, pose un cadre rassurant. Ensuite, « Le feu des anciens » et « La quête de vision » vont plus loin. Enfin, dans « Le retour avec un objet de pouvoir », chamanisme et imagination se rejoignent."
+     ]
+    },
+    {
+     "h2": "Méditation chamanique et animal totem : où le rencontrer ?",
+     "p": [
+      "Ces voyages ne partent pas à la recherche d’un animal. Si c’est l’animal totem, ou animal de pouvoir, qui t’appelle, va plutôt dans La Forêt des Esprits Loups, l’un des 17 mondes immersifs. Tu y marches au clair de lune, parmi d’anciens esprits loups."
      ]
     }
    ]
@@ -486,6 +610,18 @@
     [
      "Peut-on pratiquer le bouddhisme zen avec ces séances ?",
      "Pas tout à fait. La méditation bouddhiste zen repose surtout sur l’assise silencieuse, alors que ces séances suivent les grands bodhisattvas. Pour une méditation zen, essaie plutôt le Jardin Zen, l’un des 17 mondes immersifs."
+    ],
+    [
+     "La méditation bouddhiste convient-elle à un débutant ?",
+     "Oui, si tu aimes les récits : chaque séance présente la figure rencontrée, sans supposer que tu la connais déjà. Les séances durent toutefois de {min} à {max} minutes et sont de niveau intermédiaire. Si tu n’as jamais médité, commence par la catégorie Apprentissage, puis reviens à « Les onze visages d’Avalokiteśvara »."
+    ],
+    [
+     "Méditation bouddhiste du matin ou du soir : quand pratiquer ?",
+     "Les deux conviennent. Le matin, « L’épée de Mañjuśrī » t’aide à y voir clair avant la journée. Le soir, « Les onze visages d’Avalokiteśvara » t’invite à répondre avec douceur à ce qui s’est passé. Aucune n’est une méditation bouddhiste pour dormir : ces séances demandent de rester attentif. Pour le coucher, vois plutôt la catégorie Corps, calme & sommeil."
+    ],
+    [
+     "Méditation bouddhiste ou bouddhique : quelle différence ?",
+     "Aucune sur le fond. « Bouddhique » appartient plutôt au vocabulaire des livres et des historiens, « bouddhiste » à la langue courante. Appliqués à la méditation, les deux adjectifs désignent les mêmes pratiques, héritées du Bouddha. Tu peux donc lire l’un pour l’autre sans te tromper."
     ]
    ],
    "guide": [
@@ -501,22 +637,28 @@
      "p": [
       "Commence par « Les onze visages d’Avalokiteśvara », qui ouvre le cœur à la compassion. Dans le jardin du bouddha Maitreya, tu rencontres ensuite la personne que tu deviens. Pour gagner en clarté, deux séances suivent le bodhisattva Manjushri (Mañjuśrī) : son épée, puis son lion. Tu aimes la méditation bouddhiste tibétaine ? « Tārā et les huit grands dangers » suit une figure très chère au Tibet. Pas besoin de cours de méditation bouddhiste en ligne : chaque séance te guide pas à pas."
      ]
+    },
+    {
+     "h2": "La méditation du Bouddha : d’où viennent ces pratiques ?",
+     "p": [
+      "Selon la tradition, le Bouddha s’est éveillé en méditant sous un arbre, à Bodh-Gaya, l’attention posée sur le souffle. Toute la méditation bouddhique vient de cette assise. Des siècles plus tard, le Grand Véhicule (mahāyāna) y a ajouté la contemplation des bodhisattvas : c’est ce courant que suivent ces séances."
+     ]
     }
    ]
   },
   "qigong": {
    "slug": "meditation-qi-gong-guidee",
-   "seo": "Qi Gong en ligne : méditation guidée pour sentir le Qi",
-   "desc": "Qi gong en ligne gratuit, sans cours payant. {n} séances guidées de {min} à {max} min pour sentir le Qi dans les mains et le corps. Sans pub, sans compte.",
+   "seo": "Qi Gong en ligne gratuit : {n} méditations pour sentir le Qi",
+   "desc": "Qi gong en ligne gratuit, sans cours payant : {n} méditations guidées de {min} à {max} min pour sentir le Qi dans les mains et le corps. Sans pub, sans compte.",
    "h1": "Qi Gong en ligne et méditation guidée",
    "intro": [
-    "Voici du Qi Gong en ligne, sur ton téléphone. Quatre séances de 20 à 25 minutes pour sentir le corps en mouvement intérieur. Une balle imaginaire entre les paumes apprend aux mains à percevoir une chaleur douce. La petite circulation te fait suivre une perle qui descend depuis le ventre, remonte par le dos et boucle. Dans l’arbre immobile, tu tiens debout, les bras autour d’un ballon imaginaire, enraciné sans forcer. La dernière séance passe au Qi Gong en mouvement, lent et fluide.",
+    "Voici du Qi Gong en ligne, sur ton téléphone. Quatre séances de méditation Qi Gong, de 20 à 25 minutes, pour sentir le corps en mouvement intérieur. Une balle imaginaire entre les paumes apprend aux mains à percevoir une chaleur douce. La petite circulation te fait suivre une perle qui descend depuis le ventre, remonte par le dos et boucle. Dans l’arbre immobile, tu tiens debout, les bras autour d’un ballon imaginaire, enraciné sans forcer. La dernière séance passe au Qi Gong en mouvement, lent et fluide.",
     "Ces séances de niveau intermédiaire se pratiquent assis ou debout selon la séance, dans un espace où tu peux bouger un peu. Elles ne demandent aucune expérience. Pas besoin de cours de Qi Gong en ligne : la voix décrit chaque geste et chaque sensation, sans rien exiger."
    ],
    "faq": [
     [
      "Qu’est-ce que la petite circulation ?",
-     "C’est un exercice classique du Qi Gong, où l’attention suit un trajet en boucle le long du corps. Dans la séance, une perle imaginaire descend depuis le ventre, remonte par le dos et boucle, pour t’aider à suivre ce chemin pendant 22 minutes."
+     "C’est un exercice classique du Qi Gong, où l’attention suit un trajet en boucle le long du corps : on l’appelle aussi orbite microcosmique. Dans la séance, une perle imaginaire descend depuis le ventre, remonte par le dos et boucle, pour t’aider à suivre ce chemin pendant 22 minutes."
     ],
     [
      "Faut-il savoir faire du Qi Gong ?",
@@ -524,7 +666,7 @@
     ],
     [
      "Le Qi Gong, c’est de la méditation ?",
-     "C’est une méditation en mouvement, ou en sensations. Ici, chaque méditation Qi Gong te fait sentir l’énergie dans ton corps, sans connaissances préalables."
+     "C’est une méditation chinoise en mouvement, ou en sensations. Ici, chaque méditation Qi Gong te fait sentir l’énergie dans ton corps, sans connaissances préalables."
     ],
     [
      "Peut-on faire du Qi Gong gratuit, sans cours ?",
@@ -533,6 +675,14 @@
     [
      "Peut-on faire du Qi Gong 10 minutes par jour ?",
      "Oui, c’est un bon début. Les séances guidées durent de 20 à 25 minutes, mais tu peux t’arrêter plus tôt et reprendre le lendemain. La régularité compte plus que la durée."
+    ],
+    [
+     "Comment tenir la posture de l’arbre en Qi Gong ?",
+     "Debout, les pieds à la largeur des épaules, les genoux un peu fléchis, tu lèves les bras devant toi comme pour entourer un grand ballon, les épaules basses. « L’arbre immobile » te guide pendant 23 minutes. C’est aussi un bon exercice d’ancrage : le poids descend dans les pieds, la tête s’élève. Si une douleur apparaît, baisse les bras."
+    ],
+    [
+     "Qi Gong du matin ou du soir : quand pratiquer ?",
+     "Les deux conviennent. Pour un Qi Gong du matin, choisis une séance debout, comme « L’arbre immobile » ou « La danse du Qi », qui met le corps en route. Le soir, préfère une séance assise, comme « La petite circulation ». Le plus important reste de garder la même heure, jour après jour."
     ]
    ],
    "guide": [
@@ -554,18 +704,21 @@
     {
      "h2": "Qi Gong en ligne : sentir le Qi pour la première fois",
      "p": [
-      "Commence par « Les mains qui chauffent » : une balle imaginaire entre tes paumes, et une douce chaleur apparaît. Puis passe à « L’arbre immobile ». Cette posture de l’arbre, Qi Gong debout par excellence, est aussi une méditation d’ancrage."
+      "Qu’est-ce que le Qi ? Dans la tradition chinoise, le mot désigne le souffle, l’énergie vitale qui anime le corps. Tu n’as pas à y croire pour pratiquer : tu observes seulement ce que tes mains et ton corps ressentent.",
+      "Commence par « Les mains qui chauffent » : une balle imaginaire entre tes paumes, et une douce chaleur apparaît. Puis passe à « L’arbre immobile ». Cette posture de l’arbre, Qi Gong debout par excellence, est aussi une méditation d’ancrage.",
+      "Ces exercices de Qi Gong en ligne se suivent dans l’ordre : sentir, faire circuler, s’enraciner, puis bouger. « La danse du Qi » enchaîne alors des mouvements de Qi Gong lents et fluides, que tu suis à ton rythme.",
+      "Tu préfères commencer par quelques gestes simples ? Notre article « Qi gong débutant » propose cinq mouvements à faire en dix minutes, avant de passer aux séances guidées."
      ]
     }
    ]
   },
   "visualisation": {
    "slug": "visualisation-guidee",
-   "seo": "Techniques de visualisation : {n} séances guidées, gratuites",
-   "desc": "Techniques de visualisation pour qui « ne voit rien » : un sens à la fois. {n} exercices de visualisation guidés de {min} à {max} min, gratuits, sans pub.",
-   "h1": "Comment visualiser : des techniques de visualisation pas à pas",
+   "seo": "Visualisation mentale : {n} techniques guidées et gratuites",
+   "desc": "Visualisation mentale pour qui « ne voit rien » : {n} techniques de visualisation guidées de {min} à {max} min, un sens à la fois. Gratuit, sans pub.",
+   "h1": "Comment visualiser : des techniques de visualisation mentale pas à pas",
    "intro": [
-    "Six séances de 16 à 29 minutes pour apprendre des techniques de visualisation, un sens après l’autre. Tu suis des yeux un papillon et la rafale qui le déporte, sens le poids et le froid d’une clé posée dans ta main, écoutes un bol chantant s’approcher de loin. Puis les trois sens se réunissent : au sommet d’un volcan éteint, dans le cockpit d’un vaisseau qui explore la galaxie, ou dans une pièce que tu connais par cœur.",
+    "Six séances de 16 à 29 minutes pour apprendre des techniques de visualisation mentale, un sens après l’autre. Tu suis des yeux un papillon et la rafale qui le déporte, sens le poids et le froid d’une clé posée dans ta main, écoutes un bol chantant s’approcher de loin. Puis les trois sens se réunissent : au sommet d’un volcan éteint, dans le cockpit d’un vaisseau qui explore la galaxie, ou dans une pièce que tu connais par cœur.",
     "Ces exercices de visualisation mentale, de niveau intermédiaire, conviennent si tu trouves la visualisation difficile. Ils avancent pas à pas, sans exiger une image parfaite. Ils préparent aussi aux catégories plus imaginatives, comme les mondes immersifs ou les séances du troisième œil. Pour un exercice de visualisation, relaxation comprise, essaie « Le corps sous une cascade », dans la catégorie Corps, calme & sommeil."
    ],
    "faq": [
@@ -588,9 +741,24 @@
     [
      "Méditation, visualisation : quelle différence ?",
      "La méditation pose l’attention sur ce qui est là : le souffle, le corps, les sons. La visualisation construit en imagination des images, des sons ou des sensations. Ces séances se servent de la seconde pour entraîner la première."
+    ],
+    [
+     "La visualisation mentale me semble impossible : que faire ?",
+     "Certaines personnes n’ont presque aucune image mentale : cela porte un nom, l’aphantasie, et ce n’est pas un défaut. On peut imaginer autrement : sentir un poids, entendre un son, situer un objet dans l’espace. C’est pour cela que ces séances travaillent aussi le toucher et l’ouïe, pas seulement la vue."
+    ],
+    [
+     "Quelle différence avec les techniques de visualisation créatrice ?",
+     "La visualisation créatrice, rendue célèbre par le livre de Shakti Gawain, consiste à imaginer ce que l’on souhaite voir arriver dans sa vie. Ces séances travaillent en amont : elles entraînent la capacité même d’imaginer, un sens à la fois, sans objectif à atteindre. Une image stable servira ensuite à toutes les autres pratiques."
     ]
    ],
    "guide": [
+    {
+     "h2": "Qu’est-ce que la visualisation mentale ? Définition simple",
+     "p": [
+      "La visualisation mentale, c’est construire volontairement, en imagination, une scène que tu ne perçois pas : une image, mais aussi un son, un poids, une température. On dit aussi imagerie mentale : c’est un synonyme de visualisation.",
+      "Les sportifs et les musiciens s’en servent pour répéter un geste avant de le faire. Ici, tu t’en sers pour entraîner l’attention et rendre tes images intérieures plus stables."
+     ]
+    },
     {
      "h2": "Imagerie mentale dirigée : entraîner ton œil intérieur",
      "p": [
@@ -602,6 +770,13 @@
      "h2": "Techniques de visualisation : par quel sens commencer ?",
      "p": [
       "Commence par « Entendre — Le bol chantant lointain », puis « Toucher — La clé dans la main ». Quand ces sens sont faciles, les séances « Les trois sens réunis » t’emmènent au sommet d’un volcan ou dans la galaxie."
+     ]
+    },
+    {
+     "h2": "Méditation avec visualisation : comment se déroule une séance ?",
+     "p": [
+      "Chaque séance commence les yeux fermés, souvent par une sensation bien réelle : ta main, les sons de la pièce. Vient ensuite un seul objet à imaginer : un papillon, une clé, un bol chantant. La voix te fait préciser un détail à la fois (sa trajectoire, son poids, sa distance), puis te laisse seul avec l’image.",
+      "Si l’image s’efface, ce n’est pas un échec : tu reviens au dernier détail net, et tu repars de là."
      ]
     }
    ]
@@ -631,6 +806,14 @@
     [
      "Est-ce un conte pour dormir ?",
      "Adulte, tu peux t’y laisser raconter une histoire, mais pas pour t’endormir : chaque voyage se termine les yeux ouverts. Pour la nuit, choisis plutôt « Glissement vers le sommeil », dans la catégorie Corps, calme & sommeil."
+    ],
+    [
+     "Faut-il de l’imagination pour un voyage imaginaire ?",
+     "Pas plus que pour écouter une histoire. La voix décrit le lieu, les sons, les gestes ; tu n’as qu’à suivre. Certaines personnes voient des images nettes, d’autres ressentent surtout une ambiance : les deux conviennent. Si la visualisation guidée t’intéresse pour elle-même, la catégorie Visualisation t’entraîne un sens à la fois."
+    ],
+    [
+     "Quel voyage imaginaire choisir pour commencer ?",
+     "« La planète inconnue » est le plus court et le plus libre : tu explores un monde où rien n’est connu d’avance. Si tu préfères l’histoire, pars pour Versailles en 1700 ou sur la route de Kyoto en 1600, en prévoyant une bonne demi-heure. « Le train des souvenirs », lui, regarde plutôt vers ta propre vie."
     ]
    ],
    "guide": [
@@ -638,7 +821,15 @@
      "h2": "Un voyage imaginaire en une séance",
      "p": [
       "Ici, la méditation devient une aventure : une journée à Versailles en 1700, la route de Kyoto en 1600, une planète inconnue.",
-      "Tu n’as rien à apprendre : chaque voyage est une histoire relaxante. Adulte, tu retrouves le plaisir de te laisser porter, comme dans un beau rêve éveillé."
+      "Tu n’as rien à apprendre : chaque voyage est une histoire relaxante. Adulte, tu retrouves le plaisir de te laisser porter, comme dans un beau rêve éveillé.",
+      "Ces histoires ne sont pas faites pour t’endormir : chacune se termine les yeux ouverts. Pour le coucher, choisis plutôt une méditation pour dormir, comme « Glissement vers le sommeil »."
+     ]
+    },
+    {
+     "h2": "Voyage imaginaire et relaxation : comment ça marche ?",
+     "p": [
+      "Un voyage imaginaire est une relaxation guidée par le récit. Au lieu de surveiller ton souffle, tu suis une scène : les salutations de la cour à Versailles, la route de Kyoto qui tourne, les gares du train des souvenirs. Les détails occupent l’attention, et le corps se relâche sans que tu aies à le lui demander.",
+      "C’est aussi une méditation, un voyage intérieur : tu restes présent à ce que tu vois, entends et ressens, sans juger ce qui vient."
      ]
     },
     {
@@ -651,11 +842,11 @@
   },
   "thirdEye": {
    "slug": "meditation-troisieme-oeil",
-   "seo": "Troisième œil : méditation guidée, gratuite et en français",
-   "desc": "Ouvrir le troisième œil sans forcer : {n} méditations guidées de {min} à {max} min sur le point entre les sourcils. Niveau avancé, gratuit, sans pub.",
+   "seo": "Troisième œil (ajna chakra) : méditation guidée gratuite",
+   "desc": "Ouvrir le troisième œil (ajna chakra) sans forcer : {n} méditations guidées de {min} à {max} min sur le point entre les sourcils. Niveau avancé, gratuit, sans pub.",
    "h1": "Troisième œil : méditation guidée",
    "intro": [
-    "Cinq séances de 22 à 26 minutes centrées sur le troisième œil, ce point entre les sourcils. Tu apprends d’abord à passer du regard tourné vers l’extérieur au regard tourné vers l’intérieur, puis à faire naître une image au centre du front, à la tenir et à la laisser disparaître. Une séance t’apprend à attendre, sans rien construire, l’image qui apparaît seule. Tu franchis enfin la porte d’Ajna et regardes un mandala continuer à se construire seul.",
+    "Cinq séances de 22 à 26 minutes centrées sur le troisième œil, ou ajna chakra, ce point entre les sourcils. Tu apprends d’abord à passer du regard tourné vers l’extérieur au regard tourné vers l’intérieur, puis à faire naître une image au centre du front, à la tenir et à la laisser disparaître. Une séance t’apprend à attendre, sans rien construire, l’image qui apparaît seule. Tu franchis enfin la porte d’Ajna et regardes un mandala continuer à se construire seul.",
     "Ces séances sont de niveau avancé. Elles s’apprécient mieux après une pratique régulière de la visualisation, car elles demandent de tenir une image, puis de lâcher tout contrôle. Commence par « Le troisième œil et les deux yeux », ta première méditation. Troisième œil et regard intérieur s’y découvrent pas à pas. Suis ensuite l’ordre proposé."
    ],
    "faq": [
@@ -670,6 +861,14 @@
     [
      "Comment méditer sur le troisième œil ?",
      "Assieds-toi, pose doucement ton attention entre les sourcils et laisse venir ce qui apparaît. La séance « L’œil intérieur s’éveille » t’accompagne pas à pas."
+    ],
+    [
+     "Où se trouve le chakra du troisième œil ?",
+     "Entre les sourcils, un peu au-dessus de la racine du nez, selon la tradition du yoga. C’est le sixième des sept chakras principaux : son nom sanskrit, ajna, veut dire « commandement ». Dans ces séances, c’est simplement l’endroit où tu poses ton attention pour laisser venir les images."
+    ],
+    [
+     "Le troisième œil donne-t-il des pouvoirs ?",
+     "Les traditions lui prêtent la clairvoyance et l’intuition. Ici, rien de tel n’est promis. Le pouvoir du troisième œil, dans ces séances, c’est d’abord celui de l’attention : apprendre à tenir une image, puis à la laisser venir seule. C’est un entraînement de l’imagination, pas un don."
     ]
    ],
    "guide": [
@@ -677,24 +876,28 @@
      "h2": "Le troisième œil : vision intérieure et intuition",
      "p": [
       "Ajna, sixième chakra, troisième œil : trois noms pour le point entre les sourcils, dans la tradition du yoga. En y posant ton attention, tu laisses venir des images intérieures, sans les chercher. Pendant la méditation, intuition et imagination se mêlent librement.",
+      "La signification du troisième œil change d’une tradition à l’autre : œil de Shiva dans l’hindouisme, point de sagesse au front du Bouddha, et partout le symbole d’un regard tourné vers l’intérieur.",
+      "On relie souvent le troisième œil à la glande pinéale, une petite glande située au centre du cerveau. Le rapprochement est surtout symbolique : notre article « Glande pinéale et troisième œil » fait la part du mythe et de l’intuition.",
+      "Dans plusieurs traditions, ouvrir cet œil intérieur est une étape de l’éveil spirituel. Ici, c’est d’abord un exercice d’attention.",
       "Ces séances sont avancées : mieux vaut être à l’aise avec la visualisation."
      ]
     },
     {
      "h2": "Comment ouvrir son troisième œil, étape par étape",
      "p": [
-      "L’éveil du troisième œil commence par « L’œil intérieur s’éveille ». Puis essaie « L’image qui apparaît seule » et « Le mandala qui se construit seul », où tu observes sans rien diriger."
+      "L’éveil du troisième œil commence par « L’œil intérieur s’éveille ». Puis essaie « L’image qui apparaît seule » et « Le mandala qui se construit seul », où tu observes sans rien diriger.",
+      "Une méditation d’ouverture du troisième œil ne force rien : tu poses l’attention entre les sourcils, sans loucher ni froncer, et tu attends. Si une tension monte dans le front, relâche et reviens au souffle."
      ]
     }
    ]
   },
   "cosmic": {
    "slug": "meditation-non-duelle-guidee",
-   "seo": "Non-dualité et éveil spirituel : méditation cosmique guidée",
-   "desc": "Éveil spirituel et non-dualité : {n} méditations avancées de {min} à {max} min pour goûter une conscience sans frontières. Gratuit, sans pub, hors ligne.",
+   "seo": "Éveil spirituel et non-dualité : méditation guidée gratuite",
+   "desc": "Éveil spirituel et non-dualité : {n} méditations avancées de {min} à {max} min pour explorer l’expansion de conscience, sans rien forcer. Gratuit, sans pub.",
    "h1": "Non-dualité et éveil spirituel : méditation cosmique",
    "intro": [
-    "Deux séances avancées sur le chemin de l’éveil spirituel : les étoiles, le vide, l’immensité intérieure. La séance Conscience non-duelle, de 28 minutes, t’invite à chercher où finit le dedans et où commence le dehors, puis à te tourner vers celui qui perçoit. La séance Expansion du corps de lumière, de 31 minutes, part de la chaleur du corps et la laisse devenir une lumière qui dépasse la peau. Deux approches d’une même question : où s’arrête ce que tu appelles « moi » ?",
+    "Deux séances avancées sur le chemin de l’éveil spirituel et de la non-dualité : les étoiles, le vide, l’immensité intérieure. La séance Conscience non-duelle, de 28 minutes, t’invite à chercher où finit le dedans et où commence le dehors, puis à te tourner vers celui qui perçoit. La séance Expansion du corps de lumière, de 31 minutes, part de la chaleur du corps et la laisse devenir une lumière qui dépasse la peau. Deux approches d’une même question : où s’arrête ce que tu appelles « moi » ?",
     "Ces séances sont de niveau avancé. Elles conviennent après une pratique régulière, quand l’attention tient d’elle-même pendant une demi-heure. Choisis un moment calme, sans contrainte horaire, et prends le temps de revenir doucement, à ton rythme, avant de te relever."
    ],
    "faq": [
@@ -707,14 +910,23 @@
      "De préférence, oui. Ces séances durent 28 et 31 minutes et demandent une attention stable. Si tu débutes, commence par la catégorie Apprentissage, puis reviens ici quand les séances plus courtes te sembleront faciles."
     ],
     [
-     "Qu’est-ce que l’éveil spirituel ?",
-     "Dans bien des traditions, c’est le moment où l’on cesse de se vivre comme séparé du reste. Ces séances ne le promettent pas : elles t’offrent un espace pour goûter, à ton rythme, une conscience plus ouverte."
+     "Qu’est-ce que l’éveil spirituel, en une définition simple ?",
+     "Dans bien des traditions, c’est le moment où l’on cesse de se vivre comme séparé du reste : conscience et éveil spirituel vont alors de pair. On parle aussi d’illumination, de réalisation ou d’éveil de soi, autant de synonymes de l’éveil spirituel. Ces séances ne le promettent pas : elles t’offrent un espace pour goûter, à ton rythme, une conscience plus ouverte."
+    ],
+    [
+     "Éveil spirituel : quels signes, quelles étapes ?",
+     "Les traditions citent quelques signes : un calme qui dépend moins des circonstances, le sentiment d’être relié à ce qui t’entoure. Elles décrivent parfois des étapes : un premier aperçu, le retour des vieilles habitudes, puis une lente stabilisation. Prends-les comme des repères, jamais comme des preuves : ces séances ne te font pas monter de niveau."
+    ],
+    [
+     "L’éveil spirituel présente-t-il un danger ?",
+     "Ces séances restent des exercices d’attention et d’imagination : tu es installé au calme, éveillé, libre d’ouvrir les yeux. Une impression de vide ou d’immensité peut surprendre. Si elle t’inquiète, arrête la séance, bouge les mains et reviens à une pratique plus simple. Et si tu traverses une période fragile, remets ces séances à plus tard."
     ]
    ],
    "guide": [
     {
      "h2": "Non-dualité et éveil de la conscience",
      "p": [
+      "Non-dualité : la définition tient en deux mots, « pas deux ». Celui qui perçoit et ce qui est perçu ne seraient pas séparés : c’est le cœur de l’advaita, en Inde, et de plusieurs courants du bouddhisme.",
       "Dans la conscience non-duelle, la frontière entre toi et le reste s’adoucit. Pendant la méditation, vide intérieur ne veut pas dire absence : il reste la présence, simple et ouverte.",
       "Ces séances sont avancées et longues, presque une demi-heure. Mieux vaut avoir déjà un peu de pratique."
      ]
@@ -729,8 +941,8 @@
   },
   "trance": {
    "slug": "meditation-reve-eveille-transe",
-   "seo": "Rêve éveillé dirigé et méditation de transe guidée",
-   "desc": "Rêve éveillé dirigé et transe douce : {n} méditations de {min} à {max} min, spirale aux 33 niveaux, bibliothèque infinie. Gratuit, sans pub, hors ligne.",
+   "seo": "Rêve éveillé dirigé : {n} méditations guidées de transe douce",
+   "desc": "Rêve éveillé dirigé et transe douce : {n} méditations guidées de {min} à {max} min, spirale aux 33 niveaux, bibliothèque infinie. Gratuit, sans pub, hors ligne.",
    "h1": "Rêve éveillé dirigé : conscience et transe",
    "intro": [
     "Sept séances de 20 à 32 minutes pour explorer d’autres états de conscience, tout en gardant le fil du corps. Tu descends une spirale de 33 niveaux au rythme du compte, tu te perds dans une bibliothèque sans fin, ou observes le seuil du sommeil : le corps s’endort, l’attention reste là. Le rêve éveillé dirigé laisse les images spontanées changer l’histoire, et d’autres séances visitent un grenier aux objets oubliés, le vide entre deux pensées ou ton soi du futur.",
@@ -748,14 +960,36 @@
     [
      "Qu’est-ce qu’une méditation de transe ?",
      "Un état de détente profonde où l’esprit reste éveillé et l’imagination très libre. La voix te guide à l’entrée comme à la sortie."
+    ],
+    [
+     "Rêve éveillé ou rêve lucide : quelle différence ?",
+     "Le rêve lucide arrive pendant le sommeil : tu rêves, et tu sais que tu rêves. Le rêve éveillé se fait sans dormir : détendu, les yeux fermés, tu laisses venir des images et tu peux t’arrêter quand tu veux. « Corps endormi, esprit éveillé » explore justement le seuil entre les deux."
+    ],
+    [
+     "Quels sont les bienfaits du rêve éveillé ?",
+     "On lui prête surtout trois choses : relâcher le corps, délier l’imagination et donner une forme, en images, à ce qu’on n’arrivait pas à dire. Rien n’est garanti, et l’expérience change d’un jour à l’autre. Ces séances restent une exploration, pas un soin."
     ]
    ],
    "guide": [
     {
+     "h2": "Rêve éveillé : définition et signification",
+     "p": [
+      "Un rêve éveillé, c’est une suite d’images que tu laisses se dérouler en restant conscient : tu ne dors pas, et tu ne décides pas de tout. En psychologie, le mot désigne d’abord la rêverie de tous les jours.",
+      "Le rêve éveillé dirigé est une méthode née en France au siècle dernier, autour de Robert Desoille : une voix propose un point de départ, les images font le reste."
+     ]
+    },
+    {
      "h2": "Le rêve éveillé dirigé",
      "p": [
       "Ton corps se détend profondément, ton esprit reste éveillé. Dans cet état, les images viennent facilement : une bibliothèque infinie, une spirale, un grenier oublié.",
-      "C’est l’état que les séances de transe t’aident à trouver."
+      "C’est l’état que les séances de transe t’aident à trouver.",
+      "On parle aussi d’état modifié de conscience. Rien d’extraordinaire : l’état hypnagogique, que tu traverses chaque soir au seuil du sommeil, en est un."
+     ]
+    },
+    {
+     "h2": "Comment faire un rêve éveillé : la technique, pas à pas",
+     "p": [
+      "La technique du rêve éveillé tient en quatre temps. Installe-toi et laisse le corps se relâcher. Pars d’une image simple : dans « Le rêve éveillé dirigé », par exemple, c’est un chemin de montagne. Avance sans corriger ce qui vient : un sommet, une grotte, un objet que tu n’avais pas prévu. Puis reviens doucement, et note ce qui t’a surpris."
      ]
     },
     {
@@ -768,8 +1002,8 @@
   },
   "tranceTechniques": {
    "slug": "techniques-de-transe-guidee",
-   "seo": "Auto-hypnose : entrer en transe en {n} voyages guidés",
-   "desc": "Auto-hypnose et transe guidée : {n} voyages de {min} à {max} min, descente progressive, tambour, mille portes. Niveau avancé, gratuit, sans pub.",
+   "seo": "Auto-hypnose guidée : {n} séances pour entrer en transe",
+   "desc": "Auto-hypnose guidée pour entrer en transe : {n} voyages de {min} à {max} min, descente progressive, tambour, mille portes. Niveau avancé, gratuit, sans pub.",
    "h1": "Techniques de transe guidée, entre méditation et auto-hypnose",
    "intro": [
     "Sept voyages en transe de 16 à 30 minutes, proches de l’auto-hypnose. La descente progressive te fait entrer par paliers dans un état de transe, avec de courtes remontées. Au son du tambour, tu suis un animal dans le monde d’en bas, puis tu t’élèves dans le vent et la lumière vers le monde d’en haut. D’autres séances remontent le courant de la lignée familiale, relisent ton « contrat d’âme », ouvrent des portes sur d’autres époques ou rapportent le talent d’un artisan d’autrefois.",
@@ -790,33 +1024,50 @@
     ],
     [
      "Est-ce de l’hypnose en ligne ?",
-     "En audio, hypnose et méditation guidée se ressemblent : une voix, un corps qui se relâche, une attention qui suit. Ces voyages sont des transes guidées, proches de l’auto-hypnose. Tu les écoutes chez toi, à ton rythme, et tu peux t’arrêter quand tu veux."
+     "En audio, hypnose et méditation guidée se ressemblent : une voix, un corps qui se relâche, une attention qui suit. Ces voyages sont des transes guidées, proches de l’auto-hypnose. Tu les écoutes chez toi, à ton rythme, et tu peux t’arrêter quand tu veux. Cette auto-hypnose est en accès gratuit, sans compte ni abonnement."
     ],
     [
      "Hypnose, transe : quelle différence ?",
      "La transe est un état : une attention tournée vers l’intérieur, un corps au repos. L’hypnose est une façon d’y conduire, souvent avec une voix. Ici, la voix te guide, et tu restes libre à chaque instant."
+    ],
+    [
+     "L’auto-hypnose, c’est quoi exactement ?",
+     "C’est entrer soi-même, sans praticien en face, dans un état d’attention très absorbée : le corps se relâche, le monde extérieur compte moins, une image ou une voix occupe toute la place. Ici, la voix de la séance te guide, et c’est toi qui gardes la main : tu peux bouger, ouvrir les yeux ou arrêter quand tu veux."
+    ],
+    [
+     "L’auto-hypnose présente-t-elle un danger ?",
+     "On ne reste pas bloqué en transe : au pire, tu t’endors, puis tu te réveilles normalement. Ces voyages restent de l’imagination guidée. Deux précautions : ne les écoute jamais en conduisant, et garde quelques minutes pour revenir avant de reprendre tes activités. Si tu traverses une période fragile, attends, ou demande l’avis d’un professionnel."
     ]
    ],
    "guide": [
     {
+     "h2": "Comment entrer en transe : la descente par paliers",
+     "p": [
+      "« Descente en transe progressive » te fait descendre un escalier de pierre, marche après marche. À chaque palier, une chose de moins à suivre : les sons du dehors, la place de tes mains, puis ta respiration, qui se fait toute seule.",
+      "De courtes remontées coupent la descente : remonter un peu, puis redescendre plus bas, c’est ce qui approfondit la transe. Trois repères restent là du début à la fin : un son, l’air sur ton visage, le contact du lit ou du sol."
+     ]
+    },
+    {
      "h2": "Voyage chamanique : monde d’en bas, monde d’en haut",
      "p": [
       "Ces techniques sont avancées. Elles t’emmènent dans le monde d’en bas, le monde d’en haut ou un couloir aux mille portes.",
-      "Prends le temps de pratiquer d’abord les séances de transe plus simples."
+      "Prends le temps de pratiquer d’abord les séances de transe plus simples.",
+      "« Voyage au monde d’en bas » installe, au son du tambour, une transe chamanique légère : tu suis un animal, tu bouges comme lui en imagination. C’est un état modifié de conscience que tu peux quitter à tout moment, en ouvrant les yeux."
      ]
     },
     {
      "h2": "Entre transe et auto-hypnose : par où commencer ?",
      "p": [
-      "« Les talents oubliés » est la plus courte, seize minutes. « Descente en transe progressive » t’apprend à entrer en transe, palier après palier."
+      "« Les talents oubliés » est la plus courte, seize minutes. « Descente en transe progressive » t’apprend à entrer en transe, palier après palier.",
+      "Tu peux faire de l’auto-hypnose seul, chez toi : il suffit d’une voix qui te guide et d’un moment où personne ne te dérange. Pour comprendre ce qui sépare hypnose et méditation, lis notre article du blog."
      ]
     }
    ]
   },
   "astralMicroDetach": {
    "slug": "exercices-de-decorporation",
-   "seo": "Décorporation : exercices de micro-détachement guidés",
-   "desc": "Décorporation en douceur : {n} exercices guidés de {min} à {max} min, aimant au plafond, toboggan, pour préparer le voyage astral. Gratuit, sans pub.",
+   "seo": "Décorporation : {n} exercices guidés de sortie hors du corps",
+   "desc": "Décorporation en douceur : {n} exercices guidés de {min} à {max} min pour préparer la sortie hors du corps et le voyage astral, sans rien forcer. Gratuit, sans pub.",
    "h1": "Décorporation : exercices de micro-détachement",
    "intro": [
     "Cinq exercices de décorporation, de 16 à 20 minutes, à pratiquer avant de tenter une vraie sortie hors du corps. Chacun travaille un micro-geste de séparation : sentir une légère attraction vers le plafond, décaler le contour du corps de quelques centimètres, déplacer le point d’où l’on observe juste derrière la tête, glisser en imagination sur un toboggan, ou répéter en pensée le geste de se redresser jusqu’à le sentir presque réel.",
@@ -842,20 +1093,33 @@
     [
      "Une sortie de corps volontaire, est-ce possible ?",
      "Beaucoup de traditions le pensent, mais rien ne la garantit. Ces exercices t’y préparent sans promesse : ils entraînent la détente profonde, l’attention et l’imagination. Ce que tu ressens varie d’une personne à l’autre."
+    ],
+    [
+     "Décorporation, sortie de corps : y a-t-il un danger ?",
+     "Ces exercices restent de l’imagination guidée : tu es allongé, éveillé, et tu peux ouvrir les yeux à tout moment. Certaines sensations surprennent, comme une impression de flottement ou de vibration. Si l’une d’elles t’inquiète, arrête la séance, bouge les doigts et respire tranquillement. Et si tu traverses une période fragile, remets ces pratiques à plus tard."
     ]
    ],
    "guide": [
     {
+     "h2": "Qu’est-ce que la décorporation ? Une définition simple",
+     "p": [
+      "La décorporation, c’est l’impression de se percevoir en dehors de son corps : flotter au-dessus du lit, se voir d’en haut, changer de point de vue. On parle aussi d’expérience de sortie hors du corps, ou plus simplement de sortie de corps. Des traditions anciennes y voient un voyage de la conscience ; des chercheurs l’étudient comme une illusion très convaincante de la perception. Les deux lectures coexistent.",
+      "Ici, il s’agit de décorporation spirituelle : une pratique choisie et calme, faite d’attention et d’imagination, que tu arrêtes quand tu veux en ouvrant les yeux."
+     ]
+    },
+    {
      "h2": "Décorporation : comment faire, en douceur ?",
      "p": [
       "Le micro-détachement, ce sont de petits gestes intérieurs avant toute sortie : sentir un léger décalage, un point derrière la tête, une attraction vers le plafond.",
-      "Ces séances courtes préparent les sensations des protocoles plus longs."
+      "Ces séances courtes préparent les sensations des protocoles plus longs.",
+      "Beaucoup cherchent d’emblée comment faire un voyage astral. Commence plus petit : un seul micro-geste par séance, sans rien attendre de spectaculaire."
      ]
     },
     {
      "h2": "Méditation sortie hors du corps : technique par technique",
      "p": [
-      "Commence par « Le point derrière la tête » ou « Le toboggan », seize minutes. Puis « L’aimant au plafond » et « S’asseoir fantôme »."
+      "Commence par « Le point derrière la tête » ou « Le toboggan », seize minutes. Puis « L’aimant au plafond » et « S’asseoir fantôme ».",
+      "Vois ces séances comme des exercices de voyage astral à petite échelle. Quand deux d’entre eux te sont familiers, passe aux protocoles complets de projection astrale, dans la catégorie Voyage Astral."
      ]
     }
    ]
@@ -863,10 +1127,10 @@
   "astralJourneys": {
    "slug": "meditation-voyage-astral-guidee",
    "seo": "Projection astrale : méditation voyage astral, {n} protocoles",
-   "desc": "Projection astrale ou sortie astrale guidée : {n} protocoles de {min} à {max} min, flottement, corde, chute imaginaire. Le voyage astral en pratique, sans pub.",
+   "desc": "Projection astrale et sortie astrale guidées : {n} méditations de voyage astral de {min} à {max} min, flottement, corde, chute imaginaire. Gratuit, sans pub.",
    "h1": "Sortie astrale guidée : méditation de projection astrale",
    "intro": [
-    "Onze protocoles de projection astrale, de 16 à 41 minutes. Tu sens la pression du support s’effacer jusqu’à l’impression de flotter, tu te redresses en imagination sans bouger un muscle, grimpes une corde verticale imaginaire ou te laisses tomber intérieurement. D’autres séances travaillent les membres intérieurs, la visualisation du double, les techniques de vision et de déplacement, ainsi que des protocoles pour aborder une présence ressentie ou noter ce que tu perçois d’une cible avant de la vérifier.",
+    "Onze protocoles de projection astrale, de 16 à 41 minutes : autant de méditations guidées de voyage astral. Tu sens la pression du support s’effacer jusqu’à l’impression de flotter, tu te redresses en imagination sans bouger un muscle, grimpes une corde verticale imaginaire ou te laisses tomber intérieurement. D’autres séances travaillent les membres intérieurs, la visualisation du double, les techniques de vision et de déplacement, ainsi que des protocoles pour aborder une présence ressentie ou noter ce que tu perçois d’une cible avant de la vérifier.",
     "Ces séances sont de niveau avancé. Si tu débutes dans cette pratique, commence par la catégorie Micro-Détachement, qui en prépare les gestes. Les expériences varient beaucoup d’une personne à l’autre : chaque séance reste un exercice de détente profonde et d’imagination."
    ],
    "faq": [
@@ -885,6 +1149,14 @@
     [
      "En voyage astral, guide spirituel ou simple présence : comment l’aborder ?",
      "Le protocole de rencontre t’apprend à aborder une présence ressentie, à la distance que tu choisis. Tu la décris d’abord, avant de l’interpréter. Tu restes libre d’y voir un guide, un symbole ou une part de toi."
+    ],
+    [
+     "La projection astrale, c’est quoi ?",
+     "C’est l’autre nom du voyage astral : l’impression de quitter son corps physique et de se déplacer en conscience, dans ce que les traditions appellent le corps astral. Certains y voient un vrai voyage, d’autres une expérience intérieure très vive. Ces séances te donnent des protocoles pour l’explorer, sans rien affirmer à ta place."
+    ],
+    [
+     "Projection astrale, voyage astral : y a-t-il un danger ?",
+     "Ton corps ne quitte pas la pièce : tu restes chez toi, détendu, libre d’ouvrir les yeux quand tu veux. Ce qui peut impressionner, ce sont les sensations : vibrations, impression de tomber ou de flotter. Elles s’estompent en général dès que tu bouges une main. Si elles t’inquiètent, arrête là, et reprends plus tard par le micro-détachement. Quand tu te sens fragile, laisse ces séances de côté."
     ]
    ],
    "guide": [
@@ -892,7 +1164,8 @@
      "h2": "Voyage astral, projection astrale, sortie hors du corps",
      "p": [
       "Ces trois mots désignent la même expérience : la sensation de quitter ton corps et de te déplacer en conscience. Les traditions en parlent depuis longtemps, chacune avec son vocabulaire.",
-      "Ici, tu l’abordes comme une exploration intérieure, sans promesse et sans attente. Ce que tu vis t’appartient."
+      "Ici, tu l’abordes comme une exploration intérieure, sans promesse et sans attente. Ce que tu vis t’appartient.",
+      "Les traditions parlent d’un corps astral, double subtil du corps physique, qui se déplacerait sur un autre plan, le plan astral. Tu n’as pas à trancher : tu peux vivre ces séances comme un voyage ou comme un exercice d’imagination."
      ]
     },
     {
@@ -908,19 +1181,34 @@
       "Ces protocoles sont longs et demandent une détente profonde. Si tu débutes, commence par les exercices de micro-détachement : ils sont plus courts et préparent les mêmes sensations.",
       "Choisis un moment calme, allongé, de préférence tôt le matin ou après une courte nuit. Puis teste les techniques une à une : le flottement, la corde, la chute imaginaire. Garde celle qui te parle. Pendant la méditation guidée, voyage astral et sommeil sont tout proches : reste juste assez éveillé."
      ]
+    },
+    {
+     "h2": "Projection astrale : comment faire, étape par étape ?",
+     "p": [
+      "La plupart des protocoles suivent le même fil. D’abord, le corps se relâche jusqu’à devenir très lourd, ou très lointain. Ensuite, tu gardes l’esprit éveillé pendant que le corps s’endort. Puis vient la sortie : flotter, te redresser, grimper à la corde ou te laisser tomber. Enfin, tu reviens : le corps ressenti redescend, tu retrouves le poids du lit, et tu notes ce que tu as perçu.",
+      "Chaque protocole est une technique de projection astrale à part entière : inutile de les enchaîner.",
+      "Et si tu te demandes comment faire un voyage astral quand tu débutes, garde la même technique plusieurs jours de suite avant d’en changer."
+     ]
     }
    ]
   },
   "worldMeditations": {
    "slug": "meditations-du-monde",
-   "seo": "Méditations du monde : Vipassana, Tonglen, bain de forêt",
-   "desc": "Vipassana, Tonglen, bain de forêt, prière du silence, examen stoïcien : {n} pratiques des grandes traditions, de {min} à {max} min. Gratuit, sans pub.",
+   "seo": "Bain de forêt, Vipassana, Tonglen : {n} méditations du monde",
+   "desc": "Bain de forêt, Vipassana, Tonglen, prière du silence, examen stoïcien : {n} types de méditation des grandes traditions, de {min} à {max} min. Gratuit, sans pub.",
    "h1": "Méditations du monde : {n} traditions, du Vipassana au bain de forêt",
    "intro": [
-    "Cette catégorie réunit {n} méditations courtes, de {min} à {max} minutes, venues des grandes traditions du monde. Le bouddhisme y apporte Vipassana, Shamatha et le Tonglen tibétain. Le Japon offre le Naikan et le bain de forêt (shinrin-yoku), la Corée le Seon. Tu y trouves aussi le sourire intérieur taoïste et la prière contemplative chrétienne. L’Hitbodedut du judaïsme hassidique et l’examen de conscience stoïcien complètent le voyage.",
+    "Cette catégorie réunit {n} méditations courtes, de {min} à {max} minutes, venues des grandes traditions du monde : autant de types de méditation à découvrir l’un après l’autre. Le bouddhisme y apporte Vipassana, Shamatha et le Tonglen tibétain. Le Japon offre le Naikan et le bain de forêt (shinrin-yoku), la Corée le Seon. Tu y trouves aussi le sourire intérieur taoïste et la prière contemplative chrétienne. L’Hitbodedut du judaïsme hassidique et l’examen de conscience stoïcien complètent le voyage.",
     "Chaque séance te fait goûter une pratique telle qu’on l’enseigne dans sa tradition, avec ses gestes et ses mots, sans rien te demander de croire. Elles sont gratuites, sans publicité, et s’écoutent hors ligne une fois téléchargées."
    ],
    "guide": [
+    {
+     "h2": "Les différents types de méditation, d’une tradition à l’autre",
+     "p": [
+      "Ces pratiques ne se ressemblent pas, et c’est leur intérêt. Shamatha entraîne l’attention, Vipassana l’observation. Le Tonglen, venu de la méditation tibétaine, cultive la compassion. Le Naikan et l’examen stoïcien te font réfléchir à tes liens ou à ta journée. Le Seon coréen te fait vivre avec une question, le sourire intérieur écoute le corps, et le shinrin-yoku est une méditation dans la nature. Deux prières, enfin, ouvrent un dialogue intérieur.",
+      "Quel type de méditation choisir ? Celui qui répond à ton besoin du moment, quitte à en changer demain."
+     ]
+    },
     {
      "h2": "Par quelle méditation du monde commencer ?",
      "p": [
@@ -931,13 +1219,15 @@
     {
      "h2": "Qu’est-ce que le bain de forêt, ou shinrin-yoku ?",
      "p": [
-      "Venu du Japon, le shinrin-yoku est une marche lente dans la nature, attentive à tout ce que perçoivent les sens. La séance te guide pas à pas, dehors ou en imagination."
+      "Venu du Japon, le shinrin-yoku est une marche lente dans la nature, attentive à tout ce que perçoivent les sens. La séance te guide pas à pas, dehors ou en imagination.",
+      "En japonais, « bain de forêt » se dit shinrin-yoku : shinrin, la forêt ; yoku, le bain. C’est une marche méditative en forêt, sans but ni distance à parcourir : tu ralentis, tu repères trois nuances de couleur, tu écoutes, tu sens l’air, sans rien photographier ni nommer.",
+      "Tu n’as pas besoin d’une grande forêt : un parc ou un jardin suffisent. Et pour une méditation en forêt plus longue, en imagination cette fois, entre dans La Forêt des Rêves, l’un des 17 mondes immersifs."
      ]
     },
     {
      "h2": "Faut-il être croyant ?",
      "p": [
-      "Non. La prière contemplative du silence et l’Hitbodedut s’adressent à chacun : elles proposent une forme d’attention et de dialogue intérieur, sans rien imposer."
+      "Non. La prière contemplative du silence, une forme de méditation chrétienne, et l’Hitbodedut s’adressent à chacun : elles proposent une forme d’attention et de dialogue intérieur, sans rien imposer."
      ]
     }
    ],
@@ -948,11 +1238,15 @@
     ],
     [
      "Qu’est-ce que l’examen de conscience stoïcien ?",
-     "Un bilan du soir hérité de la Grèce et de Rome antiques : revoir sa journée avec calme, ce qui a été bien fait et ce qui peut l’être mieux demain."
+     "Un bilan du soir hérité de la Grèce et de Rome antiques : revoir sa journée avec calme, ce qui a été bien fait et ce qui peut l’être mieux demain. C’est l’un des exercices les plus connus de la méditation stoïcienne."
     ],
     [
      "Faut-il aller en forêt pour le bain de forêt ?",
      "Non. La séance te guide pas à pas, dehors si tu peux, ou en imagination chez toi. Tu ralentis et tu laisses chaque sens percevoir ce qui t’entoure."
+    ],
+    [
+     "Quels sont les bienfaits du bain de forêt ?",
+     "On en revient souvent plus calme : marcher lentement, sans but, laisse l’attention se poser sur les sons, les odeurs, la lumière. Rien de magique ni de garanti : c’est une pause, pas un soin. Le bienfait le plus sûr, c’est d’avoir vraiment regardé un arbre, ne serait-ce que cinq minutes."
     ]
    ]
   }
@@ -968,55 +1262,55 @@
   "antiqueTemple": {
    "slug": "meditation-temple-ancien",
    "seo": "Méditation : temple bouddhiste, pluie et bougies, 20 min",
-   "desc": "Méditation, temple bouddhiste et pluie : monte dans la brume jusqu’aux bougies et aux grands Bouddhas de pierre. 20 min, gratuit, sans pub, hors ligne.",
+   "desc": "Méditation, temple bouddhiste et bruit de la pluie : monte dans la brume jusqu’aux bougies et aux grands Bouddhas de pierre. 20 min, gratuit, sans pub.",
    "h1": "Le Temple Ancien : méditation, temple bouddhiste et brume",
-   "lead": "Dans la brume, une renarde à neuf queues t’attend sur le sentier. Elle te guide vers ta méditation : temple bouddhiste, encens et bougies, sous l’œil d’un vieux gardien masqué."
+   "lead": "Dans la brume, une renarde à neuf queues t’attend sur le sentier. Elle te guide vers ta méditation : temple bouddhiste, encens et bougies, sous l’œil d’un vieux gardien masqué. Un voyage intérieur de 20 minutes, pour déposer ce qui pèse."
   },
   "cosmicTemple": {
    "slug": "meditation-temple-cosmique",
-   "seo": "Méditation : baleine céleste et Temple Cosmique, 13 min",
-   "desc": "Méditation : baleine céleste, temple de marbre suspendu dans le cosmos et étoile qui naît sous tes pieds. 13 min, gratuit, sans pub, hors ligne.",
+   "seo": "Méditation baleine céleste : expansion de conscience, 13 min",
+   "desc": "Méditation cosmique : une baleine céleste te porte vers un temple suspendu parmi les étoiles, pour une expansion de conscience. 13 min, gratuit, sans pub.",
    "h1": "Le Temple Cosmique : méditation, baleine et étoiles",
-   "lead": "Le temps d’une méditation, baleine céleste et étoiles deviennent tes compagnes. La baleine te prend sur son dos et fait le tour d’un temple suspendu dans le cosmos. Puis une étoile naît."
+   "lead": "Le temps d’une méditation, baleine céleste et étoiles deviennent tes compagnes. La baleine te prend sur son dos et fait le tour d’un temple suspendu dans le cosmos. Puis une étoile naît. Une expansion de conscience en images, pour te sentir aussi vaste que l’univers."
   },
   "crystalCave": {
    "slug": "meditation-grotte-de-cristal",
-   "seo": "Méditation dans la Grotte de Cristal, guidée et gratuite",
-   "desc": "Méditation dans la Grotte de Cristal : descends vers des cristaux lumineux et des bassins immobiles comme des miroirs. 17 min guidées, gratuites, sans pub.",
+   "seo": "Méditation dans la Grotte de Cristal : nettoyage énergétique",
+   "desc": "Méditation dans la Grotte de Cristal : la lumière des cristaux emporte ce qui pèse, un nettoyage énergétique en images. 17 min guidées, gratuites, sans pub.",
    "h1": "Méditation dans la Grotte de Cristal Infinie",
-   "lead": "Sous la terre, une simple fissure s’ouvre sur une caverne immense. Un papillon de cristal naît au creux de ta main, et les cristaux se mettent à chanter."
+   "lead": "Sous la terre, une simple fissure s’ouvre sur une caverne immense. Un papillon de cristal naît au creux de ta main, et les cristaux se mettent à chanter. Leur lumière emporte peu à peu ce qui pèse, comme un nettoyage énergétique en images."
   },
   "galaxy": {
    "slug": "meditation-voyage-galaxie",
    "seo": "Méditation : univers, galaxie et train de lumière, 19 min",
    "desc": "Méditation : univers, train de lumière, anneaux de Saturne et étoiles filantes, jusqu’à un marché sur un astéroïde. 19 min, gratuit, sans pub.",
-   "h1": "Voyage à travers la galaxie : méditation, univers et étoiles filantes",
-   "lead": "Ce soir, au milieu des étoiles, un train de lumière ralentit pour toi. Durant la méditation, univers et planètes défilent à sa fenêtre : Saturne, des étoiles filantes, un marché de nuit."
+   "h1": "Voyage à travers la galaxie : méditation, univers et étoiles",
+   "lead": "Ce soir, au milieu des étoiles, un train de lumière ralentit pour toi. Durant la méditation, univers et planètes défilent à sa fenêtre : Saturne, des étoiles filantes, un marché de nuit. Un voyage intérieur dans l’espace, à suivre les yeux fermés."
   },
   "earthCore": {
    "slug": "meditation-ancrage-coeur-terre",
-   "seo": "Méditation ancrage : descendre au cœur de la Terre",
-   "desc": "Méditation ancrage : descends par des grottes de cristal et des rivières de lumière chaude jusqu’au cœur de la Terre. 15 min, gratuit, sans pub, hors ligne.",
+   "seo": "Méditation ancrage et enracinement : au cœur de la Terre",
+   "desc": "Méditation d’ancrage et d’enracinement : descends par des grottes de cristal et des rivières de lumière jusqu’au cœur de la Terre. 15 min, gratuit, sans pub.",
    "h1": "Le Cœur de la Terre : méditation, ancrage et enracinement",
    "lead": "Pour cette méditation, ancrage oblige, tout se passe sous tes pieds. Loin sous la surface, la Terre cache un monde chaud, éclairé par son propre soleil. Tu y descends sans hâte, jusqu’à un œuf d’ambre qui bat doucement."
   },
   "antarcticBase": {
    "slug": "meditation-sanctuaire-gele",
-   "seo": "Méditation sous la glace : immersion dans le Sanctuaire Gelé",
-   "desc": "Méditation sous la glace de l’Antarctique : un renard polaire te guide vers un cœur de cristal, puis vers l’aurore. 16 min, gratuit, sans pub, hors ligne.",
-   "h1": "Le Sanctuaire Gelé : méditation sous la glace",
-   "lead": "Tout au fond de la glace dort un sanctuaire très ancien. Un renard polaire lumineux t’en montre le chemin, jusqu’à un cœur de cristal qui respire lentement."
+   "seo": "Silence intérieur : méditation d’hiver sous la glace, 16 min",
+   "desc": "Méditation sous la glace de l’Antarctique : un renard polaire te guide vers un cœur de cristal et un grand silence intérieur. 16 min, gratuit, sans pub.",
+   "h1": "Le Sanctuaire Gelé : méditation, silence intérieur et glace",
+   "lead": "Tout au fond de la glace dort un sanctuaire très ancien. Un renard polaire lumineux t’en montre le chemin, jusqu’à un cœur de cristal qui respire lentement. Là, il ne reste qu’un grand silence intérieur."
   },
   "skyIsland": {
    "slug": "meditation-ile-flottante",
-   "seo": "Méditation : paix intérieure sur ton île flottante",
-   "desc": "Méditation, paix intérieure et lumière du soir : un pont de nuages, des cascades dans le ciel, un cerf blanc ailé. 20 min guidées, gratuites, sans pub.",
-   "h1": "L’Île Flottante, ta méditation : paix intérieure et ciel ouvert",
-   "lead": "Très haut au-dessus du monde, une île verte n’attend que toi. Tu y arrives par un pont de nuages, et tu y restes jusqu’aux premières étoiles. Au bout de la méditation, paix intérieure et ciel immense."
+   "seo": "Méditation paix intérieure : ton île flottante, un lieu sûr",
+   "desc": "Méditation, paix intérieure et lieu sûr : le soir, un pont de nuages mène à ton île, ses cascades, son cerf blanc ailé. 20 min guidées, gratuites, sans pub.",
+   "h1": "L’Île Flottante : méditation, paix intérieure et lieu sûr",
+   "lead": "Très haut au-dessus du monde, une île verte n’attend que toi. Tu y arrives par un pont de nuages, et tu y restes jusqu’aux premières étoiles. Au bout de la méditation, paix intérieure et ciel immense. Cette île est ton lieu sûr : tu peux y revenir quand tu veux."
   },
   "zenGarden": {
    "slug": "meditation-jardin-zen",
-   "seo": "Méditation zen au jardin : thé, carpes et cerisier en fleurs",
+   "seo": "Méditation zen au jardin japonais : thé, carpes et cerisiers",
    "desc": "Méditation zen dans un jardin japonais : chemins de pierre, cerisiers en fleurs, carpes et sable ratissé. 18 min de calme, gratuites, sans pub, hors ligne.",
    "h1": "Le Jardin Zen : méditation zen dans un jardin japonais",
    "lead": "Ta méditation zen commence dans un jardin japonais qui s’ouvre en silence, juste après la pluie. Un cerisier fleurit d’un coup, la carpe d’or vient vers toi, et un jardinier t’offre un thé."
@@ -1024,64 +1318,64 @@
   "atlantis": {
    "slug": "meditation-atlantide-sous-marine",
    "seo": "Méditation au fond de la mer : l’Atlantide sous-marine",
-   "desc": "Méditation au fond de la mer : respire sous l’eau, un hippocampe doré te porte dans l’Atlantide, cité de nacre. 18 min, gratuit, sans pub, hors ligne.",
+   "desc": "Méditation au fond de la mer : respire sous l’eau, un hippocampe doré te porte dans l’Atlantide, la cité perdue. 18 min, gratuit, sans pub, hors ligne.",
    "h1": "L’Atlantide Sous-Marine : méditation au fond de la mer",
-   "lead": "Sous une mer chaude, une cité de nacre se repose en silence. Un hippocampe doré t’y emmène, jusqu’à une perle qui garde l’un de tes souvenirs."
+   "lead": "Sous une mer chaude, une cité de nacre se repose en silence. Un hippocampe doré t’y emmène, jusqu’à une perle qui garde l’un de tes souvenirs. Une méditation sous l’eau, au cœur de l’Atlantide, où tu respires sans effort."
   },
   "himalayanMonastery": {
    "slug": "meditation-monastere-aube",
-   "seo": "Méditation : montagne, aube et monastère tibétain, 18 min",
-   "desc": "Méditation, montagne et silence : l’aube dorée sur les sommets enneigés, les drapeaux de prière dans le vent froid. 18 min guidées, gratuites, sans pub.",
-   "h1": "Le Monastère à l’Aube : méditation, montagne et lever du soleil",
-   "lead": "Cette méditation, montagne et silence mêlés, commence avant l’aube. Un moine t’ouvre le portail de son monastère, sous un ciel encore bleu sombre. Plus tard, du haut d’un balcon de bois, tu regardes le jour se lever sur la neige."
+   "seo": "Méditation guidée du matin : montagne et monastère tibétain",
+   "desc": "Méditation guidée du matin en montagne : un monastère tibétain avant l’aube, les moulins à prières, puis le soleil sur la neige. 18 min, gratuit, sans pub.",
+   "h1": "Monastère à l’Aube : méditation guidée du matin en montagne",
+   "lead": "Cette méditation, montagne et silence mêlés, commence avant l’aube. Un moine t’ouvre le portail de son monastère, sous un ciel encore bleu sombre. Plus tard, du haut d’un balcon de bois, tu regardes le jour se lever sur la neige. Une méditation guidée du matin, à écouter au lever du soleil ou dès le réveil."
   },
   "celestialLibrary": {
    "slug": "meditation-bibliotheque-celeste",
-   "seo": "Bibliothèque akashique céleste : méditation immersive",
+   "seo": "Bibliothèque akashique céleste : méditation guidée, 14 min",
    "desc": "Bibliothèque akashique : erre entre livres lumineux et escaliers en spirale, sous les étoiles. Une méditation immersive de 14 min, gratuite, sans pub.",
-   "h1": "La Bibliothèque Céleste : méditation de la bibliothèque akashique",
-   "lead": "Au-delà d’une porte tiède s’ouvre une bibliothèque akashique, où les livres volent d’eux-mêmes vers ceux qui les attendent. L’un d’eux finira par descendre jusqu’à toi, pour te montrer ce qui pourrait être."
+   "h1": "La Bibliothèque Céleste : méditation et bibliothèque akashique",
+   "lead": "Au-delà d’une porte tiède s’ouvre une bibliothèque akashique, où les livres volent d’eux-mêmes vers ceux qui les attendent. L’un d’eux finira par descendre jusqu’à toi, pour te montrer ce qui pourrait être. Un voyage intérieur de 14 minutes, à la lueur des bougies."
   },
   "desertOasis": {
    "slug": "meditation-oasis-desert",
-   "seo": "Méditation dans le désert : une oasis sous les étoiles",
+   "seo": "Méditation dans le désert : une oasis sous la lune, 13 min",
    "desc": "Méditation dans le désert : assieds-toi près d’une eau lumineuse, sous une lune immense et un ciel d’étoiles. 13 min de calme, gratuites, sans pub.",
    "h1": "L’Oasis du Désert : méditation dans le désert étoilé",
-   "lead": "Au coucher du soleil, les dunes te mènent vers une oasis encore invisible. Là-bas, une vieille lampe libère des papillons de lumière, sous une lune énorme."
+   "lead": "Au coucher du soleil, les dunes te mènent vers une oasis encore invisible. Là-bas, une vieille lampe libère des papillons de lumière, sous une lune énorme. C’est une méditation dans le désert, à vivre à la tombée de la nuit."
   },
   "treeOfConsciousness": {
    "slug": "meditation-arbre-de-conscience",
-   "seo": "Méditation de l’arbre : au pied de l’Arbre de Conscience",
-   "desc": "Méditation de l’arbre : un arbre colossal relie la terre aux étoiles, et son gardien te fait sentir battre toutes les vies. 18 min, gratuit, sans pub.",
+   "seo": "Méditation de l’arbre de vie : l’Arbre de Conscience, 18 min",
+   "desc": "Méditation de l’arbre de vie : un arbre colossal relie la terre aux étoiles, et son gardien te fait sentir battre toutes les vies. 18 min, gratuit, sans pub.",
    "h1": "L’Arbre de Conscience : méditation de l’arbre et des étoiles",
-   "lead": "Cette méditation de l’arbre commence dans une forêt qui brille la nuit. Là, un arbre immense relie la terre aux étoiles. Son gardien te prend la main, et toutes les vies de la Terre se mettent à battre avec ton cœur."
+   "lead": "Cette méditation de l’arbre commence dans une forêt qui brille la nuit. Là, un arbre immense relie la terre aux étoiles, comme un arbre de vie. Son gardien te prend la main, et toutes les vies de la Terre se mettent à battre avec ton cœur."
   },
   "jungleRuins": {
    "slug": "meditation-ruines-jungle",
-   "seo": "Méditation dans la jungle : les ruines d’une cité oubliée",
+   "seo": "Méditation dans la jungle : cascades et cité perdue, 19 min",
    "desc": "Méditation dans la jungle : un temple envahi par les plantes, des cascades sur la vieille pierre, des symboles lumineux. 19 min, gratuit, sans pub.",
    "h1": "Les Ruines Oubliées : méditation dans la jungle",
-   "lead": "Sous la jungle dort une cité entière, avec ses tours et ses terrasses. Un petit singe né de la lumière t’accompagne, jusqu’à un océan caché sous les ruines."
+   "lead": "Sous la jungle dort une cité entière, avec ses tours et ses terrasses. Un petit singe né de la lumière t’accompagne, jusqu’à un océan caché sous les ruines. Cette méditation est une balade dans la jungle, sans hâte : une cité perdue à explorer les yeux fermés."
   },
   "mushroomForest": {
    "slug": "meditation-foret-des-reves",
-   "seo": "Méditation en forêt onirique : la Forêt des Rêves, 17 min",
-   "desc": "Méditation en forêt enchantée : champignons-lanternes, galaxies à cueillir et pieuvre de lumière, pour rêver éveillé. 17 min, gratuit, sans pub.",
+   "seo": "Méditation en forêt enchantée : la Forêt des Rêves, 17 min",
+   "desc": "Méditation en forêt magique : champignons-lanternes, galaxies à cueillir et pieuvre de lumière, pour rêver éveillé. 17 min, gratuit, sans pub.",
    "h1": "La Forêt des Rêves : méditation en forêt enchantée",
-   "lead": "Dans cette méditation en forêt, les champignons s’allument comme des lanternes et les arbres portent des galaxies. Une fée vient se poser sur ta main, puis une pieuvre de lumière t’emporte au-dessus de la forêt."
+   "lead": "Dans cette méditation en forêt, les champignons s’allument comme des lanternes et les arbres portent des galaxies. Une fée vient se poser sur ta main, puis une pieuvre de lumière t’emporte au-dessus de la forêt. Un voyage intérieur léger, entre méditation et relaxation en forêt."
   },
   "mirrorDimension": {
    "slug": "meditation-dimension-des-miroirs",
-   "seo": "Méditation miroir : immersion dans la Dimension des Miroirs",
-   "desc": "Méditation miroir : flotte parmi des miroirs infinis dans une douce lumière blanche, et observe ta propre conscience. 15 min, gratuit, sans pub, hors ligne.",
+   "seo": "Méditation miroir guidée : ton animal-guide t’attend, 15 min",
+   "desc": "Méditation miroir : flotte dans une douce lumière blanche, rencontre ton animal-guide dans un miroir, puis observe ta conscience. 15 min, gratuit, sans pub.",
    "h1": "La Dimension des Miroirs : méditation miroir immersive",
-   "lead": "Dans ce monde de miroirs, l’un d’eux ne te renvoie pas ton reflet, mais un animal-guide. Avec lui, tu traverses les miroirs vers des mondes étonnants."
+   "lead": "Dans ce monde de miroirs, l’un d’eux ne te renvoie pas ton reflet, mais un animal-guide. Avec lui, tu traverses les miroirs vers des mondes étonnants. Une méditation du miroir toute en douceur, qui finit sur une question : qui regarde ?"
   },
   "wolfForest": {
    "slug": "meditation-foret-esprits-loups",
-   "seo": "Loup, animal totem : méditation immersive des esprits loups",
-   "desc": "Loup, animal totem de force et de protection : traverse une forêt enneigée gardée par des esprits loups, sous les aurores. 15 min, gratuit, sans pub.",
-   "h1": "La Forêt des Esprits Loups : méditation du loup, animal totem",
+   "seo": "Loup, animal totem : méditation guidée des esprits loups",
+   "desc": "Loup, animal totem de force et de protection : une méditation guidée dans une forêt enneigée, gardée par des esprits loups. 15 min, gratuit, sans pub.",
+   "h1": "Forêt des Esprits Loups : méditation du loup, animal totem",
    "lead": "Une nuit de pleine lune, ton animal totem se dessine au milieu des pins : un loup fait d’étoiles. Avec sa meute, tu cours dans la neige, puis jusque dans l’aurore boréale."
   }
  },
@@ -1093,7 +1387,7 @@
   "sections": [
    {
     "h2": "Pourquoi méditer au travail",
-    "p": "Quelques minutes de méditation offrent une pause dans une journée chargée : revenir au souffle, relâcher le corps, prendre du recul avant de répondre. Cette pause est accessible à tous, sans matériel ni expérience. Une pratique simple, guidée et sans engagement permet à chacun d’essayer, à son rythme.",
+    "p": "Quelques minutes de méditation offrent une pause dans une journée chargée : revenir au souffle, relâcher le corps, prendre du recul avant de répondre. Cette pause est accessible à tous, sans matériel ni expérience. Une pratique simple, guidée et sans engagement permet à chacun d’essayer, à son rythme. La méditation au travail reste discrète : quelques minutes entre deux réunions.",
     "bullets": [
      "Faire une vraie pause, même courte",
      "Se recentrer avant une réunion ou une décision",
@@ -1112,7 +1406,7 @@
    },
    {
     "h2": "Ateliers et formations sur demande",
-    "p": "Pour aller plus loin, nous construisons avec vous des ateliers et des formations adaptés à votre organisation, sur site ou à distance. Le format, le rythme et le nombre de séances se décident ensemble, en fonction de vos équipes et de vos contraintes.",
+    "p": "Pour aller plus loin, nous construisons avec vous des ateliers et des formations adaptés à votre organisation, sur site ou à distance. Le format, le rythme et le nombre de séances se décident ensemble, en fonction de vos équipes et de vos contraintes. Un atelier de gestion du stress en entreprise peut ainsi tenir en une seule séance ou s’étaler sur plusieurs semaines.",
     "bullets": [
      "Initiation à la méditation",
      "Gestion du stress",
@@ -1121,8 +1415,12 @@
     ]
    },
    {
+    "h2": "Qualité de vie au travail : un atelier de méditation en entreprise",
+    "p": "Vous cherchez une idée d’atelier QVT ? Un atelier de méditation en entreprise ne demande qu’une salle calme ou une visioconférence. Il trouve sa place dans une semaine de la QVT, un séminaire ou une journée d’équipe."
+   },
+   {
     "h2": "Comment ça se passe",
-    "p": "Tout commence par un échange pour comprendre vos besoins. Nous vous adressons ensuite une proposition sur mesure, puis les séances ont lieu dans vos locaux ou en ligne. Entre deux ateliers, vos équipes continuent librement avec l’application.",
+    "p": "Tout commence par un échange pour comprendre vos besoins. Nous vous adressons ensuite une proposition sur mesure, puis les séances de méditation en groupe ont lieu dans vos locaux ou en ligne. Entre deux ateliers, vos équipes continuent librement avec l’application.",
     "bullets": [
      "Un premier échange sur vos attentes",
      "Une proposition construite avec vous",
@@ -1142,7 +1440,11 @@
    ],
    [
     "Comment organiser un atelier ou une formation ?",
-    "Prenez contact pour un premier échange. Nous construisons ensemble le format qui vous convient — initiation, gestion du stress, cohérence cardiaque ou pauses courtes — sur site ou à distance, puis nous vous adressons une proposition."
+    "Prenez contact pour un premier échange. Nous construisons ensemble le format qui vous convient — initiation, gestion du stress, cohérence cardiaque ou pauses courtes — sur site ou à distance, puis nous vous adressons une proposition. Les séances peuvent aussi devenir des cours de méditation en entreprise, à un rythme régulier."
+   ],
+   [
+    "Méditation, pleine conscience, relaxation en entreprise : quelle différence ?",
+    "La pleine conscience, qu’on appelle aussi mindfulness en entreprise, entraîne l’attention : on observe le souffle, le corps et les pensées, sans chercher à les changer. La relaxation vise d’abord la détente du corps. Nos ateliers partent de la méditation et de la respiration, avec des exercices courts."
    ]
   ]
  }

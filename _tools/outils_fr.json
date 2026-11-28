@@ -1,0 +1,234 @@
+{
+ "respiration": {
+  "slug": "exercice-de-respiration",
+  "mots": {
+   "_note": "27-11 — volumes Keyword Planner (réservoirs du 06-11). « exercice de respiration » est déjà le mot principal de l’article /fr/blog/exercices-respiration-pour-se-calmer.html : cette page vise l’intention outil (faire l’exercice tout de suite).",
+   "principal": {
+    "mot": "cohérence cardiaque 5 minutes",
+    "volume": "1 000-10 000"
+   },
+   "second": {
+    "mot": "exercice de cohérence cardiaque",
+    "volume": "1 000-10 000"
+   },
+   "autres": [
+    {
+     "mot": "cohérence cardiaque",
+     "volume": "10 000-100 000"
+    },
+    {
+     "mot": "respiration carrée",
+     "volume": "1 000-10 000"
+    },
+    {
+     "mot": "respiration 4 7 8",
+     "volume": "1 000-10 000"
+    },
+    {
+     "mot": "coherence cardiaque gratuit",
+     "volume": "1 000-10 000"
+    },
+    {
+     "mot": "cohérence cardiaque en ligne",
+     "volume": "100-1 000"
+    },
+    {
+     "mot": "cohérence cardiaque les yeux fermés",
+     "volume": "100-1 000"
+    },
+    {
+     "mot": "6 respirations par minute",
+     "volume": "10-100"
+    },
+    {
+     "mot": "exercice de respiration en ligne",
+     "volume": "non mesuré"
+    }
+   ]
+  },
+  "seo": "Cohérence cardiaque 5 minutes : exercice gratuit en ligne",
+  "desc": "Cohérence cardiaque 5 minutes, respiration 4-7-8 ou respiration carrée : suis le cercle et respire. Exercice en ligne, gratuit et sans inscription.",
+  "h1": "Exercice de respiration en ligne : cohérence cardiaque 5 minutes",
+  "image_alt": "Cercle doré sur fond de nuit : le guide de respiration en ligne de MeditaDream",
+  "fil": "Exercice de respiration",
+  "lead": "Trois respirations guidées, gratuites et sans inscription : cohérence cardiaque (5 minutes par défaut), respiration 4-7-8 et respiration carrée.",
+  "outil": {
+   "nom": "Exercice de respiration guidé MeditaDream",
+   "aria": "Guide de respiration",
+   "ordre": [
+    "coherence",
+    "478",
+    "carree"
+   ],
+   "technique": "Technique de respiration",
+   "duree": "Durée",
+   "techniques": {
+    "coherence": "Cohérence cardiaque",
+    "478": "Respiration 4-7-8",
+    "carree": "Respiration carrée"
+   },
+   "phases": {
+    "inspire": "Inspire",
+    "retiens": "Retiens",
+    "expire": "Expire",
+    "pause": "Pause"
+   },
+   "secondes": "secondes",
+   "min": "{n} min",
+   "cycles": "{n} cycles",
+   "pret": "Quand tu veux",
+   "demarrer": "Démarrer",
+   "pause": "Pause",
+   "reprendre": "Reprendre",
+   "recommencer": "Recommencer",
+   "en_pause": "En pause",
+   "son": "Son",
+   "restant": "Temps restant",
+   "cycle": "Cycle {i} sur {n}",
+   "fin_t": "Séance terminée",
+   "fin_p": "Reste encore un instant comme ça. Laisse ton souffle reprendre son rythme tout seul.",
+   "fin_b": "Continuer avec l’app gratuite",
+   "dire_pause": "Exercice en pause",
+   "dire_fin": "Séance terminée",
+   "sansjs": "Le guide animé a besoin de JavaScript. En attendant, voici les rythmes à compter toi-même."
+  },
+  "sections": [
+   {
+    "id": "mode-d-emploi",
+    "h2": "Comment utiliser cet exercice de respiration en ligne ?",
+    "p": [
+     "Rien à installer, aucun compte à créer. Tout se passe sur cette page, sur ton téléphone ou ton ordinateur."
+    ],
+    "ol": [
+     "Assieds-toi, le dos droit et les épaules relâchées.",
+     "Choisis ta respiration, puis sa durée.",
+     "Appuie sur Démarrer.",
+     "Inspire quand le cercle grandit, expire quand il rétrécit. S’il reste immobile, retiens ton souffle."
+    ],
+    "p2": [
+     "Au centre, un mot te dit quoi faire et un chiffre compte les secondes. Tu peux mettre en pause, reprendre ou recommencer quand tu veux.",
+     "Le bouton Son ajoute une note très douce à chaque changement : pratique pour fermer les yeux. Sur la plupart des appareils, l’écran reste allumé pendant l’exercice."
+    ]
+   },
+   {
+    "id": "coherence-cardiaque",
+    "h2": "Comment faire l’exercice de cohérence cardiaque en 5 minutes ?",
+    "rythme": "coherence",
+    "p": [
+     "La cohérence cardiaque est une respiration lente et régulière. Tu inspires 5 secondes, tu expires 5 secondes, sans pause entre les deux. Cela fait environ 6 respirations par minute.",
+     "Respire par le nez si tu peux, sans forcer. Laisse ton ventre se gonfler puis redescendre, comme une vague. C’est la [respiration abdominale](/fr/blog/techniques-respiration-meditation.html), expliquée pas à pas dans notre guide.",
+     "Pourquoi ce nom ? À ce rythme, le cœur accélère un peu à l’inspiration et ralentit à l’expiration. Des études l’observent pendant l’exercice. L’effet varie d’une personne à l’autre : fie-toi à ce que tu ressens.",
+     "L’outil propose 3, 5 ou 10 minutes. Cinq minutes, c’est la durée de la cohérence cardiaque 365, très connue en France. Son principe : 3 fois par jour, 6 respirations par minute, 5 minutes.",
+     "Quand la pratiquer ? Le matin, avant un rendez-vous, ou pour couper ta journée en deux."
+    ],
+    "essayer": "coherence",
+    "essayer_t": "Lancer la cohérence cardiaque"
+   },
+   {
+    "id": "respiration-4-7-8",
+    "h2": "Respiration 4-7-8 : comment la pratiquer ?",
+    "rythme": "478",
+    "p": [
+     "Trois temps, toujours dans le même ordre. Tu inspires par le nez pendant 4 secondes. Tu retiens ton souffle 7 secondes. Tu expires lentement par la bouche pendant 8 secondes.",
+     "Cette respiration a été popularisée par le Dr Andrew Weil. Il conseille de ne pas dépasser 4 cycles au début, puis 8 au plus avec l’habitude. Ce sont les deux choix de l’outil.",
+     "Quand la pratiquer ? Le soir, une fois au lit, ou quand tu as besoin de ralentir. L’expiration dure deux fois plus longtemps que l’inspiration : tout le rythme devient très lent.",
+     "Retenir ton souffle 7 secondes te gêne ? N’insiste pas. Choisis la cohérence cardiaque, qui n’a aucune rétention."
+    ],
+    "essayer": "478",
+    "essayer_t": "Lancer la respiration 4-7-8"
+   },
+   {
+    "id": "respiration-carree",
+    "h2": "Respiration carrée : à quoi sert-elle, et comment la faire ?",
+    "rythme": "carree",
+    "p": [
+     "La respiration carrée a quatre temps égaux, comme les côtés d’un carré. Tu inspires 4 secondes, puis tu retiens ton souffle 4 secondes. Tu expires 4 secondes, puis tu restes poumons vides 4 secondes.",
+     "On l’appelle aussi box breathing. Elle est enseignée dans des formations à la gestion du stress. Compter les quatre temps occupe l’esprit : il reste moins de place pour les pensées qui tournent.",
+     "Quand la pratiquer ? Avant une réunion, un examen ou une prise de parole, quand tu veux retrouver ton calme.",
+     "L’outil propose 2, 4 ou 5 minutes. Il termine toujours le cycle commencé : la séance peut durer quelques secondes de plus.",
+     "Pour choisir selon la situation, lis notre guide des [exercices de respiration contre le stress](/fr/blog/exercices-respiration-pour-se-calmer.html)."
+    ],
+    "essayer": "carree",
+    "essayer_t": "Lancer la respiration carrée"
+   },
+   {
+    "id": "duree",
+    "h2": "Combien de temps respirer, et combien de fois par jour ?",
+    "p": [
+     "Quelques minutes suffisent. Mieux vaut 3 minutes chaque jour que 20 minutes une fois par mois."
+    ],
+    "ul": [
+     "Cohérence cardiaque : 5 minutes, jusqu’à 3 fois par jour.",
+     "Respiration 4-7-8 : 4 cycles, deux fois par jour, par exemple le matin et au coucher.",
+     "Respiration carrée : 2 à 5 minutes, au moment où tu en as besoin."
+    ],
+    "p2": [
+     "Accroche l’exercice à un geste que tu fais déjà : après le café, avant d’ouvrir tes messages, en te couchant. Une habitude tient mieux quand elle a sa place dans la journée."
+    ]
+   },
+   {
+    "id": "precautions",
+    "h2": "Quelles précautions prendre ?",
+    "p": [
+     "Ces respirations sont douces. Reste quand même à l’écoute de ton corps."
+    ],
+    "ul": [
+     "La tête qui tourne, des fourmillements, une gêne ? Arrête-toi et respire normalement.",
+     "Ne force jamais une rétention. Raccourcis-la, ou choisis la cohérence cardiaque.",
+     "Pratique assis ou allongé, jamais en conduisant ni dans l’eau.",
+     "Tu es enceinte, ou tu as un souci au cœur ou aux poumons ? Demande d’abord l’avis de ton médecin."
+    ],
+    "p2": [
+     "Cet outil est un guide de bien-être. Il ne remplace pas un avis médical."
+    ]
+   },
+   {
+    "id": "app-meditadream",
+    "h2": "Que t’apporte l’app MeditaDream en plus ?",
+    "monde": "antiqueTemple",
+    "monde_cap": "{monde}, l’un des {worlds} mondes immersifs de l’app.",
+    "p": [
+     "Ici, un cercle guide ton souffle. Dans l’app MeditaDream, une voix t’accompagne : {meds} méditations guidées, {cats} catégories et {worlds} mondes immersifs."
+    ],
+    "ul": [
+     {
+      "si": "gong",
+      "t": "Le Minuteur a un « gong alterné » pour respirer en rythme. Tu inspires jusqu’au premier gong, tu expires jusqu’au second. Tu règles chaque durée, de 1 à 30 secondes."
+     },
+     "Des séances guidées autour du souffle, à écouter les yeux fermés.",
+     "Des pauses guidées de 3 ou 4 minutes, pour les moments où tout va trop vite."
+    ],
+    "p2": [
+     "L’app est 100 % gratuite, sans publicité et sans compte. Une fois une séance téléchargée, tu l’écoutes hors ligne."
+    ]
+   }
+  ],
+  "seances_t": "Les séances de l’app autour du souffle",
+  "faq": [
+   [
+    "Existe-t-il une cohérence cardiaque gratuite, sans application ?",
+    "Oui, ici même. Cette cohérence cardiaque en ligne est gratuite, sans inscription et sans publicité. Elle fonctionne dans le navigateur de ton téléphone ou de ton ordinateur."
+   ],
+   [
+    "Combien de respirations par minute en cohérence cardiaque ?",
+    "Environ 6. Chaque respiration dure 10 secondes : 5 pour inspirer, 5 pour expirer. En 5 minutes, tu fais 30 respirations."
+   ],
+   [
+    "Peut-on faire la cohérence cardiaque les yeux fermés ?",
+    "Oui. Active le bouton Son : une note douce marque chaque changement. Elle est plus aiguë pour l’inspiration, plus grave pour l’expiration. Sur iPhone, le son suit le mode silencieux : pense à désactiver ce mode."
+   ],
+   [
+    "Faut-il respirer par le nez ou par la bouche ?",
+    "Inspire par le nez. Pour la cohérence cardiaque et la respiration carrée, expire comme tu préfères. Pour la respiration 4-7-8, l’expiration se fait par la bouche."
+   ],
+   [
+    "Quelle respiration choisir pour s’endormir ?",
+    "La respiration 4-7-8 se pratique souvent au coucher, à cause de sa longue expiration. Si la rétention te gêne, essaie 5 minutes de cohérence cardiaque. Aucune technique ne garantit le sommeil."
+   ],
+   [
+    "L’exercice fonctionne-t-il sans connexion ?",
+    "Une fois la page ouverte, oui : le guide n’a plus besoin d’internet. Pour pratiquer partout, l’app MeditaDream fonctionne hors ligne une fois tes séances téléchargées."
+   ]
+  ]
+ }
+}

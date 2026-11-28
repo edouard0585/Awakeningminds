@@ -2,20 +2,29 @@
  "hub": {
   "slug": "formation-meditation",
   "seo": "Formation méditation : France, Belgique, Suisse, Luxembourg",
-  "desc": "Formation à la méditation en France et en Europe francophone : ateliers sur site ou à distance, et une application gratuite pour apprendre seul.",
+  "desc": "Formation à la méditation en France et en Europe francophone : ateliers sur site ou à distance, et une app gratuite pour apprendre la méditation seul.",
   "h1": "Formation à la méditation en France et en Europe francophone",
-  "intro": "Nous animons des ateliers et des formations à la méditation pour les entreprises, les associations et les établissements, dans vos locaux ou à distance. Et pour apprendre seul, l’application MeditaDream est gratuite, en français, sans abonnement ni compte.",
-  "formats_h2": "Trois façons de se former",
+  "intro": "Comment apprendre la méditation, en groupe ou seul ? Nous animons des ateliers et des formations à la méditation pour les entreprises, les associations et les établissements, dans vos locaux ou à distance. Une formation à la méditation en ligne se suit en visioconférence, où que soit l’équipe. Et pour apprendre la méditation seul, l’application MeditaDream est gratuite, en français, sans abonnement ni compte.",
+  "formats_h2": "Trois façons de se former à la méditation",
   "formats": [
-   ["Un atelier de découverte", "Une séance d’initiation pour essayer ensemble : posture, souffle, attention. Sans engagement."],
-   ["Un cycle de plusieurs séances", "Un rendez-vous régulier pour installer la pratique : gestion du stress, cohérence cardiaque, pauses courtes."],
-   ["L’application, en autonomie", "Un parcours pour débutants, des séances de 4 minutes et des méditations guidées, à suivre quand on veut, même hors ligne."]
+   [
+    "Un atelier de découverte",
+    "Une séance d’initiation à la méditation pour essayer ensemble : posture, souffle, attention. Sans engagement."
+   ],
+   [
+    "Un cycle de plusieurs séances",
+    "Un rendez-vous régulier, comme un cours de méditation en entreprise, pour installer la pratique : gestion du stress, cohérence cardiaque, pauses courtes."
+   ],
+   [
+    "L’application, en autonomie",
+    "Un parcours pour débutants, des séances de 4 minutes et des méditations guidées, à suivre quand on veut, même hors ligne."
+   ]
   ],
   "pays": {
    "France": "À Paris et dans les grandes villes, dans vos locaux lorsque le déplacement est possible, et partout à distance.",
-   "Belgique": "À Bruxelles et en Wallonie, à distance, et sur site sur demande.",
-   "Suisse romande": "À Genève et à Lausanne, à distance, et sur site sur demande.",
-   "Luxembourg": "Pour les équipes du Grand-Duché et les travailleurs frontaliers, à distance, et sur site sur demande."
+   "Belgique": "À Bruxelles et en Wallonie, à distance, et sur site sur demande. En Belgique, la formation à la méditation est animée en français.",
+   "Suisse romande": "À Genève et à Lausanne, à distance, et sur site sur demande. En Suisse, une formation à la méditation sur place s’organise pour une journée ou un cycle de séances.",
+   "Luxembourg": "Pour les équipes du Grand-Duché et les travailleurs frontaliers, à distance, et sur site sur demande. Au Luxembourg, la formation à la méditation à distance réunit des collaborateurs de plusieurs pays."
   }
  },
  "programme": [
@@ -26,77 +35,528 @@
  ],
  "deroule": "Tout commence par un échange sur vos attentes : taille de l’équipe, horaires, lieu. Nous vous adressons ensuite une proposition sur mesure. Entre deux séances, chacun continue librement avec l’application.",
  "villes": [
-  {"slug": "paris", "nom": "Paris", "a": "à Paris", "pays": "France", "local": true,
+  {
+   "slug": "paris",
+   "nom": "Paris",
+   "a": "à Paris",
+   "pays": "France",
+   "local": true,
    "contexte": "À Paris, les journées sont denses : trajets longs, réunions qui s’enchaînent, bureaux partagés où l’on s’isole difficilement. Sièges sociaux de La Défense, jeunes entreprises, cabinets, administrations, hôtels et restaurants : chaque équipe a son rythme. Nous adaptons le format à vos contraintes, d’une pause guidée de dix minutes à l’heure du déjeuner jusqu’à un cycle de plusieurs séances.",
    "voisins": "Boulogne-Billancourt, Issy-les-Moulineaux, Montreuil, Saint-Denis, La Défense",
-   "faq": ["Intervenez-vous dans toute l’Île-de-France ?", "Oui, sur demande. Paris et la proche banlieue sont les plus simples à organiser ; pour les sites plus éloignés ou répartis sur plusieurs adresses, le format à distance permet de réunir tout le monde."]},
-  {"slug": "lyon", "nom": "Lyon", "a": "à Lyon", "pays": "France",
+   "faq": [
+    "Intervenez-vous dans toute l’Île-de-France ?",
+    "Oui, sur demande. Paris et la proche banlieue sont les plus simples à organiser ; pour les sites plus éloignés ou répartis sur plusieurs adresses, le format à distance permet de réunir tout le monde."
+   ],
+   "seo": "Méditation à Paris : formation, cours, atelier, app gratuite",
+   "h1": "Méditation à Paris : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Méditation à Paris : formation, cours et ateliers en entreprise, dans vos locaux ou à distance. Pour apprendre à méditer seul : une application gratuite.",
+   "sections": [
+    {
+     "h2": "Initiation à la méditation à Paris : en atelier ou seul",
+     "p": [
+      "Méditer au travail, à Paris, c’est rarement méditer dans le silence : il y a le métro, les sirènes, les collègues. En atelier de méditation, l’initiation se fait dans vos locaux, bruits compris. Seul, on découvre la méditation de pleine conscience à Paris avec l’application : sentir le corps, suivre le souffle, dans le RER ou sur un banc des Buttes-Chaumont."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Existe-t-il un cours de méditation gratuit à Paris ?",
+     "Oui, et il tient dans la poche : le parcours pour débutants de l’application MeditaDream se suit comme un cours, séance après séance. De quoi apprendre à méditer gratuitement, sans abonnement ni compte. Nos formations et nos ateliers s’adressent aux groupes : entreprises, associations, établissements."
+    ]
+   ]
+  },
+  {
+   "slug": "lyon",
+   "nom": "Lyon",
+   "a": "à Lyon",
+   "pays": "France",
    "contexte": "De la Part-Dieu à Gerland, Lyon réunit des métiers très différents : sièges régionaux, santé et biotechnologies, industrie, commerces, restauration. Les besoins ne sont pas les mêmes dans un bureau partagé, un laboratoire ou une équipe en horaires décalés. Nous construisons avec vous un format réaliste : des séances courtes, guidées pas à pas, que chacun peut refaire seul.",
    "voisins": "Villeurbanne, Vénissieux, Saint-Priest, Écully",
-   "faq": ["Peut-on former des équipes en horaires décalés ?", "Oui. Les séances peuvent être proposées à plusieurs moments de la journée, et l’application permet à chacun de pratiquer quand il le peut, y compris hors ligne."]},
-  {"slug": "marseille", "nom": "Marseille", "a": "à Marseille", "pays": "France",
+   "faq": [
+    "Peut-on former des équipes en horaires décalés ?",
+    "Oui. Les séances peuvent être proposées à plusieurs moments de la journée, et l’application permet à chacun de pratiquer quand il le peut, y compris hors ligne."
+   ],
+   "seo": "Méditation à Lyon : formation, cours, ateliers, app gratuite",
+   "h1": "Méditation à Lyon : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Lyon : cours et ateliers en entreprise, à distance ou sur site. Pour apprendre à méditer seul, une application gratuite.",
+   "sections": [
+    {
+     "h2": "Une formation à la méditation de pleine conscience à Lyon ?",
+     "p": [
+      "La pleine conscience (mindfulness) commence par des gestes simples : s’asseoir, suivre le souffle, remarquer où va l’attention. Nos ateliers d’initiation débutent ainsi. À Lyon, l’exercice se prolonge dehors : dix respirations lentes sur les berges du Rhône ou au parc de la Tête d’Or. Partout en Auvergne-Rhône-Alpes, la formation à la méditation se suit à distance."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Où suivre un cours de méditation à Lyon quand on est seul ?",
+     "Nos ateliers réunissent des groupes déjà constitués : équipes, associations, établissements. Seul, vous pouvez apprendre à méditer gratuitement avec l’application : son parcours pour débutants avance pas à pas, comme le ferait un cours. Et pour méditer au travail, ses séances de 4 minutes tiennent dans une pause."
+    ]
+   ]
+  },
+  {
+   "slug": "marseille",
+   "nom": "Marseille",
+   "a": "à Marseille",
+   "pays": "France",
    "contexte": "Marseille vit au rythme de son port, de ses commerces et du quartier d’affaires Euroméditerranée, tandis que les sites industriels et aéronautiques s’étendent vers Aix-en-Provence, Vitrolles et Marignane. Entre le bruit, la chaleur et les trajets, une vraie pause n’est pas toujours facile à trouver. Quelques minutes guidées, au calme, suffisent pour commencer.",
    "voisins": "Aix-en-Provence, Aubagne, Vitrolles, Marignane",
-   "faq": ["Faut-il une salle particulière ?", "Non. Une salle de réunion calme et des chaises suffisent. Aucun matériel n’est nécessaire, ni tapis ni coussin."]},
-  {"slug": "toulouse", "nom": "Toulouse", "a": "à Toulouse", "pays": "France",
+   "faq": [
+    "Faut-il une salle particulière ?",
+    "Non. Une salle de réunion calme et des chaises suffisent. Aucun matériel n’est nécessaire, ni tapis ni coussin."
+   ],
+   "seo": "Méditation à Marseille : formation, cours et app gratuite",
+   "h1": "Méditation à Marseille : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Marseille : ateliers et cours de méditation en entreprise, à distance ou sur site. Pour apprendre seul, une application gratuite.",
+   "sections": [
+    {
+     "h2": "Un atelier de méditation à Marseille, entre mer et mistral",
+     "p": [
+      "À Marseille, la mer n’est jamais loin. Regarder l’horizon depuis la Corniche, écouter le ressac, sentir le mistral sur le visage : c’est déjà un exercice d’attention. Un atelier de méditation en donne la méthode, pas à pas. La méditation de pleine conscience se pratique ensuite partout à Marseille, d’un banc du Vieux-Port à une salle de réunion."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Proposez-vous un cours de méditation à Marseille pour les particuliers ?",
+     "Nos ateliers et nos formations sont conçus pour les groupes : entreprises, associations, établissements. Une personne seule peut apprendre à méditer gratuitement avec l’application : un parcours pour débutants, puis des séances de 4 minutes, pour méditer au travail comme sur une plage du Prado."
+    ]
+   ]
+  },
+  {
+   "slug": "toulouse",
+   "nom": "Toulouse",
+   "a": "à Toulouse",
+   "pays": "France",
    "contexte": "À Toulouse, l’aéronautique et le spatial font travailler des milliers d’ingénieurs et de techniciens, de Blagnac à Colomiers et jusqu’à Labège, aux côtés des universités et des laboratoires. Ce sont des métiers de précision, où l’attention est sollicitée toute la journée. La méditation s’y présente simplement : un entraînement de l’attention, sans croyance ni jargon.",
    "voisins": "Blagnac, Colomiers, Labège, Balma",
-   "faq": ["La méditation convient-elle à un public très rationnel ?", "Oui. Les séances sont concrètes : on observe le souffle, le corps, les pensées qui passent. Aucune croyance n’est demandée, et chacun reste libre de participer comme il le souhaite."]},
-  {"slug": "bordeaux", "nom": "Bordeaux", "a": "à Bordeaux", "pays": "France",
+   "faq": [
+    "La méditation convient-elle à un public très rationnel ?",
+    "Oui. Les séances sont concrètes : on observe le souffle, le corps, les pensées qui passent. Aucune croyance n’est demandée, et chacun reste libre de participer comme il le souhaite."
+   ],
+   "seo": "Méditation à Toulouse : formation, cours et app gratuite",
+   "h1": "Méditation à Toulouse : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Toulouse : cours, ateliers et cohérence cardiaque en entreprise, à distance ou sur site. Pour apprendre seul : une app gratuite.",
+   "sections": [
+    {
+     "h2": "Cohérence cardiaque à Toulouse : un exercice qui se compte",
+     "p": [
+      "Pour un public d’ingénieurs, la cohérence cardiaque est une bonne porte d’entrée : inspirer cinq secondes, expirer cinq secondes, quelques minutes de suite. En atelier de méditation, à Toulouse, on l’apprend ensemble ; chacun la refait seul, sur les berges de la Garonne ou le long du canal du Midi."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Comment apprendre à méditer à Toulouse sans payer de cours ?",
+     "Avec l’application MeditaDream. Son parcours pour débutants est un cours de méditation gratuit, à Toulouse comme partout : des exercices de pleine conscience guidés, sans abonnement ni compte. Seul, on peut ainsi apprendre à méditer gratuitement, puis méditer au travail quelques minutes par jour. Les ateliers et les formations sont proposés aux groupes."
+    ]
+   ]
+  },
+  {
+   "slug": "bordeaux",
+   "nom": "Bordeaux",
+   "a": "à Bordeaux",
+   "pays": "France",
    "contexte": "Bordeaux associe la filière du vin, l’aéronautique autour de Mérignac, les services du quartier Euratlantique et un commerce de centre-ville très vivant. Beaucoup d’équipes alternent périodes calmes et périodes de forte activité : vendanges, salons, clôtures. Des séances courtes, proposées au bon moment, aident à traverser ces périodes avec plus de recul.",
    "voisins": "Mérignac, Pessac, Talence, Bègles",
-   "faq": ["Peut-on organiser une seule séance de découverte ?", "Oui. Une séance d’initiation permet à l’équipe d’essayer, sans engagement. Si l’envie est là, un cycle de plusieurs séances se décide ensuite ensemble."]},
-  {"slug": "lille", "nom": "Lille", "a": "à Lille", "pays": "France",
+   "faq": [
+    "Peut-on organiser une seule séance de découverte ?",
+    "Oui. Une séance d’initiation permet à l’équipe d’essayer, sans engagement. Si l’envie est là, un cycle de plusieurs séances se décide ensuite ensemble."
+   ],
+   "seo": "Méditation à Bordeaux : formation, cours et app gratuite",
+   "h1": "Méditation à Bordeaux : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Bordeaux : un cours ou un atelier pour votre équipe, à distance ou sur site. Et pour apprendre à méditer seul, une app gratuite.",
+   "sections": [
+    {
+     "h2": "Cours de méditation à Bordeaux : pour un groupe ou pour soi",
+     "p": [
+      "Chez nous, un cours de méditation à Bordeaux prend deux formes. Pour un groupe, c’est un atelier d’initiation ou un cycle de séances, construit avec vous. Pour soi, c’est le parcours pour débutants de l’application : quelques minutes de méditation de pleine conscience, à Bordeaux, sur les quais de la Garonne ou au Jardin public."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Faut-il déjà connaître la pleine conscience pour suivre une formation à Bordeaux ?",
+     "Non. Les ateliers d’initiation partent de zéro : la posture, le souffle, l’attention. Personne n’a besoin d’avoir déjà pratiqué. Entre deux séances, chacun peut apprendre à méditer gratuitement avec l’application, puis méditer au travail quand l’activité s’emballe : vendanges, salons, clôtures."
+    ]
+   ]
+  },
+  {
+   "slug": "lille",
+   "nom": "Lille",
+   "a": "à Lille",
+   "pays": "France",
    "contexte": "Autour d’Euralille, la métropole lilloise concentre des sièges de la grande distribution et de la vente à distance, des centres de relation client, des écoles et un tissu dense de PME, de Roubaix à Villeneuve-d’Ascq. Ce sont souvent des plateaux ouverts, bruyants, où l’on passe d’un appel à l’autre. Apprendre à faire une pause de trois minutes entre deux tâches y change la journée.",
    "voisins": "Roubaix, Tourcoing, Villeneuve-d’Ascq, Marcq-en-Barœul",
-   "faq": ["Intervenez-vous aussi côté belge ?", "Oui, à distance, et sur site sur demande. Nous proposons les mêmes ateliers à Bruxelles, à Liège et à Namur."]},
-  {"slug": "nantes", "nom": "Nantes", "a": "à Nantes", "pays": "France",
+   "faq": [
+    "Intervenez-vous aussi côté belge ?",
+    "Oui, à distance, et sur site sur demande. Nous proposons les mêmes ateliers à Bruxelles, à Liège et à Namur."
+   ],
+   "seo": "Méditation à Lille : formation, cours, atelier, app gratuite",
+   "h1": "Méditation à Lille : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Lille : ateliers et cours en entreprise, sur site ou à distance. Pour apprendre à méditer seul : une application gratuite.",
+   "sections": [
+    {
+     "h2": "Cours de méditation à Lille : le bruit n’est pas un obstacle",
+     "p": [
+      "Sur un plateau ouvert, le silence n’existe pas. La méditation de pleine conscience ne le réclame pas : à Lille comme ailleurs, elle consiste à remarquer les sons, le souffle, les tensions, sans chercher à les changer. Un cours de méditation à Lille commence par là, en salle de réunion. Dehors, le parc de la Citadelle offre un autre terrain d’exercice."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Peut-on débuter la méditation à Lille sans rien payer ?",
+     "Oui. Le parcours pour débutants de l’application est gratuit, sans abonnement ni compte : de quoi apprendre à méditer gratuitement dans le métro, puis méditer au travail quelques minutes, entre deux appels. Pour une équipe, l’atelier se prépare par un premier échange."
+    ]
+   ]
+  },
+  {
+   "slug": "nantes",
+   "nom": "Nantes",
+   "a": "à Nantes",
+   "pays": "France",
    "contexte": "Nantes s’est fait une place dans le numérique et les métiers créatifs, autour de l’île de Nantes, sans quitter ses bases : l’agroalimentaire, l’industrie et les services. Les équipes y sont souvent jeunes, en télétravail une partie de la semaine. Le format à distance leur convient bien : tout le monde se retrouve pour vingt minutes, où qu’il soit.",
    "voisins": "Saint-Herblain, Rezé, Orvault, Carquefou",
-   "faq": ["Une séance à distance, est-ce que cela fonctionne ?", "Très bien : chacun s’installe au calme, caméra allumée ou non, et suit la voix. Beaucoup de participants trouvent même plus facile de fermer les yeux chez eux qu’en salle de réunion."]},
-  {"slug": "strasbourg", "nom": "Strasbourg", "a": "à Strasbourg", "pays": "France",
+   "faq": [
+    "Une séance à distance, est-ce que cela fonctionne ?",
+    "Très bien : chacun s’installe au calme, caméra allumée ou non, et suit la voix. Beaucoup de participants trouvent même plus facile de fermer les yeux chez eux qu’en salle de réunion."
+   ],
+   "seo": "Méditation à Nantes : formation, cours et app gratuite",
+   "h1": "Méditation à Nantes : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Nantes : cours et ateliers en entreprise, à distance, en télétravail ou sur site. Pour apprendre seul : une application gratuite.",
+   "sections": [
+    {
+     "h2": "Cours de méditation à Nantes : en télétravail aussi",
+     "p": [
+      "À Nantes, le télétravail n’empêche pas de méditer ensemble : un cours de méditation à distance se suit de chez soi, à Rezé, à Orvault ou plus loin. La méditation de pleine conscience se pratique aussi dehors, à Nantes, le long de l’Erdre ou au Jardin des Plantes : marcher lentement, sentir ses pas, écouter."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "La méditation à Nantes, est-ce forcément payant ?",
+     "Non. L’application est en accès gratuit pour tous, sans abonnement ni compte : son parcours pour débutants suffit pour apprendre à méditer gratuitement. Méditer au travail, même en télétravail, ne demande alors rien d’autre. Seuls les ateliers pour les équipes font l’objet d’une proposition sur mesure."
+    ]
+   ]
+  },
+  {
+   "slug": "strasbourg",
+   "nom": "Strasbourg",
+   "a": "à Strasbourg",
+   "pays": "France",
    "contexte": "Siège du Parlement européen et du Conseil de l’Europe, Strasbourg accueille des équipes internationales, des administrations et, plus au sud, les entreprises du parc d’innovation d’Illkirch-Graffenstaden. On y travaille souvent en plusieurs langues. Les ateliers sont animés en français ; l’application, elle, existe aussi en anglais et en espagnol, ce qui permet à chacun de continuer dans sa langue.",
    "voisins": "Schiltigheim, Illkirch-Graffenstaden, Lingolsheim",
-   "faq": ["Dans quelles langues l’application est-elle disponible ?", "En français, en anglais et en espagnol. Chaque collaborateur choisit sa langue dans les réglages."]},
-  {"slug": "nice", "nom": "Nice", "a": "à Nice", "pays": "France",
+   "faq": [
+    "Dans quelles langues l’application est-elle disponible ?",
+    "En français, en anglais et en espagnol. Chaque collaborateur choisit sa langue dans les réglages."
+   ],
+   "seo": "Méditation à Strasbourg : formation, cours et app gratuite",
+   "h1": "Méditation à Strasbourg : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Strasbourg : cours et ateliers en entreprise, en français, à distance ou sur site. Pour apprendre seul : une application gratuite.",
+   "sections": [
+    {
+     "h2": "Un cours de méditation à Strasbourg, entre l’Ill et le Rhin",
+     "p": [
+      "Strasbourg se parcourt à vélo et à pied, le long de l’eau : un bon terrain d’exercice. La méditation de pleine conscience à Strasbourg peut commencer là, par une marche lente sur les quais de l’Ill ou au jardin des Deux Rives. En entreprise, un cours de méditation reprend le même geste, assis : revenir au souffle, puis au travail."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Comment apprendre à méditer quand on débute complètement ?",
+     "En commençant petit. Avec l’application, on peut apprendre à méditer gratuitement : un parcours pour débutants, étape par étape, puis des séances de 4 minutes. Pour méditer au travail, l’atelier donne un cadre : une séance de découverte, que l’équipe prolonge si elle le souhaite."
+    ]
+   ]
+  },
+  {
+   "slug": "nice",
+   "nom": "Nice",
+   "a": "à Nice",
+   "pays": "France",
    "contexte": "Sur la Côte d’Azur, le tourisme, l’hôtellerie et la restauration imposent des horaires longs et des saisons intenses, pendant que la technopole de Sophia Antipolis réunit ingénieurs et chercheurs. Deux mondes, un même besoin : souffler. Pour les équipes de salle, de réception ou d’étage, des séances de quelques minutes en début de service ; pour les bureaux, un rendez-vous hebdomadaire.",
    "voisins": "Sophia Antipolis, Antibes, Cagnes-sur-Mer, Saint-Laurent-du-Var",
-   "faq": ["Proposez-vous des formats adaptés à l’hôtellerie et à la restauration ?", "Oui. Les séances peuvent durer cinq à dix minutes, debout ou assis, juste avant le service. Elles ne demandent ni salle dédiée ni tenue particulière."]},
-  {"slug": "rennes", "nom": "Rennes", "a": "à Rennes", "pays": "France",
+   "faq": [
+    "Proposez-vous des formats adaptés à l’hôtellerie et à la restauration ?",
+    "Oui. Les séances peuvent durer cinq à dix minutes, debout ou assis, juste avant le service. Elles ne demandent ni salle dédiée ni tenue particulière."
+   ],
+   "seo": "Méditation à Nice : formation, cours, ateliers, app gratuite",
+   "h1": "Méditation à Nice : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Nice : cours et ateliers en entreprise, même en pleine saison, à distance ou sur site. Pour apprendre seul : une app gratuite.",
+   "sections": [
+    {
+     "h2": "Cours de méditation à Nice : même en pleine saison",
+     "p": [
+      "En pleine saison, sur la Côte d’Azur, les équipes n’ont pas une heure devant elles. Un cours de méditation à Nice se réduit alors à l’essentiel : quelques minutes avant le service, debout, à suivre son souffle. Le reste de l’année, la méditation de pleine conscience se pratique à Nice face à la mer, sur la Promenade des Anglais."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Comment méditer au travail quand le service ne s’arrête jamais ?",
+     "En visant court. Une séance de 4 minutes de l’application se glisse dans une coupure, en cuisine comme à la réception, et fonctionne hors ligne. C’est aussi une façon d’apprendre à méditer gratuitement : le parcours pour débutants reprend les bases, une séance après l’autre."
+    ]
+   ]
+  },
+  {
+   "slug": "rennes",
+   "nom": "Rennes",
+   "a": "à Rennes",
+   "pays": "France",
    "contexte": "Rennes est un pôle reconnu du numérique, des télécommunications et de la cybersécurité, avec la technopole Rennes Atalante et ses campus. Les journées s’y passent devant des écrans, dans une concentration soutenue. La méditation propose l’inverse pendant quelques minutes : ne rien produire, revenir au souffle, laisser les yeux se reposer.",
    "voisins": "Cesson-Sévigné, Saint-Grégoire, Bruz, Chantepie",
-   "faq": ["Combien de temps dure une séance ?", "De dix minutes à une heure, selon le format choisi. Pour débuter, vingt à trente minutes suffisent : un temps d’explication, une pratique guidée, puis un échange."]},
-  {"slug": "montpellier", "nom": "Montpellier", "a": "à Montpellier", "pays": "France",
+   "faq": [
+    "Combien de temps dure une séance ?",
+    "De dix minutes à une heure, selon le format choisi. Pour débuter, vingt à trente minutes suffisent : un temps d’explication, une pratique guidée, puis un échange."
+   ],
+   "seo": "Méditation à Rennes : formation, cours et app gratuite",
+   "h1": "Méditation à Rennes : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Rennes : cours et ateliers en entreprise, à distance ou sur site. Pour apprendre seul, sans abonnement : une application gratuite.",
+   "sections": [
+    {
+     "h2": "Méditation de pleine conscience à Rennes : quitter l’écran des yeux",
+     "p": [
+      "Après des heures de code ou de visioconférence, l’attention se disperse. La méditation de pleine conscience commence par un geste simple : regarder au loin, fermer les yeux, suivre dix respirations. À Rennes, un cours de méditation en entreprise l’enseigne à toute l’équipe ; on le refait seul, sur un banc du Thabor."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Méditation à Rennes : où trouver un cours gratuit pour débuter ?",
+     "Dans le parcours pour débutants de l’application, sans abonnement ni compte : une étape après l’autre, pour apprendre à méditer gratuitement. Les séances de 4 minutes aident ensuite à méditer au travail, entre deux réunions. Pour une équipe, tout commence par un échange."
+    ]
+   ]
+  },
+  {
+   "slug": "montpellier",
+   "nom": "Montpellier",
+   "a": "à Montpellier",
+   "pays": "France",
    "contexte": "Montpellier grandit vite : la santé et la recherche, le numérique, les services, et de nouveaux quartiers de bureaux vers Port Marianne. Beaucoup d’entreprises y sont jeunes, avec des équipes qui se constituent. Un atelier de méditation est aussi un moment partagé, simple, qui change des réunions habituelles.",
    "voisins": "Castelnau-le-Lez, Lattes, Pérols, Saint-Jean-de-Védas",
-   "faq": ["À partir de combien de participants ?", "Il n’y a pas de minimum strict. Un petit groupe de cinq à quinze personnes est idéal pour débuter ; au-delà, plusieurs groupes ou un format à distance sont préférables."]},
-  {"slug": "grenoble", "nom": "Grenoble", "a": "à Grenoble", "pays": "France",
+   "faq": [
+    "À partir de combien de participants ?",
+    "Il n’y a pas de minimum strict. Un petit groupe de cinq à quinze personnes est idéal pour débuter ; au-delà, plusieurs groupes ou un format à distance sont préférables."
+   ],
+   "seo": "Méditation à Montpellier : formation, cours et app gratuite",
+   "h1": "Méditation à Montpellier : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Montpellier : cours et ateliers pour votre équipe, à distance ou sur site. Pour apprendre à méditer seul : une app gratuite.",
+   "sections": [
+    {
+     "h2": "Méditation de pleine conscience à Montpellier : le décor s’y prête",
+     "p": [
+      "La méditation de pleine conscience (mindfulness) consiste à prêter attention à ce qui est là : le souffle, le corps, les sons. À Montpellier, les occasions ne manquent pas : un banc de la promenade du Peyrou, les berges du Lez. Pour une équipe, un cours de méditation à Montpellier se construit sur mesure."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Faut-il s’inscrire à une formation pour apprendre à méditer à Montpellier ?",
+     "Non. Une formation à la pleine conscience aide à démarrer en groupe. Mais le premier pas peut être gratuit : à Montpellier, la méditation s’apprend aussi en solo. L’application suffit pour apprendre à méditer gratuitement ; on peut ensuite proposer un atelier à son équipe pour méditer au travail."
+    ]
+   ]
+  },
+  {
+   "slug": "grenoble",
+   "nom": "Grenoble",
+   "a": "à Grenoble",
+   "pays": "France",
    "contexte": "Entre recherche, microélectronique et énergie, Grenoble rassemble des laboratoires, des ingénieurs et de nombreuses jeunes entreprises, de la Presqu’île scientifique à Meylan. Les montagnes sont à la porte, et beaucoup connaissent déjà l’effet d’une respiration profonde en altitude. La méditation prolonge ce réflexe au bureau, en quelques minutes.",
    "voisins": "Meylan, Échirolles, Saint-Martin-d’Hères, Crolles",
-   "faq": ["Faut-il déjà avoir médité ?", "Non. Les ateliers d’initiation partent de zéro : comment s’asseoir, où porter l’attention, que faire des pensées. Les personnes qui pratiquent déjà y trouvent un cadre pour reprendre."]},
-  {"slug": "bruxelles", "nom": "Bruxelles", "a": "à Bruxelles", "pays": "Belgique",
+   "faq": [
+    "Faut-il déjà avoir médité ?",
+    "Non. Les ateliers d’initiation partent de zéro : comment s’asseoir, où porter l’attention, que faire des pensées. Les personnes qui pratiquent déjà y trouvent un cadre pour reprendre."
+   ],
+   "seo": "Méditation à Grenoble : formation, cours et app gratuite",
+   "h1": "Méditation à Grenoble : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Grenoble : cours et ateliers en entreprise ou en laboratoire, à distance ou sur site. Pour apprendre seul : une app gratuite.",
+   "sections": [
+    {
+     "h2": "Méditation de pleine conscience à Grenoble : comme en montagne",
+     "p": [
+      "Qui a marché en Chartreuse, dans le Vercors ou en Belledonne connaît cet instant où l’on s’arrête pour regarder et respirer. La méditation de pleine conscience (mindfulness) cultive ce moment-là, sans dénivelé. À Grenoble, un cours de méditation en entreprise le ramène au bureau ; seul, on le retrouve avec l’application, sur les quais de l’Isère ou en haut de la Bastille."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Comment apprendre à méditer sans y passer une heure par jour ?",
+     "En découpant la pratique en petits moments. L’application permet d’apprendre à méditer gratuitement par séances courtes : un parcours pour débutants, puis des séances de 4 minutes. Méditer au travail tient alors dans une pause, même sans salle. Un atelier, lui, installe l’habitude à plusieurs."
+    ]
+   ]
+  },
+  {
+   "slug": "bruxelles",
+   "nom": "Bruxelles",
+   "a": "à Bruxelles",
+   "pays": "Belgique",
    "contexte": "Bruxelles réunit les institutions européennes, des sièges d’entreprises, des administrations et de nombreuses associations. Les équipes y sont internationales et les agendas chargés. Les ateliers sont animés en français ; l’application, disponible aussi en anglais et en espagnol, permet à chacun de continuer dans sa langue.",
    "voisins": "Ixelles, Etterbeek, Schaerbeek, Uccle",
-   "faq": ["Les ateliers sont-ils animés en néerlandais ?", "Non, ils sont animés en français. L’application, elle, est disponible en français, en anglais et en espagnol."]},
-  {"slug": "liege", "nom": "Liège", "a": "à Liège", "pays": "Belgique",
+   "faq": [
+    "Les ateliers sont-ils animés en néerlandais ?",
+    "Non, ils sont animés en français. L’application, elle, est disponible en français, en anglais et en espagnol."
+   ],
+   "seo": "Méditation à Bruxelles : formation, cours et app gratuite",
+   "h1": "Méditation à Bruxelles : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Bruxelles : cours et ateliers pour les équipes, à distance ou sur site sur demande. Pour apprendre seul : une app gratuite.",
+   "sections": [
+    {
+     "h2": "Pleine conscience à Bruxelles : en groupe ou en solo",
+     "p": [
+      "Dans la capitale belge, on dit volontiers mindfulness ; l’idée reste la même : revenir au souffle et à ce qui se passe maintenant. En atelier, la pratique devient une méditation en groupe, à Bruxelles, pour une équipe déjà constituée. En solo, la méditation de pleine conscience se découvre avec l’application, au bois de la Cambre."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Proposez-vous un cours de méditation à Bruxelles pour une association ?",
+     "Oui. Nos ateliers s’adressent aux associations comme aux entreprises et aux établissements : une séance de découverte, puis un cycle si le groupe le souhaite. Chacun peut ensuite apprendre à méditer gratuitement sur son téléphone, et méditer au travail entre deux réunions."
+    ]
+   ]
+  },
+  {
+   "slug": "liege",
+   "nom": "Liège",
+   "a": "à Liège",
+   "pays": "Belgique",
    "contexte": "Liège est un carrefour logistique, avec son aéroport tourné vers le fret, son port fluvial et un tissu industriel en pleine transformation, de Herstal à Seraing, auquel s’ajoutent l’université et le centre hospitalier. Dans ces métiers, les horaires sont souvent décalés et le rythme soutenu. Des pauses guidées de quelques minutes s’intègrent en début ou en fin de poste.",
    "voisins": "Herstal, Seraing, Ans, Chaudfontaine",
-   "faq": ["Peut-on pratiquer sans connexion ?", "Oui. Une fois les séances téléchargées, l’application fonctionne hors ligne : dans un entrepôt, en déplacement ou dans les transports."]},
-  {"slug": "namur", "nom": "Namur", "a": "à Namur", "pays": "Belgique",
+   "faq": [
+    "Peut-on pratiquer sans connexion ?",
+    "Oui. Une fois les séances téléchargées, l’application fonctionne hors ligne : dans un entrepôt, en déplacement ou dans les transports."
+   ],
+   "seo": "Méditation à Liège : formation, cours, atelier, app gratuite",
+   "h1": "Méditation à Liège : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Liège : cours et ateliers, même en horaires décalés, à distance ou sur site sur demande. Pour apprendre seul : une app gratuite.",
+   "sections": [
+    {
+     "h2": "Un cours de méditation à Liège, avant ou après le poste",
+     "p": [
+      "En horaires décalés, un cours de méditation à heure fixe est difficile à suivre. À Liège, le format court est le plus réaliste : quelques minutes pour poser le souffle avant le poste, quelques autres pour relâcher les épaules après. La méditation de pleine conscience se glisse dans le trajet, à Liège, le long de la Meuse."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Formation aux bases de la pleine conscience à Liège : par quoi débuter ?",
+     "Par le corps plutôt que par les idées : la posture, le souffle, l’attention, assis ou debout. On peut ensuite apprendre à méditer gratuitement avec l’application, hors ligne, et méditer au travail deux ou trois minutes, à la prise de poste."
+    ]
+   ]
+  },
+  {
+   "slug": "namur",
+   "nom": "Namur",
+   "a": "à Namur",
+   "pays": "Belgique",
    "contexte": "Capitale de la Wallonie, Namur accueille le Parlement et de nombreuses administrations régionales, ainsi que des écoles, une université et des services. Le travail de bureau, les dossiers longs et les réunions y dominent. Une pratique régulière, même brève, aide à retrouver de la clarté avant une décision ou une prise de parole.",
    "voisins": "Jambes, Erpent, Gembloux",
-   "faq": ["Proposez-vous un devis pour un service public ?", "Oui. Après un premier échange, nous vous adressons une proposition écrite, adaptée à vos procédures."]},
-  {"slug": "geneve", "nom": "Genève", "a": "à Genève", "pays": "Suisse romande",
+   "faq": [
+    "Proposez-vous un devis pour un service public ?",
+    "Oui. Après un premier échange, nous vous adressons une proposition écrite, adaptée à vos procédures."
+   ],
+   "seo": "Méditation à Namur : pleine conscience, formation et cours",
+   "h1": "Méditation et pleine conscience à Namur : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Méditation et pleine conscience à Namur : formation et cours, à distance ou sur site sur demande. Pour apprendre à méditer seul : une application gratuite.",
+   "sections": [
+    {
+     "h2": "Pleine conscience à Namur : par où commencer ?",
+     "p": [
+      "La pleine conscience (mindfulness) s’apprend par la pratique : s’asseoir, suivre le souffle, remarquer les pensées sans s’y accrocher. Nos ateliers d’initiation, proposés aux équipes, commencent par là. Seul, on débute avec l’application : des exercices de pleine conscience guidés, à refaire à Namur, au confluent de la Sambre et de la Meuse."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Un cours de méditation à Namur peut-il se suivre à distance ?",
+     "Oui : les séances se tiennent à distance, en visioconférence, et un déplacement à Namur ou alentour s’organise sur demande. L’application sert, entre-temps, à apprendre à méditer gratuitement et à méditer au travail quelques minutes, avant une réunion ou une prise de parole."
+    ]
+   ]
+  },
+  {
+   "slug": "geneve",
+   "nom": "Genève",
+   "a": "à Genève",
+   "pays": "Suisse romande",
    "contexte": "Genève concentre des organisations internationales, des banques, des sociétés de négoce et des maisons horlogères. Les équipes y viennent du monde entier et beaucoup de collaborateurs traversent chaque jour la frontière. Les ateliers sont animés en français ; l’application, disponible aussi en anglais et en espagnol, accompagne chacun dans sa langue.",
    "voisins": "Carouge, Lancy, Meyrin, Vernier",
-   "faq": ["Intervenez-vous en Suisse ?", "Oui, à distance en visioconférence. Un déplacement à Genève ou à Lausanne s’organise sur demande, pour une journée ou un cycle de séances."]},
-  {"slug": "lausanne", "nom": "Lausanne", "a": "à Lausanne", "pays": "Suisse romande",
+   "faq": [
+    "Intervenez-vous en Suisse ?",
+    "Oui, à distance en visioconférence. Un déplacement à Genève ou à Lausanne s’organise sur demande, pour une journée ou un cycle de séances."
+   ],
+   "seo": "Méditation à Genève : formation, cours et app gratuite",
+   "h1": "Méditation à Genève : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Genève : initiation, cours et ateliers, à distance ou sur site sur demande. Pour apprendre à méditer seul : une app gratuite.",
+   "sections": [
+    {
+     "h2": "Initiation à la méditation à Genève : la première séance",
+     "p": [
+      "Une initiation à la méditation tient en trois gestes : s’installer, suivre le souffle, ramener l’attention quand elle s’échappe. À Genève, une équipe les découvre en atelier. Seul, on les apprend avec l’application : un parcours gratuit, de quoi essayer la méditation de pleine conscience (mindfulness) à Genève, face au lac ou dans le tram."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Un cours de méditation à Genève se suit-il en groupe ?",
+     "Oui, quand le groupe existe déjà : nos ateliers réunissent une équipe, une association ou un établissement. Seul, on peut apprendre à méditer gratuitement avec l’application, en français, en anglais ou en espagnol, puis méditer au travail quelques minutes par jour."
+    ]
+   ]
+  },
+  {
+   "slug": "lausanne",
+   "nom": "Lausanne",
+   "a": "à Lausanne",
+   "pays": "Suisse romande",
    "contexte": "Capitale olympique, Lausanne vit entre ses hautes écoles, son hôpital universitaire, les fédérations sportives internationales et les entreprises de l’arc lémanique. La recherche de performance y est partout. La méditation en est le contrepoint : un moment sans objectif, pour récupérer et retrouver de l’attention.",
    "voisins": "Renens, Pully, Écublens, Morges",
-   "faq": ["La méditation est-elle utile aux sportifs ?", "Beaucoup l’utilisent pour se préparer et récupérer. Nos séances restent simples : souffle, attention au corps, relâchement. Elles conviennent aussi bien aux sportifs qu’aux équipes de bureau."]},
-  {"slug": "luxembourg", "nom": "Luxembourg", "a": "au Luxembourg", "pays": "Luxembourg",
+   "faq": [
+    "La méditation est-elle utile aux sportifs ?",
+    "Beaucoup l’utilisent pour se préparer et récupérer. Nos séances restent simples : souffle, attention au corps, relâchement. Elles conviennent aussi bien aux sportifs qu’aux équipes de bureau."
+   ],
+   "seo": "Méditation à Lausanne : formation, cours et app gratuite",
+   "h1": "Méditation à Lausanne : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation à Lausanne : cours et ateliers pour souffler, à distance ou sur site sur demande. Pour apprendre à méditer seul : une app gratuite.",
+   "sections": [
+    {
+     "h2": "Pleine conscience à Lausanne : ralentir dans une ville en pente",
+     "p": [
+      "À Lausanne, on monte et on descend toute la journée, d’Ouchy à la gare. La méditation de pleine conscience (mindfulness) fait de ces trajets un exercice : sentir ses pas, son souffle. Au bord du lac, on s’arrête quelques minutes, sans objectif. En atelier, un cours de méditation à Lausanne apprend à refaire cette pause au travail."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Comment apprendre à méditer quand on vise toujours un résultat ?",
+     "En acceptant, pour une fois, de ne rien viser. On s’assoit, on suit le souffle, et l’on recommence dès que l’esprit repart. L’application permet d’apprendre à méditer gratuitement de cette façon ; pour méditer au travail, quatre minutes suffisent."
+    ]
+   ]
+  },
+  {
+   "slug": "luxembourg",
+   "nom": "Luxembourg",
+   "a": "au Luxembourg",
+   "pays": "Luxembourg",
    "contexte": "Place financière et siège d’institutions européennes, au Kirchberg notamment, le Luxembourg emploie chaque jour de très nombreux travailleurs frontaliers venus de France, de Belgique et d’Allemagne. Aux journées de bureau s’ajoutent de longs trajets. L’application permet de pratiquer dans le train ou le bus, casque sur les oreilles, et les ateliers à distance réunissent des équipes dispersées.",
    "voisins": "Kirchberg, Esch-sur-Alzette, Belval, Strassen",
-   "faq": ["Les ateliers peuvent-ils réunir des équipes de plusieurs pays ?", "Oui. Le format à distance réunit des collaborateurs de différents sites. Les ateliers sont animés en français ; l’application existe aussi en anglais et en espagnol."]}
+   "faq": [
+    "Les ateliers peuvent-ils réunir des équipes de plusieurs pays ?",
+    "Oui. Le format à distance réunit des collaborateurs de différents sites. Les ateliers sont animés en français ; l’application existe aussi en anglais et en espagnol."
+   ],
+   "seo": "Méditation au Luxembourg : formation, cours et app gratuite",
+   "h1": "Méditation au Luxembourg : formation, cours, ateliers en entreprise et pratique gratuite",
+   "desc": "Formation à la méditation au Luxembourg : cours et ateliers, à distance ou sur site sur demande. Pour apprendre à méditer seul : une application gratuite.",
+   "sections": [
+    {
+     "h2": "Un cours de méditation au Luxembourg, à l’heure de midi",
+     "p": [
+      "Pour un frontalier, la pause de midi est souvent le seul moment libre de la journée. C’est là qu’un cours de méditation au Luxembourg trouve sa place : une séance courte, en visioconférence ou avec l’application. À Luxembourg-Ville, on peut aussi marcher dans la vallée de la Pétrusse : dix minutes de pleine conscience (mindfulness), attentif à ses pas."
+     ]
+    }
+   ],
+   "faq_plus": [
+    [
+     "Comment apprendre à méditer sans ajouter un rendez-vous à son agenda ?",
+     "En s’appuyant sur ce qui existe déjà : un trajet, une file d’attente, la minute avant une réunion. Les séances de 4 minutes de l’application, utilisables hors ligne, servent à apprendre à méditer gratuitement. Méditer au travail devient alors une habitude discrète."
+    ]
+   ]
+  }
  ]
 }

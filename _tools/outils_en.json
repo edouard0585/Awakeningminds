@@ -1,0 +1,257 @@
+{
+ "respiration": {
+  "slug": "breathing-exercise",
+  "mots": {
+   "_note": "27-11 — volumes Keyword Planner (réservoirs du 06-11). « breathing exercises » et « box breathing » sont déjà les mots principaux de deux articles du blog : cette page vise l’intention outil (suivre un guide tout de suite), avec « guided breathing exercises » (+900 % sur un an).",
+   "principal": {
+    "mot": "guided breathing exercises",
+    "volume": "1 000-10 000"
+   },
+   "second": {
+    "mot": "4 7 8 breathing",
+    "volume": "10 000-100 000"
+   },
+   "autres": [
+    {
+     "mot": "box breathing technique",
+     "volume": "10 000-100 000"
+    },
+    {
+     "mot": "4 7 8 breathing technique",
+     "volume": "1 000-10 000"
+    },
+    {
+     "mot": "4 7 8 breathing for sleep",
+     "volume": "1 000-10 000"
+    },
+    {
+     "mot": "coherent breathing",
+     "volume": "1 000-10 000"
+    },
+    {
+     "mot": "resonance breathing",
+     "volume": "1 000-10 000"
+    },
+    {
+     "mot": "square breathing",
+     "volume": "1 000-10 000"
+    },
+    {
+     "mot": "box breathing vs 4 7 8",
+     "volume": "100-1 000"
+    },
+    {
+     "mot": "5 minute breathing exercise",
+     "volume": "100-1 000"
+    },
+    {
+     "mot": "6 breaths per minute",
+     "volume": "100-1 000"
+    },
+    {
+     "mot": "google breathing exercise",
+     "volume": "100 000-1 000 000"
+    }
+   ]
+  },
+  "seo": "Guided Breathing Exercises: Free Online Box & 4-7-8 Timer",
+  "desc": "Free guided breathing exercises online: box breathing, 4-7-8 breathing and coherent breathing, paced by a visual timer. No sign-up, no ads.",
+  "h1": "Guided breathing exercises, right in your browser",
+  "image_alt": "Golden circle on a midnight-blue background: the MeditaDream online breathing guide",
+  "fil": "Breathing exercise",
+  "lead": "Three guided breathing exercises to start right now, free and with no sign-up: box breathing, 4-7-8 breathing and coherent breathing.",
+  "outil": {
+   "nom": "MeditaDream guided breathing exercises",
+   "aria": "Breathing guide",
+   "ordre": [
+    "carree",
+    "478",
+    "coherence"
+   ],
+   "technique": "Breathing technique",
+   "duree": "Length",
+   "techniques": {
+    "carree": "Box breathing",
+    "478": "4-7-8 breathing",
+    "coherence": "Coherent breathing"
+   },
+   "phases": {
+    "inspire": "Breathe in",
+    "retiens": "Hold",
+    "expire": "Breathe out",
+    "pause": "Hold"
+   },
+   "secondes": "seconds",
+   "min": "{n} min",
+   "cycles": "{n} cycles",
+   "pret": "When you’re ready",
+   "demarrer": "Start",
+   "pause": "Pause",
+   "reprendre": "Resume",
+   "recommencer": "Restart",
+   "en_pause": "Paused",
+   "son": "Sound",
+   "restant": "Time left",
+   "cycle": "Cycle {i} of {n}",
+   "fin_t": "Session complete",
+   "fin_p": "Stay here a moment longer. Let your breath find its own pace again.",
+   "fin_b": "Keep going with the free app",
+   "dire_pause": "Exercise paused",
+   "dire_fin": "Session complete",
+   "sansjs": "The animated guide needs JavaScript. In the meantime, here are the rhythms to count for yourself."
+  },
+  "sections": [
+   {
+    "id": "how-it-works",
+    "h2": "How does this breathing timer work?",
+    "p": [
+     "Nothing to download and no account to create. The timer runs on this page, on your phone or your computer."
+    ],
+    "ol": [
+     "Sit comfortably, with your back straight and your shoulders loose.",
+     "Pick a technique, then a length.",
+     "Press Start.",
+     "Breathe in as the circle grows and breathe out as it shrinks. When it stays still, hold your breath."
+    ],
+    "p2": [
+     "The word in the middle tells you what to do, and the number counts down the seconds. You can pause, resume or restart at any time.",
+     "Turn on Sound for a very soft note at each change, handy if you like to close your eyes. On most devices, the screen stays on while you breathe."
+    ]
+   },
+   {
+    "id": "box-breathing",
+    "h2": "What is the box breathing technique?",
+    "rythme": "carree",
+    "p": [
+     "Box breathing has four equal sides, like a box. Breathe in for 4 seconds, then hold for 4. Breathe out for 4, then hold again for 4 with your lungs empty.",
+     "It is also called square breathing, and it is taught in stress-management courses. Counting four even sides keeps your mind busy, which leaves less room for racing thoughts.",
+     "Use it before a meeting, an exam or a difficult call, when you want a clear head.",
+     "The timer offers 2, 4 or 5 minutes. It always finishes the cycle you started, so a session can run a few seconds over.",
+     "To see when it helps most, read our guide to [box breathing](/en/blog/breathing-exercises-to-calm-down.html)."
+    ],
+    "essayer": "carree",
+    "essayer_t": "Start box breathing"
+   },
+   {
+    "id": "4-7-8-breathing",
+    "h2": "How does the 4-7-8 breathing technique work?",
+    "rythme": "478",
+    "p": [
+     "Three steps, always in the same order. Breathe in through your nose for 4 seconds. Hold for 7. Breathe out slowly through your mouth for 8.",
+     "Dr. Andrew Weil made this exercise popular. He advises no more than 4 cycles at first, and up to 8 once it feels familiar. Those are the two options in the timer.",
+     "Many people use 4-7-8 breathing for sleep, in bed with the lights off. The out-breath lasts twice as long as the in-breath, which makes the whole rhythm very slow.",
+     "If holding for 7 seconds feels uncomfortable, stop. Switch to coherent breathing, which has no hold at all."
+    ],
+    "essayer": "478",
+    "essayer_t": "Start 4-7-8 breathing"
+   },
+   {
+    "id": "coherent-breathing",
+    "h2": "What is coherent breathing?",
+    "rythme": "coherence",
+    "p": [
+     "Coherent breathing is slow and even, with no pause: around 5 to 6 breaths per minute. Some teachers call it resonance breathing. This timer uses 5 seconds in and 5 seconds out.",
+     "Breathe through your nose if you can, and let your belly rise and fall. Nothing is forced.",
+     "At this pace, your heart speeds up a little as you breathe in and slows down as you breathe out. It is a natural rhythm, and slow breathing makes it more marked. The effect varies from person to person, so go by how you feel.",
+     "Choose 3, 5 or 10 minutes. A 5-minute breathing exercise is a good place to start."
+    ],
+    "essayer": "coherence",
+    "essayer_t": "Start coherent breathing"
+   },
+   {
+    "id": "box-vs-4-7-8",
+    "h2": "Box breathing vs 4-7-8: which one should you choose?",
+    "p": [
+     "They do different jobs. Here is a simple way to decide."
+    ],
+    "ul": [
+     "Need focus before something stressful? Try box breathing.",
+     "Winding down at night? Try 4-7-8 breathing.",
+     "Want a daily habit with no breath holds? Try coherent breathing."
+    ],
+    "p2": [
+     "None is better than the others. The right one is the one you find comfortable and come back to.",
+     "Our guide to [breathing exercises for meditation](/en/blog/breathing-techniques-meditation.html) goes deeper into each technique."
+    ]
+   },
+   {
+    "id": "how-long",
+    "h2": "How long should you practice, and how often?",
+    "p": [
+     "A few minutes is enough. Three minutes every day beats twenty minutes once a month."
+    ],
+    "ul": [
+     "Coherent breathing: 5 minutes, up to three times a day.",
+     "4-7-8 breathing: 4 cycles, twice a day, for example in the morning and at bedtime.",
+     "Box breathing: 2 to 5 minutes, whenever you need it."
+    ],
+    "p2": [
+     "Tie it to something you already do: after your coffee, before you open your inbox, when you get into bed."
+    ]
+   },
+   {
+    "id": "precautions",
+    "h2": "Is it safe? A few simple precautions",
+    "p": [
+     "These exercises are gentle. Still, listen to your body."
+    ],
+    "ul": [
+     "Feeling dizzy, tingly or short of breath? Stop and breathe normally.",
+     "Never force a hold. Shorten it, or choose coherent breathing.",
+     "Practice sitting or lying down, never while driving or in water.",
+     "Pregnant, or living with a heart or lung condition? Check with your doctor first."
+    ],
+    "p2": [
+     "This timer is a wellness guide. It does not replace medical advice."
+    ]
+   },
+   {
+    "id": "app-meditadream",
+    "h2": "What does the MeditaDream app add?",
+    "monde": "antiqueTemple",
+    "monde_cap": "{monde}, one of the {worlds} immersive worlds in the app.",
+    "p": [
+     "Here, a circle paces your breath. In the MeditaDream app, a voice guides you: {meds} guided meditations, {cats} categories and {worlds} immersive worlds."
+    ],
+    "ul": [
+     {
+      "si": "gong",
+      "t": "The [meditation timer](/en/meditation-timer.html) has an alternating gong for paced breathing. Breathe in until the first gong, breathe out until the second. You set each length, from 1 to 30 seconds."
+     },
+     "Guided sessions built around the breath, to play with your eyes closed.",
+     "Guided breaks of 3 or 4 minutes, for the moments when everything speeds up."
+    ],
+    "p2": [
+     "The app is free, with no subscription, no ads and no account. Once a session is downloaded, it plays offline."
+    ]
+   }
+  ],
+  "seances_t": "Sessions in the app built around the breath",
+  "faq": [
+   [
+    "Are these guided breathing exercises free?",
+    "Yes. They are free, with no sign-up and no ads. They run in the browser on your phone or your computer."
+   ],
+   [
+    "Is this the same as the Google breathing exercise?",
+    "No, but it works in a similar way. For some searches, Google shows a one-minute breathing exercise in its results. This page adds three techniques, longer sessions and an optional sound."
+   ],
+   [
+    "Should I breathe through my nose or my mouth?",
+    "Breathe in through your nose. For box breathing and coherent breathing, breathe out whichever way feels natural. For 4-7-8 breathing, breathe out through your mouth."
+   ],
+   [
+    "Can I do these breathing exercises lying down?",
+    "Yes. Sitting keeps you more alert, and lying down is fine at bedtime. Just never practice while driving or in water."
+   ],
+   [
+    "Can I follow the timer with my eyes closed?",
+    "Yes. Turn on Sound: a soft note marks each change. It is higher for the in-breath and lower for the out-breath. On iPhone, silent mode mutes the sound, so turn it off first."
+   ],
+   [
+    "Does the breathing timer work offline?",
+    "Once the page is open, yes: it no longer needs the internet. To practice anywhere, the MeditaDream app plays offline once your sessions are downloaded."
+   ]
+  ]
+ }
+}

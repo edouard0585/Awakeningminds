@@ -4,8 +4,8 @@
   "slug": "exercices-respiration-pour-se-calmer",
   "title": "Exercices de respiration contre le stress : 4 techniques pour se calmer",
   "seo_title": "Exercices de respiration contre le stress : 4 techniques",
-  "desc": "Quels exercices de respiration contre le stress, selon le cas ? Soupir physiologique, respiration 4-7-8, respiration carrée ou cohérence cardiaque 365.",
-  "kw": "exercice de respiration, respiration carrée, respiration 4-7-8, comment se calmer quand on est angoissé, comment se calmer crise d'angoisse, crise de panique comment se calmer, respiration anxiété, respiration anti-stress, respiration relaxation, exercice de respiration anxiété",
+  "desc": "Stress : quel exercice de respiration pour se calmer ? Soupir physiologique, respiration 4-7-8, respiration carrée ou cohérence cardiaque 365, selon le cas.",
+  "kw": "exercice de respiration, respiration 4-7-8, respiration carrée, cohérence cardiaque, respiration pour se calmer, exercices de respiration contre le stress, techniques de respiration, comment se calmer, respiration pour dormir, soupir physiologique",
   "group": "bases",
   "photo": {
    "src": "fr/exercices-respiration-pour-se-calmer.webp",
@@ -48,6 +48,14 @@
    [
     "Comment se calmer quand on est angoissé ?",
     "En donnant au souffle un rythme lent : cinq secondes à l’inspiration, cinq à l’expiration, pendant quelques minutes. Compter les temps occupe l’attention et laisse moins de place aux pensées qui tournent. La méthode du carré, vue plus haut, fait le même travail, si les rétentions restent confortables."
+   ],
+   [
+    "Quel exercice de respiration pour dormir ?",
+    "La respiration 4-7-8 est la plus souvent citée pour le soir : allongé, inspirez 4 secondes, retenez 7, expirez 8, pendant environ quatre cycles. Si la rétention vous gêne, gardez seulement une expiration lente, plus longue que l’inspiration. Le but est de ralentir, pas de réussir un exercice : si ce n’est pas confortable, revenez à une respiration naturelle."
+   ],
+   [
+    "La cohérence cardiaque, c’est quoi ?",
+    "Une respiration lente et régulière, autour de six cycles par minute : cinq secondes pour inspirer, cinq pour expirer. C’est le principe de la cohérence cardiaque 5-5. La méthode 365 en fait une routine : trois fois par jour, six respirations par minute, cinq minutes. Elle se pratique comme un entraînement de fond plutôt que comme un geste d’urgence."
    ]
   ],
   "sources": [
@@ -60,9 +68,9 @@
   "en": {
    "slug": "breathing-exercises-to-calm-down",
    "title": "Box Breathing to Calm Down, Plus 3 More Techniques That Work",
-   "seo_title": "Box Breathing to Calm Down, Plus 3 More Techniques",
+   "seo_title": "Box Breathing and 4-7-8 Breathing: 4 Techniques to Calm Down",
    "desc": "Box breathing, the physiological sigh, 4-7-8 breathing and 365 coherence: four breathing exercises for anxiety and stress, and which one to use when.",
-   "kw": "box breathing, deep breathing for anxiety, breathing exercises for anxiety, 4-7-8 breathing, calm breathing, physiological sigh breathing, exercises for panic attacks, square breathing for anxiety, 4-7-8 breathing for anxiety, how to do box breathing",
+   "kw": "box breathing, 4-7-8 breathing, box breathing technique, 4-7-8 breathing technique, breathing exercises to calm down, breathing exercises for anxiety, deep breathing for anxiety, box breathing for anxiety, square breathing, physiological sigh breathing, how to do box breathing, box breathing vs 4-7-8",
    "photo": {
     "src": "en/breathing-exercises-to-calm-down.webp",
     "src_s": "en/breathing-exercises-to-calm-down-640.webp",
@@ -88,6 +96,14 @@
     [
      "Can you do breathing exercises every day?",
      "Yes, as long as the breathing stays comfortable and natural. Cardiac coherence is specifically designed as a repeated practice."
+    ],
+    [
+     "How do you use box breathing for anxiety?",
+     "Breathe in for four seconds, hold for four, breathe out for four, pause for four, then start again for a few minutes. Counting the four sides keeps your attention busy, which leaves less room for anxious thoughts. If the holds feel uncomfortable, shorten each side to three seconds. And if anxiety is intense or keeps coming back, talk to a health professional: breathing is a support, not a solution on its own."
+    ],
+    [
+     "Box breathing vs 4-7-8 breathing: which should you choose?",
+     "Box breathing has four equal phases and tends to steady your focus: use it before a presentation or when you need your concentration back. The 4-7-8 technique has a long exhale and a long hold, which makes it a tool for winding down, mostly before sleep. If the seven-second hold feels unpleasant, box breathing with three-second sides is the gentler choice."
     ]
    ],
    "sources": [
@@ -95,7 +111,7 @@
     "Sevoz-Couche C., Laborde S. (2022), <em>Heart rate variability and slow-paced breathing: when coherence meets resonance</em>, Neuroscience &amp; Biobehavioral Reviews.",
     "Lehrer P. et al. / HRV biofeedback literature; 2023 methodological review, <em>Methods for Heart Rate Variability Biofeedback: A Systematic Review and Guidelines</em>."
    ],
-   "modified": "2026-10-24"
+   "modified": "2026-11-28"
   },
   "photos": [
    "p33",
@@ -104,9 +120,9 @@
   "es": {
    "slug": "ejercicios-de-respiracion-para-calmarse",
    "title": "Cómo calmar la ansiedad: 4 ejercicios de respiración, paso a paso",
-   "seo_title": "Cómo calmar la ansiedad respirando: 4 técnicas sencillas",
-   "desc": "Ejercicios de respiración para la ansiedad: suspiro fisiológico, 4-7-8, respiración cuadrada y coherencia cardíaca. Cómo calmar la ansiedad en cada caso.",
-   "kw": "cómo calmar la ansiedad, cómo quitar la ansiedad, ejercicios de respiración para la ansiedad, respiración para la ansiedad, ejercicios de respiración, respiración cuadrada, qué hacer para calmar la ansiedad, técnicas para calmar la ansiedad, cómo calmar una crisis de ansiedad, coherencia cardíaca 5 minutos",
+   "seo_title": "Cómo calmar la ansiedad: 4 ejercicios de respiración",
+   "desc": "Ejercicios de respiración para la ansiedad: suspiro fisiológico, 4-7-8, respiración cuadrada y coherencia cardíaca. Cómo calmar la ansiedad respirando.",
+   "kw": "ejercicios de respiración para la ansiedad, cómo calmar la ansiedad, cómo quitar la ansiedad, técnicas de respiración para la ansiedad, respiración 4-7-8, respiración cuadrada, coherencia cardíaca, respiración para dormir, cómo calmar los nervios, qué hacer para calmar la ansiedad, cómo calmar una crisis de ansiedad, cómo calmar la ansiedad rápidamente",
    "photo": {
     "src": "es/ejercicios-de-respiracion-para-calmarse.webp",
     "src_s": "es/ejercicios-de-respiracion-para-calmarse-640.webp",
@@ -140,6 +156,18 @@
     [
      "¿Cómo calmar una crisis de ansiedad?",
      "Respira despacio por la nariz y alarga la exhalación, sin retener el aire. Fija la atención en el aire que sale, una respiración tras otra. Si sientes dolor en el pecho o te falta el aire, no es momento de ejercicios: pide ayuda de inmediato."
+    ],
+    [
+     "¿Cómo calmar la ansiedad rápidamente?",
+     "De las cuatro técnicas de respiración para la ansiedad, la más rápida es el suspiro fisiológico: una inhalación por la nariz, una segunda inhalación corta y una exhalación larga por la boca, de una a tres veces. No resuelve lo que provoca la ansiedad, pero suele bajar la tensión del momento en unos pocos ciclos."
+    ],
+    [
+     "¿Cuál es la mejor respiración para dormir?",
+     "La más conocida es la respiración 4-7-8: inhalas en 4 segundos, retienes el aire en 7 y exhalas en 8, unos cuatro ciclos, ya en la cama. Si la retención te incomoda, quédate con una respiración lenta y alarga solo la exhalación. Ninguna garantiza el sueño: su papel es bajar el ritmo para que llegue con más facilidad."
+    ],
+    [
+     "¿Cómo calmar los nervios antes de una presentación o de hablar en público?",
+     "Haz uno o dos suspiros fisiológicos justo antes y, mientras esperas, practica la respiración cuadrada: cuatro segundos para inhalar, cuatro de pausa, cuatro para exhalar y cuatro con los pulmones vacíos. Contar ocupa la atención y deja menos sitio a los pensamientos que se disparan. Si cuatro segundos te incomodan, usa tres."
     ]
    ],
    "sources": [
@@ -147,17 +175,17 @@
     "Sevoz-Couche C., Laborde S. (2022), <em>Heart rate variability and slow-paced breathing: when coherence meets resonance</em>, Neuroscience &amp; Biobehavioral Reviews.",
     "Lehrer P. et al. / literatura sobre biofeedback de VFC; revisión metodológica de 2023, <em>Methods for Heart Rate Variability Biofeedback: A Systematic Review and Guidelines</em>."
    ],
-   "modified": "2026-10-24"
+   "modified": "2026-11-28"
   },
-  "modified": "2026-11-06"
+  "modified": "2026-11-28"
  },
  {
   "num": 67,
   "slug": "yoga-nidra-bienfaits-sommeil",
   "title": "Bienfaits du yoga nidra : le sommeil éveillé repose-t-il plus qu’une sieste ?",
   "seo_title": "Yoga nidra : bienfaits du sommeil éveillé face à la sieste",
-  "desc": "Bienfaits du yoga nidra, déroulé d’une séance et ce que disent les recherches sur le sommeil et le stress. Le lien avec le NSDR et une séance de 10 min.",
-  "kw": "yoga nidra, yoga nidra pour dormir, yoga nidra bienfaits, yoga nidra c’est quoi, yoga nidra 10 minutes, sommeil yogique, yoga nidra relaxation, yoga nidra débutant, relaxation profonde, bienfaits du yoga nidra",
+  "desc": "Bienfaits du yoga nidra, ou « yoga du sommeil » : déroulé d’une séance, ce que disent les recherches sur le sommeil et le stress, NSDR et séance de 10 min.",
+  "kw": "yoga nidra, yoga du sommeil, yoga nidra bienfaits, yoga nidra c’est quoi, yoga nidra pour dormir, yoga nidra 10 minutes, yoga nidra gratuit, yoga nidra en français, yoga nidra débutant, yoga nidra texte, yoga nidra ou sieste, sommeil yogique, NSDR, repos profond sans sommeil, relaxation profonde, sankalpa, rotation de la conscience",
   "group": "sommeil",
   "photo": {
    "src": "fr/yoga-nidra-bienfaits-sommeil.webp",
@@ -203,6 +231,10 @@
    [
     "Peut-on faire un yoga nidra 10 minutes par jour ?",
     "Oui. La version courte décrite plus haut garde l’essentiel : installation, rotation corporelle, respiration, retour. Pratiquée chaque jour, elle s’installe plus facilement qu’une longue séance occasionnelle."
+   ],
+   [
+    "Où trouver un yoga nidra gratuit en français ?",
+    "Les séances audio ne manquent pas en ligne, de dix minutes à une heure. Dans MeditaDream, application gratuite et sans publicité, des séances guidées en français vont dans le même sens : « Corps endormi, esprit éveillé » pour rester au seuil du sommeil, « Glissement vers le sommeil » pour vous endormir. Choisissez surtout une durée que vous tiendrez régulièrement."
    ]
   ],
   "sources": [
@@ -215,9 +247,9 @@
   "en": {
    "slug": "yoga-nidra-benefits-sleep-nsdr",
    "title": "Yoga Nidra Benefits: The Waking Sleep That Can Feel More Restorative Than a Nap",
-   "seo_title": "Yoga Nidra Benefits: Sleep Research and a 10-Min Practice",
+   "seo_title": "Yoga Nidra for Sleep: Benefits, Research, 10-Minute Practice",
    "desc": "Yoga nidra benefits: is 30 minutes worth 4 hours of sleep? What research shows on yoga nidra for sleep and stress, how NSDR differs and a 10-minute session.",
-   "kw": "yoga nidra, yoga nidra for sleep, yoga nidra guided, yoga nidra for beginners, yoga nidra benefits, what is yoga nidra, NSDR, non-sleep deep rest, yogic sleep, 10 minute yoga nidra",
+   "kw": "yoga nidra for sleep, yoga nidra, what is yoga nidra, yoga nidra benefits, 10 minute yoga nidra, yoga nidra meditation, yoga nidra for beginners, guided yoga nidra, yoga nidra script, yoga nidra meaning, yogic sleep, NSDR, non-sleep deep rest, yoga nidra vs NSDR",
    "photo": {
     "src": "en/yoga-nidra-the-waking-sleep-that-can-feel.webp",
     "src_s": "en/yoga-nidra-the-waking-sleep-that-can-feel-640.webp",
@@ -258,6 +290,14 @@
     [
      "What’s the difference between yoga nidra and NSDR?",
      "Yoga nidra is a structured practice that comes from modern yoga and Indian contemplative traditions. NSDR is a broader contemporary label for various methods of non-sleep deep rest."
+    ],
+    [
+     "Is yoga nidra a form of meditation?",
+     "Yes. In Sanskrit, the meaning of yoga nidra is “yogic sleep,” and the practice is usually classed as a guided meditation done lying down. Instead of sitting upright and watching the breath, you let a voice move your attention through the body, the breath and a few images, at the edge of sleep. That is why it is often called a yoga nidra meditation."
+    ],
+    [
+     "Can you do yoga nidra in bed to fall asleep?",
+     "Yes. If your goal is sleep, practice in bed at bedtime, with the lights off and no intention of staying awake: follow the voice through the body rotation and let yourself drift off whenever sleep comes. Many people use yoga nidra for sleep this way. If you want the awareness practice instead, choose a mat and an earlier hour."
     ]
    ],
    "sources": [
@@ -265,7 +305,7 @@
     "Dutta A. et al. — <em>Efficacy of Yoga Nidra in Managing Sleep Disorders: A Systematic Review of Randomized Controlled Trials</em>, 2026.",
     "Singh S. et al. — <em>Effect of yoga Nidra (yogic sleep) in sleep disturbances and insomnia: systematic review and metanalysis</em>, <em>Sleep and Breathing</em>, 2026."
    ],
-   "modified": "2026-10-24"
+   "modified": "2026-11-28"
   },
   "photos": [
    "p30",
@@ -274,9 +314,9 @@
   "es": {
    "slug": "yoga-nidra-beneficios-sueno",
    "title": "Yoga nidra para dormir y sus beneficios: el sueño consciente que descansa más que una siesta",
-   "seo_title": "Yoga nidra: beneficios para dormir, qué es, NSDR y siesta",
+   "seo_title": "Yoga nidra para dormir: beneficios y sesión de 10 minutos",
    "desc": "Yoga nidra para dormir: cómo es una sesión, sus beneficios para el sueño y el estrés según la ciencia, el NSDR y una práctica de 10 minutos.",
-   "kw": "yoga nidra, yoga nidra beneficios, qué es el yoga nidra, meditación para dormir la siesta, yoga nidra para dormir, sueño yóguico, relajación profunda, NSDR, descanso profundo sin dormir, yoga nidra 10 minutos",
+   "kw": "yoga nidra para dormir, yoga nidra 10 minutos, yoga nidra, yoga nidra beneficios, qué es el yoga nidra, yoga nidra meditación, yoga nidra 20 minutos, NSDR y yoga nidra, sueño yóguico, relajación profunda, descanso profundo sin dormir, meditación para dormir la siesta",
    "photo": {
     "src": "es/yoga-nidra-beneficios-sueno.webp",
     "src_s": "es/yoga-nidra-beneficios-sueno-640.webp",
@@ -311,6 +351,18 @@
     [
      "¿Qué diferencia hay entre el yoga nidra y el NSDR?",
      "El yoga nidra es una práctica estructurada que procede del yoga moderno y de tradiciones contemplativas de la India. NSDR es una denominación contemporánea más amplia que agrupa distintos métodos de descanso profundo sin dormir."
+    ],
+    [
+     "¿El yoga nidra es una meditación?",
+     "Sí, en sentido amplio: es una meditación guiada que se practica tumbado. La diferencia con una meditación sentada clásica es que no tienes que sostener una postura ni dirigir la atención por tu cuenta: te basta con seguir la voz, zona por zona. Por eso suele resultar más fácil para quien empieza, o para quien no consigue meditar sentado."
+    ],
+    [
+     "¿Cuánto dura una sesión de yoga nidra?",
+     "Una sesión completa suele durar de 20 a 40 minutos: es el tiempo que piden todas sus etapas, de la preparación al despertar progresivo. Un yoga nidra de 20 minutos ya permite recorrerlas sin prisa. Si tienes menos tiempo, la versión de 10 minutos de este artículo sigue las mismas etapas, más deprisa. Lo importante es no saltarte el regreso: vuelve al cuerpo y al entorno con calma."
+    ],
+    [
+     "¿El yoga nidra es peligroso?",
+     "Para la mayoría de las personas, no: estás tumbado, sigues una voz y puedes abrir los ojos o moverte en cualquier momento. Lo más frecuente es que te quedes dormido, o que te sientas algo aturdido si vuelves demasiado deprisa. Si atraviesas una etapa emocional delicada, empieza con sesiones cortas y sin forzar; y si algo te incomoda de verdad, interrumpe la práctica y pide consejo a un profesional."
     ]
    ],
    "sources": [
@@ -318,17 +370,17 @@
     "Dutta A. et al. — <em>Efficacy of Yoga Nidra in Managing Sleep Disorders: A Systematic Review of Randomized Controlled Trials</em>, 2026.",
     "Singh S. et al. — <em>Effect of yoga Nidra (yogic sleep) in sleep disturbances and insomnia: systematic review and metanalysis</em>, <em>Sleep and Breathing</em>, 2026."
    ],
-   "modified": "2026-10-24"
+   "modified": "2026-11-28"
   },
-  "modified": "2026-11-06"
+  "modified": "2026-11-28"
  },
  {
   "num": 32,
   "slug": "chakra-racine-bloque-ancrage",
   "title": "Symptômes du chakra racine bloqué : 7 signes et 5 exercices d’ancrage",
   "seo_title": "Symptômes du chakra racine bloqué : 7 signes et 5 exercices",
-  "desc": "Symptômes du chakra racine « bloqué » (Muladhara) : sept signes souvent cités, le lien avec le système nerveux et cinq exercices d’ancrage.",
-  "kw": "chakra racine, exercices d’ancrage, chakra racine bloqué symptômes, chakra racine signification, ancrage chakra racine, méditation ancrage chakra racine, chakra racine bloqué, chakra Muladhara, premier chakra, chakra racine débloquer",
+  "desc": "Symptômes du chakra racine « bloqué » (Muladhara) : sept signes souvent cités, le lien avec le système nerveux, cinq exercices d’ancrage et une méditation.",
+  "kw": "chakra racine, exercices d’ancrage, chakra racine bloqué symptômes, méditation chakra racine, méditation d’ancrage, chakra racine signification, technique d’ancrage 5-4-3-2-1, débloquer le chakra racine, chakra Muladhara, premier chakra",
   "group": "energie",
   "photo": {
    "src": "fr/chakra-racine-bloque-ancrage.webp",
@@ -363,6 +415,14 @@
    [
     "Combien de temps pratiquer l’ancrage ?",
     "Cinq à dix minutes quotidiennes suffisent pour commencer. La régularité est généralement plus utile qu’une séance très longue réalisée occasionnellement."
+   ],
+   [
+    "Chakra racine bloqué : que faire ?",
+    "Commencez par le corps plutôt que par la visualisation : sentez le poids de vos pieds, marchez lentement dix minutes, respirez bas dans le ventre, puis tenez la posture de la montagne. Cinq à dix minutes par jour suffisent pour débuter. Si l’anxiété ou la détresse perturbent fortement votre quotidien, gardez ces exercices comme complément et demandez l’avis d’un professionnel de santé."
+   ],
+   [
+    "Comment faire la technique d’ancrage 5-4-3-2-1 ?",
+    "Regardez autour de vous et nommez cinq choses que vous voyez, quatre que vous pouvez toucher, trois sons, deux odeurs, puis un goût ou une sensation dans la bouche. Cette technique d’ancrage 5-4-3-2-1 ramène l’attention vers les sens et le moment présent. Elle ne vient pas des traditions des chakras, mais elle complète bien les exercices du chakra racine."
    ]
   ],
   "sources": [
@@ -376,8 +436,8 @@
    "slug": "blocked-root-chakra-signs-grounding",
    "title": "Blocked Root Chakra: 7 Signs and 5 Grounding Exercises",
    "seo_title": "Blocked Root Chakra: 7 Signs and 5 Grounding Exercises",
-   "desc": "Learn 7 signs linked to a blocked root chakra, like feeling unsettled, anxious or stuck in your head, and 5 grounding exercises to feel steady again.",
-   "kw": "root chakra, grounding exercises, grounding chakra, base chakra meditation, root chakra meditation, simple grounding exercises, how to unblock root chakra, root chakra exercises, root chakra grounding, blocked root chakra",
+   "desc": "Learn 7 signs of a blocked root chakra, like feeling unsettled or stuck in your head, plus 5 grounding exercises and a 5-minute root chakra meditation.",
+   "kw": "root chakra, grounding exercises, blocked root chakra, root chakra meditation, first chakra, base chakra, what is grounding, 5-4-3-2-1 grounding technique, root chakra meaning, how to unblock root chakra, root chakra exercises, muladhara chakra, grounding chakra",
    "photo": {
     "src": "en/blocked-root-chakra-7-signs-and-5-grounding.webp",
     "src_s": "en/blocked-root-chakra-7-signs-and-5-grounding-640.webp",
@@ -418,6 +478,14 @@
     [
      "How long should I practice grounding?",
      "Five to ten minutes a day is enough to start. Regularity is generally more useful than a very long session done only now and then."
+    ],
+    [
+     "What is grounding?",
+     "Grounding is the skill of bringing your attention back from your thoughts to what is physically here: the weight of your feet, the chair beneath you, the sounds in the room. In chakra language, it is the root chakra’s territory; in psychology, the same word names exercises built on those sensory anchors. No belief is required: a body and a floor are enough."
+    ],
+    [
+     "What is the meaning of the root chakra?",
+     "Its Sanskrit name, Muladhara, joins two words: mula, “root,” and adhara, “support.” In the modern seven-chakra system, the root chakra stands for stability, safety, the physical body and basic needs, and it is pictured in red at the base of the spine. The meaning is symbolic: a way of talking about feeling steady, not a piece of anatomy."
     ]
    ],
    "sources": [
@@ -425,7 +493,7 @@
     "Judith A. — <em>Eastern Body, Western Mind</em>, a contemporary book that symbolically links chakras, psychology and human development.",
     "Kabat-Zinn J. — <em>Full Catastrophe Living</em>, for practices of body awareness and returning to present sensations."
    ],
-   "modified": "2026-10-24"
+   "modified": "2026-11-28"
   },
   "photos": [
    "p42",
@@ -435,8 +503,8 @@
    "slug": "chakra-raiz-bloqueado-senales-ejercicios",
    "title": "Chakra raíz bloqueado (Muladhara): 7 señales y 5 ejercicios de enraizamiento",
    "seo_title": "Chakra raíz bloqueado (Muladhara): 7 señales y 5 ejercicios",
-   "desc": "Las 7 señales de un chakra raíz bloqueado, su vínculo con el sistema nervioso y 5 ejercicios para enraizarte si estás inquieto o atrapado en tu cabeza.",
-   "kw": "chakra raíz, chakra raíz bloqueado, chakra rojo significado, meditación chakra raíz, ejercicios de enraizamiento, cómo desbloquear el chakra raíz, chakra raíz significado, chakra Muladhara, primer chakra, técnicas de grounding",
+   "desc": "Las 7 señales de un chakra raíz bloqueado (Muladhara), su vínculo con el sistema nervioso y 5 ejercicios de enraizamiento si vives atrapado en tu cabeza.",
+   "kw": "chakra raíz, chakra Muladhara, chakra raíz bloqueado, cómo desbloquear el chakra raíz, meditación chakra raíz, cuál es el chakra raíz, chakra raíz significado, chakra rojo significado, primer chakra, chakra base, ejercicios de enraizamiento, técnica 5-4-3-2-1",
    "photo": {
     "src": "es/chakra-raiz-bloqueado-senales-ejercicios.webp",
     "src_s": "es/chakra-raiz-bloqueado-senales-ejercicios-640.webp",
@@ -470,6 +538,14 @@
     [
      "¿Cuánto tiempo hay que practicar el enraizamiento?",
      "De cinco a diez minutos al día bastan para empezar. La constancia suele ser más útil que una sesión muy larga hecha de vez en cuando."
+    ],
+    [
+     "¿Cuál es el chakra raíz?",
+     "Es el primero de los 7 chakras principales: por eso se le llama también primer chakra o chakra base. Su nombre sánscrito es Muladhara. La tradición lo sitúa en la base de la columna vertebral, a la altura del perineo. Es una referencia simbólica del cuerpo sutil, no una parte de la anatomía."
+    ],
+    [
+     "¿Cuál es el significado del chakra raíz?",
+     "En sánscrito, Muladhara une mula, «raíz», y adhara, «soporte»: ese es el significado del chakra raíz, lo que sostiene todo lo demás. Simboliza la estabilidad, la seguridad, las necesidades básicas y el vínculo con la tierra; se representa en rojo y se asocia al elemento tierra."
     ]
    ],
    "sources": [
@@ -477,9 +553,9 @@
     "Judith A. — <em>Eastern Body, Western Mind</em>, obra contemporánea que relaciona simbólicamente los chakras, la psicología y el desarrollo humano.",
     "Kabat-Zinn J. — <em>Full Catastrophe Living</em>, para las prácticas de conciencia corporal y de regreso a las sensaciones del presente."
    ],
-   "modified": "2026-10-24"
+   "modified": "2026-11-28"
   },
-  "modified": "2026-11-06"
+  "modified": "2026-11-28"
  },
  {
   "num": 71,
@@ -487,7 +563,7 @@
   "title": "Shadow work, le travail de l’ombre selon Jung : pourquoi vos défauts cachent parfois vos trésors",
   "seo_title": "Shadow work, le travail de l’ombre selon Jung : 3 exercices",
   "desc": "Shadow work, ou travail de l’ombre : l’ombre selon Jung n’est pas votre côté obscur. Projection, qualités cachées derrière vos défauts et trois exercices.",
-  "kw": "travail de l’ombre, shadow work, ombre Jung, travail de l’ombre Jung, travail de l’ombre psychologie, Carl Jung ombre, intégrer son ombre, accepter ses défauts, projection psychologique, connaissance de soi",
+  "kw": "travail de l’ombre, shadow work, ombre Jung, travail de l’ombre Jung, shadow work c’est quoi, travail de l’ombre définition, shadow work questions, exercices de shadow work, accepter sa part d’ombre, intégrer son ombre, projection psychologique, accepter ses défauts, travailler sur son ombre, ombre positive",
   "group": "psy",
   "photo": {
    "src": "fr/travail-de-l-ombre-jung.webp",
@@ -514,6 +590,10 @@
   ],
   "insert": null,
   "faq": [
+   [
+    "Le shadow work, c’est quoi ?",
+    "Le shadow work, en français « travail de l’ombre », est une démarche d’introspection inspirée de la psychologie de Carl Gustav Jung. Sa définition la plus simple : repérer, puis réintégrer, les parts de soi que l’on rejette ou que l’on cache, défauts supposés comme qualités désavouées. Travailler sur son ombre passe surtout par l’observation de ses réactions et par l’écriture."
+   ],
    [
     "Qu’est-ce que l’ombre selon Jung ?",
     "Elle désigne, dans la psychologie analytique, des aspects de la personnalité que le moi conscient reconnaît difficilement ou rejette. Elle peut contenir aussi bien des traits perçus comme négatifs que des capacités positives insuffisamment reconnues."
@@ -543,7 +623,7 @@
    "title": "Jungian Shadow Work: Why Your Flaws May Be Hiding Your Greatest Strengths",
    "seo_title": "Jungian Shadow Work: How Flaws Can Hide Real Strengths",
    "desc": "What is shadow work? The Jungian shadow isn’t just your dark side: see how projection works, why flaws can hide strengths, and try 3 shadow work exercises.",
-   "kw": "shadow work, what is shadow work, jung shadow archetype, shadow work exercises, how to integrate your shadow, is shadow work dangerous, Jungian shadow, Carl Jung shadow, golden shadow, psychological projection",
+   "kw": "shadow work, what is shadow work, Jungian shadow work, Jungian shadow, shadow self, shadow work meaning, shadow work exercises, shadow work for beginners, shadow work examples, shadow integration, how to integrate your shadow, Jung shadow archetype, golden shadow, is shadow work dangerous, psychological projection",
    "photo": {
     "src": "en/shadow-work-why-your-flaws-may-be-hiding.webp",
     "src_s": "en/shadow-work-why-your-flaws-may-be-hiding-640.webp",
@@ -584,6 +664,14 @@
     [
      "Should You Work on Trauma Alone Through Shadow Work?",
      "Not necessarily. When introspection triggers severe distress, traumatic memories, a feeling of being cut off from yourself or a lasting disruption of daily life, support from a trained professional is preferable."
+    ],
+    [
+     "What Is the Meaning of Shadow Work, in Simple Terms?",
+     "Shadow work means getting to know your shadow self: the parts of you that you usually hide, deny or judge, from anger and envy to talents you never dared to show. The term comes from Carl Jung’s idea of the shadow. In practice, it relies on honest self-observation: noticing your strongest reactions, your recurring judgments and what you admire or envy in others."
+    ],
+    [
+     "What Are Some Shadow Work Examples?",
+     "Anger that explodes can hide the ability to notice when a boundary is crossed. What you call selfishness can hide a need for rest and autonomy. Jealousy can reveal an aspiration you have not yet allowed yourself. In each of these shadow work examples, the aim is the same: finding the useful function behind a trait you judge, then expressing it in a healthier way."
     ]
    ],
    "sources": [
@@ -591,7 +679,7 @@
     "C. G. Jung — <em>Two Essays on Analytical Psychology</em>, foundational texts on analytical psychology, the ego, the unconscious and individuation.",
     "Jacob G.A., Arntz A. — contemporary work on schema therapy, an approach that studies emotional and behavioral modes formed from early experiences; experimental research is nonetheless still clarifying the mechanisms specific to these modes."
    ],
-   "modified": "2026-10-24"
+   "modified": "2026-11-28"
   },
   "photos": [
    "p46",
@@ -602,7 +690,7 @@
    "title": "Trabajo de sombra (shadow work) según Jung: por qué tus defectos a veces esconden tus tesoros",
    "seo_title": "Trabajo de sombra según Jung: tus defectos esconden tesoros",
    "desc": "Trabajo de sombra o shadow work según Jung: la sombra no es tu lado oscuro. Proyección, defectos como cualidades desajustadas y 3 ejercicios para integrarla.",
-   "kw": "trabajo de sombra, shadow work, Carl Jung sombra, sombra de Jung, trabajo de sombras cómo empezar, sombra Jung, integrar la sombra, ejercicios de trabajo de sombra, proyección psicológica, la sombra según Jung",
+   "kw": "trabajo de sombra, la sombra según Jung, shadow work, qué es el trabajo de sombra, sombra de Jung, Carl Jung sombra, la sombra en psicología, ejercicios de trabajo de sombra, trabajo de sombras preguntas, trabajo de sombras cómo empezar, cómo integrar la sombra, arquetipo de la sombra, proyección psicológica",
    "photo": {
     "src": "es/trabajo-de-sombra-jung-defectos.webp",
     "src_s": "es/trabajo-de-sombra-jung-defectos-640.webp",
@@ -628,6 +716,18 @@
     [
      "¿Conviene trabajar los traumas en solitario con el shadow work?",
      "No necesariamente. Cuando la introspección desencadena un malestar intenso, recuerdos traumáticos, la sensación de estar desconectado de ti mismo o una alteración duradera de tu vida diaria, es preferible contar con el acompañamiento de un profesional formado."
+    ],
+    [
+     "¿Qué es el trabajo de sombra o shadow work?",
+     "Es una práctica de introspección inspirada en la psicología de Carl Jung: observar lo que rechazas o escondes de ti, como la rabia, los celos o las ganas de brillar, para reconocerlo en lugar de combatirlo. A menudo se hace por escrito, a partir de tus reacciones del día a día. El objetivo no es eliminar la sombra, sino integrarla. El nombre «shadow work» es moderno; la noción de sombra viene de Jung."
+    ],
+    [
+     "¿Qué es el arquetipo de la sombra?",
+     "Para Jung, la sombra tiene una parte personal, hecha de tu propia historia, y una parte colectiva: el arquetipo de la sombra. Es una figura que reaparece en mitos, cuentos y sueños de muchas culturas, como el doble oscuro o el hermano rival. En los sueños, según Jung, la sombra suele aparecer como una persona del mismo sexo que quien sueña. Los ejercicios de este artículo trabajan sobre todo con la parte personal."
+    ],
+    [
+     "¿Qué libro leer sobre el trabajo de sombra?",
+     "Para ir a la fuente, Jung dedica a la sombra un capítulo de «Aion», titulado precisamente «La sombra», y vuelve sobre ella en «Dos escritos sobre psicología analítica». Son textos densos. Si buscas una introducción más asequible, prueba con la antología «Encuentro con la sombra», coordinada por Connie Zweig y Jeremiah Abrams. Reúne textos de numerosos autores sobre el tema y es muy leída en español."
     ]
    ],
    "sources": [
@@ -635,17 +735,17 @@
     "C. G. Jung — <em>Two Essays on Analytical Psychology</em>, textos fundamentales sobre la psicología analítica, el yo, el inconsciente y la individuación.",
     "Jacob G.A., Arntz A. — trabajos contemporáneos sobre la schema therapy (terapia de esquemas), enfoque que estudia en particular modos emocionales y conductuales formados a partir de experiencias tempranas; no obstante, la investigación experimental sigue precisando los mecanismos propios de estos modos."
    ],
-   "modified": "2026-10-24"
+   "modified": "2026-11-28"
   },
-  "modified": "2026-11-06"
+  "modified": "2026-11-28"
  },
  {
   "num": 63,
   "slug": "qu-est-ce-que-la-transe",
   "title": "Qu’est-ce que la transe ? Définition d’une capacité humaine beaucoup plus normale qu’on ne l’imagine",
   "seo_title": "Transe : définition d’un état plus normal qu’on ne croit",
-  "desc": "Définition de la transe : un état que vous avez déjà connu, sans tambour ni pendule. Absorption, rythme, méditation, hypnose : un état très ordinaire.",
-  "kw": "transe, transe définition, état de transe, qu’est-ce que la transe, définition de la transe, état modifié de conscience, transe naturelle, transe méditative, transe et hypnose, absorption mentale",
+  "desc": "Définition de la transe : un état que vous avez déjà connu, sans tambour ni pendule. Absorption, rythme, hypnose : l’état de transe, et comment y entrer.",
+  "kw": "transe définition, état de transe, transe, qu’est-ce que la transe, entrer en transe, être en transe, transe signification, transe hypnotique, transe méditative, transe musique, transe de possession, transe danger, transe chamanique, état modifié de conscience",
   "group": "transe",
   "photo": {
    "src": "fr/qu-est-ce-que-la-transe.webp",
@@ -677,8 +777,16 @@
     "Non. Une personne en transe peut rester parfaitement éveillée, répondre et garder une certaine conscience de son environnement."
    ],
    [
+    "Que signifie « être en transe » ?",
+    "Être en transe, c’est être absorbé au point que l’attention se resserre, que la perception du temps ou de soi change et que l’environnement compte moins. C’est la signification courante du mot « transe », de la rêverie devant un livre aux transes rituelles encadrées par une culture. On dit aussi « entrer en transe » ou « tomber en transe »."
+   ],
+   [
     "Peut-on entrer en transe sans hypnose ?",
     "Oui. Des états de transe ou d’absorption profonde peuvent apparaître avec la musique, la danse, la méditation, le rythme, la prière ou d’autres pratiques répétitives."
+   ],
+   [
+    "Qu’est-ce que la transe en hypnose ?",
+    "En hypnose, la transe, ou transe hypnotique, désigne l’état d’attention focalisée et d’absorption dans lequel les suggestions sont proposées. La personne n’est ni endormie ni inconsciente : elle entend, peut parler et peut interrompre la séance. La profondeur de cet état varie d’une personne à l’autre, et d’une séance à l’autre."
    ],
    [
     "La conduite automatique est-elle vraiment une transe ?",
@@ -706,7 +814,7 @@
    "title": "Trance Meaning: What It Is and Why It’s Far More Normal Than You Think",
    "seo_title": "Trance Meaning: The Everyday Altered State Explained",
    "desc": "Trance meaning: a state of deep absorption you already know, from highway hypnosis to a gripping novel. Its signs, the science and a 10-minute exercise.",
-   "kw": "trance meaning, highway hypnosis, trance state, what is trance, altered state of consciousness, shamanic trance, how to enter a trance state, what does a trance feel like, trance for beginners, absorption",
+   "kw": "trance meaning, trance state, what is trance, what is a trance state, in a trance meaning, trance-like state, highway hypnosis, altered state of consciousness, trance and hypnosis, trance state meditation, how to enter a trance state, what does a trance feel like, what is trance culture, shamanic trance",
    "photo": {
     "src": "en/what-is-trance-altered-state.webp",
     "src_s": "en/what-is-trance-altered-state-640.webp",
@@ -751,6 +859,14 @@
     [
      "What is trance culture?",
      "In anthropology, it is the way a society frames trance: who enters it, when, and what it means. Erika Bourguignon found institutionalized altered states in 437 of the 488 societies she studied in 1973, about 90 %. The phrase also names the scene around trance music."
+    ],
+    [
+     "What Is a Trance-Like State?",
+     "A trance-like state is a mild, everyday altered state of consciousness: attention narrows onto one thing, awareness of the room fades and time seems to stretch or shrink, yet a noise or a name is enough to bring you back. Daydreaming, being lost in a book or in music, and highway hypnosis are common examples. Psychologists relate these moments to absorption."
+    ],
+    [
+     "What Is Highway Hypnosis?",
+     "Highway hypnosis is the experience of driving a familiar or monotonous road and realizing you remember little of the last few miles. You were steering and braking correctly, but on autopilot, while your mind was elsewhere. It is a classic everyday example of a trance state, not hypnosis in the strict sense, since no suggestion is involved. At the wheel, treat it as a cue to take a break."
     ]
    ],
    "sources": [
@@ -759,7 +875,7 @@
     "Vanhaudenhuyse A. et al. (2024) — multidisciplinary scoping review of shamanic trance practices and altered states of consciousness.",
     "Bourguignon E. (1973) — <em>Religion, Altered States of Consciousness, and Social Change</em>, Ohio State University Press."
    ],
-   "modified": "2026-11-15"
+   "modified": "2026-11-28"
   },
   "photos": [
    "p14",
@@ -768,9 +884,9 @@
   "es": {
    "slug": "que-es-el-trance-estado-alterado",
    "title": "¿Qué es el trance? Significado y por qué es una capacidad humana muy normal",
-   "seo_title": "Trance: significado y por qué es más normal de lo que crees",
-   "desc": "Trance: significado de un estado alterado muy cotidiano que ya has vivido sin tambores ni péndulos. Absorción, ritmo, flow, meditación e hipnosis.",
-   "kw": "trance significado, qué es el trance, qué es un estado de trance, estado de trance, estado alterado de conciencia, trance natural, trance meditativo, trance e hipnosis, absorción mental, estado de flow",
+   "seo_title": "Trance: significado, qué es y por qué es tan normal",
+   "desc": "Trance: significado y qué es este estado alterado tan cotidiano que ya has vivido sin tambores ni péndulos. Absorción, ritmo, flow, meditación e hipnosis.",
+   "kw": "trance significado, qué es el trance, qué significa trance, qué es un estado de trance, entrar en trance, estado alterado de conciencia, trance significado espiritual, trance en psicología, trance e hipnosis, trance profundo, estado de flow",
    "photo": {
     "src": "es/que-es-el-trance-estado-alterado.webp",
     "src_s": "es/que-es-el-trance-estado-alterado-640.webp",
@@ -801,6 +917,22 @@
     [
      "¿El trance existe en todas las culturas?",
      "En casi todas. En 1973, la antropóloga Erika Bourguignon revisó 488 sociedades: 437, el 90 %, tenían al menos una forma de trance o de estado alterado reconocida y regulada por su cultura."
+    ],
+    [
+     "¿Cuál es el significado espiritual del trance?",
+     "En muchas tradiciones, el trance es el estado en el que una persona entra en contacto con lo sagrado: el chamán que «viaja», el médium que presta su voz, el místico en éxtasis. Cada cultura le da su marco y su sentido, y por eso no existe un único significado espiritual. Visto desde fuera, es un estado de absorción muy intensa; lo que representa depende de la tradición que lo acoge."
+    ],
+    [
+     "¿Qué significado tiene el trance en psicología?",
+     "En psicología, el trance se estudia sobre todo a propósito de la hipnosis. Se habla de trance hipnótico para describir un estado de atención muy focalizada y de absorción, en el que el entorno pasa a un segundo plano y las sugestiones se viven con más intensidad. No es un estado de sueño: la persona sigue despierta y, en general, conserva la capacidad de interrumpir la experiencia."
+    ],
+    [
+     "¿Qué es el trance en la música?",
+     "Es un género de música electrónica nacido a principios de los años noventa, con ritmos repetitivos y melodías largas que suben poco a poco. Su nombre suele explicarse por el estado de absorción que esas repeticiones pueden favorecer en quien baila o escucha. No hace falta música trance para entrar en trance, ni basta con ponerla: como con el tambor, todo depende de la atención, del cuerpo y del contexto."
+    ],
+    [
+     "¿Qué diferencia hay entre un trance ligero y un trance profundo?",
+     "Es una cuestión de grado. En un trance ligero sigues notando la habitación y tus pensamientos de fondo; solo estás más absorto de lo habitual. En un trance profundo la absorción es mayor: el tiempo se deforma, las imágenes mentales ganan nitidez y el entorno casi desaparece. Ninguno es «mejor» que el otro. Para empezar basta el primero, con sesiones cortas y una vuelta tranquila al final."
     ]
    ],
    "sources": [
@@ -809,17 +941,17 @@
     "Revisión de 2026 — <em>The rhythms of trance: Cultural phenomenology and neural mechanisms of music-induced non-ordinary states of consciousness</em>.",
     "Bourguignon E. (1973) — <em>Religion, Altered States of Consciousness, and Social Change</em>, Ohio State University Press."
    ],
-   "modified": "2026-11-15"
+   "modified": "2026-11-28"
   },
-  "modified": "2026-11-15"
+  "modified": "2026-11-28"
  },
  {
   "num": 98,
   "slug": "pelerinage-sans-religion-compostelle-shikoku",
   "title": "Marcher pour se transformer : le chemin de Compostelle, Shikoku et les pèlerins sans religion",
   "seo_title": "Chemin de Compostelle et Shikoku : pèlerinage sans religion",
-  "desc": "Un pèlerinage spirituel sans religion, du chemin de Compostelle aux 88 temples de Shikoku : comment la marche lente devient aussi une quête personnelle.",
-  "kw": "chemin de Compostelle, pèlerinage de Saint-Jacques-de-Compostelle, faire le chemin de Compostelle, 88 temples de Shikoku, marche de Compostelle, pèlerinage Shikoku, pourquoi faire le chemin de Compostelle, marche spirituelle, pèlerinage spirituel, pèlerinage sans religion",
+  "desc": "Pourquoi faire le chemin de Compostelle ou les 88 temples de Shikoku sans religion ? Un pèlerinage spirituel où la marche lente devient une quête personnelle.",
+  "kw": "chemin de Compostelle, pèlerinage de Shikoku, pourquoi faire le chemin de Compostelle, pèlerinage de Compostelle, pèlerinage de Saint-Jacques-de-Compostelle, 88 temples de Shikoku, marche de Compostelle, chemin de Compostelle km, pèlerinage spirituel, pèlerinage sans religion",
   "group": "lieux",
   "photo": {
    "src": "fr/pelerinage-sans-religion-compostelle-shikoku.webp",
@@ -871,6 +1003,14 @@
    [
     "Qu’est-ce que le pèlerinage de Saint-Jacques-de-Compostelle ?",
     "Ce pèlerinage suit plusieurs chemins jusqu’au tombeau traditionnellement attribué à l’apôtre Jacques, à Saint-Jacques-de-Compostelle, en Galice. Grand pèlerinage chrétien depuis le Moyen Âge, il est aussi entrepris aujourd’hui pour des raisons culturelles ou personnelles. Le Camino Francés, le plus connu, s’étend sur environ 738 kilomètres."
+   ],
+   [
+    "Pourquoi faire le chemin de Compostelle ?",
+    "Les raisons sont très diverses : par foi, pour marquer une transition, après une séparation ou un deuil, à la retraite, pour relever un défi, ou simplement pour réfléchir. Le pèlerinage de Compostelle reste historiquement chrétien, mais on peut le parcourir sans être croyant. Dans tous les cas, la marche lente réduit la vie à quelques gestes simples et laisse aux questions le temps de mûrir."
+   ],
+   [
+    "Chemin de Compostelle : combien de km et quelle durée ?",
+    "Il n’existe pas un seul chemin, mais plusieurs itinéraires qui convergent vers Saint-Jacques-de-Compostelle. Le plus connu, le Camino Francés, s’étend sur environ 738 km à travers le nord de l’Espagne ; à pied, comptez environ un mois. Depuis la France, la distance est plus longue et dépend du point de départ. Beaucoup de marcheurs n’en parcourent qu’une partie."
    ]
   ],
   "sources": [
@@ -882,10 +1022,10 @@
   "published": "2026-10-21",
   "en": {
    "slug": "pilgrimage-without-religion-camino-shikoku",
-   "title": "Walking to transform yourself: the Camino de Santiago, Shikoku and pilgrims without religion",
+   "title": "Walking to transform yourself: the Camino de Santiago pilgrimage, Shikoku and pilgrims without religion",
    "seo_title": "Camino de Santiago and Shikoku: A Non-Religious Pilgrimage",
    "desc": "Why walk the Camino de Santiago for weeks without being religious? Explore the Shikoku pilgrimage and how a one-day micro-pilgrimage can clear your mind.",
-   "kw": "Camino de Santiago, walking pilgrimage, Camino de Santiago pilgrimage, Shikoku pilgrimage, 88 temples of Shikoku, modern pilgrimage, non-religious pilgrimage, pilgrimage without religion, Shikoku Henro, secular pilgrimage",
+   "kw": "Camino de Santiago pilgrimage, Shikoku pilgrimage, Camino de Santiago, walking the Camino de Santiago, walking pilgrimage, 88 temples of Shikoku, Shikoku 88 temple pilgrimage, modern pilgrimage, non-religious pilgrimage, secular pilgrimage, why walk the Camino de Santiago, Camino de Santiago miles, micro-pilgrimage",
    "photo": {
     "src": "en/pilgrimage-without-religion-camino-shikoku.webp",
     "src_s": "en/pilgrimage-without-religion-camino-shikoku-640.webp",
@@ -919,6 +1059,14 @@
     [
      "Do you have to go away for several weeks to experience a pilgrimage?",
      "No. A day of deliberate walking towards a meaningful place can already bring together the essential elements: intention, movement, effort, arrival and return."
+    ],
+    [
+     "How many miles is the Camino de Santiago?",
+     "It depends on the route. The best-known one, the Camino Francés, covers about 738 kilometers (roughly 460 miles) across northern Spain, according to UNESCO. Counted from Saint-Jean-Pied-de-Port, on the French side of the Pyrenees, walkers usually quote close to 500 miles. Walking the Camino de Santiago in full takes about a month, but many pilgrims walk only the last 100 kilometers, in under a week."
+    ],
+    [
+     "Can you walk the Shikoku pilgrimage if you are not Buddhist?",
+     "Yes. The 88-temple circuit is rooted in Shingon Buddhism, but people now walk the Shikoku pilgrimage trail for many reasons: remembrance, a life transition, a personal challenge. Visitors of any background are welcome at the temples, provided they follow a few customs, such as bowing at the gate and rinsing their hands before approaching the halls. As on the Camino, respecting the religious meaning of the route matters."
     ]
    ],
    "sources": [
@@ -926,7 +1074,7 @@
     "Tourism Shikoku — official documentation of the Shikoku Henro, its history, its 88 temples and the contemporary motivations of pilgrims. (<a href=\"https://shikoku-tourism.com/en/shikoku-henro/shikoku-henro\" target=\"_blank\" rel=\"noopener nofollow\">Tourism Shikoku</a>)",
     "Reader I. — <em>Making Pilgrimages: Meaning and Practice in Shikoku</em>, reference study dedicated to the history and contemporary practices of the Shikoku pilgrimage."
    ],
-   "modified": "2026-10-24"
+   "modified": "2026-11-28"
   },
   "photos": [
    "p19",
@@ -937,7 +1085,7 @@
    "title": "El Camino de Santiago como experiencia espiritual sin religión: caminar para transformarte, también en Shikoku",
    "seo_title": "Camino de Santiago como experiencia espiritual sin religión",
    "desc": "El Camino de Santiago como experiencia espiritual, sin ser creyente. Del Camino a los 88 templos de Shikoku: la peregrinación como búsqueda personal.",
-   "kw": "camino de santiago, peregrinación camino de santiago, camino de santiago qué es, historias del camino de santiago, camino de santiago solo, peregrinación santiago de compostela, camino de santiago japonés, 88 templos de shikoku, peregrinación sin religión, camino de santiago experiencia espiritual",
+   "kw": "camino de santiago experiencia espiritual, camino de santiago significado espiritual, camino de santiago sin ser creyente, peregrinación sin religión, peregrinación camino de santiago, camino de santiago qué es, por qué hacer el camino de santiago, camino de santiago solo, camino de santiago japonés, 88 templos de shikoku, camino de shikoku",
    "photo": {
     "src": "es/peregrinacion-sin-religion-camino-santiago-shikoku.webp",
     "src_s": "es/peregrinacion-sin-religion-camino-santiago-shikoku-640.webp",
@@ -975,6 +1123,22 @@
     [
      "El Camino de Santiago, ¿qué es exactamente?",
      "Es una peregrinación: Santiago de Compostela es su meta, donde la tradición sitúa el sepulcro del apóstol Santiago el Mayor. Varias rutas históricas confluyen allí, y el Camino Francés recorre unos 738 kilómetros."
+    ],
+    [
+     "¿Por qué hacer el Camino de Santiago?",
+     "Cada peregrino tiene sus motivos: la fe, una transición, un duelo, la jubilación, un reto físico o la simple necesidad de parar. Como peregrinación, el Camino de Santiago les da a todos lo mismo: varios días a pie, pocas prioridades y tiempo para pensar sin interrupciones. No garantiza respuestas; ofrece un marco sencillo para que una pregunta madure a tu ritmo."
+    ],
+    [
+     "¿El Camino de Santiago te cambia la vida?",
+     "A veces, pero no de forma automática. Hay quien vuelve con una decisión tomada y quien vuelve, sobre todo, con ampollas y buenas fotos. Lo que el Camino ofrece es un contexto poco habitual: esfuerzo, repetición y pocas distracciones durante días. Que eso se convierta en un cambio depende de lo que hagas, al volver, con lo que has comprendido por el camino."
+    ],
+    [
+     "¿Cuál es el «Camino de Santiago japonés»?",
+     "Suele llamarse así al Kumano Kodo, una red de senderos de peregrinación en la península de Kii, hermanada con el Camino de Santiago e inscrita, como él, en el Patrimonio Mundial de la UNESCO. La peregrinación de Shikoku es otra ruta japonesa: un circuito de 88 templos ligado a Kūkai. La comparación ayuda a situarse, pero cada una tiene su historia y su lógica propias."
+    ],
+    [
+     "¿Qué es la Variante Espiritual del Camino de Santiago?",
+     "Es un tramo alternativo del Camino Portugués, en Galicia. Sale de Pontevedra, pasa por el monasterio de Armenteira y llega a Vilanova de Arousa; desde allí se puede remontar la ría de Arousa en barco hasta Pontecesures, junto a Padrón, siguiendo el recorrido que la tradición atribuye al traslado de los restos del apóstol. «Espiritual» es aquí el nombre de una ruta: la experiencia interior de la que habla este artículo puede vivirse en cualquier itinerario."
     ]
    ],
    "sources": [
@@ -982,9 +1146,9 @@
     "Tourism Shikoku — documentación oficial del Shikoku Henro, su historia, sus 88 templos y las motivaciones actuales de los peregrinos. (<a href=\"https://shikoku-tourism.com/en/shikoku-henro/shikoku-henro\" target=\"_blank\" rel=\"noopener nofollow\">ツーリズム四国</a>)",
     "Reader I. — <em>Making Pilgrimages: Meaning and Practice in Shikoku</em>, estudio de referencia dedicado a la historia y las prácticas actuales de la peregrinación de Shikoku."
    ],
-   "modified": "2026-10-24"
+   "modified": "2026-11-28"
   },
-  "modified": "2026-11-06"
+  "modified": "2026-11-28"
  },
  {
   "num": 62,
@@ -992,7 +1156,7 @@
   "title": "L’axis mundi et les trois mondes du chamanisme : la carte universelle",
   "seo_title": "Axis mundi : arbre du monde et trois mondes du chamanisme",
   "desc": "L’axis mundi, ici l’arbre du monde, relie les trois mondes du chamanisme. Inférieur, du milieu, supérieur : comment utiliser cette carte en méditation.",
-  "kw": "axis mundi, arbre du monde, symboles chamaniques, arbre cosmique, trois mondes du chamanisme, monde inférieur chamanisme, monde du milieu chamanisme, monde supérieur chamanisme, voyage chamanique, cosmologie chamanique",
+  "kw": "axis mundi, axis mundi définition, arbre du monde, arbre du monde mythologie nordique, arbre cosmique, trois mondes du chamanisme, monde d’en bas chamanisme, monde du milieu chamanisme, monde d’en haut chamanisme, symboles chamaniques, cosmologie chamanique, voyage chamanique, animal de pouvoir",
   "group": "chamanisme",
   "photo": {
    "src": "fr/trois-mondes-chamanisme.webp",
@@ -1024,6 +1188,10 @@
     "Dans de nombreux modèles contemporains, ils sont appelés Monde inférieur, Monde du milieu et Monde supérieur. Cependant, leur structure et leur signification varient considérablement selon les cultures."
    ],
    [
+    "Quelle est la définition de l’axis mundi ?",
+    "Axis mundi signifie « axe du monde » en latin. En histoire des religions, le terme désigne le symbole qui relie les niveaux du cosmos (ciel, terre et monde souterrain) et qui marque le centre du monde : un arbre, une montagne, un pilier, une échelle. L’arbre du monde, comme Yggdrasil dans la mythologie nordique, en est la forme la plus connue."
+   ],
+   [
     "Le Monde inférieur correspond-il à l’enfer ?",
     "Non. Cette équivalence est largement trompeuse. Selon les traditions, le monde inférieur peut être lié aux morts, à des esprits ou aux régions souterraines, mais il n’est pas simplement l’équivalent de l’enfer chrétien."
    ],
@@ -1048,7 +1216,7 @@
    "title": "The Three Worlds of Shamanism and the World Tree: A Universal Map",
    "seo_title": "World Tree Map: Lower, Middle and Upper Worlds of Shamanism",
    "desc": "The world tree, or axis mundi, links the Lower, Middle and Upper Worlds of shamanism. See the map, what each world holds and how to use it in meditation.",
-   "kw": "world tree, axis mundi, axis mundi meaning, upper world, world tree shamanism, three worlds of shamanism, lower world, middle world, shamanic cosmology, shamanic world tree",
+   "kw": "world tree, axis mundi, axis mundi meaning, three worlds of shamanism, lower world, middle world, upper world, world tree shamanism, shamanic worlds, shamanism map, shamanic cosmology, what is the lower world in shamanism, Yggdrasil",
    "photo": {
     "src": "en/the-three-worlds-of-shamanism-a-universal-map.webp",
     "src_s": "en/the-three-worlds-of-shamanism-a-universal-map-640.webp",
@@ -1089,6 +1257,14 @@
     [
      "Do the Three Worlds Really Exist?",
      "They undeniably exist as cosmological and symbolic structures in various traditions. Their existence as objective places independent of human experience is a matter of spiritual belief and has not been established scientifically."
+    ],
+    [
+     "What Is the Meaning of Axis Mundi?",
+     "Axis mundi is Latin for “axis of the world.” In the study of religions, the term describes any symbol placed at the center of the cosmos that connects its levels: sky, earth and underworld. It can be a world tree, a sacred mountain, a pillar or a ladder. In shamanic cosmology, the axis mundi is the route a shaman is said to travel from one world to another."
+    ],
+    [
+     "Is There a Single Map of the Shamanic Worlds?",
+     "No. There is no single shamanism map shared by every tradition. The three-level layout, with a Lower, a Middle and an Upper World joined by a world tree, is a widespread pattern. But the Sakha describe several heavens, and other peoples count the worlds differently. Modern practice has standardized the picture. Treat it as a useful sketch, not as a universal doctrine."
     ]
    ],
    "sources": [
@@ -1096,7 +1272,7 @@
     "Columbia Center for Archaeology — ethnographic documentation on Sakha shamanic cosmology and practices.",
     "Vanhaudenhuyse A. et al. (2024) — <em>Scoping review on shamanistic trance practices</em>, a multidisciplinary review of research on shamanic trance."
    ],
-   "modified": "2026-10-24"
+   "modified": "2026-11-28"
   },
   "photos": [
    "p08",
@@ -1107,7 +1283,7 @@
    "title": "Axis mundi y los tres mundos del chamanismo: el mapa del viaje chamánico",
    "seo_title": "Axis mundi: el árbol que une los tres mundos del chamanismo",
    "desc": "El axis mundi, el árbol del mundo, une los tres mundos del chamanismo: inferior, medio y superior. Qué dice este mapa y cómo usarlo hoy al meditar.",
-   "kw": "axis mundi, axis mundi significado, tres mundos del chamanismo, árbol del mundo, viaje chamánico, mundo inferior chamanismo, mundo medio chamanismo, mundo superior chamanismo, cosmología chamánica, meditación chamánica",
+   "kw": "axis mundi, tres mundos del chamanismo, axis mundi significado, axis mundi maya, árbol del mundo, Yggdrasil, viaje chamánico, viaje chamánico con tambor, meditación chamánica, mundo inferior chamanismo, mundo medio chamanismo, mundo superior chamanismo, cosmología chamánica",
    "photo": {
     "src": "es/tres-mundos-del-chamanismo.webp",
     "src_s": "es/tres-mundos-del-chamanismo-640.webp",
@@ -1134,6 +1310,10 @@
     [
      "¿Existen realmente los tres mundos?",
      "Existen sin duda como estructuras cosmológicas y simbólicas en diferentes tradiciones. Su existencia como lugares objetivos, independientes de la experiencia humana, pertenece al terreno de las creencias espirituales y no está demostrada científicamente."
+    ],
+    [
+     "¿Hace falta un tambor para un viaje chamánico?",
+     "No es imprescindible. En el chamanismo contemporáneo, el viaje chamánico con tambor es la forma más conocida. Un ritmo regular y bastante rápido, en directo o grabado, acompaña la visualización, y un cambio de ritmo indica el momento de volver. Para una meditación sencilla con los tres mundos, también te sirven el silencio, una música tranquila o una voz que te guíe."
     ]
    ],
    "sources": [
@@ -1141,17 +1321,17 @@
     "Columbia Center for Archaeology — documentación etnográfica sobre la cosmología y las prácticas chamánicas sajá.",
     "Vanhaudenhuyse A. et al. (2024) — <em>Scoping review on shamanistic trance practices</em>, revisión multidisciplinar de la investigación sobre el trance chamánico."
    ],
-   "modified": "2026-10-24"
+   "modified": "2026-11-28"
   },
-  "modified": "2026-11-06"
+  "modified": "2026-11-28"
  },
  {
   "num": 131,
   "slug": "meditation-et-productivite-travail",
   "title": "Méditation au travail : travailler mieux en se crispant moins",
-  "seo_title": "Méditation au travail : travailler mieux, moins crispé",
-  "desc": "La méditation au travail commence par ne plus confondre activité et efficacité. Attention, distractions, routine : une productivité sans crispation.",
-  "kw": "méditation au travail, intelligence émotionnelle au travail, gestion du stress au travail, gérer le stress du travail, méditation concentration travail, méditation et productivité, mindfulness au travail, méditer au bureau, concentration au travail, productivité consciente",
+  "seo_title": "Méditation au travail : gestion du stress et concentration",
+  "desc": "La méditation au travail commence par ne plus confondre activité et efficacité. Gestion du stress, concentration et routine en quatre temps, sans crispation.",
+  "kw": "méditation au travail, gestion du stress au travail, intelligence émotionnelle au travail, gérer le stress au travail, méditation concentration travail, améliorer sa concentration au travail, mindfulness au travail, pleine conscience au travail, méditer au bureau, méditation et productivité",
   "group": "vie",
   "photo": {
    "src": "fr/meditation-et-productivite-travail.webp",
@@ -1186,6 +1366,14 @@
    [
     "La méditation peut-elle éviter le burnout ?",
     "Certaines interventions mindfulness ou compassion réduisent stress et burnout en moyenne, mais elles ne remplacent pas la correction d’une charge de travail excessive ou d’un environnement professionnel nocif."
+   ],
+   [
+    "La méditation aide-t-elle à la gestion du stress au travail ?",
+    "Oui, c’est même là que les études sont les plus encourageantes : en moyenne, les programmes de pleine conscience en entreprise réduisent le stress et améliorent le bien-être. L’effet sur la productivité est plus modeste. La méditation aide une personne à réguler son attention et ses réactions ; elle ne corrige ni une charge de travail excessive ni un environnement nocif."
+   ],
+   [
+    "Faut-il faire une méditation avant de travailler ?",
+    "Ce n’est pas obligatoire, mais c’est le moment le plus simple à tenir. Cinq minutes le matin pour observer la respiration, puis trente secondes de transition avant la première période de travail profond : pieds au sol, souffle, objectif. Cette méditation avant de travailler ne promet pas une journée parfaite ; elle aide à commencer par la tâche qui compte."
    ]
   ],
   "sources": [
@@ -1202,9 +1390,9 @@
   "es": {
    "slug": "como-concentrarse-en-el-trabajo",
    "title": "Cómo concentrarse en el trabajo: meditar para rendir mejor con menos tensión",
-   "seo_title": "Cómo concentrarse en el trabajo: mindfulness y meditación",
-   "desc": "Cómo concentrarse en el trabajo con mindfulness: no confundas estar ocupado con ser eficaz. Atención, distracciones y una rutina realista para rendir más.",
-   "kw": "cómo concentrarse en el trabajo, evitar distracciones en el trabajo, meditación en el trabajo, meditación y productividad, mindfulness en el trabajo, meditación para concentrarse, concentración en el trabajo, productividad consciente, atención plena en el trabajo, estrés laboral",
+   "seo_title": "Cómo concentrarse en el trabajo: una rutina de mindfulness",
+   "desc": "Cómo concentrarse en el trabajo: no confundas estar ocupado con ser eficaz. Distracciones, estrés y una rutina realista de mindfulness en el trabajo.",
+   "kw": "cómo concentrarse en el trabajo, mindfulness en el trabajo, meditación en el trabajo, evitar distracciones en el trabajo, estrés en el trabajo, cómo practicar mindfulness, ejercicios de mindfulness en el trabajo, meditación para la concentración, productividad consciente, cómo concentrarse en el trabajo en casa, técnica Pomodoro, meditación y productividad",
    "photo": {
     "src": "es/como-concentrarse-en-el-trabajo.webp",
     "src_s": "es/como-concentrarse-en-el-trabajo-640.webp",
@@ -1230,23 +1418,32 @@
     [
      "¿Puede la meditación prevenir el burnout?",
      "Algunas intervenciones de mindfulness o de compasión reducen de media el estrés y el burnout, pero no sustituyen la corrección de una carga de trabajo excesiva o de un entorno laboral dañino."
+    ],
+    [
+     "¿Qué ejercicios de mindfulness se pueden hacer en el trabajo?",
+     "Tres caben en cualquier jornada: treinta segundos de transición antes de una tarea (pies en el suelo, una respiración, un objetivo); tres minutos de atención al cuerpo y a la respiración antes de un trabajo difícil; y dos minutos al final del día para apuntar lo pendiente y cerrar. Ninguno exige cerrar los ojos ni levantarte de la mesa."
+    ],
+    [
+     "¿Cómo concentrarse en el trabajo en casa?",
+     "Con las mismas reglas y un poco más de estructura: un lugar fijo para trabajar, las notificaciones en silencio durante bloques de treinta a cincuenta minutos y una transición breve al empezar. En casa nadie marca el final de la jornada: dos minutos para apuntar lo pendiente y cerrar el portátil hacen de puerta de salida."
     ]
    ],
    "sources": [
     "Vainre et al., «Mindfulness-Based Programmes for Work Performance: A Systematic Review and Meta-Analysis of Randomised Controlled Trials», Stress and Health, 2025.",
     "Bartlett et al., «Mindfulness-Based Programs in the Workplace: a Meta-Analysis of Randomized Controlled Trials», Mindfulness, 2020.",
     "Wang et al., «Loving-kindness and compassion meditations in the workplace: A meta-analysis and future prospects», Stress and Health, 2024."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
-  "modified": "2026-11-06"
+  "modified": "2026-11-28"
  },
  {
   "num": 8,
   "slug": "mediter-matin-ou-soir",
   "title": "Méditer le matin ou le soir : ce que change l’heure de votre séance",
-  "seo_title": "Méditation matin ou soir : ce que change l’heure de pratique",
-  "desc": "Une méditation n’a pas le même rôle le matin ou le soir. Objectif, chronotype, régularité : comment choisir l’heure que vous tiendrez.",
-  "kw": "méditation matin ou soir, méditer le matin ou le soir, meilleur moment pour méditer, quand méditer, meilleure heure pour méditer, méditer au réveil, méditer avant de dormir, chronotype, méditer le matin, méditation du soir",
+  "seo_title": "Méditation matin ou soir : le meilleur moment pour méditer",
+  "desc": "Une méditation n’a pas le même rôle le matin ou le soir. Objectif, chronotype, régularité : le meilleur moment pour méditer est celui que vous tiendrez.",
+  "kw": "méditation matin ou soir, meilleur moment pour méditer, méditer le matin ou le soir, quand méditer, méditation du matin, méditation du soir, méditer avant de dormir, méditation matinale, chronotype, comment méditer le soir",
   "group": "bases",
   "photo": {
    "src": "fr/mediter-matin-ou-soir.webp",
@@ -1294,6 +1491,14 @@
    [
     "Puis-je méditer matin et soir ?",
     "Oui. Une séance courte le matin et une autre le soir constituent une excellente routine si elle reste facile à maintenir."
+   ],
+   [
+    "Faut-il méditer le matin ou le soir ?",
+    "Les deux fonctionnent, mais pas pour la même chose. Le matin, la méditation prépare l’attention avant les sollicitations de la journée ; le soir, elle aide à relâcher la tension avant le sommeil. Si vous devez choisir, prenez l’heure à laquelle vous sautez le moins de séances : testez une semaine le matin, une semaine le soir, puis comparez."
+   ],
+   [
+    "Comment méditer le soir ?",
+    "Installez-vous confortablement, assis ou allongé, pour dix à vingt minutes. Commencez par une respiration lente, puis passez le corps en revue, zone par zone, en relâchant chacune : c’est le body scan. Si des pensées de la journée reviennent, laissez-les passer sans les suivre. Et si vous vous endormez avant la fin, tant mieux."
    ]
   ],
   "sources": [
@@ -1306,9 +1511,9 @@
   "en": {
    "slug": "best-time-to-meditate-morning-or-evening",
    "title": "Best Time to Meditate: How Morning or Evening Affects Your Practice",
-   "seo_title": "Best Time to Meditate: Morning or Evening? How to Choose",
-   "desc": "What is the best time to meditate, morning or evening? How cortisol, chronotype and habit shape it, plus simple routines for both ends of your day.",
-   "kw": "best time to meditate, morning meditation, evening meditation, meditate before bed, morning meditation routine, chronotype, body scan for sleep, meditation habit, best time of day to meditate, meditating before bed, when to meditate",
+   "seo_title": "Best Time to Meditate: Morning or Night? How to Choose",
+   "desc": "What is the best time to meditate, in the morning or at night? How cortisol, chronotype and habit shape it, plus simple routines for both ends of your day.",
+   "kw": "best time to meditate, meditate in the morning or at night, morning meditation, evening meditation, nighttime meditation, best time of day to meditate, how to meditate in bed, how to meditate in the morning, meditate before bed, when should I meditate, chronotype, meditation habit",
    "photo": {
     "src": "en/morning-or-evening-meditation-how-the-time-of.webp",
     "src_s": "en/morning-or-evening-meditation-how-the-time-of-640.webp",
@@ -1349,13 +1554,26 @@
     [
      "Can I meditate both morning and evening?",
      "Yes. A short session in the morning and another in the evening make an excellent routine, as long as it stays easy to maintain."
+    ],
+    [
+     "Should I meditate in the morning or at night?",
+     "Both work, for different jobs. In the morning, meditation steadies your attention before the day’s demands pile up; at night, it helps you set the day down before sleep. If you have to pick one, pick the time when you skip the fewest sessions: try mornings for a week, evenings for a week, then compare."
+    ],
+    [
+     "What is the best time to meditate in the morning?",
+     "Soon after you wake up, before the emails and conversations begin. There is no magic hour: 6 a.m. is not better than 8 a.m. As for how to meditate in the morning, keep it simple: ten minutes seated, natural breathing, one intention for the day. Tie it to something you already do, like your coffee or your shower."
+    ],
+    [
+     "How do you meditate in bed?",
+     "Lie on your back or sit propped against a pillow, whichever feels comfortable. Slow your exhale, then move your attention through your body from head to feet, softening each area a little. When thoughts about the day come back, let them pass without following them. And if you fall asleep before the end, the session has done its job."
     ]
    ],
    "sources": [
     "Sommerhoff A., Ehring T., Takano K. (2023), <em>Effects of Induced Mindfulness at Night on Repetitive Negative Thinking</em>, JMIR Mental Health.",
     "Huberty J. et al. (2021), <em>Testing a mindfulness meditation mobile app for the treatment of sleep-related symptoms in adults with sleep disturbance</em>, PLOS ONE.",
     "Kabat-Zinn J., <em>Full Catastrophe Living</em>, the program and principles of Mindfulness-Based Stress Reduction."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p48",
@@ -1366,7 +1584,7 @@
    "title": "¿Cuál es la mejor hora para meditar? Lo que cambia entre la mañana y la noche",
    "seo_title": "¿Cuál es la mejor hora para meditar, mañana o noche?",
    "desc": "¿Cuál es la mejor hora para meditar? La mañana y la noche no dan la misma sesión. Objetivo, cronotipo y constancia: así eliges la hora que vas a mantener.",
-   "kw": "cuál es la mejor hora para meditar, meditar por la mañana, es mejor meditar en la mañana o en la noche, meditar por la mañana o por la noche, mejor hora para meditar, mejor momento para meditar, meditación matutina, meditación nocturna, meditar antes de dormir, cronotipo",
+   "kw": "cuál es la mejor hora para meditar, meditar por la mañana o por la noche, es mejor meditar en la mañana o en la noche, mejor hora para meditar, mejor momento para meditar, meditar por la mañana, meditar por la noche, meditar antes de dormir, cómo meditar en la noche, cómo meditar en las mañanas, cronotipo",
    "photo": {
     "src": "es/mejor-hora-para-meditar.webp",
     "src_s": "es/mejor-hora-para-meditar-640.webp",
@@ -1400,23 +1618,40 @@
     [
      "¿Puedo meditar por la mañana y por la noche?",
      "Sí. Una sesión corta por la mañana y otra por la noche forman una rutina excelente, siempre que siga siendo fácil de mantener."
+    ],
+    [
+     "¿Cómo meditar en la noche?",
+     "Reserva de diez a veinte minutos, ya con la luz baja. Para meditar antes de dormir, elige una postura cómoda, sentado o acostado, y empieza con una respiración lenta. Después recorre el cuerpo de los pies a la cabeza, soltando cada zona: es el body scan. Si vuelven los pensamientos del día, déjalos pasar sin seguirlos. Y si te duermes antes del final, no pasa nada."
+    ],
+    [
+     "¿Cómo meditar en las mañanas?",
+     "Siéntate diez minutos con la espalda más o menos recta, antes de mirar el teléfono. Deja que la respiración siga su ritmo natural y vuelve a ella cada vez que la mente se vaya. Termina con una intención sencilla para el día. Para que el hábito aguante, engánchalo a algo fijo: después del café o de la ducha, por ejemplo. Si solo tienes cinco minutos, empieza con cinco."
+    ],
+    [
+     "¿Es mejor meditar antes o después de comer?",
+     "No hay una regla fija. Justo después de una comida abundante es fácil que aparezca la somnolencia, así que mucha gente prefiere meditar antes de comer o dejar pasar un rato. Meditar después de comer no tiene nada de malo: elige entonces una práctica corta y una postura sentada, que ayuda a mantenerse despierto. Lo importante, otra vez, es la hora que puedas repetir."
+    ],
+    [
+     "¿Es malo meditar a las 3 de la mañana?",
+     "No. Ninguna hora es mala ni mágica por sí misma. Algunas tradiciones, como la del yoga, recomiendan meditar poco antes del amanecer, en la llamada «hora de Brahma» (Brahma muhurta), porque todo está en calma. Pero si para meditar a las 3 de la mañana tienes que recortar tu descanso, sales perdiendo. Y si te despiertas a esa hora sin quererlo, una respiración lenta puede ayudarte a relajarte, sin obligación de hacer una sesión completa."
     ]
    ],
    "sources": [
     "Sommerhoff A., Ehring T., Takano K. (2023), <em>Effects of Induced Mindfulness at Night on Repetitive Negative Thinking</em>, JMIR Mental Health.",
     "Huberty J. et al. (2021), <em>Testing a mindfulness meditation mobile app for the treatment of sleep-related symptoms in adults with sleep disturbance</em>, PLOS ONE.",
     "Kabat-Zinn J., <em>Full Catastrophe Living</em>, programa y principios de la Mindfulness-Based Stress Reduction."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
-  "modified": "2026-11-06"
+  "modified": "2026-11-28"
  },
  {
   "num": 81,
   "slug": "rituel-avant-de-dormir",
   "title": "Le quart d’heure avant de dormir décide-t-il de votre nuit ? Le rituel du soir qui prépare vraiment le sommeil",
-  "seo_title": "Rituel du soir : le quart d’heure avant de dormir qui compte",
-  "desc": "Un rituel du soir de 15 minutes : baisser la stimulation, vider sa tête, utiliser le corps comme interrupteur, et pourquoi tout commence le matin.",
-  "kw": "rituel du soir, relaxation avant de dormir, hygiène du sommeil, rituel avant de dormir, routine du soir, routine du soir pour bien dormir, que faire avant de dormir, comment mieux dormir, routine sommeil, écran avant dormir",
+  "seo_title": "Rituel du soir pour adulte : 15 minutes avant de dormir",
+  "desc": "Rituel du soir de 15 minutes pour adulte : baisser la stimulation, se vider la tête, faire une relaxation avant de dormir, et pourquoi tout commence le matin.",
+  "kw": "rituel du soir, rituel du soir adulte, relaxation avant de dormir, rituel avant de dormir, que faire avant de dormir, routine du soir pour bien dormir, hygiène du sommeil, écran avant de dormir, se vider la tête avant de dormir, se détendre avant de dormir, brain dump, lumière bleue et sommeil",
   "group": "sommeil",
   "photo": {
    "src": "fr/rituel-avant-de-dormir.webp",
@@ -1452,6 +1687,14 @@
     "Une routine simple et reproductible combinant baisse de stimulation, éclairage plus doux, externalisation des tâches du lendemain et activité calme est généralement préférable à un rituel très complexe impossible à maintenir."
    ],
    [
+    "Quel rituel du soir pour un adulte ?",
+    "Le même principe que pour un enfant, sans l’histoire ni la veilleuse : des gestes prévisibles, toujours dans le même ordre, qui signalent la fin de la journée. Pour un adulte, quinze minutes suffisent : baisser la lumière et la stimulation, noter ce qui attend demain, lire quelques pages, puis relâcher le corps une fois au lit. Une routine du soir pour bien dormir doit surtout rester simple."
+   ],
+   [
+    "Que faire avant de dormir sans écran ?",
+    "Choisissez une activité qui a une fin naturelle : lire quelques pages, faire sa toilette, préparer ses vêtements du lendemain, noter trois lignes dans un carnet, écouter une séance audio lumière éteinte. L’idée n’est pas de bannir tout écran, mais d’éviter ce qui n’a pas de fin, comme un fil d’actualité."
+   ],
+   [
     "La méditation aide-t-elle à dormir ?",
     "Elle peut aider certaines personnes à réduire la réactivité aux pensées et au stress, mais elle ne remplace pas les traitements établis de l’insomnie chronique."
    ],
@@ -1471,8 +1714,8 @@
    "slug": "bedtime-routine-15-minutes-before-sleep",
    "title": "Bedtime Routine for Adults: How the 15 Minutes Before Bed Shape Your Night",
    "seo_title": "Bedtime Routine for Adults: How to Wind Down in 15 Minutes",
-   "desc": "A 15-minute bedtime routine to wind down: less stimulation, a brain dump, a mini body scan, and why good sleep hygiene starts in the morning.",
-   "kw": "bedtime routine, sleep hygiene, healthy bedtime routine, bedtime routine for adults, wind down before bed, how to wind down before bed, night routine for better sleep, brain dump before bed, sleep routine, screens before bed",
+   "desc": "A 15-minute bedtime routine for adults to wind down: a simple night routine (brain dump, mini body scan) and why sleep hygiene starts in the morning.",
+   "kw": "bedtime routine, night routine, bedtime routine for adults, sleep hygiene, relaxing bedtime routine, sleep routine, healthy bedtime routine, how to wind down before bed, brain dump before bed, what to do before bed, body scan for sleep, screens before bed",
    "photo": {
     "src": "en/the-15-minutes-before-bed-can-shape-your.webp",
     "src_s": "en/the-15-minutes-before-bed-can-shape-your-640.webp",
@@ -1513,13 +1756,22 @@
     [
      "What should I do if I can’t sleep despite good sleep hygiene?",
      "Persistent insomnia deserves an assessment, in particular to look for medical or psychological factors and consider structured sleep support from a health professional, rather than endlessly piling up sleep tips."
+    ],
+    [
+     "How do you wind down before bed without your phone?",
+     "The simplest way to wind down before bed is to give the last minutes of your evening an activity with a natural ending. Put the phone out of reach, dim the lights and choose something quiet that finishes by itself: a few pages of a paper book, a warm shower, laying out tomorrow’s clothes. The goal isn’t to ban screens forever, only to stop feeding your brain new information right before sleep."
+    ],
+    [
+     "What should you do when you can’t sleep, even after a good bedtime routine?",
+     "Stop trying to force it. If you’re wide awake, you can get up for a few minutes, keep the lights low and do something calm, then go back to bed when you feel drowsy. One bad night is normal and says little about the next one. If it keeps happening for weeks, talk to a health professional."
     ]
    ],
    "sources": [
     "Edinger J.D. et al. — clinical practice guidelines from the American Academy of Sleep Medicine on behavioral and psychological treatments for chronic insomnia.",
     "Scullin M.K. et al. (2018) — experimental study on writing a to-do list before bed and sleep onset latency.",
     "Walker W.H. et al. — research and reviews on the relationships between light, circadian rhythms, melatonin and sleep."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p40",
@@ -1529,8 +1781,8 @@
    "slug": "higiene-del-sueno-rutina-antes-de-dormir",
    "title": "Higiene del sueño y rutina antes de dormir: el ritual de 15 minutos que de verdad prepara la noche",
    "seo_title": "Higiene del sueño: tu rutina antes de dormir en 15 minutos",
-   "desc": "Higiene del sueño: 15 minutos para bajar la estimulación, vaciar la cabeza y usar el cuerpo como interruptor. Y por qué todo empieza por la mañana.",
-   "kw": "higiene del sueño, qué hacer antes de dormir, rutina antes de dormir, rutina nocturna, ritual antes de dormir, rutina para dormir mejor, cómo dormir mejor, pantallas antes de dormir, conciliar el sueño, meditación para dormir",
+   "desc": "Higiene del sueño y rutina antes de dormir: 15 minutos para bajar la estimulación, vaciar la cabeza y usar el cuerpo como interruptor. Empieza por la mañana.",
+   "kw": "rutina antes de dormir, higiene del sueño, qué hacer antes de dormir, rutina nocturna, rutina de sueño, ritual antes de dormir, cómo conciliar el sueño, pantallas antes de dormir, meditar antes de dormir, ansiedad antes de dormir, té para dormir mejor, meditación para dormir",
    "photo": {
     "src": "es/higiene-del-sueno-rutina-antes-de-dormir.webp",
     "src_s": "es/higiene-del-sueno-rutina-antes-de-dormir-640.webp",
@@ -1564,23 +1816,32 @@
     [
      "¿Qué hago si no consigo dormir a pesar de tener buena higiene del sueño?",
      "Un insomnio persistente merece una evaluación, sobre todo para descartar factores médicos o psicológicos y plantearse un acompañamiento estructurado del sueño con un profesional de la salud, en lugar de acumular trucos para dormir de forma indefinida."
+    ],
+    [
+     "¿Sirve un té para dormir mejor?",
+     "Depende de cuál. El té negro y el té verde llevan teína, es decir, cafeína: mejor dejarlos para la mañana. Una infusión sin cafeína, como la manzanilla o la tila, no es un somnífero, pero prepararla y tomarla despacio encaja bien en la rutina: es un gesto tranquilo, repetitivo y con final. Eso sí, sin pasarte de cantidad justo antes de acostarte."
+    ],
+    [
+     "¿Cómo empezar una rutina de sueño siendo adulto?",
+     "Elige tres gestos que puedas repetir cada noche a la misma hora: bajar las luces, apuntar lo pendiente para mañana y hacer una actividad tranquila con final, como leer unas páginas de un libro. Empieza quince minutos antes de acostarte y mantén también fija la hora de levantarte. Una rutina de sueño funciona por repetición, no por sofisticación."
     ]
    ],
    "sources": [
     "Edinger J.D. et al. — recomendaciones clínicas de la American Academy of Sleep Medicine sobre los tratamientos conductuales y psicológicos del insomnio crónico.",
     "Scullin M.K. et al. (2018) — estudio experimental sobre escribir una lista de tareas antes de acostarse y la latencia del sueño.",
     "Walker W.H. et al. — trabajos y revisiones sobre las relaciones entre la luz, los ritmos circadianos, la melatonina y el sueño."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
-  "modified": "2026-11-06"
+  "modified": "2026-11-28"
  },
  {
   "num": 33,
   "slug": "ouvrir-chakra-du-coeur",
   "title": "Ouvrir le chakra du cœur : le guide sans niaiserie",
-  "seo_title": "Chakra du cœur (Anahata) : l’ouvrir sans niaiserie",
-  "desc": "Ouvrir le chakra du cœur, ce n’est ni tout pardonner ni aimer tout le monde. Compassion et limites, trois pratiques concrètes et un protocole en 7 minutes.",
-  "kw": "chakra du cœur, chakra Anahata, chakra du cœur bloqué, ouvrir le chakra du cœur, quatrième chakra, chakra du cœur signification, méditation chakra du cœur, chakra du cœur exercices, Anahata, ouvrir chakra du coeur",
+  "seo_title": "Chakra du cœur bloqué (Anahata) : signes et comment l’ouvrir",
+  "desc": "Ouvrir le chakra du cœur (Anahata), ce n’est ni tout pardonner ni aimer tout le monde. Signes d’un cœur bloqué, trois exercices, une méditation de 7 minutes.",
+  "kw": "chakra du cœur, chakra Anahata, chakra du cœur bloqué, chakra du cœur signification, ouvrir le chakra du cœur, méditation chakra du cœur, exercice pour ouvrir le chakra du cœur, débloquer le chakra du cœur, chakra du cœur couleur, quatrième chakra",
   "group": "energie",
   "photo": {
    "src": "fr/ouvrir-chakra-du-coeur.webp",
@@ -1622,6 +1883,10 @@
    [
     "Dois-je pardonner pour ouvrir mon chakra du cœur ?",
     "Non. Le pardon peut être utile dans certains cas, mais il ne doit jamais être forcé. La sécurité, les limites et la reconnaissance de la blessure passent parfois avant toute idée de pardon."
+   ],
+   [
+    "Chakra du cœur : quelle signification ?",
+    "Dans le système moderne des sept chakras, le chakra du cœur est le quatrième, parfois noté « chakra 4 ». Son nom sanskrit, Anahata, signifie « non frappé ». Situé symboliquement au milieu de la poitrine, il est associé à l’amour, à la compassion, à la relation et à l’équilibre ; sa couleur la plus courante est le vert. C’est un symbole, pas un organe : un repère pour travailler le lien et les limites."
    ]
   ],
   "sources": [
@@ -1634,9 +1899,9 @@
   "en": {
    "slug": "how-to-open-heart-chakra",
    "title": "How to Open Your Heart Chakra: A No-Nonsense Guide",
-   "seo_title": "How to Open Your Heart Chakra Without Losing Yourself",
-   "desc": "How to open your heart chakra without having to love everyone: compassion, boundaries and grief, with three practices and a 7-minute routine.",
-   "kw": "heart chakra, heart chakra healing, how to open your heart chakra, signs of a blocked heart chakra, Anahata, heart chakra meditation, blocked heart chakra, open heart chakra, fourth chakra, loving-kindness meditation",
+   "seo_title": "How to Open Your Heart Chakra: 3 Exercises, 7-Min Meditation",
+   "desc": "How to open your heart chakra (Anahata) without having to love everyone: signs of a blocked heart chakra, 3 exercises and a 7-minute heart chakra meditation.",
+   "kw": "how to open your heart chakra, heart chakra, heart chakra meditation, blocked heart chakra, signs of a blocked heart chakra, how to unblock heart chakra, Anahata chakra, heart chakra meaning, heart chakra healing, love chakra, fourth chakra, loving-kindness meditation",
    "photo": {
     "src": "en/how-to-open-heart-chakra.webp",
     "src_s": "en/how-to-open-heart-chakra-640.webp",
@@ -1662,13 +1927,22 @@
     [
      "Do I have to forgive to open my heart chakra?",
      "No. Forgiveness can be helpful in some cases, but it should never be forced. Safety, boundaries and acknowledging the hurt sometimes come before any idea of forgiveness."
+    ],
+    [
+     "What is the meaning of the heart chakra?",
+     "Anahata, its Sanskrit name, is usually translated as “unstruck” or “unhurt.” In the modern seven-chakra system, the heart chakra is the fourth center, pictured in green in the middle of the chest, and it stands for love, compassion and connection. Read symbolically, it points to a part of you that can stay open to others while keeping its boundaries."
+    ],
+    [
+     "How do you open your heart chakra to love?",
+     "Slowly, and starting with yourself. Practice receiving before giving more: a compliment, a helping hand, a kind phrase in loving-kindness meditation. Notice what makes you close up and what feels safe. Opening to love does not mean dropping your boundaries: in this article’s view, a clear no is part of an open heart."
     ]
    ],
    "sources": [
     "Arthur Avalon (Sir John Woodroffe) — <em>The Serpent Power</em>, translation of and commentary on tantric texts about the chakras.",
     "Neff K. — <em>Self-Compassion: The Proven Power of Being Kind to Yourself</em>, on self-compassion.",
     "Salzberg S. — <em>Lovingkindness: The Revolutionary Art of Happiness</em>, a contemporary reference work on loving-kindness meditation."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p36",
@@ -1676,10 +1950,10 @@
   ],
   "es": {
    "slug": "como-abrir-el-chakra-del-corazon",
-   "title": "Cómo abrir un chakra del corazón bloqueado: la guía sin cursilerías",
+   "title": "Cómo abrir un chakra del corazón bloqueado (Anahata): la guía sin cursilerías",
    "seo_title": "Chakra del corazón bloqueado: cómo abrirlo sin cursilerías",
-   "desc": "¿Chakra del corazón bloqueado? Abrirlo no es perdonarlo todo ni querer a todos. Compasión y límites, tres prácticas y un protocolo de siete minutos.",
-   "kw": "chakra del corazón, abrir el chakra del corazón, chakra del corazón bloqueado, chakra Anahata, cuarto chakra, chakra del corazón significado, meditación chakra del corazón, ejercicios chakra del corazón",
+   "desc": "¿Chakra del corazón bloqueado? Abrir Anahata no es perdonarlo todo ni querer a todos. Compasión y límites, tres prácticas y una meditación de siete minutos.",
+   "kw": "chakra del corazón, chakra Anahata, chakra del corazón bloqueado, abrir el chakra del corazón, cuarto chakra, chakra cardíaco, chakra verde, chakra del corazón significado, meditación chakra del corazón, meditación para abrir el chakra del corazón, ejercicios chakra del corazón",
    "photo": {
     "src": "es/como-abrir-el-chakra-del-corazon.webp",
     "src_s": "es/como-abrir-el-chakra-del-corazon-640.webp",
@@ -1714,22 +1988,36 @@
     [
      "¿Tengo que perdonar para abrir el chakra del corazón?",
      "No. El perdón puede ser útil en algunos casos, pero nunca debe forzarse. La seguridad, los límites y el reconocimiento de la herida a veces van antes que cualquier idea de perdón."
+    ],
+    [
+     "¿Cuál es el cuarto chakra?",
+     "Es el chakra del corazón, Anahata en sánscrito. Ocupa el centro del sistema de los siete chakras: tres por debajo, más ligados al cuerpo y a lo instintivo, y tres por encima, que se consideran más espirituales. Se sitúa simbólicamente en el centro del pecho y, por su color, también se le llama chakra verde."
+    ],
+    [
+     "¿Cuál es el significado del chakra del corazón?",
+     "Anahata es una palabra sánscrita que suele traducirse como «no golpeado»: alude a un sonido que nace sin que nada choque con nada. El significado del chakra del corazón gira en torno a esa imagen, que muchos leen como un lugar que sigue intacto bajo las heridas. La tradición lo asocia al amor, la compasión y el equilibrio."
+    ],
+    [
+     "¿Qué significa tener bloqueado el chakra del corazón?",
+     "En el lenguaje de los chakras, significa que te cuesta dar o recibir afecto de forma equilibrada: te cierras para no sufrir o te entregas sin límites. No es un diagnóstico ni una avería que haya que reparar. Es una imagen para nombrar una dificultad en tus relaciones, y se trabaja con prácticas sencillas de atención, compasión y límites."
     ]
    ],
    "sources": [
     "Arthur Avalon (Sir John Woodroffe) — <em>The Serpent Power</em>, traducción y comentario de textos tántricos sobre los chakras.",
     "Neff K. — <em>Self-Compassion: The Proven Power of Being Kind to Yourself</em>, sobre la autocompasión.",
     "Salzberg S. — <em>Lovingkindness: The Revolutionary Art of Happiness</em>, obra de referencia contemporánea sobre la meditación de bondad amorosa."
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 75,
   "slug": "pleurer-pendant-meditation",
   "title": "Pleurer pendant une méditation : bug ou fonctionnalité ?",
-  "seo_title": "Pleurer pendant une méditation : bug ou fonctionnalité ?",
-  "desc": "Pleurer pendant une méditation alors que vous étiez venu respirer ? Pourquoi le silence fait remonter des émotions, que faire et quand revenir à l’ancrage.",
-  "kw": "pleurer pendant méditation, pleurer en méditant, méditation émotions, émotions pendant méditation, libération émotionnelle méditation, larmes méditation, pourquoi je pleure en méditant, méditation tristesse, libération émotionnelle",
+  "seo_title": "Pleurer pendant une méditation : libération émotionnelle ?",
+  "desc": "Pleurer pendant une méditation alors que vous étiez venu respirer ? Libération émotionnelle ou simple émotion : pourquoi les larmes viennent, et que faire.",
+  "kw": "pleurer pendant une méditation, libération émotionnelle, pourquoi je pleure pendant une méditation, larmes pendant la méditation, pleurer après une méditation, pleurer pendant une séance de yoga, méditation émotions, méditation tristesse, méditation effets secondaires, exercice d’ancrage, technique d’ancrage 5-4-3-2-1, méditation d’ancrage, accueillir ses émotions",
   "group": "psy",
   "photo": {
    "src": "fr/pleurer-pendant-meditation.webp",
@@ -1754,12 +2042,24 @@
     "Oui, cela peut arriver et ne signifie pas nécessairement qu’il y a un problème. Le calme et l’attention intérieure peuvent rendre certaines émotions plus visibles."
    ],
    [
+    "Pourquoi je pleure pendant une méditation ?",
+    "Le plus souvent parce que le calme laisse de la place. En journée, le bruit et l’action masquent ce que vous ressentez ; quand tout s’arrête, une émotion déjà présente devient visible. Les larmes pendant la méditation peuvent venir de la tristesse, mais aussi de la fatigue, du soulagement ou de la gratitude. Ce n’est ni un échec ni la preuve d’un traumatisme caché."
+   ],
+   [
     "Les larmes signifient-elles que je libère un traumatisme ?",
     "Pas nécessairement. Cette interprétation est possible comme métaphore, mais on ne peut pas conclure à partir de larmes seules qu’un traumatisme « stocké dans le corps » est en train d’être biologiquement libéré."
    ],
    [
     "Dois-je continuer à méditer lorsque je pleure ?",
     "Si vous vous sentez stable et que l’émotion reste tolérable, vous pouvez continuer doucement. Si vous vous sentez submergé, ouvrez les yeux, bougez et revenez à l’environnement."
+   ],
+   [
+    "Est-ce normal de pleurer après une méditation ?",
+    "Oui, cela arrive aussi. L’émotion apparue pendant la séance peut continuer quelques minutes, ou revenir dans l’heure qui suit. Prenez un moment avant de reprendre vos activités : marchez, buvez un verre d’eau, notez une phrase. Le repère reste le même : si c’est tolérable et temporaire, laissez passer ; si cela dure plusieurs jours ou perturbe votre quotidien, parlez-en à un professionnel qualifié."
+   ],
+   [
+    "Peut-on aussi pleurer pendant une séance de yoga ?",
+    "Oui, et le mécanisme est proche. En fin de séance, pendant la relaxation allongée, le corps se relâche et l’attention se tourne vers l’intérieur : une émotion déjà là peut devenir visible, comme en méditation. Les mêmes repères s’appliquent. Si c’est tolérable, laissez venir ; si c’est trop, ouvrez les yeux, bougez et revenez dans la pièce."
    ],
    [
     "Quand faut-il demander de l’aide ?",
@@ -1777,8 +2077,8 @@
    "slug": "crying-during-meditation-is-it-normal",
    "title": "Crying During Meditation: Bug or Feature?",
    "seo_title": "Crying During Meditation: Is It Normal, Why and What to Do",
-   "desc": "Crying during meditation? Why tears come, why it isn’t always “releasing trauma,” what to do in the moment and when to stop and return to grounding.",
-   "kw": "crying during meditation, emotions during meditation, emotional release meditation, tears meditation, meditation side effects, grounding techniques, mindfulness emotions, difficult meditation experiences, why do I cry when I meditate, is it normal to cry during meditation, crying while meditating",
+   "desc": "Crying during meditation? Why you cry when you meditate, why tears aren’t always “releasing trauma,” and what to do when the emotion gets too strong.",
+   "kw": "crying during meditation, why do I cry when I meditate, is it normal to cry during meditation, tears during meditation, crying while meditating, crying after meditation, crying during meditation spiritual meaning, emotional release meditation, emotions during meditation, tears while meditating",
    "photo": {
     "src": "en/crying-during-meditation-bug-or-feature.webp",
     "src_s": "en/crying-during-meditation-bug-or-feature-640.webp",
@@ -1819,13 +2119,22 @@
     [
      "When should you ask for help?",
      "If meditation regularly triggers panic, feeling cut off from yourself, reliving a painful memory, sleepless nights or distress that disrupts your daily life, a qualified professional can help you adapt your practice."
+    ],
+    [
+     "What is the spiritual meaning of crying during meditation?",
+     "Many traditions read tears as a sign that the heart is opening or that something is being released. That is a metaphor, not something anyone can verify. In Buddhism, crying during meditation is usually treated like any other experience: noticed with kindness, neither chased nor pushed away. The practical meaning is simpler: the quiet lets you feel something that was already there."
+    ],
+    [
+     "Is crying after meditation normal too?",
+     "Yes. Emotions don’t follow the timer: crying after meditation is as ordinary as crying while meditating, because what surfaced in the quiet doesn’t always end with the session. Apply the same check: if the tears pass and you feel steady afterward, there is nothing to fix. If they leave you shaken for days, shorten your sessions and talk to a qualified professional."
     ]
    ],
    "sources": [
     "Farias M. et al. — systematic review of adverse events associated with meditation practices, <em>Acta Psychiatrica Scandinavica</em>, 2020. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32820538/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Britton W.B. et al. — work on defining and measuring side effects and adverse effects related to mindfulness programs. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35174010/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Matko K., Van Dam N.T. — 2026 clinical review of the potential adverse effects of meditation and the need to adapt interventions. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/41176868/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p29",
@@ -1835,8 +2144,8 @@
    "slug": "llorar-durante-la-meditacion",
    "title": "Llorar al meditar: ¿fallo del sistema o parte del proceso?",
    "seo_title": "Llorar al meditar: ¿es normal, por qué ocurre y qué hacer?",
-   "desc": "Llorar al meditar: venías a respirar y llegan las lágrimas. Por qué el silencio hace aflorar emociones, qué hacer entonces y cuándo volver al anclaje.",
-   "kw": "llorar al meditar, es normal llorar en la meditación, por qué lloro cuando medito, llorar durante la meditación, lágrimas al meditar, emociones en la meditación, liberación emocional meditación, meditación y tristeza, llorar mientras meditas, efectos adversos de la meditación",
+   "desc": "Llorar al meditar: venías a respirar y llegan las lágrimas. ¿Liberación emocional? Por qué el silencio hace aflorar emociones y qué hacer entonces.",
+   "kw": "llorar al meditar, es normal llorar al meditar, por qué lloro cuando medito, liberación emocional, llorar durante la meditación, lágrimas al meditar, emociones atrapadas, catarsis emocional, meditación para llorar, efectos adversos de la meditación",
    "photo": {
     "src": "es/llorar-durante-la-meditacion.webp",
     "src_s": "es/llorar-durante-la-meditacion-640.webp",
@@ -1862,22 +2171,36 @@
     [
      "¿Cuándo hay que pedir ayuda?",
      "Si la meditación te provoca con frecuencia pánico, sensación de estar desconectado de ti, revivir un recuerdo doloroso, insomnio o un malestar que altera tu día a día, un profesional cualificado puede ayudarte a adaptar la práctica."
+    ],
+    [
+     "¿Qué es una liberación emocional al meditar?",
+     "Se suele llamar liberación emocional, o catarsis emocional, al momento en que una emoción contenida por fin se expresa: lágrimas, suspiros, a veces risa. Al meditar puede ocurrir porque hay menos distracciones y más atención hacia dentro. Es una manera de describir lo que sientes, no la prueba de que algo salga físicamente del cuerpo. Lo importante es que la experiencia sea tolerable y que después vuelvas a sentirte estable."
+    ],
+    [
+     "¿Llorar al meditar es bueno o malo?",
+     "Ni bueno ni malo por sí mismo: es normal llorar al meditar de vez en cuando. Esas lágrimas pueden acompañar un alivio, una toma de conciencia o un momento de ternura, y también un simple cansancio. Lo que cuenta es cómo estás después: si recuperas la calma, la emoción ha seguido su curso. Si te quedas desbordado durante horas o días, conviene acortar la práctica y hablarlo con alguien de confianza o con un profesional."
+    ],
+    [
+     "¿Existe una meditación para llorar y desahogarse?",
+     "No hay una meditación para llorar que funcione como un interruptor: las lágrimas no llegan por encargo. Lo que sí puedes hacer es elegir una práctica suave, de compasión, de gratitud o una meditación para soltar, y dejar que llegue lo que tenga que llegar. Si lloras, está bien; si no lloras, también. El objetivo no es producir lágrimas al meditar, sino escucharte con calma y terminar la sesión sintiéndote estable."
     ]
    ],
    "sources": [
     "Farias M. et al. — revisión sistemática sobre los efectos adversos asociados a las prácticas meditativas, <em>Acta Psychiatrica Scandinavica</em>, 2020. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32820538/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Britton W.B. et al. — trabajos sobre la definición y la medición de los efectos secundarios y adversos de los programas de mindfulness. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35174010/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Matko K., Van Dam N.T. — revisión clínica de 2026 sobre los posibles efectos adversos de la meditación y la necesidad de adaptar las intervenciones. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/41176868/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 64,
   "slug": "difference-hypnose-meditation",
   "title": "Hypnose et méditation : différences, ressemblances et laquelle choisir",
   "seo_title": "Différence entre hypnose et méditation : laquelle choisir ?",
-  "desc": "Hypnose et méditation : yeux fermés, voix calme, mais pas le même ressort. La suggestion ou l’observation : laquelle choisir pour le stress ou le sommeil ?",
-  "kw": "hypnose et méditation, différence entre hypnose et méditation, hypnose, hypnose c’est quoi, hypnose ou méditation, autohypnose, état hypnotique, méditation guidée, autohypnose pour dormir, hypnose définition",
+  "desc": "Hypnose et méditation : yeux fermés, voix calme, mais pas le même ressort. Suggestion ou observation, hypnose du sommeil ou méditation du soir : que choisir ?",
+  "kw": "hypnose et méditation, différence entre hypnose et méditation, hypnose du sommeil, hypnose pour dormir, l’hypnose c’est quoi, hypnose définition, auto-hypnose et méditation, hypnose et stress, hypnose et relaxation, hypnose méditation guidée",
   "group": "transe",
   "photo": {
    "src": "fr/difference-hypnose-meditation.webp",
@@ -1919,6 +2242,14 @@
    [
     "Quelle pratique est la meilleure contre le stress ?",
     "Pour une compétence générale de gestion du stress et d’observation des pensées, la méditation est très adaptée. Pour une cible plus spécifique, l’hypnose peut être intéressante. Les deux peuvent aussi être complémentaires."
+   ],
+   [
+    "Quelle est la différence entre auto-hypnose et méditation ?",
+    "L’auto-hypnose reprend le principe de l’hypnose sans praticien : vous vous donnez à vous-même des suggestions pour modifier une sensation, une habitude ou un état. La méditation, elle, entraîne surtout l’observation de ce qui se passe, sans chercher à le changer. On peut pratiquer les deux seul, avec ou sans audio ; c’est l’intention, modifier ou observer, qui les distingue."
+   ],
+   [
+    "Quelle différence entre hypnose et relaxation ?",
+    "La relaxation a un but : la détente du corps et le calme de l’esprit. L’hypnose peut commencer par une détente, mais ce n’est pas indispensable ; son ressort est la suggestion, qui cherche à modifier une sensation, une image ou un comportement. La méditation, de son côté, entraîne surtout l’attention et l’observation. On peut donc être très détendu sans être en hypnose."
    ]
   ],
   "sources": [
@@ -1932,8 +2263,8 @@
    "slug": "hypnosis-vs-meditation-differences",
    "title": "Hypnosis vs Meditation: Differences, Similarities, and Which One to Choose",
    "seo_title": "Hypnosis vs Meditation: Key Differences and How to Choose",
-   "desc": "Hypnosis vs meditation: one changes an experience through suggestion, the other helps you observe it. Which one fits stress, pain or sleep?",
-   "kw": "hypnosis vs meditation, hypnosis, self-hypnosis, what is hypnosis, how does hypnosis work, self-hypnosis vs meditation, altered state of consciousness hypnosis, trance vs hypnosis, difference between hypnosis and meditation, is meditation a form of hypnosis",
+   "desc": "Hypnosis vs meditation: one changes an experience through suggestion, the other helps you observe it. How does hypnosis work, and which is better for sleep?",
+   "kw": "hypnosis vs meditation, how does hypnosis work, what is hypnosis, hypnosis or meditation, difference between hypnosis and meditation, sleep hypnosis, sleep hypnosis meditation, self-hypnosis vs meditation, guided meditation vs hypnosis, hypnosis vs mindfulness, is meditation a form of hypnosis, trance vs hypnosis",
    "photo": {
     "src": "en/hypnosis-vs-meditation-differences.webp",
     "src_s": "en/hypnosis-vs-meditation-differences-640.webp",
@@ -1974,13 +2305,22 @@
     [
      "Which Practice Is Better for Stress?",
      "For developing a general ability to manage stress and observe your thoughts, meditation is particularly well suited. For a more specific target, hypnosis may be useful. The two can also complement one another."
+    ],
+    [
+     "What Is the Difference Between Guided Meditation and Hypnosis?",
+     "Both use a calm voice, slow breathing and mental imagery, which is why “guided meditation vs hypnosis” is such a common question: at first, the two can sound almost identical. The difference lies in what the voice does next. A guided meditation mostly invites you to notice what is already there: breath, sensations, thoughts. Hypnosis goes on to offer suggestions meant to change something specific, such as a sensation, an image or a habit."
+    ],
+    [
+     "How Are Meditation and Hypnosis Similar?",
+     "Both turn your attention inward, tune out the surroundings and often bring deep relaxation. Both can use imagery, and both can be guided by a voice or practiced alone, which is why a session of one can look so much like the other from the outside. Where they part ways is the role of suggestion: central in hypnosis, usually secondary in meditation."
     ]
    ],
    "sources": [
     "Penazzi G., De Pisapia N. (2022) — <em>Direct Comparisons Between Hypnosis and Meditation: A Mini-Review</em>, Frontiers in Psychology.",
     "Sim S. et al. (2024) — <em>Neural Correlates of Mindfulness Meditation and Hypnosis on Magnetic Resonance Imaging: Similarities and Differences. A Scoping Review</em>.",
     "McGeown W.J. (2016) — research and reviews on the neural mechanisms of hypnosis and meditation; see also <em>Neural Mechanisms of Hypnosis and Meditation</em>."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p25",
@@ -1990,8 +2330,8 @@
    "slug": "diferencia-entre-hipnosis-y-meditacion",
    "title": "Diferencia entre hipnosis y meditación: en qué se parecen y cuál elegir",
    "seo_title": "Diferencia entre hipnosis y meditación: cuál elegir",
-   "desc": "La diferencia entre hipnosis y meditación: sugestión frente a observación. Descubre cuál te conviene más para el estrés, el dolor o el sueño.",
-   "kw": "diferencia entre hipnosis y meditación, hipnosis, es la hipnosis real, qué es la autohipnosis, hipnosis del sueño, hipnosis psicología, para qué sirve la hipnosis, la hipnosis funciona, en qué consiste la hipnosis, hipnosis o meditación",
+   "desc": "La diferencia entre hipnosis y meditación: sugestión frente a observación. Cuál elegir para el estrés o el dolor, y qué cambia una hipnosis para dormir.",
+   "kw": "diferencia entre hipnosis y meditación, hipnosis y meditación, hipnosis para dormir, hipnosis del sueño, es la hipnosis real, en qué consiste la hipnosis, para qué sirve la hipnosis, la hipnosis funciona, hipnosis psicología, qué es la autohipnosis, diferencia entre hipnosis y meditación guiada, hipnosis o meditación",
    "photo": {
     "src": "es/diferencia-entre-hipnosis-y-meditacion.webp",
     "src_s": "es/diferencia-entre-hipnosis-y-meditacion-640.webp",
@@ -2017,22 +2357,32 @@
     [
      "¿Qué práctica es mejor contra el estrés?",
      "Para desarrollar una habilidad general de gestión del estrés y de observación de los pensamientos, la meditación encaja muy bien. Para un objetivo más específico, la hipnosis puede ser interesante. Y las dos también pueden complementarse."
+    ],
+    [
+     "¿Es la hipnosis real?",
+     "Sí. La hipnosis es un fenómeno estudiado en psicología y en neurociencia: una atención muy focalizada, menos conciencia de lo que ocurre alrededor y más facilidad para responder a una sugestión. No es magia ni pérdida de control, y no funciona igual con todo el mundo: la respuesta varía mucho de una persona a otra."
+    ],
+    [
+     "¿Cuál es la diferencia entre hipnosis y meditación guiada?",
+     "Por fuera se parecen: una voz tranquila, el cuerpo relajado, la atención recogida. La diferencia está en el guion. Una meditación guiada te pide sobre todo observar lo que hay: la respiración, una sensación, un pensamiento. Una hipnosis añade sugestiones para cambiar lo que sientes o imaginas. Muchas grabaciones mezclan las dos cosas."
     ]
    ],
    "sources": [
     "Penazzi G., De Pisapia N. (2022) — <em>Direct comparisons between hypnosis and meditation: A mini-review</em>, Frontiers in Psychology.",
     "Sim S. et al. (2024) — <em>Neural correlates of mindfulness meditation and hypnosis on magnetic resonance imaging: similarities and differences. A scoping review</em>.",
     "McGeown W.J. (2016) — trabajos y revisiones sobre los mecanismos neuronales de la hipnosis y la meditación; véase también la revisión <em>Neural mechanisms of hypnosis and meditation</em>."
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 100,
   "slug": "bonheur-competence-apprendre",
   "title": "Qu’est-ce que le bonheur, et peut-on vraiment apprendre à être heureux ?",
   "seo_title": "Qu’est-ce que le bonheur ? L’avis de la psychologie positive",
-  "desc": "Qu’est-ce que le bonheur pour la psychologie positive ? Un bien-être qui s’entraîne en partie : effets modestes mais réels, et quatre compétences clés.",
-  "kw": "qu’est-ce que le bonheur, psychologie positive, comment être heureux, apprendre à être heureux, peut-on apprendre à être heureux, comment être plus heureux, science du bonheur, bonheur durable, exercices de psychologie positive, bonheur et méditation",
+  "desc": "Qu’est-ce que le bonheur pour la psychologie positive ? Un bien-être qui s’apprend en partie : effets modestes mais réels, 4 compétences, un défi de 30 jours.",
+  "kw": "qu’est-ce que le bonheur, psychologie positive, exercices de psychologie positive, bonheur définition, comment être plus heureux, apprendre à être heureux, le bonheur s’apprend-il, défi 30 jours bonheur, méditation de gratitude, science du bonheur",
   "group": "lieux",
   "photo": {
    "src": "fr/bonheur-competence-apprendre.webp",
@@ -2067,6 +2417,14 @@
    [
     "Faut-il chercher à être positif tout le temps ?",
     "Non. Le bien-être psychologique implique aussi la capacité à reconnaître et traverser tristesse, peur, colère et frustration sans considérer automatiquement leur présence comme un échec."
+   ],
+   [
+    "Quelle est la définition du bonheur en psychologie ?",
+    "En psychologie, le bonheur désigne le plus souvent le « bien-être subjectif » : être globalement satisfait de sa vie, ressentir souvent des émotions agréables et moins souvent des émotions désagréables. Certains chercheurs y ajoutent le sentiment que sa vie a du sens. Cette définition du bonheur ne décrit donc pas une joie permanente, mais un équilibre d’ensemble, qui laisse leur place aux jours difficiles."
+   ],
+   [
+    "Qu’est-ce que le bonheur pour vous ?",
+    "C’est une question à vous poser plutôt qu’une réponse à chercher dans un livre. Pour y répondre, regardez ce qui améliore réellement vos journées : les moments où votre attention se pose, les personnes qui comptent, les activités qui ont du sens pour vous, le repos qui vous recharge. Votre réponse sera plus juste si elle part de ces observations plutôt que d’une image idéale du bonheur."
    ]
   ],
   "sources": [
@@ -2079,9 +2437,9 @@
   "en": {
    "slug": "happiness-skill-learn-to-be-happy",
    "title": "How to be happier: what positive psychology says we can really learn",
-   "seo_title": "Positive Psychology: Is Happiness a Skill You Can Train?",
-   "desc": "Can you learn how to be happier? What positive psychology research really shows, why the 40% rule is too simple, and a 30-day training plan to try.",
-   "kw": "positive psychology, happiness set point, is happiness genetic, how to be happier, is happiness a skill, can you learn to be happy, positive psychology exercises, hedonic adaptation, science of happiness, 30 day happiness challenge",
+   "seo_title": "Positive Psychology: Is Happiness a Choice or a Skill?",
+   "desc": "Is happiness a choice, a skill, or just genetic? What positive psychology shows, why the 40% rule is too simple, and a 30-day happiness challenge to try.",
+   "kw": "positive psychology, is happiness a choice, is happiness genetic, is happiness a skill, how to be happier, 30 day happiness challenge, positive psychology exercises, happiness set point, science of happiness, what is positive psychology, hedonic adaptation, how to be happier every day",
    "photo": {
     "src": "en/happiness-skill-learn-to-be-happy.webp",
     "src_s": "en/happiness-skill-learn-to-be-happy-640.webp",
@@ -2115,13 +2473,26 @@
     [
      "Should we try to be positive all the time?",
      "No. Psychological well-being also involves the ability to recognize and move through sadness, fear, anger, and frustration without automatically treating their presence as a failure."
+    ],
+    [
+     "Is happiness a choice?",
+     "Partly. You don’t choose your genes, your circumstances or what life throws at you, and telling someone facing grief or financial insecurity that happiness is a choice is unfair. But positive psychology research suggests that some habits can be trained: where you place your attention, how you nurture your relationships, what you do with your days. Happiness is less a choice than a set of skills."
+    ],
+    [
+     "What is positive psychology?",
+     "Positive psychology is the branch of psychology that studies what helps people do well: positive emotions, strengths, relationships and meaning. It took shape as a field in the late 1990s and is sometimes nicknamed the science of happiness. It does not treat difficult emotions as mistakes; it tests which practices support a life that feels worth living."
+    ],
+    [
+     "How can you be happier every day?",
+     "Skip the daily mood score and train four small behaviors instead: notice one genuinely pleasant thing, reach out to one person, do one thing that matters to you, and protect one real break. None of them needs more than a few minutes. After a month, keep the habits that actually improved your days and drop the rest."
     ]
    ],
    "sources": [
     "Lyubomirsky S., Sheldon K.M., Schkade D. (2005) — <em>Pursuing Happiness: The Architecture of Sustainable Change</em>, <em>Review of General Psychology</em>. (<a href=\"https://journals.sagepub.com/doi/10.1037/1089-2680.9.2.111\" target=\"_blank\" rel=\"noopener nofollow\">Sage Journals</a>)",
     "Bolier L. et al. (2013) — <em>Positive Psychology Interventions: A Meta-analysis of Randomized Controlled Studies</em>, meta-analysis of effects on well-being and depressive symptoms. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23390882/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "<em>Mapping the Evidence Base of Positive Psychology Interventions: Effectiveness, Limitations, and Future Directions</em> (2026) — systematic review covering 63 primary studies and 11 meta-analyses. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/42293973/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p11",
@@ -2129,10 +2500,10 @@
   ],
   "es": {
    "slug": "aprender-a-ser-feliz-habilidad",
-   "title": "Cómo ser feliz: ¿la felicidad es una habilidad que puedes mejorar?",
+   "title": "Cómo ser feliz: ¿la felicidad es una habilidad que puedes aprender y mejorar?",
    "seo_title": "Cómo ser feliz: ¿se puede aprender? Lo que dice la ciencia",
-   "desc": "Cómo ser feliz según la psicología positiva: la felicidad se entrena, con efectos modestos pero reales. Las cuatro habilidades que de verdad importan.",
-   "kw": "cómo ser feliz, aprender a ser feliz, cómo ser más feliz, se puede aprender a ser feliz, la felicidad es una habilidad, psicología positiva, ciencia de la felicidad, felicidad duradera, adaptación hedónica, ejercicios de psicología positiva",
+   "desc": "Cómo ser feliz según la psicología positiva: se puede aprender a ser feliz, con efectos modestos pero reales. Cuatro habilidades y un plan de 30 días.",
+   "kw": "aprender a ser feliz, cómo ser feliz, psicología positiva, se puede aprender a ser feliz, qué es la psicología positiva, cómo ser más feliz, ciencia de la felicidad, la felicidad es una habilidad, felicidad duradera, adaptación hedónica, ejercicios de psicología positiva, aprender a ser feliz con lo que tienes",
    "photo": {
     "src": "es/aprender-a-ser-feliz-habilidad.webp",
     "src_s": "es/aprender-a-ser-feliz-habilidad-640.webp",
@@ -2167,14 +2538,36 @@
     [
      "¿Hay que intentar ser positivo todo el tiempo?",
      "No. El bienestar psicológico también implica la capacidad de reconocer y atravesar la tristeza, el miedo, la rabia y la frustración sin considerar automáticamente su presencia como un fracaso."
+    ],
+    [
+     "¿Qué es la psicología positiva?",
+     "Es la rama de la psicología que estudia lo que hace que una vida vaya bien: las emociones agradables, las fortalezas personales, las relaciones y el sentido. Martin Seligman la impulsó a finales de los años noventa. No consiste en pensar en positivo a toda costa: investiga qué prácticas mejoran de verdad el bienestar, y cuánto."
+    ],
+    [
+     "¿La felicidad es una emoción?",
+     "No del todo. La alegría sí es una emoción: llega, dura poco y se va. La felicidad suele entenderse como algo más amplio: cómo valoras tu vida en conjunto, además de las emociones agradables que sientes a menudo. Por eso puedes tener un mal día dentro de una vida que te gusta, y por eso exigirle que sea una emoción permanente es pedirle algo imposible."
+    ],
+    [
+     "¿Cómo ser más feliz en el día a día?",
+     "No hay atajos, pero sí cuatro gestos que se entrenan: notar cada día algo agradable, cuidar un vínculo, hacer algo que te importe y descansar de verdad. Su efecto es modesto; repetido durante meses, cuenta. Prueba treinta días y quédate solo con los hábitos que de verdad mejoren tus días."
+    ],
+    [
+     "¿Cómo aprender a ser feliz con lo que tienes?",
+     "Entrenando la atención. Por la adaptación hedónica nos acostumbramos pronto a lo que ya tenemos y dejamos de verlo. Notar cada día, de forma consciente, una cosa agradable (el sol, una comida, una conversación) le devuelve parte de su valor. No significa conformarte ni renunciar a mejorar tu vida: significa no esperar a tenerlo todo para empezar a disfrutarla."
+    ],
+    [
+     "¿Se puede aprender a ser feliz solo, sin depender de nadie?",
+     "En parte. Cuidar tu atención, tu descanso y lo que da sentido a tus días depende sobre todo de ti. Pero la investigación sobre el bienestar insiste en el peso de los vínculos: ser feliz solo no es vivir aislado. Es no esperar que otra persona lo arregle todo, y seguir cuidando las relaciones que te importan."
     ]
    ],
    "sources": [
     "Lyubomirsky S., Sheldon K.M., Schkade D. (2005) — <em>Pursuing Happiness: The Architecture of Sustainable Change</em>, <em>Review of General Psychology</em>. (<a href=\"https://journals.sagepub.com/doi/10.1037/1089-2680.9.2.111\" target=\"_blank\" rel=\"noopener nofollow\">Sage Journals</a>)",
     "Bolier L. et al. (2013) — <em>Positive Psychology Interventions: A Meta-analysis of Randomized Controlled Studies</em>, metaanálisis de los efectos sobre el bienestar y los síntomas depresivos. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23390882/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "<em>Mapping the Evidence Base of Positive Psychology Interventions: Effectiveness, Limitations, and Future Directions</em> (2026) — revisión sistemática que abarca 63 estudios primarios y 11 metaanálisis. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/42293973/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 69,
@@ -2182,7 +2575,7 @@
   "title": "Trouver son animal totem, ou plutôt son animal de pouvoir : le voyage pas à pas",
   "seo_title": "Trouver son animal totem, ou animal de pouvoir, pas à pas",
   "desc": "Trouver son animal totem, ou animal de pouvoir, demande plus qu’un test en ligne. Les cinq étapes du voyage guidé, et que faire si vous ne voyez rien.",
-  "kw": "trouver son animal totem, animal totem test, mon animal totem, animal spirituel, animal totem signification, animal de pouvoir, animal totem c’est quoi, trouver son animal de pouvoir, animal de pouvoir chamanisme, voyage chamanique animal",
+  "kw": "trouver son animal totem, animal de pouvoir, trouver son animal de pouvoir, animal totem test, mon animal totem, animal totem signification, animal totem c’est quoi, animal spirituel, animal totem date de naissance, animal totem amérindien, méditation animal totem, animal de pouvoir chamanisme, voyage chamanique",
   "group": "chamanisme",
   "photo": {
    "src": "fr/trouver-son-animal-de-pouvoir.webp",
@@ -2218,6 +2611,10 @@
     "Pas exactement. « Totem » appartient à des traditions autochtones spécifiques et possède des significations sociales et culturelles qui dépassent largement l’idée moderne d’un guide animal personnel."
    ],
    [
+    "Peut-on trouver son animal totem avec sa date de naissance ?",
+    "Des tableaux dits « amérindiens » associent un animal à chaque période de l’année, à la manière d’un horoscope. Ils sont récents et ne viennent pas d’une tradition chamanique précise : c’est un jeu agréable, pas une rencontre. Dans la méthode décrite ici, l’animal de pouvoir n’est pas attribué par un calendrier. Il apparaît, ou non, pendant le voyage, et se confirme en revenant d’une séance à l’autre."
+   ],
+   [
     "Que faire si aucun animal n’apparaît ?",
     "Continuez sans forcer et utilisez d’autres modalités que la vision : sensation, son, intuition ou mot. Les capacités d’imagerie mentale varient beaucoup selon les personnes."
    ],
@@ -2241,8 +2638,8 @@
    "slug": "find-your-power-animal-shamanic-journey",
    "title": "How to Find Your Spirit Animal: A Step-by-Step Journey",
    "seo_title": "Spirit Animal or Power Animal? How to Find Yours in 5 Steps",
-   "desc": "Looking for your spirit animal? On a shamanic journey, enter the Lower World, let your power animal appear, ask it questions and come back safely.",
-   "kw": "spirit animal, how to find your spirit animal, find your power animal, totem animal, totem animals, power animal shamanism, spirit animals list, what is my power animal, power animal, spirit animal vs power animal",
+   "desc": "Looking for your spirit animal? Here is how to find your power animal on a shamanic journey: enter the Lower World, let it appear and come back safely.",
+   "kw": "spirit animal, power animal, how to find your spirit animal, how to find your power animal, power animal vs spirit animal, what is my power animal, how to find out what your spirit animal is, totem animal, shamanic journey, power animal retrieval, power animal guided meditation, can any animal be a spirit animal",
    "photo": {
     "src": "en/finding-your-power-animal-a-step-by-step.webp",
     "src_s": "en/finding-your-power-animal-a-step-by-step-640.webp",
@@ -2283,13 +2680,26 @@
     [
      "Can a frightening animal be a power animal?",
      "In a symbolic practice, yes: an imposing animal can represent an important quality. If the experience becomes genuinely distressing, end the visualization, come back to your bodily sensations and only try again when you feel steady."
+    ],
+    [
+     "Power animal vs spirit animal: what is the difference?",
+     "In everyday speech, the two often overlap. “Power animal” is the term used in contemporary shamanism, especially core shamanism: an animal ally met during a journey, associated with protection and strength. “Spirit animal” is the broader, popular expression, often used for any animal a person feels close to. Neither is the same as a totem, which belongs to specific Indigenous traditions."
+    ],
+    [
+     "How do you find out what your spirit animal is?",
+     "Not with a quiz or your date of birth, at least not in the sense used here. In this method, you take an inner journey, ask for an animal ally to come forward and notice which animal shows up, then which one keeps returning over several sessions. That recurring animal, rather than your favorite one, is usually considered yours."
+    ],
+    [
+     "Can any animal be a spirit animal?",
+     "In this practice, yes. The animal that appears is not chosen for its prestige: a crow, a mouse or a goat counts as much as a wolf or an eagle. What matters is that it comes forward on its own, returns over several journeys and means something to you. Observe it first; interpret it later."
     ]
    ],
    "sources": [
     "Harner M. — <em>The Way of the Shaman</em>, a central work in the development of contemporary core shamanism.",
     "Walsh R. — <em>The World of Shamanism: New Views of an Ancient Tradition</em>, a comparative discussion of shamanic experiences and practices.",
     "Hutton R. — <em>Shamans: Siberian Spirituality and the Western Imagination</em>, a historical analysis useful for distinguishing Siberian traditions from modern Western constructions."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p06",
@@ -2298,9 +2708,9 @@
   "es": {
    "slug": "como-encontrar-tu-animal-de-poder",
    "title": "Animal espiritual: cómo encontrar tu animal de poder con un viaje chamánico paso a paso",
-   "seo_title": "Animal espiritual: cómo encontrar tu animal de poder",
-   "desc": "Tu animal espiritual, mucho más que un test: los cinco pasos del viaje al Mundo inferior para encontrar tu animal de poder, y qué hacer si no ves nada.",
-   "kw": "animal espiritual, mi animal espiritual, cómo saber cuál es mi animal de poder, cuál es mi animal espiritual, animal de poder, animales de poder chamanismo, qué es un animal de poder, animal de poder lobo, animal de poder búho, animal de poder serpiente",
+   "seo_title": "Animal espiritual: cómo saber cuál es tu animal de poder",
+   "desc": "¿Cuál es tu animal espiritual? Mucho más que un test: los cinco pasos del viaje chamánico para encontrar tu animal de poder, y qué hacer si no ves nada.",
+   "kw": "animal espiritual, animal de poder, mi animal espiritual, cuál es mi animal espiritual, cómo saber cuál es mi animal de poder, qué es un animal de poder, animales de poder chamanismo, viaje chamánico animal de poder, animal de poder lobo, animal de poder búho, animal de poder serpiente, animal espiritual test",
    "photo": {
     "src": "es/como-encontrar-tu-animal-de-poder.webp",
     "src_s": "es/como-encontrar-tu-animal-de-poder-640.webp",
@@ -2338,22 +2748,32 @@
     [
      "¿Qué significa un lobo, un búho o una serpiente como animal de poder?",
      "No hay un significado fijo para cada animal. El lobo se asocia a menudo con el instinto y el grupo. El búho, con la noche y la mirada atenta. La serpiente, con la transformación. Lo que cuenta es lo que ese animal representa para ti."
+    ],
+    [
+     "¿Sirve un test para saber cuál es tu animal espiritual?",
+     "Un test de animal espiritual puede ser un juego divertido, pero solo ordena tus gustos: te devuelve el animal que ya preferías. Los métodos chamánicos contemporáneos proponen lo contrario: dejar que un animal aparezca por sí solo durante un viaje interior y comprobar si vuelve en varias sesiones. La sorpresa forma parte del método."
+    ],
+    [
+     "¿Cuál es mi animal espiritual según mi fecha de nacimiento o mi signo?",
+     "Ninguno en particular: circulan muchas listas que asignan un animal a cada signo o a cada fecha, y no coinciden entre sí. Son propuestas modernas, no una enseñanza chamánica tradicional. En los métodos de viaje interior, el animal no se calcula: es el que aparece, y vuelve, cuando practicas. Si una lista te inspira, tómala como punto de partida, no como veredicto."
     ]
    ],
    "sources": [
     "Harner M. — <em>The Way of the Shaman</em>, obra clave en el desarrollo del core shamanism contemporáneo.",
     "Walsh R. — <em>The World of Shamanism: New Views of an Ancient Tradition</em>, análisis comparativo de las experiencias y prácticas chamánicas.",
     "Hutton R. — <em>Shamans: Siberian Spirituality and the Western Imagination</em>, análisis histórico útil para distinguir las tradiciones siberianas de las construcciones occidentales modernas."
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 132,
   "slug": "meditation-et-relations-ecoute",
   "title": "Méditation et communication dans le couple : écouter vraiment au lieu de simplement attendre son tour de parler",
-  "seo_title": "Communication dans le couple : écouter vraiment l’autre",
-  "desc": "Communication dans le couple : être là ne veut pas dire être présent. Écoute consciente, conflits, limites : trois pratiques pour mieux s’écouter.",
-  "kw": "communication dans le couple, communication couple, écoute active dans le couple, écouter son partenaire, conflits de couple, méditation couple, pleine conscience en couple, écoute consciente, mindfulness couple, méditation à deux",
+  "seo_title": "Communication dans le couple : 3 exercices pour s’écouter",
+  "desc": "Communication dans le couple : être là ne veut pas dire être présent. Écoute active, conflits, limites : trois exercices pour mieux communiquer en couple.",
+  "kw": "communication dans le couple, mieux communiquer en couple, exercices de communication dans le couple, écoute active dans le couple, écouter son partenaire, problème de communication dans le couple, plus de communication dans le couple, conflits de couple, dispute de couple, méditer en couple",
   "group": "vie",
   "photo": {
    "src": "fr/meditation-et-relations-ecoute.webp",
@@ -2394,6 +2814,18 @@
    [
     "Faut-il méditer ensemble pour améliorer son couple ?",
     "Non. Une pratique individuelle peut influencer certaines habitudes relationnelles, tandis que des activités partagées et une communication directe restent importantes."
+   ],
+   [
+    "Plus de communication dans le couple : que faire ?",
+    "Commencez par un petit pas plutôt que par une grande explication. Proposez un rendez-vous de vingt minutes sans téléphone, où chacun répond à deux questions : qu’est-ce qui a été difficile cette semaine, qu’est-ce qui m’a fait du bien ? Pour rouvrir le dialogue dans le couple, une promenade ou une activité partagée peut aider davantage qu’un face-à-face tendu. Si le silence s’installe malgré tout, un conseiller conjugal peut vous accompagner."
+   ],
+   [
+    "Problème de communication dans le couple : par où commencer ?",
+    "Par l’écoute, avant les arguments. Quand l’autre parle, prenez une respiration, puis redites avec vos mots ce que vous avez compris et laissez-le corriger. Vous donnerez votre version ensuite. Cet ordre simple évite que chacun défende un dossier différent. Il ne vaut que dans une relation sûre : en cas de violence ou de contrôle, cherchez d’abord de l’aide."
+   ],
+   [
+    "Dispute de couple qui dégénère : comment s’arrêter à temps ?",
+    "Repérez les signaux du corps : le cœur qui accélère, la voix qui monte, la respiration qui devient courte. À ce moment, demandez une pause d’une vingtaine de minutes en annonçant l’heure de la reprise, par exemple « on reprend à 19 h 30 ». La pause calme l’escalade ; le retour prévu évite qu’elle devienne une fuite."
    ]
   ],
   "sources": [
@@ -2410,9 +2842,9 @@
   "es": {
    "slug": "escucha-activa-y-consciente",
    "title": "Escucha activa en pareja: dejar de esperar tu turno para hablar",
-   "seo_title": "Escucha activa en pareja: meditación para tus relaciones",
-   "desc": "La escucha activa en pareja se entrena: estar ahí no es estar presente. Escucha consciente, conflictos, límites y tres prácticas de meditación.",
-   "kw": "escucha activa, escucha activa en pareja, escucha consciente, cómo escuchar a tu pareja, meditación y relaciones, mindfulness en pareja, meditación en pareja, atención plena en pareja, comunicación en pareja, conflictos de pareja",
+   "seo_title": "Escucha activa en pareja: 3 ejercicios de mindfulness",
+   "desc": "La escucha activa en pareja se entrena: estar ahí no es estar presente. Escucha consciente, conflictos, límites y tres ejercicios de mindfulness.",
+   "kw": "escucha activa en pareja, escucha activa, ejercicios de mindfulness, qué es la escucha activa, escucha activa ejemplos, escucha activa y asertividad, comunicación en pareja, cómo escuchar a tu pareja, mindfulness en pareja, meditación en pareja, escucha consciente, conflictos de pareja",
    "photo": {
     "src": "es/escucha-activa-y-consciente.webp",
     "src_s": "es/escucha-activa-y-consciente-640.webp",
@@ -2446,14 +2878,28 @@
     [
      "¿Hay que meditar juntos para mejorar la pareja?",
      "No. Una práctica individual puede influir en ciertos hábitos relacionales, mientras que las actividades compartidas y la comunicación directa siguen siendo importantes."
+    ],
+    [
+     "¿Qué es la escucha activa?",
+     "Es escuchar para entender, no para contestar. En la escucha pasiva oyes mientras preparas tu respuesta; en la activa prestas toda tu atención, dejas terminar al otro, reformulas lo que has oído y solo entonces respondes. El término viene de la psicología humanista de Carl Rogers. En pareja, supone bajar la guardia un momento para oír lo que el otro intenta decirte."
+    ],
+    [
+     "¿Qué ejemplos hay de escucha activa en pareja?",
+     "Tres ejemplos de cómo escuchar a tu pareja. Reformular: «Si te entiendo bien, sentiste que no te hacía caso». Preguntar en lugar de aconsejar: «¿Qué fue lo más difícil del día?». Comprobar en lugar de adivinar: «Llevas un rato en silencio: ¿estás molesta o solo cansada?». En los tres casos hablas menos de ti y más de lo que el otro acaba de decir."
+    ],
+    [
+     "¿Cómo mejorar la comunicación en pareja?",
+     "Empieza por lo pequeño: una respiración antes de responder a una frase que duele, cinco minutos de escucha por turnos sin consejos ni comparaciones y una cita de veinte minutos sin teléfono. En los conflictos de pareja, pide una pausa con hora de regreso en lugar de seguir subiendo el tono. Ninguna técnica evita las discusiones; estas ayudan a que sigan siendo conversaciones."
     ]
    ],
    "sources": [
     "Park, «The association between mindfulness and couple quality: The mediating roles of self-care and engagement in shared relationship activities», Journal of Family Therapy, 2024.",
     "McGill, Adler-Baeder & Rodriguez, «Mindfully in Love: A Meta-Analysis of the Association Between Mindfulness and Relationship Satisfaction», 2016.",
     "Jones, Bodie & Hughes, «The Impact of Mindfulness on Empathy, Active Listening, and Perceived Provisions of Emotional Support», Communication Research, 2019."
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 9,
@@ -2779,9 +3225,9 @@
   "num": 34,
   "slug": "troisieme-oeil-glande-pineale-intuition",
   "title": "Glande pinéale et troisième œil : mythe, réalité et intuition",
-  "seo_title": "Glande pinéale et troisième œil : mythe et intuition",
-  "desc": "Glande pinéale : son rôle réel, Ajna dans la tradition, pression entre les sourcils, lumières sous les paupières et pratique du troisième œil en 10 min.",
-  "kw": "glande pinéale, glande pinéale troisième œil, glande pinéale mélatonine, troisième œil signification, troisième œil c’est quoi, troisième œil ouvert, le pouvoir du troisième œil, écouter son intuition, chakra Ajna, méditation troisième œil",
+  "seo_title": "Glande pinéale et chakra du troisième œil : mythe et réalité",
+  "desc": "Glande pinéale et chakra du troisième œil (Ajna) : le rôle réel de la glande, la pression entre les sourcils, l’intuition et une méditation de 10 minutes.",
+  "kw": "glande pinéale troisième œil, chakra du troisième œil, glande pinéale, chakra Ajna, troisième œil signification, troisième œil c’est quoi, troisième œil ouvert, ouvrir son troisième œil, pression entre les sourcils, glande pinéale mélatonine, glande pinéale spiritualité, activer sa glande pinéale, le pouvoir du troisième œil, écouter son intuition, voir des lumières les yeux fermés",
   "group": "energie",
   "photo": {
    "src": "fr/troisieme-oeil-glande-pineale-intuition.webp",
@@ -2810,8 +3256,16 @@
     "Non au sens scientifique. La glande pinéale est une glande endocrine impliquée principalement dans la production de mélatonine et la régulation circadienne. Son identification au troisième œil relève surtout de rapprochements philosophiques et spirituels modernes."
    ],
    [
+    "Peut-on activer sa glande pinéale ?",
+    "En spiritualité et en ésotérisme, « activer » la glande pinéale signifie éveiller le troisième œil. Biologiquement, on ne commande pas une glande par la concentration : la pinéale suit surtout la lumière et l’obscurité pour régler la mélatonine. Ce que la méditation entraîne, c’est l’attention, la visualisation et l’observation de vos sensations, ce qui est déjà beaucoup."
+   ],
+   [
     "Pourquoi ressens-je des picotements entre les sourcils pendant la méditation ?",
     "La focalisation de l’attention augmente la perception des sensations locales, et une légère contraction musculaire peut également provoquer pression ou picotements."
+   ],
+   [
+    "Comment ouvrir son troisième œil ?",
+    "Dans une lecture contemplative, « ouvrir » son troisième œil veut dire entraîner sa vision intérieure : concentration, visualisation, observation de ses pensées. Dix minutes par jour suffisent pour commencer : l’attention posée au centre du front, sans crispation, puis un point lumineux imaginé. Aucune pratique sérieuse ne promet de pouvoirs : méfiez-vous des méthodes « rapides »."
    ],
    [
     "Peut-on développer son intuition avec la méditation ?",
@@ -2828,9 +3282,9 @@
   "en": {
    "slug": "third-eye-pineal-gland-intuition",
    "title": "Third Eye Meaning: Myth, the Pineal Gland, and Intuition",
-   "seo_title": "Third Eye Meaning: Pineal Gland, Myth and Intuition",
+   "seo_title": "Third Eye Meaning: Ajna Chakra, Pineal Gland and Intuition",
    "desc": "Third eye meaning, from the Ajna chakra to what the pineal gland really does: why you feel pressure between your eyebrows, and an honest meditation.",
-   "kw": "third eye meaning, pineal gland, pineal gland third eye, third eye symbol, spiritual intuition, signs your third eye is opening, third eye, third eye chakra, Ajna chakra, third eye meditation",
+   "kw": "third eye meaning, what is the third eye, pineal gland third eye, what does the pineal gland do, third eye chakra, Ajna chakra, third eye chakra meaning, third eye symbol, signs your third eye is opening, is the third eye real, third eye meditation, spiritual intuition, pineal gland",
    "photo": {
     "src": "en/the-third-eye-myth-the-pineal-gland-and.webp",
     "src_s": "en/the-third-eye-myth-the-pineal-gland-and-640.webp",
@@ -2871,13 +3325,22 @@
     [
      "Can you develop your intuition with meditation?",
      "Meditation can improve awareness of your sensations, emotions and inner reactions, which can help you pick up on certain intuitive signals. That doesn’t mean every intuition is accurate or paranormal, though."
+    ],
+    [
+     "What does the third eye symbol mean?",
+     "The third eye symbol is usually an eye, a dot or a small lotus drawn in the middle of the forehead. In Hindu imagery, Shiva is shown with a third eye; in yoga diagrams, the Ajna chakra appears as a two-petaled lotus, often indigo. In each case it points to the same idea: inner vision, the ability to see clearly within yourself."
+    ],
+    [
+     "What happens when the pineal gland is activated?",
+     "Biologically, nothing mystical: the pineal gland becomes active every evening, when fading light lets it release melatonin, which helps regulate your sleep-wake cycle. In spiritual circles, “activating the pineal gland” means awakening the third eye through meditation. Some people then describe pressure in the forehead, inner images or a sense of clarity. These experiences are real as experiences, but nothing shows that the gland itself is behind them."
     ]
    ],
    "sources": [
     "Arthur Avalon — <em>The Serpent Power</em>, translation of tantric texts describing the Ajna chakra, among others.",
     "Arendt J. — reference work on melatonin, the pineal gland and circadian rhythms; see in particular <em>Melatonin and the Mammalian Pineal Gland</em>.",
     "Kahneman D. — <em>Thinking, Fast and Slow</em>, for the distinction between fast intuitive processing, judgment and cognitive biases."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p18",
@@ -2886,9 +3349,9 @@
   "es": {
    "slug": "tercer-ojo-glandula-pineal-intuicion",
    "title": "El chakra del tercer ojo: del símbolo Ajna a la glándula pineal",
-   "seo_title": "Chakra del tercer ojo: mito, glándula pineal e intuición",
+   "seo_title": "Glándula pineal y chakra del tercer ojo: mito e intuición",
    "desc": "¿Qué es el chakra del tercer ojo? Ajna en la tradición, lo que hace de verdad la glándula pineal, la presión entre las cejas y una práctica de 10 minutos.",
-   "kw": "chakra del tercer ojo, glándula pineal, qué es el tercer ojo, glándula pineal tercer ojo, para qué sirve el tercer ojo, poder del tercer ojo, tercer ojo abierto, tercer ojo espiritual, el don del tercer ojo, chakra Ajna",
+   "kw": "glándula pineal tercer ojo, chakra del tercer ojo, glándula pineal, qué es el tercer ojo, glándula pineal y tercer ojo es lo mismo, para qué sirve el tercer ojo, dónde está el tercer ojo, activar la glándula pineal, glándula pineal función espiritual, tercer ojo abierto, chakra Ajna",
    "photo": {
     "src": "es/tercer-ojo-glandula-pineal-intuicion.webp",
     "src_s": "es/tercer-ojo-glandula-pineal-intuicion-640.webp",
@@ -2922,14 +3385,32 @@
     [
      "¿Cuál es la historia del tercer ojo?",
      "La idea de un ojo interior entre las cejas viene del yoga y del tantra, con el chakra Ajna. Su relación con la glándula pineal es mucho más reciente y se popularizó en el esoterismo occidental moderno. Descartes, en el siglo XVII, ya había dado a esta glándula un papel filosófico especial."
+    ],
+    [
+     "¿Cuál es el chakra del tercer ojo y dónde está?",
+     "Es el sexto chakra de la tradición yóguica; su nombre sánscrito es Ajna. Se sitúa simbólicamente entre las cejas, un poco por encima, y suele representarse de color índigo. No es un órgano: no hay que confundirlo con la glándula pineal, que se encuentra en el centro del cerebro. En la práctica, sirve sobre todo como punto de concentración al meditar."
+    ],
+    [
+     "¿Cuál es la función espiritual de la glándula pineal?",
+     "Su función mejor establecida es biológica: producir melatonina, una hormona que participa en el ritmo del sueño y la vigilia. La «función espiritual» que se le atribuye viene de la filosofía y del esoterismo: Descartes la imaginó como punto de unión entre el cuerpo y el alma, y más tarde se la asoció con el chakra Ajna. Puedes usarla como imagen al meditar, sin confundir el símbolo con el órgano."
+    ],
+    [
+     "¿Sirve una meditación para activar la glándula pineal?",
+     "La glándula pineal no necesita que la «actives»: trabaja sola, al ritmo de la luz y la oscuridad. Lo que en espiritualidad se llama meditación para activar la glándula pineal es, en la práctica, un ejercicio de concentración en el entrecejo. Puede ser una buena práctica de atención y de visualización, pero nada demuestra que modifique la glándula ni que despierte capacidades especiales."
+    ],
+    [
+     "¿Qué significa ver colores al meditar?",
+     "Casi siempre, que tu sistema visual sigue activo con los ojos cerrados. Es frecuente ver luces al meditar, o manchas y colores: pueden ser fosfenos o imágenes que surgen cuando te acercas al sueño. Por sí solos no indican que el tercer ojo se abra ni que ocurra nada extraordinario. Anota lo que ves, por ejemplo «luz azul», y vuelve con calma a tu punto de atención."
     ]
    ],
    "sources": [
     "Arthur Avalon — <em>The Serpent Power</em>, traducción de textos tántricos que describen, entre otros, el chakra Ajna.",
     "Arendt J. — trabajos de referencia sobre la melatonina, la glándula pineal y los ritmos circadianos; véase en particular <em>Melatonin and the Mammalian Pineal Gland</em>.",
     "Kahneman D. — <em>Thinking, Fast and Slow</em>, para la distinción entre el procesamiento intuitivo rápido, el juicio y los sesgos cognitivos."
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 151,
@@ -5884,7 +6365,7 @@
   "title": "Qi gong débutant : 5 mouvements pour sentir l’énergie en 10 minutes",
   "seo_title": "Qi gong débutant : 5 mouvements pour sentir l’énergie",
   "desc": "Qi gong débutant : méditer sans rester immobile, avec la posture Wuji puis cinq mouvements en dix minutes, et ce que vous pouvez ressentir ou non.",
-  "kw": "qi gong débutant, qi gong du matin, mouvements qi gong, qi gong cours complet débutant, qigong débutant, exercices qi gong débutant, qi gong 10 minutes, qi gong exercices, sentir le qi, qi gong bienfaits",
+  "kw": "qi gong débutant, mouvements de qi gong, qi gong pour débutant, exercices de qi gong, exercices de qi gong pour débutants, qi gong du matin débutant, qi gong du soir, qi gong assis, qi gong 10 minutes, cours de qi gong débutant, qi gong débutant senior, qi gong débutant gratuit, sentir l’énergie, boule d’énergie entre les mains, posture Wuji",
   "group": "energie",
   "photo": {
    "src": "fr/qi-gong-debutant-5-mouvements.webp",
@@ -5919,6 +6400,18 @@
    [
     "Le qi gong a-t-il des bienfaits étudiés scientifiquement ?",
     "Différents essais et revues ont étudié le qigong pour la douleur, l’équilibre, le bien-être et d’autres critères. Les résultats varient selon les indications et la qualité des études ; une méta-analyse récente sur le mal de dos persistant a par exemple trouvé une amélioration de la douleur par rapport à certains groupes contrôles, avec une grande diversité des protocoles. (PubMed)"
+   ],
+   [
+    "Qi gong du matin ou du soir : que choisir quand on est débutant ?",
+    "Les deux conviennent. Le matin, cette séquence réveille le corps en douceur : allez encore plus lentement, car les articulations sont raides au lever. Pour un qi gong du soir, gardez les mêmes mouvements avec moins d’amplitude et restez plus longtemps les mains sur le ventre. Le meilleur moment est celui que vous tiendrez chaque jour."
+   ],
+   [
+    "Ce qi gong débutant convient-il à un senior, et peut-on le faire assis ?",
+    "Oui. Les mouvements sont lents, sans saut ni passage au sol, et l’amplitude se règle à volonté. Pour un qi gong assis, installez-vous au bord d’une chaise stable, les pieds à plat : les mouvements 1, 2, 3 et 5 se font tels quels, et pour le quatrième il suffit de tourner doucement le buste. En cas de douleur ou de vertige, demandez l’avis de votre médecin."
+   ],
+   [
+    "Faut-il prendre un cours de qi gong quand on est débutant ?",
+    "Pas pour commencer : ces cinq mouvements de qi gong forment une première séance que vous pouvez pratiquer seul, chez vous. Un cours de qi gong pour débutant devient précieux ensuite : un enseignant corrige la posture, règle le rythme et transmet un enchaînement complet, comme les huit pièces de brocart. Entre les deux, une séance guidée à écouter peut servir de repère."
    ]
   ],
   "sources": [
@@ -5932,8 +6425,8 @@
    "slug": "qigong-for-beginners-5-movements",
    "title": "Qigong Exercises for Beginners: 5 Movements to Feel Energy in 10 Minutes",
    "seo_title": "Qigong Exercises for Beginners: A Simple 10-Minute Routine",
-   "desc": "Qigong exercises for beginners: a 10-minute routine of five slow movements, from the Wuji stance to bringing Qi back to the belly, plus mistakes to avoid.",
-   "kw": "qigong exercises, qigong for beginners, qigong movements, 10-minute qigong, daily qigong routine, morning qi gong, qi gong stretches, easy qigong exercises, qigong exercises for beginners, Wuji posture",
+   "desc": "Qigong exercises for beginners: a 10-minute qigong routine in 5 slow movements, from the Wuji stance to bringing Qi back to the belly, plus mistakes to avoid.",
+   "kw": "qigong exercises, qigong exercises for beginners, 10-minute qigong, qigong for beginners, qigong routine, daily qigong routine, qigong movements, chi gong exercises, chi kung exercises for beginners, qi gong exercises, easy qigong exercises, morning qi gong, how to do qigong exercises, qigong exercises for seniors, Wuji posture",
    "photo": {
     "src": "en/qigong-for-beginners-5-movements.webp",
     "src_s": "en/qigong-for-beginners-5-movements-640.webp",
@@ -5963,13 +6456,22 @@
     [
      "Is morning qi gong better than practicing in the evening?",
      "Both work. A few gentle qi gong stretches in the morning can wake up your body, while an evening session can help you slow down. The best time is the one you can keep."
+    ],
+    [
+     "How do I do qigong exercises at home?",
+     "Clear a space the size of a yoga mat, wear comfortable clothes and stand in the Wuji posture. Then move slowly through the five movements above, breathing naturally, for about ten minutes. No equipment is needed. The best way to learn how to do qigong exercises is to repeat the same short routine every day: a regular qigong practice teaches more than one long session a month."
+    ],
+    [
+     "Are these qigong exercises suitable for seniors?",
+     "They are gentle by design: slow, standing, with small movements and no floor work. If standing for ten minutes is tiring, do the same movements seated on a chair or shorten the session to five minutes. Keep every gesture comfortable and never force a stretch. If you are unsure of your balance, keep a chair within reach and talk to a professional who knows you before you start."
     ]
    ],
    "sources": [
     "Cohen K.S. — <em>The Way of Qigong: The Art and Science of Chinese Energy Healing</em>, a reference work on the history and practices of qigong.",
     "Treves I.N. et al. (2025) — meta-analysis on mindfulness and interoception, <em>Scientific Reports</em>. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40502790/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "2025 meta-analysis of 16 randomized trials on qigong and chronic non-specific low back pain. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/39994723/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p31",
@@ -5978,9 +6480,9 @@
   "es": {
    "slug": "qi-gong-para-principiantes-5-movimientos",
    "title": "Ejercicios de qi gong para principiantes: 5 movimientos para sentir la energía en 10 minutos",
-   "seo_title": "Ejercicios de qi gong para principiantes: 5 en 10 minutos",
+   "seo_title": "Ejercicios de qi gong (chi kung) para principiantes, 10 min",
    "desc": "Ejercicios de qi gong para principiantes: la postura Wuji y 5 movimientos básicos de chi kung paso a paso, en 10 minutos, y lo que puedes sentir (o no).",
-   "kw": "ejercicios de qi gong, chi kung ejercicios, aprender chi kung, chi kung para principiantes, chi kung ejercicios básicos, qi gong para principiantes, ejercicios de chi kung para principiantes, 18 movimientos de qi gong, qigong para principiantes, movimientos de qi gong",
+   "kw": "ejercicios de qi gong, chi kung para principiantes, chi kung ejercicios, ejercicios de chi kung para principiantes, qi gong para principiantes, chi kung ejercicios básicos, qi gong y chi kung es lo mismo, meditación con qi gong, 18 movimientos de qi gong, aprender chi kung, postura wuji",
    "photo": {
     "src": "es/qi-gong-para-principiantes-5-movimientos.webp",
     "src_s": "es/qi-gong-para-principiantes-5-movimientos-640.webp",
@@ -6010,14 +6512,28 @@
     [
      "¿Qué son los 18 movimientos de qi gong?",
      "Es una serie clásica, conocida como Shibashi, que encadena dieciocho movimientos lentos. Es un buen paso siguiente cuando estos cinco te resulten fáciles: la misma lentitud y la misma respiración cómoda, en una secuencia más larga."
+    ],
+    [
+     "¿El qi gong y el chi kung son lo mismo?",
+     "Sí. Son dos maneras de escribir la misma palabra china: «qi gong» (o qigong) sigue la transcripción oficial actual, el pinyin, y «chi kung» viene de una transcripción más antigua. La práctica es idéntica: movimientos lentos, postura, respiración y atención. Ocurre lo mismo con qi y chi, que designan la misma noción."
+    ],
+    [
+     "¿Hacen falta clases para activar el qi?",
+     "Para empezar, no. En la tradición, «activar el qi» es poner en marcha la circulación de la energía; en la práctica, se suele notar calor en las manos, una respiración más amplia y más presencia. Estos cinco ejercicios básicos de qi gong bastan para probarlo en casa, a tu ritmo. Unas clases de qi gong con un profesor son útiles más adelante, para afinar la postura y aprender secuencias largas; no son un requisito para dar el primer paso."
+    ],
+    [
+     "¿Cómo sentir el chi entre las manos?",
+     "Con el movimiento de la bola: coloca las manos una frente a otra, sepáralas y acércalas muy despacio durante dos minutos. Lo habitual es notar calor, hormigueo o una ligera resistencia. La tradición lo llama sentir el chi, o la energía qi; la fisiología habla de tacto, temperatura y atención. Si no notas nada, también es normal: ve más despacio y vuelve a probar otro día."
     ]
    ],
    "sources": [
     "Cohen K.S. — <em>The Way of Qigong: The Art and Science of Chinese Energy Healing</em>, obra de referencia sobre la historia y las prácticas del qigong.",
     "Treves I.N. et al. (2025) — metaanálisis sobre mindfulness e interocepción, <em>Scientific Reports</em>. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/40502790/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Metaanálisis de 2025 de 16 ensayos aleatorizados sobre el qigong y la lumbalgia crónica inespecífica. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/39994723/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 105,

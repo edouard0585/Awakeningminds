@@ -219,10 +219,13 @@ SONS = [('nature', ['sousbois', 'grandsBois', 'apresAverse', 'torrent', 'ressac'
 EXTRAITS_BASE = 'https://audio.meditadream.com/am-social/extraits-site/v1'
 EXT_T = {
  'fr': {'h': 'Écoute un extrait : {t}', 'd': 'Extrait de {m} min. La séance complète ({n} min) est dans l’application, gratuite et sans compte.',
+        'h2': 'Écoute la séance : {t}', 'd2': 'La séance entière, {n} min. Elle est aussi dans l’application, gratuite et sans compte.', 'tx2': 'Lire le texte de la séance',
         'go': 'Écouter la séance complète dans l’app', 'tx': 'Lire le texte de cet extrait', 'desc': 'Extrait de la méditation guidée « {t} » de MeditaDream.'},
  'en': {'h': 'Listen to an excerpt: {t}', 'd': '{m}-minute excerpt. The full session ({n} min) is in the app, free and with no account.',
+        'h2': 'Listen to the session: {t}', 'd2': 'The whole session, {n} min. It is also in the app, free and with no account.', 'tx2': 'Read the transcript of the session',
         'go': 'Listen to the full session in the app', 'tx': 'Read the transcript of this excerpt', 'desc': 'Excerpt from the guided meditation “{t}” by MeditaDream.'},
  'es': {'h': 'Escucha un fragmento: {t}', 'd': 'Fragmento de {m} min. La sesión completa ({n} min) está en la app, gratis y sin cuenta.',
+        'h2': 'Escucha la sesión: {t}', 'd2': 'La sesión entera, {n} min. También está en la app, gratis y sin cuenta.', 'tx2': 'Leer el texto de la sesión',
         'go': 'Escuchar la sesión completa en la app', 'tx': 'Leer el texto de este fragmento', 'desc': 'Fragmento de la meditación guiada «{t}» de MeditaDream.'},
 }
 EXT_CSS = """
@@ -240,7 +243,7 @@ EXT_CSS = """
 CONTACT_T = {'fr': ('', 'Ouvrir la page d’assistance →', ''), 'en': ('', 'Open the support page →', ''), 'es': ('', 'Abrir la página de ayuda →', '')}
 _EXT = None
 # catégorie → séance dont on propose l'extrait quand la catégorie en a plusieurs
-EXTRAIT_CAT = {'learningBasics': 'appren08'}
+EXTRAIT_CAT = {'learningBasics': 'appren08', 'calm': 'corpsc03'}   # 28-11 : la page « dormir » fait écouter la séance du sommeil, pas celle des chakras
 
 
 def _extraits():
@@ -264,13 +267,14 @@ def extrait_audio(bb, lang, mid, minutes=None, titre=None):
     t = EXT_T[lang]; nom = titre or x['titre']
     src = f'{EXTRAITS_BASE}/{lang}/{mid}.mp3'
     m = max(1, round(x['duree'] / 60)); n = minutes or x.get('minutes') or m
+    entiere = m >= n   # 28-11 : l'extrait est la séance entière (séances courtes) : pas de « extrait de 5 min, séance de 4 min »
     # texte de l'extrait, par paragraphes de quatre phrases (le texte exact de la séance)
     ph = x.get('texte') or []
     paras = ''.join('<p>' + E(' '.join(ph[i:i + 4])) + '</p>' for i in range(0, len(ph), 4))
-    html_ = (f'<section class="ap-ext" id="extrait"><h2>{E(t["h"].format(t=nom))}</h2><p class="d">{E(t["d"].format(m=m, n=n))}</p>'
+    html_ = (f'<section class="ap-ext" id="extrait"><h2>{E(t["h2" if entiere else "h"].format(t=nom))}</h2><p class="d">{E(t["d2" if entiere else "d"].format(m=m, n=n))}</p>'
              f'<audio controls preload="none" src="{src}" data-extrait="{mid}" title="{E(nom)}"></audio>'
              f'<a class="go" href="/app/">✦ {E(t["go"])}</a>'
-             + (f'<details><summary>{E(t["tx"])}</summary><div class="tx">{paras}</div></details>' if paras else '') + '</section>')
+             + (f'<details><summary>{E(t["tx2" if entiere else "tx"])}</summary><div class="tx">{paras}</div></details>' if paras else '') + '</section>')
     s = int(round(x['duree']))
     ld = {'@type': 'AudioObject', 'name': nom, 'description': t['desc'].format(t=nom), 'contentUrl': src, 'encodingFormat': 'audio/mpeg',
           'duration': f'PT{s // 60}M{s % 60}S', 'inLanguage': lang, 'isAccessibleForFree': True,
@@ -399,14 +403,14 @@ def load():
                  levels=[n for n in ('beginner', 'intermediate', 'advanced') if any(m['level'] == n for m in c['meds'])])
     cats = cat['categories']
     tout = dict(total=sum(len(c['meds']) for c in cats.values()), ncat=len(cats))
-    for p in P.values():
+    for lang_p, p in P.items():
         for cle in ('meditations_index', 'teams', 'worlds_index'):
             if cle in p:
                 p[cle] = _jetons(p[cle], tout)
         for cid, s in (p.get('categories') or {}).items():
             c = cats.get(cid)
             if c and c.get('meds'):
-                durs = [int(m['dur']) for m in c['meds']]
+                durs = [dmin(m, lang_p) for m in c['meds']]
                 p['categories'][cid] = _jetons(s, dict(tout, n=len(c['meds']), min=min(durs), max=max(durs)))
     return cat, P
 
@@ -551,6 +555,7 @@ FAQ_PRATIQUE = {
   'q': ('Quelle durée choisir ?', 'Peut-on méditer allongé ?', 'Faut-il une connexion ?'),
   'duree': 'Les {n} séances de « {cat} » durent de {a} à {b} minutes. Commence par la plus courte, « {court} » ({dc} min), puis allonge quand elle te semble facile ; la plus longue, « {long} », dure {dl} minutes. Mieux vaut une séance courte chaque jour qu’une longue de temps en temps.',
   'duree_courte': 'Elles durent toutes {a} ou {b} minutes : ce n’est pas la durée qui se choisit, c’est le moment. Prends celle qui colle à ce que tu vis, comme « {court} » ou « {long} », et enchaînes-en deux si tu veux une vraie pause de cinq à huit minutes.',
+  'duree_longue': 'Elles durent toutes {a} ou {b} minutes : ce n’est pas la durée qui se choisit, c’est le moment. Prends celle qui t’appelle, comme « {court} » ou « {long} », et garde-toi ce temps au calme, sans rien prévoir juste après.',
   'lit': 'Oui, c’est même fait pour : ces séances s’écoutent au lit, lumière éteinte, et tu peux t’endormir avant la fin. Si tu veux tenir jusqu’au bout sans t’endormir, pour la respiration ou les chakras, allonge-toi sur le dos plutôt que sur le côté, ou cale ton dos contre un coussin.',
   'conseille': 'Oui, c’est la position conseillée : allongé sur le dos, les bras le long du corps, le corps se relâche pendant que l’esprit reste éveillé, ce que demandent ces voyages. Un coussin sous les genoux soulage le dos ; si tu t’endors souvent, relève un peu la tête.',
   'libre': 'Oui, assis ou allongé, comme tu es le plus à l’aise. Allongé, le corps se détend plus vite mais le sommeil guette : si tu piques du nez, relève un peu la tête ou assieds-toi contre un mur.',
@@ -564,6 +569,7 @@ FAQ_PRATIQUE = {
   'q': ('How long should my session be?', 'Can I meditate lying down?', 'Do I need an internet connection?'),
   'duree': 'The {n} sessions in “{cat}” run {a} to {b} minutes. Start with the shortest, “{court}” ({dc} min), and move up once it feels easy; the longest, “{long}”, runs {dl} minutes. A short session every day does more than a long one now and then.',
   'duree_courte': 'They all last {a} or {b} minutes, so the real choice is the moment, not the length. Pick the one that matches what you are going through, like “{court}” or “{long}”, and play two back to back for a five-to-eight-minute reset.',
+  'duree_longue': 'They all last {a} or {b} minutes, so the real choice is the moment, not the length. Pick the one that calls you, like “{court}” or “{long}”, and keep that time quiet, with nothing planned right after.',
   'lit': 'Yes, that is what they are made for: listen in bed with the lights off, and it is fine to fall asleep before the end. If you want to stay awake for the breathing or chakra sessions, lie on your back rather than your side, or sit up against a pillow.',
   'conseille': 'Yes, it is the recommended position: on your back, arms by your sides, the body lets go while the mind stays awake, which is exactly what these journeys need. A pillow under the knees eases the lower back; if you keep drifting off, raise your head a little.',
   'libre': 'Yes, sitting or lying down, whichever is more comfortable. Lying down relaxes the body faster but invites sleep: if you start nodding off, raise your head a little or sit with your back against a wall.',
@@ -577,6 +583,7 @@ FAQ_PRATIQUE = {
   'q': ('¿Qué duración elegir?', '¿Se puede meditar acostado?', '¿Hace falta conexión a internet?'),
   'duree': 'Las {n} meditaciones de «{cat}» duran de {a} a {b} minutos. Empieza por la más corta, «{court}» ({dc} min), y alarga cuando te resulte fácil; la más larga, «{long}», dura {dl} minutos. Vale más una sesión corta cada día que una larga de vez en cuando.',
   'duree_courte': 'Todas duran {a} o {b} minutos: lo que se elige no es la duración, es el momento. Escoge la que encaje con lo que vives, como «{court}» o «{long}», y encadena dos si quieres una pausa de cinco a ocho minutos.',
+  'duree_longue': 'Todas duran {a} o {b} minutos: lo que se elige no es la duración, es el momento. Escoge la que más te llame, como «{court}» o «{long}», y resérvate ese rato en calma, sin nada previsto justo después.',
   'lit': 'Sí, están hechas para eso: se escuchan en la cama, con la luz apagada, y puedes dormirte antes del final. Si quieres seguir despierto hasta el final, en la respiración o los chakras, túmbate boca arriba en lugar de de lado, o siéntate apoyado en una almohada.',
   'conseille': 'Sí, es la postura recomendada: boca arriba, con los brazos a lo largo del cuerpo, el cuerpo se suelta mientras la mente sigue despierta, justo lo que piden estos viajes. Una almohada bajo las rodillas alivia la espalda; si te duermes a menudo, levanta un poco la cabeza.',
   'libre': 'Sí, sentado o acostado, como estés más cómodo. Acostado, el cuerpo se relaja antes, pero el sueño acecha: si cabeceas, levanta un poco la cabeza o siéntate contra una pared.',
@@ -589,6 +596,25 @@ FAQ_PRATIQUE = {
 }
 
 
+# 28-11 : l'app affiche depuis le 25-10 la durée de SA langue (« durations »), jusqu'à 4 min de moins en anglais ou en espagnol.
+# Les en-têtes et listes du site savent suivre (dmin), mais les TEXTES des pages citent encore les durées uniques (« de 20 à 30
+# minutes ») : tant qu'ils n'ont pas été repris, le site garde la durée unique partout, pour rester cohérent d'une ligne à l'autre.
+DUREES_PAR_LANGUE = False
+
+
+def dmin(m, lang):
+    """minutes d'une séance sur le site : durée de la langue si DUREES_PAR_LANGUE, sinon la durée unique (« dur »)."""
+    if DUREES_PAR_LANGUE:
+        return int((m.get('durs') or {}).get(lang) or m['dur'])
+    return int(m['dur'])
+
+
+def plage(c, lang):
+    """(min, max) des durées d'une catégorie dans cette langue."""
+    d = [dmin(m, lang) for m in c['meds']] or [c.get('min', 0)]
+    return min(d), max(d)
+
+
 def faq_categorie(lang, cid, c, existante):
     """Les trois questions pratiques (durée, position, connexion) suivies des questions propres à la catégorie."""
     F = FAQ_PRATIQUE.get(lang)
@@ -598,12 +624,13 @@ def faq_categorie(lang, cid, c, existante):
     meds = [m for m in c['meds'] if m['title'].get(lang)]
     if not meds:
         return existante or []
-    court = min(meds, key=lambda m: int(m['dur'])); long_ = max(meds, key=lambda m: int(m['dur']))
-    v = dict(n=len(meds), cat=c['name'][lang], a=int(court['dur']), b=int(long_['dur']), court=titre(court), dc=int(court['dur']),
-             long=titre(long_), dl=int(long_['dur']))
+    court = min(meds, key=lambda m: dmin(m, lang)); long_ = max(meds, key=lambda m: dmin(m, lang))
+    v = dict(n=len(meds), cat=c['name'][lang], a=dmin(court, lang), b=dmin(long_, lang), court=titre(court), dc=dmin(court, lang),
+             long=titre(long_), dl=dmin(long_, lang))
     if v['a'] == v['b'] and len(meds) > 1:
         long_ = next((m for m in meds if m is not court), long_); v['long'] = titre(long_)
-    duree = (F['duree_courte'] if v['b'] - v['a'] <= 1 else F['duree']).format(**v)
+    # 28-11 : « duree_courte » parlait d'une pause de cinq à huit minutes pour des séances de 24-25 min (annales akashiques)
+    duree = F['duree' if v['b'] - v['a'] > 1 else ('duree_courte' if v['b'] <= 8 else 'duree_longue')].format(**v)
     pos = F[POSITION_CAT.get(cid, 'libre')]
     q1, q2, q3 = F['q']
     deja = re.compile(F['deja'], re.I)
@@ -624,8 +651,11 @@ def med_item(lang, m):
     ob = ('<div class="ap-ob"><b>' + E(OB_T[lang]) + '</b><ul>' + ''.join(
         f'<li><a href="{h}" style="--acc-rgb:{objectifs.ACC[n]}">{E(objectifs.ty(lang, nom))}</a><span>{E(objectifs.ty(lang, interet))}</span></li>'
         for n, nom, h, interet in obs) + '</ul></div>') if obs else ''
-    return (f'<li id="{E(m["id"])}"' + (' class="ap-mi"' if ic else '') + f'>{ic}<div><h3>{E(m["title"][lang])}</h3>'
-            f'<div class="d">{m["dur"]} {E(t["min"])} · {E(t["level"].get(m["level"], m["level"]))}</div>'
+    import seances
+    ls = seances.lien(lang, m['id'])   # 28-11 : le titre mène à la page de la séance quand elle existe
+    titre = f'<a href="{ls}">{E(m["title"][lang])}</a>' if ls else E(m['title'][lang])
+    return (f'<li id="{E(m["id"])}"' + (' class="ap-mi"' if ic else '') + f'>{ic}<div><h3>{titre}</h3>'
+            f'<div class="d">{dmin(m, lang)} {E(t["min"])} · {E(t["level"].get(m["level"], m["level"]))}</div>'
             f'<p>{E(m["desc"][lang])}</p>{ob}</div></li>')
 
 
@@ -667,7 +697,7 @@ def build(bb):
             path = u(lang, 'med', s['slug'])
             alts = {x: u(x, 'med', P[x]['categories'][cid]['slug']) for x in P}
             lv = ', '.join(t['level'][x] for x in c['levels'])
-            meta = f'<div class="ap-meta"><span>{c["count"]} {E(t["sessions"])}</span><span>{c["min"]} {E(t["to"])} {c["max"]} {E(t["min"])}</span><span>{E(lv)}</span></div>'
+            meta = f'<div class="ap-meta"><span>{c["count"]} {E(t["sessions"])}</span><span>{plage(c, lang)[0]} {E(t["to"])} {plage(c, lang)[1]} {E(t["min"])}</span><span>{E(lv)}</span></div>'
             items = ''.join(med_item(lang, m) for m in c['meds'] if m['title'][lang])   # 06-11 : icône + objectifs de chaque séance
             g = CAT_GROUP.get(cid); hl = blog_hubs.group_link(lang, g, act) if g else None
             lp = piliers.links_li(sys.modules[__name__], lang, piliers.cat_piliers(cid))   # 23-10 : guides complets du thème
@@ -685,7 +715,7 @@ def build(bb):
             ids = [m['id'] for m in c['meds'] if m['title'][lang]]
             xid = extrait_de(lang, ([EXTRAIT_CAT[cid]] if cid in EXTRAIT_CAT else []) + ids)
             xmed = next((m for m in c['meds'] if m['id'] == xid), None)
-            ext_html, ext_ld = extrait_audio(bb, lang, xid, xmed['dur'] if xmed else None, xmed['title'][lang] if xmed else None) if xid else ('', None)
+            ext_html, ext_ld = extrait_audio(bb, lang, xid, dmin(xmed, lang) if xmed else None, xmed['title'][lang] if xmed else None) if xid else ('', None)
             body = (crumbs(lang, bc) + f'<article><div class="ap-hero">{HERO_CAT(cid, lang)}'
                     f'<div><h1>{E(s["h1"])}</h1>{meta}</div></div>'
                     + ''.join(f'<p class="lead">{E(x)}</p>' if i == 0 else f'<p class="intro">{E(x)}</p>' for i, x in enumerate(s['intro']))
@@ -698,14 +728,14 @@ def build(bb):
             ld = ld_tag({'@context': 'https://schema.org', '@graph': [
                 {'@type': 'CollectionPage', 'name': s['h1'], 'description': s['desc'], 'url': bb.BASE + path, 'inLanguage': lang,
                  'mainEntity': {'@type': 'ItemList', 'numberOfItems': len(c['meds']), 'itemListElement': [
-                     {'@type': 'ListItem', 'position': i + 1, 'name': m['title'][lang], 'url': bb.BASE + path + '#' + m['id']} for i, m in enumerate(c['meds'])]}},
+                     {'@type': 'ListItem', 'position': i + 1, 'name': m['title'][lang], 'url': bb.BASE + (__import__('seances').lien(lang, m['id']) or path + '#' + m['id'])} for i, m in enumerate(c['meds'])]}},
                 bc_ld(bb, bc)] + ([ext_ld] if ext_ld else []) + ([{'@type': 'FAQPage', 'mainEntity': [{'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': r}} for q, r in faq]}] if faq else [])})
             _write(path, page(bb, lang, s['seo'], s['desc'], path, alts, img_cat(cid), ld, body, cats[cid]['name'][lang]))
             written.append((path, alts))
         # --- index des catégories ---
         s = p['meditations_index']; path = u(lang, 'med'); alts = {x: u(x, 'med') for x in P}
         cards = ''.join(f'<li><a href="{p["categories"][k]["slug"]}.html">{VIG_CAT(k, lang)}'
-                        f'<h3>{E(c["name"][lang])}</h3><span>{c["count"]} {E(t["sessions"])} · {c["min"]}–{c["max"]} {E(t["min"])}</span></a></li>' for k, c in cats.items())   # 20-11 : nom de catégorie en H3 (audit SEOptimer)
+                        f'<h3>{E(c["name"][lang])}</h3><span>{c["count"]} {E(t["sessions"])} · {plage(c, lang)[0]}–{plage(c, lang)[1]} {E(t["min"])}</span></a></li>' for k, c in cats.items())   # 20-11 : nom de catégorie en H3 (audit SEOptimer)
         bc = [(t['home'], f'/{lang}/'), (t['med'], None)]
         gp = piliers.links_li(sys.modules[__name__], lang, piliers.ORDRE)   # 23-10 : les guides complets par thème
         body = (crumbs(lang, bc) + f'<h1>{E(s["h1"])}</h1><p class="lead">{E(s["intro"])}</p>'
@@ -794,6 +824,10 @@ fetch('https://formsubmit.co/ajax/edouard@meditadream.com',{method:'POST',header
     written += objectifs.build(sys.modules[__name__], bb, cat, P)
     import formation_pages  # formations par ville (fr), liées depuis le pied de page
     written += formation_pages.build(bb, sys.modules[__name__])
+    import outils   # 27-11 : outils en ligne (exercice de respiration guidé, 3 langues) : _tools/outils.py + outils_<langue>.json
+    written += outils.build(sys.modules[__name__], bb, P)
+    import seances   # 28-11 : une page par séance, pour celles dont le sujet a une vraie recherche
+    written += seances.build(sys.modules[__name__], bb, cat, P)
     json.dump(_LM, open(LASTMOD_F, 'w', encoding='utf-8'), indent=0, sort_keys=True)
     return written
 
@@ -878,7 +912,7 @@ def themes(bb, cat, P):
                 ms = [meds[i] for i in THEME_SEANCES[key] if i in meds]
                 items = [m['title'][lang] for _, m in ms]
                 bloc = (f'<h2>{E(xl["seances"])}</h2><ol class="ap-list">' + ''.join(
-                    f'<li><h3>{E(m["title"][lang])}</h3><div class="d">{m["dur"]} {E(t["min"])} · {E(t["level"].get(m["level"], m["level"]))} · '
+                    f'<li><h3>{E(m["title"][lang])}</h3><div class="d">{dmin(m, lang)} {E(t["min"])} · {E(t["level"].get(m["level"], m["level"]))} · '
                     f'<a href="{u(lang, "med", p["categories"][cid]["slug"])}">{E(cat["categories"][cid]["name"][lang])}</a></div><p>{E(m["desc"][lang])}</p></li>'
                     for cid, m in ms) + '</ol>')
             liens = ''.join(f'<li><a href="{u(lang, "med", p["categories"][c]["slug"])}">{E(ancre(p["categories"][c], cat["categories"][c]["name"][lang]))}</a></li>' for c in THEME_CATS.get(key, []))
@@ -1041,7 +1075,7 @@ def practice_card(lang, slug_fr, groupe=None):
     if not c or not pc:
         return ''
     lab, plage, une, voir, dl = CARTE_T[lang]
-    durs = [int(m['dur']) for m in c['meds']]
+    durs = [dmin(m, lang) for m in c['meds']]
     n = (plage if min(durs) != max(durs) else une).format(n=len(c['meds']), a=min(durs), b=max(durs))
     return (f'<aside class="ap-prat"><a class="ap-prat-c" href="{u(lang, "med", pc["slug"])}">{VIG_CAT(cid, lang)}'
             f'<span><em>{E(lab)}</em><b>{E(c["name"][lang])}</b><span>{E(n)}</span><i>{E(voir)} →</i></span></a>'

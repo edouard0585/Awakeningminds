@@ -3,5 +3,9 @@
  "categories": [],
  "meditations": [],
  "_note_meditations": "06-11 — méditations pas encore sorties dans l'app des magasins : retirées des catégories du site (pages, comptes, durées) et des pages objectifs tant qu'elles sont listées ici, même si le catalogue exporté les contient. corps06 (douleur), corps07 (anxiété et panique), appren08 (première méditation), croiss08 (décision), croiss09 (confiance en soi), tradi01 à tradi10 (Méditations du monde). Retirer l'identifiant quand la version de l'app qui la contient est en production (accord d'Edouard).",
- "_note_0911": "09-11 — mise à jour de l'app EN PRODUCTION (59dd1a4e, version 2.0.0, accord d'Edouard dans la session « Méditations MeditaDream ») : worldMeditations et les 15 méditations (corps06, corps07, appren08, croiss08, croiss09, tradi01 à tradi10) retirées du verrou ; catalogue du site réexporté de l'app (_tools/app_catalog.json). Pour une prochaine nouveauté de l'app : remettre ici son identifiant jusqu'à sa mise en production."
+ "_note_0911": "09-11 — mise à jour de l'app EN PRODUCTION (59dd1a4e, version 2.0.0, accord d'Edouard dans la session « Méditations MeditaDream ») : worldMeditations et les 15 méditations (corps06, corps07, appren08, croiss08, croiss09, tradi01 à tradi10) retirées du verrou ; catalogue du site réexporté de l'app (_tools/app_catalog.json). Pour une prochaine nouveauté de l'app : remettre ici son identifiant jusqu'à sa mise en production.",
+ "fonctions": [
+  "gong"
+ ],
+ "_note_fonctions": "28-11 — fonctions de l'app pas encore sorties sur TOUS les magasins : les textes marqués {\"si\": \"<fonction>\"} des outils en ligne (_tools/outils_<langue>.json) restent cachés. « gong » = gong alterné du Minuteur, sorti sur iPhone (2.0.1, 27-11) mais pas encore sur Android : retirer « gong » quand la 2.0.1 Android est en production."
 }

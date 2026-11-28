@@ -77,23 +77,23 @@ OG_IMAGE_ALT = {
 }
 
 T = {
- 'fr': dict(blog='Le blog', back='← MeditaDream', idx_title="Apprendre à méditer : le blog",
-   idx_seo="Apprendre à méditer seul : guides gratuits · MeditaDream",
-   idx_desc="Apprendre à méditer avec des guides gratuits et des schémas : posture, respiration, pensées, techniques. Par MeditaDream, l'app 100 % gratuite en français.",
+ 'fr': dict(blog='Le blog', back='← MeditaDream', idx_title="Apprendre à méditer seul : le blog",
+   idx_seo="Apprendre à méditer seul : blog de méditation · MeditaDream",
+   idx_desc="Le blog de méditation de MeditaDream : des guides gratuits et des schémas pour apprendre à méditer seul. Posture, respiration, pensées, techniques, pas à pas.",
    read='min de lecture', published_on='Publié le', soon="De nouveaux articles arrivent chaque semaine.",
    cta_t="Envie de pratiquer plutôt que de lire ?",
    cta_p="Tout ce que décrit cet article se pratique dans MeditaDream, application de méditation gratuite : {meds} méditations guidées et {worlds} mondes immersifs en français, sans abonnement, sans publicité, sans compte, et tout fonctionne hors ligne.",
    cta_b="Découvrir l'application gratuite", other="À lire ensuite"),
- 'en': dict(blog='The blog', back='← MeditaDream', idx_title="Learn how to meditate: the MeditaDream blog",
-   idx_seo="How to Meditate: Free Guides & Diagrams · MeditaDream",
-   idx_desc="Free guides on how to meditate: posture, breathing, dealing with thoughts, techniques — with diagrams, from the completely free MeditaDream app.",
+ 'en': dict(blog='The blog', back='← MeditaDream', idx_title="Learn how to meditate: the MeditaDream meditation blog",
+   idx_seo="Meditation Blog: How to Meditate, Free Guides · MeditaDream",
+   idx_desc="A meditation and mindfulness blog to learn how to meditate for free: guides, tips and articles for beginners, with diagrams, from the MeditaDream app.",
    read='min read', published_on='Published', soon="More articles are coming — one every week.",
    cta_t="Rather practice than read?",
    cta_p="Everything in this article can be practiced in MeditaDream, a free meditation app: {meds} guided meditations and {worlds} immersive worlds, with no subscription, no ads, no account, and fully offline.",
    cta_b="Discover the free app", other="Read next"),
- 'es': dict(blog='El blog', back='← MeditaDream', idx_title="Cómo meditar: el blog para aprender a tu ritmo",
-   idx_seo="Cómo meditar: guías gratis en español · MeditaDream",
-   idx_desc="Cómo meditar: guías gratis sobre la postura, la respiración, los pensamientos y las técnicas, con esquemas, de la app 100 % gratis MeditaDream.",
+ 'es': dict(blog='El blog', back='← MeditaDream', idx_title="Blog de meditación: cómo meditar y aprender a tu ritmo",
+   idx_seo="Blog de meditación: cómo meditar, guías gratis · MeditaDream",
+   idx_desc="Blog de meditación y mindfulness de la app MeditaDream: cómo meditar desde cero, con artículos, consejos y guías gratis sobre postura, respiración y técnicas.",
    read='min de lectura', published_on='Publicado el', soon="Llegan más artículos — uno por semana.",
    cta_t="¿Prefieres practicar antes que leer?",
    cta_p="Todo lo que describe este artículo se practica en MeditaDream, una app de meditación gratis: {meds} meditaciones guiadas y {worlds} mundos inmersivos en español, sin suscripción, sin anuncios, sin cuenta y sin conexión.",
@@ -513,11 +513,16 @@ def footer_html(lang):
     villes = '<a href="/fr/formation-meditation/">Formations par ville</a>' if lang == 'fr' else ''
     ap = apropos_path(lang)
     apropos = f'<a href="{ap}">{E(APROPOS_T.get(lang, "About"))}</a>' if ap else ''
-    return f'<footer><div class="wrap"><span>MeditaDream</span><a href="../">meditadream.com/{lang}</a><a href="./">{E(T[lang]["blog"])}</a>{villes}{apropos}</div></footer>'
+    try:   # 28-11 : outil en ligne (exercice de respiration guidé)
+        ou = json.load(open(f'{ROOT}/_tools/outils_{lang}.json', encoding='utf-8'))['respiration']
+        outil = f'<a href="/{lang}/{ou["slug"]}.html">{E(ou["fil"])}</a>'
+    except Exception:
+        outil = ''
+    return f'<footer><div class="wrap"><span>MeditaDream</span><a href="../">meditadream.com/{lang}</a><a href="./">{E(T[lang]["blog"])}</a>{villes}{outil}{apropos}</div></footer>'
 
 # 27-11 : article du lundi → séance dont l'extrait s'écoute dans l'article
 EXTRAIT_ARTICLE = {'intro': 'appren08', 'scan': 'appren01', 'dormir': 'corpsc03', 'cinqminutes': '4minut01', 'chakras': 'chakra01',
-                   'reve': 'reves01', 'astral': 'microd01'}
+                   'reve': 'reves01', 'astral': 'microd01', 'emc': 'trance01', 'ombre': 'ombre01'}
 
 
 def render_article(a, lang, arts):
@@ -543,7 +548,7 @@ def render_article(a, lang, arts):
         ] + ([{'@type': 'FAQPage', 'mainEntity': [
                 {'@type': 'Question', 'name': q,
                  'acceptedAnswer': {'@type': 'Answer', 'text': r}}
-                for q, r in a['faq'][lang]]}] if a.get('faq') else []),
+                for q, r in a['faq'][lang]]}] if (a.get('faq') or {}).get(lang) else []),   # 28-11 : une FAQ peut n'exister que dans une langue
     }
     ld_tag = '<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False).replace('<', '\\u003c') + '</script>'
     path_of = lambda x: f'/{x}/blog/{a["slug"][x]}.html'
@@ -592,10 +597,10 @@ def render_article(a, lang, arts):
     except Exception:
         pass
     h += toc + f'<div class="body">{body}</div>'
-    if a.get('takeaways'):
+    if (a.get('takeaways') or {}).get(lang):   # 28-11 : par langue (ne casse plus les autres langues)
         pts = ''.join(f'<li>{E(x)}</li>' for x in a['takeaways'][lang])
         h += f'<aside class="take"><b>{E(TAKE_LABEL[lang])}</b><ul>{pts}</ul></aside>'
-    if a.get('faq'):
+    if (a.get('faq') or {}).get(lang):
         qa = ''.join(f'<details><summary>{E(q)}</summary><p>{E(r)}</p></details>' for q, r in a['faq'][lang])
         h += f'<section class="afaq"><h2>{E(FAQ_LABEL[lang])}</h2>{qa}</section>'
     # 15-10 : chaque article renvoie vers les catégories de séances de son thème (maillage blog → pages de l'app)
