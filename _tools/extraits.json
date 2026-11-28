@@ -2,7 +2,7 @@
  "fr": {
   "appren08": {
    "titre": "Première méditation — Comprendre et pratiquer l’attention",
-   "duree": 298.6,
+   "duree": 298.7,
    "theme": "debutants",
    "texte": [
     "Installe-toi sur une chaise ou un coussin.",
@@ -138,7 +138,7 @@
   },
   "appren01": {
    "titre": "Le balayage corporel — Cartographier le corps de l’intérieur",
-   "duree": 288.2,
+   "duree": 288.1,
    "theme": "scan-corporel",
    "texte": [
     "Installe-toi confortablement.",
@@ -191,7 +191,7 @@
   },
   "chi01": {
    "titre": "Les mains qui chauffent",
-   "duree": 272.5,
+   "duree": 272.4,
    "theme": "qi-gong",
    "texte": [
     "Assieds-toi confortablement.",
@@ -245,7 +245,7 @@
   },
   "microd01": {
    "titre": "L’aimant au plafond",
-   "duree": 291.7,
+   "duree": 291.6,
    "theme": "voyage-astral",
    "texte": [
     "Allonge-toi confortablement sur le dos.",
@@ -300,7 +300,7 @@
   },
   "reves01": {
    "titre": "Préparation au rêve lucide",
-   "duree": 288.0,
+   "duree": 287.9,
    "theme": "reve-lucide",
    "texte": [
     "Installe-toi dans une position où tu pourrais réellement t’endormir.",
@@ -358,7 +358,7 @@
   },
   "guides01": {
    "titre": "Gratitude aux guides",
-   "duree": 290.6,
+   "duree": 290.5,
    "theme": "guides-spirituels",
    "texte": [
     "Installe-toi confortablement sur le dos.",
@@ -415,7 +415,7 @@
   },
   "chakra01": {
    "titre": "La reconnaissance des sept chakras",
-   "duree": 294.0,
+   "duree": 293.9,
    "theme": "chakras",
    "texte": [
     "Installe-toi confortablement.",
@@ -473,7 +473,7 @@
   },
   "shaman01": {
    "titre": "La quête de vision",
-   "duree": 299.9,
+   "duree": 299.8,
    "theme": "transe-chamanique",
    "texte": [
     "Installe-toi confortablement.",
@@ -525,7 +525,7 @@
   },
   "buddhi01": {
    "titre": "Le voyage de Sudhana — Les maîtres du chemin",
-   "duree": 265.8,
+   "duree": 265.9,
    "theme": "meditation-bouddhiste",
    "texte": [
     "Cette méditation s’inspire d’un ancien texte bouddhiste, le voyage de Sudhana.",
@@ -574,7 +574,7 @@
   },
   "visual02": {
    "titre": "Film — Un papillon vole à côté de toi",
-   "duree": 265.3,
+   "duree": 265.5,
    "theme": "visualisation",
    "texte": [
     "Ferme doucement les yeux.",
@@ -616,7 +616,7 @@
   },
   "croiss01": {
    "titre": "Accueillir une émotion difficile",
-   "duree": 242.9,
+   "duree": 242.8,
    "theme": "emotions",
    "texte": [
     "Installe-toi de façon stable.",
@@ -667,7 +667,7 @@
   },
   "ombre01": {
    "titre": "Ho’oponopono du Cœur",
-   "duree": 278.4,
+   "duree": 278.2,
    "theme": "hooponopono",
    "texte": [
     "Installe-toi pour respirer librement.",
@@ -728,7 +728,7 @@
   },
   "lieux01": {
    "titre": "Sous l’arbre de la Bodhi",
-   "duree": 290.8,
+   "duree": 290.7,
    "theme": "lieux-sacres",
    "texte": [
     "Installe-toi confortablement.",
@@ -785,7 +785,7 @@
   },
   "savoir01": {
    "titre": "Le gardien des archives",
-   "duree": 291.5,
+   "duree": 291.4,
    "theme": "annales-akashiques",
    "texte": [
     "Allonge-toi confortablement.",
@@ -874,7 +874,7 @@
   },
   "miniav01": {
    "titre": "Le train des souvenirs",
-   "duree": 281.4,
+   "duree": 281.5,
    "theme": "voyage-imaginaire",
    "texte": [
     "Installe-toi confortablement.",
@@ -924,7 +924,7 @@
   },
   "3emeoe01": {
    "titre": "Le troisième œil et les deux yeux",
-   "duree": 296.1,
+   "duree": 296.0,
    "theme": "troisieme-oeil",
    "texte": [
     "Installe-toi confortablement.",
@@ -1149,7 +1149,7 @@
   },
   "astr01": {
    "titre": "Astral · Flottement vers le plafond",
-   "duree": 282.9,
+   "duree": 283.0,
    "theme": "voyage-astral-guide",
    "texte": [
     "Pendant toute la pratique, ton corps physique reste immobile.",
@@ -1208,7 +1208,7 @@
   },
   "cons06": {
    "titre": "Méditation de compassion",
-   "duree": 275.3,
+   "duree": 275.2,
    "theme": "cons06",
    "texte": [
     "Trouve une position confortable, le dos détendu et droit.",
@@ -1257,7 +1257,7 @@
   },
   "croiss03": {
    "titre": "Gratitude quotidienne",
-   "duree": 276.2,
+   "duree": 275.9,
    "theme": "croiss03",
    "texte": [
     "Installe-toi.",
@@ -1361,7 +1361,7 @@
   },
   "buddhi07": {
    "titre": "Le jardin de Maitreya — Rencontrer celui que tu deviens",
-   "duree": 270.4,
+   "duree": 270.5,
    "theme": "buddhi07",
    "texte": [
     "Dans le bouddhisme, Maitreya sera le prochain Bouddha de notre monde.",
@@ -1409,7 +1409,7 @@
   },
   "buddhi08": {
    "titre": "Tārā et les huit grands dangers",
-   "duree": 244.0,
+   "duree": 244.1,
    "theme": "buddhi08",
    "texte": [
     "Tārā est depuis longtemps invoquée contre les huit grandes peurs.",
@@ -1456,7 +1456,7 @@
   },
   "4minut04": {
    "titre": "Quand tout va trop vite",
-   "duree": 233.9,
+   "duree": 233.8,
    "theme": "4minut04",
    "texte": [
     "Pour l’instant, laisse simplement être là tout ce que tu ressens.",
@@ -1506,7 +1506,7 @@
   },
   "4minut05": {
    "titre": "Se détendre très rapidement",
-   "duree": 181.5,
+   "duree": 181.3,
    "theme": "4minut05",
    "texte": [
     "Reste comme tu es, assis ou debout, sans te redresser.",
@@ -1546,7 +1546,7 @@
   },
   "4minut06": {
    "titre": "Se calmer après une dispute",
-   "duree": 195.6,
+   "duree": 195.4,
    "theme": "4minut06",
    "texte": [
     "Pour quelques minutes, laisse de côté qui avait raison.",
@@ -1587,7 +1587,7 @@
   },
   "4minut11": {
    "titre": "Quand tu te sens observé ou jugé",
-   "duree": 236.3,
+   "duree": 236.1,
    "theme": "4minut11",
    "texte": [
     "Imagine une situation où tu as l’impression que tout le monde te regarde.",
@@ -1641,7 +1641,7 @@
   },
   "appren02": {
    "titre": "Stabiliser l’attention sur le souffle — Le fil d’Ariane",
-   "duree": 282.0,
+   "duree": 282.1,
    "theme": "appren02",
    "texte": [
     "Installe-toi dans une position stable.",
@@ -1692,7 +1692,7 @@
   },
   "appren06": {
    "titre": "Manger en pleine conscience — Redécouvrir une bouchée",
-   "duree": 294.6,
+   "duree": 294.4,
    "theme": "appren06",
    "texte": [
     "Pour cette méditation, prends un petit aliment.",
@@ -1805,7 +1805,7 @@
   },
   "reves02": {
    "titre": "Voyage du sommeil",
-   "duree": 284.1,
+   "duree": 284.0,
    "theme": "reves02",
    "texte": [
     "Installe-toi comme tu souhaites dormir.",
@@ -1921,7 +1921,7 @@
   },
   "cosmiq02": {
    "titre": "Expansion du corps de lumière",
-   "duree": 261.9,
+   "duree": 261.8,
    "theme": "cosmiq02",
    "texte": [
     "Installe-toi confortablement.",
@@ -1982,7 +1982,7 @@
   },
   "chi03": {
    "titre": "L’arbre immobile",
-   "duree": 292.2,
+   "duree": 292.4,
    "theme": "chi03",
    "texte": [
     "Mets-toi debout.",
@@ -2032,7 +2032,7 @@
   },
   "ombre08": {
    "titre": "La peur de l’échec",
-   "duree": 295.5,
+   "duree": 295.0,
    "theme": "ombre08",
    "texte": [
     "Trouve une position stable.",
@@ -2140,7 +2140,7 @@
   },
   "trance04": {
    "titre": "Vies passées & temps",
-   "duree": 297.5,
+   "duree": 297.2,
    "theme": "trance04",
    "texte": [
     "Installe-toi confortablement.",
@@ -2249,7 +2249,7 @@
  "en": {
   "appren08": {
    "titre": "First Meditation — Understanding and Practicing Attention",
-   "duree": 297.4,
+   "duree": 305.0,
    "theme": "debutants",
    "texte": [
     "Sit comfortably on a chair or cushion.",
@@ -2288,7 +2288,7 @@
   },
   "4minut01": {
    "titre": "Your Instant Refuge",
-   "duree": 239.9,
+   "duree": 244.9,
    "theme": "meditation-courte",
    "texte": [
     "You’re going to create a place to breathe.",
@@ -2337,7 +2337,7 @@
   },
   "corpsc03": {
    "titre": "Drifting into Sleep",
-   "duree": 250.1,
+   "duree": 254.8,
    "theme": "sommeil",
    "texte": [
     "Settle into the position you sleep in.",
@@ -2381,7 +2381,7 @@
   },
   "appren01": {
    "titre": "Body Scan — Mapping the Body from Within",
-   "duree": 288.9,
+   "duree": 294.3,
    "theme": "scan-corporel",
    "texte": [
     "Make yourself comfortable.",
@@ -2434,7 +2434,7 @@
   },
   "chi01": {
    "titre": "Warming the Hands",
-   "duree": 271.5,
+   "duree": 277.1,
    "theme": "qi-gong",
    "texte": [
     "Sit comfortably.",
@@ -2488,7 +2488,7 @@
   },
   "microd01": {
    "titre": "The Ceiling Magnet",
-   "duree": 287.7,
+   "duree": 293.3,
    "theme": "voyage-astral",
    "texte": [
     "Lie comfortably on your back.",
@@ -2543,7 +2543,7 @@
   },
   "reves01": {
    "titre": "Lucid Dream Preparation",
-   "duree": 282.5,
+   "duree": 288.3,
    "theme": "reve-lucide",
    "texte": [
     "Find a position where you could really sleep.",
@@ -2601,7 +2601,7 @@
   },
   "guides01": {
    "titre": "Gratitude to Your Guides",
-   "duree": 299.8,
+   "duree": 305.3,
    "theme": "guides-spirituels",
    "texte": [
     "Lie down comfortably on your back.",
@@ -2660,7 +2660,7 @@
   },
   "chakra01": {
    "titre": "Recognizing the Seven Chakras",
-   "duree": 288.5,
+   "duree": 294.7,
    "theme": "chakras",
    "texte": [
     "Make yourself comfortable.",
@@ -2715,7 +2715,7 @@
   },
   "shaman01": {
    "titre": "The Vision Quest",
-   "duree": 294.4,
+   "duree": 299.8,
    "theme": "transe-chamanique",
    "texte": [
     "Settle into a comfortable position.",
@@ -2769,7 +2769,7 @@
   },
   "buddhi01": {
    "titre": "Sudhana’s Journey — The Teachers Along the Path",
-   "duree": 284.8,
+   "duree": 292.0,
    "theme": "meditation-bouddhiste",
    "texte": [
     "This meditation is inspired by an ancient Buddhist text, the journey of Sudhana.",
@@ -2819,7 +2819,7 @@
   },
   "visual02": {
    "titre": "Film — a Butterfly Flies Beside You",
-   "duree": 277.3,
+   "duree": 282.9,
    "theme": "visualisation",
    "texte": [
     "Gently close your eyes.",
@@ -2862,7 +2862,7 @@
   },
   "croiss01": {
    "titre": "Welcoming a Difficult Emotion",
-   "duree": 231.6,
+   "duree": 236.7,
    "theme": "emotions",
    "texte": [
     "Settle into a stable position.",
@@ -2910,7 +2910,7 @@
   },
   "ombre01": {
    "titre": "Heart-Centered Ho’oponopono",
-   "duree": 267.4,
+   "duree": 272.0,
    "theme": "hooponopono",
    "texte": [
     "Settle in so you can breathe freely.",
@@ -2968,7 +2968,7 @@
   },
   "lieux01": {
    "titre": "Beneath the Bodhi Tree",
-   "duree": 286.4,
+   "duree": 291.8,
    "theme": "lieux-sacres",
    "texte": [
     "Make yourself comfortable.",
@@ -3025,7 +3025,7 @@
   },
   "savoir01": {
    "titre": "The Keeper of the Archives",
-   "duree": 279.4,
+   "duree": 284.1,
    "theme": "annales-akashiques",
    "texte": [
     "Lie down comfortably.",
@@ -3073,7 +3073,7 @@
   },
   "tradi01": {
    "titre": "An Introduction to Vipassana — Noticing Change",
-   "duree": 284.7,
+   "duree": 291.6,
    "theme": "vipassana",
    "texte": [
     "Sit in a stable position.",
@@ -3108,7 +3108,7 @@
   },
   "miniav01": {
    "titre": "The Train of Memories",
-   "duree": 289.2,
+   "duree": 295.5,
    "theme": "voyage-imaginaire",
    "texte": [
     "Make yourself comfortable.",
@@ -3156,7 +3156,7 @@
   },
   "3emeoe01": {
    "titre": "The Third Eye and the Two Physical Eyes",
-   "duree": 285.6,
+   "duree": 290.4,
    "theme": "troisieme-oeil",
    "texte": [
     "Settle into a comfortable position.",
@@ -3214,7 +3214,7 @@
   },
   "cosmiq01": {
    "titre": "Non-dual Awareness",
-   "duree": 298.3,
+   "duree": 304.3,
    "theme": "non-dualite",
    "texte": [
     "Settle in comfortably.",
@@ -3271,7 +3271,7 @@
   },
   "consci02": {
    "titre": "Body Asleep, Mind Awake",
-   "duree": 290.3,
+   "duree": 295.7,
    "theme": "conscience-transe",
    "texte": [
     "Lie down comfortably.",
@@ -3324,7 +3324,7 @@
   },
   "trance01": {
    "titre": "Progressive Descent into Trance",
-   "duree": 287.3,
+   "duree": 292.5,
    "theme": "transe",
    "texte": [
     "Lie down comfortably.",
@@ -3378,7 +3378,7 @@
   },
   "astr01": {
    "titre": "Astral · Floating Toward the Ceiling",
-   "duree": 210.2,
+   "duree": 214.7,
    "theme": "voyage-astral-guide",
    "texte": [
     "Throughout the entire practice, your physical body remains still.",
@@ -3421,7 +3421,7 @@
   },
   "4minut04": {
    "titre": "When Everything Moves Too Fast",
-   "duree": 243.0,
+   "duree": 248.3,
    "theme": "4minut04",
    "texte": [
     "For now, simply let everything you’re feeling be here.",
@@ -3472,7 +3472,7 @@
   },
   "4minut06": {
    "titre": "Calming Down After an Argument",
-   "duree": 193.6,
+   "duree": 197.8,
    "theme": "4minut06",
    "texte": [
     "For a few minutes, set aside who was right.",
@@ -3513,7 +3513,7 @@
   },
   "buddhi02": {
    "titre": "The Eleven Faces of Avalokiteśvara",
-   "duree": 271.7,
+   "duree": 277.4,
    "theme": "buddhi02",
    "texte": [
     "The eleven-headed form of Avalokiteśvara is ancient within several Buddhist traditions.",
@@ -3562,7 +3562,7 @@
   },
   "buddhi07": {
    "titre": "Maitreya’s Garden — Meeting the Person You Are Becoming",
-   "duree": 285.7,
+   "duree": 291.1,
    "theme": "buddhi07",
    "texte": [
     "In Buddhism, Maitreya will be the next Buddha of our world.",
@@ -3612,7 +3612,7 @@
   },
   "buddhi08": {
    "titre": "Tārā and the Eight Great Dangers",
-   "duree": 267.8,
+   "duree": 273.2,
    "theme": "buddhi08",
    "texte": [
     "Tārā has long been called upon against the Eight Great Fears.",
@@ -3662,7 +3662,7 @@
   },
   "trance04": {
    "titre": "Past Lives & Time",
-   "duree": 289.8,
+   "duree": 294.5,
    "theme": "trance04",
    "texte": [
     "Settle into a comfortable position.",
@@ -3720,7 +3720,7 @@
   },
   "cons02": {
    "titre": "Chakra Reset",
-   "duree": 278.7,
+   "duree": 286.0,
    "theme": "cons02",
    "texte": [
     "Welcome.",
@@ -3772,7 +3772,7 @@
   },
   "corps01": {
    "titre": "Breathing with the Whole Body",
-   "duree": 276.6,
+   "duree": 282.9,
    "theme": "corps01",
    "texte": [
     "Make yourself comfortable.",
@@ -3828,7 +3828,7 @@
   },
   "reves02": {
    "titre": "Sleep Journey",
-   "duree": 288.6,
+   "duree": 294.0,
    "theme": "reves02",
    "texte": [
     "Settle into the position in which you want to sleep.",
@@ -3887,7 +3887,7 @@
   },
   "appren02": {
    "titre": "Stabilizing Attention on the Breath — Ariadne’s Thread",
-   "duree": 293.5,
+   "duree": 299.1,
    "theme": "appren02",
    "texte": [
     "Settle into a stable position.",
@@ -3940,7 +3940,7 @@
   },
   "chi02": {
    "titre": "The Small Circulation",
-   "duree": 299.0,
+   "duree": 304.9,
    "theme": "chi02",
    "texte": [
     "Sit comfortably.",
@@ -3994,7 +3994,7 @@
   },
   "chi03": {
    "titre": "The Still Tree",
-   "duree": 296.6,
+   "duree": 301.1,
    "theme": "chi03",
    "texte": [
     "Stand comfortably.",
@@ -4045,7 +4045,7 @@
   },
   "cons06": {
    "titre": "Compassion Meditation",
-   "duree": 297.3,
+   "duree": 303.0,
    "theme": "cons06",
    "texte": [
     "Find a comfortable position with your spine relaxed and tall.",
@@ -4100,7 +4100,7 @@
   },
   "croiss03": {
    "titre": "Daily Gratitude",
-   "duree": 298.4,
+   "duree": 304.3,
    "theme": "croiss03",
    "texte": [
     "Settle in.",
@@ -4164,7 +4164,7 @@
   },
   "croiss05": {
    "titre": "Forgiving Without Forgetting",
-   "duree": 298.4,
+   "duree": 304.5,
    "theme": "croiss05",
    "texte": [
     "Settle into a very stable position.",
@@ -4225,7 +4225,7 @@
   },
   "ombre04": {
    "titre": "Forgiving Yourself",
-   "duree": 264.9,
+   "duree": 269.3,
    "theme": "ombre04",
    "texte": [
     "Settle into a stable position.",
@@ -4274,7 +4274,7 @@
   },
   "ombre07": {
    "titre": "Fear of Abandonment",
-   "duree": 272.1,
+   "duree": 277.1,
    "theme": "ombre07",
    "texte": [
     "Settle into a position where your body is genuinely supported.",
@@ -4325,7 +4325,7 @@
   },
   "ombre08": {
    "titre": "Fear of Failure",
-   "duree": 295.6,
+   "duree": 299.6,
    "theme": "ombre08",
    "texte": [
     "Find a stable position.",
@@ -4382,7 +4382,7 @@
   },
   "trance06": {
    "titre": "The Corridor of a Thousand Doors",
-   "duree": 228.1,
+   "duree": 231.6,
    "theme": "trance06",
    "texte": [
     "Lie down comfortably.",
@@ -4431,7 +4431,7 @@
  "es": {
   "appren08": {
    "titre": "Primera meditación — Comprender y practicar la atención",
-   "duree": 295.4,
+   "duree": 303.4,
    "theme": "debutants",
    "texte": [
     "Siéntate cómodamente en una silla o sobre un cojín.",
@@ -4467,7 +4467,7 @@
   },
   "4minut01": {
    "titre": "El refugio instantáneo",
-   "duree": 280.1,
+   "duree": 286.5,
    "theme": "meditation-courte",
    "texte": [
     "Vas a crear un lugar para respirar.",
@@ -4517,7 +4517,7 @@
   },
   "corpsc03": {
    "titre": "Deslizamiento hacia el sueño",
-   "duree": 282.2,
+   "duree": 288.0,
    "theme": "sommeil",
    "texte": [
     "Ponte cómodo para dormir.",
@@ -4561,7 +4561,7 @@
   },
   "appren01": {
    "titre": "Escaneo corporal — Cartografiar el cuerpo desde dentro",
-   "duree": 297.8,
+   "duree": 304.1,
    "theme": "scan-corporel",
    "texte": [
     "Ponte cómodo.",
@@ -4611,7 +4611,7 @@
   },
   "chi01": {
    "titre": "Las manos que se calientan",
-   "duree": 298.2,
+   "duree": 305.4,
    "theme": "qi-gong",
    "texte": [
     "Siéntate cómodamente.",
@@ -4665,7 +4665,7 @@
   },
   "microd01": {
    "titre": "El imán del techo",
-   "duree": 298.3,
+   "duree": 305.0,
    "theme": "voyage-astral",
    "texte": [
     "Túmbate cómodamente boca arriba.",
@@ -4716,7 +4716,7 @@
   },
   "reves01": {
    "titre": "Preparación para el sueño lúcido",
-   "duree": 279.5,
+   "duree": 286.1,
    "theme": "reve-lucide",
    "texte": [
     "Colócate como para dormirte de verdad.",
@@ -4767,7 +4767,7 @@
   },
   "guides01": {
    "titre": "Gratitud a los guías",
-   "duree": 261.7,
+   "duree": 267.3,
    "theme": "guides-spirituels",
    "texte": [
     "Túmbate cómodamente boca arriba.",
@@ -4814,7 +4814,7 @@
   },
   "chakra01": {
    "titre": "El reconocimiento de los siete chakras",
-   "duree": 293.1,
+   "duree": 299.8,
    "theme": "chakras",
    "texte": [
     "Ponte cómodo.",
@@ -4866,7 +4866,7 @@
   },
   "shaman01": {
    "titre": "La búsqueda de visión",
-   "duree": 298.6,
+   "duree": 305.3,
    "theme": "transe-chamanique",
    "texte": [
     "Ponte cómodo.",
@@ -4917,7 +4917,7 @@
   },
   "buddhi01": {
    "titre": "El viaje de Sudhana — Los maestros del camino",
-   "duree": 299.3,
+   "duree": 307.1,
    "theme": "meditation-bouddhiste",
    "texte": [
     "Esta meditación se inspira en un antiguo texto budista, el viaje de Sudhana.",
@@ -4966,7 +4966,7 @@
   },
   "visual02": {
    "titre": "Película — Una mariposa vuela a tu lado",
-   "duree": 296.3,
+   "duree": 303.1,
    "theme": "visualisation",
    "texte": [
     "Cierra suavemente los ojos.",
@@ -5008,7 +5008,7 @@
   },
   "croiss01": {
    "titre": "Acoger una emoción difícil",
-   "duree": 277.1,
+   "duree": 284.4,
    "theme": "emotions",
    "texte": [
     "Adopta una postura estable.",
@@ -5059,7 +5059,7 @@
   },
   "ombre01": {
    "titre": "Ho’oponopono del Corazón",
-   "duree": 237.7,
+   "duree": 243.5,
    "theme": "hooponopono",
    "texte": [
     "Acomódate para respirar con libertad.",
@@ -5109,7 +5109,7 @@
   },
   "lieux01": {
    "titre": "Bajo el árbol Bodhi",
-   "duree": 291.1,
+   "duree": 297.9,
    "theme": "lieux-sacres",
    "texte": [
     "Ponte cómodo.",
@@ -5160,7 +5160,7 @@
   },
   "savoir01": {
    "titre": "El guardián de los archivos",
-   "duree": 289.4,
+   "duree": 296.1,
    "theme": "annales-akashiques",
    "texte": [
     "Túmbate cómodamente.",
@@ -5208,7 +5208,7 @@
   },
   "tradi01": {
    "titre": "Introducción a Vipassana — Observar los cambios",
-   "duree": 278.4,
+   "duree": 285.5,
    "theme": "vipassana",
    "texte": [
     "Adopta una postura estable.",
@@ -5242,7 +5242,7 @@
   },
   "miniav01": {
    "titre": "El tren de los recuerdos",
-   "duree": 299.8,
+   "duree": 307.2,
    "theme": "voyage-imaginaire",
    "texte": [
     "Ponte cómodo.",
@@ -5287,7 +5287,7 @@
   },
   "3emeoe01": {
    "titre": "El tercer ojo y los dos ojos",
-   "duree": 290.6,
+   "duree": 297.1,
    "theme": "troisieme-oeil",
    "texte": [
     "Ponte cómodo.",
@@ -5340,7 +5340,7 @@
   },
   "cosmiq01": {
    "titre": "Conciencia no dual",
-   "duree": 284.5,
+   "duree": 291.6,
    "theme": "non-dualite",
    "texte": [
     "Acomódate bien.",
@@ -5393,7 +5393,7 @@
   },
   "consci02": {
    "titre": "Cuerpo dormido, mente despierta",
-   "duree": 296.1,
+   "duree": 303.2,
    "theme": "conscience-transe",
    "texte": [
     "Túmbate cómodamente.",
@@ -5445,7 +5445,7 @@
   },
   "trance01": {
    "titre": "Descenso progresivo al trance",
-   "duree": 294.7,
+   "duree": 301.6,
    "theme": "transe",
    "texte": [
     "Túmbate cómodamente.",
@@ -5495,7 +5495,7 @@
   },
   "astr01": {
    "titre": "Astral · Flotar hacia el techo",
-   "duree": 242.5,
+   "duree": 249.0,
    "theme": "voyage-astral-guide",
    "texte": [
     "Durante toda la práctica, tu cuerpo físico permanece inmóvil.",
@@ -5538,7 +5538,7 @@
   },
   "buddhi02": {
    "titre": "Los once rostros de Avalokiteśvara",
-   "duree": 294.6,
+   "duree": 301.5,
    "theme": "buddhi02",
    "texte": [
     "La forma de once cabezas de Avalokiteśvara es antigua dentro de varias tradiciones del budismo.",
@@ -5586,7 +5586,7 @@
   },
   "buddhi03": {
    "titre": "La espada de Mañjuśrī",
-   "duree": 254.9,
+   "duree": 261.4,
    "theme": "buddhi03",
    "texte": [
     "Mañjuśrī personifica la sabiduría más alta.",
@@ -5636,7 +5636,7 @@
   },
   "buddhi07": {
    "titre": "El jardín de Maitreya — Encontrarte con la persona en la que te estás convirtiendo",
-   "duree": 280.7,
+   "duree": 287.3,
    "theme": "buddhi07",
    "texte": [
     "En el budismo, Maitreya será el próximo Buda de nuestro mundo.",
@@ -5685,7 +5685,7 @@
   },
   "buddhi08": {
    "titre": "Tārā y los ocho grandes peligros",
-   "duree": 246.7,
+   "duree": 253.3,
    "theme": "buddhi08",
    "texte": [
     "Desde hace mucho tiempo se invoca a Tārā contra los ocho grandes miedos.",
@@ -5730,7 +5730,7 @@
   },
   "4minut07": {
    "titre": "Recuperar la confianza antes de una prueba",
-   "duree": 293.4,
+   "duree": 300.9,
    "theme": "4minut07",
    "texte": [
     "Dentro de poco tendrás que hacer algo importante para ti.",
@@ -5786,7 +5786,7 @@
   },
   "cons06": {
    "titre": "Meditación de compasión",
-   "duree": 295.4,
+   "duree": 302.2,
    "theme": "cons06",
    "texte": [
     "Encuentra una posición cómoda, con la espalda relajada y recta.",
@@ -5835,7 +5835,7 @@
   },
   "croiss02": {
    "titre": "Desarrollar el amor propio",
-   "duree": 231.3,
+   "duree": 237.0,
    "theme": "croiss02",
    "texte": [
     "Adopta una postura cómoda.",
@@ -5881,7 +5881,7 @@
   },
   "croiss03": {
    "titre": "Gratitud cotidiana",
-   "duree": 294.6,
+   "duree": 300.8,
    "theme": "croiss03",
    "texte": [
     "Ponte cómodo.",
@@ -5936,7 +5936,7 @@
   },
   "croiss04": {
    "titre": "Abrir el corazón al amor",
-   "duree": 289.2,
+   "duree": 295.2,
    "theme": "croiss04",
    "texte": [
     "Adopta una postura que deje espacio para la respiración.",
@@ -5983,7 +5983,7 @@
   },
   "appren02": {
    "titre": "Estabilizar la atención en la respiración — El hilo de Ariadna",
-   "duree": 293.7,
+   "duree": 300.4,
    "theme": "appren02",
    "texte": [
     "Adopta una postura estable.",
@@ -6032,7 +6032,7 @@
   },
   "savoir03": {
    "titre": "Mi animal que ya no está",
-   "duree": 258.4,
+   "duree": 263.9,
    "theme": "savoir03",
    "texte": [
     "Ponte cómodo.",
@@ -6078,7 +6078,7 @@
   },
   "ombre07": {
    "titre": "El Miedo al Abandono",
-   "duree": 296.6,
+   "duree": 302.9,
    "theme": "ombre07",
    "texte": [
     "Instálate en una posición en la que tu cuerpo esté realmente sostenido.",
@@ -6129,7 +6129,7 @@
   },
   "ombre08": {
    "titre": "El Miedo al Fracaso",
-   "duree": 278.1,
+   "duree": 283.1,
    "theme": "ombre08",
    "texte": [
     "Encuentra una posición estable.",
@@ -6181,7 +6181,7 @@
   },
   "trance06": {
    "titre": "El pasillo de las mil puertas",
-   "duree": 261.2,
+   "duree": 266.2,
    "theme": "trance06",
    "texte": [
     "Túmbate cómodamente.",

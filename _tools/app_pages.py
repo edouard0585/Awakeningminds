@@ -216,7 +216,7 @@ SONS = [('nature', ['sousbois', 'grandsBois', 'apresAverse', 'torrent', 'ressac'
 # 27-11 (accord d'Edouard : « oui fais tout, 4 et 7 aussi ») — extraits à écouter sur le site : le début de 13 séances par langue,
 # rendu comme l'app le joue (3 à 5 min, sans synthèse), hébergé sur R2 sous am-social/ (préfixe public). Données : _tools/extraits.json
 # {langue: {id de séance: {titre, duree (s), texte: [phrases]}}}. Lecteur + texte de l'extrait (replié) + données AudioObject.
-EXTRAITS_BASE = 'https://audio.meditadream.com/am-social/extraits-site/v1'
+EXTRAITS_BASE = 'https://audio.meditadream.com/am-social/extraits-site/v2'   # 28-11 soir : extraits refaits comme l'app (vitesse de la voix, ralenti de l'iPhone, volume de l'app)
 EXT_T = {
  'fr': {'h': 'Écoute un extrait : {t}', 'd': 'Extrait de {m} min. La séance complète ({n} min) est dans l’application, gratuite et sans compte.',
         'h2': 'Écoute la séance : {t}', 'd2': 'La séance entière, {n} min. Elle est aussi dans l’application, gratuite et sans compte.', 'tx2': 'Lire le texte de la séance',
