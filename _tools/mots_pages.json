@@ -56,6 +56,10 @@
   "p": "breathing exercises",
   "s": "breathing techniques"
  },
+ "/en/blog/celtic-shamanism-druids-awen-otherworld.html": {
+  "p": "celtic shamanism",
+  "s": "who were the druids"
+ },
  "/en/blog/chakra-locations-explained.html": {
   "p": "chakra locations",
   "s": "chakras explained"
@@ -67,6 +71,10 @@
  "/en/blog/crying-during-meditation-is-it-normal.html": {
   "p": "crying during meditation",
   "s": "why do I cry when I meditate"
+ },
+ "/en/blog/daily-gratitude-practice-three-good-things.html": {
+  "p": "gratitude practice",
+  "s": "daily gratitude"
  },
  "/en/blog/daily-meditation-habit.html": {
   "p": "daily meditation",
@@ -88,6 +96,14 @@
   "p": "positive psychology",
   "s": "is happiness a choice"
  },
+ "/en/blog/ho-oponopono-meaning-hawaiian-roots.html": {
+  "p": "ho oponopono",
+  "s": "ho oponopono prayer"
+ },
+ "/en/blog/how-to-access-the-akashic-records.html": {
+  "p": "how to access the akashic records",
+  "s": "what are the akashic records"
+ },
  "/en/blog/how-to-astral-project-step-by-step.html": {
   "p": "how to astral project",
   "s": "how to astral travel"
@@ -108,6 +124,10 @@
   "p": "how to open your heart chakra",
   "s": "heart chakra meditation"
  },
+ "/en/blog/how-to-remember-your-dreams.html": {
+  "p": "how to remember your dreams",
+  "s": "why do i forget my dreams"
+ },
  "/en/blog/how-to-start-meditating-beginners-guide.html": {
   "p": "how to meditate",
   "s": "meditation guide"
@@ -119,6 +139,10 @@
  "/en/blog/loving-kindness-meditation.html": {
   "p": "metta loving kindness meditation",
   "s": "loving kindness meditation script"
+ },
+ "/en/blog/lucid-dreaming-techniques-mild-wbtb.html": {
+  "p": "lucid dreaming techniques",
+  "s": "how to induce a lucid dream"
  },
  "/en/blog/meditation-benefits-science.html": {
   "p": "benefits of meditation",
@@ -144,6 +168,10 @@
   "p": "10 minute morning meditation",
   "s": "morning meditation routine"
  },
+ "/en/blog/overcome-fear-gradual-exposure.html": {
+  "p": "how to overcome fear",
+  "s": "how to get over a fear"
+ },
  "/en/blog/pilgrimage-without-religion-camino-shikoku.html": {
   "p": "camino de santiago pilgrimage",
   "s": "shikoku pilgrimage"
@@ -164,6 +192,10 @@
   "p": "history of shamanism",
   "s": "shamanic traditions"
  },
+ "/en/blog/siberian-shamanism-origin-of-word-shaman.html": {
+  "p": "siberian shamanism",
+  "s": "origin of the word shaman"
+ },
  "/en/blog/sleep-and-dreams.html": {
   "p": "how to sleep better",
   "s": "what to do when you can't sleep"
@@ -179,6 +211,10 @@
  "/en/blog/trance-and-altered-states.html": {
   "p": "altered states of consciousness",
   "s": "meditation and trance"
+ },
+ "/en/blog/visitation-dreams-deceased-loved-ones.html": {
+  "p": "dreams about deceased loved ones",
+  "s": "visitation dreams"
  },
  "/en/blog/walking-meditation.html": {
   "p": "walking meditation",
@@ -548,6 +584,10 @@
   "p": "energía vital",
   "s": "chakras bloqueados"
  },
+ "/es/blog/chamanismo-celta-druidas-awen.html": {
+  "p": "chamanismo celta",
+  "s": "awen"
+ },
  "/es/blog/chamanismo.html": {
   "p": "tipos de chamanismo",
   "s": "qué es el chamanismo"
@@ -576,6 +616,10 @@
   "p": "cómo hacer una meditación guiada",
   "s": "consejos para meditar"
  },
+ "/es/blog/como-recordar-tus-suenos.html": {
+  "p": "cómo recordar los sueños",
+  "s": "por qué no recuerdo mis sueños"
+ },
  "/es/blog/diario-de-suenos-sueno-lucido.html": {
   "p": "el diario de los sueños",
   "s": "primer sueño lúcido"
@@ -583,6 +627,10 @@
  "/es/blog/diferencia-entre-hipnosis-y-meditacion.html": {
   "p": "diferencia entre hipnosis y meditación",
   "s": "hipnosis para dormir"
+ },
+ "/es/blog/ejercicio-de-gratitud-tres-cosas-buenas.html": {
+  "p": "ejercicio de gratitud",
+  "s": "qué es la gratitud"
  },
  "/es/blog/ejercicios-de-respiracion-para-calmarse.html": {
   "p": "ejercicios de respiración para la ansiedad",
@@ -668,6 +716,10 @@
   "p": "ejercicios de qi gong",
   "s": "chi kung para principiantes"
  },
+ "/es/blog/que-es-el-ho-oponopono-origen-frases.html": {
+  "p": "ho’oponopono",
+  "s": "perdón te amo gracias"
+ },
  "/es/blog/que-es-el-trance-estado-alterado.html": {
   "p": "trance significado",
   "s": "qué es el trance"
@@ -675,6 +727,14 @@
  "/es/blog/que-es-la-atencion-plena.html": {
   "p": "mindfulness qué es y cómo se practica",
   "s": "atención plena"
+ },
+ "/es/blog/que-es-un-chaman-chamanismo-siberiano.html": {
+  "p": "qué es un chamán",
+  "s": "qué significa chamán"
+ },
+ "/es/blog/registros-akashicos-como-consultarlos.html": {
+  "p": "qué son los registros akáshicos",
+  "s": "cómo abrir los registros akáshicos"
  },
  "/es/blog/rutina-de-meditacion.html": {
   "p": "mindfulness en la vida cotidiana",
@@ -692,9 +752,17 @@
   "p": "sombra interior",
   "s": "ejercicios para trabajar la sombra"
  },
+ "/es/blog/sonar-con-un-difunto-suenos-de-visita.html": {
+  "p": "soñar con un difunto",
+  "s": "soñar con un familiar fallecido"
+ },
  "/es/blog/sueno-y-suenos.html": {
   "p": "cómo dormir mejor",
   "s": "rutina para dormir"
+ },
+ "/es/blog/suenos-lucidos-tecnicas-para-principiantes.html": {
+  "p": "técnicas para tener sueños lúcidos",
+  "s": "pruebas de realidad"
  },
  "/es/blog/tecnicas-de-respiracion-para-meditar.html": {
   "p": "técnicas de respiración",
@@ -719,6 +787,10 @@
  "/es/blog/tres-mundos-del-chamanismo.html": {
   "p": "axis mundi",
   "s": "tres mundos del chamanismo"
+ },
+ "/es/blog/vencer-miedos-exposicion-gradual.html": {
+  "p": "cómo vencer los miedos",
+  "s": "exposición gradual"
  },
  "/es/blog/yoga-nidra-beneficios-sueno.html": {
   "p": "yoga nidra para dormir",
@@ -1028,6 +1100,10 @@
   "p": "accueillir ses émotions",
   "s": "émotions refoulées"
  },
+ "/fr/blog/annales-akashiques-consultation.html": {
+  "p": "annales akashiques c’est quoi",
+  "s": "consulter les annales akashiques"
+ },
  "/fr/blog/apprendre-a-mediter-guide-debutant.html": {
   "p": "comment méditer",
   "s": "commencer à méditer"
@@ -1056,6 +1132,10 @@
   "p": "les chakras et leurs rôles",
   "s": "les 7 chakras et leurs couleurs"
  },
+ "/fr/blog/chamanisme-celtique-druides-awen-autre-monde.html": {
+  "p": "chamanisme celtique",
+  "s": "qui étaient les druides"
+ },
  "/fr/blog/chamanisme.html": {
   "p": "chamanisme définition",
   "s": "qu’est-ce que le chamanisme"
@@ -1064,9 +1144,17 @@
   "p": "comment bien méditer",
   "s": "séance de méditation"
  },
+ "/fr/blog/comment-faire-un-reve-lucide.html": {
+  "p": "comment faire un rêve lucide",
+  "s": "rêve lucide technique"
+ },
  "/fr/blog/comment-faire-un-voyage-astral.html": {
   "p": "comment faire un voyage astral",
   "s": "voyage astral pour débutant"
+ },
+ "/fr/blog/comment-ne-plus-avoir-peur.html": {
+  "p": "comment ne plus avoir peur",
+  "s": "vaincre ses peurs"
  },
  "/fr/blog/difference-hypnose-meditation.html": {
   "p": "hypnose et méditation",
@@ -1087,6 +1175,10 @@
  "/fr/blog/gerer-ses-pensees-meditation.html": {
   "p": "comment faire le vide dans sa tête",
   "s": "pensées parasites"
+ },
+ "/fr/blog/ho-oponopono-origine-quatre-phrases.html": {
+  "p": "ho’oponopono",
+  "s": "méditation ho’oponopono"
  },
  "/fr/blog/lieux-sacres-et-sagesses.html": {
   "p": "lieux de pèlerinage",
@@ -1132,6 +1224,10 @@
   "p": "vivre en pleine conscience",
   "s": "méditer tous les jours"
  },
+ "/fr/blog/origine-du-chamanisme-mot-chamane.html": {
+  "p": "origine du chamanisme",
+  "s": "chamanisme sibérien"
+ },
  "/fr/blog/ouvrir-chakra-du-coeur.html": {
   "p": "chakra du cœur",
   "s": "chakra Anahata"
@@ -1156,6 +1252,10 @@
   "p": "comment pratiquer la méditation",
   "s": "commencer la méditation"
  },
+ "/fr/blog/pratiquer-la-gratitude-en-3-lignes.html": {
+  "p": "pratiquer la gratitude",
+  "s": "exercice de gratitude"
+ },
  "/fr/blog/programme-meditation-debutant-4-semaines.html": {
   "p": "cours de méditation en ligne",
   "s": "débuter en méditation"
@@ -1168,9 +1268,17 @@
   "p": "transe définition",
   "s": "état de transe"
  },
+ "/fr/blog/reve-lucide-ou-voyage-astral.html": {
+  "p": "rêve lucide ou voyage astral",
+  "s": "rêve astral"
+ },
  "/fr/blog/reve-lucide-sommeil-conscient.html": {
   "p": "rêve conscient",
   "s": "sommeil conscient"
+ },
+ "/fr/blog/rever-d-un-defunt-reve-de-visite.html": {
+  "p": "rêver d’un défunt",
+  "s": "rêver d’une personne décédée"
  },
  "/fr/blog/rituel-avant-de-dormir.html": {
   "p": "rituel du soir",
@@ -1180,9 +1288,17 @@
   "p": "scan corporel",
   "s": "body scan méditation"
  },
+ "/fr/blog/se-souvenir-de-ses-reves.html": {
+  "p": "comment se souvenir de ses rêves",
+  "s": "pourquoi je ne me souviens pas de mes rêves"
+ },
  "/fr/blog/sommeil-et-reves.html": {
   "p": "sommeil et rêves",
   "s": "comprendre ses rêves"
+ },
+ "/fr/blog/sortie-de-corps-science.html": {
+  "p": "sortie de corps",
+  "s": "expérience hors du corps"
  },
  "/fr/blog/symboles-archetypes-mondes-interieurs.html": {
   "p": "archétypes",
@@ -1191,6 +1307,10 @@
  "/fr/blog/techniques-de-meditation-guide-complet.html": {
   "p": "techniques de méditation",
   "s": "exercices de méditation"
+ },
+ "/fr/blog/techniques-projection-astrale-corde-rouleau.html": {
+  "p": "technique de projection astrale",
+  "s": "techniques voyage astral"
  },
  "/fr/blog/techniques-respiration-meditation.html": {
   "p": "respiration abdominale",

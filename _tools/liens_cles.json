@@ -46,6 +46,10 @@
    "/fr/meditations/meditation-annales-akashiques.html"
   ],
   [
+   "annales akashiques c’est quoi",
+   "/fr/blog/annales-akashiques-consultation.html"
+  ],
+  [
    "appli de méditation",
    "/fr/video-application-meditation.html"
   ],
@@ -227,7 +231,7 @@
   ],
   [
    "chamane",
-   "/fr/blog/chamanisme-siberien-origine-mot-chamane.html"
+   "/fr/blog/origine-du-chamanisme-mot-chamane.html"
   ],
   [
    "chamanisme",
@@ -240,6 +244,10 @@
   [
    "chamanisme définition",
    "/fr/blog/chamanisme.html"
+  ],
+  [
+   "chamanisme sibérien",
+   "/fr/blog/origine-du-chamanisme-mot-chamane.html"
   ],
   [
    "chant diphonique",
@@ -287,7 +295,7 @@
   ],
   [
    "comment faire un rêve lucide",
-   "/fr/blog/reve-lucide-techniques-induction.html"
+   "/fr/blog/comment-faire-un-reve-lucide.html"
   ],
   [
    "comment faire un voyage astral",
@@ -299,7 +307,7 @@
   ],
   [
    "comment ne plus avoir peur",
-   "/fr/blog/vaincre-ses-peurs-exposition-progressive.html"
+   "/fr/blog/comment-ne-plus-avoir-peur.html"
   ],
   [
    "comment pratiquer la méditation",
@@ -336,6 +344,10 @@
   [
    "confiance en soi",
    "/fr/objectifs/confiance-en-soi.html"
+  ],
+  [
+   "consulter les annales akashiques",
+   "/fr/blog/annales-akashiques-consultation.html"
   ],
   [
    "corps de lumière",
@@ -522,6 +534,10 @@
    "/fr/exercice-de-respiration-coherence-cardiaque.html"
   ],
   [
+   "exercice de gratitude",
+   "/fr/blog/pratiquer-la-gratitude-en-3-lignes.html"
+  ],
+  [
    "exercice de pleine conscience",
    "/fr/seances/manger-en-pleine-conscience.html"
   ],
@@ -540,6 +556,10 @@
   [
    "expansion de conscience",
    "/fr/seances/expansion-de-conscience-corps-de-lumiere.html"
+  ],
+  [
+   "expérience hors du corps",
+   "/fr/blog/sortie-de-corps-science.html"
   ],
   [
    "formation méditation",
@@ -910,6 +930,10 @@
    "/fr/seances/meditation-pour-se-rendormir.html"
   ],
   [
+   "méditation ho’oponopono",
+   "/fr/blog/ho-oponopono-origine-quatre-phrases.html"
+  ],
+  [
    "méditation immersive",
    "/fr/mondes/"
   ],
@@ -1090,6 +1114,10 @@
    "/fr/oracle-meditation.html"
   ],
   [
+   "origine du chamanisme",
+   "/fr/blog/origine-du-chamanisme-mot-chamane.html"
+  ],
+  [
    "paralysie du sommeil",
    "/fr/blog/paralysie-du-sommeil-causes.html"
   ],
@@ -1162,8 +1190,12 @@
    "/fr/blog/posture-meditation-4-positions.html"
   ],
   [
+   "pourquoi je ne me souviens pas de mes rêves",
+   "/fr/blog/se-souvenir-de-ses-reves.html"
+  ],
+  [
    "pratiquer la gratitude",
-   "/fr/blog/exercice-gratitude-3-lignes.html"
+   "/fr/blog/pratiquer-la-gratitude-en-3-lignes.html"
   ],
   [
    "prendre une décision",
@@ -1212,6 +1244,10 @@
   [
    "quelle méditation choisir",
    "/fr/oracle-meditation.html"
+  ],
+  [
+   "qui étaient les druides",
+   "/fr/blog/chamanisme-celtique-druides-awen-autre-monde.html"
   ],
   [
    "recouvrement d âme",
@@ -1271,7 +1307,7 @@
   ],
   [
    "reve astral",
-   "/fr/blog/projection-astrale-ou-reve-lucide.html"
+   "/fr/blog/reve-lucide-ou-voyage-astral.html"
   ],
   [
    "rêve conscient",
@@ -1290,7 +1326,19 @@
    "/fr/reve-lucide.html"
   ],
   [
+   "rêve lucide ou voyage astral",
+   "/fr/blog/reve-lucide-ou-voyage-astral.html"
+  ],
+  [
+   "rêve lucide technique",
+   "/fr/blog/comment-faire-un-reve-lucide.html"
+  ],
+  [
    "rêver d un défunt",
+   "/fr/blog/rever-d-un-defunt-reve-de-visite.html"
+  ],
+  [
+   "rêver d’une personne décédée",
    "/fr/blog/rever-d-un-defunt-reve-de-visite.html"
   ],
   [
@@ -1398,6 +1446,10 @@
    "/fr/meditations/visualisation-guidee.html"
   ],
   [
+   "techniques voyage astral",
+   "/fr/blog/techniques-projection-astrale-corde-rouleau.html"
+  ],
+  [
    "transe",
    "/fr/blog/qu-est-ce-que-la-transe.html"
   ],
@@ -1432,6 +1484,10 @@
   [
    "types de méditation",
    "/fr/meditations/meditations-du-monde.html"
+  ],
+  [
+   "vaincre ses peurs",
+   "/fr/blog/comment-ne-plus-avoir-peur.html"
   ],
   [
    "vie antérieure",
@@ -1749,7 +1805,7 @@
   ],
   [
    "daily gratitude",
-   "/en/blog/three-good-things-gratitude-exercise.html"
+   "/en/blog/daily-gratitude-practice-three-good-things.html"
   ],
   [
    "daily meditation",
@@ -1888,6 +1944,10 @@
    "/en/sessions/guided-gratitude-meditation.html"
   ],
   [
+   "gratitude practice",
+   "/en/blog/daily-gratitude-practice-three-good-things.html"
+  ],
+  [
    "grief meditation",
    "/en/meditations/akashic-records-meditation.html"
   ],
@@ -1984,6 +2044,10 @@
    "/en/blog/ho-oponopono-meaning-hawaiian-roots.html"
   ],
   [
+   "ho oponopono prayer",
+   "/en/blog/ho-oponopono-meaning-hawaiian-roots.html"
+  ],
+  [
    "holotropic breathwork",
    "/en/blog/holotropic-breathwork-trance-risks.html"
   ],
@@ -1997,7 +2061,7 @@
   ],
   [
    "how to access the akashic records",
-   "/en/blog/akashic-records-reading-guide.html"
+   "/en/blog/how-to-access-the-akashic-records.html"
   ],
   [
    "how to astral project",
@@ -2048,8 +2112,16 @@
    "/en/blog/guided-sleep-meditation.html"
   ],
   [
+   "how to get over a fear",
+   "/en/blog/overcome-fear-gradual-exposure.html"
+  ],
+  [
    "how to have a lucid dream",
    "/en/lucid-dreaming-meditation.html"
+  ],
+  [
+   "how to induce a lucid dream",
+   "/en/blog/lucid-dreaming-techniques-mild-wbtb.html"
   ],
   [
    "how to lucid dream",
@@ -2101,7 +2173,7 @@
   ],
   [
    "how to remember your dreams",
-   "/en/blog/dream-journal-remember-your-dreams.html"
+   "/en/blog/how-to-remember-your-dreams.html"
   ],
   [
    "how to sleep better",
@@ -2366,6 +2438,10 @@
   [
    "ocean meditation",
    "/en/worlds/atlantis-underwater-guided-meditation.html"
+  ],
+  [
+   "origin of the word shaman",
+   "/en/blog/siberian-shamanism-origin-of-word-shaman.html"
   ],
   [
    "out of body experience",
@@ -2712,6 +2788,10 @@
    "/en/sessions/how-to-do-vipassana-meditation.html"
   ],
   [
+   "visitation dreams",
+   "/en/blog/visitation-dreams-deceased-loved-ones.html"
+  ],
+  [
    "visualization meditation",
    "/en/meditations/guided-visualization-meditation.html"
   ],
@@ -2730,6 +2810,10 @@
   [
    "walking mindfulness",
    "/en/blog/walking-meditation.html"
+  ],
+  [
+   "what are the akashic records",
+   "/en/blog/how-to-access-the-akashic-records.html"
   ],
   [
    "what is a shaman",
@@ -2760,8 +2844,16 @@
    "/en/blog/library-of-alexandria-lost-knowledge.html"
   ],
   [
+   "who were the druids",
+   "/en/blog/celtic-shamanism-druids-awen-otherworld.html"
+  ],
+  [
    "why do I cry when I meditate",
    "/en/blog/crying-during-meditation-is-it-normal.html"
+  ],
+  [
+   "why do i forget my dreams",
+   "/en/blog/how-to-remember-your-dreams.html"
   ],
   [
    "winter meditation",
@@ -2884,6 +2976,10 @@
   [
    "autohipnosis",
    "/es/meditaciones/tecnicas-de-trance-guiado.html"
+  ],
+  [
+   "awen",
+   "/es/blog/chamanismo-celta-druidas-awen.html"
   ],
   [
    "axis mundi",
@@ -3276,6 +3372,10 @@
   [
    "estados de conciencia",
    "/es/blog/estados-modificados-de-conciencia.html"
+  ],
+  [
+   "exposición gradual",
+   "/es/blog/vencer-miedos-exposicion-gradual.html"
   ],
   [
    "gestion emocional",
@@ -3694,8 +3794,16 @@
    "/es/blog/quedarse-atrapado-en-trance-hipnosis.html"
   ],
   [
+   "perdón te amo gracias",
+   "/es/blog/que-es-el-ho-oponopono-origen-frases.html"
+  ],
+  [
    "plano astral",
    "/es/viaje-astral.html"
+  ],
+  [
+   "por qué no recuerdo mis sueños",
+   "/es/blog/como-recordar-tus-suenos.html"
   ],
   [
    "posición de meditación",
@@ -3712,6 +3820,10 @@
   [
    "proyección astral",
    "/es/meditaciones/meditacion-viaje-astral-guiada.html"
+  ],
+  [
+   "pruebas de realidad",
+   "/es/blog/suenos-lucidos-tecnicas-para-principiantes.html"
   ],
   [
    "psicología positiva",
@@ -3742,6 +3854,10 @@
    "/es/blog/que-es-el-trance-estado-alterado.html"
   ],
   [
+   "qué es la gratitud",
+   "/es/blog/ejercicio-de-gratitud-tres-cosas-buenas.html"
+  ],
+  [
    "qué es meditar",
    "/es/blog/como-empezar-a-meditar-guia-principiantes.html"
   ],
@@ -3751,11 +3867,19 @@
   ],
   [
    "qué es un chamán",
-   "/es/blog/chamanismo-siberiano-origen-palabra-chaman.html"
+   "/es/blog/que-es-un-chaman-chamanismo-siberiano.html"
   ],
   [
    "qué hacer cuando no puedes dormir",
    "/es/blog/insomnio-dejar-de-intentar-dormir.html"
+  ],
+  [
+   "qué significa chamán",
+   "/es/blog/que-es-un-chaman-chamanismo-siberiano.html"
+  ],
+  [
+   "qué son los registros akáshicos",
+   "/es/blog/registros-akashicos-como-consultarlos.html"
   ],
   [
    "quedarse dormido meditando",
@@ -3830,6 +3954,10 @@
    "/es/blog/sonar-con-un-difunto-suenos-de-visita.html"
   ],
   [
+   "soñar con un familiar fallecido",
+   "/es/blog/sonar-con-un-difunto-suenos-de-visita.html"
+  ],
+  [
    "soñar despierto",
    "/es/meditaciones/meditacion-de-trance-guiada.html"
   ],
@@ -3864,6 +3992,10 @@
   [
    "técnicas de respiración",
    "/es/blog/tecnicas-de-respiracion-para-meditar.html"
+  ],
+  [
+   "técnicas para tener sueños lúcidos",
+   "/es/blog/suenos-lucidos-tecnicas-para-principiantes.html"
   ],
   [
    "tener amor propio",

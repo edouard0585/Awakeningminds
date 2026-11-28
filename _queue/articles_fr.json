@@ -3066,11 +3066,11 @@
  },
  {
   "num": 82,
-  "slug": "reve-lucide-techniques-induction",
+  "slug": "comment-faire-un-reve-lucide",
   "title": "Comment faire un rêve lucide : les 4 techniques d’induction qui ont vraiment été étudiées",
   "seo_title": "Comment faire un rêve lucide : les 4 techniques étudiées",
-  "desc": "Comment faire un rêve lucide ? Tests de réalité, MILD, WBTB, WILD : les quatre techniques étudiées par la recherche, et un protocole réaliste pour débuter.",
-  "kw": "comment faire un rêve lucide, contrôler ses rêves, faire des rêves lucides, test de réalité rêve lucide, techniques de rêve lucide, rêve lucide débutant, rêve lucide méthode, MILD rêve lucide, WBTB rêve lucide, WILD rêve lucide",
+  "desc": "Comment faire un rêve lucide ? Tests de réalité, MILD, WBTB et WILD : les 4 techniques de rêve lucide étudiées, et un protocole réaliste pour débuter.",
+  "kw": "comment faire un rêve lucide, techniques de rêve lucide, rêve lucide, journal de rêves, test de réalité rêve lucide, contrôler ses rêves, comment faire un rêve lucide ce soir, comment faire un rêve lucide à coup sûr, comment faire un rêve lucide sans se réveiller, rêve lucide débutant, MILD rêve lucide, WBTB rêve lucide, WILD rêve lucide",
   "group": "sommeil",
   "photo": {
    "src": "fr/reve-lucide-techniques-induction.webp",
@@ -3093,6 +3093,14 @@
    [
     "Quelle est la technique de rêve lucide la plus efficace ?",
     "Les données disponibles donnent notamment des résultats intéressants pour MILD, souvent combinée à un réveil nocturne de type WBTB, mais aucune méthode ne garantit un rêve lucide et les résultats varient fortement entre individus."
+   ],
+   [
+    "Comment faire un rêve lucide ce soir ?",
+    "Vous pouvez essayer dès ce soir, sans garantie. Avant de dormir, formulez l’intention de reconnaître le prochain rêve. Si vous vous réveillez pendant la nuit, rappelez-vous le dernier rêve, repérez ce qu’il avait d’étrange, puis rendormez-vous en pensant : « La prochaine fois que je rêve, je veux me souvenir que je rêve. » C’est le principe de MILD."
+   ],
+   [
+    "Comment faire un rêve lucide à coup sûr ?",
+    "Aucune technique ne le permet. Les meilleurs résultats publiés, avec MILD pratiquée après un réveil nocturne, restent des probabilités, très variables d’une personne à l’autre. Méfiez-vous des méthodes qui promettent un rêve lucide garanti dès la première nuit : la régularité, un bon sommeil et un journal de rêves comptent davantage."
    ],
    [
     "Les tests de réalité suffisent-ils pour devenir lucide ?",
@@ -3118,8 +3126,8 @@
    "slug": "lucid-dreaming-techniques-mild-wbtb",
    "title": "Lucid Dreaming Techniques: 4 Ways to Induce a Lucid Dream",
    "seo_title": "Lucid Dreaming Techniques: MILD, WBTB, WILD and More",
-   "desc": "Four lucid dreaming techniques that research has actually tested: reality checks, MILD, WBTB and WILD, plus a beginner plan that protects your sleep.",
-   "kw": "lucid dreaming techniques, lucid dream induction, how to induce a lucid dream, MILD technique, reality checks lucid dreaming, WBTB lucid dreaming, WILD lucid dreaming, how to lucid dream, lucid dreaming for beginners, wake back to bed",
+   "desc": "How to induce a lucid dream: four lucid dreaming techniques research has actually tested (reality checks, MILD, WBTB, WILD) and a sleep-friendly plan.",
+   "kw": "lucid dreaming techniques, how to induce a lucid dream, MILD technique lucid dreaming, WBTB lucid dreaming, WILD lucid dreaming, lucid dream induction, best way to lucid dream, what to do in a lucid dream, dream journal for lucid dreaming, lucid dreaming is it real, lucid dreaming techniques for beginners, lucid dreaming techniques without WBTB, lucid dreaming techniques ranked, lucid dreaming reality checks",
    "photo": {
     "src": "en/lucid-dreaming-4-proven-induction-techniques.webp",
     "src_s": "en/lucid-dreaming-4-proven-induction-techniques-640.webp",
@@ -3163,7 +3171,8 @@
     "LaBerge S. — <em>Exploring the World of Lucid Dreaming</em>, a classic book describing, among other things, the MILD method and lucid dream induction practices.",
     "Aspy D.J. et al. — <em>Reality testing and the mnemonic induction of lucid dreams: Findings from the national Australian lucid dream induction study</em>, a major comparative study of induction techniques.",
     "Konkoly K.R. et al. (2021) — <em>Real-time dialogue between experimenters and dreamers during REM sleep</em>, <em>Current Biology</em>, an experimental demonstration of two-way communication with certain dreamers during REM sleep."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p35",
@@ -3174,7 +3183,7 @@
    "title": "Cómo tener sueños lúcidos: las 4 técnicas de inducción que de verdad se han estudiado",
    "seo_title": "Cómo tener sueños lúcidos: 4 técnicas que se han estudiado",
    "desc": "Cómo tener sueños lúcidos con las 4 técnicas estudiadas: pruebas de realidad, MILD, WBTB y WILD, y un plan realista que no sacrifica tu descanso.",
-   "kw": "cómo tener sueños lúcidos, cómo tener un sueño lúcido esta misma noche, pruebas de realidad, sueños lúcidos, técnicas de sueño lúcido, sueño lúcido para principiantes, inducir sueños lúcidos, técnica MILD, técnica WBTB, técnica WILD",
+   "kw": "técnicas para tener sueños lúcidos, cómo tener sueños lúcidos, pruebas de realidad, qué es un sueño lúcido, cómo tener un sueño lúcido esta misma noche, sueños lúcidos para principiantes, técnica MILD, técnica WBTB, técnica WILD, estado hipnagógico",
    "photo": {
     "src": "es/suenos-lucidos-tecnicas-para-principiantes.webp",
     "src_s": "es/suenos-lucidos-tecnicas-para-principiantes-640.webp",
@@ -3218,8 +3227,10 @@
     "LaBerge S. — <em>Exploring the World of Lucid Dreaming</em>, obra clásica que describe, entre otras cosas, el método MILD y las prácticas de inducción del sueño lúcido.",
     "Aspy D.J. et al. — <em>Reality testing and the mnemonic induction of lucid dreams: Findings from the national Australian lucid dream induction study</em>, importante estudio comparativo sobre las técnicas de inducción.",
     "Konkoly K.R. et al. (2021) — <em>Real-time dialogue between experimenters and dreamers during REM sleep</em>, <em>Current Biology</em>, demostración experimental de comunicación bidireccional con algunos soñadores durante el sueño REM."
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 34,
@@ -3418,7 +3429,7 @@
   "title": "Ho’oponopono : l’origine hawaïenne et le sens des quatre phrases",
   "seo_title": "Ho’oponopono : origine, 4 phrases et méditation gratuite",
   "desc": "Ho’oponopono : d’où vient cette pratique hawaïenne, ce que disent ses quatre phrases et comment vivre une méditation ho’oponopono guidée, en français.",
-  "kw": "ho’oponopono, méditation ho’oponopono, ho’oponopono danger, pardon merci je t’aime, ho’oponopono signification, quatre phrases du ho’oponopono, Morrnah Simeona, Ihaleakalā Hew Len, réconciliation hawaïenne",
+  "kw": "ho’oponopono, méditation ho’oponopono, ho’oponopono signification, pardon merci je t’aime, quatre phrases du ho’oponopono, ho’oponopono danger, ho’oponopono mantra, ho’oponopono prière du soir, ho’oponopono enfant intérieur, méditation du pardon, méditation pour se pardonner, méditation lâcher-prise, Morrnah Simeona, Ihaleakalā Hew Len, réconciliation hawaïenne",
   "group": "psy",
   "photo": {
    "src": "en/breathing-exercises-to-calm-down.webp",
@@ -3430,6 +3441,10 @@
   "schemas": [],
   "insert": null,
   "faq": [
+   [
+    "Quelle est la signification du ho’oponopono ?",
+    "Le mot vient de l’hawaïen pono, « juste, à sa place » ; ho’oponopono veut donc dire « remettre en ordre ». À l’origine, il désigne une réunion de famille pour réparer une relation abîmée. Aujourd’hui, on l’emploie surtout pour la répétition de quatre phrases : je suis désolé, pardonne-moi, merci, je t’aime."
+   ],
    [
     "Faut-il dire les phrases du ho’oponopono à voix haute ?",
     "Non. Dans la séance, tu les dis intérieurement, au rythme du souffle. À voix basse ou en pensée, l’essentiel est de les dire lentement, sans réciter."
@@ -3456,8 +3471,8 @@
    "slug": "ho-oponopono-meaning-hawaiian-roots",
    "title": "Ho’oponopono: From Hawaiian Family Gatherings to Four Simple Phrases",
    "seo_title": "Ho’oponopono Meaning: Hawaiian Roots and the 4 Phrases",
-   "desc": "Ho’oponopono meaning, from Hawaiian family councils to four phrases. Learn who shaped it and try a free ho’oponopono meditation, no account needed.",
-   "kw": "ho’oponopono, ho’oponopono meaning, ho’oponopono meditation, ho’oponopono four phrases, I’m sorry please forgive me thank you I love you, Morrnah Simeona, Ihaleakalā Hew Len, Hawaiian reconciliation practice",
+   "desc": "Ho’oponopono meaning and prayer: from Hawaiian family councils to four simple phrases. Who shaped it, and a free ho’oponopono meditation, no account needed.",
+   "kw": "ho’oponopono, ho’oponopono prayer, ho’oponopono meaning, ho’oponopono meditation, ho’oponopono mantra, ho’oponopono book, ho’oponopono technique, ho’oponopono practice, I’m sorry please forgive me thank you I love you, Morrnah Simeona, Ihaleakalā Hew Len, forgiveness meditation",
    "photo": {
     "src": "es/yoga-nidra-beneficios-sueno.webp",
     "src_s": "es/yoga-nidra-beneficios-sueno-640.webp",
@@ -3469,6 +3484,10 @@
    "insert": null,
    "faq": [
     [
+     "Is there a ho’oponopono prayer?",
+     "Yes, in two senses. Many people call the four phrases the ho’oponopono prayer. Morrnah Simeona’s method also uses a longer prayer addressed to the Divine, which asks forgiveness on behalf of yourself, your family and your ancestors, and asks that negative memories be released. The Heart-Centered Ho’oponopono session works with the four phrases."
+    ],
+    [
      "Do you have to say the ho’oponopono phrases out loud?",
      "No. In the session, you say them silently, in rhythm with your breath. Whispered or silent, what matters is saying them slowly, not reciting them."
     ],
@@ -3479,6 +3498,10 @@
     [
      "Do you need to be religious to practice ho’oponopono?",
      "No. Morrnah Simeona’s method addresses the Divine, but the four-phrase version asks for no belief at all. You can approach it as an exercise in attention: say a phrase, then notice what happens inside you."
+    ],
+    [
+     "Which ho’oponopono book should you read first?",
+     "It depends on what you’re looking for. For the Hawaiian family tradition, Nānā i ke Kumu (1972) and Victoria Shook’s book (1985) describe the traditional process. Zero Limits (2007), by Joe Vitale and Ihaleakalā Hew Len, made the four phrases famous, but it presents a modern, personal version of the practice."
     ]
    ],
    "sources": [
@@ -3487,7 +3510,8 @@
     "Shook E. V. — <em>Hoʻoponopono: Contemporary Uses of a Hawaiian Problem-Solving Process</em>, East-West Center and University of Hawaiʻi Press, 1985.",
     "Self I-Dentity through Hoʻoponopono — “In Memory of Dr. Hew Len”: Ihaleakalā Hew Len’s path with Morrnah Simeona. (<a href=\"https://www.self-i-dentity-through-hooponopono.com/in-memory-of-dr-hew-len/\" target=\"_blank\" rel=\"noopener nofollow\">organization website</a>)",
     "Vitale J., Hew Len I. — <em>Zero Limits</em>, John Wiley &amp; Sons, 2007: the book that made the four phrases widely known."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p38"
@@ -3496,8 +3520,8 @@
    "slug": "que-es-el-ho-oponopono-origen-frases",
    "title": "¿Qué es el ho’oponopono? Guía en español de la práctica hawaiana del perdón",
    "seo_title": "Ho’oponopono: qué es, de dónde viene y sus cuatro frases",
-   "desc": "Qué es el ho’oponopono, de dónde viene y qué significa cada una de sus frases. Con una meditación ho’oponopono guiada en español, gratis y sin anuncios.",
-   "kw": "ho’oponopono, qué es el ho’oponopono, meditación ho’oponopono, ho’oponopono qué es, perdón te amo gracias, las cuatro frases del ho’oponopono, Morrnah Simeona, Ihaleakalā Hew Len, práctica hawaiana del perdón",
+   "desc": "Qué es el ho’oponopono, de dónde viene y qué significan sus frases: lo siento, perdón, te amo, gracias. Con una meditación ho’oponopono guiada y gratis.",
+   "kw": "ho’oponopono, perdón te amo gracias, qué es el ho’oponopono, para qué sirve el ho’oponopono, meditación ho’oponopono, las cuatro frases del ho’oponopono, ho’oponopono para soltar, meditación del perdón, Morrnah Simeona, Ihaleakalā Hew Len, Cero límites, práctica hawaiana del perdón",
    "photo": {
     "src": "en/breathing-exercises-to-calm-down.webp",
     "src_s": "en/breathing-exercises-to-calm-down-640.webp",
@@ -3519,6 +3543,14 @@
     [
      "¿Hace falta creer en algo para practicar el ho’oponopono?",
      "No. El método de Morrnah Simeona se dirige a lo Divino, pero la versión de las cuatro frases no pide ninguna creencia. Puedes vivirla como un ejercicio de atención: dices una frase y observas lo que pasa dentro de ti."
+    ],
+    [
+     "¿Para qué sirve el ho’oponopono?",
+     "En su origen hawaiano, servía para reparar un conflicto familiar y devolver a las relaciones su equilibrio. Hoy, las cuatro frases se usan sobre todo como un ejercicio interior de reconciliación: contigo, con otra persona o con una etapa de tu vida. No sirve para atraer dinero ni garantiza ningún resultado."
+    ],
+    [
+     "¿Se puede hacer ho’oponopono por otra persona?",
+     "Puedes dirigir mentalmente las frases a alguien; la sesión te lo propone, si quieres, con una persona con la que haya tensión. Pero lo que puede cambiar es tu manera de mirar esa relación: las frases dichas en silencio no llegan a la otra persona. Si hace falta reparar algo, a veces el paso justo es hablar con ella."
     ]
    ],
    "sources": [
@@ -3527,16 +3559,18 @@
     "Shook E. V. — <em>Hoʻoponopono: Contemporary Uses of a Hawaiian Problem-Solving Process</em>, East-West Center y University of Hawaiʻi Press, 1985.",
     "Self I-Dentity through Hoʻoponopono — «In Memory of Dr. Hew Len»: el camino de Ihaleakalā Hew Len junto a Morrnah Simeona. (<a href=\"https://www.self-i-dentity-through-hooponopono.com/in-memory-of-dr-hew-len/\" target=\"_blank\" rel=\"noopener nofollow\">web de la organización</a>)",
     "Vitale J., Hew Len I. — <em>Zero Limits</em>, John Wiley &amp; Sons, 2007: el libro que dio a conocer las cuatro frases."
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 79,
-  "slug": "vaincre-ses-peurs-exposition-progressive",
+  "slug": "comment-ne-plus-avoir-peur",
   "title": "Comment ne plus avoir peur ? Vaincre ses peurs par l’exposition douce, sans attendre d’être prêt",
-  "seo_title": "Comment ne plus avoir peur ? L’exposition progressive",
+  "seo_title": "Comment ne plus avoir peur ? Vaincre ses peurs pas à pas",
   "desc": "Comment ne plus avoir peur ? Attendre d’être prêt entretient souvent la peur. Vaincre ses peurs par l’exposition progressive, et quand se faire aider.",
-  "kw": "comment ne plus avoir peur, vaincre ses peurs, comment vaincre ses peurs, comment calmer la peur, gérer ses peurs, comment affronter ses peurs, comment se calmer quand on a peur, exposition progressive, affronter ses peurs, exposition douce",
+  "kw": "comment ne plus avoir peur, vaincre ses peurs, comment ne plus avoir peur de tout, comment ne plus avoir peur en avion, comment ne plus avoir peur de conduire, arrêter d’avoir peur, comment affronter ses peurs, comment calmer la peur, comment se calmer quand on a peur, gérer ses peurs, exposition progressive, exposition douce, la peur de l’échec, peur du jugement, peur du noir",
   "group": "psy",
   "photo": {
    "src": "fr/vaincre-ses-peurs-exposition-progressive.webp",
@@ -3563,6 +3597,10 @@
   ],
   "insert": null,
   "faq": [
+   [
+    "Comment ne plus avoir peur de tout ?",
+    "Quand la peur semble s’étendre à tout, ne cherchez pas à arrêter d’avoir peur d’un coup. Choisissez une seule situation, celle qui vous gêne le plus au quotidien, et construisez son échelle. Chaque petite réussite rend la suivante plus accessible. Si la peur envahit vos journées ou vous empêche de sortir, parlez-en à un professionnel."
+   ],
    [
     "Faut-il affronter ses peurs pour les vaincre ?",
     "Pour de nombreuses peurs et angoisses, l’exposition fait partie des méthodes les mieux établies, mais elle doit être adaptée à la situation et ne signifie pas se forcer brutalement à affronter immédiatement le niveau maximal de peur."
@@ -3595,8 +3633,8 @@
    "slug": "overcome-fear-gradual-exposure",
    "title": "How to Overcome Fear, One Small Step at a Time",
    "seo_title": "How to Overcome Fear: Gradual Exposure and a Fear Ladder",
-   "desc": "How to overcome fear without waiting to feel ready: climb a fear ladder step by step, accept some anxiety, and know when to see a professional.",
-   "kw": "how to overcome fear, how to overcome your fears, fear ladder, facing your fears, gradual exposure, overcome your fears, face your fears, graded exposure, inhibitory learning, safety behaviors",
+   "desc": "How to overcome fear, or get over a fear you’ve avoided for years: climb a fear ladder step by step, accept some anxiety, and know when to see a professional.",
+   "kw": "how to overcome fear, how to get over a fear, fear ladder, facing your fears, how to deal with fear, meditation for anxiety and fear, how to overcome fear of public speaking, gradual exposure, safety behaviors, inhibitory learning, fear of failure, how to stop being afraid",
    "photo": {
     "src": "en/overcoming-your-fears-through-gentle-exposure.webp",
     "src_s": "en/overcoming-your-fears-through-gentle-exposure-640.webp",
@@ -3636,7 +3674,8 @@
     "Craske M.G. et al. (2014) — <em>Maximizing Exposure Therapy: An Inhibitory Learning Approach</em>, <em>Behaviour Research and Therapy</em>, a major paper on contemporary models of exposure. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24864005/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Craske M.G. et al. (2008) — <em>Optimizing Inhibitory Learning During Exposure Therapy</em>, an analysis of learning mechanisms and of the limits of an account based solely on habituation. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/18005936/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Jacoby R.J., Abramowitz J.S. and the literature on safety behaviors and inhibitory learning in exposure therapy, summarized in particular in the critical review devoted to this topic. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27475477/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p24",
@@ -3647,7 +3686,7 @@
    "title": "Cómo vencer los miedos con exposición gradual: por qué esperar a no tener miedo suele alimentarlo",
    "seo_title": "Cómo vencer los miedos con una exposición gradual y suave",
    "desc": "¿Cómo vencer los miedos? Esperar a no tener miedo suele mantenerlo: la exposición gradual hace lo contrario. Conductas de seguridad y cuándo pedir ayuda.",
-   "kw": "cómo vencer los miedos, cómo perder el miedo, cómo superar el miedo, cómo vencer tus miedos, enfrentar tus miedos, superar el miedo, exposición gradual, conductas de seguridad, ansiedad y exposición",
+   "kw": "cómo vencer los miedos, exposición gradual, cómo superar el miedo, cómo perder el miedo, cómo quitar el miedo y la ansiedad, miedo a hablar en público, miedos irracionales, conductas de seguridad, enfrentar tus miedos, miedo al fracaso",
    "photo": {
     "src": "es/vencer-miedos-exposicion-gradual.webp",
     "src_s": "es/vencer-miedos-exposicion-gradual-640.webp",
@@ -3691,8 +3730,10 @@
     "Craske M.G. et al. (2014) — <em>Maximizing Exposure Therapy: An Inhibitory Learning Approach</em>, <em>Behaviour Research and Therapy</em>, artículo clave sobre los modelos actuales de la exposición. (⁠<a href=\"https://pubmed.ncbi.nlm.nih.gov/24864005/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Craske M.G. et al. (2008) — <em>Optimizing Inhibitory Learning During Exposure Therapy</em>, análisis de los mecanismos de aprendizaje y de los límites de una lectura basada exclusivamente en la habituación. (⁠<a href=\"https://pubmed.ncbi.nlm.nih.gov/18005936/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Jacoby R.J., Abramowitz J.S. y literatura sobre las conductas de seguridad y el aprendizaje inhibitorio en las terapias de exposición, sintetizada sobre todo en la revisión crítica dedicada a este tema. (⁠<a href=\"https://pubmed.ncbi.nlm.nih.gov/27475477/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 65,
@@ -3871,11 +3912,11 @@
  },
  {
   "num": 112,
-  "slug": "chamanisme-siberien-origine-mot-chamane",
+  "slug": "origine-du-chamanisme-mot-chamane",
   "title": "Origine du chamanisme : le mot « chamane » et le chamanisme sibérien",
   "seo_title": "Origine du chamanisme : le mot « chamane », né en Sibérie",
   "desc": "Origine du chamanisme : le mot chamane vient des Evenki de Sibérie. Appel, initiation, tambour et costume : plongez dans le chamanisme sibérien.",
-  "kw": "chamane, c’est quoi un chamane, chaman origine, origine du chamanisme, chamanisme sibérien, origine du mot chamane, chamane sibérien, chamane Evenki, tambour chamanique sibérien, transe chamanique",
+  "kw": "origine du chamanisme, chamanisme sibérien, c’est quoi un chamane, chaman origine, origine du mot chamane, chamane Evenki, histoire du chamanisme, chamane femme, tambour chamanique sibérien, chamanisme dans le monde, chamane ou chaman, axis mundi, chamanisme",
   "group": "chamanisme",
   "photo": {
    "src": "fr/chamanisme-siberien-origine-mot-chamane.webp",
@@ -3895,6 +3936,10 @@
   ],
   "insert": null,
   "faq": [
+   [
+    "Quelle est l’origine du chamanisme ?",
+    "Le mot vient de Sibérie, des langues toungouses comme l’evenki, et il est arrivé en Europe par le russe et les récits de voyage. La pratique, elle, n’a pas d’origine unique connue : on trouve des spécialistes rituels comparables dans de nombreuses cultures, et l’idée d’un chamanisme préhistorique commun reste une hypothèse."
+   ],
    [
     "Le mot chamane vient-il vraiment de Sibérie ?",
     "Oui. Il est généralement rattaché aux langues toungouses, en particulier à l’evenki, avant son adoption en russe puis dans d’autres langues européennes."
@@ -3931,8 +3976,8 @@
    "slug": "siberian-shamanism-origin-of-word-shaman",
    "title": "Siberian Shamanism: Where the Word “Shaman” Was Born",
    "seo_title": "Siberian Shamanism and the Origin of the Word Shaman",
-   "desc": "Siberian shamanism gave us the word shaman. What Siberian shamans actually did, the calling, the drum and costume, Soviet repression and today's revival.",
-   "kw": "Siberian shamanism, origin of the word shaman, where does the word shaman come from, Evenki shaman, Tungusic, shamanic drum, Buryat shamanism, Sakha shamanism, shaman etymology, Siberian spirituality",
+   "desc": "Siberian shamanism and the origin of the word shaman: what Siberian shamans did, the calling, the drum and costume, Soviet repression and today's revival.",
+   "kw": "Siberian shamanism, origin of the word shaman, where does the word shaman come from, what does a shaman do, how to become a shaman, shaman etymology, Siberian shamanism symbols, Siberian shamanism book, Siberian shamanism gods, Evenki shaman, history of shamanism, world tree, is shamanism still practiced",
    "photo": {
     "src": "en/siberian-shamanism-origin-of-word-shaman.webp",
     "src_s": "en/siberian-shamanism-origin-of-word-shaman-640.webp",
@@ -3958,24 +4003,33 @@
     [
      "Can you learn Siberian shamanism from books alone?",
      "You can study its history and symbols, but a living community tradition can't be reduced to a manual of techniques."
+    ],
+    [
+     "Are there gods in Siberian shamanism?",
+     "Not in one shared pantheon. Each people has its own invisible beings: masters of places and animals, ancestors, helping spirits and, sometimes, sky powers. Among the Buryats, for example, the sky, Tengri, holds a central place. Names, roles and rituals differ from one people to another."
+    ],
+    [
+     "Which book on Siberian shamanism should you read first?",
+     "For a clear, critical overview, Ronald Hutton's Shamans: Siberian Spirituality and the Western Imagination (2001) is a good start. Andrei Znamenski's Shamanism in Siberia (2003) gathers Russian records of Indigenous spirituality. Mircea Eliade's Shamanism is a classic, but read it alongside more recent work, as many of its generalizations are now debated."
     ]
    ],
    "sources": [
     "Ronald Hutton, Shamans: Siberian Spirituality and the Western Imagination, Hambledon & London, 2001",
     "Andrei A. Znamenski, Shamanism in Siberia: Russian Records of Indigenous Spirituality, Springer/Kluwer, 2003",
     "Mircea Eliade, Shamanism: Archaic Techniques of Ecstasy, Princeton University Press, English edition 1964."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p09",
    "p16"
   ],
   "es": {
-   "slug": "chamanismo-siberiano-origen-palabra-chaman",
+   "slug": "que-es-un-chaman-chamanismo-siberiano",
    "title": "¿Qué es un chamán? El chamanismo siberiano y el origen de la palabra «chamán»",
-   "seo_title": "¿Qué es un chamán y qué hace? El chamanismo siberiano",
-   "desc": "¿Qué es un chamán? La palabra, de origen evenki, viene del chamanismo siberiano. Su papel, la llamada, la iniciación y el tambor: una tradición diversa.",
-   "kw": "qué es un chamán, chamán, qué es un chamán y qué hace, qué es una chamana, qué hacen los chamanes, chamanismo siberiano, origen de la palabra chamán, qué significa chamán, chamán evenki, chamanes de Siberia",
+   "seo_title": "¿Qué es un chamán y qué significa? Su origen en Siberia",
+   "desc": "¿Qué es un chamán y qué significa la palabra? De origen evenki, viene del chamanismo siberiano. Su papel, la llamada y el tambor: una tradición diversa.",
+   "kw": "qué es un chamán, qué significa chamán, chamán, qué es un chamán y qué hace, qué hacen los chamanes, chamanismo siberiano, origen de la palabra chamán, qué es una chamana, tambor chamánico, chamán evenki",
    "photo": {
     "src": "es/chamanismo-siberiano-origen-palabra-chaman.webp",
     "src_s": "es/chamanismo-siberiano-origen-palabra-chaman-640.webp",
@@ -4018,14 +4072,20 @@
     [
      "¿Qué es una chamana?",
      "Es la forma femenina de chamán: una mujer que cumple ese papel ritual. Hay mujeres chamanas en muchas tradiciones, en Siberia y en otras regiones. En Corea, por ejemplo, la mayoría de quienes practican el chamanismo son mujeres."
+    ],
+    [
+     "¿Qué significa la palabra chamán?",
+     "Designa al especialista ritual que media entre los humanos y los espíritus: dirige ceremonias, practica la adivinación y acompaña a su comunidad en los momentos difíciles. La traducción popular «el que sabe» se repite a menudo, pero los lingüistas la discuten. Fuera de Siberia, la palabra se aplica hoy a figuras muy distintas."
     ]
    ],
    "sources": [
     "Ronald Hutton, Shamans: Siberian Spirituality and the Western Imagination, Hambledon & London, 2001",
     "Andrei A. Znamenski, Shamanism in Siberia: Russian Records of Indigenous Spirituality, Springer/Kluwer, 2003",
     "Mircea Eliade, Shamanism: Archaic Techniques of Ecstasy, Princeton University Press, edición inglesa de 1964."
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 10,
@@ -4492,10 +4552,10 @@
  {
   "num": 66,
   "slug": "annales-akashiques-consultation",
-  "title": "Akasha et annales akashiques : mode d’emploi prudent",
-  "seo_title": "Akasha : consulter les annales akashiques avec prudence",
-  "desc": "Akasha : les annales akashiques contiendraient tout. Origine du mot, absence de preuve et une consultation qui sépare réception et interprétation.",
-  "kw": "akasha, annales akashiques, akashic records, archives akashiques, mémoires akashiques, comment consulter les annales akashiques, accéder aux annales akashiques, consultation annales akashiques, lectures akashiques, akasha signification",
+  "title": "Annales akashiques, c’est quoi ? Origine du mot akasha et mode d’emploi prudent",
+  "seo_title": "Annales akashiques, c’est quoi ? Les consulter avec prudence",
+  "desc": "Annales akashiques, c’est quoi ? D’où vient le mot akasha, ce que dit la science, et comment consulter les annales akashiques avec prudence.",
+  "kw": "annales akashiques c’est quoi, consulter les annales akashiques, akasha, akashique, annales akashiques, archives akashiques, mémoire akashique c’est quoi, champ akashique, lectures akashiques, bibliothèque akashique, accéder aux annales akashiques, akasha signification, akashic records, registres akashiques, annales akashiques prière, annales akashiques danger",
   "group": "transe",
   "photo": {
    "src": "fr/annales-akashiques-consultation.webp",
@@ -4542,6 +4602,10 @@
     "Des auteurs contemporains comme Linda Howe proposent des méthodes personnelles utilisant prière, méditation et questions structurées."
    ],
    [
+    "Y a-t-il un danger à consulter les annales akashiques ?",
+    "La pratique elle-même consiste à méditer et à noter ce qui vient. Le risque tient à l’usage : prendre une impression pour une certitude, ou laisser une consultation trancher une question de santé, d’argent ou de couple. Gardez la règle de cet article : séparer ce que vous percevez de ce que vous en concluez. Et arrêtez si l’exercice vous angoisse."
+   ],
+   [
     "Peut-on prendre une décision médicale grâce aux annales ?",
     "Non. Une pratique spirituelle ne doit pas remplacer une évaluation médicale, psychologique, juridique ou financière appropriée."
    ],
@@ -4558,11 +4622,11 @@
   "publish_at": "2026-12-30T16:00",
   "published": null,
   "en": {
-   "slug": "akashic-records-reading-guide",
+   "slug": "how-to-access-the-akashic-records",
    "title": "How to Access the Akashic Records: A Cautious Guide",
    "seo_title": "How to Access the Akashic Records: A Careful Reading Guide",
-   "desc": "How to access the Akashic Records with care: where the idea comes from, what science says, and a personal Akashic reading with a journal and closing.",
-   "kw": "how to access the Akashic Records, Akashic reading, Akashic Records reading, Akashic Records meaning, what are the Akashic Records, Edgar Cayce Akashic Records, Akashic Records for beginners, how to read your own Akashic Records, are the Akashic Records real, how to open the Akashic Records",
+   "desc": "What are the Akashic Records, and how do you access them with care? Where the idea comes from, what science says, and a personal reading, step by step.",
+   "kw": "how to access the Akashic Records, what are the Akashic Records, Akashic Records reading, Akashic Records meaning, are the Akashic Records real, Akashic Records dangerous, access your Akashic Records, Edgar Cayce Akashic Records, how to open the Akashic Records, how to read your own Akashic Records, Akashic Records questions to ask, Akashic Records for beginners, how to access the Akashic Records at home, meditation to access Akashic Records, Akashic Records, Akashic library",
    "photo": {
     "src": "en/akashic-records-reading-guide.webp",
     "src_s": "en/akashic-records-reading-guide-640.webp",
@@ -4601,6 +4665,10 @@
      "Contemporary authors such as Linda Howe offer personal methods involving prayer, meditation, and structured questions."
     ],
     [
+     "How Do You Access the Akashic Records at Home?",
+     "No special place is needed. To access your Akashic Records in a simple, personal way, choose a quiet room and fifteen undisturbed minutes. Sit down, breathe slowly, say your opening phrase, then ask one open question about yourself. Write down what comes, even if it is nothing, and close with a short phrase before returning to your day."
+    ],
+    [
      "Can You Make a Medical Decision Based on the Akashic Records?",
      "No. A spiritual practice should not replace appropriate medical, psychological, legal, or financial assessment."
     ],
@@ -4613,7 +4681,8 @@
     "Helena Blavatsky — <em>The Secret Doctrine</em>, an important source in the history of Theosophy and modern Western concepts of akasha.",
     "Edgar Cayce — readings and archives associated with Cayce, a major figure in the twentieth-century Western popularization of the concept of the Akashic Records.",
     "Linda Howe — <em>How to Read the Akashic Records: Accessing the Archive of the Soul and Its Journey</em>, 2009; revised edition, 2026."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p26",
@@ -4621,10 +4690,10 @@
   ],
   "es": {
    "slug": "registros-akashicos-como-consultarlos",
-   "title": "Cómo abrir los registros akáshicos paso a paso, sin perder el espíritu crítico",
-   "seo_title": "Cómo abrir los registros akáshicos: una lectura prudente",
-   "desc": "Cómo abrir los registros akáshicos con prudencia: origen de la palabra akasha, qué dice la ciencia y cómo separar lo que recibes de lo que interpretas.",
-   "kw": "cómo abrir los registros akáshicos, akasha, qué son los registros akáshicos, lectura de registros akáshicos, registros akáshicos cómo se hace, cómo leer los registros akáshicos, apertura de registros akáshicos, para qué sirven los registros akáshicos, registros akáshicos son reales, registros akáshicos",
+   "title": "Qué son los registros akáshicos y cómo abrirlos paso a paso, sin perder el espíritu crítico",
+   "seo_title": "¿Qué son los registros akáshicos? Cómo abrirlos paso a paso",
+   "desc": "¿Qué son los registros akáshicos y cómo abrirlos? El origen de la palabra akasha, qué dice la ciencia y cómo separar lo que recibes de lo que interpretas.",
+   "kw": "qué son los registros akáshicos, cómo abrir los registros akáshicos, registros akáshicos, para qué sirven los registros akáshicos, cómo leer los registros akáshicos, lectura de registros akáshicos, oración para abrir los registros akáshicos, qué preguntas hacer en los registros akáshicos, meditación para abrir los registros akáshicos, registros akáshicos son reales, akasha",
    "photo": {
     "src": "es/registros-akashicos-como-consultarlos.webp",
     "src_s": "es/registros-akashicos-como-consultarlos-640.webp",
@@ -4670,22 +4739,28 @@
     [
      "¿Los registros akáshicos son reales?",
      "Para quienes los practican, son una realidad espiritual. La ciencia, en cambio, no tiene ninguna prueba de que exista un archivo así fuera del cerebro. Puedes usarlos como práctica de introspección sin cerrar esa pregunta."
+    ],
+    [
+     "¿Qué preguntas hacer en los registros akáshicos?",
+     "Preguntas abiertas que tengan que ver contigo, como «¿Qué actitud me ayudaría en esta situación?» o «¿Qué necesito comprender de este momento?». Evita las que tratan de la vida de otras personas, las que esperan un simple sí o no y las que tocan la salud, el dinero o asuntos legales. Plantea tu pregunta una sola vez y espera."
     ]
    ],
    "sources": [
     "Blavatsky H.P. — <em>The Secret Doctrine</em>, fuente importante en la historia de la teosofía y de las concepciones occidentales modernas del akasha.",
     "Cayce E. — lecturas y archivos asociados a Edgar Cayce, figura clave de la popularización occidental del concepto de Akashic Records en el siglo XX.",
     "Howe L. — <em>How to Read the Akashic Records: Accessing the Archive of the Soul and Its Journey</em>, 2009; edición revisada 2026."
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 114,
   "slug": "chamanisme-celtique-druides-awen-autre-monde",
   "title": "Awen et chamanisme celtique : druides et Autre Monde, entre traditions anciennes et reconstruction moderne",
   "seo_title": "Chamanisme celtique : druides, awen et Autre Monde",
-  "desc": "Awen, druides, Annwn : le chamanisme celtique antique est une hypothèse moderne. Ce que disent les sources, et ce que la reconstruction ajoute.",
-  "kw": "chamanisme celtique, druide chamane, awen, Autre Monde celtique, Annwn, druidisme ancien, mythologie celtique, spiritualité celtique, religion celtique, awenyddion",
+  "desc": "Chamanisme celtique : qui étaient les druides, que sont l’awen et l’Autre Monde ? Ce que disent les sources, et ce que la reconstruction moderne ajoute.",
+  "kw": "chamanisme celtique, qui étaient les druides, druide chamane, awen, awenyddion, Autre Monde celtique, Annwn, mythologie celtique, religion celtique, spiritualité celtique, chamanisme moderne, formation chamanisme celtique, chamanisme celtique livre, chamanisme celtique Bretagne, origine du chamanisme, méditation chamanique",
   "group": "chamanisme",
   "photo": {
    "src": "fr/chamanisme-celtique-druides-awen-autre-monde.webp",
@@ -4732,9 +4807,9 @@
   "en": {
    "slug": "celtic-shamanism-druids-awen-otherworld",
    "title": "Who Were the Druids? Celtic Shamanism, Awen and the Otherworld",
-   "seo_title": "Who Were the Druids? What We Know About Celtic Shamanism",
+   "seo_title": "Celtic Shamanism: Who Were the Druids, and What Is Awen?",
    "desc": "Who were the druids, and is Celtic shamanism real? What history says about awen, the awenyddion and the Otherworld, and how to practice without fake lineages.",
-   "kw": "Celtic shamanism, druids, awen meaning, who were the druids, awen, awenyddion, Celtic Otherworld, Annwn, neo-druidry, Celtic spirituality",
+   "kw": "Celtic shamanism, who were the druids, what is Celtic shamanism, Celtic shamanism vs druidism, neo-shamanism, awen meaning, Celtic spirituality, Celtic Otherworld, awenyddion, Annwn, neo-druidry, were the druids shamans, history of shamanism",
    "photo": {
     "src": "en/celtic-shamanism-druids-awen-otherworld.webp",
     "src_s": "en/celtic-shamanism-druids-awen-otherworld-640.webp",
@@ -4746,8 +4821,16 @@
    "insert": null,
    "faq": [
     [
+     "What is Celtic shamanism?",
+     "Mostly a modern spiritual practice. It combines motifs from Celtic myths, such as the awen, the Otherworld and shapeshifting, with techniques borrowed from shamanism elsewhere, like drum journeys and helping spirits. No ancient source describes it as a single tradition, so honest teachers present it as inspiration rather than inheritance."
+    ],
+    [
      "Were the druids shamans?",
      "We don’t have enough historical evidence to say so. Modern comparisons rest mainly on similarities in roles and motifs."
+    ],
+    [
+     "Celtic shamanism vs druidism: what is the difference?",
+     "Today, druidism, or Druidry, usually means a modern spiritual movement that took shape from the eighteenth century onward, inspired by the ancient druids. Celtic shamanism is a more recent label that adds shamanic models to Celtic material. Some people practice both, and some druid orders discuss the comparison openly."
     ],
     [
      "What is awen?",
@@ -4766,7 +4849,8 @@
     "Ronald Hutton, Blood and Mistletoe: The History of the Druids in Britain, Yale University Press, 2009",
     "Barry Cunliffe, Druids: A Very Short Introduction, Oxford University Press, 2010",
     "Gerald of Wales, The Journey Through Wales / Descriptio Cambriae, late 12th century, especially the passage on the awenyddion."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p30",
@@ -4774,10 +4858,10 @@
   ],
   "es": {
    "slug": "chamanismo-celta-druidas-awen",
-   "title": "Awen, druidas y el Otro Mundo: el chamanismo celta entre tradición antigua y reconstrucción moderna",
-   "seo_title": "Awen, druidas y el Otro Mundo: el chamanismo celta",
-   "desc": "El awen, los awenyddion, los druidas y Annwn: ¿existió un chamanismo celta? Lo que dicen las fuentes y cómo practicar hoy sin inventarte un linaje.",
-   "kw": "chamanismo celta, awen, mitología celta, qué es un druida, druidas, druida chamán, Otro Mundo celta, Annwn, espiritualidad celta, neodruidismo",
+   "title": "Chamanismo celta: awen, druidas y el Otro Mundo, entre tradición antigua y reconstrucción moderna",
+   "seo_title": "Chamanismo celta: druidas, awen y lo que dicen las fuentes",
+   "desc": "¿Existió un chamanismo celta? Druidas, awen y Annwn: lo que dicen las fuentes y cómo vivir hoy una espiritualidad celta sin inventarte un linaje.",
+   "kw": "chamanismo celta, awen, druidas, qué es un druida, símbolo del awen, druidas en la actualidad, mitología celta, espiritualidad celta, Otro Mundo celta, Annwn, awenyddion, neodruidismo, religión celta",
    "photo": {
     "src": "es/chamanismo-celta-druidas-awen.webp",
     "src_s": "es/chamanismo-celta-druidas-awen-640.webp",
@@ -4811,22 +4895,28 @@
     [
      "¿Se puede practicar hoy un chamanismo celta?",
      "Sí, como práctica espiritual moderna inspirada en materiales celtas, siempre que no presentes las reconstrucciones actuales como técnicas antiguas documentadas."
+    ],
+    [
+     "¿Existen druidas en la actualidad?",
+     "Sí. Hoy existen grupos neodruidas en muchos países, como la Order of Bards, Ovates & Druids, fundada en Inglaterra en 1964. Celebran las fiestas de las estaciones, meditan, escriben poesía y se inspiran en la mitología celta. Son tradiciones modernas, no una herencia ininterrumpida de los druidas antiguos."
     ]
    ],
    "sources": [
     "Ronald Hutton, Blood and Mistletoe: The History of the Druids in Britain, Yale University Press, 2009",
     "Barry Cunliffe, Druids: A Very Short Introduction, Oxford University Press, 2010",
     "Gerald of Wales, The Journey Through Wales / Descriptio Cambriae, finales del siglo XII, en especial el pasaje dedicado a los awenyddion."
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 19,
-  "slug": "exercice-gratitude-3-lignes",
+  "slug": "pratiquer-la-gratitude-en-3-lignes",
   "title": "Pratiquer la gratitude en 3 lignes : l’exercice qui peut changer votre humeur",
-  "seo_title": "Pratiquer la gratitude : 3 lignes pour changer d’humeur",
-  "desc": "Trois bonnes choses le soir, et pourquoi elles ont compté : l’exercice le plus simple pour pratiquer la gratitude. Protocole, erreurs, rituel de 2 minutes.",
-  "kw": "pratiquer la gratitude, exercice de gratitude, bienfaits de la gratitude, cultiver la gratitude, exemple de gratitude quotidienne, gratitude psychologie positive, rituel de gratitude, journal de gratitude, exercice trois bonnes choses, three good things",
+  "seo_title": "Pratiquer la gratitude : un exercice de 3 lignes chaque soir",
+  "desc": "Pratiquer la gratitude en 3 lignes : trois bonnes choses le soir, et pourquoi elles ont compté. L’exercice de gratitude, ses erreurs, son rituel de 2 minutes.",
+  "kw": "pratiquer la gratitude, exercice de gratitude, pourquoi pratiquer la gratitude, comment pratiquer la gratitude au quotidien, gratitude, journal de gratitude, méditation de gratitude, bienfaits de la gratitude, rituel de gratitude, exemple de gratitude quotidienne, gratitude psychologie positive, cultiver la gratitude, exercice des trois bonnes choses, three good things",
   "group": "bases",
   "photo": {
    "src": "fr/exercice-gratitude-3-lignes.webp",
@@ -4854,6 +4944,14 @@
   "insert": null,
   "faq": [
    [
+    "Pourquoi pratiquer la gratitude ?",
+    "Parce que l’attention retient plus facilement ce qui va mal. Noter aussi ce qui s’est bien passé rééquilibre le récit de la journée, sans nier les difficultés. Les études observent de petits effets sur l’humeur et le bien-être, variables d’une personne à l’autre : un exercice modeste, pas une solution miracle."
+   ],
+   [
+    "Comment pratiquer la gratitude au quotidien ?",
+    "En l’attachant à un moment fixe : le soir, avant de dormir, écrivez trois bonnes choses et pourquoi elles ont compté. Dans la journée, vous pouvez simplement remarquer un détail agréable et le nommer intérieurement. Deux minutes suffisent ; la régularité compte davantage que la longueur."
+   ],
+   [
     "Quand écrire son journal de gratitude ?",
     "Le soir est particulièrement pratique parce qu’il permet de parcourir mentalement la journée, mais le meilleur moment reste celui que vous pouvez maintenir régulièrement."
    ],
@@ -4878,11 +4976,11 @@
   "publish_at": "2027-01-06T16:00",
   "published": null,
   "en": {
-   "slug": "three-good-things-gratitude-exercise",
+   "slug": "daily-gratitude-practice-three-good-things",
    "title": "Daily Gratitude Practice: The 3-Line Exercise That Can Reshape Your Mood",
    "seo_title": "Daily Gratitude Practice: Three Good Things in 2 Minutes",
    "desc": "The Three Good Things exercise is a two-minute daily gratitude practice, done each evening. The protocol, what research shows and the mistakes to avoid.",
-   "kw": "daily gratitude, gratitude practice, gratitude ritual, gratitude mindfulness exercise, three good things, daily gratitude practice, gratitude journal, three good things exercise, evening gratitude practice, gratitude exercise",
+   "kw": "gratitude practice, daily gratitude, gratitude exercise, gratitude ritual, daily gratitude prompts, gratitude mindfulness exercise, evening gratitude practice, Three Good Things positive psychology, how to do daily gratitude practice, daily gratitude examples, daily gratitude practice benefits, Three Good Things exercise, gratitude meditation, gratitude journal",
    "photo": {
     "src": "en/gratitude-the-3-line-exercise-that-can-reshape.webp",
     "src_s": "en/gratitude-the-3-line-exercise-that-can-reshape-640.webp",
@@ -4916,13 +5014,18 @@
     [
      "How long should you practice?",
      "Try three weeks. That’s enough to see whether the exercise influences your attention, your mood or the way you look back on your days."
+    ],
+    [
+     "Can you keep a gratitude practice without writing?",
+     "Yes. You can say your three good things out loud, go over them on the way home or share them at dinner. Writing simply makes the exercise more precise and lets you reread it later. The essential part stays the same: for each good thing, ask why it mattered."
     ]
    ],
    "sources": [
     "Emmons R.A., McCullough M.E. — foundational research on gratitude and well-being, notably <em>Counting Blessings Versus Burdens</em>.",
     "Gold K.J. et al. (2023) — <em>Three Good Things Digital Intervention Among Health Care Workers: A Randomized Controlled Trial</em>, Annals of Family Medicine. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/37217328/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Randomized study of gratitude interventions among college students, <em>Journal of American College Health</em> (2022). (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35623017/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p53",
@@ -4931,9 +5034,9 @@
   "es": {
    "slug": "ejercicio-de-gratitud-tres-cosas-buenas",
    "title": "Ejercicio de gratitud: las 3 líneas que pueden cambiarte el ánimo",
-   "seo_title": "Ejercicio de gratitud: 3 líneas para mejorar tu ánimo",
-   "desc": "Un ejercicio de gratitud cada noche: tres cosas buenas y su porqué. El método exacto, los tres errores que lo vuelven una carga y un ritual de 2 minutos.",
-   "kw": "ejercicio de gratitud, qué es la gratitud, diario de gratitud, practicar la gratitud, tres cosas buenas, three good things, beneficios de la gratitud, cómo practicar la gratitud, gratitud antes de dormir, gratitud psicología positiva",
+   "seo_title": "Ejercicio de gratitud: 3 líneas cada noche, paso a paso",
+   "desc": "Un ejercicio de gratitud antes de dormir: tres cosas buenas y su porqué. Qué es la gratitud, cómo practicarla sin que pese y un ritual de 2 minutos.",
+   "kw": "ejercicio de gratitud, qué es la gratitud, cómo practicar la gratitud, ejercicio de gratitud antes de dormir, ejercicio de gratitud de la mañana, tres cosas buenas, three good things, diario de gratitud, meditación de gratitud, ritual de gratitud",
    "photo": {
     "src": "es/ejercicio-de-gratitud-tres-cosas-buenas.webp",
     "src_s": "es/ejercicio-de-gratitud-tres-cosas-buenas-640.webp",
@@ -4967,14 +5070,20 @@
     [
      "¿Durante cuánto tiempo hay que practicarlo?",
      "Prueba tres semanas. Es suficiente para ver si el ejercicio influye en tu atención, en tu estado de ánimo o en tu manera de repasar tus días."
+    ],
+    [
+     "¿Se puede hacer el ejercicio de gratitud por la mañana?",
+     "Sí. El ejercicio de gratitud de la mañana sigue la misma regla: tres cosas buenas de ayer y por qué importaron, o una cosa en la que quieras fijarte hoy. La noche permite repasar lo vivido; la mañana orienta la atención desde el principio. Si por la noche te cuesta, prueba unos días por la mañana."
     ]
    ],
    "sources": [
     "Emmons R.A., McCullough M.E. — trabajos fundacionales sobre gratitud y bienestar, en particular <em>Counting Blessings Versus Burdens</em>.",
     "Gold K.J. et al. (2023) — <em>Three Good Things Digital Intervention Among Health Care Workers: A Randomized Controlled Trial</em>, Annals of Family Medicine. (<a href=\"https://pubmed.ncbi.nlm.nih.gov/37217328/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)",
     "Estudio aleatorizado sobre intervenciones de gratitud en estudiantes, <em>Journal of American College Health</em> (2022). (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35623017/\" target=\"_blank\" rel=\"noopener nofollow\">PubMed</a>)"
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 85,
@@ -4982,7 +5091,7 @@
   "title": "Rêver d’un défunt : quand le rêve de visite semble « plus réel que les autres »",
   "seo_title": "Rêver d’un défunt : signification des rêves de visite",
   "desc": "Rêver d’un défunt ou d’une personne décédée paraît parfois plus réel qu’un autre rêve. Pourquoi, ce que cela apporte au deuil, et quand se faire aider.",
-  "kw": "rêver d’un défunt, rêver d’une personne décédée, rêver d’un mort, rêver de sa mère décédée, rêver de son père décédé, rêver d’un défunt signification, rêve de visite, rêves de deuil, rêver d’un proche décédé, visitation dream",
+  "kw": "rêver d’un défunt, rêver d’une personne décédée, rêver d’un mort, rêver de sa mère décédée, rêver de son père décédé, rêver d’un défunt signification, rêver d’un défunt qui sourit, rêver d’un défunt qui pleure, rêver d’un défunt qui nous parle, rêver d’un proche décédé, rêve de visite, rêves de deuil, visitation dream",
   "group": "sommeil",
   "photo": {
    "src": "fr/rever-d-un-defunt-reve-de-visite.webp",
@@ -5034,8 +5143,8 @@
    "slug": "visitation-dreams-deceased-loved-ones",
    "title": "Visitation Dreams: Why Dreams About Deceased Loved Ones Feel So Real",
    "seo_title": "What Do Dreams About Deceased Loved Ones Really Mean?",
-   "desc": "Dreams about deceased loved ones can feel like real visits. What science says, how grief dreams can help, and how to welcome them without forcing an answer.",
-   "kw": "dreams about deceased loved ones, dreams about the dead, grief dreams, visitation dreams, dreaming of a deceased loved one, dreams of the deceased, continuing bonds, are visitation dreams real, dreaming about someone who passed away, bereavement",
+   "desc": "Dreams about deceased loved ones can feel like real visits. What visitation dreams mean, what science says, and how to welcome them without forcing an answer.",
+   "kw": "dreams about deceased loved ones, visitation dreams, dreaming of a deceased loved one, dreams of deceased relatives, dreams of the deceased, dreams about the dead, grief dreams, visitation dreams from deceased loved ones, what are visitation dreams, are visitation dreams real, dreams about deceased loved ones being alive, dreams about deceased loved ones talking to you, visitation dreams hug, visitation dreams psychology, continuing bonds",
    "photo": {
     "src": "en/visitation-dreams-when-someone-who-has-died-appears.webp",
     "src_s": "en/visitation-dreams-when-someone-who-has-died-appears-640.webp",
@@ -5082,7 +5191,8 @@
     "Klass D., Silverman P.R., Nickman S.L. — <em>Continuing Bonds: New Understandings of Grief</em>, a major work that helped renew our understanding of maintaining bonds with people who have died.",
     "Black J. et al. — qualitative studies on dreams of the deceased and their subjective role in grief.",
     "Kübler-Ross E., Kessler D. — historical and clinical reference works on the experience of grief, to be complemented by contemporary models that place more emphasis on the diversity of grief trajectories."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p50",
@@ -5091,9 +5201,9 @@
   "es": {
    "slug": "sonar-con-un-difunto-suenos-de-visita",
    "title": "Significado de soñar con un difunto: cuando un ser querido aparece de noche y el sueño parece «más real que los demás»",
-   "seo_title": "Significado de soñar con un difunto: sueños de visita",
-   "desc": "Significado de soñar con un difunto: tras una pérdida, el sueño puede parecer muy real. Por qué ocurre, cómo acompaña el duelo y cuándo buscar apoyo.",
-   "kw": "soñar con un difunto, qué significa soñar con un familiar fallecido, soñar con muertos, soñar con un familiar fallecido, soñar con mi madre fallecida, soñar con mi padre fallecido, sueños con muertos, significado de soñar con un difunto, sueños de visita, duelo y sueños",
+   "seo_title": "Soñar con un difunto o un familiar fallecido: qué significa",
+   "desc": "Soñar con un difunto o con un familiar fallecido puede parecer muy real. Qué significa, cómo acompaña el duelo y cuándo conviene buscar apoyo.",
+   "kw": "soñar con un difunto, soñar con un familiar fallecido, significado de soñar con un difunto, soñar con muertos, sueños de visita, soñar con mi madre fallecida, soñar con mi padre fallecido, soñar con un difunto que te habla, soñar con un difunto que está vivo, duelo y sueños",
    "photo": {
     "src": "es/sonar-con-un-difunto-suenos-de-visita.webp",
     "src_s": "es/sonar-con-un-difunto-suenos-de-visita-640.webp",
@@ -5131,14 +5241,24 @@
     [
      "¿Es normal soñar con mi padre fallecido tan a menudo?",
      "Sí, puede pasar, sobre todo en los meses que siguen a la pérdida. La memoria y el apego siguen buscando a la persona que falta. Si esos sueños te angustian o te quitan el descanso durante mucho tiempo, no los guardes para ti. Hablarlo con alguien de confianza o con un profesional puede ayudarte."
+    ],
+    [
+     "¿Qué significa soñar con un difunto que te habla?",
+     "No hay un significado fijo. Para algunas personas es un mensaje; desde la psicología, esas palabras pueden repetir algo que la persona decía o lo que necesitabas oír, como «estoy bien». Anótalas tal como llegaron, antes de interpretarlas. Si sueñas con un difunto que te abraza, ocurre lo mismo: lo que cuenta es lo que sentiste al despertar."
+    ],
+    [
+     "¿Qué significa soñar con un difunto que está vivo?",
+     "Es un sueño frecuente tras una pérdida. La memoria y el apego no se reescriben de un día para otro: en el sueño, la persona sigue en su sitio de siempre, en la cocina o al teléfono. A veces, en el propio sueño, sabes que murió. Al despertar puede doler, pero suele reflejar una relación que sigue viva dentro de ti."
     ]
    ],
    "sources": [
     "Klass D., Silverman P.R., Nickman S.L. — <em>Continuing Bonds: New Understandings of Grief</em>, obra fundamental que contribuyó a renovar la comprensión del mantenimiento de los vínculos con las personas fallecidas.",
     "Black J. et al. — estudios cualitativos sobre los dreams of the deceased y su papel subjetivo en el duelo.",
     "Kübler-Ross E., Kessler D. — obras de referencia histórica y clínica sobre la experiencia del duelo, que conviene completar con los modelos contemporáneos, más atentos a la diversidad de trayectorias de duelo."
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 36,
@@ -7576,8 +7696,8 @@
   "slug": "se-souvenir-de-ses-reves",
   "title": "Comment se souvenir de ses rêves : le protocole des 90 secondes qui change tout au réveil",
   "seo_title": "Comment se souvenir de ses rêves : 90 secondes au réveil",
-  "desc": "Comment se souvenir de ses rêves ? Tout se joue dans les 90 secondes du réveil : ne pas bouger, saisir l’émotion, noter, puis tenir un journal de rêves.",
-  "kw": "comment se souvenir de ses rêves, pourquoi je ne me souviens pas de mes rêves, se souvenir de ses rêves, rappel des rêves, mémoire des rêves, journal de rêves, pourquoi j’oublie mes rêves, noter ses rêves, ne plus se souvenir de ses rêves, dream recall",
+  "desc": "Comment se souvenir de ses rêves ? Si vous vous demandez « pourquoi je ne me souviens pas de mes rêves », tout se joue dans les 90 secondes du réveil.",
+  "kw": "comment se souvenir de ses rêves, pourquoi je ne me souviens pas de mes rêves, ne plus se souvenir de ses rêves, pourquoi j’oublie mes rêves, rêve-t-on toutes les nuits, rappel des rêves, mémoire des rêves, journal de rêves, noter ses rêves, protocole des 90 secondes, signes de rêve, comment faire un rêve lucide, sommeil et rêves",
   "group": "sommeil",
   "photo": {
    "src": "fr/se-souvenir-de-ses-reves.webp",
@@ -7590,8 +7710,16 @@
   "insert": null,
   "faq": [
    [
+    "Rêve-t-on vraiment toutes les nuits ?",
+    "Très probablement, oui. Le sommeil paradoxal revient plusieurs fois au cours de la nuit, et l’on rêve aussi dans d’autres phases du sommeil. Le plus souvent, les personnes qui pensent ne jamais rêver ne s’en souviennent simplement pas au réveil : c’est exactement ce que le protocole des 90 secondes cherche à changer."
+   ],
+   [
     "Pourquoi j’oublie mes rêves immédiatement au réveil ?",
     "Parce que les souvenirs oniriques peuvent être fragiles et que le passage rapide vers les perceptions et préoccupations de la veille favorise l’oubli ; un réveil proche du rêve et une attention immédiate à celui-ci peuvent améliorer le rappel."
+   ],
+   [
+    "Est-ce normal de ne plus se souvenir de ses rêves ?",
+    "Oui : le rappel des rêves varie selon les périodes. Un sommeil plus profond ou plus régulier, moins de réveils nocturnes, un réveil brutal par l’alarme ou une attention tournée ailleurs suffisent à le faire baisser. Cela ne veut pas dire que vous ne rêvez plus. Le plus simple est de recommencer à noter vos rêves chaque matin, même en quelques mots."
    ],
    [
     "Le protocole des 90 secondes est-il scientifiquement exact ?",
@@ -7614,11 +7742,11 @@
   "publish_at": "2026-12-26T11:00",
   "published": null,
   "en": {
-   "slug": "dream-journal-remember-your-dreams",
+   "slug": "how-to-remember-your-dreams",
    "title": "How to Remember Your Dreams: A 90-Second Protocol and a Dream Journal",
    "seo_title": "How to Remember Your Dreams: The 90-Second Wake-Up Method",
-   "desc": "Think you never dream? How to remember your dreams with a simple 90-second wake-up routine and a dream journal that brings them back, night after night.",
-   "kw": "how to remember your dreams, dream recall, how to dream more often, why do i forget my dreams, why do we forget dreams, how to remember dreams, remember dreams better, forgetting dreams, dream signs",
+   "desc": "Why do I forget my dreams? How to remember your dreams with a 90-second wake-up routine and a simple dream journal, without sacrificing your sleep.",
+   "kw": "how to remember your dreams, why do I forget my dreams, dream recall, I never remember my dreams, dream journaling, how to remember dreams when you wake up, how to keep a dream journal, dream signs, how to dream more often, dream journal template, lucid dream journal, dream journal",
    "photo": {
     "src": "en/dream-journal-remember-your-dreams.webp",
     "src_s": "en/dream-journal-remember-your-dreams-640.webp",
@@ -7642,6 +7770,10 @@
      "Because dream memories can be fragile, and quickly shifting to the perceptions and concerns of waking life encourages forgetting; waking close to a dream and paying attention to it immediately can improve recall."
     ],
     [
+     "How Can You Remember Dreams When You Wake Up at Night?",
+     "Stay still for a few seconds and let the last image come back. Then jot down three or four keywords in a notebook by your bed, with the light off or very dim, and go back to sleep. Don’t try to write the whole story: in the morning, those few words are often enough to bring the rest back."
+    ],
+    [
      "Is the 90-Second Protocol Scientifically Exact?",
      "No. Here, 90 seconds is a practical framework for protecting the first moments after waking, not a proven biological limit beyond which every dream would disappear."
     ],
@@ -7662,7 +7794,8 @@
     "Siclari F. et al. — dream neuroscience research showing the relationships between brain activity, dream experience and dream reports on waking.",
     "Vallat R. et al. — research on individual differences in dream recall, nighttime awakenings and the associated brain processes.",
     "Schredl M. — reference research and books on dream recall, dream content and dream journals."
-   ]
+   ],
+   "modified": "2026-11-28"
   },
   "photos": [
    "p02",
@@ -7672,8 +7805,8 @@
    "slug": "como-recordar-tus-suenos",
    "title": "Cómo recordar los sueños: el protocolo de los 90 segundos que lo cambia todo al despertar",
    "seo_title": "Cómo recordar los sueños: el método de los 90 segundos",
-   "desc": "Cómo recordar los sueños en 90 segundos: no te muevas, atrapa la emoción y anota el sueño en tu diario antes de que la mañana se imponga.",
-   "kw": "cómo recordar los sueños, recordar tus sueños, por qué no recuerdo mis sueños, memoria de los sueños, diario de sueños, anotar los sueños, dream recall, sueños lúcidos, recordar los sueños al despertar, recordar sueños",
+   "desc": "Cómo recordar los sueños al despertar: 90 segundos sin moverte para atrapar la emoción y anotar. Y por qué no recuerdas tus sueños aunque sueñes como todos.",
+   "kw": "cómo recordar los sueños, por qué no recuerdo mis sueños, cómo recordar los sueños al despertar, por qué olvidamos los sueños, memoria de los sueños, anotar los sueños, sueños recurrentes, diario de sueños, sueños lúcidos, recordar sueños es bueno o malo",
    "photo": {
     "src": "es/como-recordar-tus-suenos.webp",
     "src_s": "es/como-recordar-tus-suenos-640.webp",
@@ -7699,14 +7832,20 @@
     [
      "¿Qué hago si de verdad no recuerdo ningún sueño?",
      "Sigue anotando incluso fragmentos o emociones muy pequeños, evita moverte nada más despertar y mantén la intención durante varias semanas; aun así, las diferencias individuales en el recuerdo siguen siendo importantes."
+    ],
+    [
+     "¿Recordar los sueños es bueno o malo?",
+     "Ni lo uno ni lo otro. Recordar muchos sueños suele indicar sobre todo que te despiertas brevemente durante la noche o que les prestas más atención. Recordar pocos tampoco es un problema. Lo importante es descansar bien: si tus sueños te inquietan a menudo o duermes mal, puedes comentarlo con un profesional."
     ]
    ],
    "sources": [
     "Siclari F. et al. — trabajos de neurociencia del sueño que muestran las relaciones entre la actividad cerebral, la experiencia onírica y los relatos de sueños al despertar.",
     "Vallat R. et al. — investigaciones sobre las diferencias individuales en el recuerdo de los sueños, los despertares nocturnos y los procesos cerebrales asociados.",
     "Schredl M. — trabajos y obras de referencia sobre el dream recall, el contenido de los sueños y los diarios de sueños."
-   ]
-  }
+   ],
+   "modified": "2026-11-28"
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 73,
@@ -8334,8 +8473,8 @@
   "slug": "sortie-de-corps-science",
   "title": "Sortie de corps : ce que la science sait vraiment des expériences hors du corps",
   "seo_title": "Sortie de corps : ce que la science en sait vraiment",
-  "desc": "Qu’est-ce qu’une sortie de corps, ou out-of-body experience ? Cerveau, sommeil, expériences en laboratoire : ce que les neurosciences en savent vraiment.",
-  "kw": "sortie de corps, out-of-body experience, expérience hors du corps, sortie de corps involontaire, voyage astral involontaire, projection astrale réel, projection astrale science, sortie de corps pendant le sommeil, décorporation, OBE",
+  "desc": "Qu’est-ce qu’une sortie de corps, ou expérience hors du corps ? Cerveau, sommeil, laboratoire : ce que la science en sait vraiment, et ce qu’elle ignore.",
+  "kw": "sortie de corps, expérience hors du corps, out-of-body experience, sortie de corps involontaire, voyage astral involontaire, sortie de corps pendant le sommeil, projection astrale science, projection astrale réel, décorporation, voyage astral, technique de projection astrale, rêve lucide ou voyage astral",
   "group": "astral",
   "photo": {
    "src": "fr/sortie-de-corps-science.webp",
@@ -8347,6 +8486,10 @@
   "schemas": [],
   "insert": null,
   "faq": [
+   [
+    "Qu’est-ce qu’une expérience hors du corps ?",
+    "C’est le sentiment d’être situé hors de son corps physique, et parfois de le voir d’en haut ou d’à côté. On dit aussi sortie de corps, ou out-of-body experience en anglais. Elle peut survenir spontanément, souvent autour du sommeil, ou être recherchée dans un cadre spirituel, sous le nom de projection astrale."
+   ],
    [
     "La science reconnaît-elle l’existence des sorties de corps ?",
     "Oui comme expérience subjective documentée. Elle ne confirme pas pour autant qu’une conscience quitte réellement le corps."
@@ -8378,7 +8521,8 @@
   "photos": [
    "p46",
    "p21"
-  ]
+  ],
+  "modified": "2026-11-28"
  },
  {
   "num": 16,
@@ -9020,8 +9164,8 @@
   "slug": "techniques-projection-astrale-corde-rouleau",
   "title": "Technique de projection astrale : la corde, le rouleau et les autres méthodes expliquées avec prudence",
   "seo_title": "Technique de projection astrale : la corde et le rouleau",
-  "desc": "La corde de Robert Bruce, le rouleau, « corps endormi, esprit éveillé » : chaque technique de projection astrale expliquée avec prudence.",
-  "kw": "technique de projection astrale, techniques voyage astral, technique de la corde, technique du rouleau, comment faire une projection astrale, projection astrale, sortie de corps volontaire, Robert Bruce projection astrale, Robert Monroe sortie de corps, rope technique astral projection",
+  "desc": "Chaque technique de projection astrale, expliquée avec prudence : la corde de Robert Bruce, le rouleau et les autres grandes techniques de voyage astral.",
+  "kw": "technique de projection astrale, techniques de voyage astral, technique de la corde, technique du rouleau, comment faire une projection astrale, sortie de corps volontaire, corps endormi esprit éveillé, astral projection, Robert Bruce projection astrale, Robert Monroe le voyage hors du corps, décorporation, voyage astral",
   "group": "astral",
   "photo": {
    "src": "fr/techniques-projection-astrale-corde-rouleau.webp",
@@ -9036,6 +9180,10 @@
    [
     "Quelle technique de projection astrale est la plus connue ?",
     "La technique de la corde de Robert Bruce, le rouleau associé à la littérature de Robert Monroe et les méthodes de flottement ou de maintien de conscience pendant l’endormissement sont parmi les plus populaires."
+   ],
+   [
+    "Comment faire une projection astrale quand on débute ?",
+    "Commencez simplement : allongé, relâchez le corps quelques minutes, puis essayez une seule technique, la corde par exemple, pendant dix à vingt minutes. Gardez une attitude curieuse, sans chercher à « sortir » à tout prix. Si rien ne se passe, c’est normal. Si un vertige ou une angoisse apparaît, revenez aux sensations du lit et arrêtez."
    ],
    [
     "La technique de la corde est-elle scientifiquement prouvée ?",
@@ -9140,7 +9288,8 @@
     "Blanke, «Multisensory brain mechanisms of bodily self-consciousness», Nature Reviews Neuroscience, 2012."
    ],
    "modified": "2026-11-27"
-  }
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 76,
@@ -9558,11 +9707,11 @@
  },
  {
   "num": 142,
-  "slug": "projection-astrale-ou-reve-lucide",
-  "title": "Rêve astral : projection astrale ou rêve lucide ? Comment les distinguer sans forcer la conclusion",
-  "seo_title": "Rêve astral, projection astrale ou rêve lucide : 5 tests",
-  "desc": "Rêve astral : projection astrale ou rêve lucide ? Les deux peuvent commencer au même endroit. Ce qui les distingue et cinq tests pour y voir clair.",
-  "kw": "rêve astral, rêve lucide ou voyage astral, projection astrale ou rêve lucide, différence rêve lucide projection astrale, rêve lucide et voyage astral, sortie de corps rêve lucide, rêve lucide, rêve conscient, rêve lucide science, astral projection vs lucid dreaming",
+  "slug": "reve-lucide-ou-voyage-astral",
+  "title": "Rêve astral : rêve lucide ou voyage astral ? Comment les distinguer sans forcer la conclusion",
+  "seo_title": "Rêve astral : rêve lucide ou voyage astral ? 5 questions",
+  "desc": "Rêve astral : rêve lucide ou voyage astral ? Les deux peuvent commencer au même endroit. Ce qui les distingue, et cinq questions pour y voir clair.",
+  "kw": "rêve lucide ou voyage astral, rêve astral, projection astrale ou rêve lucide, rêve lucide, voyage astral, comment faire un rêve lucide, comment faire un rêve astral, astral projection vs lucid dreaming, rêve lucide science, rêve lucide signification, sortie de corps rêve lucide",
   "group": "astral",
   "photo": {
    "src": "fr/projection-astrale-ou-reve-lucide.webp",
@@ -9574,6 +9723,10 @@
   "schemas": [],
   "insert": null,
   "faq": [
+   [
+    "Qu’est-ce qu’un rêve astral ?",
+    "Ce n’est pas un terme scientifique. On l’emploie pour un rêve vécu comme une sortie du corps : impression de flotter, de voir sa chambre ou de voyager ailleurs. Selon les cas, il s’agit plutôt d’un rêve lucide, d’une expérience hors du corps liée au sommeil, ou d’un mélange des deux. Les cinq questions de cet article aident à le classer."
+   ],
    [
     "Le rêve lucide est-il scientifiquement prouvé ?",
     "Oui. La lucidité pendant le sommeil a été confirmée en laboratoire notamment par des signaux oculaires volontaires convenus avant l’endormissement."
@@ -9681,7 +9834,8 @@
     "«Out-of-body experiences in relation to lucid dreaming and sleep paralysis: A theoretical review and conceptual model», 2024."
    ],
    "modified": "2026-11-27"
-  }
+  },
+  "modified": "2026-11-28"
  },
  {
   "num": 108,

@@ -141,7 +141,7 @@ def fmt_date(iso, lang):
     y, m, d = (int(x) for x in iso.split('-'))
     if lang == 'en':
         return f'{MONTHS["en"][m-1]} {d}, {y}'
-    return f'{d} de {MONTHS["es"][m-1]} de {y}' if lang == 'es' else f'{d} {MONTHS["fr"][m-1]} {y}'
+    return f'{d} de {MONTHS["es"][m-1]} de {y}' if lang == 'es' else f'{"1er" if d == 1 else d} {MONTHS["fr"][m-1]} {y}'   # 28-11 : « 1er février »
 
 CSS = """
 :root{--bg:#0A0A14;--ink:#F5E6C8;--muted:rgba(245,230,200,.72);--dim:rgba(245,230,200,.58);--gold:#D4AF6A;--line:rgba(255,255,255,.09);--surface:#151525;--radius:16px}
@@ -534,7 +534,7 @@ def render_article(a, lang, arts):
         '@context': 'https://schema.org',
         '@graph': [
             {'@type': 'Article', 'headline': a['title'][lang], 'description': a['desc'][lang],
-             'image': BASE + img, 'datePublished': a['published'], 'dateModified': a.get('modified', a['published']), 'inLanguage': lang,
+             'image': BASE + img, 'datePublished': a['published'], 'dateModified': max(a.get('modified') or a['published'], a['published']), 'inLanguage': lang,   # 28-11 : jamais avant la parution
              'keywords': a.get('kw', {}).get(lang, ''), 'articleSection': SECTION_LABEL[lang],
              'mainEntityOfPage': f'{BASE}/{lang}/blog/{a["slug"][lang]}.html',
              'author': {'@type': 'Organization', 'name': 'MeditaDream', 'url': BASE + (apropos_path(lang) or '/')},   # 27-11 : l'auteur renvoie à la page « À propos »
@@ -703,7 +703,7 @@ def render_sitemap(arts):
             continue
         pa = lambda y, a=a: f'/{y}/blog/{a["slug"][y]}.html'
         for x in LANGS:
-            urls.append(f'<url><loc>{BASE}{pa(x)}</loc><lastmod>{a.get("modified", a["published"])}</lastmod>{block(pa)}</url>')  # 23-10 : date de mise à jour
+            urls.append(f'<url><loc>{BASE}{pa(x)}</loc><lastmod>{max(a.get("modified") or a["published"], a["published"])}</lastmod>{block(pa)}</url>')  # 23-10 : date de mise à jour (28-11 : jamais avant la parution)
     urls += blog_fr.sitemap_urls(sys.modules[__name__], fr_seuls)
     urls += blog_hubs.sitemap_urls(sys.modules[__name__], HUB_ACT)
     urls += app_pages.sitemap_urls(sys.modules[__name__], APP_WRITTEN)

@@ -247,7 +247,7 @@ def render_article(bb, a0, arts, lang='fr'):
     img = f'/assets/blog/{a["photo"]["src"]}'
     ld = {'@context': 'https://schema.org', '@graph': [
         {'@type': 'BlogPosting', 'headline': a['title'][:110], 'description': a['desc'], 'image': ld_images(a, lang, BASE),
-         'datePublished': a['published'], 'dateModified': a.get('modified', a['published']), 'inLanguage': lang,
+         'datePublished': a['published'], 'dateModified': max(a.get('modified') or a['published'], a['published']), 'inLanguage': lang,   # 28-11 : jamais avant la parution (articles retouchés avant de paraître)
          'keywords': a.get('kw', ''), 'articleSection': GL.get(a['group'], 'Meditation'),
          'mainEntityOfPage': BASE + url, 'wordCount': bb.words(body),
          'author': ({'@type': 'Person', 'name': a0['invite']['auteur'], 'url': a0['invite']['site']} if a0.get('invite')
@@ -351,7 +351,7 @@ def sitemap_urls(bb, arts):
             v = V(a, lang)
             imgs = [v['photo']['src']] + [x['src'] for x in v.get('schemas') or []] + [photos_lib()[i]['src'] for i in v.get('photos') or [] if i in photos_lib()]
             im = ''.join(f'<image:image><image:loc>{bb.BASE}/assets/blog/{x}</image:loc></image:image>' for x in imgs if not x.startswith('http'))
-            urls.append(f'<url><loc>{u}</loc><lastmod>{a.get("modified", a["published"])}</lastmod>{alts}{im}</url>')
+            urls.append(f'<url><loc>{u}</loc><lastmod>{max(a.get("modified") or a["published"], a["published"])}</lastmod>{alts}{im}</url>')
     return urls
 
 
